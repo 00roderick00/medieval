@@ -123,16 +123,36 @@ has superseded it.
   to origin main. Never force-push. Deprecate to /archive; never delete.
 
 ## 8. Voice and register (drafts only)
-- British English. Register: Tooze's Wages of Destruction / Judt's Postwar —
-  argument-driven narrative history, serious trade, not academic monograph
-  and not pop.
-- The text carries the argument; scholarly apparatus lives in endnotes
-  (author–date inline during drafting; conversion at assembly).
-- Set-pieces open where the outline specifies (Castillon leads the
-  introduction). Medieval material leads; the contemporary layer enters
-  through the mechanism, never bolted on. Bridge paragraphs flagged [BRIDGE]
-  — these are Roderick's to rewrite.
-- No bullet points in chapter prose. No "in this chapter we will."
+- The controlling style document is /voice.md ("Voice Component: Roderick B
+  Jones v2"). Read it in full before drafting any prose. Every draft is
+  written in that voice; this section only adapts it to this book.
+- Register: this book is Register A — the historian's essay — throughout.
+  Long balanced sentences carrying argument through subordinate clauses;
+  paragraphs as units of argument; eliminate alternatives before constructing
+  the positive case. Register B belongs to derived articles and op-eds, not
+  to chapters.
+- British English throughout (this is a UK-register book; the American-
+  spelling dial does not apply here).
+- Voice disciplines enforced per chapter: at most ONE coined concept, ONE
+  vivid metaphor, ONE aphoristic line. The book-level coinage (the artillery
+  state; the Tudor turn) is already spent — do not coin competitors to it;
+  chapter-level coinages must serve it. Track usage: if a draft contains two
+  baroque images, cut the weaker.
+- The incident → system → trajectory → response move maps onto chapter
+  architecture: the medieval episode is the incident, the mechanism is the
+  system, Part III carries trajectory and response. Do not force all four
+  beats into every chapter; the book distributes them.
+- Forward-leaning closes for every chapter — end by opening the next
+  chapter's question, never with a summary.
+- Chapter openings per voice.md: epigraph engaged, direct universal
+  observation, or straight into the incident. Never "in this chapter we will."
+- No bullets in chapter prose. No exclamation marks. Calibrated confidence:
+  hedge deliberately, land firm judgements flat, flag inference as inference.
+- The text carries the argument; apparatus lives in endnotes (author–date
+  inline during drafting; conversion at assembly).
+- Bridge paragraphs remain flagged [BRIDGE] for Roderick's rewrite — the
+  voice document reduces how much rewriting these need, but the analogy
+  joints stay his.
 
 ## 9. Boundaries
 - Work only inside this repository. Do not edit brief.md, outline.md, or this
