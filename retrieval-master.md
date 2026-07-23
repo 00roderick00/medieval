@@ -45,6 +45,28 @@ freely with page refs) · **PARSE** (open but needs a reading pass).
 | Zielonka, *Europe as Empire* | ch01, ch02, ch11 (EU as canonical authority) | LOW | PENDING |
 | British Journal of Psychiatry, Henry VI catatonia article (full text) | ch05 (clinical account; abstract already verified open) | LOW | PENDING |
 
+### Added from Batch 2 (ch03, ch04, ch07) — 2026-07-22
+
+| Work | Needed by | Priority | Status |
+|---|---|---|---|
+| Mallett, *Mercenaries and Their Masters* | ch04 (condotta anatomy — ferma/aspetto NOT FOUND openly; stabilisation thesis). The chapter's spine | **HIGH** | PENDING |
+| Harvey, *Jack Cade's Rebellion of 1450* | ch07 (pardon-roll composition percentages; the "Articles" text; aftermath). The chapter's spine | **HIGH** | PENDING |
+| Dollinger, *The German Hansa* | ch04 (Hansetag 1356 variants; Stralsund consent-clause wording; Bergen social regime) | **HIGH** | PENDING |
+| Lane, *Venice: A Maritime Republic*; Lane & Mueller, *Money and Banking in Medieval and Renaissance Venice*; Pezzolo (Monte) | ch04 (Arsenal output; Ten/Inquisitors procedure; Monte Vecchio/estimo/1262) | **HIGH** | PENDING |
+| McFarlane, "Bastard Feudalism" (*BIHR* 20, 1945) + *England in the Fifteenth Century* | ch03 (the affinity; exact 1945 text; inadequate-kingship thesis) | MED | PENDING |
+| Hicks, *Bastard Feudalism* (1995); McKelvie, *The Statutes of Livery* (2020) | ch03 (synthesis; statutory enforcement record 1390–1520) | MED | PENDING |
+| Zmora, *State and Nobility in Early Modern Germany*; Brunner, *'Land' and Lordship* | ch03/ch08 (feud-as-state-building; post-1495 persistence; right-to-feud doctrine) | MED | PENDING |
+| Caferro, *John Hawkwood* (2006) | ch04 (1380 condotta; Castagnaro; funeral) | MED | PENDING |
+| Mallett & Hale, *The Military Organization of a Renaissance State* | ch04 (Venetian domestication apparatus) | MED | PENDING |
+| Bohna, "Armed Force and Civic Legitimacy in Jack Cade's Revolt" (*EHR* 118, 2003) | ch07 (muster-structure mobilisation) | MED | PENDING |
+| Najemy, *A History of Florence 1200–1575* | ch07 (Ciompi absorbed-not-defeated framing; 1382–1434 regime) | MED | PENDING |
+| Blickle, *The Revolution of 1525*; Scott & Scribner, *The German Peasants' War* | ch07 (Bundschuh programmes; **the gated literature needed to source or replace the outline's "1460s–70s urban revolts"**) | MED | PENDING |
+| Norris & Inglehart, *Cultural Backlash* (CUP 2019) | ch07 (peer-reviewed cultural-backlash statement; open WP carries interim load) | MED | PENDING |
+| Kaufman, *The Jack Cade Rebellion of 1450: A Sourcebook* (2019) | ch07 (manifesto texts in modern edition) | LOW | PENDING |
+| Lubkin, *A Renaissance Court* (1994) | ch04 (Sforza accession ceremonial) | LOW | PENDING |
+| Chambers & Pullan, *Venice: A Documentary History* | ch04 (bocche di leone threshold rule) | LOW | PENDING |
+| Brady, Oberman & Tracy (eds.), *Handbook of European History 1400–1600* | ch07 (comparative frame) | LOW | PENDING |
+
 ## II. Open primaries needing a reading pass (no gate)
 
 | Item | Needed by | Status |
@@ -67,6 +89,11 @@ freely with page refs) · **PARSE** (open but needs a reading pass).
 | NATO annual defence-expenditure release (nato.int) | ch01 | "all 32 members at 2%" figure |
 | Britannica pages (Formigny; Castillon; Worms; Western Schism; Act of Supremacy; Battle of France; castle) | ch01/02/05/06 | fetch-blocked; confirm wording in browser before quotation |
 | OpenAI pages (GPT-2 1.5B release post; NTIA comment) | ch02 | fetch-blocked; confirm in browser |
+| defense.gov / ai.mil contract digests (Maven May 2024 + May 2025; CDAO frontier-AI 14 Jul 2025; IVAS novation; CCA; TITAN; NGC2) | ch03/ch04 | primary citation for the award facts (currently trade-press relays) |
+| ODNI post-FY2019 clearance report | ch03 | none publicly released — the staleness gap itself is the datum |
+| RFSP Collectif d'enquête (2019) gilets jaunes percentages; Dec 2018 concessions cost (~€8–10bn) | ch07 | Cairn/Reuters/Le Monde blocked — pin before citing |
+| Army Vantage award value; Inside Defense counter-UAS ceiling (~$1.9bn); "first software prime" superlative | ch03/ch04 | single-outlet or unverified — corroborate or omit |
+| Colantone & Stanig; Gidron & Hall; AfD east-German composition; Trump general-election composition studies | ch07 | named in literature, not verified this pass |
 
 ---
 
