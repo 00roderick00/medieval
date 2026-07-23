@@ -283,7 +283,69 @@ genuine sourced primary baselines and are the first candidates for promotion.**
 
 ---
 
-*Seeded from ch06/memo.md (2026-07-22); extended from ch01, ch02, and ch05
-memos (2026-07-22). To be extended by each subsequent chapter job.*
+---
+
+## Candidates from Ch. 3 (Bastard Feudalism, Inc.)
+
+Chapter 3's indicators track the *market for force and its finance* — who
+pays the armed (and force-adjacent) private sector, and whether any private
+actor develops an independent fiscal base. These have the best primary
+baselines yet found.
+
+**C3-1 — Contractor revenue-concentration index [strong; primary baseline
+IN HAND].**
+- *Measures:* government-revenue share of the flagship security/intelligence
+  contractors, from their own filings — the "state as paymaster" ratio.
+- *Ch. 3 finding:* Booz Allen 98%, CACI 95.7%, Leidos ~87% (verbatim 10-K
+  risk factors, FY2024–25); Palantir ~43–55%.
+- *Directional prediction:* stable-high concentration = the contractor
+  economy remains re-domesticable (Tudor-compatible); a broad *fall* in
+  concentration (contractors developing non-state revenue) = proto-
+  condottiere drift, thesis pressure.
+- *BASELINE:* **sourced and dated** (SEC 10-Ks). Ready for promotion as an
+  annual series. The single best-documented indicator in the running list.
+
+**C3-2 — Independent-fiscal-base emergence (the condottiere watch) [the
+falsifier's twin].**
+- *Measures:* whether any actor in the decisive-force supply chain combines
+  (a) force-relevant capability with (b) a majority-commercial revenue base
+  the state does not control.
+- *Ch. 3 finding:* the frontier labs are the only current instance (state
+  <1% of reported revenue), and the 2026 Anthropic–Pentagon blacklist is the
+  first observed test of the conjunction (survived on commercial base;
+  litigation ongoing — developing).
+- *Directional prediction:* labs absorbed into the paymaster pattern
+  (government share rising, conditions accepted) = Sforza-from-above
+  proceeding (thesis holds); labs consolidating conditional independence =
+  converges with C2-3 (Introduction failure condition 3).
+- *BASELINE: TO BE SOURCED* — requires disclosed government-revenue shares
+  for the labs (currently NOT FOUND; all revenue figures are reported
+  estimates). Merge with C2-3/C5-2 at assembly.
+
+**C3-3 — Licensing-monopoly assertion (retention instruments).**
+- *Measures:* the state's assertion of licence over private force-adjacent
+  service — clearance population and contractor share, ITAR/export-control
+  reach, FAR-vs-OTA drift.
+- *Ch. 3 finding:* 4.24M clearance-eligible (ODNI FY2019 — stale, flag);
+  contractors ~45% of in-access Top Secret; the CDAO's use of OTAs
+  *outside* the FAR is a countervailing datum (the state loosening its own
+  instrument to court the labs).
+- *Directional prediction:* tightening licence regimes = the 1504 move
+  (retaining under royal licence only); loosening (OTA drift, clearance
+  outsourcing) = the centre courting its magnates. Ambiguous alone; read
+  with C3-1/C3-2.
+- *BASELINE: TO BE SOURCED* — a post-FY2019 ODNI clearance report is the
+  gap (none publicly released; flag).
+
+*Consolidation note:* C3-1 is the first indicator with a verbatim primary
+baseline already in the repo's research record; promote early. C3-2 is the
+operational form of the "frontier-lab anomaly" and should be merged with
+C2-3 (platform independence) and C5-2 (subordination) into a single
+independence-vs-absorption axis at assembly.
+
+---
+
+*Seeded from ch06/memo.md (2026-07-22); extended from ch01, ch02, ch05, and
+ch03 memos (2026-07-22). To be extended by each subsequent chapter job.*
 
 STATUS: PENDING HUMAN REVIEW (running file)
