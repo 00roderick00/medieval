@@ -216,7 +216,74 @@ without-contest) at Appendix C assembly.
 
 ---
 
-*Seeded from ch06/memo.md (2026-07-22); extended from ch01/memo.md and
-ch02/memo.md (2026-07-22). To be extended by each subsequent chapter job.*
+---
+
+## Candidates from Ch. 5 (The Undermighty Kings)
+
+Chapter 5 diagnoses *hollow sovereignty* — a central authority that cannot
+execute — in two forms, territorial and functional. Its indicators are
+*state-capacity* measures: they track whether the modern state is recovering
+executive capacity (consolidation) or continuing to hollow (dispersal). These
+have unusually good primary baselines.
+
+**C5-1 — State execution-capacity index (functional hollow sovereignty)
+[strong, primary baseline available].**
+- *Measures:* the ability of a capable state to execute a core function it
+  nominally holds — decisive-capability procurement above all (the direct link
+  to the book's mechanism: a state that cannot build the stack cannot
+  consolidate).
+- *Ch. 5 finding:* GAO documents US weapon-system fielding times exceeding 12
+  years and shipbuilding delays of 12–36 months — functional hollow sovereignty
+  in the domain that matters most to Part III.
+- *Directional prediction:* recovering execution (compressing fielding times,
+  reshored munitions/foundry capacity) = the artillery-state response beginning;
+  continued hollowing = the state cannot consolidate and the thesis is
+  threatened at its root.
+- *BASELINE:* GAO Weapon Systems Annual Assessment (fielding-time series) — a
+  *sourced primary* baseline, ready for promotion once expressed as a trend.
+  Cross-ref C6-2 (public stack financing) and C6-1 (concentration ratio).
+
+**C5-2 — Over-mighty-subject subordination (the causal-direction indicator).**
+- *Measures:* whether the state can effectively discipline the over-mighty
+  subjects of the age (continental-scale platform/tech actors) — the modern
+  form of the crown re-subordinating the magnate.
+- *Ch. 5 finding:* over-mighty subjects precede undermighty kings; the modern
+  over-mighty subject is the platform (Bremmer "technopolar"; Carnegie
+  "billionaires rival states").
+- *Directional prediction:* rising effective subordination = the crown
+  recovering (Tudor turn; converges with Ch. 2's C2-1 nationalisation index);
+  platforms escaping discipline = the undermighty king persists (dispersal).
+- *BASELINE: TO BE SOURCED* — merge with C2-1 (nationalisation-of-function) and
+  C6-3 (capitulation-without-contest); this is the same axis from the
+  state-capacity side.
+
+**C5-3 — Territorial-control / interstitial-disorder extent.**
+- *Measures:* the extent of territory under alternative (non-state) governance —
+  the persistence of the neomedieval interstice the book predicts will *remain*
+  dispersed even as blocs consolidate.
+- *Ch. 5 finding:* Somalia/Libya/Lebanon as territorial hollow sovereignty;
+  "alternatively governed spaces" (RAND; Clunan & Trinkunas).
+- *Directional prediction:* the book predicts this **persists** in the
+  interstices regardless of bloc consolidation — so this is a *consistency*
+  check, not a falsifier (durable disorder in the gaps is expected). A sharp
+  *contraction* (states reabsorbing all such spaces) would actually be mild
+  evidence *against* the "durable disorder persists" claim.
+- *BASELINE: TO BE SOURCED* — Fragile States Index (composite ranking — flag);
+  territorial-control datasets (with the caveat that precise Al-Shabaab-control
+  figures are analyst estimates). Cross-ref C1-3 (grey economy).
+
+*Consolidation note (for Appendix C assembly):* the running list now has a clear
+spine. **One axis dominates** — decisive-capability concentration and the
+state's capacity to hold and wield it — measured from the mechanism side (C6-1,
+C6-2), the platform-contest side (C2-1, C2-3, C5-2), and the state-capacity side
+(C5-1). C6-3 (capitulation-without-contest) is the most *discriminating* single
+indicator. C1-3 and C5-3 track the *interstitial* residue (expected to persist).
+At assembly, dedupe to ~10–15 indicators around this spine; **C5-1 and C1-3 have
+genuine sourced primary baselines and are the first candidates for promotion.**
+
+---
+
+*Seeded from ch06/memo.md (2026-07-22); extended from ch01, ch02, and ch05
+memos (2026-07-22). To be extended by each subsequent chapter job.*
 
 STATUS: PENDING HUMAN REVIEW (running file)
