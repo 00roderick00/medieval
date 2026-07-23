@@ -97,7 +97,65 @@ analogue).**
 - Every baseline above remains unsourced by design; none may enter the finished
   Appendix C until dated and sourced (§9).
 
-*Seeded from ch06/memo.md, 2026-07-22. To be extended by each subsequent
-chapter job.*
+---
+
+## Candidates from Ch. 1 (The Return of the Middle Ages)
+
+Chapter 1 runs Cerny's characteristics against the present; several have solid
+*primary* baselines already located, which makes them the strongest candidates
+for promotion. The discriminating one (per the book's falsifiability) is the
+*direction of the exogenous-pressure variable*.
+
+**C1-1 — Exogenous-pressure / re-territorialisation index [strong, discriminating].**
+- *Measures:* the presence and intensity of exogenous territorialising pressure
+  (great-power competition; alliance defence-spending consolidation) — the
+  return of the trigger Cerny said was absent.
+- *Ch. 1 finding:* characteristic 2 is the weakest-fitting neomedieval
+  characteristic *because* the pressure is returning — which is the book's
+  predicted re-consolidation beginning, not a refutation.
+- *Directional prediction:* sustained rise in exogenous pressure + bloc defence
+  consolidation = the pendulum returning (thesis holds); a lapse back to
+  post-Cold-War absence = dispersal stable (thesis threatened).
+- *BASELINE: TO BE SOURCED* — NATO annual defence-expenditure release
+  (nato.int; the "all 32 at 2% GDP" figure needs primary confirmation);
+  SIPRI military-expenditure database. Overlaps C6-2 (public stack concentration).
+
+**C1-2 — Jurisdictional-overlap intensity.**
+- *Measures:* the frequency and stakes of conflicting jurisdictional claims over
+  the same actors/flows (gatekeeper designations; data-localisation conflicts;
+  the GDPR/CLOUD Act/PIPL trilemma).
+- *Ch. 1 finding:* Cerny characteristic 1, evidenced by EU DMA gatekeeper
+  designations and the data-governance trilemma.
+- *Directional prediction:* rising overlap = dispersal persisting *within* the
+  interstices; consolidation *of* the overlap into bloc-internal hierarchy =
+  the Tudor settlement (this indicator is ambiguous alone — pairs with C6-3).
+- *BASELINE: TO BE SOURCED* — EU DMA gatekeeper portal (primary); count of
+  cross-border regulatory conflicts.
+
+**C1-3 — Offshore / grey-economy share [primary baseline available].**
+- *Measures:* wealth held offshore as a share of world GDP; shadow-economy
+  share; illicit-flow volumes — the persistence of Cerny's sixth characteristic
+  in the interstitial spaces.
+- *Ch. 1 finding:* EU Tax Observatory 2024 gives ~10% of world GDP offshore,
+  with the honest reading that automatic info-exchange is *reducing* the
+  untaxed share — i.e. a *state-assertion* signal (the consolidation acting on
+  the grey zone).
+- *Directional prediction:* a falling untaxed/offshore share = state assertion
+  over the grey zone (consolidation); a rising share = dispersal winning in the
+  interstices.
+- *BASELINE:* EU Tax Observatory 2024, ~10% of world GDP offshore (a *sourced*
+  primary baseline — one of the few ready for promotion, pending a dated series
+  rather than a single-year point). Cross-ref Ch. 8 (legal grey zones).
+
+*Note:* C1-1 is the same underlying variable as the book's headline wager
+(military-stack concentration) viewed from the diagnostic side; consolidate with
+C6-1/C6-2 rather than double-count. C1-3 is the first candidate with a genuine
+sourced primary baseline — flag for early promotion once expressed as a dated
+series.
+
+---
+
+*Seeded from ch06/memo.md (2026-07-22); extended from ch01/memo.md (2026-07-22).
+To be extended by each subsequent chapter job.*
 
 STATUS: PENDING HUMAN REVIEW (running file)
