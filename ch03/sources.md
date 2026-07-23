@@ -117,6 +117,12 @@ gated interpretive spine (McFarlane, Hicks, Vaughan, Zmora, Contamine).
     left unverified (search budget); needed only if the draft quantifies them.
 11. *(Verify, not gated)* **Bohna-style EHR pieces / Merton pardon-roll PDF**
     overlap ch07 — see ch07/sources.md.
+12. *(Verify, not gated — [RE-CHECK AT DRAFT], added post-review
+    2026-07-22)* **Anthropic–Pentagon blacklist primary documents**: the DoD
+    "supply chain risk" designation notice (if public) and the court docket
+    (D.D.C. + appeal). NEEDED FOR: the episode currently rests on CNBC
+    reporting alone; at drafting, re-verify status and draft as dated
+    episodes only.
 
 ---
 

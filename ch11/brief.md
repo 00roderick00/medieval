@@ -18,3 +18,14 @@ modern blocs.
 OBJECTION (critiques.md): both outline objections — the great-power-frame
 complaint (answered by the internal/external test) and the libertarian
 complaint (countervailing tech operates in the interstices).
+
+NOTE (post-ch04 review, 2026-07-22, brief edit instructed per §9): the
+functional-vs-formal sovereignty finding is promoted to a book-level thread.
+Sforza ruled Milan for sixteen years while imperial investiture was withheld
+(first Sforza invested 1494/95): operative authority and granted legitimacy
+can be permanently separated. Carry this never-invested-Sforza distinction
+into the platform-settlement analysis: the five moves may leave absorbed
+platforms operative but never invested (functioning under licence, rank, and
+procurement without recognised standing), or formally recognised but
+functionally leashed — and the two settlements differ. See ch04/memo.md
+§0.1/§3 and ch04/critiques.md Objection 2.

@@ -259,4 +259,20 @@ environment the consolidating state will also subdue).
 
 ---
 
-STATUS: PENDING HUMAN REVIEW
+## Revisions (post-review, 2026-07-22)
+
+Roderick reviewed the memo. Decisions recorded per §7; the body above stands
+as written.
+
+1. **The composition recalibration is approved as scoped:** "anxious middle
+   over destitute bottom," restricted to right-authoritarian populism, M5S
+   the marked exception, the two-sided Brexit rate-vs-bulk pattern stated.
+   The draft adopts this formulation.
+2. **The Complaint of the Poor Commons of Kent is confirmed as the
+   chapter's T1 anchor** — quote directly from the Wikisource text; the
+   pardon-roll percentages and the "Articles" continue to await Harvey/
+   Kaufman on retrieval.
+
+---
+
+STATUS: REVIEWED (Roderick, 2026-07-22) — cleared for drafting

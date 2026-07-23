@@ -248,4 +248,28 @@ Sforza.
 
 ---
 
-STATUS: PENDING HUMAN REVIEW
+## Revisions (post-review, 2026-07-22)
+
+Roderick reviewed the memo. Decisions recorded per §7; the body above stands
+as written.
+
+1. **Composite-thesis marking approved.** The (c) tag is retained: the draft
+   presents the synthesis as the book's own, built openly from named
+   components (Tilly's protection-market frame; Kaminsky's feud-as-legal-
+   institution; McFarlane's affinity), never as consensus.
+2. **Intelligence figures.** The official 27%/FY2007 core-contractor figure
+   carries the load; the "70% of the intelligence budget" leak may be
+   mentioned only as a disputed 2007 claim, never as a statistic.
+3. **Anthropic–Pentagon test case: primary anchoring audited; [RE-CHECK AT
+   DRAFT] flag applied.** The audit finds the episode currently rests on
+   CNBC reporting alone (Mar–May 2026) — no DoD "supply chain risk"
+   designation document, no court filings in hand. The flag governs: at
+   drafting, re-verify the episode's status and sourcing (litigation was
+   ongoing at research date), pull the court docket and any public DoD
+   notice (added to sources.md verification pulls), and draft all live
+   events as **dated episodes** — what happened by when, per whom — never
+   as settled outcomes.
+
+---
+
+STATUS: REVIEWED (Roderick, 2026-07-22) — cleared for drafting

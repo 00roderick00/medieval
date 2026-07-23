@@ -281,4 +281,20 @@ with the crisis (ch05) and the guns (ch06).
 
 ---
 
-STATUS: PENDING HUMAN REVIEW
+## Revisions (post-review, 2026-07-22)
+
+Roderick reviewed the memo. Decisions recorded per §7; the body above stands
+as written.
+
+1. **Approved as reported.**
+2. **The functional-vs-formal sovereignty finding is promoted to a
+   book-level thread.** Sforza ruled Milan — coined, taxed, warred — while
+   imperial investiture was withheld for half a century: operative authority
+   and granted legitimacy permanently separated. On Roderick's explicit
+   instruction (per §9), notes have been appended to ch11/brief.md and
+   ch12/brief.md this date directing that the never-invested-Sforza
+   distinction be carried into the platform-settlement analysis.
+
+---
+
+STATUS: REVIEWED (Roderick, 2026-07-22) — cleared for drafting

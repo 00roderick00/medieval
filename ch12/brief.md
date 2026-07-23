@@ -18,3 +18,13 @@ COMPARATORS: all four blocs; Tudor England as anchor.
 OBJECTION (critiques.md): the determinism complaint — conditional not
 deterministic; the indicators decide.
 NOTE: implications section per CLAUDE.md §9 — no investment advice.
+
+NOTE (post-ch04 review, 2026-07-22, brief edit instructed per §9): carry the
+never-invested-Sforza distinction (functional vs formal sovereignty — ch04)
+into the settlement synthesis. The lived settlement described "from inside"
+may permanently separate operative authority from granted legitimacy for the
+absorbed platforms, as the Empire withheld investiture from a ruling Sforza:
+the platforms may run the state's infrastructure without ever being invested
+with recognised standing — a hierarchically plural order in which function
+is delegated and legitimacy retained. See ch04/memo.md and ch04/critiques.md
+Objection 2.
