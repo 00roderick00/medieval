@@ -155,7 +155,68 @@ series.
 
 ---
 
-*Seeded from ch06/memo.md (2026-07-22); extended from ch01/memo.md (2026-07-22).
-To be extended by each subsequent chapter job.*
+---
+
+## Candidates from Ch. 2 (The New Church)
+
+Chapter 2 documents the platforms as institutional universalisms and the
+state's contest with them. Its indicators track the *state-vs-universalism*
+struggle — the leading edge of the Henrician "nationalise their functions"
+prediction (Ch. 11–12). These are among the most *discriminating* candidates:
+they distinguish a state that *breaks/nationalises* the platforms (Tudor) from
+one that *cedes* to them (dispersal stable).
+
+**C2-1 — Nationalisation-of-function index [strong, discriminating].**
+- *Measures:* the degree to which states absorb or subordinate platform
+  functions rather than merely regulating at arm's length — state-controlled
+  foundation models, sovereign cloud/identity/payments, security-clearance
+  integration of AI labs, forced ownership/structure changes.
+- *Ch. 2 finding:* the medieval settlement that *resolved* the two-authorities
+  problem was Henrician absorption (1534), not the Worms compromise; the
+  chapter predicts nationalisation-of-function, not platform-breaking.
+- *Directional prediction:* rising absorption/subordination = the Tudor
+  settlement proceeding; platforms consolidating independence from state
+  authority = thesis threatened (this is one of the Introduction's four
+  falsification conditions).
+- *BASELINE: TO BE SOURCED* — sovereign-AI/cloud initiatives; the Chinese
+  post-2020 crackdown as the far end of the scale (RMB penalties, delistings —
+  primary); DMA/DSA enforcement decisions (Commission, primary). Cross-ref
+  C6-3, C1-1.
+
+**C2-2 — Canonical-assertion tempo.**
+- *Measures:* the rate and bite of state canonical assertions over platform
+  conduct — first-of-kind enforcement actions, extraterritorial reach events.
+- *Ch. 2 finding:* GDPR/DMA/DSA/AI Act with the first DMA (Apple €500M/Meta
+  €200M, Apr 2025) and DSA (X €120M, Dec 2025) decisions; PIPL Art. 3.
+- *Directional prediction:* rising canonical assertion = consolidation acting
+  on the universalisms; a retreat/again-cede = dispersal.
+- *BASELINE: TO BE SOURCED* — EU DMA/DSA decision count and quantum
+  (Commission, primary — a genuinely sourced series is available); GDPR
+  enforcement tracker.
+
+**C2-3 — Platform-independence counter-indicator [the falsifier].**
+- *Measures:* evidence that platform universalisms are *consolidating
+  independence* from state authority (jurisdictional evasion succeeding,
+  frontier labs asserting unreviewable release authority, deplatforming power
+  used against states rather than by them).
+- *Ch. 2 finding:* the frontier labs' self-authored release regimes (GPT-2
+  staged release; voluntary-only commitments) are the watch-item — self-gating
+  that could harden into genuine independence.
+- *Directional prediction:* this is a **falsification** indicator — if it rises
+  while C2-1/C2-2 stall, the book's thesis is in trouble (matches Introduction
+  failure condition 3: "platform universalisms consolidate their independence").
+- *BASELINE: TO BE SOURCED* — degree of binding (vs voluntary) external review
+  of frontier model releases; incidence of successful platform jurisdictional
+  evasion.
+
+*Note:* C2-1 and C2-3 are the same axis measured in opposite directions and
+are jointly the most discriminating pair in the running list — they operationalise
+Introduction failure condition 3 directly. Consolidate with C6-3 (capitulation-
+without-contest) at Appendix C assembly.
+
+---
+
+*Seeded from ch06/memo.md (2026-07-22); extended from ch01/memo.md and
+ch02/memo.md (2026-07-22). To be extended by each subsequent chapter job.*
 
 STATUS: PENDING HUMAN REVIEW (running file)
