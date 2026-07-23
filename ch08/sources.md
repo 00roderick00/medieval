@@ -210,5 +210,7 @@ EUR-Lex) contemporaneously.
 
 ---
 
-*Open items consulted 2026-07-23 (four-agent verification pass; URLs in
-the session research record). Update retrieval-master.md accordingly.*
+*Open items consulted 2026-07-23; every claim cites the document or named
+source listed above — provenance runs to sources only (CLAUDE.md §4).
+URLs in the session research record. Update retrieval-master.md
+accordingly.*

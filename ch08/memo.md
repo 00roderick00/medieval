@@ -534,4 +534,39 @@ constitution executing this assertion is itself a person.
 
 ---
 
-STATUS: PENDING HUMAN REVIEW
+## Revisions (post-review, 2026-07-23)
+
+Roderick reviewed the memo and issued the following decisions. Recorded
+here per §7 (reviewed memos are revised only under a Revisions heading,
+with reasons); the body above stands as written, and these decisions
+govern the draft.
+
+1. **Vendetta reformulation approved (§0.2).** The Italian section is
+   built on Zorzi/Muir/Jansen as the memo recommends; the brief's
+   tolerated-below/suppressed-above asymmetry is not asserted pending
+   Muir/Dean retrieval. If retrieval later supports a version of the
+   asymmetry, it enters under a further Revisions entry, not silently.
+2. **Kadens/Sachs adoption approved (§0.3, §4).** The draft takes the
+   revisionist side of the law-merchant debate openly, names the
+   traditional side fairly, keeps the jurisdictional/substantive
+   distinction explicit (critiques.md Objection 2), and cashes the irony
+   against modern private ordering's own medievalism.
+3. **Provenance confirmation.** All claims verified in this pass cite
+   documents and named sources; the research-assistant process that
+   located them is process, not provenance. The sources.md footer has
+   been reworded accordingly (provenance runs to sources only — CLAUDE.md
+   §4). No claim in this memo rests on an intermediary's finding as such.
+4. **The sceptics-concede pattern is promoted to a book-level thread**
+   (Roderick's instruction, this review). Ch08's instance: Cerny 1998
+   himself predicts "quasi-public, quasi-private dispute settlement
+   regimes" (p. 52) — the chapter's modern half foreseen inside the
+   framework being extended. The thread (Rogers → ch06; DeVries, Curry,
+   Cerny → ch10; Cerny p. 52 → ch08) is now noted in ch00-intro/brief.md
+   for the introduction's method discussion (brief edit authorised per
+   §9).
+
+Drafting of ch08/draft.md may now proceed against this reviewed memo (§7).
+
+---
+
+STATUS: REVIEWED (Roderick, 2026-07-23) — cleared for drafting
