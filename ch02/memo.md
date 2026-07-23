@@ -244,6 +244,37 @@ as written.
    added this date): expanded to full depth in the post-retrieval upgrade
    pass, once Ullmann and the other gated works are in the repo.
 
+3. **(Upgrade pass, 2026-07-23.) The Epic v. Apple texts and the BIS rule
+   are in repo; the flagged verifications are pinned from the documents.**
+   - *Epic Games v. Apple*, N.D. Cal. Rule 52 Order (Case
+     4:20-cv-05640-YGR, Doc. 812, filed 10 Sept 2021, 185 pp.;
+     `corpus/retrieved/source-library/official-primary/`), holding
+     language verbatim (Order pp. 2–3): "Given the trial record, the
+     Court cannot ultimately conclude that Apple is a monopolist under
+     either federal or state antitrust laws… Success is not illegal…
+     Epic Games failed in its burden to demonstrate Apple is an illegal
+     monopolist"; and "the Court concludes that Apple's anti-steering
+     provisions hide critical information from consumers and illegally
+     stifle consumer choice. When coupled with Apple's incipient
+     antitrust violations, these anti-steering provisions are
+     anticompetitive."
+   - Ninth Circuit No. 25-2935, argued 21 Oct 2025, **filed 11 Dec
+     2025** (in repo): the panel *affirmed the civil contempt findings*
+     against Apple ("Apple's civil contempt was shown by clear and
+     convincing evidence"), affirmed in part and reversed in part the
+     sanctions, and modified the injunction. This replaces the memo's
+     "~Dec 2025 affirmance-but-narrowing" placeholder with the filed
+     opinion.
+   - The chip-control anchor is now the rule text, not press framing:
+     BIS interim final rule (7 Oct 2022, in repo), ECCN 3A090 —
+     integrated circuits having "a bit length per operation multiplied
+     by processing performance measured in TOPS, aggregated over all
+     processor units, of **4800 or more**," with the rule's own example:
+     "the threshold of 4800 bits x TOPS can be met with 600 tera integer
+     operations at 8 bits or 300 tera FLOPS at 16 bits." The draft cites
+     the threshold; which named NVIDIA parts it captured stays with
+     NVIDIA's SEC filing (still to pin — retrieval-master).
+
 ---
 
 STATUS: REVIEWED (Roderick, 2026-07-22) — cleared for drafting
