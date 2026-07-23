@@ -84,6 +84,21 @@ freely with page refs) · **PARSE** (open but needs a reading pass).
 | Davis (ed.), *Paston Letters and Papers*, Parts II–III | ch08 (authoritative numbering/dating vs Gairdner) | LOW | PENDING |
 | WSJ (Randazzo), "Amazon Faced 75,000 Arbitration Demands…" (1 Jun 2021); SIAC Annual Report 2024 PDF | ch08 (canonical citations for the Amazon episode; SIAC figures from the primary) | LOW | PENDING |
 
+### Added from Batch 3 (ch10) — 2026-07-23
+
+| Work | Needed by | Priority | Status |
+|---|---|---|---|
+| Wolfe, *The Fiscal System of Renaissance France* (1972) | ch10 (taille yields under Charles VII/Louis XI; 1484 Tours figures; élections/généralités detail — all currently tertiary) | **HIGH** | PENDING |
+| Vale, *Charles VII* (1974) | ch10 (the 1445 reform in scholarly narrative; francs-archers; fiscal context) — joins the existing Vale *War and Chivalry* line | **HIGH** | PENDING |
+| Kendall, *Louis XI* (1971); Favier, *Louis XI* | ch10 (biography detail; Anjou annexation date variance; spider-epithet popularisation) | MED | PENDING (archive.org controlled lending likely for Kendall) |
+| Depreter, *De Gavre à Nancy* (2011 monograph) | ch10 (critical gun counts Grandson/Morat/Nancy vs the "400 pieces" tradition; his open 2011 BCRH article on Persée may suffice — PARSE first) | MED | PENDING |
+| "De la France à Barcelone… 'l'ordonnance perdue' de Charles VII" (*Revue historique* 2015/4) | ch10 (the lost-ordonnance scholarship; 26 May 1445 Louppy-le-Châtel anchor) | MED | PENDING (Cairn) |
+| Bonney (ed.), *The Rise of the Fiscal State in Europe*; *Economic Systems and State Finance*; Ormrod et al., *Crises, Revolutions and Self-Sustained Growth* | ch10 (comparative revenues c. 1450–1500; Karaman & Pamuk covers only 1500+) | MED | PENDING |
+| Brewer, *The Sinews of Power* (1989) | ch10 ("fiscal-military state" coinage passage verbatim; attribution itself openly verified) | LOW | PENDING |
+| Vaillé, *Histoire générale des postes*, t. II | ch10 (disputed 1464 postal edict — only if the detail is kept) | LOW | PENDING |
+| Miller, *Chip War* (2022) | ch10, ch12 (page-cited chokepoint narrative; T3 trade) | LOW | PENDING |
+| Vaughan, *Charles the Bold* | ch10 (1471/72/73 ordinance labelling; Franco-Swiss subsidy terms; Burgundian artillery) — extends the existing Vaughan line | **HIGH** | PENDING |
+
 ## II. Open primaries needing a reading pass (no gate)
 
 | Item | Needed by | Status |
@@ -91,6 +106,11 @@ freely with page refs) · **PARSE** (open but needs a reading pass).
 | Stevenson (ed.), *Letters and Papers…* (Rolls Series), p. 619 et seq. | ch06 (cite the "one hundred strongpoints" list first-hand rather than via Rogers) | vol. 1 **IN REPO** (`corpus/retrieved/source-library/primary-sources/Stevenson-Letters-and-Papers-vol-1.pdf`) — reading pass still PENDING; confirm which volume carries p. 619 et seq. |
 | Jean Chartier, *Chronique de Charles VII* — Gallica / Internet Archive (Middle French) | ch06 (primary attestation of Bureau siege engineering) | PARSE (French pass) |
 | *Le Recouvrement de Normandie* (Berry Herald) — OpenEdition | ch06 (campaign chronicle) | PARSE |
+| Contamine, "L'artillerie royale française à la veille des guerres d'Italie" (*Annales de Bretagne* 1964) — Persée, open | ch10 (Louis XI/Charles VIII artillery organisation and budgets; checks the T4 1479/1469 figures) | PARSE (only p. 1 machine-read) |
+| Perroy, "L'artillerie de Louis XI dans la campagne d'Artois (1477)" (*Revue du Nord* 1943, 2 parts) — Persée, open | ch10 | PARSE |
+| Depreter, "L'artillerie de Charles le Hardi" (*BCRH* 177, 2011) — Persée, open | ch10 (critical Grandson/Morat gun counts) | PARSE |
+| Commynes, *Mémoires*, Scoble trans. — archive.org / Gutenberg #77950 | ch10 (T1; Book I ch. X verbatim already extracted; wider reading pass for the Burgundy/Public Weal material) | PARSE |
+| Karaman & Pamuk, *JEH* 2010 + dataset (ata.boun.edu.tr) | ch10, ch11 (comparative revenues from 1500) | IN REPO-equivalent (open PDF read); dataset PARSE if figures wanted |
 
 ## III. Verification pulls (not gated; pin before print)
 
@@ -113,6 +133,22 @@ freely with page refs) · **PARSE** (open but needs a reading pass).
 | Colantone & Stanig; Gidron & Hall; AfD east-German composition; Trump general-election composition studies | ch07 | named in literature, not verified this pass |
 
 ---
+
+## IV(b). Verification pulls added from Batch 3 (ch10) — pin before print
+
+| Item | Needed by | What to pin |
+|---|---|---|
+| PLAW-117publ167 PDF (congress.gov) | ch10 | §103 guardrails verbatim; Div. A appropriations lines |
+| EUR-Lex Reg. 2023/1781 full OJ text | ch10 | the "€43 billion" recital verbatim (figure so far only in Commission communications) |
+| NDIS PDF (media.defense.gov) | ch10 | page number for "does not possess the capacity…" |
+| DoD IG 155mm report (Jul 2026, dodig.mil) | ch10 | the ~36k/month actual figure, first-hand |
+| Estonian Foreign Intelligence Service annual report (Feb 2026) | ch10 | Russian shell-output series (currently via relay) |
+| Reuters Starshield exclusive (16 Mar 2024) | ch10 | canonical cite (URL bot-blocked; verified via syndication) |
+| Bloomberg: Big Fund III (27 May 2024); NK shells (14 Jul 2025) | ch10 | paywalled/bot-blocked |
+| Intel Q2 2025 earnings release | ch10 | Magdeburg cancellation, first-hand |
+| TrendForce/Counterpoint advanced-node share table | ch10 | replace the unverified "~90% advanced-node" formulation |
+| India Union Budget space allocation; 2025–26 H20/H200 BIS notices | ch10 | scale figure; licensing state at press time (fast-moving) |
+| Britannica pages: Praguerie; History of France (1439/1450 fiscal formulations); Louis XI; Diet of Stans | ch10 | fetch-blocked snippets — confirm wording in browser |
 
 ## IV. Verification pulls added from Batch 3 (ch08) — pin before print
 
