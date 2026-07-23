@@ -245,6 +245,35 @@ as written.
    added this date): expanded to full depth in the post-retrieval upgrade
    pass.
 
+5. **(Upgrade pass, 2026-07-23.) Three flagged figures are now pinned
+   from in-repo primary documents.**
+   - *Draghi 78/63%*: Part B is in repo
+     (`corpus/retrieved/source-library/official-primary/`), p. 165,
+     verbatim: "Of a total of EUR 75 billion spent by Member States
+     between June 2022 and June 2023, **78% of procurement spending was
+     diverted to purchases from suppliers located outside the EU, out of
+     which 63% based in the US**." (Adds the EUR 75bn base and the
+     June-to-June window the secondary reports omitted.)
+   - *Japan TFR/births*: MHLW 2024 Vital Statistics provisional release
+     (in repo), verbatim from the summary: births **686,061** — a record
+     low, the ninth consecutive annual decline; TFR **1.15** — a record
+     low, the ninth consecutive decline (−0.05 on the year). The memo's
+     "~686k / below 700,000 for the first time" is confirmed and now
+     cites the table.
+   - *The catatonia article*: the full text is in repo (Wilkinson,
+     "Henry VI: catatonic stupor, and the case series of 15th-century
+     psychiatric miracles," *BJP* 216 (2020), p. 177, doi:
+     10.1192/bjp.2020.15). Clinically usable verbatim: Henry "did not
+     talk, sat slumped, had to be fed and moved, did not recognise or
+     respond to others and was incapable of government for a year and a
+     half"; onset early August 1453 "reputedly due to an unexpected
+     fright – **news of defeat at Castillon on 17 July 1453**." Note for
+     the draft and the Introduction: the article makes the
+     Castillon-trigger tradition explicit — the book's opening battle
+     and the king's collapse are linked in the clinical literature
+     itself (mark the trigger as "reputedly," per the source's own
+     hedge). Cross-ref ch06 §5 and ch09 §2.
+
 ---
 
 STATUS: REVIEWED (Roderick, 2026-07-22) — cleared for drafting
