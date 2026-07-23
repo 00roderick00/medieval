@@ -345,7 +345,42 @@ independence-vs-absorption axis at assembly.
 
 ---
 
-*Seeded from ch06/memo.md (2026-07-22); extended from ch01, ch02, ch05, and
-ch03 memos (2026-07-22). To be extended by each subsequent chapter job.*
+---
+
+## Candidates from Ch. 7 (Cade and the Communes)
+
+Chapter 7's indicator operationalises the chapter's own closing inference —
+revolts shape but do not prevent consolidation — and doubles as its
+falsification condition (critiques.md Objection 4).
+
+**C7-1 — Populist-wave absorption index [primary baseline available].**
+- *Measures:* whether propertied-anxious populist waves durably reduce the
+  state's fiscal-administrative reach — post-wave tax take/GDP trajectory;
+  survival or dismantling of legibility instruments (digital ID, reporting
+  regimes) attributable to a wave.
+- *Ch. 7 finding:* the OBR projects the post-Brexit UK tax take at "close to
+  a post-war high of 37.1% of GDP by 2028-29" — the wave that won its
+  referendum did not shrink the fisc; the gilets jaunes won a carbon-tax
+  retreat and a concession package while the programme continued; Funke et
+  al. (*AER* 2023) show populists in power eroding institutions, not reach.
+- *Directional prediction:* continued absorption (concession + repression +
+  reach intact) = the pattern holding; a sustained post-populist *fall* in
+  fiscal reach or dismantled legibility infrastructure = the claim fails
+  (and with it a limb of the consolidation thesis).
+- *BASELINE:* OBR tax-take series (sourced, dated primary — ready for
+  promotion as a series); extend with OECD revenue statistics for the other
+  wave-countries (TO BE SOURCED). Cross-ref C1-1 (the pressure side) and
+  C1-3 (grey-economy assertion).
+
+*Consolidation note:* C7-1 joins C3-1, C5-1 and C1-3 in the small set with
+genuine sourced primary baselines. It is also the only current candidate
+that directly operationalises a *chapter-level* falsification condition
+rather than the Introduction's four.
+
+---
+
+*Seeded from ch06/memo.md (2026-07-22); extended from ch01, ch02, ch05,
+ch03, and ch07 memos (2026-07-22). To be extended by each subsequent chapter
+job.*
 
 STATUS: PENDING HUMAN REVIEW (running file)
