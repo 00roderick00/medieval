@@ -379,8 +379,47 @@ rather than the Introduction's four.
 
 ---
 
+---
+
+## Candidates from Ch. 4 (The Condottieri)
+
+Chapter 4 sharpens the market-for-force axis with the Sforza checklist and
+the two absorption models. Its candidates refine rather than add axes —
+both are consolidation-mode indicators.
+
+**C4-1 — Absorption-mode index (procurement/personnel vs ownership).**
+- *Measures:* by what instrument each bloc absorbs its force-adjacent
+  contractors — procurement and rank (US: programmes of record, IL6
+  accreditation, Detachment 201 commissions; golden share verified
+  *absent*), fused ownership (China, ch02), or coercive re-monopolisation
+  (Russia: Wagner → Africa Corps under MoD/GRU).
+- *Ch. 4 finding:* three distinct national absorption modes are now
+  documented from primary/institutional sources — the "parallel Tudor
+  settlements, differently per bloc" claim in miniature.
+- *Directional prediction:* each bloc deepening its own mode = the
+  parallel-settlements thesis; convergence on *no* absorption (contractors
+  drifting free in all blocs) = thesis threatened.
+- *BASELINE: TO BE SOURCED* as a coded event-series (instrument, date,
+  bloc); the raw events are already dated in ch03/ch04 memos.
+
+**C4-2 — Sforza-precondition tracker [refines C3-2].**
+- *Measures:* whether any force-adjacent contractor accumulates the
+  checklist's preconditions — independent fiscal base + a "duchy" (an
+  infrastructure or territory it could hold) + a legitimacy vacuum.
+- *Ch. 4 finding:* Prigozhin failed the checklist (rented fiscal base, no
+  duchy, no vacuum); the frontier labs pass only the fiscal limb (ch03);
+  no current actor passes two.
+- *Directional prediction:* any actor passing two limbs simultaneously is
+  the early-warning signal; all actors held below two = domestication
+  holding. Merge into the C2-3/C3-2/C5-2 independence-vs-absorption axis
+  at assembly — this supplies that axis's *threshold definition*.
+- *BASELINE:* the checklist itself (qualitative), applied annually; no
+  separate quantitative baseline needed beyond C3-1/C3-2's.
+
+---
+
 *Seeded from ch06/memo.md (2026-07-22); extended from ch01, ch02, ch05,
-ch03, and ch07 memos (2026-07-22). To be extended by each subsequent chapter
-job.*
+ch03, ch07, and ch04 memos (2026-07-22). Batch 2 complete; to be extended
+by each subsequent chapter job.*
 
 STATUS: PENDING HUMAN REVIEW (running file)
