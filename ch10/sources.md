@@ -223,6 +223,8 @@ plus open T1 (Commynes); its modern half is unusually T1-rich
 
 ---
 
-*Open items consulted 2026-07-23 (two-agent verification pass + in-repo
-reads of Rogers/DeVries/Curry/Cerny; URLs in the session research
-record). Update retrieval-master.md accordingly.*
+*Open items consulted 2026-07-23, alongside in-repo reads of
+Rogers/DeVries/Curry/Cerny; every claim cites the document or named
+source listed above — provenance runs to sources only (CLAUDE.md §4).
+URLs in the session research record. Update retrieval-master.md
+accordingly.*

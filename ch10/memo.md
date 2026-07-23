@@ -571,4 +571,45 @@ stack is the artillery; the five moves are the state that pays for it.
 
 ---
 
-STATUS: PENDING HUMAN REVIEW
+## Revisions (post-review, 2026-07-23)
+
+Roderick reviewed the memo and issued the following decisions. Recorded
+here per §7; the body above stands as written, and these decisions govern
+the draft.
+
+1. **All §0 corrections accepted:** 26 May 1445, Louppy-le-Châtel, with
+   the lost-ordonnance caveat stated (§0.1); the standing-army claim
+   recalibrated to "the first permanent, regularly paid royal army in
+   Latin Christendom" with the janissary and 1373 caveats (§0.2); the
+   taille drawn as grant → practice → institution (§0.3); the revenue arc
+   carried as tertiary (1.8M → 4.6M) pending Wolfe (§0.4a); the Bastille
+   arsenal, seven-calibers, and 1464 postal claims dropped (§0.4b–d).
+2. **"L'universelle aragne" repositioned** as what it is — hostile
+   Burgundian propaganda (Chastelain's image, Molinet's coinage),
+   generalised only by later historians — and flagged as draft material:
+   the enemy's name for the fiscal state's operator, quoted from the
+   losing side of the threshold (§0.4e, §4).
+3. **The four-polity synthesis is confirmed as (c)-tagged book's-own**
+   (§0.6, §7): components (a)-grade and primary-documented, the
+   synthesis the book's, its falsifiability carried by the Appendix C
+   indicators (C10-1/2/3) rather than asserted as consensus.
+4. **The sceptics-concede pattern is promoted to a book-level thread**
+   (Roderick's instruction, this review): Rogers (ch06), DeVries p. 145,
+   Curry p. 188, and Cerny pp. 51–52 (this chapter) as the recurring
+   evidentiary move — the mechanism attested inside the objections to
+   it. Noted in ch00-intro/brief.md for the introduction's method
+   discussion (brief edit authorised per §9).
+5. **Provenance confirmation.** All claims verified in this pass cite
+   documents and named sources; the research-assistant process that
+   located them is process, not provenance (sources.md footer reworded;
+   CLAUDE.md §4).
+6. **PARSE-queue integration to follow:** Contamine 1964, Perroy 1943,
+   and Depreter 2011 to be retrieved from Persée into corpus/retrieved
+   and integrated in a further Revisions entry (the ch10 upgrade pass),
+   per Roderick's instruction.
+
+Drafting of ch10/draft.md may now proceed against this reviewed memo (§7).
+
+---
+
+STATUS: REVIEWED (Roderick, 2026-07-23) — cleared for drafting
