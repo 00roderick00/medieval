@@ -103,12 +103,12 @@ freely with page refs) · **PARSE** (open but needs a reading pass).
 
 | Item | Needed by | Status |
 |---|---|---|
-| Stevenson (ed.), *Letters and Papers…* (Rolls Series), p. 619 et seq. | ch06 (cite the "one hundred strongpoints" list first-hand rather than via Rogers) | vol. 1 **IN REPO** (`corpus/retrieved/source-library/primary-sources/Stevenson-Letters-and-Papers-vol-1.pdf`) — reading pass still PENDING; confirm which volume carries p. 619 et seq. |
+| Stevenson (ed.), *Letters and Papers…* (Rolls Series), p. 619 et seq. | ch06 (cite the "one hundred strongpoints" list first-hand rather than via Rogers) | vol. 1 IN REPO but **the list is NOT in vol. 1** (printed pagination ends c. p. 520 — checked 2026-07-23); **retrieve vol. 2 (likely part ii)** from archive.org; until then cite via Rogers (ch06 Revisions 5) |
 | Jean Chartier, *Chronique de Charles VII* — Gallica / Internet Archive (Middle French) | ch06 (primary attestation of Bureau siege engineering) | PARSE (French pass) |
 | *Le Recouvrement de Normandie* (Berry Herald) — OpenEdition | ch06 (campaign chronicle) | PARSE |
-| Contamine, "L'artillerie royale française à la veille des guerres d'Italie" (*Annales de Bretagne* 1964) — Persée, open | ch10 (Louis XI/Charles VIII artillery organisation and budgets; checks the T4 1479/1469 figures) | PARSE (only p. 1 machine-read) |
-| Perroy, "L'artillerie de Louis XI dans la campagne d'Artois (1477)" (*Revue du Nord* 1943, 2 parts) — Persée, open | ch10 | PARSE |
-| Depreter, "L'artillerie de Charles le Hardi" (*BCRH* 177, 2011) — Persée, open | ch10 (critical Grandson/Morat gun counts) | PARSE |
+| Contamine, "L'artillerie royale française à la veille des guerres d'Italie" (*Annales de Bretagne* 1964) — Persée, open | ch10 (Louis XI/Charles VIII artillery organisation and budgets; checks the T4 1479/1469 figures) | PARTIAL: pp. 221, 231–233, 238 read in the Persée viewer and integrated (ch10 Revisions 7 — ordinaire/extraordinaire accounts; 3.3% admin; cinq-bandes-1489 correction). **PDF download requires a human altcha click — four Persée tabs left open in Chrome (2026-07-23); save to corpus/retrieved/source-library/open-access/** |
+| Perroy, "L'artillerie de Louis XI dans la campagne d'Artois (1477)" (*Revue du Nord* 1943, 2 parts) — Persée, open | ch10 | PARSE — awaiting PDF (same altcha note as Contamine 1964; tabs open) |
+| Depreter, "L'artillerie de Charles le Hardi" (*BCRH* 177, 2011) — Persée, open | ch10 (critical Grandson/Morat gun counts) | PARSE — awaiting PDF (same altcha note; tab open) |
 | Commynes, *Mémoires*, Scoble trans. — archive.org / Gutenberg #77950 | ch10 (T1; Book I ch. X verbatim already extracted; wider reading pass for the Burgundy/Public Weal material) | PARSE |
 | Karaman & Pamuk, *JEH* 2010 + dataset (ata.boun.edu.tr) | ch10, ch11 (comparative revenues from 1500) | IN REPO-equivalent (open PDF read); dataset PARSE if figures wanted |
 
@@ -116,11 +116,11 @@ freely with page refs) · **PARSE** (open but needs a reading pass).
 
 | Item | Needed by | What to pin |
 |---|---|---|
-| *Epic Games v. Apple* — 2021 N.D. Cal. opinion; Ninth Circuit No. 25-2935 | ch02 | **IN REPO** (both PDFs, `corpus/retrieved/source-library/official-primary/`) — extract holding language in ch02 upgrade pass |
+| *Epic Games v. Apple* — 2021 N.D. Cal. opinion; Ninth Circuit No. 25-2935 | ch02 | **PINNED 2026-07-23** — holdings extracted verbatim from both in-repo PDFs (NDCal Order pp. 2–3; CA9 filed 11 Dec 2025); integrated in ch02 Revisions 3 |
 | Chinese Cybersecurity Law (2017) & Data Security Law (2021), official English (NPC) | ch02 | article-level wording (currently via law-firm summaries) |
-| NVIDIA SEC filing + ECCN 3A090 thresholds | ch02, ch10 | BIS Oct 2022 rule **IN REPO** (`BIS-2022-21658-ECCN-3A090-rule.pdf`); NVIDIA filing still to pin |
-| Draghi report PDF (Sept 2024) | ch05 | Part B **IN REPO** (`Draghi-Future-of-European-Competitiveness-Part-B.pdf`) — pin the 78% / 63% figures in ch05 upgrade pass |
-| MHLW Vital Statistics tables (Japan) | ch05 | **IN REPO** (`MHLW-2024-Vital-Statistics-provisional-release.pdf`) — pin TFR/births in ch05 upgrade pass |
+| NVIDIA SEC filing + ECCN 3A090 thresholds | ch02, ch10 | 3A090 threshold **PINNED** from the in-repo rule text (4800 bit-TOPS + the 600 TOPS@8-bit example; ch02 Revisions 3); NVIDIA filing still to pin |
+| Draghi report PDF (Sept 2024) | ch05 | **PINNED 2026-07-23** — Part B p. 165 verbatim (EUR 75bn base; 78% non-EU; 63% US); ch05 Revisions 5 |
+| MHLW Vital Statistics tables (Japan) | ch05 | **PINNED 2026-07-23** — births 686,061; TFR 1.15 (both record lows, 9th consecutive decline); ch05 Revisions 5 |
 | OECD/UN old-age dependency tables | ch05 | dependency ratios (currently secondary) |
 | Fund for Peace FSI dashboard (raw 2024 Somalia score) | ch05 | 111.3 composite |
 | NATO annual defence-expenditure release (nato.int) | ch01 | "all 32 members at 2%" figure |
