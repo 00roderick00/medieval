@@ -608,6 +608,62 @@ the draft.
    and integrated in a further Revisions entry (the ch10 upgrade pass),
    per Roderick's instruction.
 
+7. **(Upgrade pass, 2026-07-23 — partial: Contamine 1964 read in the
+   Persée viewer; PDF downloads blocked pending a human click.**
+   Persée gates its PDFs behind an altcha "I'm not a robot" check, which
+   is not mine to complete (session rules); all four article tabs are
+   left open in Chrome for Roderick — one checkbox + the PDF button
+   each, then the files go to `corpus/retrieved/source-library/
+   open-access/`. The on-page viewer needs no check, so the highest-value
+   Contamine sections were read there and are integrated now; Perroy and
+   Depreter await their PDFs.)
+   **From Contamine 1964, "L'artillerie royale française à la veille des
+   guerres d'Italie," *Annales de Bretagne* 71/2, viewer-read at pp.
+   231–233 and 238 (T2):**
+   - **The artillery as two permanent budget lines with professional
+     treasurers.** The *ordinaire* account of 1491 — rendered by
+     Clerambault de Champanges, notary and royal secretary, "trésorier
+     et receveur général de tous les deniers appointés pour les gages
+     des canonniers, aides canonniers et autres officiers de ladicte
+     artillerie du Roy" — totals **24,236 l.t.**, drawn on the receveur
+     général of Languedoïl (p. 231). It is the **22nd account of its
+     series** — i.e. the permanent artillery-wage line runs back to c.
+     1469/70, institutionalised under Louis XI. The *extraordinaire*
+     account of 1489 (5th of its series, Florimont Fortier) totals
+     **111,733 l. 17 s. 3 d.t.** (p. 231), funded across the
+     généralités (Normandy 12,750 l.t.; Picardy/Artois 23,864 l.t.;
+     Languedoc/Lyonnais et al., p. 232 n.). This is §3's "fiscal
+     signature" carried from Rogers's 1442 ratio down to the account
+     books: gages ~24k l.t./yr *ordinaire* plus ~112k l.t. campaign
+     *extraordinaire* on the eve of the Italian wars.
+   - **Administrative capacity, quantified:** account-keeping, payment
+     execution, control and certification of receipts cost 3,667 l. 6
+     s.t. — **3.3% of the total — employing "une trentaine" of clercs**
+     (p. 232); the *ordinaire* was paid quarterly, "comme c'est la règle
+     pour tout ce qui ressortit à l'armée permanente" (p. 232) — the
+     artillery inside the standing army's pay machinery. For the
+     technology → finance → administration chain (§6), this is the
+     administration link documented at source level.
+   - **The master's jurisdiction:** Galiot de Genouillac exercised
+     judicial functions — on 24 March 1487 Paris *salpêtriers* appeared
+     in judgment before him "en son auditoire ou chastel du Louvre" (p.
+     232 n. 40); a company captain drew one livre per lance per month
+     (same note, citing Perroy p. 177 for Bureau's gages). The office
+     as a jurisdiction, not merely a command — feeds ch11's canonical
+     material.
+   - **Correction of a T4 claim in §3:** Contamine's "cinq bandes de
+     l'artillerie" are the **five artillery bands of the 1489 campaign
+     year** ("Les opérations militaires de 1489 ont entraîné
+     l'intervention de 5 bandes d'artillerie," p. 238, the first being
+     the *bande de Basse-Bretagne* under captain-general Barthélemy de
+     Pins) — not a standing "four bandes of 1469" as the unfootnoted
+     artillerie.asso.fr page has it. The draft drops the 1469
+     four-bandes claim; the 1479 220,000-livre transport figure remains
+     T4-flagged pending the full PDF.
+   Full-article integration (1494 train composition, gun counts,
+   remaining budget series) follows once the PDFs land; Grandson gun
+   counts still await Depreter.
+
 Drafting of ch10/draft.md may now proceed against this reviewed memo (§7).
 
 ---
