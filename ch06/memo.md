@@ -433,4 +433,56 @@ only those who could meet the price survived as sovereigns.
 
 ---
 
-STATUS: PENDING HUMAN REVIEW
+## Revisions (post-review, 2026-07-22)
+
+Roderick reviewed the memo and issued four decisions. Recorded here per §7
+(reviewed memos are revised only under a Revisions heading, with reasons);
+the body above stands as written, and these decisions govern the draft.
+
+1. **"One hundred strongpoints" accepted; "sixty in fifteen months" dropped.**
+   The draft uses Rogers's sourced "one hundred strongpoints taken in 1450"
+   (Stevenson list) and does not carry the "sixty" figure in any form. Further:
+   Rogers's *surrender-without-siege* caveat is accepted not as a weakening of
+   the compression argument but as a *strengthening* of it — the fortresses
+   that capitulated on sight did so because of the **train's reputational
+   effect**: a siege train no subject could withstand made resistance visibly
+   hopeless, so the decisive capability collapsed the defensive order without
+   being fired. Compression is thus evidenced twice over — by the few fast
+   sieges (Bayeux, Blaye) that *demonstrated* the capability, and by the many
+   surrenders that *priced it in*. The draft leads with the reputational
+   mechanism. (Ref. §4.)
+
+2. **Bureau institutional correction accepted.** The chapter treats the
+   Bureaux as *institutionalisers* of the financed, standardised royal siege
+   train and its salaried technical service — not as inventors of corned
+   powder, trunnions, iron shot or calibres, which are general developments
+   they organised and financed at scale. This is judged **more on-thesis, not
+   less**: the book's decisive variable is fiscal-administrative capacity to
+   operate decisive force at scale, not any device, so making the institution
+   the protagonist is the argument, not a concession to it. (Ref. §2.)
+
+3. **Formigny downgrade accepted.** Field artillery's role at Formigny is
+   drawn as *provocative* — the two culverins drew the English out of their
+   prepared position — with Richemont's flanking cavalry decisive, not the
+   guns. Castillon carries the "guns executed" claim; Formigny carries "guns
+   first mattered in open battle." The brief's "tactically decisive" phrasing
+   is superseded. (Ref. §3.)
+
+4. **The Rogers fiscal concession is now load-bearing.** The infantry-
+   revolution debate is to be presented — in both this memo (§7) and
+   critiques.md (Objection 1) — as **internal to the mechanism, not against
+   it**: Rogers supplies the artillery→permanent-finance→centralisation chain
+   himself, so the live disagreement is only over *ranking* the revolutions,
+   which the chapter need not win. The chapter rests on Rogers's own
+   concession that the artillery revolution set the fiscal threshold above
+   what any subject could cross. critiques.md Objection 1 has been sharpened
+   accordingly. (Ref. §7; critiques.md.)
+
+The brief (ch06/brief.md) was updated on the same date, on Roderick's explicit
+instruction (§9), to correct the three factual overclaims in decisions 1–3.
+
+Drafting of ch06/draft.md may now proceed against this reviewed memo (§7).
+
+---
+
+STATUS: REVIEWED (Roderick, 2026-07-22) — cleared for drafting

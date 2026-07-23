@@ -64,7 +64,21 @@ claim: that the artillery revolution was the step which put the price of
 decisive force above what any subject could pay. The book can grant Rogers the
 infantry revolution as the more consequential *tactically* while holding that
 the artillery revolution was the more consequential *constitutionally* — and
-cite Rogers's own §on cost to prove it.
+cite Rogers's own section on cost to prove it.
+
+**Framing [load-bearing, post-review 2026-07-22].** The draft must present this
+debate as *internal to the mechanism, not against it*. Rogers is not an
+opponent of the book's causal chain; he is its witness — he supplies the
+artillery → permanent-finance → centralisation sequence himself. The "military
+revolution debate" the chapter engages is therefore a family quarrel among
+scholars who all accept that the capital-intensity of decisive force drove
+fiscal-administrative consolidation; they disagree only on which revolution to
+crown. The chapter should stage it that way — not "here is a scholar who denies
+our thesis, whom we refute," but "here is the scholar who proves our mechanism,
+arguing about a ranking we need not settle." Drawn this way, the strongest
+available objection becomes the chapter's strongest citation, and the
+falsifiability the chapter stakes itself on is shown to survive contact with
+its most rigorous critic.
 
 *Residual exposure:* this answer stands or falls on the "infantry could be
 raised by subjects, artillery could not" distinction. If a reviewer shows that
