@@ -481,6 +481,47 @@ the body above stands as written, and these decisions govern the draft.
 The brief (ch06/brief.md) was updated on the same date, on Roderick's explicit
 instruction (§9), to correct the three factual overclaims in decisions 1–3.
 
+5. **(Upgrade pass, 2026-07-23.) Three retrievals integrated; one negative
+   finding.**
+   - **Curry is in repo** ("Guns and Goddams: was there a Military
+     Revolution in Lancastrian Normandy 1415–50?", *JMMH* VIII (2010) —
+     this is the paper the RETRIEVAL LIST anticipated via the Soton
+     eprint). She supplies no independent count of places taken, but her
+     conclusion reinforces reviewed decision 1 from the gradualist side,
+     p. 187: "More commonly in the Reconquest, the French *preparations*
+     for bombardment and assault, rather than actual bombardment, were
+     enough to prompt surrender"; "many surrenders were forced on the
+     English by the local populations… no siege as there had been in
+     1418–19. Each place was picked off, one by one, but the fall of the
+     major places led to a domino effect"; and "That does not deny that
+     the guns used in 1449–50 were more powerful than those in 1417–19,
+     as Rogers and others have shown." The reputational-surrender
+     mechanism now has the sceptic's endorsement; her reversed-causation
+     conclusion (pp. 187–88) is engaged in ch10/critiques.md Objection 2.
+   - **DeVries's 1998 article is in repo** and closes several of §2's
+     [UNVERIFIED — RETRIEVAL] flags at article level (p. 132, T2):
+     Charles VII "increased the royal budget to procure a larger number
+     of new guns, and he added heavier new taxes to his kingdom's
+     inhabitants to pay for this increase"; "perhaps the most important
+     feature of Charles VII's gunpowder artillery train was its
+     intricate organization and superior leadership. Under masters of
+     artillery Jean and Gaspard Bureau… Duties of cannoneers were
+     established, officers were appointed, competence was improved and
+     pay was increased." The institutional (not inventive) reading of
+     decision 2 is thereby confirmed in print. (Caution: DeVries misdates
+     Castillon "1452" on p. 133 — cite the substance, not the date.)
+     Gaspard's succession to **Pierre Bessonneau** as grand-master (27
+     Dec 1444) also confirms §2's point that the office pre-existed the
+     brothers. Book-level detail (calibres, counts) still awaits
+     Contamine 1972 and DeVries's monograph.
+   - **Negative finding — Stevenson:** vol. 1 is in repo, but its
+     printed pagination ends c. p. 520; Rogers's "p. 619 et seq."
+     citation for the hundred-strongpoints list is therefore **not in
+     vol. 1** — the list must be in vol. 2 (likely part ii). The
+     first-hand citation remains pending; retrieval-master updated to
+     name vol. 2 specifically. Until then the figure continues to be
+     cited *via Rogers*, exactly as §4 already does.
+
 Drafting of ch06/draft.md may now proceed against this reviewed memo (§7).
 
 ---
