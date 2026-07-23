@@ -105,6 +105,10 @@ has superseded it.
   steelmanned at full strength, plus any further objections surfaced during
   research, each with the chapter's answer. The Perplexity second-opinion run
   on draft chapters is logged here too.
+- Memo depth: where a chapter's canonical sources are gated, memos may run
+  below the 4–6k target pending retrieval. This is expected, not a defect;
+  each memo is expanded to full depth in the post-retrieval upgrade pass,
+  once its RETRIEVAL LIST works are in the repo.
 
 ## 7. File structure and workflow
 - Folders: ch00-intro, ch01–ch12, coda, appendix-a (annotated neomedievalism

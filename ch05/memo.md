@@ -223,4 +223,28 @@ joint [BRIDGE].
 
 ---
 
-STATUS: PENDING HUMAN REVIEW
+## Revisions (post-review, 2026-07-22)
+
+Roderick reviewed the memo. Decisions recorded per §7; the body above stands
+as written.
+
+1. **Triple hinge approved as fenced.** The 1453 convergence (Castillon /
+   Henry VI's collapse / Constantinople) stays as a [BRIDGE] framing device
+   with the three causes kept explicitly distinct; it is illustration, never
+   evidence.
+2. **Causal-direction claim approved as the chapter spine.** "Over-mighty
+   subjects precede undermighty kings" carries the chapter. Note for Part
+   III: the modern side of the claim must be grounded in **primary patterns**
+   — procurement filings, clearance dependencies, regulatory and enforcement
+   actions — not commentary. Bremmer and Carnegie serve as framing only,
+   never as load-bearing support.
+3. **Anecdote exclusions confirmed.** The "44 episodes" and glass-delusion
+   lore stay out; the documented attacks (1392; 1393; six in 1399) carry the
+   Charles VI narrative.
+4. **Memo length accepted as retrieval-limited** (per the CLAUDE.md §6 note
+   added this date): expanded to full depth in the post-retrieval upgrade
+   pass.
+
+---
+
+STATUS: REVIEWED (Roderick, 2026-07-22) — cleared for drafting

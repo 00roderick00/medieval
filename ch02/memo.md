@@ -231,4 +231,19 @@ Henrician, not the Worms, settlement. (Developed in Chapter 11.)
 
 ---
 
-STATUS: PENDING HUMAN REVIEW
+## Revisions (post-review, 2026-07-22)
+
+Roderick reviewed the memo. Decisions recorded per §7; the body above stands
+as written.
+
+1. **Approved as reported**, including the demonetisation downgrade:
+   deplatforming leads the sanction evidence as the documented instrument;
+   demonetisation and algorithmic demotion remain illustrative extensions
+   only, never presented as documented canon-law sanctions.
+2. **Memo length accepted as retrieval-limited** (per the CLAUDE.md §6 note
+   added this date): expanded to full depth in the post-retrieval upgrade
+   pass, once Ullmann and the other gated works are in the repo.
+
+---
+
+STATUS: REVIEWED (Roderick, 2026-07-22) — cleared for drafting

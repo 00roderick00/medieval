@@ -128,6 +128,9 @@ reading-list.md.
    that the Rhineland was *exceptionally* fragmented **specifically c. 1250**.
    **This claim was NOT found in open sources** (open material covers early-
    modern Kleinstaaterei). Highest-priority gap for the objection-defence.
+   **ELEVATED (review, 2026-07-22):** retrieve so the outline's Rhineland
+   concession can be restored; until then northern-Italy-only is the interim
+   defence position (see memo Revisions #2).
 8. **Philip Jones, *The Italian City-State*; Chris Wickham, *Sleepwalking into
    a New World*.** NEEDED FOR: a scholarly anchor for northern-Italian
    fragmentation and the 1250–73 Great Interregnum.

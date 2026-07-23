@@ -260,4 +260,21 @@ exactly as the ch06 answer to Rogers rests on the weaker, uncontested claim.
 
 ---
 
-STATUS: PENDING HUMAN REVIEW
+## Revisions (post-review, 2026-07-22)
+
+Roderick reviewed the memo. Decisions recorded per §7; the body above stands
+as written.
+
+1. **Memo length accepted as retrieval-limited.** The sub-target length
+   reflects gated canonical sources, not thin research. Per the CLAUDE.md §6
+   note added this date, the memo is expanded to full depth in the
+   post-retrieval upgrade pass. Expected, not a defect.
+2. **Rhineland baseline: retrieval elevated; northern-Italy-only is the
+   interim position.** Rhineland-baseline historiography is added to the
+   RETRIEVAL LIST (sources.md #7, elevated) so the outline's concession can be
+   restored. Until retrieved, the flattening-objection defence rests on
+   northern Italy alone, and the draft must not assert the Rhineland claim.
+
+---
+
+STATUS: REVIEWED (Roderick, 2026-07-22) — cleared for drafting
