@@ -418,8 +418,79 @@ both are consolidation-mode indicators.
 
 ---
 
+---
+
+## Candidates from Ch. 8 (Private Justice, Private War)
+
+Chapter 8's indicators track the *enforcement business* — where high-value
+dispute resolution actually goes, and whether the state is re-subordinating
+the private and platform fora. Two have primary baselines already in hand.
+
+**C8-1 — Forum-migration index (the plural-environment gauge) [primary
+baseline IN HAND].**
+- *Measures:* the caseload and value of disputes resolved in private and
+  quasi-private fora — institutional arbitration (ICC/LCIA/SIAC/HKIAC
+  annual series) and treaty-based ISDS (UNCTAD Navigator; ICSID).
+- *Ch. 8 finding:* ICC 2024: 831 new cases, US$103bn new, **US$354bn
+  pending ("all-time record," ICC's own words)**; UNCTAD: 1,440 known ISDS
+  cases (31 Jul 2025); ICSID: 1,085 cumulative, 63 new in 2025.
+- *Directional prediction:* continued growth = the plural environment
+  persisting (dispersal); a sustained fall in *new* ISDS registrations as
+  intra-bloc mechanisms close (see C8-2) = the public sword re-monopolising.
+  Ambiguous alone at the commercial end (arbitration can thrive *under*
+  state licence) — read jointly with C8-2.
+- *BASELINE:* **sourced and dated** (institutions' own 2024/2025 reports).
+  Ready for promotion as an annual series.
+
+**C8-2 — State-reassertion-over-private-fora tempo [strong,
+discriminating].**
+- *Measures:* dated state acts subordinating private/platform adjudication:
+  treaty exits (EU/Euratom ECT withdrawal notified 27 Jun 2024, effective
+  27 Jun 2025), CJEU preclusions (*Achmea* 2018; *Komstroy* 2021),
+  standing-mechanism construction (UNCITRAL WG III), statutory caging of
+  platform process (DSA Arts. 20–21 — certified bodies expressly denied
+  binding power), first-of-kind enforcement (DMA decisions Apr 2025; MiCA
+  application Dec 2024; DOJ Binance Nov 2023).
+- *Ch. 8 finding:* the sequence is already observable and dateable — the
+  modern equivalent of the parlements-and-Star-Chamber build-out, arriving
+  (as the chapter argues it must) *after* the consolidation begins.
+- *Directional prediction:* rising tempo = the Tudor sequence proceeding
+  (converges with C2-2 canonical-assertion tempo — merge at assembly);
+  stall or reversal (new ISDS treaties, binding private fora recognised
+  without state licence) = dispersal stable, thesis threatened.
+- *BASELINE: TO BE SOURCED* as a coded event series (instrument, date,
+  bloc); the raw events are dated in ch08/memo.md §6.
+
+**C8-3 — Grey-zone legibility (offshore untaxed fraction) [refines C1-3;
+primary baseline IN HAND].**
+- *Measures:* the *untaxed fraction* of offshore household financial
+  wealth — sharper than C1-3's gross stock, because the stock can persist
+  while the state's sight-lines improve.
+- *Ch. 8 finding:* EU Tax Observatory 2024 (verbatim): offshore stock
+  steady at ~10% of world GDP, but "offshore tax evasion has declined by a
+  factor of about three in less than 10 years"; only ~25% of the stock now
+  evades tax; ~$12.6tn reported under CRS in 2022.
+- *Directional prediction:* untaxed fraction falling = the grey zone being
+  made legible (consolidation acting on Cerny's sixth characteristic);
+  fraction rising = the interstices winning. The gross stock is expected to
+  persist (durable disorder in the gaps) — the *fraction* is the signal.
+- *BASELINE:* **sourced and dated** (Global Tax Evasion Report 2024).
+  Merge with C1-3 at assembly; keep the fraction, not the stock, as the
+  indicator.
+
+*Consolidation note:* C8-2 joins C2-2 on the canonical-assertion axis and
+C8-1 gives that axis its denominator (assertion *over how much* migrated
+business). C8-3 supersedes C1-3's single-point baseline with a
+directionally sharper series. The platform-adjudication scale numbers
+(Oversight Board appeals-vs-decisions; Apple transparency series) were
+considered as a fourth candidate and held back: they measure the
+phenomenon's existence vividly but lack a clean directional prediction —
+logged here so the cut is not silent.
+
+---
+
 *Seeded from ch06/memo.md (2026-07-22); extended from ch01, ch02, ch05,
-ch03, ch07, and ch04 memos (2026-07-22). Batch 2 complete; to be extended
-by each subsequent chapter job.*
+ch03, ch07, and ch04 memos (2026-07-22); extended from ch08 memo
+(2026-07-23). To be extended by each subsequent chapter job.*
 
 STATUS: PENDING HUMAN REVIEW (running file)
