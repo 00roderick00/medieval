@@ -275,6 +275,25 @@ as written.
    restored. Until retrieved, the flattening-objection defence rests on
    northern Italy alone, and the draft must not assert the Rhineland claim.
 
+3. **(Upgrade pass, 2026-07-23.) Cerny 1998 retrieved and in repo — the
+   enumeration question is resolved at page level.** The *Civil Wars*
+   original (`corpus/retrieved/NeomedievalismCivilWars.pdf`, pp. 36–64)
+   contains **two enumerations**: an inline list of *seven* attributes
+   (pp. 45–46) and *six* characteristic section headings (I: multiple
+   competing institutions, p. 49; II: lack of exogenous territorialising
+   pressures, p. 52; III: uneven consolidation of new spaces, cleavages,
+   conflicts and inequalities, p. 54; IV: fragmented identities, p. 55;
+   V: property rights, p. 56; VI: the spread of *zones grises*, p. 57).
+   The memo's six-fold checklist (§4) is confirmed and now sources to the
+   **section headings**, with the inline seven-item variant noted; *zones
+   grises* is Minc's coinage (Cerny's n. 16). Bonus for §4's
+   characteristic 2 (the memo's "weakest-fitting — because the pressure
+   is returning" turn): Cerny's own section II names "the inter-dynastic
+   struggles of the Hundred Years' War" as the exogenous consolidating
+   pressure now absent (p. 52) — the draft can quote the absence claim
+   whose reversal the book argues. Full analysis in ch08/memo.md §0.1;
+   retrieval-master updated.
+
 ---
 
 STATUS: REVIEWED (Roderick, 2026-07-22) — cleared for drafting
