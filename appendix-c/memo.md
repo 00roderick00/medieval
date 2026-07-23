@@ -489,8 +489,82 @@ logged here so the cut is not silent.
 
 ---
 
+## Candidates from Ch. 10 (The Artillery State)
+
+Chapter 10 owns the mechanism side of the spine and — as ch06's notes
+anticipated ("Ch. 10 owns this") — supplies the sourced baselines that
+C6-1 and C6-2 were waiting for. Its candidates are therefore mostly
+*promotions* of existing axes, plus one new delivery-gap measure.
+
+**C10-1 — Public financing of the military-relevant stack [promotes C6-2;
+primary baseline IN HAND].**
+- *Measures:* permanent public appropriations to the decisive layer, by
+  bloc — the modern form of the 1442 artillery budget line.
+- *Ch. 10 finding (all dated, primary):* US CHIPS $52.7bn appropriated,
+  awards finalized Nov–Dec 2024 (Intel $7.86bn; TSMC $6.6bn; Samsung
+  $4.745bn; Micron $6.165bn; GF $1.5bn) + Secure Enclave (≤$3.5bn);
+  China Big Fund I–III: RMB 138.7bn + 204bn + 344bn (III: May 2024);
+  EU: ~€4.5bn directly Commission-controlled of the "€43bn" headline
+  (decomposition per Bruegel); SDA Tranche 3 ~$3.5bn (Dec 2025); IRIS²
+  €10.6bn (~60% public).
+- *Qualitative escalation marker:* the **Aug 2025 Intel equity
+  conversion** ($8.9bn → ~10% federal stake + 5% warrant) — the
+  paymaster becoming owner. Log such subsidy→ownership events
+  separately; they discriminate absorption (Tudor) from mere industrial
+  policy.
+- *Directional prediction:* rising, concentrated public financing =
+  mechanism operating; a shift to distributed/commodity private
+  financing of the *military-relevant* layer = thesis threatened.
+- *BASELINE:* **sourced and dated.** Promote; C6-2 is hereby satisfied.
+
+**C10-2 — Leading-node concentration ratio [promotes C6-1; primary
+baseline IN HAND].**
+- *Measures:* count of polities with leading-node logic fabrication on
+  territory; supplier concentration of the enabling layer.
+- *Ch. 10 finding:* SIA/BCG (Apr 2021, verbatim): sub-10nm capacity
+  "Taiwan (92%) and South Korea (8%)" — 100% in two polities, neither a
+  bloc core (the erosion of that 100% by TSMC-Arizona/Intel-18A is
+  itself the CHIPS story and should be tracked as the series); ≤3nm-class
+  = TSMC + Samsung (+ Intel ramping); EUV = ASML alone, zero systems
+  ever shipped to China; TSMC foundry share ~70% (2025).
+- *Directional prediction:* per C6-1 — count stable at ≤4 blocs able to
+  command the layer = concentration thesis holds; genuine proliferation
+  of leading-node capability = thesis threatened.
+- *BASELINE:* **sourced** (SIA/BCG 2021 snapshot + TrendForce series;
+  the "advanced-node ~90%" variant remains unverified — do not promote
+  that formulation).
+
+**C10-3 — Decisive-layer delivery gap (target vs actual) [new; sharpens
+C5-1; primary baseline IN HAND].**
+- *Measures:* the gap between a bloc's announced decisive-layer
+  production targets and audited actuals — execution capacity in the
+  domain where the artillery-state response must run.
+- *Ch. 10 finding:* US 155mm — 100k/month target (orig. Oct 2025) vs
+  **~36k/month actual (DoD IG, as of Mar 2026)**; EU ASAP "2M
+  shells/yr" is a *capacity* claim, not output; NDIS (Jan 2024) is the
+  state's own confession ("does not possess the capacity, capability,
+  responsiveness, or resilience required…"); Intel Magdeburg cancelled
+  (Jul 2025); IRIS² services ~2030.
+- *Directional prediction:* gap closing = the response executing
+  (consolidation proceeding); gap persisting/widening = hollow
+  sovereignty in the decisive domain — the thesis threatened at its
+  root (converges with C5-1; merge at assembly, keeping this chapter's
+  audited target-vs-actual form as the metric).
+- *BASELINE:* **sourced and dated** (DoD IG Jul 2026; Commission ASAP
+  pages; NDIS).
+
+*Consolidation note:* with ch10 the mechanism axis is fully baselined:
+C6-1→C10-2, C6-2→C10-1, C5-1→C10-3 (audited form). The
+subsidy→ownership event log inside C10-1 should merge with C2-1
+(nationalisation-of-function) and C4-1 (absorption-mode) at assembly —
+they are one instrument viewed from three chapters. The four-polity
+count itself (memo §7, tagged (c)) is *not* an indicator — it is the
+prediction the indicators test.
+
+---
+
 *Seeded from ch06/memo.md (2026-07-22); extended from ch01, ch02, ch05,
-ch03, ch07, and ch04 memos (2026-07-22); extended from ch08 memo
-(2026-07-23). To be extended by each subsequent chapter job.*
+ch03, ch07, and ch04 memos (2026-07-22); extended from ch08 and ch10
+memos (2026-07-23). To be extended by each subsequent chapter job.*
 
 STATUS: PENDING HUMAN REVIEW (running file)
