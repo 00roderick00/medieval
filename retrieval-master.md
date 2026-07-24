@@ -125,10 +125,12 @@ never-delete, the source-library copies are canonical for citation.
 
 **Files matching neither Appendix B nor this list:**
 - `MA Thesis Intro & Ch 1 / Ch 2-4 / Ch 5 / Ch 6 / Conclusion.pdf` (5
-  files, scanned images, no text layer) — unidentified in the acquisition
-  record; presumed Roderick's 1994 Cambridge MPhil (the voice.md
-  calibration corpus). **Flag: confirm identity; OCR pass if it is to be
-  cited.**
+  files, scanned images, no text layer) — **identified (Roderick,
+  2026-07-24): Roderick Jones's own Cambridge M.Phil thesis** (the 1994
+  MPhil named in voice.md as part of the voice-calibration corpus).
+  Author's own work — not a licensed-material question. OCR pass still
+  needed before any text can be quoted or used for voice calibration in
+  drafting.
 - `Pollard_Talbot_Comprehensive_Research_Digest.pdf` + `John Talbot
   _Pollard/` (9 page screenshots) — the separate 43-pp. Pollard digest the
   dossier references; commissioned work product, outside Appendix B by
