@@ -139,6 +139,28 @@ never-delete, the source-library copies are canonical for citation.
 - The four Persée PDFs (Contamine 1964, Perroy ×2, Depreter) — separate
   retrieval, already integrated (ch10 Revisions 7–8).
 
+### Added from Batch 4 (ch11) — 2026-07-24
+
+| Work | Needed by | Priority | Status |
+|---|---|---|---|
+| Wolffe, "Henry VII's Land Revenues and Chamber Finance" (*EHR* 79, 1964); *The Crown Lands 1461–1536* | ch11 (the chamber-receipts series ~£3k→~£105k) | **HIGH** | PENDING |
+| Lander, *Crown and Nobility 1450–1509* (1976) | ch11 (exact bond/recognizance tallies: 36/62; ~46/62) | **HIGH** | PENDING |
+| Elliott, *Imperial Spain* (already listed); Ladero Quesada, *La Hacienda Real de Castilla 1369–1504* | ch11 (900k→26M reales arc; Uclés 1476; Castilian machinery) | **HIGH** | Elliott: **BUY** per dossier-adjacent status (not in dossier scope — verify route); Ladero PENDING |
+| Grummitt (*HR* 72, 1999); Gunn (*HR* 82, 2009) full texts | ch11 (chamber revisionism; New Monarchy historiography) | MED | PENDING (gated OUP) |
+| Lunenfeld, *The Council of the Santa Hermandad* (1970); Kamen, *The Spanish Inquisition*; Contreras & Henningsen (1986) | ch11 (Hermandad detail; any Inquisition scale figures) | MED | PENDING |
+| İnalcık, "Mehmed the Conqueror and His Time" (*Speculum* 35, 1960); Murphey, *Ottoman Warfare*; Ágoston, *Guns for the Sultan* | ch11 (devşirme per-levy numbers; kul-vizier counts; janissary payrolls) | MED | PENDING (İnalcık book itself: BORROW per dossier) |
+| Eisenstein (1979); Johns, *The Nature of the Book* (1998); *AHR* 107:1 (2002) forum; Febvre & Martin, *The Coming of the Book* | ch11 (the print debate's own texts; the 20M-copies formulation) | MED | PENDING |
+| Green, *A Short History of the English People* (1874) | ch11 (the "New Monarchy" coinage — public domain, archive.org download task) | LOW | PENDING (open; download) |
+| A. F. Pollard; Koenigsberger; C. S. L. Davies critiques; Elliott, "A Europe of Composite Monarchies" (*P&P* 137, 1992) | ch11 (New Monarchy genealogy and critics; Guenée already listed for ch09) | LOW | PENDING |
+
+**ch11 in-browser verification pulls** are consolidated in ch11/sources.md
+(OECD side-by-side + AEOI verbatim; EO 14365/14409 texts; WAICO 29-state
+signing via Xinhua/MFA; GSA/defense.gov releases; five court dockets;
+NPCI/UIDAI/PIB/RBI/PBOC figures; China platform-normalization primaries;
+Mistral–ASML figure; Meta code-of-practice quote; Italy DST budget text;
+Colorado post-June-2026 status; Brazil digitization; EuroStack; US PMSC
+check).
+
 ## II. Open primaries needing a reading pass (no gate)
 
 | Item | Needed by | Status |
