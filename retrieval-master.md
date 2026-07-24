@@ -161,6 +161,16 @@ Mistral–ASML figure; Meta code-of-practice quote; Italy DST budget text;
 Colorado post-June-2026 status; Brazil digitization; EuroStack; US PMSC
 check).
 
+### Added from Batch 4 (ch12) — 2026-07-24
+
+| Item | Needed by | Priority | Status |
+|---|---|---|---|
+| RUSI Feb 2025 report PDF (Watling & Reynolds) — page pin for the "60–70% of damaged and destroyed Russian systems" sentence | ch12 | MED | Open; PARSE/pin |
+| Jeddah US–Ukraine joint statement (11 Mar 2025), state.gov verbatim | ch12 | MED | In-browser pull |
+| CNN Alabuga reporting (25 Jul / 8 Aug 2025) — geo-blocked (HTTP 451) | ch12 | LOW | In-browser pull |
+| The 9 Jul 2025 raid composition; OneWeb terminal count; White Paper for European Defence date; 2026 US chip-policy primaries; NRO/NGA commercial-ISR formulation; WSJ ATACMS approval-mechanism report | ch12 | LOW | In-browser pulls (listed in ch12/sources.md) |
+| **Excluded pending verification:** reported Feb 2026 US–Iran conflict (T3/T4 only) — do not use anywhere until independently confirmed | ch12 | — | FLAGGED |
+
 ## II. Open primaries needing a reading pass (no gate)
 
 | Item | Needed by | Status |
