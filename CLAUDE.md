@@ -72,6 +72,10 @@ Three claims in sequence:
   sources.md for human download; integrate with page-level citations only
   after the PDF appears in the folder. Never cite a gated work from memory as
   if consulted.
+- Acquisition-status authority: research/acquisition-dossier.md (the
+  commissioned Source Acquisition & Research Dossier) — its verified
+  routes and evidence grades supersede prior route guesses in
+  retrieval-master.md.
 
 ## 5. Source hierarchy
 Classify every sources.md entry by tier; a claim's weight must match its tier:
