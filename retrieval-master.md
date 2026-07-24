@@ -124,13 +124,22 @@ filed source-library copy, incl. a second flat copy of Contamine 1964
 never-delete, the source-library copies are canonical for citation.
 
 **Files matching neither Appendix B nor this list:**
-- `MA Thesis Intro & Ch 1 / Ch 2-4 / Ch 5 / Ch 6 / Conclusion.pdf` (5
-  files, scanned images, no text layer) — **identified (Roderick,
-  2026-07-24): Roderick Jones's own Cambridge M.Phil thesis** (the 1994
-  MPhil named in voice.md as part of the voice-calibration corpus).
-  Author's own work — not a licensed-material question. OCR pass still
-  needed before any text can be quoted or used for voice calibration in
-  drafting.
+- `MA Thesis Intro & Ch 1 / Ch 2-4 / Ch 5 / Ch 6 / Conclusion.pdf` —
+  **identified (Roderick, 2026-07-24): Roderick B Jones, *The Zenith of
+  Kingship under Henry VI, c.1450–53: a study in medieval government*,
+  M.Phil thesis, Trinity Hall, Cambridge, August 1994.** Author's own
+  work. **OCR pass DONE (2026-07-24):** searchable PDFs + sidecar text
+  at `corpus/retrieved/source-library/mphil/` (MPhil-01…05; ~23,600
+  words; quality good, cover-page artefacts only). Dual significance:
+  (a) the voice.md calibration corpus's 1994 anchor, now machine-
+  readable for register checks at drafting; (b) **subject-matter
+  overlap with the book's core crisis period** — Henry VI's government
+  1450–53, Kemp's administration, Castillon, the madness — i.e. the
+  documentary root of the "author's specific expertise on regency and
+  incapacity" the outline assigns to ch09. Candidate use: cite as the
+  author's own prior scholarship in ch05/ch09 (Roderick's call at
+  review; it is a 1994 M.Phil — check its claims against the current
+  memos before any factual reliance).
 - `Pollard_Talbot_Comprehensive_Research_Digest.pdf` + `John Talbot
   _Pollard/` (9 page screenshots) — the separate 43-pp. Pollard digest the
   dossier references; commissioned work product, outside Appendix B by
