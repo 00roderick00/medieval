@@ -88,14 +88,14 @@ plus open T1 (Commynes); its modern half is unusually T1-rich
 ## T2 — Canonical scholarship / specialist (open, consulted)
 
 - **Contamine**, "L'artillerie royale française à la veille des guerres
-  d'Italie," *Annales de Bretagne* 71/2 (1964) — open on Persée; only
-  p. 1 machine-read this pass (Giovio: the 1494 train, 36+ pieces at
-  cavalry speed). **PARSE: full read owed before draft.**
+  d'Italie," *Annales de Bretagne* 71/2 (1964) — PDF IN REPO, complete
+  read (see "PARSE — closed" below and memo Revisions 7–8).
 - **Perroy**, "L'artillerie de Louis XI dans la campagne d'Artois
-  (1477)," *Revue du Nord* 26 (1943), 2 parts — open on Persée. PARSE.
+  (1477)," *Revue du Nord* 26 (1943), 2 parts — PDFs IN REPO, complete
+  read (memo Revisions 8).
 - **Depreter**, "L'artillerie de Charles le Hardi… (1467–1477)," *BCRH*
-  177 (2011) — open on Persée; the source for critical gun counts
-  (Grandson's "400"). PARSE.
+  177 (2011) — PDF IN REPO, complete read; no Grandson loss-count in the
+  article (memo Revisions 8).
 - **Bachrach**, "A Military Revolution Reconsidered: the Burgundian
   State" (*Essays in Medieval Studies* 15, 1998; open summary at
   Medievalists.net) — the 1471/72/73 ordinance sequence; Heimpel's
