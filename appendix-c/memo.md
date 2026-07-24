@@ -632,9 +632,57 @@ fisc (C11-2), and the scorecard (C11-1).
 
 ---
 
+---
+
+## Candidates from Ch. 12 (Not Modernity, But Tudor)
+
+Chapter 12 sharpens the military-technology axis with the Ukraine record
+and supplies C6-4's replacement (the candidate ch06 flagged for cut now
+has a defensible operational form).
+
+**C12-1 — Patron-dependence of the distributed layer [replaces C6-4;
+baseline IN HAND].**
+- *Measures:* a drone-rich combatant's measurable dependencies on a
+  patron's decisive layer: connectivity terminals (Starlink ~42k),
+  interceptor stocks/production (Patriot at ~25% of planned need;
+  ~550–650/yr), intelligence/imagery-sharing arrangements (the NGA/GEGD
+  channel), deep-strike permissions.
+- *Ch. 12 finding:* the 3–11 March 2025 suspension week as the natural
+  experiment — degradation within days, restoration by agreement.
+- *Directional prediction:* rising sovereign substitution (Flamingo-class
+  systems, domestic constellations, interceptor-drone economics) without
+  patron scaffolding = the decisive layer proliferating (thesis
+  threatened at C6-1); persistent patron-dependence = concentration
+  holding.
+- *BASELINE:* sourced and dated (ch12/sources.md).
+
+**C12-2 — Industrialisation of the cheap layer [new; baseline IN HAND].**
+- *Measures:* the "longbow at scale" as a state programme: annual drone
+  procurement/production per combatant (UA 2.2M→~3M FPV; RU Shahed
+  200→1,000+/week; Alabuga 6,000-unit target), and the share supplied
+  through central procurement vs improvised.
+- *Directional prediction:* the cheaper the unit and the larger the
+  programme, the more the "distributed" layer behaves as fiscal-military
+  capacity — supporting the asymmetry reading; a genuinely
+  non-state-scaled decisive employment of the cheap layer would cut
+  against it.
+- *BASELINE:* sourced and dated.
+
+*Assembly directive (for the finished Appendix C):* consolidate the
+running list to 10–15 around the established spine — mechanism
+(C6-1→C10-2; C6-2→C10-1; C10-3), scorecard (C11-1 absorbing C2-1/C2-2/
+C4-1/C8-2), independence-vs-absorption (C2-3/C3-2/C5-2/C4-2), fisc
+(C11-2 absorbing C7-1's reach limb), law (C8-1/C8-3/C11-3),
+military-technology (C12-1/C12-2), interstitial residue (C1-3→C8-3;
+C5-3). First promotions (sourced primary baselines in hand): C3-1, C5-1,
+C7-1, C1-3/C8-3, C8-1, C10-1, C10-2, C10-3, C11-2, C12-1, C12-2.
+
+---
+
 *Seeded from ch06/memo.md (2026-07-22); extended from ch01, ch02, ch05,
 ch03, ch07, and ch04 memos (2026-07-22); extended from ch08 and ch10
-memos (2026-07-23); extended from ch11 memo (2026-07-24). To be extended
-by each subsequent chapter job.*
+memos (2026-07-23); extended from ch11 and ch12 memos (2026-07-24). To be
+extended by each subsequent chapter job; assembly per the directive
+above.*
 
 STATUS: PENDING HUMAN REVIEW (running file)
