@@ -679,10 +679,31 @@ C7-1, C1-3/C8-3, C8-1, C10-1, C10-2, C10-3, C11-2, C12-1, C12-2.
 
 ---
 
+---
+
+## From ch00-intro (2026-07-24): the wager–indicator linkage
+
+The introduction's falsifiability passage (ch00-intro/memo.md §3, drafted
+numbered and quotable) binds the four failure conditions to this file's
+indicators explicitly:
+
+| Failure condition (narrowed form) | Operational indicators |
+|---|---|
+| 1. Decisive layer proliferates / defeat without patron scaffolding | C6-1→C10-2; C12-1 |
+| 2. Legibility fragments in fact (bloc-internal reach falls) | C11-2; C8-3 |
+| 3. Platform independence consolidates / adjudication migrates out of state courts | C2-3/C3-2; C11-3 |
+| 4. Tudor moves stall across all four candidates; or canon alone consolidates a bloc (the Depreter test) | C11-1; C10-1; C4-1; the EU lag series |
+
+At assembly, the finished Appendix C should print this table beside the
+introduction's passage so the reader can score the wager without
+reconstructing the mapping.
+
+---
+
 *Seeded from ch06/memo.md (2026-07-22); extended from ch01, ch02, ch05,
 ch03, ch07, and ch04 memos (2026-07-22); extended from ch08 and ch10
-memos (2026-07-23); extended from ch11 and ch12 memos (2026-07-24). To be
-extended by each subsequent chapter job; assembly per the directive
-above.*
+memos (2026-07-23); extended from ch11 and ch12 memos and the ch00-intro
+wager linkage (2026-07-24). To be extended by each subsequent chapter
+job; assembly per the directive above.*
 
 STATUS: PENDING HUMAN REVIEW (running file)
