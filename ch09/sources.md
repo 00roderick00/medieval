@@ -138,3 +138,13 @@ readable.
 constrained). Working extracts (plowden.txt, mait3.txt, rotparl5.txt,
 elton_memoir.txt, lander.txt, vickers.txt) are in the session scratchpad.
 Update retrieval-master.md accordingly.*
+
+---
+
+## Verified short quotations (dossier Appendix C, 2026-07-24; texts in repo)
+
+- **Watts**, ch. 5, p. 123: "There seems to me to be little evidence that
+  Henry himself was the author" — kingship exercised around, not by, the
+  natural body; direct support for the two-bodies argument.
+- **Wilkinson**, p. 177: "did not talk, sat slumped, had to be fed and
+  moved" — the natural body's failure, clinically stated.

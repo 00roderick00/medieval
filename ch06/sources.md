@@ -173,3 +173,17 @@ as consulted until retrieved. Access routes for the canonical works are in
 were consulted for the memo via web research on 2026-07-22; Britannica pages
 were fetch-blocked and captured via search snippets — confirm any Britannica
 quotation in a browser before print.*
+
+---
+
+## Verified short quotations (dossier Appendix C, 2026-07-24; texts in repo)
+
+- **Curry**, p. 171: "the military revolution has been a moveable feast" —
+  the historiographic caution, quotable for the debate-staging.
+- **Rogers**, p. 242: "The idea of the military revolution rapidly became
+  the 'new orthodoxy'" — same use, from the other side.
+- **Stevenson**, vol. II pt. ii, p. 619: "cities, towns and places,
+  castles, and fortresses which have been lost" — the Somerset list's own
+  heading (first-hand; see memo Revisions 6).
+- **Keen** on Vale, *Medium Ævum* 52 (1983), p. 117: "a substantial and
+  important study" — review carrying Vale pending the loan.

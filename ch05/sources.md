@@ -109,3 +109,13 @@ side is strong on primaries with several figures flagged to pin before print.
 interpretive spine gated (RETRIEVAL 1–6). Modern side strongly primary (World
 Bank, GAO, Japanese Statistics Bureau) with the flagged figures to be pinned to
 primary tables before print. Consistency with ch06 verified.*
+
+---
+
+## Verified short quotations (dossier Appendix C, 2026-07-24; texts in repo)
+
+- **Watts**, ch. 5, p. 123: "There seems to me to be little evidence that
+  Henry himself was the author" — the agency question at the heart of the
+  wars-as-symptom framing.
+- **Wilkinson**, p. 177: "did not talk, sat slumped, had to be fed and
+  moved" — the incapacity described clinically.

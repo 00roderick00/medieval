@@ -247,3 +247,18 @@ Rogers/DeVries/Curry/Cerny; every claim cites the document or named
 source listed above — provenance runs to sources only (CLAUDE.md §4).
 URLs in the session research record. Update retrieval-master.md
 accordingly.*
+
+---
+
+## Verified short quotations (dossier Appendix C, 2026-07-24; texts in repo)
+
+- **DeVries**, p. 127: "critics … have specifically targeted Parker's
+  ideas of technological determinism" — the anti-determinist stance
+  self-declared; pairs with his p. 145 concession (critiques Obj. 3).
+- **Curry**, p. 171: "the military revolution has been a moveable feast" —
+  for the debate-staging in §6.
+- **Rogers**, p. 242: "The idea of the military revolution rapidly became
+  the 'new orthodoxy'" — same use.
+- **Cazelles** on Contamine 1972, *BEC* 131 (1973), p. 293: "une
+  contribution de premier ordre à l'histoire de l'État moderne" — the
+  review carrying the anchor monograph pending purchase.
