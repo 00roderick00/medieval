@@ -563,8 +563,78 @@ prediction the indicators test.
 
 ---
 
+---
+
+## Candidates from Ch. 11 (The New Monarchies)
+
+Chapter 11 supplies the *five-move scorecard* — the operational form of
+the book's central prediction — plus two discriminators its 2025–26
+verification surfaced.
+
+**C11-1 — Five-move scorecard, by bloc and by target [the assembly
+instrument].**
+- *Measures:* dated state actions under each of the five moves, coded by
+  bloc and by **target** (own-subject vs peer-state) and by **status**
+  (asserted vs enforced vs enforced-and-upheld).
+- *Ch. 11 finding:* the coding data already exist in the memo §7 record
+  (DMA/DSA decisions; Google/Meta/Anthropic litigation; Africa Corps;
+  AI Act dates asserted vs applied; GENIUS Act; WAICO). The
+  own-subject/peer-state split operationalises the great-power-vs-Tudor
+  test (critiques Obj. 1); the asserted/enforced lag operationalises the
+  1495 assertion-without-substrate test (Obj. 4).
+- *Directional prediction:* rising enforced-and-upheld actions against
+  own-subjects inside each bloc = the Tudor reading; decisive actions
+  clustering bloc-vs-bloc with internal enforcement stalling = the
+  great-power reading wins.
+- *BASELINE:* the memo's dated 2024–26 event set (sourced). Merges
+  C2-1/C2-2, C4-1, C8-2 at assembly — this is the umbrella they roll
+  into.
+
+**C11-2 — Bloc-internal vs cross-bloc fiscal reach [new discriminator;
+primary baseline IN HAND].**
+- *Measures:* the split the Pillar Two carve-out exposed — bloc-internal
+  fiscal instruments' reach (effective minimum rates, reporting mandates
+  on own-parented groups) vs cross-bloc harmonisation (treaties binding
+  another bloc's subjects).
+- *Ch. 11 finding:* Side-by-Side Package (1 Jan 2026) exempting
+  US-parented groups from IIR/UTPR while EU/UK/Japan et al. apply the
+  rules internally; CRS at 116 jurisdictions/171M accounts/~€13tn
+  (2024) as the reporting baseline; DST retreats under tariff threat.
+- *Directional prediction:* bloc-internal reach rising while cross-bloc
+  harmonisation stalls = the parallel-settlements thesis (the book's);
+  bloc-internal reach falling = the fiscal move failing on the book's
+  own terms (critiques Obj. 3); genuine global harmonisation returning =
+  the supranational reading (Kobrin's terminus) over the book's.
+- *BASELINE:* sourced and dated (OECD 2025–26 documents; browser pins
+  owed per ch11 sources.md).
+
+**C11-3 — Court-check series [new; keeps Obj. 5 scoreable].**
+- *Measures:* state disciplinary actions against platform-class subjects
+  that survive judicial review, as a win/loss series per bloc — and,
+  separately, any migration of state-platform dispute resolution *out*
+  of state courts (the true falsifier).
+- *Ch. 11 finding (2025–26):* FTC v. Meta lost; Google remedies granted
+  in part, on appeal; Apple designation upheld (GC, July 2026) while
+  contempt sanctions partly reversed; X fine under appeal; the Anthropic
+  directive enjoined. Mixed record — inside state courts throughout.
+- *Directional prediction:* the series may run against the state and the
+  thesis still hold (discipline-through-process); the thesis fails if
+  the *forum* migrates (platforms binding states outside state courts) —
+  converges with C8-1/C8-2.
+- *BASELINE:* sourced and dated (dockets; ch11 sources.md).
+
+*Consolidation note:* C11-1 is the assembly umbrella for the
+canonical/subordination axes; C11-2 splits C6-2/C10-1's financing story
+into its internal/external components; C11-3 disciplines the settlement
+claim against its own litigation record. With ch11 the running list has
+its full spine: mechanism (C6/C10), contest (C2/C3/C5), law (C8/C11-3),
+fisc (C11-2), and the scorecard (C11-1).
+
+---
+
 *Seeded from ch06/memo.md (2026-07-22); extended from ch01, ch02, ch05,
 ch03, ch07, and ch04 memos (2026-07-22); extended from ch08 and ch10
-memos (2026-07-23). To be extended by each subsequent chapter job.*
+memos (2026-07-23); extended from ch11 memo (2026-07-24). To be extended
+by each subsequent chapter job.*
 
 STATUS: PENDING HUMAN REVIEW (running file)
