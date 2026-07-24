@@ -294,6 +294,21 @@ as written.
    whose reversal the book argues. Full analysis in ch08/memo.md §0.1;
    retrieval-master updated.
 
+4. **(2026-07-24.) The Rhineland decision gap is closed to named routes**
+   (dossier Part III, adopted on Roderick's instruction). The immediate
+   route is **Huffman, *Family, Commerce, and Religion in London and
+   Cologne, c.1000–c.1300*** — Cambridge alumni access confirmed — for the
+   translocal commercial/familial/ecclesiastical texture of the
+   Cologne–London axis; the named acquisition candidates for the c. 1250
+   baseline itself are **Huffman, *Medieval Cologne*** (exact geography,
+   1125–1475) and **Scales, *The Shaping of German Identity*** (the
+   conceptual defence against the flattening objection, from 1245).
+   Revisions #2's interim rule stands until one of these is read: the
+   draft rests the flattening-objection defence on northern Italy alone
+   and does not assert the Rhineland claim. Sources.md #7 updated with
+   links; the concession's restoration is now an acquisition task, not an
+   open research question.
+
 ---
 
 STATUS: REVIEWED (Roderick, 2026-07-22) — cleared for drafting

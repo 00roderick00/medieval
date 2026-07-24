@@ -122,15 +122,24 @@ reading-list.md.
 6. **Colin Morris, *The Papal Monarchy: The Western Church 1050–1250*.**
    NEEDED FOR: a scholarly (not encyclopedic) statement that Innocent III
    marks the apex of the papal-monarchy claim.
-7. **A regional monograph on the mid-13th-century Rhineland** (e.g. on the
-   middle-Rhine ecclesiastical principalities / *Pfaffengasse*). NEEDED FOR:
-   the claim — central to the chapter's answer to the flattening objection —
-   that the Rhineland was *exceptionally* fragmented **specifically c. 1250**.
-   **This claim was NOT found in open sources** (open material covers early-
-   modern Kleinstaaterei). Highest-priority gap for the objection-defence.
-   **ELEVATED (review, 2026-07-22):** retrieve so the outline's Rhineland
-   concession can be restored; until then northern-Italy-only is the interim
-   defence position (see memo Revisions #2).
+7. **The Rhineland gap — RESOLVED to named candidates (dossier Part III,
+   adopted on review 2026-07-24).** Immediate route: **Huffman, *Family,
+   Commerce, and Religion in London and Cologne, c.1000–c.1300*** —
+   **Cambridge alumni access confirmed**; begin at once
+   (https://www.cambridge.org/core/books/family-commerce-andreligion-in-london-and-cologne/56B2D7D0665E816A16ACE9647929E513).
+   Named acquisition candidates: **Huffman, *Medieval Cologne: From
+   Rhineland Metropolis to European City (A.D. 1125–1475)*** (best exact
+   geography; De Gruyter preview/purchase —
+   https://www.degruyterbrill.com/document/doi/10.1515/9783111571140/html)
+   and **Scales, *The Shaping of German Identity: Authority and Crisis,
+   1245–1414*** (best conceptual defence against the flattening objection;
+   test Cambridge Core —
+   https://www.cambridge.org/core/books/shaping-of-german-identity/C6134B0992E7162F0636841FE9EC6CE2).
+   NEEDED FOR: the claim — central to the chapter's answer to the
+   flattening objection — that the Rhineland was *exceptionally*
+   fragmented specifically c. 1250. Until one of these is read,
+   northern-Italy-only remains the interim defence position (memo
+   Revisions #2, #4).
 8. **Philip Jones, *The Italian City-State*; Chris Wickham, *Sleepwalking into
    a New World*.** NEEDED FOR: a scholarly anchor for northern-Italian
    fragmentation and the 1250–73 Great Interregnum.
