@@ -522,6 +522,33 @@ instruction (§9), to correct the three factual overclaims in decisions 1–3.
      name vol. 2 specifically. Until then the figure continues to be
      cited *via Rogers*, exactly as §4 already does.
 
+6. **(Upgrade pass, 2026-07-24.) The Stevenson list located and read
+   first-hand — entry 5's negative finding is resolved.** Stevenson
+   (ed.), *Letters and Papers*, **vol. II part ii** ("Worcester's
+   Collections"), found in Roderick's staging folder and copied into
+   `corpus/retrieved/source-library/primary-sources/`. The document
+   Rogers cites is at **pp. 619–637**: "List of the Cities, Towns,
+   Castles, and Fortresses in France and Normandy taken from the
+   English by the French during the Administration of the Duke of
+   Somerset," French with parallel English — incipit: "**Cy ensuit les
+   noms des cites, villes et places, chasteaux et forteresses qui ont
+   este perdus durant la charge et gouvernance du duc de Somerset**"
+   (T1; a hostile-to-Somerset contemporary compilation — note the
+   partisan frame when citing). Its texture is the reviewed memo's
+   mechanism line by line: entry after entry "par composition"
+   (surrender on terms) or "desemparee pour doubte des ennemys"
+   (abandoned for fear of the enemy), a minority "dassault" or "par
+   traison," and the contested places holding days, not months
+   (Harcourt "tint huit jours"; Touques "tint trois jours").
+   Cautions: entries are frequently multi-place (e.g. p. 621: Lisieux's
+   composition delivering Orbec, Courtonne, Auvilliers, Crevecueur, Le
+   Breul, Fauguernon and Argentan-area holds in one line), so the
+   round "one hundred strongpoints" remains **Rogers's count of the
+   document** — cite the figure to Rogers-on-Stevenson, and the
+   *texture* to Stevenson directly; an independent place-count is a
+   draft-stage editorial task if wanted. The draft may now quote the
+   incipit and sample entries first-hand. Retrieval-master updated.
+
 Drafting of ch06/draft.md may now proceed against this reviewed memo (§7).
 
 ---
