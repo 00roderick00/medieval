@@ -273,6 +273,17 @@ as written.
    pardon-roll percentages and the "Articles" continue to await Harvey/
    Kaufman on retrieval.
 
+5. **(Upgrade pass, 2026-07-24.) Watts chs. 5–6 are in repo** (alumni
+   route confirmed; dossier grade A). This memo currently rests no
+   claim on Watts (the outline names him for the political context of
+   1450); the draft may now source the court-regime backdrop to Cade —
+   the household regime of 1445–50, its concentration of access and
+   patronage, and its difficulty legitimating itself across territorial
+   interests (Watts ch. 6) — first-hand rather than via Griffiths
+   summaries. Dossier caution adopted: Watts explains why grievance
+   fixed on the court; he is not a narrative of the rising itself
+   (Harvey remains the chapter's spine, on the retrieval list).
+
 ---
 
 STATUS: REVIEWED (Roderick, 2026-07-22) — cleared for drafting

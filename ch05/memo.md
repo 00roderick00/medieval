@@ -274,6 +274,28 @@ as written.
      itself (mark the trigger as "reputedly," per the source's own
      hedge). Cross-ref ch06 §5 and ch09 §2.
 
+6. **(Upgrade pass, 2026-07-24.) Watts is now partially first-hand:
+   chapters 5 and 6 are in repo** (Cambridge Core alumni access
+   confirmed — dossier grade A; do not buy). Two verified formulations
+   carry the chapter's framing directly:
+   - Ch. 5, p. 123 (in context): "In this chapter and the next, I shall
+     be arguing for an alternative version of events. **There seems to
+     me to be little evidence that Henry himself was the author of his
+     slow and halting progression to something resembling full
+     authority: indeed, the fact that it was so slow and, in certain
+     ways, incomplete tends to suggest the opposite.**"
+   - Ch. 5 programme: the transition of 1435–45 as "the peaceful
+     transfer of authority **from artificial council to (in effect)
+     artificial king**"; and p. 127 on conciliar signatures as "the
+     creation of an **artificial royal will** in periods when the king
+     could exercise no will in person."
+   The wars-as-symptom framing the memo carried at second hand is now
+   quotable from the text; the dossier's caution is adopted — Watts is
+   institutional and ideological, not a psychological diagnosis; pair
+   with Griffiths (REQUEST) for administrative density and Wilkinson
+   only for the 1453 episode. Ch. 6 ("The Rule of the Court, 1445–1450")
+   supplies the court-regime backdrop the crisis sections use.
+
 ---
 
 STATUS: REVIEWED (Roderick, 2026-07-22) — cleared for drafting

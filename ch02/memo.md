@@ -275,6 +275,33 @@ as written.
      the threshold; which named NVIDIA parts it captured stays with
      NVIDIA's SEC filing (still to pin — retrieval-master).
 
+4. **(Upgrade pass, 2026-07-24 — dossier item 28 integrated.)**
+   - **The Epic litigation chain is complete in repo.** Between the 2021
+     Rule 52 order and the 2025 contempt opinion now sits the Ninth
+     Circuit's 2023 stage: the merits opinion (*Epic Games, Inc. v.
+     Apple, Inc.*, 67 F.4th 946 (9th Cir., 24 Apr 2023) — affirmance of
+     the district court save on the DPLA attorney-fees point) and the
+     delivered 12-page order of 17 July 2023 (No. 21-16506, IN REPO)
+     rejecting Apple's stay arguments: they "fall far short of
+     establishing legal error." Per the dossier's usage rule: 2021 for
+     the merits and market analysis; 2023 for what was affirmed or
+     altered; 2025 only for contempt/enforcement — never projected
+     backward.
+   - **The chip-control anchor is completed and corrected:** the
+     original 3A090 threshold is a *conjunction* — aggregate
+     bidirectional transfer rate ≥600 Gbyte/s **and** bit-length ×
+     TOPS ≥4,800 (Revisions 3 carried only the second parameter); and
+     the which-chips question now has its primary anchor — NVIDIA's
+     Form 8-K of 26 August 2022 names A100, forthcoming H100, A100X,
+     and systems incorporating them as captured (SEC link in the
+     dossier, Appendix A). Later amendments differ; date every control
+     claim.
+   - **Chinese-law caution (dossier):** the Cybersecurity Law was
+     amended October 2025, effective 1 January 2026 — the memo's
+     discussion of the original regime must cite the 2016 text and
+     state the amendment; NPC-hosted Chinese text controls, DigiChina
+     translations labelled unofficial.
+
 ---
 
 STATUS: REVIEWED (Roderick, 2026-07-22) — cleared for drafting

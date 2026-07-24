@@ -261,4 +261,29 @@ pressure that forced it is the next chapter's subject.
 
 ---
 
+## Addendum (upgrade pass, 2026-07-24 — pre-review; the memo body stands)
+
+**Watts chs. 5–6 are now in repo** (Cambridge Core alumni access confirmed;
+dossier grade A; RETRIEVAL LIST item 2 partially satisfied), and they bear
+directly on this chapter's argument. Two verified formulations:
+
+- Ch. 5, p. 123: "There seems to me to be little evidence that Henry
+  himself was the author of his slow and halting progression to something
+  resembling full authority" — the office exercised around the person.
+- Ch. 5 programme and p. 127: the 1435–45 transition as "the peaceful
+  transfer of authority from artificial council to (in effect) **artificial
+  king**"; conciliar signatures as "the creation of an **artificial royal
+  will** in periods when the king could exercise no will in person."
+
+"Artificial king" and "artificial royal will" are, in Watts's own words,
+the two-bodies substitution problem this chapter's §§2–4 reconstruct from
+the rolls: the political body's will *manufactured by institutions* when
+the natural body cannot supply it. The draft may now pair Plowden's
+lawyers' fiction (T1) with Watts's historian's mechanism (T2) first-hand.
+Also per the dossier: Famiglietti's route is a verified IA controlled loan
+(BORROW), and Kantorowicz remains gated — the critiques.md Objection 2
+discipline (cite via reviews pending retrieval) is unchanged.
+
+---
+
 STATUS: PENDING HUMAN REVIEW
