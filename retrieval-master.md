@@ -171,6 +171,16 @@ check).
 | The 9 Jul 2025 raid composition; OneWeb terminal count; White Paper for European Defence date; 2026 US chip-policy primaries; NRO/NGA commercial-ISR formulation; WSJ ATACMS approval-mechanism report | ch12 | LOW | In-browser pulls (listed in ch12/sources.md) |
 | **Excluded pending verification:** reported Feb 2026 US–Iran conflict (T3/T4 only) — do not use anywhere until independently confirmed | ch12 | — | FLAGGED |
 
+### Added from Batch 4 (ch00-intro) — 2026-07-24
+
+| Work | Needed by | Priority | Status |
+|---|---|---|---|
+| Rengger, "The Dilemmas of Fairyland?" (Kelstrup & Williams eds., Routledge 2000, pp. 57–71 per T&F / 51–71 per Kelemen — resolve in-copy) | ch00-intro (the fairyland argument beyond the "its calamitous predecessor" fragment) | **HIGH** | PENDING (gated; no legal open copy found) |
+| Holsinger, *Neomedievalism, Neoconservatism, and the War on Terror* (Prickly Paradigm, 2007) | ch00-intro (re-verify punctum-carried quotes at pp. i–iv, 7, 53, 81) | MED | PENDING (cheap purchase; IA controlled loan exists — https://archive.org/details/neomedievalismne0000hols) |
+| Bull, *The Anarchical Society* | ch00-intro + ch01 (caution verbatim; resolve "giving way/place"; fix edition pagination book-wide) | **HIGH** | **BUY** (already so marked; the introduction's single most important purchase). Interim carriers: Kelemen 2019 (Bull 2002: 245, 265); Annual Reviews 2023 / punctum 2013 (Bull 1977: 255 / 2002: 246) |
+| Roberts, *The Military Revolution, 1560–1660* (1956 lecture; via Rogers ed. 1995, pp. 13–35) | ch00-intro (the "great divide" sentence in full — Taylor 2019 carries it openly meanwhile) | LOW | Folds into the Rogers-anthology BUY (already listed) |
+| Guéhenno, *The End of the Nation-State* (1995) | ch00-intro (Rengger's foil — only if the draft engages it) | LOW | PENDING |
+
 ## II. Open primaries needing a reading pass (no gate)
 
 | Item | Needed by | Status |
