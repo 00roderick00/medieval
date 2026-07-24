@@ -109,6 +109,36 @@ freely with page refs) · **PARSE** (open but needs a reading pass).
 | Miller, *Chip War* (2022) | ch10, ch12 (page-cited chokepoint narrative; T3 trade) | LOW | PENDING |
 | Vaughan, *Charles the Bold* | ch10 (1471/72/73 ordinance labelling; Franco-Swiss subsidy terms; Burgundian artillery) — extends the existing Vaughan line | **HIGH** | PENDING |
 
+## I(b). Inventory of corpus/retrieved vs dossier Appendix B — 2026-07-24
+
+All 17 Appendix B delivered files are **present and IN REPO** (flat in
+`corpus/retrieved/` and/or filed in `corpus/retrieved/source-library/`):
+Watts chs. 5–6, Wilkinson, Curry "Guns and Goddams", Stevenson vols. I and
+II.ii, Contamine review (Cazelles, BEC 1973), DeVries 1998 article, Keen
+review of Vale, Rogers 1993 article, Epic v. Apple ×3 (NDCal 2021; **CA9
+2023 amended opinion No. 21-16506 — newly flipped IN REPO**; CA9 2025),
+BIS 3A090 rule, **Draghi Part A — newly flipped IN REPO**, Draghi Part B,
+MHLW 2024. Note: several files exist in duplicate (flat delivery copy +
+filed source-library copy, incl. a second flat copy of Contamine 1964
+`abpo_0003-391x_1964_num_71_2_2220.pdf`); duplicates left in place per
+never-delete, the source-library copies are canonical for citation.
+
+**Files matching neither Appendix B nor this list:**
+- `MA Thesis Intro & Ch 1 / Ch 2-4 / Ch 5 / Ch 6 / Conclusion.pdf` (5
+  files, scanned images, no text layer) — unidentified in the acquisition
+  record; presumed Roderick's 1994 Cambridge MPhil (the voice.md
+  calibration corpus). **Flag: confirm identity; OCR pass if it is to be
+  cited.**
+- `Pollard_Talbot_Comprehensive_Research_Digest.pdf` + `John Talbot
+  _Pollard/` (9 page screenshots) — the separate 43-pp. Pollard digest the
+  dossier references; commissioned work product, outside Appendix B by
+  design. (Candidate for the same markdown-conversion treatment as the
+  dossier, on instruction.)
+- `NeomedievalismCivilWars.pdf` — the Cerny 1998 author-upload (dossier
+  #23 DOWNLOAD, executed); already integrated (ch08).
+- The four Persée PDFs (Contamine 1964, Perroy ×2, Depreter) — separate
+  retrieval, already integrated (ch10 Revisions 7–8).
+
 ## II. Open primaries needing a reading pass (no gate)
 
 | Item | Needed by | Status |
