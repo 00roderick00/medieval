@@ -664,6 +664,111 @@ the draft.
    remaining budget series) follows once the PDFs land; Grandson gun
    counts still await Depreter.
 
+8. **(Upgrade pass completed, 2026-07-23 — the four Persée PDFs are in
+   repo (`corpus/retrieved/source-library/open-access/`, downloaded by
+   Roderick) and fully read. All PARSE items for this chapter are
+   closed.)**
+
+   **Contamine 1964 (42 pp., complete read; supersedes the partial
+   viewer read of entry 7, which stands):**
+   - **The headline ratio, p. 261: "En 1489, les dépenses de
+     l'artillerie atteignent 8 % des dépenses militaires"** — artillery
+     at 8% of all French military expenditure in 1489. This extends
+     Rogers's 1442 ratio (artillery vs traditional materiel) into the
+     next generation as a share of the whole military budget, from the
+     account books.
+   - **The permanent establishment quantified:** the standing artillery
+     personnel numbered "guère plus de 150 noms" (~150), plus mass
+     extraordinary labour per campaign; of 39 canonniers attested in
+     1469, 9 were still serving 22 years later — average careers around
+     twenty years (pp. 226–27 area; fn 25). A career technical service,
+     not contract labour. Specialised offices enumerated: capitaine du
+     charroi; trésorier et garde des salpêtres, soufres et plomb; garde
+     des poudres; capitaine des "mines et approches"; garde des "petits
+     engins" at Paris.
+   - **The 1494 train, from Giovio (via Contamine, p. 221):** entering
+     Rome on the night of 31 December 1494, "plus de 36 pièces que les
+     chevaux tiraient à une incroyable vitesse, sur tous les terrains" —
+     the largest bronze pieces eight feet long, six thousand pounds,
+     "appelées canons." A 1494 "bonne bande d'artillerie" = 9 cannon,
+     composition analogous to 1489 (p. ~256) — the French technical
+     lead consolidating, not leaping, after 1489.
+   - **Second T4 debunk (extends entry 7's cinq-bandes correction):**
+     the "1479 ordinance assigning 220,000 livres for artillery
+     transport" (artillerie.asso.fr) is a garble of Contamine's
+     transport-cost example — **220,000 *pounds weight* of materiel
+     hauled overland Gien→Cépoy (50 km) at a cost of 605 l.t.**, in his
+     water-vs-land comparison (land ~10× the cost of water per
+     thousand livres-km; p. ~258 and fn). The draft drops the
+     "220,000-livre transport budget" entirely.
+   - **Draft-quotable close (p. 261):** Charles VIII "a pu se laisser
+     persuader qu'il possédait un instrument qu'aucune coalition ne
+     pouvait briser" — an instrument no coalition could break, put "au
+     service de ses ambitions italiennes." §7's modern close has its
+     fifteenth-century epigraph candidate.
+
+   **Perroy 1943 (2 parts, complete read):**
+   - **Provenance texture worth the draft's attention:** the 1477
+     artillery accounts survive only as fragments recovered from the
+     binding of a 1721 book (John Rylands Library, French ms. 57;
+     Fawtier's discovery) — the fiscal-military archive surviving by
+     accident, as Burgundy's survived by exception (below).
+   - **The 1477 Artois campaign scale, from the financiers' own
+     forecasts:** the guns and tools of the **three bandes** engaged,
+     plus 26 couleuvrines "de l'ancienne ordonnance," required **521
+     horses**; powder, saltpetre, sulphur, lead, shot, bombard-stones,
+     two mobile forges, pioneers' tools, cordage and tents required
+     **1,009 more** (total ~1,530; the printed total is illegible in
+     extraction — the component figures are clean), plus **800
+     pioneers** and the carters under a "capitaine du charroi"
+     (pt. 2, p. ~294).
+   - **The Milanese ambassadors on the 1465 train (Public Weal;
+     cross-ref §4):** the royal artillery "la plus belle du monde," its
+     convoy six leagues long, drawn by **1,200 horses**, "de quoi faire
+     trembler le monde entier" (pt. 2, p. ~294, citing the Milanese
+     despatches) — diplomatic eyewitness testimony that the train was
+     already, in 1465, a spectacle of state power; by 1477 the force
+     was "presque doublée."
+   - **The supply web:** powder delivered at royal order by Rouen and
+     Reims; provisioning staged through Orléans and Paris; towns'
+     gifts to the passing gunners — the bonnes villes as the train's
+     logistical hinterland.
+
+   **Depreter 2011 (76 pp., complete read):**
+   - **Burgundy built the parallel fiscal-artillery institution:** a
+     dedicated **recette de l'artillerie instituted in 1458**, under
+     the oversight of the Chambre des comptes de Lille (artillery
+     spending auditable there from 1422). This sharpens §5a: what
+     Burgundy lacked was not administrative apparatus — budget états
+     passed through multiple hands, were corrected "a correction," and
+     bear Charles's own signature (the Neuss état, Nov 1474) — but the
+     survivable dynastic centre. The apparatus outlived the duke only
+     as France's and the Habsburgs' inheritance.
+   - **Why the counts are scarce:** all the recette's accounts but one
+     were destroyed during the French Revolution — made into
+     cartridges for the revolutionary army ("quelle ironie du sort!",
+     p. 83). The surviving Lille working papers document
+     administration, not inventories of losses.
+   - **Grandson/Morat, administratively:** the July 1476 état (doc.
+     17, two versions) contains an inventory of the artillery the duke
+     **still had** after the two defeats, repeatedly corrected for "le
+     manque de moyens" — the defeats visible as budget emergency. **No
+     count of guns lost at Grandson appears in the article**; the
+     memo's flag stands — "~400 pieces" remains the tradition figure,
+     attributed, pending Depreter's monograph (*De Gavre à Nancy*).
+   - Texture: the 1467 Dijon refonte — a 9,000-lb bombard broken up
+     and recast as 63 serpentines (18 × 200 lb, 27 × 100 lb, 18 × 50
+     lb; doc. 1) — the duke modernising calibres downward toward
+     mobility, the same direction the French took to 1494.
+
+   **Also integrated this pass:** an open review of Contamine 1972
+   (Desktop find, 3 pp.) carries the monograph's thesis pending the
+   book itself: the beginnings of the permanent army entailed "la
+   création d'un nouveau groupe socio-professionnel… la naissance
+   d'une société militaire" — usable as T2 interim carrier; the book
+   stays on the RETRIEVAL LIST. Sources.md and retrieval-master
+   updated; the PARSE queue for this chapter is empty.
+
 Drafting of ch10/draft.md may now proceed against this reviewed memo (§7).
 
 ---

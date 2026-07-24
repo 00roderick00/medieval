@@ -213,13 +213,32 @@ plus open T1 (Commynes); its modern half is unusually T1-rich
 14. **ESFDB (esfdb.org)** — unreachable at check (connection reset);
     retry; do not cite sight-unseen.
 
-## PARSE (open but not yet fully read)
+## PARSE — closed 2026-07-23 (all four Persée PDFs in repo and fully read)
 
-- Contamine 1964 (Persée) — the priority open mine for §3.
-- Perroy 1943 (Persée, 2 parts).
-- Depreter 2011 (Persée).
-- Karaman & Pamuk dataset (ata.boun.edu.tr) if comparative figures are
-  wanted beyond the article's text.
+- **Contamine 1964** — IN REPO
+  (`…/open-access/Contamine-Artillerie-royale-1964.pdf`), complete
+  read. Key yields (memo Revisions 7–8): 1491 ordinaire 24,236 l.t.
+  (22nd account of the series → line runs from c. 1469/70); 1489
+  extraordinaire 111,733 l.t.; 3.3% admin overhead, ~30 clercs;
+  **artillery = 8% of military expenditure, 1489 (p. 261)**; ~150
+  permanent personnel, ~20-year gunner careers; Giovio on the 1494
+  train (p. 221); cinq bandes = 1489 campaign structure; the 220,000
+  figure is pounds-weight hauled, not a budget.
+- **Perroy 1943, 2 parts** — IN REPO, complete read: the 1477 accounts
+  as binding-fragments (Rylands French ms. 57); 521 + 1,009 horses +
+  800 pioneers for the Artois train; the Milanese ambassadors' 1465
+  testimony (six leagues, 1,200 horses).
+- **Depreter 2011** — IN REPO, complete read: Burgundian recette de
+  l'artillerie instituted 1458 (Lille oversight from 1422); accounts
+  destroyed for revolutionary cartridges; July 1476 post-defeat
+  inventory; **no Grandson loss-count in the article** — "~400" stays
+  tradition-attributed pending his monograph.
+- Karaman & Pamuk dataset (ata.boun.edu.tr) — still open if comparative
+  figures are wanted beyond the article's text.
+- New interim carrier: an open 3-pp. review of Contamine 1972 (Desktop
+  `Medievalsources/`) states the monograph's permanent-army →
+  military-society thesis; the book itself remains on the RETRIEVAL
+  LIST.
 
 ---
 
