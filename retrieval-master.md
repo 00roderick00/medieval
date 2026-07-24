@@ -103,12 +103,12 @@ freely with page refs) · **PARSE** (open but needs a reading pass).
 
 | Item | Needed by | Status |
 |---|---|---|
-| Stevenson (ed.), *Letters and Papers…* (Rolls Series), p. 619 et seq. | ch06 (cite the "one hundred strongpoints" list first-hand rather than via Rogers) | vol. 1 IN REPO but **the list is NOT in vol. 1** (printed pagination ends c. p. 520 — checked 2026-07-23); **retrieve vol. 2 (likely part ii)** from archive.org; until then cite via Rogers (ch06 Revisions 5) |
+| Stevenson (ed.), *Letters and Papers…* (Rolls Series), p. 619 et seq. | ch06 (cite the "one hundred strongpoints" list first-hand rather than via Rogers) | **DONE 2026-07-24** — vol. II pt ii IN REPO (`…/primary-sources/Stevenson-Letters-and-Papers-vol-2-part-2.pdf`); the Somerset list read first-hand at pp. 619–637 (ch06 Revisions 6). The round "100" stays cited to Rogers's count of the document (multi-place entries) |
 | Jean Chartier, *Chronique de Charles VII* — Gallica / Internet Archive (Middle French) | ch06 (primary attestation of Bureau siege engineering) | PARSE (French pass) |
 | *Le Recouvrement de Normandie* (Berry Herald) — OpenEdition | ch06 (campaign chronicle) | PARSE |
-| Contamine, "L'artillerie royale française à la veille des guerres d'Italie" (*Annales de Bretagne* 1964) — Persée, open | ch10 (Louis XI/Charles VIII artillery organisation and budgets; checks the T4 1479/1469 figures) | PARTIAL: pp. 221, 231–233, 238 read in the Persée viewer and integrated (ch10 Revisions 7 — ordinaire/extraordinaire accounts; 3.3% admin; cinq-bandes-1489 correction). **PDF download requires a human altcha click — four Persée tabs left open in Chrome (2026-07-23); save to corpus/retrieved/source-library/open-access/** |
-| Perroy, "L'artillerie de Louis XI dans la campagne d'Artois (1477)" (*Revue du Nord* 1943, 2 parts) — Persée, open | ch10 | PARSE — awaiting PDF (same altcha note as Contamine 1964; tabs open) |
-| Depreter, "L'artillerie de Charles le Hardi" (*BCRH* 177, 2011) — Persée, open | ch10 (critical Grandson/Morat gun counts) | PARSE — awaiting PDF (same altcha note; tab open) |
+| Contamine, "L'artillerie royale française à la veille des guerres d'Italie" (*Annales de Bretagne* 1964) | ch10 | **DONE 2026-07-24** — PDF IN REPO (`…/open-access/`), complete read and integrated (ch10 Revisions 7–8: 8%-of-military-spend 1489; ~150 permanent personnel; both T4 debunks) |
+| Perroy, "L'artillerie de Louis XI dans la campagne d'Artois (1477)" (*Revue du Nord* 1943, 2 parts) | ch10 | **DONE 2026-07-24** — both PDFs IN REPO, read and integrated (ch10 Revisions 8: 1477 train scale; 1465 Milanese testimony) |
+| Depreter, "L'artillerie de Charles le Hardi" (*BCRH* 177, 2011) | ch10 | **DONE 2026-07-24** — PDF IN REPO, read and integrated (ch10 Revisions 8: 1458 recette; no Grandson loss-count in the article — "~400" stays tradition-attributed; monograph still PENDING for the critical count) |
 | Commynes, *Mémoires*, Scoble trans. — archive.org / Gutenberg #77950 | ch10 (T1; Book I ch. X verbatim already extracted; wider reading pass for the Burgundy/Public Weal material) | PARSE |
 | Karaman & Pamuk, *JEH* 2010 + dataset (ata.boun.edu.tr) | ch10, ch11 (comparative revenues from 1500) | IN REPO-equivalent (open PDF read); dataset PARSE if figures wanted |
 
@@ -176,3 +176,16 @@ owed: ch01 (Cerny enumeration — see ch08/memo.md §0.1), ch02 (Epic
 holdings; BIS thresholds), ch05 (Draghi; MHLW; BJP), ch06 (Curry count;
 Stevenson first-hand; DeVries Bureau confirmations). Batch 3 ch08 gated
 works and verification pulls added above.*
+
+*2026-07-24 update: the four Persée PDFs (Contamine 1964; Perroy 1943 ×2;
+Depreter 2011) and Stevenson vol. II pt ii are IN REPO, read, and
+integrated (ch10 Revisions 8; ch06 Revisions 6). NOTE — two local caches
+hold further retrievals not yet copied into the corpus:
+`~/Documents/Codex/2026-07-22/i/outputs/source-library/` (incl. **Watts
+ch. 6 "Rule of the Court 1445–1450"** → ch05/ch07/ch09; **Epic v. Apple
+CA9 2023 opinion (No. 21-16506)** → ch02's affirmance chain; **Draghi Part
+A** → ch05; Keen's and Reeves's reviews of Vale → ch06) and
+`~/Desktop/Medievalsources/` (incl. a 3-pp. open review of **Contamine
+1972** — thesis carrier, integrated as interim in ch10 sources.md; the
+monograph itself remains PENDING, still the project's largest single
+dependency). Copy-in and per-chapter integration on instruction.*
