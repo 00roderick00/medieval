@@ -834,6 +834,43 @@ Drafting of ch10/draft.md may now proceed against this reviewed memo (§7).
     monograph's [UNVERIFIED — RETRIEVAL: Contamine] flags across
     §§1–3 are now either closed or reassigned to the annex parse.
 
+12. **(2026-07-27, third entry — Annexe VI parsed; the §1 pay-scale
+    flag closes.)** Read visually from the Tome 2 PDF (Annexe VI,
+    print pp. 619–636; machine-parse rule lifted by Roderick this
+    date). The ordonnance-era grid, monthly, in livres tournois:
+    homme d'armes of the grande ordonnance **15 l.t.**; its archer
+    **7 l. 10 s.t.**; petite ordonnance homme d'armes 10 l.t.; its
+    archer / morte-paye 5 l.t. Specialists: **canonnier de garnison
+    8 l.t.** — the gunner priced above the archer, below the
+    man-at-arms (fn 76: at Cherbourg in 1454 two canonniers were
+    counted for three payes, 7 l. 10 s.t. each). Guards above the
+    line: Scottish guard homme d'armes 24 l.t. (18 and 13 for its
+    archer grades) plus robe-and-mount indemnities from 1469;
+    garde française archer 18 l.t. + 20 écus/yr for the mount.
+    Prehistory of the tariff shows the fiscal collapse the ordonnance
+    replaced: the dauphin's Languedoc mandement of ~summer 1422 says
+    war had debased the coinage "telement qu'elle est devenue comme
+    de nulle valeur," troops "réduits au pillage," and cut the
+    traditional tariff by a third to a half; 1425–37 the barèmes
+    wobble (banneret quoted at 30, 48 or 60 l.t.); a fresh tariff
+    appears only at the siege of Meaux in 1439 (homme d'armes 12
+    l.t.), and a 1444 document fixes 10 l.t. — then the 1445 grid
+    holds. Comparative register at source (section E, with
+    Contamine's gold-gram conversions): Charles the Bold's 1471
+    permanent army "sur le modèle français" paid its homme d'armes
+    38.60 g gold/month against the French 36.70, with a dizainier's
+    command supplement "destinée à assurer une rigueur plus grande"
+    that had no French equivalent; after Grandson and Morat the
+    Burgundian administration had to offer DOUBLE pay to hold men —
+    a fiscal-stress indicator from inside the account books; England
+    kept the traditional daily hierarchy through the 1475 expedition
+    (its man-at-arms 31.48 g vs France's 31.40 — near parity — but
+    the French archer 15.70 g against the English 10.34: the French
+    state was overpaying the mass component); and in 1493 Florence's
+    offered Italian rate (200 l.t./yr) still beat the French 180.
+    These figures let §1 price the standing army's manpower directly
+    against every comparator polity the chapter uses.
+
 ---
 
 STATUS: REVIEWED (Roderick, 2026-07-23) — cleared for drafting
