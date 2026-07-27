@@ -549,6 +549,27 @@ instruction (§9), to correct the three factual overclaims in decisions 1–3.
    draft-stage editorial task if wanted. The draft may now quote the
    incipit and sample entries first-hand. Retrieval-master updated.
 
+7. **(Post-probe review, 2026-07-27.) The evidentiary table
+   (ch06/artillery-reconquest.md, REVIEWED this date) restructures the
+   draft's proof.** (a) **The same-wall pairs are the chapter's central
+   proof structure** — the draft builds around Rouen (1418–19: "5 months
+   and 3 weeks" by starvation → 1449: ~3 weeks, civic rising + terms)
+   and Harfleur (1415: ~5 weeks; 1440: ~3–6 months → 1449: a 17-day
+   bombardment with sixteen large bombards, Rogers pp. 265–66 = Chartier
+   ii. 178–79), with Bayeux (16 days, walls "pierced and brought down")
+   and Blaye 1451 (5 days) as the supporting compressions. (b) **The
+   mechanism statement is fixed in the reviewed formulation:**
+   *artillery collapsed the defender's time horizon and forced
+   composition; it did not demolish its way in* — grounded in the
+   Somerset-list census (T1: the two documented breaches, Bayeux and
+   Avranches, both end in composition; no storm-after-breach anywhere in
+   the record). This formulation **reconciles Rogers and Curry**: his
+   collapsed horizon, her composition-and-system-collapse mode, one
+   evidence base — and supersedes any drafting instinct to make the guns
+   "win sieges" physically. (c) The Gascony-1451 loyalty datum and the
+   Bordeaux-1452 counter-experiment carry into the draft as the paired
+   discriminating tests, confirmed as-is.
+
 Drafting of ch06/draft.md may now proceed against this reviewed memo (§7).
 
 ---
