@@ -234,4 +234,25 @@ source; where the Somerset list and secondary tradition conflict, both
 are shown and neither silently preferred. Nothing in this file relies on
 an unretrieved work beyond the flagged points.*
 
-STATUS: PENDING HUMAN REVIEW
+## Revisions (post-review, 2026-07-27)
+
+Roderick reviewed and approved the file. Decisions recorded per §7; the
+body above stands as written.
+
+1. **The same-wall pairs (Rouen 1418–19 vs 1449; Harfleur 1415/1440 vs
+   1449) are promoted to the chapter's central proof structure.** The
+   ch06 draft builds around them (see ch06/memo.md Revisions 7).
+2. **The no-storming-after-breach census finding is promoted to the
+   chapter's mechanism statement:** *artillery collapsed the defender's
+   time horizon and forced composition; it did not demolish its way
+   in.* Curry and Rogers are reconciled through that formulation —
+   Rogers supplies the collapsed horizon (walls down in days;
+   surrender-without-siege), Curry the composition-and-system-collapse
+   mode (preparations sufficing; populations forcing terms); the
+   census shows both operating on the same evidence.
+3. **The Gascony 1451 / Bordeaux 1452 discriminating tests are
+   confirmed as-is** and carry into the draft unchanged.
+
+---
+
+STATUS: REVIEWED (Roderick, 2026-07-27) — feeds the ch06 draft

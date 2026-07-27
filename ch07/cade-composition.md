@@ -141,4 +141,15 @@ flagged for the memo's next Revisions entry.
 established in ch06/artillery-reconquest.md (same date) and Curry (in
 repo); it modifies emphasis, not the memo's reviewed conclusions.*
 
-STATUS: PENDING HUMAN REVIEW
+## Revisions (post-review, 2026-07-27)
+
+Roderick reviewed and approved the file.
+
+1. **The two-wave veterans chronology (§3) is accepted** and the ch07
+   memo's causation is updated accordingly (ch07/memo.md Revisions 6):
+   truce-era discharges and refugees feed the rising; the evacuation
+   wave feeds the aftermath.
+
+---
+
+STATUS: REVIEWED (Roderick, 2026-07-27) — feeds the ch07 draft
