@@ -23,7 +23,7 @@ freely with page refs) · **PARSE** (open but needs a reading pass).
 
 | Work | Needed by | Priority | Status |
 |---|---|---|---|
-| Contamine, *Guerre, état et société à la fin du Moyen Âge* | ch06 (largest single dependency: Bureau offices, calibres, gun counts, campaign figures); ch03, ch07, ch10 later | **HIGH** | **BUY** (dossier #1: no open full text, no alumni entitlement; De Gruyter/Brill record; Appendix E: buy first). Cazelles review IN REPO (`Contamine-review-BEC-1973.pdf`) as interim thesis-carrier |
+| Contamine, *Guerre, état et société à la fin du Moyen Âge* | ch06 (Bureau offices, calibres, gun counts); ch03, ch07, ch10 | **HIGH** | **TOME 1 IN REPO 2026-07-27 — PURCHASED** (`contamine_guerre-etat-et-societe-a-la-fin-du-moyen-age-tome-1.pdf`, watermarked; obfuscated text layer rebuilt by OCR — sidecar `…/source-library/Contamine-1972-tome1-ocr.txt`). Coverage: through print ~p. 431 (chs. I–XIV: 1337–1445 crisis, the 1445 reform, francs-archers, arrière-ban, ordonnance captains). **Integrated:** ch10 Revisions 10 (lost ordonnance ~late March 1445; lance 6 hommes/6 chevaux, p. 280; Basin's 15 companies; the 25 Apr 1446 act "jusqu'à la conclusion de la paix… sans compter" — T4 figures confirmed and nuanced); ch03 Revisions 4 (the écorcheur social filter, ~p. 387); ch06 Revisions 8 (pointer). **TOME 2 STILL WANTED** — the artillery-institution chapters, Louis XI expansion, and pièces justificatives (the ch06 §2 Bureau-office and budget flags). Cazelles review remains in repo |
 | Curry, "Was there a Military Revolution in Lancastrian Normandy?" (= "Guns and Goddams," *JMMH* VIII, 2010) | ch06 (authoritative count of places taken 1449–50; the gradualist counter-weight — critiques.md Obj. 4); ch10 (the reversed-causation objection, pp. 187–88) | **HIGH** | **IN REPO** (`corpus/retrieved/source-library/open-access/Curry-Guns-and-Goddams-2010.pdf`) — **read and integrated** (ch06 Revisions 5; ch10 memo/critiques; ch06/artillery-reconquest.md). Page-pin still owed: the pp. 187–88 quotes against the published pagination |
 | Cerny, "Neomedievalism, Civil War and the New Security Dilemma," *Civil Wars* 1:1 (1998) | ch01 (the SIX-characteristic enumeration); ch03, ch08 | **HIGH** | **IN REPO** (`corpus/retrieved/NeomedievalismCivilWars.pdf`). NOTE: inline list has SEVEN attributes (pp. 45–46); the six-characteristic checklist = the six section headings, section VI = *zones grises* (pp. 57–58). See ch08/memo.md §0.1; **ch01 upgrade integrated** (ch01 Revisions 3, 2026-07-24) |
 | Bull, *The Anarchical Society*, ch. 10 + conclusion (pp. 245–266) | ch01 + Introduction (exact heading order; verbatim caution sentences) | **HIGH** | **BUY** (dossier #5: IA preview only — https://archive.org/details/anarchicalsociet00bull; no controlled loan; library ebook or print; keep one edition for pagination) |
@@ -219,6 +219,17 @@ SIAC Annual Report 2024 (pinned); RUSI Feb 2025 (pinned, p. 11); Karaman
 Depreter, Contamine 1964, Wilkinson (left in place per never-delete); and
 one **dud**: `philippe de commynes memoirs.pdf` (1 page, no text —
 re-download or rely on the Gutenberg #77950 Scoble edition already cited).
+**Second wave (same day, afternoon):** Contamine 1972 **Tome 1**
+(purchased — see its row above; integrated ch10/ch03/ch06) and
+**Gosztonyi & Gyetván, "The applicability of neomedievalism,
+technofeudalism and sovereignty in contemporary internet governance,"
+*Ethical Space* 22:1/2 (Apr 2025, CC BY-NC-ND, DOI
+10.21428/0af3f4c0.7a5fc4d8)** — IN REPO (`ydgjxfcsysmb0e38tfzmfen4qqle6sh2.pdf`,
+rename suggested): newer-edge-of-field item for **Appendix A/D**;
+engages Varoufakis's *Technofeudalism* (2023) — the rival adjacent
+coinage ch01/ch02 should note. Contamine **Tome 2** is now the top
+acquisition priority alongside Bull.
+
 **Upgrade passes — COMPLETED 2026-07-27 (same day):** ch01 Revisions 5 /
 ch02 Revisions 5 (Friedrichs first-hand: pp. 475/482/490 pinned); ch06
 table Revisions 4 (Vale TRHS: Blaye 3 May; Bordeaux 12/30 June; Cadillac
