@@ -572,6 +572,15 @@ instruction (§9), to correct the three factual overclaims in decisions 1–3.
 
 Drafting of ch06/draft.md may now proceed against this reviewed memo (§7).
 
+8. **(2026-07-27.) Contamine 1972, Tome 1, is in repo** (purchased;
+   OCR'd; coverage through print ~p. 431 — the 1418–45 crisis, the
+   1445 reform, francs-archers, arrière-ban, and the ordonnance
+   captains). The 1445 institutional context this memo cross-references
+   is now page-citable (see ch10 Revisions 10 for the pins). **§2's
+   Bureau-office flags remain open**: the artillery-as-institution
+   chapters and budget series sit in **Tome 2**, not yet in the corpus
+   — flagged on retrieval-master for acquisition.
+
 ---
 
 STATUS: REVIEWED (Roderick, 2026-07-22) — cleared for drafting

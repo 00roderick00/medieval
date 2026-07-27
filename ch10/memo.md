@@ -777,6 +777,48 @@ Drafting of ch10/draft.md may now proceed against this reviewed memo (§7).
    verified verbatim in-file. §4's T1 citation is unchanged; the copy
    is local.
 
+10. **(Upgrade pass, 2026-07-27 — Contamine 1972, Tome 1, is in repo:
+    the anchor monograph arrives.)** Purchased digital edition
+    (watermarked; text layer rebuilt by OCR — sidecar at
+    `corpus/retrieved/source-library/Contamine-1972-tome1-ocr.txt`);
+    this tome runs through print p. ~431 (ch. XIV, "Les capitaines de
+    l'ordonnance"). French verbatim below; translations are Roderick's
+    at draft (per the scheduling rule). Pins closing §1's flags:
+    - **The lost ordonnance, dated by Contamine himself** (fn at print
+      ~p. 303): the founding act sits "entre celle du 9 janvier 1445,
+      rendue à Nancy… et celle de Louppy-le-Château, du 26 mai 1445
+      (publiée par Cosneau, Richemont, app. LXXXIV), mais avant le 20
+      avril 1445… On peut avancer la fin mars." §0.1 is thereby
+      *sharpened*: the phantom act ~late March 1445; Nancy (9 Jan) and
+      Louppy (26 May) are the surviving bracketing texts — both now
+      with edition citations (Tuetey; Cosneau).
+    - **The lance, enumerated** (print p. 280): "la lance fournie ou
+      garnie, composée de **six hommes et de six chevaux**" — homme
+      d'armes in harnois blanc, coutillier, page, two mounted archers,
+      a valet; with the combatant-count nuance (three or four true
+      combatants) and the later drift (a seventh horse tolerated for
+      baggage; up to eight by 1484; p. 281).
+    - **Fifteen companies is Basin's attribution** (print ~p. 281–82):
+      the narrative sources give **1,500 lances**; "Thomas Basin
+      précise même qu'elles étaient réparties en quinze compagnies
+      d'égale dimension"; 1,500 was publicly notorious (a Senlis
+      advocate before the Cour des aides, 1449; the 1484 Estates
+      demanding a return to Charles VII's effectifs). Draft accordingly:
+      1,500 lances well-attested; the 15×100 structure per Basin.
+    - **The 1446 act, confirmed and nuanced** (25 April 1446): it
+      "évoque la nécessité d'entretenir, **jusqu'à la conclusion de la
+      paix**, 1 500 lances pour la Languedoïl et 500 pour la Languedoc,
+      **sans compter** les troupes établies aux frontières de Normandie
+      et de Guienne" — the T4 figures confirmed at T2, with two
+      corrections of emphasis: the 1446 framing is still
+      war-duration, not perpetual (supporting §2's gradualist
+      permanence), and the 2,000 lances *understate* the establishment.
+    - **The pre-1445 permanent-army framing** (pp. 233–35) supports the
+      §0.2 calibrated claim in Contamine's own terms.
+    **Still awaiting Tome 2** (artillery-as-institution chapters, the
+    Louis XI expansion, the pièces justificatives — the Bureau offices,
+    budgets and gun counts §3 flags): flagged on retrieval-master.
+
 ---
 
 STATUS: REVIEWED (Roderick, 2026-07-23) — cleared for drafting

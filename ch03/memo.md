@@ -270,6 +270,20 @@ as written.
    events as **dated episodes** — what happened by when, per whom — never
    as settled outcomes.
 
+4. **(Upgrade pass, 2026-07-27.) Contamine Tome 1 (in repo) supplies
+   the écorcheur absorption's social mechanics** — closing part of §1's
+   French-limb flag at page level (print ~p. 387, French verbatim;
+   translation Roderick's): the 1445 selection was socially filtered —
+   "dans la liste de 1445, **aucun bâtard, un seul roturier**"; the
+   retained captains were legitimate-born, of the middling nobility
+   (some, like Torcy, Lohéac, Orval, of the highest), while "beaucoup
+   d'Écorcheurs furent rejetés"; and the new establishment's leading
+   names — Brézé, Bueil, the marshals — were never associated with the
+   écorcheur label. The absorption of the market for force (§1, and
+   ch04's domestication thread) was thus also a *class settlement*:
+   the crown hired the well-born and expelled the rest. Scale figures
+   for the écorcheur decade remain in Tome 2/Tuetey — flag stands.
+
 ---
 
 STATUS: REVIEWED (Roderick, 2026-07-22) — cleared for drafting
