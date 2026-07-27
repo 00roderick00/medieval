@@ -219,10 +219,18 @@ SIAC Annual Report 2024 (pinned); RUSI Feb 2025 (pinned, p. 11); Karaman
 Depreter, Contamine 1964, Wilkinson (left in place per never-delete); and
 one **dud**: `philippe de commynes memoirs.pdf` (1 page, no text —
 re-download or rely on the Gutenberg #77950 Scoble edition already cited).
-**Upgrade passes now owed:** ch01/ch02 (Friedrichs duality wording);
-ch06-table (Vale TRHS — the Gascony day-dates; Beaucourt); ch04
-(Pezzolo); ch07 (Norris & Inglehart ch. 1); ch08 (Baker sanctuary; SIAC
-pinned); ch11 (AHR forum; Green); ch12 (RUSI pinned — done here).
+**Upgrade passes — COMPLETED 2026-07-27 (same day):** ch01 Revisions 5 /
+ch02 Revisions 5 (Friedrichs first-hand: pp. 475/482/490 pinned); ch06
+table Revisions 4 (Vale TRHS: Blaye 3 May; Bordeaux 12/30 June; Cadillac
+17 Sept execution; Fronsac citation catch); ch04 Revisions 3 (Pezzolo —
+**negative finding**: the chapter lacks the 1262/Monte Vecchio/estimo
+specifics; flags stay open); ch07 Revisions 7 (N&I ch. 1, draft-
+pagination caveat); ch08 Revisions 5 (Baker sanctuary sequence
+1534/1535/1540/1624 — the "1536" question resolved; SIAC pinned from
+primary); ch10 Revisions 9 (Commynes archived, quote verified in-file);
+ch11/ch12 addenda (AHR forum + Green coinage; RUSI p. 11 pin with the
+report's own caveat). Beaucourt/Escouchy/Chartier/Leseur await the
+scheduled French parse.
 
 ## II. Open primaries needing a reading pass (no gate)
 
