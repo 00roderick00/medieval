@@ -581,6 +581,48 @@ Drafting of ch06/draft.md may now proceed against this reviewed memo (§7).
    chapters and budget series sit in **Tome 2**, not yet in the corpus
    — flagged on retrieval-master for acquisition.
 
+9. **(2026-07-27, second entry — Contamine Tome 2 is in repo: the
+   monograph is complete, and §2's remaining flags close.)** French
+   verbatim below; translations Roderick's at draft.
+   - **The 1442 document, at source (print p. 666 — the page Rogers's
+     fn 139 cites):** "Le document d'archive le plus complet qu'on ait
+     sur l'artillerie royale française au milieu du 15e siècle est de
+     1442 : à cette date, **Jean Bureau, commis par Charles VII 'ou
+     fait et gouvernement' de son artillerie**, prévoit, 'avant la
+     nouvelle saison venue', la fabrication ou la réfection d'au moins
+     **6 bombardes, 16 veuglaires, 20 serpentines, 40 couleuvrines**,
+     plus un nombre inconnu de ribaudequins, le tout représentant une
+     dépense de **4 198 l.t.** ; … l'achat de 20 000 livres de poudre :
+     **2 200 l.t.** ; pour le matériel traditionnel — 30 000 traits,
+     1 000 lances, 1 000 arcs, 1 000 trousses — **3 100 l.t.** doivent
+     suffire. Ainsi, dès cette époque, **l'artillerie nouvelle coûte
+     plus cher que l'artillerie ancienne**." Arithmetic check: (4,198 +
+     2,200) / 3,100 ≈ **2.06** — Rogers's "more than twice as much"
+     confirmed from the underlying figures, which the draft can now
+     print. The 1442 line item is no longer a relayed ratio but a
+     quoted procurement programme.
+   - **The Bureau/Bessonneau chronology, corrected at documentary
+     level:** "Pierre Bessonneau semble avoir cessé toute fonction
+     officielle le **20 février 1440**, mais, **dès 1437, il fut
+     pratiquement supplanté par Jean et Gaspard Bureau**" (Tome 1);
+     Annexe VIII (Tome 2), "Les comptes des trésoriers des guerres et
+     des maîtres de l'artillerie (1418–1445)," gives the account
+     series — Bessonneau's accounts to 1440; Jean Bureau's from August
+     1439; Gaspard's from January 1441. **This supersedes §2's
+     tertiary "Gaspard grand-master from 27 December 1444 succeeding
+     Bessonneau"** — the draft uses Contamine's sequence (supplanted in
+     practice 1437; Bessonneau's last function Feb 1440; the account
+     series thereafter). The office's documentary titulature is also
+     now quotable ("maistre de l'artillerie du roy" / *magister
+     artillerie regis* / "garde et gouverneur de l'artillerie").
+   - **Chronicle page-cites for the 1449–50 campaign** (Tome 1, fn):
+     Berry Herald ("Recouvrement," in Stevenson, *Narratives*) at pp.
+     **261, 265, 295, 316, 337** (Harcourt, Pont-Audemer, Rouen, the
+     royal entry, Formigny); Chartier II p. **87**; Escouchy I pp.
+     **192, 215–16** — Contamine's own apparatus handing the
+     artillery-reconquest table its chronicle column at page level;
+     carried to ch06/artillery-reconquest.md at its next revision.
+
 ---
 
 STATUS: REVIEWED (Roderick, 2026-07-22) — cleared for drafting

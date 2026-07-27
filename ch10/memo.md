@@ -819,6 +819,21 @@ Drafting of ch10/draft.md may now proceed against this reviewed memo (§7).
     Louis XI expansion, the pièces justificatives — the Bureau offices,
     budgets and gun counts §3 flags): flagged on retrieval-master.
 
+11. **(2026-07-27, second entry — Tome 2 completes the monograph.)**
+    Additional to Revisions 10: the **1442 procurement document at
+    source** (print p. 666; full pin and arithmetic in ch06 Revisions
+    9 — the §3 "fiscal signature" now rests on Contamine's own quoted
+    figures: 6,398 l.t. gunpowder programme vs 3,100 l.t. traditional
+    materiel, ≈2.06×); the **Annexe VIII account series** (trésoriers
+    des guerres and maîtres de l'artillerie, 1418–45) documents the
+    artillery treasurership ch10 §3 describes, a generation before the
+    1491 *ordinaire* account Contamine 1964 supplied; and **Annexe VI
+    ("Tarifs des gages des gens de guerre")** contains the pay scales
+    §1 flagged — tabular material, detailed extraction assigned to the
+    scheduled French parse rather than machine-read here. The
+    monograph's [UNVERIFIED — RETRIEVAL: Contamine] flags across
+    §§1–3 are now either closed or reassigned to the annex parse.
+
 ---
 
 STATUS: REVIEWED (Roderick, 2026-07-23) — cleared for drafting
