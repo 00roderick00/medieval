@@ -253,6 +253,47 @@ body above stands as written.
 3. **The Gascony 1451 / Bordeaux 1452 discriminating tests are
    confirmed as-is** and carry into the draft unchanged.
 
+4. **(Upgrade pass, 2026-07-27 — Vale's TRHS 1969 article is in repo and
+   read; the Gascony table's principal gap closes.)** Resolutions, each
+   superseding the flagged cell:
+   - **Blaye:** Pierre de Montferrand's own pardon testimony dates his
+     oath of allegiance "after his submission to Dunois at Blaye on
+     **3 May 1451**" — Blaye had fallen by 3 May (Vale, TRHS 1969; the
+     "late May/24 May" tradition superseded; Rogers's five-day
+     bombardment stands as the mode).
+   - **Blaye and Bourg** are "the keys to Bordeaux" and "surrendered
+     cravenly to Dunois," the defenders granted favourable terms —
+     including Gadifer Shorthose, *the English mayor of Bordeaux*, and
+     the sub-mayor and three jurats, all pensioned by Charles VII
+     (Vale). Mode for Bourg: THREAT-comp, now sourced.
+   - **Bordeaux 1451:** "the capitulation of Bordeaux on **12 June**";
+     Dunois's entry **30 June 1451** with "at least 7,320 French troops
+     in the procession" (Vale, citing Escouchy i. 356–58). The
+     12/23/29/30 June variants resolve: treaty 12 June, entry 30 June.
+   - **Cadillac 1453:** "held out for some months"; "the penalties of
+     resistance were made plain on **17 September** when the captain of
+     Cadillac… was executed on Charles VII's orders"; the king himself
+     present at the siege, with his Scottish archers, German
+     crossbowmen, and "une bombarde" (Vale, citing the payment record
+     and Berry Herald in Godefroy's 1661 ed., p. 471); "little
+     alternative but surrender by October 1453." Row updated from
+     [UNVERIFIED] to BOMB→taken, with the exemplary execution noted —
+     the 1453 campaign's one documented punitive case.
+   - **Fronsac footnote correction (provenance):** Vale notes that
+     Keen's *Laws of War* references to "the raising of a cry at
+     Fronsac in 1451" in fact relate to **Castillon in 1453** — a
+     citation-integrity catch to carry.
+   - **Bonus (Normandy defence, cross-ref ch10):** October 1452, "Jean
+     Aubry, lieutenant of Gaspard Bureau, master of the king's
+     artillery, bought certain pieces of artillery and sent them from
+     Paris to Rouen" — the institution operating in peacetime
+     procurement.
+   Remaining open in the Gascony table: Montguyon's day-date; the
+   white-cross legend's chronicle basis (Leseur now in repo — parse
+   scheduled); Bureau's per-siege presence beyond Bordeaux. Beaucourt
+   IV–V now in repo for the Normandy variants — French pass under the
+   scheduling rule.
+
 ---
 
 STATUS: REVIEWED (Roderick, 2026-07-27) — feeds the ch06 draft
