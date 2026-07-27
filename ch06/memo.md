@@ -623,6 +623,32 @@ Drafting of ch06/draft.md may now proceed against this reviewed memo (§7).
      artillery-reconquest table its chronicle column at page level;
      carried to ch06/artillery-reconquest.md at its next revision.
 
+10. **(2026-07-27, third entry — chronicle parses executed; rule
+    change.)** Roderick's directive of this date lifts the
+    no-machine-translation scheduling rule: chronicle parses are now
+    performed in-session, with translations not printed in the source
+    volumes marked [TRANS. CLAUDE] for draft-stage spot-checking. Two
+    arrivals parsed: Stevenson's *Narratives of the Expulsion* (which
+    prints Berry's "Recouvrement" WITH parallel English translation —
+    the earlier "no translations in volume" note is withdrawn) and
+    Escouchy t. II (1452–53). Full pins in
+    artillery-reconquest.md Revisions 5. Headlines for this memo's
+    argument: (i) Blondel gives the reviewed mechanism statement a T1
+    formulation — at Harfleur the battery shook "moenia et clausorum
+    animos," the walls and the minds of the besieged, before
+    composition (print p. 152), and Honfleur, "velut inexpugnabile,"
+    surrendered conditionally with hostages when the guns "tamed its
+    proud spirit" (p. 155); (ii) Berry's Verneuil — "impregnable so
+    long as there was food within," yet surrendered by treaty (p. 265)
+    — is the time-horizon claim in a chronicler's clause; (iii)
+    Escouchy attributes the Castillon siege plan to Jean Bureau's
+    counsel in council (t. II p. 33) and records Bordeaux's 1453
+    composition as privilege-stripping constitutional subordination
+    with the plague factor stated in the king's council (pp. 73–77);
+    (iv) Fougères (Blondel p. 143), where ducal guns failed against
+    solid walls, keeps the claims Bureau-train-specific. Still wanted
+    for this column: Chartier t. II, Leseur, Escouchy t. I and III.
+
 ---
 
 STATUS: REVIEWED (Roderick, 2026-07-22) — cleared for drafting
