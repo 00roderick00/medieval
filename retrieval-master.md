@@ -192,6 +192,19 @@ check).
 | Roberts, *The Military Revolution, 1560–1660* (1956 lecture; via Rogers ed. 1995, pp. 13–35) | ch00-intro (the "great divide" sentence in full — Taylor 2019 carries it openly meanwhile) | LOW | Folds into the Rogers-anthology BUY (already listed) |
 | Guéhenno, *The End of the Nation-State* (1995) | ch00-intro (Rengger's foil — only if the draft engages it) | LOW | PENDING |
 
+### Added from the ch06/ch07 evidentiary probes — 2026-07-27
+
+| Item | Needed by | Priority | Status |
+|---|---|---|---|
+| Vale, "The Last Years of English Gascony, 1451–1453" (*TRHS* 1969, DOI 10.2307/3678742); Vale, *English Gascony 1399–1453* (1970) | ch06/artillery-reconquest.md (Gascony day-dates; Cadillac; the Bureau-mayoralty conflict; 1451/1453 terms) | **HIGH** | PENDING (both gated) |
+| Beaucourt, *Histoire de Charles VII*, vols. 4–5 | ch06 table (Rouen castle handover; Avranches variant; Fresnay; Pont-de-l'Arche day; Gascon sequence) | MED | OPEN (public domain, Gallica/archive.org) — PARSE |
+| Stevenson (ed.), *Narratives of the Expulsion* (Rolls Series 32, 1863): Blondel pp. 1–238 (Latin), Berry Herald pp. 239–378 (French) — **no translations in the volume** | ch06 table (tide-battery verbatim; Domfront date; Caen cannonball story; any storming instance) | MED | OPEN (archive.org `narrativesofexpu00stev`) — PARSE (French/Latin pass) |
+| Escouchy, *Chronique* (Beaucourt ed.) vols. 1–2; Chartier (Vallet de Viriville ed.) — Chartier already listed §II | ch06 table (v.2 = 1452–61, Castillon/Gascony 1453) | MED | OPEN (archive.org) — PARSE |
+| Leseur, *Histoire de Gaston IV* (SHF ed.), pp. 119–21 | ch06 table (the Dax battered-walls quote's year — Rogers fn 107) | MED | PENDING/PARSE (edition access to verify) |
+| Burne, *The Agincourt War*; Nicolle, *The Fall of English France 1449–53* (2012); Barker (Rouen 1418–19 at scholarly level) | ch06 table (date adjudications; Cherbourg terms/Gower) | LOW | PENDING (gated) |
+| Virgoe (ed.), "Some Ancient Indictments… Kent, 1450–1452" (*Kent Records* XVIII, 1964) | ch07/cade-composition.md (indictment occupations) | MED | PENDING (not online; library/ILL) |
+| Kriehn, *The English Rising in 1450* (1892) | ch07 probe (pardon-roll scale ~2,203 names; the middle-classes verdict, p. 5) | — | OPEN, read 2026-07-27 (`englishrisingin00kriegoog`) |
+
 ## II. Open primaries needing a reading pass (no gate)
 
 | Item | Needed by | Status |
