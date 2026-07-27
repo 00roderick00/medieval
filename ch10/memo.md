@@ -771,6 +771,12 @@ the draft.
 
 Drafting of ch10/draft.md may now proceed against this reviewed memo (§7).
 
+9. **(2026-07-27.)** The Scoble/Bohn Commynes (vol. 1, the Gutenberg
+   edition) is now archived in repo as a proper file (the earlier
+   1-page stub replaced); the Book I ch. X judgement on Louis XI is
+   verified verbatim in-file. §4's T1 citation is unchanged; the copy
+   is local.
+
 ---
 
 STATUS: REVIEWED (Roderick, 2026-07-23) — cleared for drafting

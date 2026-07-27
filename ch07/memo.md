@@ -296,6 +296,18 @@ as written.
    individual veterans remain [UNVERIFIED — RETRIEVAL: Harvey;
    Grummitt].
 
+7. **(Upgrade pass, 2026-07-27.) Norris & Inglehart, ch. 1, is in
+   repo** (`Norris_Inglehart_Cultural_Backlash_Overview_Chapter-1.pdf`)
+   — the peer-reviewed-book statement of the cultural-backlash
+   framework, superseding the working paper as the §6 anchor. Caveat:
+   the file is the authors' **pre-publication draft** (dated 2/7/18);
+   pagination differs from the CUP print — cite by chapter, not page,
+   until a print copy is in hand. The "tipping point" formulation (the
+   once-dominant group's "hegemonic status, power, and privilege are
+   fading") is quotable with that caveat. The composition *tables*
+   (§0.1's recalibration data) remain in the full book — that flag
+   stays open.
+
 ---
 
 STATUS: REVIEWED (Roderick, 2026-07-22) — cleared for drafting

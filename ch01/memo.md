@@ -309,6 +309,25 @@ as written.
    links; the concession's restoration is now an acquisition task, not an
    open research question.
 
+5. **(Upgrade pass, 2026-07-27.) Friedrichs 2001 is in repo and read
+   first-hand** (`corpus/retrieved/Friedrichs2001.pdf`, SAGE published
+   version, OCR'd; journal pagination confirmed in-file). The memo's
+   Baaz-carried citations are now verified against the article itself:
+   the definition — "a system of overlapping authority and multiple
+   loyalty, held together by a duality of competing universalistic
+   claims" — stands in the abstract at **p. 475** (Baaz's cite
+   confirmed), is argued as a *redefinition* at **p. 482**, and is
+   restated at **p. 490**; the modern translation — "held together by
+   the competing universal claims of **the nation-state system and the
+   transnational market economy**" — is verbatim in-file; Friedrichs
+   quotes Bull 1977: 254 at **p. 483** (corroborating the memo's Bull
+   citation chain); and a bonus disanalogy line at **p. 497** (the
+   medieval system "based on legal and spatial concepts," the
+   neomedieval on functional linkages) is available for §6. The
+   [UNVERIFIED — RETRIEVAL] flags on Friedrichs sentence-level wording
+   (§§1, 3) are closed; "quoted in Baaz" citations may be upgraded to
+   direct cites at draft.
+
 ---
 
 STATUS: REVIEWED (Roderick, 2026-07-22) — cleared for drafting
