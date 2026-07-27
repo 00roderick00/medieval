@@ -416,4 +416,34 @@ and what is his artillery?
 
 ---
 
+## Addendum (upgrade pass, 2026-07-27 — pre-review; the memo body stands)
+
+Two §5 dependencies arrived and are read:
+
+- **The AHR 2002 print-debate forum pair is in repo**: Eisenstein, "An
+  Unacknowledged Revolution Revisited," and Johns, "How to Acknowledge a
+  Revolution" (*AHR* 107:1). The debate the memo staged at review-carrier
+  level is now citable from its own texts — Johns framing the issues as
+  "the character, potency, and even existence of something called 'print
+  culture'" and granting that standardisation, output, and fixity are
+  "precisely the elements that *The Printing Press as an Agent of
+  Change* so successfully articu[lated]" while re-attributing them to
+  practice — which is the sceptics-concede shape §5 already uses: the
+  quarrel is over *how* print's effects were produced, not whether the
+  state could harness them. Page-pin at draft.
+- **Green's *Short History* (1874) is in repo** and the "New Monarchy"
+  coinage is located: ch. VI is titled "The New Monarchy, 1422–1540"
+  (§3: "The New Monarchy, 1471–1509"), with the defining sentence —
+  "**If we use the name of the New Monarchy to express the character of
+  the English sovereignty from the time of Edward the Fourth to the time
+  of Elizabeth…**" — quotable at T1 (public domain). §0.1's
+  historiographical genealogy can now open from the coinage itself.
+
+Also: Friedrichs 2001 first-hand (ch01 Revisions 5) supplies this
+chapter's Part-I inheritance at page level; N&I ch. 1 (ch07 Revisions 7)
+is available for the populism cross-reference in §7 with its
+draft-pagination caveat.
+
+---
+
 STATUS: PENDING HUMAN REVIEW

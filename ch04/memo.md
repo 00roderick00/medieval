@@ -295,6 +295,19 @@ as written.
    ch12/brief.md this date directing that the never-invested-Sforza
    distinction be carried into the platform-settlement analysis.
 
+3. **(Upgrade pass, 2026-07-27 — a negative finding, recorded per §4.)**
+   A Pezzolo chapter is now in repo (`pezzolo+7_Chapter+proof.pdf` —
+   ch. 7 of a 2018 Palgrave volume, ISBN 978-3-319-90248-7, on public
+   debt in Florence and Venice; proof copy). Read in full: it covers
+   the Florentine Monte (1340s consolidation; 12–14% rates) and later
+   Venetian instruments (Banco Giro 1619–66), **but does not contain
+   the §6 dependencies** — the 1262 Venetian consolidation, the Monte
+   Vecchio nomenclature, or the estimo. Those flags stay open
+   **[UNVERIFIED — RETRIEVAL: Lane & Mueller; Pezzolo's Venetian-debt
+   studies]**; the chapter is usable as adjacent context only. The
+   in-repo copy is a *proof* — page-cite the published version when
+   the volume is identified at draft.
+
 ---
 
 STATUS: REVIEWED (Roderick, 2026-07-22) — cleared for drafting

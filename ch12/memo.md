@@ -288,4 +288,18 @@ to prove it wrong.
 
 ---
 
+## Addendum (upgrade pass, 2026-07-27 — pre-review; the memo body stands)
+
+**The RUSI February 2025 report is in repo and the §4 quotation is
+pinned**: "tactical UAVs currently account for 60–70% of damaged and
+destroyed Russian systems" — PDF p. 11 — immediately followed by the
+report's own caveat, "The above figure must be read in the appropriate
+context," introducing the Ukrainian-command discussion. The draft carries
+the caveat with the figure (per §0.2's measurement discipline). The SIAC
+and Vale arrivals do not touch this chapter; the Beaucourt/Escouchy/
+Chartier/Leseur chronicle set (now in repo) awaits the scheduled French
+parse and may later sharpen §7's Castillon return.
+
+---
+
 STATUS: PENDING HUMAN REVIEW

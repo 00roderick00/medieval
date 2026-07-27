@@ -302,6 +302,14 @@ as written.
      state the amendment; NPC-hosted Chinese text controls, DigiChina
      translations labelled unofficial.
 
+5. **(Upgrade pass, 2026-07-27.) Friedrichs 2001 first-hand** (see ch01
+   Revisions 5 for the full pin set): the two-universalisms frame this
+   chapter extends is now citable directly — definition p. 475;
+   redefinition p. 482; the state-system/market duality verbatim; Bull
+   1977: 254 quoted at p. 483. The chapter's move (replacing
+   Friedrichs's "market" universalism with the institutional churches)
+   now cites its foil from the foil's own pages.
+
 ---
 
 STATUS: REVIEWED (Roderick, 2026-07-22) — cleared for drafting

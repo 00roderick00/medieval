@@ -284,6 +284,30 @@ as written.
    fixed on the court; he is not a narrative of the rising itself
    (Harvey remains the chapter's spine, on the retrieval list).
 
+6. **(Post-probe review, 2026-07-27.) The two-wave veterans chronology
+   is adopted** (ch07/cade-composition.md §3, REVIEWED this date), and
+   the memo's causation is updated accordingly: the "returning Normandy
+   soldiers" in the rising (§1) were the **truce-era discharged
+   (~2,000 from 1446–48, per Curry) and the 1449–50 refugee flow** —
+   not the final garrison evacuations, which post-date Cade's death
+   (Caen embarked after 1 July; Cherbourg fell 12 August) and instead
+   feed the memo's aftermath section (the continued Kent unrest of
+   1450–51). The draft states the two waves distinctly; named
+   individual veterans remain [UNVERIFIED — RETRIEVAL: Harvey;
+   Grummitt].
+
+7. **(Upgrade pass, 2026-07-27.) Norris & Inglehart, ch. 1, is in
+   repo** (`Norris_Inglehart_Cultural_Backlash_Overview_Chapter-1.pdf`)
+   — the peer-reviewed-book statement of the cultural-backlash
+   framework, superseding the working paper as the §6 anchor. Caveat:
+   the file is the authors' **pre-publication draft** (dated 2/7/18);
+   pagination differs from the CUP print — cite by chapter, not page,
+   until a print copy is in hand. The "tipping point" formulation (the
+   once-dominant group's "hegemonic status, power, and privilege are
+   fading") is quotable with that caveat. The composition *tables*
+   (§0.1's recalibration data) remain in the full book — that flag
+   stays open.
+
 ---
 
 STATUS: REVIEWED (Roderick, 2026-07-22) — cleared for drafting

@@ -567,6 +567,22 @@ govern the draft.
 
 Drafting of ch08/draft.md may now proceed against this reviewed memo (§7).
 
+5. **(Upgrade pass, 2026-07-27.) Two arrivals close two flags.**
+   (a) **Baker, "The English Law of Sanctuary" (*Ecclesiastical Law
+   Journal*; in repo) resolves §0.4(e)/§4's statute question.** The
+   sequence, from Baker: **1534** sanctuary abolished for treason;
+   **1535** sanctuarymen subjected to badges and stricter control; the
+   dissolution ends the monastic sanctuaries (Glastonbury, Beaulieu,
+   St John's); **1540** "an even bolder reform" — the privilege
+   withdrawn for murder, rape, burglary, robbery and arson, and "all
+   special sanctuaries not expressly named" abolished; **1624** —
+   verbatim — "no sanctuary or privilege of sanctuary be hereafter
+   admitted or allowed." The memo's "cluster of statutes 1529–36"
+   formulation is superseded by this dated sequence; the draft cites
+   Baker directly. (b) **SIAC's own Annual Report 2024 is in repo and
+   pinned**: "third highest caseload of 625"; USD 11.86bn — the §5
+   figures now rest on the primary (the T3 carriers are retired).
+
 ---
 
 STATUS: REVIEWED (Roderick, 2026-07-23) — cleared for drafting
