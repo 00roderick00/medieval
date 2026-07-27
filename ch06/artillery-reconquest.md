@@ -294,6 +294,127 @@ body above stands as written.
    IV–V now in repo for the Normandy variants — French pass under the
    scheduling rule.
 
+5. **(2026-07-27 — chronicle column now first-hand. Roderick's directive
+   of this date lifts the no-machine-translation rule: the parses below
+   are mine; translations not printed in the source volumes are marked
+   [TRANS. CLAUDE] for spot-checking at draft. Two arrivals: Stevenson,
+   *Narratives of the Expulsion of the English from Normandy* (Rolls
+   Series; Blondel's Latin *De Reductione Normanniae* with marginal
+   English glosses, Berry Herald's "Recouvrement de Normendie" WITH
+   full parallel English translation printed in the volume — my earlier
+   "no translations in volume" note was wrong and is withdrawn); and
+   Escouchy, *Chronique*, t. II (Beaucourt's SHF edition), covering
+   1452–53: Talbot's return, Castillon, the second fall of Bordeaux.)**
+
+   **(a) Blondel states the mechanism in his own words.** At Harfleur
+   (print p. 152): "crebris fulminibus repetita tormentorum improbitas
+   fortalitii **moenia et clausorum animos** a pede in verticem
+   labefactat" — the repeated battery of the guns shook "the walls and
+   the minds of the besieged" from foot to summit [TRANS. CLAUDE];
+   whereupon the 1,500 defenders, "obsidionis acerbitate victi,"
+   opened Harfleur on terms — property retained, no captivity. Walls
+   and minds in one clause, then composition, no storm: the reviewed
+   mechanism statement ("collapsed the defender's time horizon and
+   forced composition") has a T1 chronicle formulation. At Honfleur
+   (p. 155): the place, "velut inexpugnabile," is subdued because "the
+   irresistible thunder of the guns tamed its proud spirit"
+   ("ineluctabile tormentorum fulmen elatum ejus animum domat"
+   [TRANS. CLAUDE]); Curson "componit" — the conditional-surrender
+   instrument itself described: Honfleur to be delivered 18 February
+   unless the English relieve it by battle in the open field, with
+   hostages for performance. Mont-Sainte-Catherine (p. 136):
+   surrendered by defenders "formidine immoderata territi ne insultu
+   obruantur" — terrified they would be overwhelmed by storm —
+   bargaining nothing but their lives; Charles, "compatiens," gave
+   them 100 livres for the road. Valognes (p. 213): gave in after
+   brief "intolerabili tormentorum fragore" — the din, not a breach.
+   Counter-case preserved: at Fougères (p. 143) the duke of Brittany's
+   guns were NOT enough ("nec satis immanes machinae ad conterendam
+   tam solidam murorum constructuram"), and plague in the besieging
+   army, not artillery, forced the issue — the table's claims stay
+   Bureau-train-specific. Formigny (p. 172): Giraud, "regiarum
+   machinarum unus magistrorum" — one of the masters of the royal
+   machines — placed "binas colubrinas" to break the English line,
+   matching Berry's account (below) from the opposite detail: the
+   English took the two culverins, the French counter-charged and
+   recovered them. Political enforcement of composition (p. 142):
+   Somerset leaves Rouen in tears; when Curson refuses to deliver
+   Honfleur per the Rouen pact, Talbot — the hostage — "processu
+   legitime confecto," is adjudged Charles's prisoner: the
+   capitulation treaties were instruments with legal teeth, not
+   battlefield improvisations.
+
+   **(b) Berry Herald, with the volume's own English.** The five pins
+   Contamine's apparatus supplied, verified in the volume (the printed
+   translation quoted): p. 261 (Harcourt 1449 — Talbot fortified
+   "behind hedges and some waggons… for the conveyance of his
+   provisions and artillery," withdrew by night); p. 265 —
+   load-bearing for the mechanism: the keep of Verneuil surrendered
+   with thirty men though "the said town [tower] was **impregnable so
+   long as there was food within**" ("la dite tour estoit imprenable
+   tant quil y eust en dedens que mengier") — surrender by treaty
+   (Pressigny and Baugy), not breach; same page, Saint-James-de-
+   Beuvron taken by day-long assault then surrender on terms; p. 295
+   (Harfleur — the French escalade driven off the wall by Talbot in
+   person: assault FAILED, the town fell weeks later by composition
+   after battery — the census's no-successful-storm pattern holds even
+   where storming was tried); p. 316 (Rouen, the ceremonial entry by
+   the Porte Beauvoisine); p. 337 (Formigny — the English "took from
+   them… two culverines," the seneschal of Poitou dismounted, charged,
+   "recovered the two said culverines"; ~200 English dead at that
+   charge).
+
+   **(c) Escouchy II — the Gascony 1453 column at T1.** Castillon's
+   siege was **Jean Bureau's counsel**: the council of war resolved on
+   it "par l'advis... de maistre Jehan Burreau, chevalier, seigneur de
+   Monglat," to master the river ("qui porroit avoir ladicte ville de
+   Chasteillon... on averoit ladicte rivière pour luy"); "A ce faire
+   se conclud tout le conseil" (t. II p. 33) — the artillery
+   administrator designing grand strategy, in the chronicle's own
+   attribution. The fortified parc (fossés, barrières) and the 800
+   francs-archers in the abbey follow on the same page. Talbot's
+   decision is political throughout: the Bordeaux burghers press his
+   own 10,000-combatants promise back on him (pp. 34–35); a false
+   report — "les Franchois habandonnent leur parc et s'enfuyent" —
+   pulls him from mass ("Jamais je n'oray la messe, ou aujourduy
+   averay rué jus la compaingnie des Franchois," pp. 38–39); the
+   defenders "afusterrent leur artillerie au lez devers dont véoient
+   venir ledit Talbot" — trained their guns on his line of approach —
+   and an old English gentleman who warned him to turn back was
+   struck across the face with Talbot's sword (p. 39). **Cadillac
+   (pp. 64–65) is the census's one true bombardment-breach-storm**:
+   stormed 19 September 1453 — but only after battery by "the biggest
+   bombards and cannon King Charles had at his siege of Bordeaux,"
+   deliberately laid to fire "tous ensamble et à une fois" (a
+   coordinated simultaneous discharge — tactically notable in
+   itself) against the boulevard; then the massed guns turned on the
+   gate-tower and wall until the rubble "filled a great part" of the
+   moat; each soldier carried a faggot to the ditch; then the assault
+   cry. [DATE DISCREPANCY: Vale (TRHS) has the captain executed 17
+   September; Escouchy dates the storm Wednesday 19 September —
+   flagged, not resolved.] Even here the pattern is
+   artillery-prepared assault against a place under punitive terms
+   after the Gascon revolt, not an escalade against intact walls.
+   **Bordeaux's second surrender is NEGOTIATED-POLITICAL in full
+   documentary detail** (pp. 73–77): safe-conducts to Lormont, 25–30
+   burgesses; the offer — abolition for lives and goods, renunciation
+   of ALL privileges, 100,000 écus; the king's council advising
+   composition partly for "le dangier de l'epedimie qui avoit jà couru
+   long temps" (the plague factor, stated in council); final terms —
+   lives spared, ringleaders "banis perpetuellement," the English to
+   depart with goods, Bordeaux "renunchèrent à tous leurs previleiges
+   et franchises, pour en faire au bon plaisir du Roy"; twelve
+   hostages (six English, six Gascon) on 12 October; rendition
+   deferred by internal dispute to Friday 19 October. Benauges and
+   Rions then REFUSED to honour the treaty (p. 77 ff.) — the
+   composition system's limits recorded by the same witness; and
+   sixteen ships from La Rochelle (8 October) cleared the blockading
+   grosse navire (p. 79) — the riverine dimension Bureau's Castillon
+   advice had identified. The privilege-stripping terms feed the
+   book's consolidation argument directly: the composition instrument
+   is where military surrender converts into constitutional
+   subordination.
+
 ---
 
 STATUS: REVIEWED (Roderick, 2026-07-27) — feeds the ch06 draft
