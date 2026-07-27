@@ -24,8 +24,8 @@ freely with page refs) · **PARSE** (open but needs a reading pass).
 | Work | Needed by | Priority | Status |
 |---|---|---|---|
 | Contamine, *Guerre, état et société à la fin du Moyen Âge* | ch06 (largest single dependency: Bureau offices, calibres, gun counts, campaign figures); ch03, ch07, ch10 later | **HIGH** | **BUY** (dossier #1: no open full text, no alumni entitlement; De Gruyter/Brill record; Appendix E: buy first). Cazelles review IN REPO (`Contamine-review-BEC-1973.pdf`) as interim thesis-carrier |
-| Curry, "Was there a Military Revolution in Lancastrian Normandy?" (= "Guns and Goddams," *JMMH* VIII, 2010) | ch06 (authoritative count of places taken 1449–50; the gradualist counter-weight — critiques.md Obj. 4); ch10 (the reversed-causation objection, pp. 187–88) | **HIGH** | **IN REPO** (`corpus/retrieved/source-library/open-access/Curry-Guns-and-Goddams-2010.pdf`) — ch06 upgrade pass pending |
-| Cerny, "Neomedievalism, Civil War and the New Security Dilemma," *Civil Wars* 1:1 (1998) | ch01 (the SIX-characteristic enumeration); ch03, ch08 | **HIGH** | **IN REPO** (`corpus/retrieved/NeomedievalismCivilWars.pdf`). NOTE: inline list has SEVEN attributes (pp. 45–46); the six-characteristic checklist = the six section headings, section VI = *zones grises* (pp. 57–58). See ch08/memo.md §0.1; ch01 upgrade pass pending |
+| Curry, "Was there a Military Revolution in Lancastrian Normandy?" (= "Guns and Goddams," *JMMH* VIII, 2010) | ch06 (authoritative count of places taken 1449–50; the gradualist counter-weight — critiques.md Obj. 4); ch10 (the reversed-causation objection, pp. 187–88) | **HIGH** | **IN REPO** (`corpus/retrieved/source-library/open-access/Curry-Guns-and-Goddams-2010.pdf`) — **read and integrated** (ch06 Revisions 5; ch10 memo/critiques; ch06/artillery-reconquest.md). Page-pin still owed: the pp. 187–88 quotes against the published pagination |
+| Cerny, "Neomedievalism, Civil War and the New Security Dilemma," *Civil Wars* 1:1 (1998) | ch01 (the SIX-characteristic enumeration); ch03, ch08 | **HIGH** | **IN REPO** (`corpus/retrieved/NeomedievalismCivilWars.pdf`). NOTE: inline list has SEVEN attributes (pp. 45–46); the six-characteristic checklist = the six section headings, section VI = *zones grises* (pp. 57–58). See ch08/memo.md §0.1; **ch01 upgrade integrated** (ch01 Revisions 3, 2026-07-24) |
 | Bull, *The Anarchical Society*, ch. 10 + conclusion (pp. 245–266) | ch01 + Introduction (exact heading order; verbatim caution sentences) | **HIGH** | **BUY** (dossier #5: IA preview only — https://archive.org/details/anarchicalsociet00bull; no controlled loan; library ebook or print; keep one edition for pagination) |
 | Friedrichs, "The Meaning of New Medievalism," *EJIR* 7:4 (2001) or 2007 chapter | ch01, ch02 (sentence-level duality wording) | **HIGH** | **DOWNLOAD** (dossier #22: SAGE authenticated but restricted; author upload — https://www.researchgate.net/publication/249690919_The_Meaning_of_New_Medievalism; verify pagination against journal before citing) |
 | Ullmann, *The Growth of Papal Government in the Middle Ages* | ch02 (the interpretive spine: Dictatus as monarchic sovereignty; Worms as unresolved stalemate) | **HIGH** | **BORROW** (dossier #4: Open Library controlled loan — https://openlibrary.org/books/OL6172975M; capture page refs during loan; no conversion to unrestricted file) |
@@ -210,7 +210,7 @@ check).
 | Item | Needed by | Status |
 |---|---|---|
 | Stevenson (ed.), *Letters and Papers…* (Rolls Series), p. 619 et seq. | ch06 (cite the "one hundred strongpoints" list first-hand rather than via Rogers) | **DONE 2026-07-24** — vol. II pt ii IN REPO (`…/primary-sources/Stevenson-Letters-and-Papers-vol-2-part-2.pdf`); the Somerset list read first-hand at pp. 619–637 (ch06 Revisions 6). The round "100" stays cited to Rogers's count of the document (multi-place entries) |
-| Jean Chartier, *Chronique de Charles VII* — Gallica / Internet Archive (Middle French) | ch06 (primary attestation of Bureau siege engineering) | PARSE (French pass) |
+| Jean Chartier, *Chronique de Charles VII* — Gallica / Internet Archive (Middle French) | ch06 (primary attestation of Bureau siege engineering; ii. 178–79 Harfleur, ii. 254–56 Blaye/Dax via Rogers fns) | **French parse — same scheduling rule as Escouchy/Narratives (flagged to Roderick; no machine translation of load-bearing passages)** |
 | *Le Recouvrement de Normandie* (Berry Herald) — OpenEdition | ch06 (campaign chronicle) | PARSE |
 | Contamine, "L'artillerie royale française à la veille des guerres d'Italie" (*Annales de Bretagne* 1964) | ch10 | **DONE 2026-07-24** — PDF IN REPO (`…/open-access/`), complete read and integrated (ch10 Revisions 7–8: 8%-of-military-spend 1489; ~150 permanent personnel; both T4 debunks) |
 | Perroy, "L'artillerie de Louis XI dans la campagne d'Artois (1477)" (*Revue du Nord* 1943, 2 parts) | ch10 | **DONE 2026-07-24** — both PDFs IN REPO, read and integrated (ch10 Revisions 8: 1477 train scale; 1465 Milanese testimony) |
@@ -282,6 +282,8 @@ owed: ch01 (Cerny enumeration — see ch08/memo.md §0.1), ch02 (Epic
 holdings; BIS thresholds), ch05 (Draghi; MHLW; BJP), ch06 (Curry count;
 Stevenson first-hand; DeVries Bureau confirmations). Batch 3 ch08 gated
 works and verification pulls added above.*
+*(All four upgrade passes since completed: ch01 Revisions 3; ch02
+Revisions 3–4; ch05 Revisions 5–6; ch06 Revisions 5–6 — 2026-07-23/24.)*
 
 *2026-07-24 update: the four Persée PDFs (Contamine 1964; Perroy 1943 ×2;
 Depreter 2011) and Stevenson vol. II pt ii are IN REPO, read, and
