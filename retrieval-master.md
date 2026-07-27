@@ -335,3 +335,37 @@ A** → ch05; Keen's and Reeves's reviews of Vale → ch06) and
 1972** — thesis carrier, integrated as interim in ch10 sources.md; the
 monograph itself remains PENDING, still the project's largest single
 dependency). Copy-in and per-chapter integration on instruction.*
+
+## 2026-07-27 (evening): chronicle arrivals + parse-rule change
+
+**Rule change (Roderick, this date):** the no-machine-translation
+scheduling rule is LIFTED — chronicle and annex parses are performed
+in-session; translations not printed in the source volumes are marked
+[TRANS. CLAUDE] in the research files for draft-stage spot-checking.
+
+**New arrivals, IN REPO and PARSED:**
+- Stevenson (ed.), *Narratives of the Expulsion of the English from
+  Normandy* (Rolls Series) — `corpus/retrieved/narrativesofexpu00stev.pdf`
+  (Internet Archive scan, good text layer). Blondel's *De Reductione
+  Normanniae* (Latin, marginal English glosses) + Berry Herald's
+  "Recouvrement de Normendie" **with full parallel English translation
+  printed in the volume** (earlier "no translations in volume"
+  annotation was wrong — withdrawn). Parsed: Contamine's five Berry
+  pins (pp. 261, 265, 295, 316, 337) verified in the volume; Blondel
+  Harfleur/Honfleur/Mont-Ste-Catherine/Valognes/Fougères/Formigny/
+  Rouen-enforcement passages extracted → artillery-reconquest.md
+  Revisions 5, ch06 memo Revisions 10.
+- Escouchy, *Chronique*, t. II (éd. Beaucourt, SHF) —
+  `corpus/retrieved/Chronique_de_Mathieu_d_Escouchy.pdf` (Google scan,
+  good text layer). Covers 1452–53: Bureau's Castillon counsel (p. 33),
+  Talbot's march and death, Cadillac storm (pp. 64–65), Bordeaux
+  composition (pp. 73–77), Benauges/Rions refusal, La Rochelle naval
+  action. Parsed → artillery-reconquest.md Revisions 5.
+- Contamine Tome 2 **Annexe VI (pay tariffs, print pp. 619–636) parsed
+  visually from the PDF** → ch10 memo Revisions 12. The last open
+  Contamine flag is closed.
+
+**Parse queue after this session:** nothing blocked on scheduling.
+Still WANTED (acquisition, not parse): Chartier t. II (éd. Vallet de
+Viriville), Leseur *Histoire de Gaston IV*, Escouchy t. I and III,
+Beaucourt *Histoire de Charles VII* (for apparatus, lower priority).
