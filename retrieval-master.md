@@ -27,7 +27,7 @@ freely with page refs) · **PARSE** (open but needs a reading pass).
 | Curry, "Was there a Military Revolution in Lancastrian Normandy?" (= "Guns and Goddams," *JMMH* VIII, 2010) | ch06 (authoritative count of places taken 1449–50; the gradualist counter-weight — critiques.md Obj. 4); ch10 (the reversed-causation objection, pp. 187–88) | **HIGH** | **IN REPO** (`corpus/retrieved/source-library/open-access/Curry-Guns-and-Goddams-2010.pdf`) — **read and integrated** (ch06 Revisions 5; ch10 memo/critiques; ch06/artillery-reconquest.md). Page-pin still owed: the pp. 187–88 quotes against the published pagination |
 | Cerny, "Neomedievalism, Civil War and the New Security Dilemma," *Civil Wars* 1:1 (1998) | ch01 (the SIX-characteristic enumeration); ch03, ch08 | **HIGH** | **IN REPO** (`corpus/retrieved/NeomedievalismCivilWars.pdf`). NOTE: inline list has SEVEN attributes (pp. 45–46); the six-characteristic checklist = the six section headings, section VI = *zones grises* (pp. 57–58). See ch08/memo.md §0.1; **ch01 upgrade integrated** (ch01 Revisions 3, 2026-07-24) |
 | Bull, *The Anarchical Society*, ch. 10 + conclusion (pp. 245–266) | ch01 + Introduction (exact heading order; verbatim caution sentences) | **HIGH** | **BUY** (dossier #5: IA preview only — https://archive.org/details/anarchicalsociet00bull; no controlled loan; library ebook or print; keep one edition for pagination) |
-| Friedrichs, "The Meaning of New Medievalism," *EJIR* 7:4 (2001) or 2007 chapter | ch01, ch02 (sentence-level duality wording) | **HIGH** | **DOWNLOAD** (dossier #22: SAGE authenticated but restricted; author upload — https://www.researchgate.net/publication/249690919_The_Meaning_of_New_Medievalism; verify pagination against journal before citing) |
+| Friedrichs, "The Meaning of New Medievalism," *EJIR* 7:4 (2001) or 2007 chapter | ch01, ch02 (sentence-level duality wording) | **HIGH** | **IN REPO 2026-07-27** (`corpus/retrieved/Friedrichs2001.pdf` — the author-upload DOWNLOAD executed). Verify pagination vs the journal; **ch01/ch02 upgrade passes now owed** (sentence-level duality wording) |
 | Ullmann, *The Growth of Papal Government in the Middle Ages* | ch02 (the interpretive spine: Dictatus as monarchic sovereignty; Worms as unresolved stalemate) | **HIGH** | **BORROW** (dossier #4: Open Library controlled loan — https://openlibrary.org/books/OL6172975M; capture page refs during loan; no conversion to unrestricted file) |
 | Watts, *Henry VI and the Politics of Kingship* | ch05 (the wars-as-symptom thesis — the chapter's framing); ch07, ch09 later | **HIGH** | **NOW — DO NOT BUY** (dossier #3: Cambridge Core alumni full access confirmed — https://www.cambridge.org/core/books/henry-vi-andthe-politics-of-kingship/536317894E96B0A8B2D6D01786BB24FF). Chs. 5 **and 6** IN REPO; further chapters saveable on demand |
 | **Rhineland regional monograph** (middle-Rhine ecclesiastical principalities / *Pfaffengasse*, mid-13th c.) | ch01 — **ELEVATED per review 2026-07-22**: restores the outline's Rhineland concession; northern-Italy-only is the interim position | **ELEVATED** | PENDING (specific title to be identified) |
@@ -62,7 +62,7 @@ freely with page refs) · **PARSE** (open but needs a reading pass).
 | Mallett, *Mercenaries and Their Masters* | ch04 (condotta anatomy — ferma/aspetto NOT FOUND openly; stabilisation thesis). The chapter's spine | **HIGH** | PENDING |
 | Harvey, *Jack Cade's Rebellion of 1450* | ch07 (pardon-roll composition percentages; the "Articles" text; aftermath). The chapter's spine | **HIGH** | PENDING |
 | Dollinger, *The German Hansa* | ch04 (Hansetag 1356 variants; Stralsund consent-clause wording; Bergen social regime) | **HIGH** | PENDING |
-| Lane, *Venice: A Maritime Republic*; Lane & Mueller, *Money and Banking in Medieval and Renaissance Venice*; Pezzolo (Monte) | ch04 (Arsenal output; Ten/Inquisitors procedure; Monte Vecchio/estimo/1262) | **HIGH** | PENDING |
+| Lane, *Venice: A Maritime Republic*; Lane & Mueller, *Money and Banking in Medieval and Renaissance Venice*; Pezzolo (Monte) | ch04 (Arsenal output; Ten/Inquisitors procedure; Monte Vecchio/estimo/1262) | **HIGH** | Lane ×2 PENDING; **Pezzolo Monte chapter IN REPO 2026-07-27** (`pezzolo+7_Chapter+proof.pdf` — proof copy; read for the prestiti/Monte Vecchio series; ch04 upgrade owed) |
 | McFarlane, "Bastard Feudalism" (*BIHR* 20, 1945) + *England in the Fifteenth Century* | ch03 (the affinity; exact 1945 text; inadequate-kingship thesis) | MED | PENDING |
 | Hicks, *Bastard Feudalism* (1995); McKelvie, *The Statutes of Livery* (2020) | ch03 (synthesis; statutory enforcement record 1390–1520) | MED | PENDING |
 | Zmora, *State and Nobility in Early Modern Germany*; Brunner, *'Land' and Lordship* | ch03/ch08 (feud-as-state-building; post-1495 persistence; right-to-feud doctrine) | MED | PENDING |
@@ -71,7 +71,7 @@ freely with page refs) · **PARSE** (open but needs a reading pass).
 | Bohna, "Armed Force and Civic Legitimacy in Jack Cade's Revolt" (*EHR* 118, 2003) | ch07 (muster-structure mobilisation) | MED | PENDING |
 | Najemy, *A History of Florence 1200–1575* | ch07 (Ciompi absorbed-not-defeated framing; 1382–1434 regime) | MED | PENDING |
 | Blickle, *The Revolution of 1525*; Scott & Scribner, *The German Peasants' War* | ch07 (Bundschuh programmes; **the gated literature needed to source or replace the outline's "1460s–70s urban revolts"**) | MED | PENDING |
-| Norris & Inglehart, *Cultural Backlash* (CUP 2019) | ch07 (peer-reviewed cultural-backlash statement; open WP carries interim load) | MED | PENDING |
+| Norris & Inglehart, *Cultural Backlash* (CUP 2019) | ch07 (peer-reviewed cultural-backlash statement) | MED | **Ch. 1 IN REPO 2026-07-27** (`Norris_Inglehart_Cultural_Backlash_Overview_Chapter-1.pdf`) — supersedes the working-paper interim carrier for the framework statement; full book still PENDING for the composition tables |
 | Kaufman, *The Jack Cade Rebellion of 1450: A Sourcebook* (2019) | ch07 (manifesto texts in modern edition) | LOW | PENDING |
 | Lubkin, *A Renaissance Court* (1994) | ch04 (Sforza accession ceremonial) | LOW | PENDING |
 | Chambers & Pullan, *Venice: A Documentary History* | ch04 (bocche di leone threshold rule) | LOW | PENDING |
@@ -90,9 +90,9 @@ freely with page refs) · **PARSE** (open but needs a reading pass).
 | Baker, "The Law Merchant and the Common Law before 1700" (*CLJ* 1979); Berman, *Law and Revolution* (1983) | ch08 (both sides of the law-merchant debate in their own words) | MED | PENDING |
 | Johnson, *Law in Common* (OUP 2020) | ch08 (legal-pluralism frame at monograph depth) | MED | PENDING |
 | Hicks, *Bastard Feudalism*; Carpenter, *Locality and Polity*; Payling EHR 1998 | ch08 (magnate influence over justice; Hicks already listed under Batch 2) | LOW | PENDING |
-| Thornley/Baker on Tudor sanctuary statutes | ch08 (the discrete 1529–36 sanctuary acts) | LOW | PENDING |
-| Davis (ed.), *Paston Letters and Papers*, Parts II–III | ch08 (authoritative numbering/dating vs Gairdner) | LOW | PENDING |
-| WSJ (Randazzo), "Amazon Faced 75,000 Arbitration Demands…" (1 Jun 2021); SIAC Annual Report 2024 PDF | ch08 (canonical citations for the Amazon episode; SIAC figures from the primary) | LOW | PENDING |
+| Thornley/Baker on Tudor sanctuary statutes | ch08 (the discrete 1529–36 sanctuary acts) | LOW | **Baker, "The English Law of Sanctuary" (*Ecclesiastical Law Journal*) IN REPO 2026-07-27** (`the-english-law-of-sanctuary.pdf`) — read for the statute sequence; expected to resolve the "1536" question (ch08 upgrade owed). Thornley still PENDING if needed after Baker |
+| Davis (ed.), *Paston Letters and Papers*, Parts II–III | ch08 (authoritative numbering/dating vs Gairdner) | LOW | **Part II front matter/CONTENTS ONLY in repo** (`474441601.pdf`, 17 pp. — a finding aid for letter numbering/dating, not the texts); the letters themselves still PENDING |
+| WSJ (Randazzo), "Amazon Faced 75,000 Arbitration Demands…" (1 Jun 2021); SIAC Annual Report 2024 PDF | ch08 (canonical citations for the Amazon episode; SIAC figures from the primary) | LOW | **SIAC Annual Report 2024 IN REPO 2026-07-27 and PINNED** ("third highest caseload of 625"; USD 11.86bn — confirms the ch08 memo figures from the primary). WSJ still PENDING |
 
 ### Added from Batch 3 (ch10) — 2026-07-23
 
@@ -160,8 +160,8 @@ never-delete, the source-library copies are canonical for citation.
 | Grummitt (*HR* 72, 1999); Gunn (*HR* 82, 2009) full texts | ch11 (chamber revisionism; New Monarchy historiography) | MED | PENDING (gated OUP) |
 | Lunenfeld, *The Council of the Santa Hermandad* (1970); Kamen, *The Spanish Inquisition*; Contreras & Henningsen (1986) | ch11 (Hermandad detail; any Inquisition scale figures) | MED | PENDING |
 | İnalcık, "Mehmed the Conqueror and His Time" (*Speculum* 35, 1960); Murphey, *Ottoman Warfare*; Ágoston, *Guns for the Sultan* | ch11 (devşirme per-levy numbers; kul-vizier counts; janissary payrolls) | MED | PENDING (İnalcık book itself: BORROW per dossier) |
-| Eisenstein (1979); Johns, *The Nature of the Book* (1998); *AHR* 107:1 (2002) forum; Febvre & Martin, *The Coming of the Book* | ch11 (the print debate's own texts; the 20M-copies formulation) | MED | PENDING |
-| Green, *A Short History of the English People* (1874) | ch11 (the "New Monarchy" coinage — public domain, archive.org download task) | LOW | PENDING (open; download) |
+| Eisenstein (1979); Johns, *The Nature of the Book* (1998); *AHR* 107:1 (2002) forum; Febvre & Martin, *The Coming of the Book* | ch11 (the print debate's own texts; the 20M-copies formulation) | MED | **The AHR 2002 forum pair IN REPO 2026-07-27**: Eisenstein, "An Unacknowledged Revolution Revisited" + Johns, "How to Acknowledge a Revolution" (`eisenstein-revolution_revisited.pdf`; `adrian_johns-printed_revolution_discussed.pdf`) — the debate citable from its own texts (ch11 upgrade owed). The two monographs + Febvre & Martin still PENDING |
+| Green, *A Short History of the English People* (1874) | ch11 (the "New Monarchy" coinage) | LOW | **IN REPO 2026-07-27** (`shorthistoryofen00gree_0.pdf`) — locate the coinage passage at the ch11 upgrade |
 | A. F. Pollard; Koenigsberger; C. S. L. Davies critiques; Elliott, "A Europe of Composite Monarchies" (*P&P* 137, 1992) | ch11 (New Monarchy genealogy and critics; Guenée already listed for ch09) | LOW | PENDING |
 
 **ch11 in-browser verification pulls** are consolidated in ch11/sources.md
@@ -176,7 +176,7 @@ check).
 
 | Item | Needed by | Priority | Status |
 |---|---|---|---|
-| RUSI Feb 2025 report PDF (Watling & Reynolds) — page pin for the "60–70% of damaged and destroyed Russian systems" sentence | ch12 | MED | Open; PARSE/pin |
+| RUSI Feb 2025 report PDF (Watling & Reynolds) | ch12 | MED | **IN REPO 2026-07-27 and PINNED**: "tactical UAVs currently account for 60–70% of damaged and destroyed Russian systems" — PDF p. 11 (`tactical-developments-third-year-russo-ukrainian-war-february-2205.pdf`); note the report's own caveat sentence follows ("must be read in the appropriate context") — carry it |
 | Jeddah US–Ukraine joint statement (11 Mar 2025), state.gov verbatim | ch12 | MED | In-browser pull |
 | CNN Alabuga reporting (25 Jul / 8 Aug 2025) — geo-blocked (HTTP 451) | ch12 | LOW | In-browser pull |
 | The 9 Jul 2025 raid composition; OneWeb terminal count; White Paper for European Defence date; 2026 US chip-policy primaries; NRO/NGA commercial-ISR formulation; WSJ ATACMS approval-mechanism report | ch12 | LOW | In-browser pulls (listed in ch12/sources.md) |
@@ -196,14 +196,33 @@ check).
 
 | Item | Needed by | Priority | Status |
 |---|---|---|---|
-| Vale, "The Last Years of English Gascony, 1451–1453" (*TRHS* 1969, DOI 10.2307/3678742); Vale, *English Gascony 1399–1453* (1970) | ch06/artillery-reconquest.md (Gascony day-dates; Cadillac; the Bureau-mayoralty conflict; 1451/1453 terms) | **HIGH** | PENDING (both gated) |
-| Beaucourt, *Histoire de Charles VII*, vols. 4–5 | ch06 table (Rouen castle handover; Avranches variant; Fresnay; Pont-de-l'Arche day; Gascon sequence) | MED | OPEN (public domain, Gallica/archive.org) — PARSE |
+| Vale, "The Last Years of English Gascony, 1451–1453" (*TRHS* 1969); Vale, *English Gascony 1399–1453* (1970) | ch06/artillery-reconquest.md (Gascony day-dates; Cadillac; the Bureau-mayoralty conflict; 1451/1453 terms) | **HIGH** | **TRHS 1969 IN REPO 2026-07-27** (`the-last-years-of-english-gascony-1451-1453-the-alexander-prize.pdf`) — **the Gascony table's principal gap now closable; ch06-table upgrade owed**. The 1970 book still PENDING |
+| Beaucourt, *Histoire de Charles VII*, vols. 4–5 | ch06 table (Rouen castle handover; Avranches variant; Fresnay; Pont-de-l'Arche day; Gascon sequence) | MED | **BOTH IN REPO 2026-07-27**: T.IV *L'Expansion de la Royauté 1444–1449* (`ae5c95d837cf58d626d9be367f557c95.pdf` — rename suggested) + T.V *Le Roi Victorieux* (`92759_Histoire_de_Charles_VII_T_5…pdf`). French reading pass under the scheduling rule |
 | Stevenson (ed.), *Narratives of the Expulsion* (Rolls Series 32, 1863): Blondel pp. 1–238 (Latin), Berry Herald pp. 239–378 (French) — **no translations in the volume** | ch06 table (tide-battery verbatim; Domfront date; Caen cannonball story; any storming instance) | MED | OPEN (archive.org `narrativesofexpu00stev`) — **French/Latin parse FLAGGED TO RODERICK for scheduling (review 2026-07-27): load-bearing passages are not to be machine-translated; a human reading pass (or human-checked translation) is required before quotation** |
-| Escouchy, *Chronique* (Beaucourt ed.) vols. 1–2; Chartier (Vallet de Viriville ed.) — Chartier already listed §II | ch06 table (v.2 = 1452–61, Castillon/Gascony 1453) | MED | OPEN (archive.org) — **French parse FLAGGED TO RODERICK for scheduling (same rule: no machine translation of load-bearing passages)** |
-| Leseur, *Histoire de Gaston IV* (SHF ed.), pp. 119–21 | ch06 table (the Dax battered-walls quote's year — Rogers fn 107) | MED | PENDING/PARSE (edition access to verify) |
+| Escouchy, *Chronique* (Beaucourt ed.); Chartier (Vallet de Viriville ed.) | ch06 table (Castillon/Gascony 1453; Harfleur/Blaye cites) | MED | **IN REPO 2026-07-27**: Escouchy — one volume, contents match **Tome II (1452–61)** (`Chronique_de_Mathieu_d_Escouchy.pdf`; confirm tome no. on title page at parse; T.I/III still to fetch if needed) + **Chartier vol. 2 (May 1440–June 1453)** (`chroniquedechar02char.pdf` — the ii. 178–79 / ii. 254–56 volume). **French parse remains FLAGGED TO RODERICK (no machine translation of load-bearing passages)** |
+| Leseur, *Histoire de Gaston IV* (SHF ed.), pp. 119–21 | ch06 table (the Dax battered-walls quote's year — Rogers fn 107) | MED | **IN REPO 2026-07-27** (`Histoire_de_Gaston_IV_comte_de_Foix.pdf`, Google scan) — the year check now possible; French pass under the scheduling rule |
 | Burne, *The Agincourt War*; Nicolle, *The Fall of English France 1449–53* (2012); Barker (Rouen 1418–19 at scholarly level) | ch06 table (date adjudications; Cherbourg terms/Gower) | LOW | PENDING (gated) |
 | Virgoe (ed.), "Some Ancient Indictments… Kent, 1450–1452" (*Kent Records* XVIII, 1964) | ch07/cade-composition.md (indictment occupations) | MED | PENDING (not online; library/ILL) |
 | Kriehn, *The English Rising in 1450* (1892) | ch07 probe (pardon-roll scale ~2,203 names; the middle-classes verdict, p. 5) | — | OPEN, read 2026-07-27 (`englishrisingin00kriegoog`) |
+
+## I(c). Inventory — new arrivals 2026-07-27 (flat in corpus/retrieved)
+
+Sixteen distinct titles landed 12:57–13:33 and are flipped in their rows
+above: Friedrichs 2001; Vale TRHS 1969; Beaucourt T.IV and T.V; Stevenson
+*Narratives* (`narrativesofexpu00stev.pdf` — Blondel + Berry Herald; parse
+stays flagged to Roderick); Escouchy (Tome II by contents); Chartier vol.
+2; Leseur; Green 1874; the AHR 2002 Eisenstein/Johns forum pair; Baker on
+sanctuary (ELJ); Norris & Inglehart ch. 1; Pezzolo (Monte chapter proof);
+SIAC Annual Report 2024 (pinned); RUSI Feb 2025 (pinned, p. 11); Karaman
+& Pamuk (archived). **Also present:** Davis *Paston Letters* Part II —
+**contents/front matter only** (finding aid); duplicates of Perroy ×2,
+Depreter, Contamine 1964, Wilkinson (left in place per never-delete); and
+one **dud**: `philippe de commynes memoirs.pdf` (1 page, no text —
+re-download or rely on the Gutenberg #77950 Scoble edition already cited).
+**Upgrade passes now owed:** ch01/ch02 (Friedrichs duality wording);
+ch06-table (Vale TRHS — the Gascony day-dates; Beaucourt); ch04
+(Pezzolo); ch07 (Norris & Inglehart ch. 1); ch08 (Baker sanctuary; SIAC
+pinned); ch11 (AHR forum; Green); ch12 (RUSI pinned — done here).
 
 ## II. Open primaries needing a reading pass (no gate)
 
@@ -216,7 +235,7 @@ check).
 | Perroy, "L'artillerie de Louis XI dans la campagne d'Artois (1477)" (*Revue du Nord* 1943, 2 parts) | ch10 | **DONE 2026-07-24** — both PDFs IN REPO, read and integrated (ch10 Revisions 8: 1477 train scale; 1465 Milanese testimony) |
 | Depreter, "L'artillerie de Charles le Hardi" (*BCRH* 177, 2011) | ch10 | **DONE 2026-07-24** — PDF IN REPO, read and integrated (ch10 Revisions 8: 1458 recette; no Grandson loss-count in the article — "~400" stays tradition-attributed; monograph still PENDING for the critical count) |
 | Commynes, *Mémoires*, Scoble trans. — archive.org / Gutenberg #77950 | ch10 (T1; Book I ch. X verbatim already extracted; wider reading pass for the Burgundy/Public Weal material) | PARSE |
-| Karaman & Pamuk, *JEH* 2010 + dataset (ata.boun.edu.tr) | ch10, ch11 (comparative revenues from 1500) | IN REPO-equivalent (open PDF read); dataset PARSE if figures wanted |
+| Karaman & Pamuk, *JEH* 2010 + dataset (ata.boun.edu.tr) | ch10, ch11 (comparative revenues from 1500) | **IN REPO 2026-07-27** (`Pamuk, Ott State Finances, 1500-1914 (2010).pdf` — archived; already read open); dataset PARSE if figures wanted |
 
 ## III. Verification pulls (not gated; pin before print)
 
