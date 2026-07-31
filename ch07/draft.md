@@ -94,6 +94,26 @@ because it shows the rising as a response to the *long* failure of
 the war state, not a spasm at the news of its end (ch07 probe §3;
 ch06 chronology).
 
+A note on the evidentiary base, because the composition claim carries
+weight and its documents have shapes. What we know of who marched
+comes principally from two record series, and they sample the rising
+differently: the pardon rolls, from which Kriehn's 2,203 names come,
+capture those with enough standing and property to think a pardon
+worth suing out; the King's Bench indictments for Kent, edited by
+Virgoe and not yet in this book's corpus, capture those the crown
+thought worth prosecuting [GAP: Virgoe, Kent Records XVIII]. Both
+windows are biased, and biased in opposite directions — toward the
+respectable in the one case, toward the notable in the other — and
+when both are in hand they must be presented as two biased windows,
+not one population. What can be said now, and it is the probe file's
+disciplined formulation, is that the propertied and office-holding
+character of the rising is attested by the window *least* likely to
+flatter it: even the crown's own machinery of mercy processed the
+host as a county of householders, not a rabble. The Shakespearean
+Cade — the butcher's carnival, the heads on pikes exchanging kisses
+— is Tudor memory doing political work on a rising whose actual
+documents read like a grand jury presentment.
+
 What the commons wanted is not a matter of inference, because their
 manifesto survives. The *Complaint of the Poor Commons of Kent* is a
 document of grievances that a modern reader, primed by Shakespeare's
@@ -196,8 +216,22 @@ sequence above is the consensus record].
 The Praguerie deserves its place beside Cade because it removes an
 ambiguity. Cade's commons rose against a failing state, and a critic
 may fairly ask whether their revolt belongs in a book about
-consolidation at all. The Praguerie rose against a *succeeding*
-state — specifically, by name, against the permanent tax and the
+consolidation at all — Kent in 1450 was not resisting an artillery
+state; it was demanding that a hollow one function. The objection is
+fair and the answer is in the sequence. The grievances the commons
+enumerated — the purveyance, the extortionate assessments, the sale
+of justice, the household men enriched from the crown's shrinking
+estate — are the pathologies of a war-finance apparatus that had
+been extracting at state-building intensity for thirty years without
+building a state: England had run the fiscal-military experiment's
+costs without acquiring its product. The rising was against the
+extraction; the extraction was the consolidation's price paid early
+and wasted; and when the consolidation arrived in earnest under the
+Yorkists and early Tudors, it would meet a population already
+schooled — by exactly these grievances — in what it would and would
+not bear. Cade belongs in the set as the form's response to
+consolidation *mismanaged*. The Praguerie rose against a
+*succeeding* state — specifically, by name, against the permanent tax and the
 royal monopoly of force that constitute this book's mechanism — and
 it lost in the same shape: bought at the top, dispersed at the
 bottom, absorbed into a settlement that proceeded. Together the two
@@ -296,6 +330,27 @@ if the revolt had been weather. The propertied-anxious revolt is
 not an interruption of state formation. It is one of state
 formation's recurring by-products — and, in the concessions it
 extracts, one of its shaping tools.
+
+Why this composition, and why this idiom? The structural logic is
+worth stating, because it is what makes the form portable across
+five centuries. The truly poor rarely make revolts of this kind:
+they lack the organisational capital — the offices, the muster
+rolls, the guild structures, the literate men to draft a Complaint —
+and they lack the stake that converts grievance into programme. The
+truly rich do not need to revolt; they are the counsellors, or can
+buy them. The revolt of the anxious middle happens because the
+middle is where the emerging state's demands and its benefits
+diverge most sharply: these are the men who pay the new taxes but
+do not receive the new offices, who man the county's administrative
+machinery but watch its profits flow to court, whose property is
+substantial enough to be assessed and too modest to be exempted. And
+the restorationist idiom follows from the same position. Men with
+property do not lightly demand new constitutions, because
+constitutional novelty endangers title; what they demand is the old
+constitution *enforced* — the king counselled by his true lords,
+the Emperor sovereign over his predatory intermediaries, the
+weights honest and the sessions unbought. The form's conservatism
+is not timidity. It is the political expression of collateral.
 
 ## VI.
 
@@ -423,7 +478,7 @@ of the chapter that follows.
 
 ---
 
-*Draft ends. Word count ~8,000 (memo-limited; Harvey, Bohna, Virgoe,
+*Draft ends. Word count ~4,900 (memo-limited; Harvey, Bohna, Virgoe,
 Najemy, Contamine-on-the-Praguerie and the German programmes will
 thicken §§II–V at the upgrade pass). Voice-discipline ledger: coined
 concept — the* propertied-anxious revolt *(§I, the chapter's
