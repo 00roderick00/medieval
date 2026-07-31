@@ -683,7 +683,7 @@ paying.
 
 ---
 
-*Draft ends. Word count ~7,200 against a ~13,000 chapter weight —
+*Draft ends. Word count ~6,500 against a ~13,000 chapter weight —
 the largest single shortfall in Batch 1, and deliberate: the
 remaining depth belongs to gated retrievals (Vaughan, Kendall,
 Wolfe, Bonney/Ormrod comparative fiscal series) and to Roderick's
