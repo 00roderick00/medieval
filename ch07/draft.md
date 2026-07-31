@@ -116,8 +116,8 @@ documents read like a grand jury presentment.
 
 What the commons wanted is not a matter of inference, because their
 manifesto survives. The *Complaint of the Poor Commons of Kent* is a
-document of grievances that a modern reader, primed by Shakespeare's
-grotesque Cade, will find startling in its sobriety. The king, it
+document of grievances that a modern reader will find startling in
+its sobriety. The king, it
 says, is surrounded by counsellors "fals and of nowght browght up" —
 false, and raised from nothing — who have taught him that he is
 "a bove his lawys," above his own laws; justice cannot be had "with
