@@ -124,6 +124,28 @@ patronage flows, household finance — awaits Griffiths, *The Reign of
 King Henry VI*, still on the acquisition list; the framing here rests
 on the verified Watts chapters].
 
+It is worth dwelling on why the disclosure was so difficult to act
+upon, because the difficulty is constitutional and it recurs in every
+case this chapter examines. Medieval monarchy had one well-worn
+mechanism for the absent executive: the minority. Kings died leaving
+children often enough that every realm had precedents, personnel and a
+vocabulary for councils of regency — England had just run one for
+fifteen years, competently. But a minority is a *scheduled* vacancy:
+it has a known end-point, a boy who ages at a known rate, and
+therefore a settlement everyone can price. Incapacity in an adult king
+had no schedule. No one in 1453 could say whether the king's absence
+would last a month or a reign; any magnate who accepted large powers
+risked being destroyed by a recovered king, and any who declined them
+left the powers lying in the street. The queen's claim to a regency
+foundered on the lords' refusal; York's protectorate was drawn as
+narrowly as the drafting could manage and terminated at the first
+sign of recovery. The constitution, in other words, could handle the
+predictable failure of its single point of failure and not the
+unpredictable one — a distinction any engineer would recognise, and
+one that will matter again when this chapter reaches the polities of
+our own century, whose provisions for executive incapacity likewise
+assume that it announces itself cleanly and ends on schedule.
+
 The chronology of the losses matters, and this book has already fixed
 it. Normandy fell in 1449–50 — the cascade of compositions Chapter 6
 counts — three years before the king's collapse; Gascony fell in the
@@ -187,6 +209,29 @@ his return. Power flowed to whoever stood nearest the chair when the
 king's mind left it — and flowed again, in a different direction, when
 his mind returned. The French constitution spent thirty years being
 rewritten twice a year.
+
+The comparison with England should be drawn precisely, because the
+clinical difference is the analytic instrument, not an obstacle to be
+apologised for. Henry VI's total incapacity posed the constitution a
+hard question once, and the constitution failed it slowly; Charles
+VI's intermittent incapacity posed the question afresh at every
+relapse and every recovery, and so the French constitution failed it
+serially, in public, for a generation. If the failure mode were a
+matter of the particular illness — a catatonic king producing one
+politics, a psychotic king another — the institutional outcomes should
+have differed as the conditions did. They converged: in both realms,
+the substitute-executive question ate the polity. Regency mechanisms
+failed to stabilise; the great affinities and the ducal houses armed
+around the vacancy; faction hardened into civil war; and the crown's
+fiscal capacity — the one resource a substitute executive most needs —
+eroded fastest of all, because taxation in a personalised
+constitution rested on consent to a person, and there was no person
+to consent to. Two different diseases, one institutional syndrome:
+that is the strongest evidence the fifteenth century offers that the
+syndrome belonged to the constitution and not to the patient — and it
+is why this chapter's comparisons run at the level of institutional
+response and stop, deliberately, at the door of retrospective
+diagnosis.
 
 What that dynamic produced was not merely instability but armed
 faction organised around the substitute-executive question itself. The
@@ -272,6 +317,22 @@ radical of the century's consolidation variants — the polity that
 answered the over-mighty subject not by defeating him but by
 manufacturing his replacement.
 
+Even in the Ottoman case, note, the crisis decade displays the
+pattern's signature: it was not the sovereign's weakness that
+created the contending interests — the Janissary corps and the
+vizieral households were mature institutions, built by strong
+sultans for strong sultans — but the sovereign's abdication that
+revealed how independently those interests could act. Çandarlı
+Halil's engineered revolt was the act of an over-mighty servant, not
+an over-mighty vassal, and the distinction previews the argument of
+this chapter's sixth section: the form of the concentrated
+capability varies with the constitution — hereditary affinity in
+England, ducal apanage in France, a slave-recruited praetorian
+corps and administrative dynasty at the Porte — but the direction of
+causation does not. Capability concentrates first, inside a
+functioning order; the weak moment then discloses what the strong
+years had grown.
+
 ## V.
 
 Five centuries on, the condition has returned, and the book's
@@ -316,12 +377,23 @@ capable, wealthy, legitimate state that cannot execute a specific
 function it nominally owns. Three exhibits, each from the state's own
 paperwork. The United States government publishes, through the
 Government Accountability Office, an annual assessment of its own
-weapons acquisition; the recent editions record that a major system
-now takes on average more than twelve years to field, that delivery
-timelines have lengthened rather than shortened under reform, and
-that the Navy's lead frigate programme is more than three years late
-with construction effectively stalled (GAO, annual weapon systems
-assessments). The European Union commissioned its own diagnosis; the
+weapons acquisition, and the assessment is a study in a state
+auditing its own executive incapacity with perfect candour and no
+effect. The recent editions record that a major system now takes on
+average more than twelve years to field; that the average delivery
+timeline for major defence acquisition programmes has lengthened
+from roughly eight years to roughly eleven under successive waves of
+acquisition reform; that the Navy's lead frigate programme is more
+than three years late with construction effectively stalled, and
+that its shipbuilding programmes generally run one to three years
+behind schedule (GAO, annual weapon systems assessments; the
+frequently cited multi-trillion-dollar portfolio figure is a
+planned-investment total, not an expenditure, and is flagged as
+such). None of this is secret, contested or unmeasured; it is
+measured annually, by the sovereign, about itself. The hollow
+crown of the fifteenth century at least required chroniclers to
+infer its condition. The modern functional variant publishes its
+own diagnosis and proceeds. The European Union commissioned its own diagnosis; the
 Draghi report's Part B states it without cushioning: "Of a total of
 EUR 75 billion spent by Member States between June 2022 and June
 2023, 78% of procurement spending was diverted to purchases from
@@ -384,6 +456,30 @@ crisis — and the crisis then runs on the subjects' resources, which
 is why it lasts. The Wars of the Roses were fought by private
 armies that existed before the king fell ill and would have existed
 had he never fallen ill at all.
+
+The direction of causation is not a pedantry; it determines what
+counts as a remedy. If weak kings make over-mighty subjects, the cure
+is a strong king — better personnel, the perennial and comfortable
+prescription, requiring nothing of the constitution itself. If
+over-mighty subjects make kings weak, then personnel is beside the
+point: a vigorous adult Henry VI would still have confronted
+affinities whose retinues, revenues and county administrations had
+grown for two generations inside the legal order, and his vigour
+would have changed the management of the problem, not its existence.
+The fifteenth century ran both experiments. England got better
+personnel — Edward IV was everything Henry VI was not — and the
+structural problem outlasted him, because it was structural. France
+got a structural answer — the standing army, the permanent tax, the
+artillery establishment — and the problem ended, not because French
+kings became uniformly strong but because the resource asymmetry
+between crown and magnate was rebuilt until no magnate's capability
+could rival the crown's. That asymmetry, and the instrument that
+anchored it, is the subject the reader has already met in Chapter 6
+and will meet as institution in Chapter 10. The lesson generalises,
+and Part III will lean on it: where capability has concentrated
+outside the centre, changes of leadership at the centre are
+cosmetic. The remedy that works is the one that changes what the
+centre can afford that its subjects cannot.
 
 The reason this matters beyond the fifteenth century is that the
 structural analogue is now in place, and the book has already
@@ -465,7 +561,7 @@ instrument (Chapter 6), then the reckoning at home (Chapter 7).
 
 ---
 
-*Draft ends. Word count ~9,300 (memo-limited; the Griffiths,
+*Draft ends. Word count ~6,300 (memo-limited; the Griffiths,
 Famiglietti, Vaughan and İnalcık/Kafadar retrievals will thicken §§II–IV
 at the upgrade pass). Voice-discipline ledger: coined concept — the*
 undermighty king *(title term, riffing on the historiographical
