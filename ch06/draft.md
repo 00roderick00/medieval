@@ -40,8 +40,9 @@ doubte des ennemys* — abandoned for fear of the enemy. A minority fell
 *dassault* or *par traison*; the places that resisted at all held for
 days, not months — Touques "tint trois jours," Harcourt "tint huit jours"
 (Stevenson 1864: II.ii, 619–37). And nowhere in the hundred entries —
-nowhere — does the list record a fortress stormed through a breach and
-put to sack. The two places whose walls the guns demonstrably opened,
+nowhere — does the list record a storming through an artillery breach,
+and nowhere a sack. The two places whose walls the guns demonstrably
+opened,
 Bayeux and Avranches, both appear with the same closing formula as the
 places that never saw a gun: taken *by composition*. The most violent
 military instrument Europe had yet produced ran through the strongest
@@ -87,10 +88,12 @@ and height imposed thinness, because a wall both tall and thick was
 ruinously expensive in stone and labour. "Tall and thin" was therefore
 not a defect but a design, and for three centuries it worked. The
 besieger's realistic options against a competently held first-rate
-fortress reduced, in practice, to one: starvation. As the standard
-English survey of siege practice puts it, "medieval sieges were settled
-more often by treachery, starvation, or disease than by breached walls";
-the type-case, Kenilworth in 1266, took roughly six months of blockade.
+fortress reduced, in practice, to one: starvation. As English
+Heritage's survey of siege practice puts it, "medieval sieges were
+settled more often by treachery, starvation, or disease than by
+breached walls" [GAP: T3 attribution; upgrade the siege-survey
+authority to scholarly level before print]; the type-case, Kenilworth
+in 1266, took roughly six months of blockade.
 Investment on that timescale was itself a fiscal and political feat —
 the besieging army had to be fed, paid and held together longer than the
 garrison's stores lasted, while disease worked on the camp and relief
@@ -302,8 +305,9 @@ give it its due. But first observe the second pair, where no rising
 intervened and the comparison is cleaner.
 
 Harfleur was where the English war in Normandy had begun. In August and
-September 1415 Henry V besieged it for some five weeks — the first
-major English siege of the gunpowder era, and hard-won at that; the
+September 1415 Henry V besieged it for some five weeks — by the usual
+account the first major English siege in which gunpowder artillery
+played a serious part, and hard-won at that; the
 town's resistance cost him a sick army and shaped the desperate march
 that ended, by accident, at Agincourt. When the English themselves had
 to retake Harfleur in 1440, the operation took somewhere between three
@@ -613,8 +617,10 @@ road by the Count of Clermont's roughly three thousand, with the
 Constable Richemont's two thousand Bretons within marching distance.
 The English did what English armies had done for a century: took a
 prepared defensive position and invited attack. What happened next was
-new in one particular only. Two French culverins — light wheeled field
-pieces — were brought up and fired on the line from beyond bowshot.
+new in one particular only. Two French culverins — light wheeled
+pieces, probably breech-loaders, though the sources describe both the
+guns and their handling with less precision than one would wish — were
+brought up and fired on the line from beyond bowshot.
 Blondel names the hand that placed them: Giraud, "regiarum machinarum
 unus magistrorum," one of the masters of the royal machines, siting his
 "binas colubrinas" against the massed formation [TRANS. CLAUDE]
@@ -668,7 +674,8 @@ se conclud tout le conseil" (Escouchy, ii. 33). Note what has happened
 to the office. The master of the artillery is no longer a technician
 summoned to serve the plan; he is the counsellor whose logistical
 geography *is* the plan, and the whole council concludes on his advice.
-The gun had acquired a grand strategy.
+The campaign's design now began from where the guns could be supplied
+and what the river could carry.
 
 The force sent against Castillon — Escouchy gives three thousand
 men-at-arms with archers in proportion, under Boussac, Joachim Rouault
@@ -946,4 +953,31 @@ Talbot jubilee stipulation (Vale's monograph; Pollard at page level).
 Somerset-list partisanship noted in §I. No claim beyond
 the reviewed memo, probe file, critiques and quotation bank.*
 
-STATUS: DRAFT — PENDING HUMAN REVIEW
+## Revisions (post-review, 2026-07-31)
+
+Roderick reviewed the draft: approved with revisions. Applied this date
+per §7; [BRIDGE] and [TRANS. CLAUDE] passes remain his.
+
+1. **Siege-survey quotation attributed inline** (English Heritage, with
+   a [GAP] to upgrade the authority to scholarly level before print).
+   The corresponding doctrine line was added to CLAUDE.md §8 on
+   Roderick's explicit instruction: no verbatim quotation without
+   inline attribution, no exceptions.
+2. **§I's census claim tightened** to "no storming through an artillery
+   breach, and nowhere a sack" — pre-absorbing Domfront ("after great
+   assaults was taken by siege"), which is an assault but not an
+   artillery-breach storming, and preserving the census's zero-sack
+   finding exactly.
+3. **Aphorism ration enforced:** "The protagonist… is a payroll" and
+   the §V priced-walls close retained; "The gun had acquired a grand
+   strategy" recast as plain prose (campaign design proceeding from
+   supply and river carriage).
+4. **Two hedges restored:** Harfleur 1415 is "by the usual account" the
+   first major English siege in which gunpowder played a serious part;
+   Formigny's culverins carry the sources' imprecision on the guns and
+   their handling.
+
+---
+
+STATUS: REVIEWED (Roderick, 2026-07-31) — approved with revisions
+applied; [BRIDGE] and [TRANS. CLAUDE] passes outstanding

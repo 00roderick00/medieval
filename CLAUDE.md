@@ -158,6 +158,8 @@ has superseded it.
   hedge deliberately, land firm judgements flat, flag inference as inference.
 - The text carries the argument; apparatus lives in endnotes (author–date
   inline during drafting; conversion at assembly).
+- No verbatim quotation without inline attribution, no exceptions.
+  (Added 2026-07-31 on Roderick's instruction, ch06 draft review.)
 - Bridge paragraphs remain flagged [BRIDGE] for Roderick's rewrite — the
   voice document reduces how much rewriting these need, but the analogy
   joints stay his.
