@@ -235,6 +235,33 @@ set side by side. Everything else about the campaigns differed: the
 besieger, the garrison, the politics, the weather of the war. The walls
 are the constant. What changed is what the comparison isolates.
 
+The campaign that supplies the comparisons opened, fittingly, in the
+old style. The truce of Tours was already dying when, in May 1449, a
+French force took Pont-de-l'Arche by a merchant's-cart ruse — an
+ambush at the gate, the captain Fauconberg taken at breakfast, not a
+gun in sight; in July the town of Verneuil was betrayed by a miller
+with a grievance; in August, after the formal rupture at the end of
+July, Pont-Audemer fell to assault and Lisieux was delivered by its
+own bishop, whose negotiated composition — the Somerset list records
+it in a single line — carried with it Orbec, Courtonne, Auvilliers,
+Crèvecœur, Le Breul, Fauguernon and a string of places toward
+Argentan that no French soldier had approached (Stevenson 1864:
+II.ii, 621). Ruse, treachery, clerical politics: these were the
+war's ancient modes of taking towns, and their prominence in the
+opening weeks is a caution the chapter accepts before it argues
+anything — much of what fell in 1449–50 fell as towns had always
+fallen. Even the field operations of that autumn read as the old war.
+When Talbot manoeuvred against the French near Harcourt, the Berry
+Herald describes him fortifying his position "behind hedges and some
+waggons… for the conveyance of his provisions and artillery," standing
+off his enemies through the daylight and withdrawing into the castle
+by night (Berry Herald, in Stevenson 1863: 261) — though the reader
+may note, in passing, what even Talbot's baggage now carried, and what
+the herald now thought worth listing beside the food. The new
+instrument enters the record not with a fanfare but as a line in the
+inventory. Where it enters with effect is at the walls that did not
+open themselves — and that is where the comparisons begin.
+
 Take Rouen first, because the brief rightly makes it mandatory. In July
 1418 Henry V — no improviser, commanding the most experienced siege army
 England ever sent to France — sat down before the city and began the
@@ -330,6 +357,48 @@ Talbot — the hostage for that treaty — was formally adjudged Charles's
 prisoner, "processu legitime confecto" (Blondel, in Stevenson 1863:
 142). These surrenders were not battlefield improvisations. They were
 contracts, enforced.
+
+Blondel's Rouen chapters add the mechanism's other face: surrender
+propagating ahead of the guns entirely. When the garrison of
+Mont-Sainte-Catherine — the abbey-fortress commanding Rouen, which had
+anchored Henry V's siege lines a generation earlier — learned that the
+city below them had come to terms, they gave up the place at once,
+"formidine immoderata territi ne insultu obruantur," terrified beyond
+measure of being overwhelmed by storm, bargaining for nothing but
+their lives; Charles, "compatiens," moved by their destitution as they
+marched out, gave them a hundred livres for the road (Blondel, in
+Stevenson 1863: 136 [TRANS. CLAUDE]). No gun had been laid against
+them. The fear of what the guns made possible — the breach, and behind
+the breach the law of war's licensed sack — did the train's work at
+one remove. At Valognes, in the Cotentin, the chronicler compresses
+the whole transaction into a phrase: the town endured the guns'
+"intolerabili tormentorum fragore," their intolerable din, only
+briefly before its lieutenant swore himself the French king's man and
+the place was given up (Blondel, in Stevenson 1863: 213 [TRANS.
+CLAUDE]). The din, note — not the breach. By the campaign's middle
+months the sound of the train was functioning as its effect.
+
+One case from the same theatre keeps the argument honest, and the
+chapter owes it prominence precisely because it cuts the other way. At
+Fougères — the border fortress whose seizure by an English freebooter
+had given Charles his casus belli — the duke of Brittany's own siege,
+with his own guns, made no such progress. Blondel is unsparing: the
+town's solid walls shrugged off the bombardment, "nec satis immanes
+machinae ad conterendam tam solidam murorum constructuram" — not even
+the huge machines sufficed to crush so solid a construction [TRANS.
+CLAUDE] — and what finally forced the issue was not artillery at all
+but pestilence in the besieging camp, which killed the count of
+Rohan's heir and the duke's own cupbearer and drove the Bretons to
+accept a composition partly on the defenders' terms (Blondel, in
+Stevenson 1863: 143). The lesson is the one this chapter most needs
+the reader to carry: guns as such collapsed nothing. A ducal train —
+and Brittany's was a serious principality's serious establishment —
+remained what artillery had been for a century: one more slow
+instrument among the slow. What collapsed Normandy was a specific
+institution operating at a specific scale of finance, maintenance and
+technical staffing, and the claims of this chapter attach to that
+institution, not to the technology in general. Fougères is the
+control case, and it failed.
 
 Where resistance was offered and the guns given time to work, the
 durations compress toward the absurd. Bayeux, in May 1450, held for
@@ -439,7 +508,22 @@ surrendered by composition on 15 June 1451 without an assault; Blaye
 went in five days; Bordeaux itself treated on 12 June and received
 Dunois's army — Jean Bureau riding in the entry — on 30 June, seven
 thousand three hundred and twenty French troops in the procession
-(Vale 1969, citing Escouchy i. 356–58). Loyal populations, hostile
+(Vale 1969, citing Escouchy i. 356–58). The texture of the Gascon
+capitulations is worth a moment, because it shows the composition
+system operating as a market whose prices everyone now knew. Blaye
+and Bourg — "the keys to Bordeaux," in the contemporary judgement
+Vale reports — "surrendered cravenly to Dunois," and the terms their
+defenders extracted included pensions from Charles VII for, among
+others, Gadifer Shorthose, the *English* mayor of Bordeaux, with his
+sub-mayor and three jurats (Vale 1969). Bayonne, the second city of
+the English south-west, held two weeks in August. The first Bordeaux
+settlement itself was studiedly generous — privileges confirmed, the
+city spared the taxes of the French interior, judicial and minting
+concessions in the tradition's account [GAP: the 1451 terms are
+carried at tertiary level; upgrade to Vale's *English Gascony* when
+retrieved] — because in 1451 the crown was buying a province's
+acquiescence, and knew the difference between a price worth paying
+and a precedent worth setting. Loyal populations, hostile
 politics, same cascade — faster, if anything. And the counter-
 experiment ran the following year: in October 1452 Talbot appeared
 before Bordeaux with no siege train at all, the city rose for its old
@@ -532,9 +616,18 @@ easiest rebuttal in the book; drawn at this size, it holds.
 
 Castillon, 17 July 1453, is the major key, and it will bear the weight.
 The campaign context matters. Bordeaux's rising of October 1452 had
-returned Gascony's capital to England; Charles VII's answer, the
-following summer, was a convergent invasion — and the opening move, the
-chronicle is specific, was the artillery administrator's. Mathieu
+returned Gascony's capital to England — and the French response began,
+characteristically, in a warehouse. Within the month, the record shows
+Jean Aubry, lieutenant of Gaspard Bureau, master of the king's
+artillery, buying pieces of artillery in Paris and forwarding them to
+Rouen (Vale 1969): the institution replenishing its Norman magazines
+against one contingency while the court digested another, procurement
+proceeding by delegated routine rather than royal fiat. It is a small
+entry, and its smallness is the point — by 1452 the train was not an
+expedition that had to be conjured but an establishment that restocked
+itself. Charles VII's answer to the rising, the following summer, was
+a convergent invasion — and the opening move, the chronicle is
+specific, was the artillery administrator's. Mathieu
 d'Escouchy, whose account of the Gascon campaign is the fullest we
 have, records the royal council of war resolving its strategy "par
 l'advis… de maistre Jehan Burreau, chevalier, seigneur de Monglat":
@@ -639,9 +732,18 @@ spared, the ringleaders banished perpetually, the English shipped
 home — and Bordeaux renouncing "tous leurs previleiges et franchises,
 pour en faire au bon plaisir du Roy," all its privileges and
 franchises, to be disposed at the king's good pleasure [TRANS. CLAUDE]
-(Escouchy, ii. 75–77). French troops entered on 19 October 1453; the
-Hundred Years War, by the convention historians observe, ended there,
-leaving Calais as England's last continental holding.
+(Escouchy, ii. 75–77). Twelve hostages — six English,
+six Gascon — secured performance from 12 October; an internal dispute
+in the city deferred the handover; and French troops entered on 19
+October 1453. The Hundred Years War, by the convention historians
+observe, ended there, leaving Calais as England's last continental
+holding. Even then the composition system showed its edges: the
+garrisons of Benauges and Rions, included in the treaty's provisions,
+refused point-blank to honour them and had to be dealt with
+separately (Escouchy, ii. 77 ff.) — a reminder, recorded by the same
+witness, that a surrender instrument bound only those who believed
+the alternative was worse, which is to say that it was, first and
+last, an instrument of the train's credibility.
 
 Set the two Bordeaux settlements side by side and the composition
 instrument reveals what it had become. In 1451, with the cascade still
@@ -797,8 +899,8 @@ they were priced." (§V). One [BRIDGE] passage (§VII). [TRANS. CLAUDE]
 markers: Contamine ×2, Blondel ×4, Escouchy ×8. [GAP] flags: Rouen
 1418–19 detail (Barker); artillery tipping-point chronology
 (DeVries/Hall); the Castillon false-report movers; the Cadillac date
-discrepancy (recorded, unresolved). Somerset-list partisanship noted
-in §I. No claim beyond the reviewed memo, probe file, critiques and
-quotation bank.*
+discrepancy (recorded, unresolved); the 1451 Bordeaux terms (Vale's
+monograph). Somerset-list partisanship noted in §I. No claim beyond
+the reviewed memo, probe file, critiques and quotation bank.*
 
 STATUS: DRAFT — PENDING HUMAN REVIEW
