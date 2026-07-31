@@ -561,7 +561,7 @@ instrument (Chapter 6), then the reckoning at home (Chapter 7).
 
 ---
 
-*Draft ends. Word count ~6,300 (memo-limited; the Griffiths,
+*Draft ends. Word count ~5,500 (memo-limited; the Griffiths,
 Famiglietti, Vaughan and İnalcık/Kafadar retrievals will thicken §§II–IV
 at the upgrade pass). Voice-discipline ledger: coined concept — the*
 undermighty king *(title term, riffing on the historiographical
