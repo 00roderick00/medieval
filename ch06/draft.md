@@ -416,7 +416,22 @@ treaty was sealed on 24 June and the keys handed over on 1 July.
 Falaise made terms in about two weeks, its surrender conditioned — a
 detail that measures how completely the political and military
 registers had merged — on Talbot's release from his Rouen hostageship
-(Pollard 1983). Domfront, one of the strongest keeps in Normandy, went
+(Pollard 1983). That transaction deserves a paragraph of its own,
+because it displays the composition system operating as a complete
+legal order. Talbot had stood hostage since October 1449 for the
+performance of Rouen's capitulation; when Curson's refusal at Honfleur
+breached the pact, the process ran and the earl was adjudged the
+French king's prisoner; and in July 1450 his liberty became a
+negotiable term in another town's surrender — released on conditions,
+among them, the tradition records, an obligation to pilgrimage in
+Rome's jubilee year (Pollard 1983 [GAP: the jubilee stipulation is
+carried via the DNB digest; confirm at page level in Pollard before
+print]). The most feared soldier in the English establishment spent
+the campaign's decisive year not on a wall but inside the surrender
+instruments' clause structure — pledged, forfeited, adjudicated,
+redeemed. And the system's last irony was still to come: the man the
+compositions had processed as a chattel would return in 1452 as the
+armed answer to them, and die at Castillon proving their point. Domfront, one of the strongest keeps in Normandy, went
 in about twenty days in August, "after great assaults… taken by siege"
 — the nearest thing to a force-taken place in the whole census, and
 even there no sack is recorded. And Cherbourg, the last English toehold,
@@ -450,7 +465,16 @@ leading specialist of Lancastrian Normandy and no friend of
 revolution-talk, states the same distribution from the other side:
 "More commonly in the Reconquest, the French *preparations* for
 bombardment and assault, rather than actual bombardment, were enough to
-prompt surrender" (Curry 2010: 187).
+prompt surrender" (Curry 2010: 187). Her account of the campaign's
+shape is the one this chapter adopts: there was "no siege as there had
+been in 1418–19. Each place was picked off, one by one, but the fall
+of the major places led to a domino effect" — and she is careful to
+add the concession that keeps the two halves of the scholarship
+joined: "That does not deny that the guns used in 1449–50 were more
+powerful than those in 1417–19, as Rogers and others have shown"
+(Curry 2010: 187). Stronger guns, fewer sieges: the two findings sit
+together only if the guns were working on something other than
+masonry.
 
 A naïve reading takes this as deflation: if the fortresses were not
 battered down, the guns did not matter. The Berry Herald, who rode
@@ -467,7 +491,13 @@ financed — and it surrendered anyway. Impregnability had been a
 statement about time: the tower could not be taken *before hunger*, and
 hunger was months away, and months were what the defence was selling.
 What the train destroyed was not the tower. It was the market for
-months.
+months. Even where the sword was tried and succeeded, the record bends
+back to the same instrument: at Saint-James-de-Beuvron the assault ran
+from nine in the morning until night, and on the morrow the garrison
+surrendered the fortress "their lives and goods being saved" (Berry
+Herald, in Stevenson 1863: 265) — a day's storming, concluded as a
+composition. The forms of violence varied; the form of the ending
+almost never did.
 
 This is the moment to give the counter-arguments their full weight,
 because there are three, each with genuine evidence behind it, and the
@@ -864,7 +894,19 @@ not deployable by great magnates, because great magnates could not
 afford it; it presupposed the *taille* levied on a kingdom and a
 salaried technical corps to serve it — fiscal and administrative
 capacities that had existed before the guns and had not, before the
-guns, been decisive. Artillery made them decisive. That inversion —
+guns, been decisive. Artillery made them decisive. The contemporaries
+saw the coupling plainly enough: Charles VII, in DeVries's summary of
+the reconquest's finance, "increased the royal budget to procure a
+larger number of new guns, and he added heavier new taxes to his
+kingdom's inhabitants to pay for this increase" (DeVries 1998: 132) —
+guns requiring taxes, taxes requiring the administration to assess
+and collect them, the administration protected by the guns. Rogers
+describes the same figure as a cycle: governments that acquired
+artillery suppressed regional powers, raised revenue from the
+territory thereby subdued, and spent the revenue expanding the train
+and the army that marched with it (Rogers 1993). A flywheel of this
+kind, once spinning, does not stop at a frontier, and Chapter 10
+will follow it into the institutions it built. That inversion —
 the moment at which the sinews of administration became the sinews of
 war, rather than the reverse — is Chapter 10's subject, and the
 reader now holds its premise: after 1450, sovereignty had a minimum
@@ -899,8 +941,9 @@ they were priced." (§V). One [BRIDGE] passage (§VII). [TRANS. CLAUDE]
 markers: Contamine ×2, Blondel ×4, Escouchy ×8. [GAP] flags: Rouen
 1418–19 detail (Barker); artillery tipping-point chronology
 (DeVries/Hall); the Castillon false-report movers; the Cadillac date
-discrepancy (recorded, unresolved); the 1451 Bordeaux terms (Vale's
-monograph). Somerset-list partisanship noted in §I. No claim beyond
+discrepancy (recorded, unresolved); the 1451 Bordeaux terms and the
+Talbot jubilee stipulation (Vale's monograph; Pollard at page level).
+Somerset-list partisanship noted in §I. No claim beyond
 the reviewed memo, probe file, critiques and quotation bank.*
 
 STATUS: DRAFT — PENDING HUMAN REVIEW
