@@ -451,9 +451,10 @@ they rose against continued. Where populists have taken power, the
 peer-reviewed record finds institutional erosion and growth costs
 (Funke, Schularick & Trebesch 2023) — damage, in other words, but
 not demolition: nowhere in the gathered record has the wave
-durably reduced the state's fiscal-administrative reach. Revolts
-of this family do not ask the state to be smaller; they ask it to
-be theirs — and a movement whose demand is possession is absorbed
+durably reduced the state's fiscal-administrative reach. The
+demand these movements make of the state, here as in the
+fifteenth century, is not that it be smaller but that it belong
+to them — and a movement whose demand is possession is absorbed
 by the first settlement that offers it a share. The claim is the
 book's inference, not a law; Appendix C states its indicator in
 falsifiable form, and a populist wave that durably shrank the
@@ -485,8 +486,11 @@ concept — the* propertied-anxious revolt *(§I, the chapter's
 organising term); vivid image — the county's muster machinery
 "operated from below" is carried structurally rather than as a
 figure; the chapter's one image is the form standing out "like a
-watermark" (§V); aphoristic line — "Revolts of this family do not
-ask the state to be smaller; they ask it to be theirs" (§VII). One
+watermark" (§V); aphoristic line — "It is
+the political expression of collateral" (§V close; the §VII
+candidate demoted to plain prose per the 2026-08-01 review — the
+ledger now counts every quotable sentence produced, not intended,
+per the doctrine addition of that date). One
 [BRIDGE] section (§VI, fenced). [GAP] flags: Bohna full text;
 Griffiths pp. 619–20; Harvey percentages; Contamine on the
 Praguerie; Najemy's framing. The Complaint quotations are from the
@@ -495,4 +499,17 @@ caveat), Green & Pahontu, Girardi, Douenne & Fabre, Funke et al.,
 OBR are as pinned in the reviewed memo. No claim beyond the
 reviewed record.*
 
-STATUS: DRAFT — PENDING HUMAN REVIEW
+## Revisions (post-review, 2026-08-01)
+
+Roderick reviewed the Batch 1 drafts: ch07 approved as drafted, with
+one correction.
+
+1. **Double aphorism resolved.** The §V collateral line ("It is the
+   political expression of collateral") is retained as the chapter's
+   aphorism; the §VII declared candidate is recast as plain prose;
+   the ledger corrected accordingly.
+
+---
+
+STATUS: REVIEWED (Roderick, 2026-08-01) — approved with revision
+applied

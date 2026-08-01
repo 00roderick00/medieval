@@ -160,6 +160,11 @@ has superseded it.
   inline during drafting; conversion at assembly).
 - No verbatim quotation without inline attribution, no exceptions.
   (Added 2026-07-31 on Roderick's instruction, ch06 draft review.)
+- The draft voice ledger counts every quotable sentence the chapter
+  actually produces, not the ones intended; any "coined" concept is
+  checked against standing scholarship before the ledger claims it as
+  a coinage. (Added 2026-08-01 on Roderick's instruction, Batch 1
+  review.)
 - Bridge paragraphs remain flagged [BRIDGE] for Roderick's rewrite — the
   voice document reduces how much rewriting these need, but the analogy
   joints stay his.

@@ -380,11 +380,14 @@ Abbeville, 31 July 1471, instituting 1,200 nine-man lances with
 regulated training, discipline, equipment and pay; refined at Bohain
 in 1472; the famous drill ordinance issued outside Trier at
 St-Maximin in 1473, with its squadron structures, uniforms,
-roll-calls and punishments; Lausanne in 1476 — drew from one modern
-judgement the verdict that they represented "the victory of the
-values of the state against the values of chivalry" (Heimpel, via
-Bachrach) [GAP: ordinance labelling and detail to pin against
-Vaughan's *Charles the Bold*]. The artillery matched: Commynes calls
+roll-calls and punishments; Lausanne in 1476 — have been read by
+modern scholarship (Heimpel's verdict, reported by Bachrach) as
+marking the state's values prevailing over chivalry's in the
+ordering of an army [no verbatim printed: the quotation reaches
+this book only through an intermediary, and per the attribution
+rule it is paraphrased until pinned at source — GAP: Heimpel at
+source, or cut at assembly; ordinance labelling and detail to pin
+against Vaughan's *Charles the Bold*]. The artillery matched: Commynes calls
 it "very large and powerful"; La Marche counts "more than 300 carts
 of guns, not counting his culverins or 'haquebusses' which were
 'without number'"; at Neuss an eyewitness saw culverin fire "thicker
@@ -556,6 +559,10 @@ three centuries.
 
 ## VIII.
 
+[RE-CHECK AT PRESS — this entire section's contemporary figures,
+programme statuses and licensing positions are time-sensitive and must
+be re-verified at press time.]
+
 [BRIDGE — this closing section is the chapter's translation into the
 present; the synthesis is tagged (c) throughout — the components are
 primary-documented and dated, the four-polity conclusion is the
@@ -704,4 +711,19 @@ level are flagged inline (revenue arc; 1484 cut; 58 companies;
 ~400 Grandson guns as tradition). All modern figures dated in
 text. No claim beyond the reviewed memo.*
 
-STATUS: DRAFT — PENDING HUMAN REVIEW
+## Revisions (post-review, 2026-08-01)
+
+Roderick reviewed the Batch 1 drafts: ch10 approved with revisions.
+
+1. **§VIII flagged [RE-CHECK AT PRESS] entire** — all contemporary
+   figures, programme statuses and licensing positions to be
+   re-verified at press time.
+2. **The Heimpel quotation demoted to paraphrase** (it reached the
+   draft only via Bachrach; per the no-intermediary-quotes rule,
+   matching the Friedrichs precedent, it is paraphrased with a [GAP]
+   to pin at source or cut at assembly).
+
+---
+
+STATUS: REVIEWED (Roderick, 2026-08-01) — approved with revisions
+applied
