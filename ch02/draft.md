@@ -349,7 +349,7 @@ are the next chapter's business.
 
 ---
 
-*Draft ends. Word count ~5,300 (memo-limited; Ullmann and Tierney
+*Draft ends. Word count ~3,100 (memo-limited; Ullmann and Tierney
 will thicken §II at the upgrade pass; Zielonka the EU-church
 section). Voice-discipline ledger (counted as produced, checked
 against scholarship): coined concept —* three-body sovereignty

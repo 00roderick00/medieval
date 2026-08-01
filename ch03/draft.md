@@ -312,7 +312,7 @@ is the next chapter's business.
 
 ---
 
-*Draft ends. Word count ~5,000 (memo-limited; McFarlane, Hicks,
+*Draft ends. Word count ~2,800 (memo-limited; McFarlane, Hicks,
 McKelvie, Vaughan, Zmora and the defense.gov primaries thicken
 §§II–III at the upgrade pass). Voice-discipline ledger (counted as
 produced): coined concept — NONE (the title term is Plummer's

@@ -392,7 +392,7 @@ disclosed is where the mechanism's story starts.
 
 ---
 
-*Draft ends. Word count ~5,300 (memo-limited; Mallett, Caferro,
+*Draft ends. Word count ~3,400 (memo-limited; Mallett, Caferro,
 Dollinger, Lane/Lane & Mueller and Vaughan thicken §§II–VI at the
 upgrade pass). Voice-discipline ledger (counted as produced):
 coined concept —* Sforza-from-above *(§V; the book's own, via the
