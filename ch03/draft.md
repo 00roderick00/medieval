@@ -73,7 +73,7 @@ governs the modern field, inverted the judgement: payment-for-
 service was the system's essence, not its corruption; the operative
 political unit it produced was the *affinity* — the lord's retained
 connection of gentry, lawyers, and administrators, the private
-capability Chapter 5 watched encounter an undermighty king; and the
+capability Chapter 5 will watch encounter an undermighty king; and the
 disorder associated with it traced not to the institution but to
 inadequate kingship [GAP: McFarlane's exact formulations await the
 BIHR article and Hicks]. The statutory record measures the crown's
@@ -109,7 +109,7 @@ bought only the respectable end of it.
 
 Burgundy dressed the same clientage in ceremony. The Valois dukes
 — constructing, across four generations, the composite state
-whose fall Chapter 10 has already narrated — bound the high
+whose fall Chapter 10 will narrate — bound the high
 nobility of their scattered lands to the ducal person through the
 most prestigious honour system in Europe: the Order of the Golden
 Fleece, founded by Philip the Good at Bruges in 1430, a chivalric

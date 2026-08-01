@@ -116,8 +116,8 @@ as captain-general. He fought Venice for the republic, then came
 to terms with Venice against it (October 1448), blockaded Milan
 into famine, and when the starving city rose on 25 February 1450
 he entered it the next day; on 25 March 1450 the assembly
-acclaimed him duke. Note the year — the same year the walls fell
-in Normandy, a coincidence this book does not convert into a
+acclaimed him duke. Note the year — the same year Normandy fell
+to France, a coincidence this book does not convert into a
 connection — and note, harder, what never followed. The empire
 never invested him. Frederick III regarded the house as
 usurpers; the first Sforza to receive formal imperial
