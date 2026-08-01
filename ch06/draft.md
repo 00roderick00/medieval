@@ -738,6 +738,44 @@ war charged the first great instrument of the new one, on the advice
 of a false report and against the advice of a true one, and the
 instrument did not care.
 
+[BOOK'S ARGUMENT — the reading that follows is the book's own.]
+Before leaving Talbot on the field, the record permits — and its
+gaps invite — one further reading, offered as hypothesis and tagged
+as such. Pollard's considered judgement of the man should be stated
+first, because it forbids the easy version: Talbot was probably
+England's ablest commander of the war's last generation, his gifts
+lying in operational tempo — raid, surprise, relief, siege and
+counter-siege — rather than set-piece battle; the blanket charge of
+impetuosity, Basin's and the older tradition's, founders on a
+career of battles prudently refused; and Castillon itself Pollard
+reads as honour-bound error rather than habitual recklessness,
+while insisting that the exact battlefield sequence remains
+uncertain (Pollard 1983; 2005 preface). That uncertainty is the
+void the hypothesis lives in: no document records Talbot's intent;
+the command group that could have testified died with him; and
+Escouchy's account — our fullest — is a moral narrative, built to
+teach princes about rash credulity. What the record does establish
+is that no commander in Europe knew the train's effect more
+intimately: Talbot had passed through the Rouen instrument as its
+hostage, his own liberty a clause in the compositions the train
+compelled, and had stood on Harfleur's wall (Berry Herald, in
+Stevenson 1863: 295); and the one documented English tactical
+reflex against field artillery was seizure — the archers at
+Formigny, earlier in this section, took the culverins rather than
+endure them. A train in park, entrenched, is unassailable; a train
+limbering to move is, for one hour, capturable — and a commander
+of Talbot's formation, told the French were abandoning their park,
+might read "il est heure ou jamais" not as bravado but as tactical
+literalism: now or never, because the war's decisive instrument
+was briefly loose. The Bordeaux promise then supplies what the
+hypothesis needs last — the commitment pressure that held him to
+the attack after the report was contradicted in his sight. The
+record cannot decide between folly and a last rational lunge at
+the instrument that had ended his war; the book does not pretend
+it can. But under either reading, Castillon testifies to the same
+fact: the train was understood, by both sides, as the thing worth
+dying for.
+
 The mopping-up of 1453 completes the evidentiary set, because it
 contains both the census's one genuine exception and its most
 instructive conclusion. Cadillac, held against the king after the
@@ -979,5 +1017,30 @@ per §7; [BRIDGE] and [TRANS. CLAUDE] passes remain his.
 
 ---
 
+5. **(2026-08-01, on Roderick's instruction.)** A tagged [BOOK'S
+   ARGUMENT] passage inserted in §VI, after the Castillon narrative
+   and before the mopping-up: the seize-the-train reading of Talbot's
+   attack. It opens with Pollard's judgement stated fairly at T2
+   (ablest commander of the last generation, operational tempo not
+   set-piece; impetuosity charge rejected on a career of refused
+   battles; Castillon as honour-bound error with the tactical
+   sequence uncertain — Pollard 1983/2005, via the in-repo digest);
+   states the evidential void explicitly (no intent document; the
+   command group died; Escouchy is a moral narrative); advances the
+   hypothesis (Talbot's unique experience of the train's effect —
+   Rouen hostageship, Harfleur's wall — plus the documented English
+   gun-seizure reflex at Formigny, cross-referenced, making "il est
+   heure ou jamais" tactically literal against a train believed to be
+   limbering; the Bordeaux promise as commitment pressure after the
+   report's contradiction); and closes on the calibrated line — the
+   record cannot decide between folly and a last rational lunge, but
+   under either reading the train was understood by both sides as the
+   thing worth dying for. A corresponding one-clause forward-pointing
+   hedge is authorized for the Introduction's Castillon opening
+   (ch00-intro/brief.md NOTE, same date).
+
+---
+
 STATUS: REVIEWED (Roderick, 2026-07-31) — approved with revisions
-applied; [BRIDGE] and [TRANS. CLAUDE] passes outstanding
+applied ([BRIDGE] and [TRANS. CLAUDE] passes outstanding); Revisions 5
+added 2026-08-01 on instruction
