@@ -239,6 +239,18 @@ the honest starting point the first chapter inverts.
 - No "in this chapter we will" anywhere (voice.md); the opening is
   straight into the incident.
 
+## Revisions (post-review)
+
+1. **(2026-08-01, on Roderick's instruction.)** The brief
+   (ch00-intro/brief.md) was extended this date with an authorised NOTE:
+   the Introduction's Castillon opening is to carry one forward-pointing
+   hedged clause — no more — anticipating the seize-the-train reading of
+   Talbot's attack now inserted, tagged [BOOK'S ARGUMENT], in ch06
+   draft §VI (ch06/draft.md Revisions 5). The clause is drafted at the
+   Introduction's drafting stage; this memo's §1 Castillon scene
+   specification is otherwise unchanged (the horse-felled-by-a-gun
+   sequence and the Wilkinson "reputedly" hedge stand as reviewed).
+
 ---
 
 STATUS: REVIEWED (Roderick, 2026-07-31 — read in full, nothing to add; no revisions required)

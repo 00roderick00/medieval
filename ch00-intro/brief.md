@@ -34,3 +34,11 @@ specialists — it is assembled from the specialists' own concessions, and
 the disagreements that remain are over ranking, tempo, and sequence
 inside an agreed direction of travel. Cite each instance from the
 chapter memos; page refs are in the in-repo PDFs.
+NOTE (added 2026-08-01, on Roderick's instruction after the ch06 draft
+review; brief edit authorised per CLAUDE.md §9): the introduction's
+Castillon opening carries ONE forward-pointing hedged clause anticipating
+ch06 §VI's tagged [BOOK'S ARGUMENT] reading of Talbot's attack — the
+seize-the-train hypothesis (the false report as the one window in which
+a train is capturable; folly vs a last rational lunge left undecided) —
+and no more than one: a clause, not a paragraph, hedged, with the full
+argument reserved to ch06.
