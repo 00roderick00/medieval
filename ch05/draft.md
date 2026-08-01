@@ -68,7 +68,17 @@ bloodletting — makes the best story, and because English historiography
 long treated it as a distinctively English catastrophe: a saintly
 simpleton on the throne, wicked uncles, the wheel of fortune. The
 argument of this chapter is that the English case was one instance of a
-continental pattern, and that the pattern has a structure. Personal
+continental pattern, and that the pattern has a structure. The
+chapter's title term should be credited before it is used: the
+undermighty king is K. B. McFarlane's formulation — his famous dictum
+holds that only a king who was under-mighty had anything to fear from
+over-mighty subjects [GAP: pin the verbatim wording at retrieval —
+McFarlane's essays are on the acquisition list] — and the debt is
+acknowledged here because what follows deploys his term against part
+of his point: this chapter generalises the condition across the
+Channel and forward five centuries, and argues (§VI) that the
+causation his dictum compresses runs in a direction the English
+evidence alone leaves open. Personal
 monarchy was a constitution with a single point of failure. Under
 ordinary load, its redundancies — council, household, the great
 offices — could carry a minority or a short illness. Under the
@@ -403,7 +413,7 @@ hundred and fifty million people, formally committed to strategic
 autonomy, executes three-quarters of its defence procurement abroad.
 And Japan — orderly, rich, administratively superb — publishes each
 year, through its health ministry's vital statistics, the numbers of
-a incapacity no ministry can execute against: 686,061 births in 2024,
+an incapacity no ministry can execute against: 686,061 births in 2024,
 a record low and the ninth consecutive annual decline; a total
 fertility rate of 1.15, likewise a record; a national population
 falling by the better part of a million a year, with roughly thirty
@@ -450,8 +460,10 @@ France — Burgundy above all — were creations of royal grant in the
 capability concentrated first, lawfully, inside a functioning order;
 the crown's weakness did not create the magnates, it *revealed* them,
 by removing the one force that had held their rivalry in
-equilibrium. Undermighty kings do not produce over-mighty subjects.
-Over-mighty subjects, encountering an undermighty king, produce the
+equilibrium. McFarlane's dictum, credited in §I, states the
+correlation; the sequence above fixes its direction. Undermighty
+kings do not produce over-mighty subjects. Over-mighty subjects,
+encountering an undermighty king, produce the
 crisis — and the crisis then runs on the subjects' resources, which
 is why it lasts. The Wars of the Roses were fought by private
 armies that existed before the king fell ill and would have existed
@@ -563,9 +575,10 @@ instrument (Chapter 6), then the reckoning at home (Chapter 7).
 
 *Draft ends. Word count ~5,500 (memo-limited; the Griffiths,
 Famiglietti, Vaughan and İnalcık/Kafadar retrievals will thicken §§II–IV
-at the upgrade pass). Voice-discipline ledger: coined concept — the*
-undermighty king *(title term, riffing on the historiographical
-over-mighty subject; deployed §§I, VI–VII); vivid image — the
+at the upgrade pass). Voice-discipline ledger: coined concept — NONE
+coined; the* undermighty king *is inherited from McFarlane, credited
+in §I and §VI (per the 2026-08-01 doctrine addition: coinages are
+checked against standing scholarship before the ledger claims them); vivid image — the
 constitution with a single point of failure rendered as the arch and
 keystone was cut in drafting; the chapter carries no baroque image,
 which is within ration; aphoristic line — "A crown that cannot execute
@@ -577,4 +590,22 @@ reviewed memo and critiques; all modern figures are the memo's pinned
 verbatims (Wilkinson 177; Watts 123/127; Draghi Part B 165; MHLW 2024)
 or are marked as estimates/composites in the text.*
 
-STATUS: DRAFT — PENDING HUMAN REVIEW
+## Revisions (post-review, 2026-08-01)
+
+Roderick reviewed the Batch 1 drafts: approved with revisions.
+
+1. **McFarlane credited.** The undermighty-king formulation is
+   McFarlane's and is now attributed at both deployments (§I, §VI),
+   with the dictum paraphrased pending verbatim retrieval; the
+   chapter's own claim is narrowed to the generalisation and
+   forward-projection, not the term. The voice ledger is corrected
+   (inherited, not coined) and McFarlane added to sources.md at T2
+   with the retrieval route.
+2. **§V typo fixed** ("a incapacity" → "an incapacity").
+3. **The scheduled/unscheduled vacancy passage (§II) is protected
+   unchanged**, per instruction.
+
+---
+
+STATUS: REVIEWED (Roderick, 2026-08-01) — approved with revisions
+applied

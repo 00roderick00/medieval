@@ -119,3 +119,13 @@ primary tables before print. Consistency with ch06 verified.*
   wars-as-symptom framing.
 - **Wilkinson**, p. 177: "did not talk, sat slumped, had to be fed and
   moved" — the incapacity described clinically.
+
+## Added post-draft-review (2026-08-01)
+
+- **T2 — K. B. McFarlane**, the undermighty-king dictum (*England in
+  the Fifteenth Century: Collected Essays*; also *The Nobility of
+  Later Medieval England*). NEEDED FOR: the verbatim wording of the
+  dictum the chapter's title term inherits (credited in draft §I/§VI;
+  paraphrased pending retrieval). RETRIEVAL ROUTE: Cambridge alumni
+  e-access if listed; otherwise Internet Archive borrow; otherwise
+  second-hand purchase — add to retrieval-master.
