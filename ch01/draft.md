@@ -99,6 +99,26 @@ fragmentation that circulate — the dozens of principalities, the
 ninety ecclesiastical territories — describe the Empire of about
 1450, not 1200, and appear in this book only where they belong.)
 
+Two features of that order matter for everything that follows,
+and they are stated here so Part II can be understood as their
+undoing. First, the plurality was not chaos. It was law-dense —
+probably more law-dense than our own order, in the sense that a
+larger share of daily life was conducted under explicit,
+enforceable, written rule: canon law, feudal custom, borough
+charter, guild statute, the learned laws reviving in the schools.
+What the order lacked was not law but *hierarchy among laws* — a
+final answer to the question of which rule prevailed when rules
+collided, which is why its politics was a politics of boundary
+dispute, privilege, exemption and appeal. Second, the plurality
+was durable. It reproduced itself for centuries; contemporaries
+did not experience it as transitional; and no internal tendency
+was visibly carrying it toward the exclusive territorial state —
+a point on which the neomedieval theorists and this book agree,
+and on which everything turns, because if the first plural order
+was stable in itself, then its ending requires a cause, and the
+cause must be found rather than assumed. That is the trailhead of
+Part II, marked now, walked later.
+
 One narrowing, conceded before any medievalist demands it. "Europe
 c. 1200" flattens a continent of enormous variation — Capetian
 France was already consolidating; England after Henry II ran the
@@ -158,6 +178,28 @@ the transnational organisations no longer merely lobbying states
 but adjudicating against them, the technological unification
 carried in four billion pockets. The founder's caution has aged
 into the book's licence.
+
+It is worth being precise about what kind of claim that is, because
+the book's positioning depends on it. The argument is not that Bull
+would now agree — counterfactual endorsements are cheap and
+unfalsifiable — but that the evidential threshold he himself set has
+been crossed on his own five measures. He asked for regional
+integration that genuinely qualified sovereignty: the European Union
+now legislates directly into the domestic law of twenty-seven states
+and designates the world's largest firms for structural regulation.
+He asked for state disintegration beyond the decolonisation wave:
+the fragile-state archipelago of Chapter 5 is its standing exhibit.
+He asked whether private international violence would return from
+the margins: Chapter 3 documents an industry. He asked whether
+transnational organisations would acquire authority rather than
+merely voice: the arbitral tribunal hearing an eleven-billion-dollar
+claim against Honduras is not a pressure group. And the
+technological unification he could only extrapolate from telegraphy
+and television now runs to a computational layer through which most
+of humanity's commerce, memory and speech is transacted. On every
+axis, the 1977 reading of insufficiency was right, and a 1977
+reading of the 2020s evidence would not be. That is all the chapter
+claims, and it is enough.
 
 Jonathan Friedrichs supplied, a generation later, the analytical
 engine the intuition had lacked, and his article is now in this
@@ -310,9 +352,23 @@ shown them doing what this book's frame predicts connective
 tissue does when the underlying loads shift — transmitting the
 pressures of the states and the platforms, not restraining
 them. The disaggregated state was not the destination. It was
-the condition on which the next consolidation will operate;
-Chapter 12 returns to Slaughter to say precisely what her
-networks become inside a bloc-consolidated order.
+the condition on which the next consolidation will operate. The
+difference between the two readings is not temperamental but
+testable, and the test is the one this book applies everywhere:
+follow the capacity. If the networked order were architecture, one
+would expect its nodes — the regulatory colleges, the judicial
+dialogues, the standard-setting bodies — to have accumulated, over
+two decades, independent means: budgets, enforcement instruments,
+loyalties that survive the preferences of their member states. They
+have not. The consequential decisions of the period — the platform
+designations, the export controls, the subsidy programmes Part III
+will tabulate — were taken by states and blocs, transmitted
+*through* the networks, and resisted by none of them. Slaughter
+described the wiring of the dispersal phase with great accuracy;
+the book's quarrel is only with the load the wiring was asked to
+bear. Chapter 12 returns to her to say precisely what the networks
+become inside a bloc-consolidated order — and the answer will not
+be nothing.
 
 ## VI.
 
@@ -370,7 +426,7 @@ been, once already, a matter of record.
 
 ---
 
-*Draft ends. Word count ~6,000 (memo-limited; Bull ch. 10, Morris,
+*Draft ends. Word count ~4,400 (memo-limited; Bull ch. 10, Morris,
 Nicholson/Forey, Jones and the Rhineland monographs will thicken
 §§II–III at the upgrade pass; the Rhineland baseline is deliberately
 not asserted per Revisions 2/4). Voice-discipline ledger (per the
