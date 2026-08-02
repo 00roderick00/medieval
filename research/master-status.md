@@ -1,0 +1,132 @@
+# Master Status Report — Rewrite Worklist
+
+*Generated 2026-08-02 from the assembled drafts. 104 flags: 15 BRIDGE, 56 GAP, 9 RE-CHECK AT PRESS, 24 TRANS. CLAUDE. Ordered by chapter; § = draft section. The footer voice-ledgers' own mentions of flags are excluded; the [END BRIDGE] closers are not counted. Contexts are the ~90 characters preceding each flag.*
+
+| Ch. | § | Flag | Flag detail | Context (preceding text) |
+|---|---|---|---|---|
+| Intro | IV | GAP | GAP: Rengger's chapter is gated; the fragment is carried via a named intermediary and his argument is not p… | …ersion asks whether the new Middle Ages could be anything but "its calamitous predecessor" |
+| Intro | V | GAP | GAP | …ay to" against "giving place to" — varies by printing and is flagged for the in-copy check |
+| Ch1 | — | BRIDGE | BRIDGE | …tion it does not assume ch06's findings, only promises them. Author–date citations inline; |
+| Ch1 | — | GAP | GAP | …not assume ch06's findings, only promises them. Author–date citations inline; [BRIDGE] and |
+| Ch1 | II | GAP | GAP: the scholarly statement of the Innocent-III claim awaits Morris, *The Papal Monarchy*, on the acquisit… | …laimed ultimate arbitration in spiritual affairs and, at the apex's apex, in temporal ones |
+| Ch1 | II | GAP | GAP: scholarly statement awaits Nicholson/Forey, on the borrow list | …s with their own territorial state in the making — supranational, papally chartered, armed |
+| Ch1 | II | GAP | GAP: the scholarly anchor awaits Jones, *The Italian City-State*, on the acquisition list | …cant, and nothing collapsed, because the working order had never depended on its occupancy |
+| Ch1 | III | GAP | GAP: Bull's verbatim caution sentences await the retrieval of *Anarchical Society* ch. 10; the paraphrase i… | …nclusion: the evidence for an emergent new medievalism was, in the mid-1970s, insufficient |
+| Ch2 | II | GAP | GAP: the interpretive framing — Worms as structural stalemate, the Dictatus as monarchic sovereignty — awai… | …r, the spiritual instruments, and retained investiture with the sceptre, the temporal ones |
+| Ch2 | II | GAP | GAP: Haec Sancta and conciliar theory await Tierney or Ullmann | …ich deposed and outlasted the claimants at Constance and elected Martin V in November 1417 |
+| Ch3 | — | RE-CHECK AT PRESS | RE-CHECK AT PRESS | …udget exhausted); the episode is drafted as dated reported events and the flag converts to |
+| Ch3 | I | GAP | GAP: McFarlane's 1945 article and Hicks await retrieval | …illy's protection-market frame, Kaminsky's feud-as-legal-institution, McFarlane's affinity |
+| Ch3 | II | GAP | GAP: McFarlane's exact formulations await the BIHR article and Hicks | …d the disorder associated with it traced not to the institution but to inadequate kingship |
+| Ch3 | II | GAP | GAP: enforcement record awaits McKelvie | … private force not abolished but licensed, the monopoly asserted at the level of paperwork |
+| Ch3 | II | TRANS. CLAUDE | TRANS. CLAUDE | …tard, un seul roturier" — not one bastard, a single commoner — among the retained captains |
+| Ch3 | II | GAP | GAP: Vaughan, *Philip the Good* | …ism is asserted here; the numbers — court size, pension flows — are gated and not invented |
+| Ch3 | II | GAP | GAP: Zmora for the post-1495 statistics | …ep into the sixteenth century — a Grumbach was executed as a peace-breaker as late as 1567 |
+| Ch3 | III | GAP | GAP: pull the defense.gov primaries for Maven and the CDAO awards before print | …ier cognition, contracted deliberately outside the standard federal acquisition regulation |
+| Ch3 | V | RE-CHECK AT PRESS | RE-CHECK AT PRESS — the episode rested on single-outlet reporting at research date, with litigation ongoing… | … of 2026, and is drafted here as dated, reported events under this chapter's re-check flag |
+| Ch4 | — | GAP | GAP | …pening at Clarendon, per the Batch 2 continuity instruction. Author–date citations inline; |
+| Ch4 | II | GAP | GAP: the 1380 lifetime condotta is Caferro's reconstruction, gated | …Florence, whose de facto commander-in-chief he was from 1377 until his death in March 1394 |
+| Ch4 | II | GAP | GAP: Mallett; Mallett & Hale | …Mallett's territory and awaits retrieval; this book carries the outline and not the detail |
+| Ch4 | VI | GAP | GAP: Dollinger | …nvened at Lübeck from the mid-fourteenth century (the date tradition varies and is flagged |
+| Ch4 | VI | GAP | GAP: Dollinger for the clause wording | … right of prior consent over the Danish succession (consent, not the encyclopedias' "veto" |
+| Ch4 | VI | GAP | GAP: the voting-threshold rule awaits Lane; Chambers & Pullan | …emanding attributable information, a procedural scruple many modern tip-lines do not match |
+| Ch4 | VI | GAP | GAP: the consolidation's specifics await Lane & Mueller; the in-repo Pezzolo chapter proved adjacent, not o… | …ting its richest citizens into its creditors and thereby into stakeholders in its survival |
+| Ch5 | — | BRIDGE | BRIDGE | …d (REVIEWED), whose chapter this one precedes and must open. Author–date citations inline; |
+| Ch5 | — | TRANS. CLAUDE | TRANS. CLAUDE | …D), whose chapter this one precedes and must open. Author–date citations inline; [BRIDGE], |
+| Ch5 | — | GAP | GAP | …is one precedes and must open. Author–date citations inline; [BRIDGE], [TRANS. CLAUDE] and |
+| Ch5 | I | BRIDGE | BRIDGE — the triple-hinge framing from here to the end of the paragraph is illustration, never evidence; th… | …, because the resonance is real and the causation is not — to read 1453 as a single event. |
+| Ch5 | I | GAP | GAP: pin the verbatim wording at retrieval — McFarlane's essays are on the acquisition list | …holds that only a king who was under-mighty had anything to fear from over-mighty subjects |
+| Ch5 | II | GAP | GAP: the administrative texture of the personal rule — patronage flows, household finance — awaits Griffith… | …1453 did not create the vacancy. It disclosed one of long standing, and made it undeniable |
+| Ch5 | III | GAP | GAP: the court detail and the Burgundian side await Famiglietti's *Royal Intrigue* and Vaughan's *John the … | … and settling the crown of France, on Charles's death, on Henry V of England and his heirs |
+| Ch5 | IV | GAP | GAP: İnalcık and Kafadar are on the acquisition list; the formulation is cited here at second hand and must… | …favouring Ottoman unity and centralised administration — is the standard scholarly framing |
+| Ch5 | V | BRIDGE | BRIDGE — one sentence; the transposition is Roderick's to keep or cut. | …ence could be transposed to the Norman march or the Armagnac south of 1420 without strain. |
+| Ch5 | VI | BRIDGE | BRIDGE — the passage to the end of this paragraph is the analogy joint; disanalogy stated; Roderick's to set. | …alogue is now in place, and the book has already documented it in its diagnostic register. |
+| Ch6 | — | BRIDGE | BRIDGE | … ch06/sources.md. Author–date citations inline per §8; conversion to endnotes at assembly. |
+| Ch6 | — | TRANS. CLAUDE | TRANS. CLAUDE | …ne per §8; conversion to endnotes at assembly. [BRIDGE] passages await Roderick's rewrite; |
+| Ch6 | — | GAP | GAP | …ssages await Roderick's rewrite; [TRANS. CLAUDE] marks my translations pending spot-check; |
+| Ch6 | II | GAP | GAP: T3 attribution; upgrade the siege-survey authority to scholarly level before print | …ieges were settled more often by treachery, starvation, or disease than by breached walls" |
+| Ch6 | II | GAP | GAP: the tipping-point chronology awaits DeVries's monograph and Hall at book level; Rogers (1993) dates th… | …s not settled to the precision one would like, and this chapter will not pretend otherwise |
+| Ch6 | III | TRANS. CLAUDE | TRANS. CLAUDE | …e l'artillerie ancienne" — already, at this date, the new artillery cost more than the old |
+| Ch6 | IV | GAP | GAP: the 1418–19 detail is carried at tertiary level citing Barker; upgrade to Barker's *Conquest* at schol… | …ing in the ditch between the lines through the winter because neither side would feed them |
+| Ch6 | IV | TRANS. CLAUDE | TRANS. CLAUDE | …ering again and again, shook *the walls and the minds of the besieged* from foot to summit |
+| Ch6 | IV | TRANS. CLAUDE | TRANS. CLAUDE | …esistible thunder of the guns" ("ineluctabile tormentorum fulmen elatum ejus animum domat" |
+| Ch6 | IV | TRANS. CLAUDE | TRANS. CLAUDE | …they marched out, gave them a hundred livres for the road (Blondel, in Stevenson 1863: 136 |
+| Ch6 | IV | GAP | GAP: the jubilee stipulation is carried via the DNB digest; confirm at page level in Pollard before print | …m, the tradition records, an obligation to pilgrimage in Rome's jubilee year (Pollard 1983 |
+| Ch6 | V | GAP | GAP: the 1451 terms are carried at tertiary level; upgrade to Vale's *English Gascony* when retrieved | … taxes of the French interior, judicial and minting concessions in the tradition's account |
+| Ch6 | VI | TRANS. CLAUDE | TRANS. CLAUDE | … masters of the royal machines, siting his "binas colubrinas" against the massed formation |
+| Ch6 | VI | TRANS. CLAUDE | TRANS. CLAUDE | … Chasteillon… on averoit ladicte rivière pour luy" — whoever held Castillon held the river |
+| Ch6 | VI | TRANS. CLAUDE | TRANS. CLAUDE | …keep it "quant je verray que temps et heure sera" — when he judged the time and hour right |
+| Ch6 | VI | TRANS. CLAUDE | TRANS. CLAUDE | …this day I shall have overthrown the company of the French who are in that park before me" |
+| Ch6 | VI | GAP | GAP: the identity of the movers is carried in the tradition, not pinned in the parsed passage; verify in Es… | …ouchy, ii. 38–39). The report was false — what was moving was camp-followers, not the army |
+| Ch6 | VI | TRANS. CLAUDE | TRANS. CLAUDE | …n to tell him the truth with a sword-stroke across the face, and rode on (Escouchy, ii. 39 |
+| Ch6 | VI | TRANS. CLAUDE | TRANS. CLAUDE | …éoient venir ledit Talbot" — trained their guns on the side from which they saw him coming |
+| Ch6 | VI | TRANS. CLAUDE | TRANS. CLAUDE | …iberately laid to fire "tous ensamble et à une fois" — all together, in a single discharge |
+| Ch6 | VI | GAP | GAP-flag: Vale's TRHS article dates the execution 17 September, Escouchy the storm Wednesday 19 September —… | … and it was reserved for a place under punitive terms, whose captain the king had executed |
+| Ch6 | VI | TRANS. CLAUDE | TRANS. CLAUDE | …pedimie" — the plague then running through the region and no respecter of besieging armies |
+| Ch6 | VI | TRANS. CLAUDE | TRANS. CLAUDE | …sir du Roy," all its privileges and franchises, to be disposed at the king's good pleasure |
+| Ch6 | VII | BRIDGE | BRIDGE — the passage from here to the next bracket is the analogy joint; the disanalogy is stated per §6, a… | …ustion, the disaffection — describes how the asymmetry propagated, not whether it existed. |
+| Ch7 | — | BRIDGE | BRIDGE | … bill for Normandy), per the Batch 1 continuity instruction. Author–date citations inline; |
+| Ch7 | — | GAP | GAP | …mandy), per the Batch 1 continuity instruction. Author–date citations inline; [BRIDGE] and |
+| Ch7 | I | GAP | GAP: the article's full text and exact phrasing await retrieval | …ructure of the posse comitatus or militia under the command of locally-elected constables" |
+| Ch7 | I | GAP | GAP: confirm at page level | … (Kriehn 1892: 5; the gentry skeleton is carried with attribution to Griffiths, pp. 619–20 |
+| Ch7 | II | GAP | GAP: Virgoe, Kent Records XVIII | …irgoe and not yet in this book's corpus, capture those the crown thought worth prosecuting |
+| Ch7 | III | GAP | GAP: the scholarly account of the Praguerie awaits Contamine's chapters; the sequence above is the consensu… | …ompagnies d'ordonnance followed in 1445; the taille outlived every man who rode against it |
+| Ch7 | IV | GAP | GAP: the framing is Najemy's; his *History of Florence* is on the acquisition list and the argument must no… | …rie — the fear of the commune's floor feeding the acceptance of a master above its ceiling |
+| Ch7 | VI | BRIDGE | BRIDGE — this section is the chapter's analogy joint; the disanalogies are stated inline and the framing is… | … form's conservatism is not timidity. It is the political expression of collateral. ## VI. |
+| Ch8 | — | BRIDGE | BRIDGE | …md's close (the old law's many houses) and closes into ch09. Author–date citations inline; |
+| Ch8 | — | GAP | GAP | … (the old law's many houses) and closes into ch09. Author–date citations inline; [BRIDGE], |
+| Ch8 | — | TRANS. CLAUDE | TRANS. CLAUDE | …law's many houses) and closes into ch09. Author–date citations inline; [BRIDGE], [GAP] and |
+| Ch8 | III | GAP | GAP: Brunner, Algazi and both Zmora monographs are on the acquisition list; the debate is staged from open … | …ds conducted "not against strangers but with neighbours, relatives and their feudal lords" |
+| Ch8 | IV | GAP | GAP: Muir's *Mad Blood Stirring* for narrative detail; the wording is carried from the scholarly apparatus | …cross Friuli — in Muir's verdict, "the most extensive popular revolt in Renaissance Italy" |
+| Ch8 | IV | GAP | GAP: Jansen's dataset at page level | …entine notarial registers alone preserve five hundred and twenty-six between 1257 and 1343 |
+| Ch8 | VI | BRIDGE | BRIDGE — the medieval→modern joint runs through this section; the disanalogies are stated at its close, and… | … overlapping and occasionally conflicting institutions" (Johnson, *Law in Common*). ## VI. |
+| Ch8 | VII | BRIDGE | BRIDGE — the modern translation of the sequence claim, to the section's end. | …y on paper. The plural legal environment was not argued out of existence; it was outspent. |
+| Ch9 | II | GAP | GAP: Kantorowicz's chapter-level argument awaits the book, on the acquisition list; the arc is carried from… | … to the body politic; through Bracton's lawyer-king; to the Tudor maturity Plowden reports |
+| Ch9 | III | GAP | GAP: Famiglietti and Autrand for the court detail | …ified via the open scholarly apparatus, footnoted to the *Ordonnances des rois de France*) |
+| Ch9 | IV | GAP | GAP: the debate's texts are gated; the citation chain is verified, the wording carried from the open memoir | … himself conceded, in 1991, that he may have "overstated [Cromwell's] systematic approach" |
+| Ch10 | — | BRIDGE | BRIDGE | …e 1449–53 campaigns, per the Batch 1 continuity instruction. Author–date citations inline; |
+| Ch10 | — | TRANS. CLAUDE | TRANS. CLAUDE | …campaigns, per the Batch 1 continuity instruction. Author–date citations inline; [BRIDGE], |
+| Ch10 | — | GAP | GAP | …atch 1 continuity instruction. Author–date citations inline; [BRIDGE], [TRANS. CLAUDE] and |
+| Ch10 | II | TRANS. CLAUDE | TRANS. CLAUDE | …anguedoc, *not counting* the troops on the Normandy and Guyenne frontiers (Contamine 1972; |
+| Ch10 | II | TRANS. CLAUDE | TRANS. CLAUDE | …war so debasing the coinage that it had become "comme de nulle valeur" — as if of no value |
+| Ch10 | III | GAP | GAP: the administrative detail at scholarly level awaits Wolfe, *The Fiscal System of Renaissance France* | …essional revenue administration reaching from the council chamber to the parish assessment |
+| Ch10 | IV | TRANS. CLAUDE | TRANS. CLAUDE | …rtit à l'armée permanente" — as is the rule for everything belonging to the permanent army |
+| Ch10 | IV | TRANS. CLAUDE | TRANS. CLAUDE | …they wrote home, "de quoi faire trembler le monde entier," to make the whole world tremble |
+| Ch10 | IV | TRANS. CLAUDE | TRANS. CLAUDE | …instrument qu'aucune coalition ne pouvait briser" — an instrument no coalition could break |
+| Ch10 | V | GAP | GAP: pin to a Louis XI biography on retrieval | … Maine naming Louis heir the day before he died — the date tradition varies and is flagged |
+| Ch10 | VIII | RE-CHECK AT PRESS | RE-CHECK AT PRESS — this entire section's contemporary figures, programme statuses and licensing positions … | … success — and the success became the template Europe copied for three centuries. ## VIII. |
+| Ch10 | VIII | BRIDGE | BRIDGE — this closing section is the chapter's translation into the present; the synthesis is tagged (c) th… | …tatuses and licensing positions are time-sensitive and must be re-verified at press time.] |
+| Ch11 | — | RE-CHECK AT PRESS | RE-CHECK AT PRESS | …ief's instruction. Author–date citations inline; conventions as established. §VIII carries |
+| Ch11 | II | GAP | GAP: Wolffe; Chrimes | …year to above a hundred thousand — is Wolffe's series and is hedged here pending retrieval |
+| Ch11 | II | TRANS. CLAUDE | TRANS. CLAUDE | …g king believed he possessed "an instrument no coalition could break" (Contamine 1964: 261 |
+| Ch11 | III | GAP | GAP: Kamen; Contreras & Henningsen | …ounding bull and asserts no casualty figures — the scale literature is gated and contested |
+| Ch11 | IV | GAP | GAP: İnalcık's framing and the per-levy figures await retrieval; the mechanism is carried from open T2. | … not as an option the West declined but as the demonstration of the pattern's outer bound. |
+| Ch11 | V | GAP | GAP: the Febvre & Martin volume behind the totals is on the acquisition list | …total output in the first half-century somewhere between fifteen and twenty million copies |
+| Ch11 | VI | RE-CHECK AT PRESS | RE-CHECK AT PRESS — this entire section's contemporary instruments, dates, litigation postures and programm… | …military surplus the artillery state generated, and none was executable without it. ## VI. |
+| Ch11 | VI | BRIDGE | BRIDGE — the translation architecture is the book's central predictive move; the structural readings are ta… | …postures and programme statuses are time-sensitive and must be re-verified at press time.] |
+| Ch12 | — | RE-CHECK AT PRESS | RE-CHECK AT PRESS | …via the EveryCRSReport mirror and is integrated in §§II and V as dated, attributed claims, |
+| Ch12 | I | GAP | GAP: pin the Jeddah wording at press | …nemy action but by a patron's pause. Restoration followed the Jeddah statement on 11 March |
+| Ch12 | II | RE-CHECK AT PRESS | RE-CHECK AT PRESS — the whole passage; source: CRS R48887, "U.S. Conflict with Iran," 26 March 2026, via th… | …s owed; flagged). And the decade's sharpest exogenous datum now has its documentary record |
+| Ch12 | V | RE-CHECK AT PRESS | RE-CHECK AT PRESS; CRS R48887 throughout | …ith this book's measurement discipline — every figure attributed, categories never blended |
+| App C | — | RE-CHECK AT PRESS | RE-CHECK AT PRESS | …; a concordance of absorbed candidates is at the foot. Baselines cite the reviewed record; |
+
+## Standing items not flagged inline
+
+- **Browser pulls (blocked at fetch, ch12 sources.md):** the Jeddah joint
+  statement verbatim; the Section 232 semiconductor tariff instrument;
+  the CRS R48887 original PDF (integrated from the EveryCRSReport
+  mirror).
+- **Acquisition list (retrieval-master.md):** Bull ch. 10; Kantorowicz;
+  Ullmann; Tierney; Griffiths; Famiglietti; Vaughan (both); Kendall;
+  Wolffe; Lander; Elliott; Kamen; İnalcık; Kafadar; Febvre & Martin;
+  Mallett; Caferro; Dollinger; Lane/Lane & Mueller; Harvey; Bohna;
+  Virgoe; McKelvie; Hicks; McFarlane; Zmora; Algazi; Brunner; Muir;
+  Dean; Jansen; Najemy; Morris; Nicholson/Forey; Jones; the Rhineland
+  monographs (Huffman ×2, Scales); Barker; Burne; Nicolle; Chartier II;
+  Leseur; Escouchy I/III; Beaucourt; Rengger; Holsinger (purchase);
+  Zielonka; Khanna (clean copy); Pollard (page level); Poguntke & Webb.
+- **Perplexity second-opinion runs:** reserved in every critiques.md;
+  none yet run against the drafts.
+- **Word-count deltas:** every chapter runs below its outline weight
+  (drafts total ~60k against a ~145k main-text target); the expansion
+  path is the acquisition list above plus the [BRIDGE] and voice
+  passes.
