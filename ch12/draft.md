@@ -184,7 +184,28 @@ champion, the Secure Enclave, the weapons-lab exaflops, the
 proliferated constellations, the munitions ramp with its
 shortfall honestly audited by its own inspector general. Henry
 VII kept his own books; the American Henry publishes his, which
-is not the same discipline, but is a discipline.
+is not the same discipline, but is a discipline. One move, however,
+the American candidacy has not run, and until it runs the candidacy
+is incomplete — this is the book's observation (c), offered as
+analysis and not as counsel, and scored at C11-1. The United States
+has the stack but has not centralised its universalist platforms;
+and its present instinct, when it reaches for them, reaches for the
+nineteenth century — tariffs, and an antitrust vocabulary inherited
+from the trust-busting age, as though the platforms were its
+Rockefeller moment. The mechanism this book has traced points two
+centuries earlier and one register deeper: the platforms are not
+the American state's Standard Oil but its monasteries —
+universalist institutions holding functions and revenues the
+consolidating centre will need — and the settlement instrument the
+mechanism predicts is not dissolution-by-breakup but the Henrician
+one in American legal dress: licence, and the licensing fee — the
+right to run frontier AI at scale conferred by the state, priced
+by the state, and collected as the settlement's popular revenue,
+exactly where Chapter 11's five moves would put it. Not
+nationalisation in the socialist sense; annexation in the
+administrative one. Whether the American system can execute that
+move against its own constitutional grain is what C11-1 scores,
+year by year.
 
 China has substantially executed the settlement already — the
 discipline of 2020–23 completed and normalised in sequence, the
@@ -314,6 +335,37 @@ finding: distributed denial below, concentrated decision
 above. The Cade rebellions and the artillery states of our
 age, running simultaneously — which is exactly what the
 fifteenth century looked like from inside.
+
+One objection to the whole frame remains, and it deserves its
+own paragraph rather than a footnote: the nuclear overhang.
+Nothing in the fifteenth century corresponds to a weapon whose
+use destroys all sides, and a critic may fairly ask whether a
+mechanism about the price of *decisive* force can operate at all
+under an arsenal that makes decision suicidal. The answer is
+that nuclear weapons sit outside the currency this book prices,
+for a reason internal to the mechanism: the mechanism concerns
+force that takes and holds — the siege train, the stack — force
+whose use converts military advantage into territory, revenue
+and settlement. Nuclear weapons hold nothing. They cap
+escalation between their holders; they do not consolidate
+anything within or between them; and the consolidation contest
+therefore runs *underneath* the overhang, in the conventional
+and computational layer where taking and holding still happens.
+The demonstration case is on the record, and the book has
+already assembled its evidence: Russia — nuclear-armed at the
+greatest scale on earth, fiscally shallow, industrially
+strained — has spent four years of conventional war, at shell
+volumes its adversary's intelligence services report in the
+millions (attributed, per Chapter 10's discipline), without
+converting arsenal into decisive victory; its nuclear weight
+has deterred its adversary's patrons at the margin and taken
+not one additional city. A polity with weapons but without the
+fiscal-administrative stack can destroy and cannot decide —
+the mechanism's claim, stated from the negative case. The
+overhang bounds the wars the consolidators may fight with each
+other. It does not void the consolidation; it is one more
+reason the settlement runs inside blocs rather than between
+them.
 
 ## VI.
 
@@ -447,7 +499,27 @@ Roderick reviewed the final batch: ch12 approved with revisions.
    returned 403s. Both pins remain open as browser pulls (sources.md
    verification list); the existing [GAP]/flag language stands.
 
+3. **(2026-08-02, second entry — the SPINE's two bracketed
+   directives executed.)** Per spine.md (Roderick's judgment-layer
+   document, added to the repo this date): (a) the [CROSS TO ch12]
+   observation inserted in §IV — the American candidacy incomplete
+   until the platform-centralisation move runs; the
+   nineteenth-century instinct (tariffs, trust-busting vocabulary)
+   set against the sixteenth-century mechanism (licence and
+   licensing fee as the Henrician instrument in American legal
+   dress; platforms as monasteries, not Standard Oil); stated as
+   observation (c), not counsel, §9 boundary kept, scored at C11-1.
+   (b) the [DEVELOP] paragraph inserted in §V — why the nuclear
+   overhang does not void the consolidation mechanism (nuclear
+   weapons outside the take-and-hold currency the book prices; they
+   cap escalation between holders and consolidate nothing), with
+   Russia as the demonstration case (weapons without the stack:
+   able to destroy, unable to decide), shell-volume claims
+   attributed per the ch10 discipline. Both passages are the book's
+   argument; the SPINE itself is not cited in the text, per its own
+   header.
+
 ---
 
 STATUS: REVIEWED (Roderick, 2026-08-02) — approved with revisions
-applied
+applied; SPINE directives executed same date
