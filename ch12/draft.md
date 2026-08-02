@@ -6,10 +6,13 @@ synthesis chapter, inheriting its historical claims from the reviewed
 memos and drafts of chs. 1–11 without re-arguing them. One memo-level
 update: ch09, cited there as pending review, was reviewed 2026-07-31 and
 is cited here accordingly. The §9 boundary governs §VII: asset-class
-direction permitted, actionable guidance prohibited. The reported
-US–Iran conflict of February 2026 is EXCLUDED per the reviewed memo
-(T3/T4 only) — the exclusion itself carries [RE-CHECK AT PRESS].
-Author–date citations inline; conventions as established.*
+direction permitted, actionable guidance prohibited. The US–Iran
+exclusion was REVERSED on Roderick's synthesis-memo review (2026-08-02):
+CRS R48887 ("U.S. Conflict with Iran," 26 March 2026) was retrieved via
+the EveryCRSReport mirror and is integrated in §§II and V as dated,
+attributed claims, [RE-CHECK AT PRESS] — pin against
+crsreports.congress.gov at press. Author–date citations inline;
+conventions as established.*
 
 ---
 
@@ -74,12 +77,21 @@ flexibility and €150 billion of SAFE lending, disbursing from early
 2026) headlines "greater self-reliance and strength in science and
 technology" (primary); the American chip-policy turn of 2026 pairs
 eased licensing with tariff instruments on advanced imports (carried
-at T3/T4 — browser pins owed; flagged). (One reported development of
-early 2026 — hostilities between the United States and Iran — is
-excluded from this book entirely: at research date it surfaced only
-at unverifiable tiers, and this book does not build on unverified
-war reporting. [RE-CHECK AT PRESS: if verified by then, it enters
-under its own tier; if not, the exclusion stands.]) The pattern
+at T3/T4 — browser pins owed; flagged). And the decade's sharpest
+exogenous datum now has its documentary record [RE-CHECK AT PRESS —
+the whole passage; source: CRS R48887, "U.S. Conflict with Iran,"
+26 March 2026, via the EveryCRSReport mirror, to be pinned against
+the congress.gov original]: the United States struck three Iranian
+nuclear facilities on 22 June 2025, absorbed Iran's retaliatory
+missile attack on Al Udeid the next day, and — after the Tehran
+demonstrations of December 2025 — opened, with Israel, a full
+campaign against Iranian targets on 28 February 2026, in which the
+Supreme Leader was killed; by 25 March Central Command reported
+more than 10,000 targets struck, and the operation's cost, by the
+official figure the CRS report carries, exceeded "$11.3 billion in
+the first six days." A great-power war of exactly the kind the
+neomedieval diagnosis's second characteristic said had left the
+system: the pressure is not returning; it has returned. The pattern
 across every bloc at once: rearmament, industrial-base panic,
 frontier technology treated as sovereign capacity — the exogenous
 consolidating pressure, back on the ledgers. Chapter 1 marked its
@@ -273,7 +285,30 @@ full-stack adversary, and the cheap layer's own scaling
 re-concentrates it into industrial policy. The possibility
 that open models and distributed compute erode the decisive
 layer is real, unproven, and scoreable — Appendix C keeps it
-honest. The answer to the military-technology question is
+honest.
+
+And the concentrated layer now has its own direct exhibit,
+integrated on review and carried with this book's measurement
+discipline — every figure attributed, categories never blended
+[RE-CHECK AT PRESS; CRS R48887 throughout]. In the Iranian
+campaign of February–March 2026, a full-stack power struck, by
+its own combatant command's report, more than 10,000 targets in
+under a month; the president's claim — quoted as a claim — was
+"complete and total control of the skies over Iran"; the
+operation's official cost exceeded $11.3 billion in its first
+six days; American fatalities stood at 13 service personnel (as
+of 23 March), against more than 3,000 Iranian fatalities
+*reported* — a claim category, not a count. Targets struck,
+costs, own casualties, enemy casualties: four different kinds of
+number, from four different kinds of source, and the book keeps
+them separate. What the exhibit shows, within those limits, is
+the asymmetry's other face: where Ukraine demonstrates that the
+cheap layer cannot decide without the concentrated one, Iran
+demonstrates what the concentrated layer does when it decides —
+at a six-day burn rate approaching the annual defence budgets
+of mid-sized states, which is itself the chapter's point: the
+deciding layer is priced where only artillery states shop. The
+answer to the military-technology question is
 therefore asymmetric, and it is this chapter's compressed
 finding: distributed denial below, concentrated decision
 above. The Cade rebellions and the artillery states of our
@@ -395,4 +430,24 @@ words with the Jeddah [GAP]; §VII held to the §9 boundary;
 ch09 cited as reviewed (memo-level update noted in header).
 No claim beyond the reviewed record.*
 
-STATUS: DRAFT — PENDING HUMAN REVIEW
+## Revisions (post-review, 2026-08-02)
+
+Roderick reviewed the final batch: ch12 approved with revisions.
+
+1. **The US–Iran exclusion reversed** per the synthesis-memo review.
+   CRS R48887 ("U.S. Conflict with Iran," 26 March 2026) retrieved via
+   the EveryCRSReport mirror (congress.gov and FAS blocked at fetch);
+   integrated in §II (the exogenous-pressure record, dated sequence)
+   and §V (the concentrated-layer exhibit, four figure-categories kept
+   separate), both passages [RE-CHECK AT PRESS] with a pin against the
+   congress.gov original owed at press.
+2. **Jeddah wording and the chip-tariff instruments: pin attempted,
+   blocked.** state.gov's statement page returned garbled content;
+   congress.gov, federalregister.gov, president.gov.ua and mfa.gov.ua
+   returned 403s. Both pins remain open as browser pulls (sources.md
+   verification list); the existing [GAP]/flag language stands.
+
+---
+
+STATUS: REVIEWED (Roderick, 2026-08-02) — approved with revisions
+applied

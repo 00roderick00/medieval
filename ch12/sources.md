@@ -111,3 +111,14 @@ listed here are the sources newly consulted for this chapter — the Ukraine
 
 *Consulted 2026-07-24; provenance runs to the documents and named sources
 above (CLAUDE.md §4). URLs in the session research record.*
+
+## Added post-draft-review (2026-08-02)
+
+- **T1/T2 — CRS R48887, "U.S. Conflict with Iran" (26 March 2026)** —
+  retrieved via the EveryCRSReport mirror (crsreports.congress.gov and
+  the FAS mirror blocked at fetch); integrated in draft §§II/V,
+  [RE-CHECK AT PRESS]. PIN AT PRESS: the congress.gov original PDF.
+- **Verification pulls still open (browser):** the Jeddah joint
+  statement's verbatim wording (state.gov page garbled at fetch;
+  president.gov.ua/mfa.gov.ua 403); the Section 232 semiconductor
+  tariff instrument (federalregister.gov bot-blocked).

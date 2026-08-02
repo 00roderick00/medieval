@@ -2,7 +2,7 @@
 
 *DRAFT (first draft, 2026-08-02) — drafted last, against every reviewed
 memo and draft ch01–ch12, per the brief. The falsifiability passage in
-§IV is quoted verbatim from the reviewed memo (§3), as authorised; any
+§III is quoted verbatim from the reviewed memo (§3), as authorised; any
 change to it goes back through review. The Castillon opening carries the
 single authorised hedged clause (brief NOTE, 2026-08-01). Author–date
 citations inline; conventions as established.*
@@ -302,4 +302,13 @@ no "sixty places"). [GAP] flags: Pollard at page level; Rengger;
 Bull way/place variant; Holsinger re-verify. No claim beyond
 the reviewed record.*
 
-STATUS: DRAFT — PENDING HUMAN REVIEW
+## Revisions (post-review, 2026-08-02)
+
+1. **Header section reference corrected** (the falsifiability passage
+   sits in §III, not §IV). Falsifiability passage confirmed verbatim on
+   review; otherwise approved as drafted.
+
+---
+
+STATUS: REVIEWED (Roderick, 2026-08-02) — approved with revision
+applied; falsifiability passage confirmed verbatim

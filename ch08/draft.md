@@ -480,4 +480,4 @@ Star Chamber correction, the QMUL preference correction, the
 Cameron-not-Epic provenance and the DSA Art. 21 cap all carried.
 No claim beyond the reviewed memo.*
 
-STATUS: DRAFT — PENDING HUMAN REVIEW
+STATUS: REVIEWED (Roderick, 2026-08-02) — approved as drafted

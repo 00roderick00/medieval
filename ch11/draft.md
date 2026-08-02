@@ -467,4 +467,4 @@ debate staged; Özel caveat; the Pillar Two carve-out, FTC
 loss, and Anthropic reversal printed, not smoothed. No claim
 beyond the reviewed memo.*
 
-STATUS: DRAFT — PENDING HUMAN REVIEW
+STATUS: REVIEWED (Roderick, 2026-08-02) — approved as drafted

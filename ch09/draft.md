@@ -371,4 +371,4 @@ reported-only; Starlink/Crimea in the corrected declined-to-
 enable form, attributed; DOGE and the OpenAI board drafted as
 dated episodes. No claim beyond the reviewed memo.*
 
-STATUS: DRAFT — PENDING HUMAN REVIEW
+STATUS: REVIEWED (Roderick, 2026-08-02) — approved as drafted
