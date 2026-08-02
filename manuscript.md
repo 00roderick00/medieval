@@ -1,7 +1,7 @@
 # The Artillery State
 ## Cannon, Code, and the Return of the Consolidator
 
-*Assembled manuscript — first assembly, 2026-08-02. Working flags ([GAP], [TRANS. CLAUDE], [RE-CHECK AT PRESS], [BRIDGE], [BOOK'S ARGUMENT], [ANALOGY-ONLY]) are left visible by design; the master worklist is research/master-status.md. Author–date citations have been converted to per-chapter endnotes per the assembly doctrine; date-only parentheticals remain inline.*
+*Assembled manuscript — regenerate with tools/assemble.py. Working flags ([GAP], [TRANS. CLAUDE], [RE-CHECK AT PRESS], [BRIDGE], [BOOK'S ARGUMENT], [ANALOGY-ONLY]) are left visible by design; the master worklist is research/master-status.md. Author–date citations converted to per-chapter endnotes; date-only parentheticals remain inline.*
 
 
 ---
@@ -194,7 +194,7 @@ representation of chaos" — and carried an image that has outlived
 the essay: "Think of a stretch limo in the potholed streets of New
 York City…" — the gated rich inside, the rest of humanity outside
 — an image that is, the attribution matters, Thomas Homer-Dixon's,
-quoted and adopted by Kaplan [^1-1].
+quoted and adopted by Kaplan [^0-1].
 The Coming Anarchy did not come, or came only where it was already
 resident; the genre's record is the objection, and this book's
 answer is method, not indignation. The book does not argue from
@@ -210,7 +210,7 @@ political theory's Middle Ages is a fairyland — in Holsinger's
 words, neomedievalism as "the global idiom of the non-state actor,"
 and the international-relations variant "a frightening lens on to
 the ultimate co-optability of academic theorising into a regressive
-and destructive political culture" [^1-2]; Rengger's version asks whether the
+and destructive political culture" [^0-2]; Rengger's version asks whether the
 new Middle Ages could be anything but "its calamitous predecessor"
 [GAP: Rengger's chapter is gated; the fragment is carried via a
 named intermediary and his argument is not paraphrased further
@@ -267,7 +267,7 @@ the new medievalism its name in 1977, weighed the evidence of his
 decade and declined his own hypothesis: "it would be going beyond
 the evidence to conclude that 'groups other than the state' have
 made such inroads on the sovereignty of states that the states
-system is now giving way to this alternative" [^1-3]. Bull's caution was correct, and this book's
+system is now giving way to this alternative" [^0-3]. Bull's caution was correct, and this book's
 first chapter begins by saying so: in 1977 the evidence was not
 there. The argument of everything that follows is that it is
 there now — and that it points, not where Bull's successors
@@ -277,10 +277,10 @@ first chapter opens the books.
 
 
 #### Notes
-[^1-1]: Kaplan 1994; the limo Homer-Dixon's
-[^1-2]: Holsinger, punctum-carried page
+[^0-1]: Kaplan 1994; the limo Homer-Dixon's
+[^0-2]: Holsinger, punctum-carried page
 cites, re-verify on purchase
-[^1-3]: Bull, via Kelemen
+[^0-3]: Bull, via Kelemen
 2019, citing Bull 2002: 265; one word — "giving way to" against
 "giving place to" — varies by printing and is flagged for the
 in-copy check [GAP]
@@ -307,7 +307,7 @@ repeal was not lobbying but litigation, and not in a Honduran court:
 the claim proceeds before an international investor–state tribunal,
 under treaty protections the republic cannot unilaterally withdraw,
 for an amount that would bend the fiscal trajectory of the state
-[^2-1]. Set aside the merits, which are contested and not
+[^1-1]. Set aside the merits, which are contested and not
 this book's business. Attend to the structure. A territorial sovereign
 and a chartered corporate polity, nested one inside the other, each
 claiming lawful authority over the same ground; the dispute removed to
@@ -348,7 +348,7 @@ law-governed — and nowhere exclusive. Perry Anderson's description
 remains the standard one: a "patchwork of overlapping and incomplete
 rights of government… inextricably superimposed and tangled," in
 which "plural allegiances, asymmetrical suzerainties and anomalous
-enclaves abounded" [^2-2]. No one in 1200
+enclaves abounded" [^1-2]. No one in 1200
 was confused by this. A burgher of a free city might owe civic duty
 to his commune, spiritual obedience to his bishop, commercial law to
 his merchant guild's usages, and ultimate — largely notional —
@@ -436,11 +436,11 @@ replaced not by a world government but by a modern and secular
 equivalent of the kind of universal political organisation that
 existed in Western Christendom in the Middle Ages" — an order
 whose "central characteristic" would be "a system of overlapping
-authority and multiple loyalty" [^2-3]. He named five observable trends as prima facie
+authority and multiple loyalty" [^1-3]. He named five observable trends as prima facie
 evidence: the regional integration of states; the disintegration
 of states; the restoration of private international violence;
 transnational organisations; and the technological unification of
-the world [^2-4]. And then — the honesty
+the world [^1-4]. And then — the honesty
 for which this book keeps returning to him — he weighed his own
 five trends and declined the conclusion: the evidence for an
 emergent new medievalism was, in the mid-1970s, insufficient
@@ -485,7 +485,7 @@ engine the intuition had lacked, and his article is now in this
 book's corpus and cited first-hand. His definition: the medieval —
 and neomedieval — order is "a system of overlapping authority and
 multiple loyalty, held together by a duality of competing
-universalistic claims" [^2-5]. The load-bearing word is
+universalistic claims" [^1-5]. The load-bearing word is
 *duality*. What held the medieval lattice together, on this
 account, was not an equilibrium of fragments but the standing
 competition of two universalisms — Empire and Church, each
@@ -494,12 +494,12 @@ absorb the other — beneath whose contest the plural lesser
 authorities found their room to exist. And the modern translation:
 our own order is "held together by the competing universal claims
 of the nation-state system and the transnational market economy"
-[^2-6] — the territorial universalism
+[^1-6] — the territorial universalism
 of the states, the non-territorial universalism of the market,
 Empire and Church in modern dress. Friedrichs is careful about
 the limits of the mapping — the medieval system was "based on
 legal and spatial concepts," the neomedieval one on functional
-linkages [^2-7] — and the book preserves his
+linkages [^1-7] — and the book preserves his
 care. But one amendment is entered now, in passing, because Part
 I exists to argue it: this book will contend, in the next
 chapter, that Friedrichs's second universalism is misdescribed as
@@ -520,7 +520,7 @@ institutions; the lack of exogenous territorialising pressures;
 the uneven consolidation of new spaces, cleavages, conflicts and
 inequalities; fragmented identities; contested property rights;
 and the spread of *zones grises* — grey zones, the coinage is
-Alain Minc's, as Cerny's own note records [^2-8]. Run the checklist against the 2020s, characteristic by
+Alain Minc's, as Cerny's own note records [^1-8]. Run the checklist against the 2020s, characteristic by
 characteristic, with the evidence graded as this book grades
 everything.
 
@@ -528,7 +528,7 @@ everything.
 European Commission designated six firms — five of them American,
 one Chinese — as "gatekeepers" under the Digital Markets Act,
 subjecting the core architecture of their products to a regulatory
-code written by a polity in which none of them is domiciled [^2-9]. The same data, meanwhile, may sit
+code written by a polity in which none of them is domiciled [^1-9]. The same data, meanwhile, may sit
 simultaneously under the European GDPR, the American CLOUD Act,
 and the Chinese PIPL — three territorial legal orders issuing
 partially contradictory commands to one non-territorial entity,
@@ -544,7 +544,7 @@ and the book wants the reader to stare directly at why. Cerny's
 own section names what the absent pressure once was: "the
 inter-dynastic struggles of the Hundred Years' War" — the
 external, existential, consolidating force that squeezed the
-first plural order into states [^2-10]. Since 2022 that
+first plural order into states [^1-10]. Since 2022 that
 species of pressure has visibly begun returning: a land war on
 the continent, rearmament, alliance consolidation, the
 re-militarisation of frontiers. Read one way, this falsifies the
@@ -580,7 +580,7 @@ invented.
 
 *Contested and entrenched property rights.* By the end of 2023
 the cumulative count of treaty-based investor–state arbitrations
-reached 1,332 [^2-11] — thirteen hundred instances of
+reached 1,332 [^1-11] — thirteen hundred instances of
 property claims prosecuted against sovereigns in fora the
 sovereigns cannot dissolve; Katharina Pistor's account of capital
 as legal code supplies the frame. The much-quoted estimate that
@@ -660,9 +660,9 @@ narrative suggests: Osiander's demolition of the "Westphalian
 myth" shows the 1648 treaties concerned overwhelmingly with the
 Holy Roman Empire's internal constitution — the sovereign-state
 reading is a nineteenth- and twentieth-century retrojection
-[^2-12]; Teschke's *Myth of 1648* pushes the emergence
+[^1-12]; Teschke's *Myth of 1648* pushes the emergence
 of genuinely modern territorial sovereignty later still
-[^2-13]. The contrary position exists and is named:
+[^1-13]. The contrary position exists and is named:
 Latham reads late-medieval and early-modern sovereignty as
 variation on a theme rather than difference in kind — on which
 account the "anomaly" framing overstates. The book does not
@@ -701,27 +701,27 @@ been, once already, a matter of record.
 
 
 #### Notes
-[^2-1]: UNCTAD ISDS records; Honduras voided the enclave statute on 20
+[^1-1]: UNCTAD ISDS records; Honduras voided the enclave statute on 20
 September 2024
-[^2-2]: Anderson 1974: 37–38; canonised for the
+[^1-2]: Anderson 1974: 37–38; canonised for the
 international-relations literature by Ruggie 1993
-[^2-3]: Bull 1977: 245, quoted in Baaz;
+[^1-3]: Bull 1977: 245, quoted in Baaz;
 Friedrichs 2001: 483 quotes the corresponding caution at Bull
 1977: 254
-[^2-4]: Bull 1977: 245–66, via Baaz
-[^2-5]: Friedrichs 2001: 475; argued as a
+[^1-4]: Bull 1977: 245–66, via Baaz
+[^1-5]: Friedrichs 2001: 475; argued as a
 redefinition at 482, restated at 490
-[^2-6]: Friedrichs 2001, verbatim in-file
-[^2-7]: Friedrichs 2001: 497
-[^2-8]: Cerny 1998: 45–57 and
+[^1-6]: Friedrichs 2001, verbatim in-file
+[^1-7]: Friedrichs 2001: 497
+[^1-8]: Cerny 1998: 45–57 and
 n. 16; the war-college-tested five-fold restatement is Cerny
 2005
-[^2-9]: EU
+[^1-9]: EU
 DMA designations, primary
-[^2-10]: Cerny 1998: 52
-[^2-11]: UNCTAD, primary
-[^2-12]: Osiander 2001
-[^2-13]: Teschke 2003
+[^1-10]: Cerny 1998: 52
+[^1-11]: UNCTAD, primary
+[^1-12]: Osiander 2001
+[^1-13]: Teschke 2003
 
 
 ---
@@ -748,7 +748,7 @@ quasi-judicial college constituted by charter, whose decisions on
 individual cases bind the company that created it — the Board upheld
 the expulsion but struck down its *form*, rejecting an "indeterminate
 and standardless" indefinite penalty and requiring a defined one; Meta
-returned with a two-year term [^3-1]. An authority that legislates rules of
+returned with a two-year term [^2-1]. An authority that legislates rules of
 conduct for billions; that judges breaches through a constituted
 appellate body; that punishes with expulsion from communion; and that
 publishes reasoned decisions the secular power can read but not
@@ -897,7 +897,7 @@ listing, delisted within the year, and fined RMB 8.026 billion
 (21 July 2022); the gaming and private-tutoring sectors
 restructured by administrative fiat in a single summer; the whole
 programme doctrinally framed by Xi's "Common Prosperity" essay
-[^3-2]. Call it the Gregorian moment
+[^2-2]. Call it the Gregorian moment
 [ANALOGY-ONLY in its label; structural in its content]: as
 Gregory VII asserted that the universal institution's officers
 held their offices *of* the centre and not of themselves, the
@@ -979,8 +979,8 @@ book's corpus from the court documents: the 2021 Rule 52 order —
 "the Court cannot ultimately conclude that Apple is a monopolist…
 Success is not illegal," but the anti-steering provisions "hide
 critical information from consumers and illegally stifle consumer
-choice" [^3-3]; the
-Ninth Circuit's 2023 affirmance [^3-4], rejecting Apple's
+choice" [^2-3]; the
+Ninth Circuit's 2023 affirmance [^2-4], rejecting Apple's
 stay arguments as falling "far short of establishing legal
 error"; Apple's 27-per-cent workaround; the 30 April 2025
 contempt order with its criminal referral; the Ninth Circuit's
@@ -1003,7 +1003,7 @@ captures integrated circuits meeting a *conjunction* — aggregate
 bidirectional transfer rate of 600 gigabytes per second or more
 *and* bit-length-times-performance of 4,800 TOPS-bits or more —
 with NVIDIA's own Form 8-K of 26 August 2022 naming the A100,
-the forthcoming H100 and their systems as captured [^3-5]; tightened October 2023 (the performance-density
+the forthcoming H100 and their systems as captured [^2-5]; tightened October 2023 (the performance-density
 threshold closing the A800/H800 workaround); expanded December
 2024 (high-bandwidth memory; 140 entities). The regime has been
 in flux through 2025–26 and every claim about it in this book is
@@ -1012,15 +1012,15 @@ claiming to invest, deny and excommunicate at the level of the
 transistor — against the fused church, which answers with
 self-sufficiency drives and its own export doctrine.
 
-*Who has jurisdiction over the subjects' data.* Schrems II [^3-6] — the European church annulling the
+*Who has jurisdiction over the subjects' data.* Schrems II [^2-6] — the European church annulling the
 principal instrument of transatlantic data transfer; the €1.2
-billion GDPR penalty against Meta [^3-7]; the 2023 adequacy decision resting on an American
+billion GDPR penalty against Meta [^2-7]; the 2023 adequacy decision resting on an American
 executive order — a concordat, negotiated, provisional, and
 challengeable before the same court that destroyed its
 predecessor. *And who may release the sacred texts at all.* The
 frontier laboratories asserted, unprompted, an independent
 authority over their own instruments: OpenAI's staged release of
-GPT-2 [^3-8] was the origin case — a private body
+GPT-2 [^2-8] was the origin case — a private body
 claiming, and exercising, discretion over whether a capability
 enters the world; the White House voluntary commitments of July
 and September 2023 then folded fifteen labs' release-gating
@@ -1063,18 +1063,18 @@ are the next chapter's business.
 
 
 #### Notes
-[^3-1]: Oversight Board decision, 5 May 2021;
+[^2-1]: Oversight Board decision, 5 May 2021;
 Meta announcement, June 2021
-[^3-2]: *Qiushi*, 17 August 2021, primary
-[^3-3]: N.D. Cal., Doc. 812, 10 September 2021, pp. 2–3
-[^3-4]: 67 F.4th 946
-[^3-5]: SEC
+[^2-2]: *Qiushi*, 17 August 2021, primary
+[^2-3]: N.D. Cal., Doc. 812, 10 September 2021, pp. 2–3
+[^2-4]: 67 F.4th 946
+[^2-5]: SEC
 primary
-[^3-6]: CJEU
+[^2-6]: CJEU
 C-311/18, 16 July 2020
-[^3-7]: Irish DPC, 22 May 2023, the
+[^2-7]: Irish DPC, 22 May 2023, the
 record
-[^3-8]: February 2019, the full weights withheld into the
+[^2-8]: February 2019, the full weights withheld into the
 autumn; arXiv 1908.09203
 
 
@@ -1088,9 +1088,9 @@ Every year, in the risk-factor section of its annual report to
 shareholders, Booz Allen Hamilton — a firm of some thirty thousand
 employees, most of them holding government security clearances —
 discloses a fact it is legally obliged to characterise as a danger:
-98 per cent of its revenue comes from a single customer [^4-1]. The customer is the United States
+98 per cent of its revenue comes from a single customer [^3-1]. The customer is the United States
 government. CACI makes the equivalent disclosure at 95.7 per cent;
-Leidos at roughly 87 [^4-2].
+Leidos at roughly 87 [^3-2].
 These are not obscure firms; they are among the principal working
 parts of American intelligence, defence analysis and military
 logistics. And the disclosure describes, in the compulsory candour of
@@ -1173,7 +1173,7 @@ the class portrait this chapter is drawing: Contamine's analysis
 of the 1445 selection found "aucun bâtard, un seul roturier" —
 not one bastard, a single commoner — among the retained captains
 [TRANS. CLAUDE]; the crown hired the legitimate-born of the
-middling nobility and expelled the rest [^4-3].
+middling nobility and expelled the rest [^3-3].
 The domestication of the market for force was also a class
 settlement: the state, when it finally bought the industry,
 bought only the respectable end of it.
@@ -1193,7 +1193,7 @@ open scholarly anchor: the noble feud — the *Fehde* — was not
 lawlessness but a *legal institution*, "in principle limited to
 the holders of lordship, limited to certain kinds of hostile
 action… and limited in duration," grounded in "the basic right of
-every noble to use force to pursue his rights" [^4-4].
+every noble to use force to pursue his rights" [^3-4].
 Private war as a procedure, with declaratory formalities and
 customary bounds; the Empire's repeated *Landfrieden* ordinances
 (Mainz, 1235) attempted restriction, and the Perpetual Peace of
@@ -1230,14 +1230,14 @@ as the industry's monopsony consumer-in-chief, built the market
 it now inhabits. The scale, from the government's own ledgers: US
 federal contract obligations ran to some $755 billion in fiscal
 2024, $445 billion of it — 59 per cent — Department of Defense
-[^4-5]; the Congressional Research Service counts roughly
+[^3-5]; the Congressional Research Service counts roughly
 369,000 contractor full-time-equivalents in the department's
 reportable service portfolios, an undercount that excludes
 classified components; and across the two decades of Iraq and
 Afghanistan, contractors constituted "50% or more of the total
-DOD presence in country" [^4-6] — a one-to-one ratio of
+DOD presence in country" [^3-6] — a one-to-one ratio of
 contractor to soldier, sustained for a generation, with some
-21,000 still in Central Command's area in mid-fiscal 2024 [^4-7]. The intelligence limb is quantified more
+21,000 still in Central Command's area in mid-fiscal 2024 [^3-7]. The intelligence limb is quantified more
 carefully than its legend: the famous claim that 70 per cent of
 the intelligence budget flows to contractors is a leaked 2007
 internal estimate, disputed by ODNI at the time as anecdotal,
@@ -1251,7 +1251,7 @@ and the analysts: the United Kingdom's asylum accommodation —
 custody of persons, the state function at its most elemental —
 runs through three private contracts whose valuation the
 National Audit Office revised from £4.5 billion to £15.3
-billion [^4-8]; the statutory Brook House Inquiry
+billion [^3-8]; the statutory Brook House Inquiry
 (2023) made credible findings of mistreatment in a G4S-run
 removal centre; army logistics run through LOGCAP V's four
 indefinite-delivery contracts under an $82 billion ceiling
@@ -1348,7 +1348,7 @@ runs the other way. The state is a marginal customer, not the
 paymaster: the flagship defence ceiling of $200 million stands
 against commercial revenue reported — and this book flags
 every such figure as a reported, unaudited estimate, by outlet
-and date — in the tens of billions annualised [^4-9]; against which the largest conventional private security
+and date — in the tens of billions annualised [^3-9]; against which the largest conventional private security
 contractor is a rounding error. The caveat is stated with the
 same discipline: the labs burn capital at historic rates, and
 a fiscal base that rests on continuous fundraising is not yet
@@ -1379,17 +1379,17 @@ is the next chapter's business.
 
 
 #### Notes
-[^4-1]: Booz Allen
+[^3-1]: Booz Allen
 10-K, FY2025, verbatim
-[^4-2]: SEC 10-Ks, verbatim, fiscal years as cited
-[^4-3]: Contamine 1972: ~387
-[^4-4]: Kaminsky 2002
-[^4-5]: GAO, T1
-[^4-6]: CRS IF10600
-[^4-7]: DoD
+[^3-2]: SEC 10-Ks, verbatim, fiscal years as cited
+[^3-3]: Contamine 1972: ~387
+[^3-4]: Kaminsky 2002
+[^3-5]: GAO, T1
+[^3-6]: CRS IF10600
+[^3-7]: DoD
 quarterly census
-[^4-8]: NAO, May 2025
-[^4-9]: OpenAI ~$21–25
+[^3-8]: NAO, May 2025
+[^3-9]: OpenAI ~$21–25
 billion, The Information/Reuters, 2025–26; Anthropic's
 reported run-rate higher still, company claims via Bloomberg,
 2026
@@ -1558,7 +1558,7 @@ mutiny of 23–24 June 2023 — Rostov-on-Don and its military
 headquarters seized without resistance, armoured columns
 driving to within roughly two hundred kilometres of Moscow, at
 least thirteen Russian airmen killed in the shooting-down of
-helicopters and a command aircraft [^5-1], the whole enterprise
+helicopters and a command aircraft [^4-1], the whole enterprise
 stood down in a single evening through a Belarusian-brokered
 arrangement whose specifics, in the Institute for the Study of
 War's durable caveat, remain "unclear in the open source."
@@ -1608,7 +1608,7 @@ Anduril — a venture-built defence firm younger than the war on
 terror — was announced in February 2025 as the successor to
 Microsoft on the Army's integrated visual augmentation
 programme, a franchise of some $22 billion; the Army approved
-the contract's novation that April [^5-2], and the
+the contract's novation that April [^4-2], and the
 follow-on award came within months. Its collaborative combat
 aircraft, selected for prototyping in April 2024 alongside
 General Atomics, flew on 31 October 2025 — "clean-sheet to
@@ -1625,16 +1625,16 @@ $99.6 million (the attribution matters and is corrected here:
 an Anduril-led team including Palantir, not a Palantir award).
 The consortium reporting and the trade press now speak of "the
 new primes" — the venture-defence complex assuming the
-position the Cold War giants held [^5-3]. And on 13 June 2025 the state performed the
+position the Cold War giants held [^4-3]. And on 13 June 2025 the state performed the
 elevation ceremonially, in a form the fifteenth century would
 have understood perfectly: Detachment 201, announced by the
 Army itself — four technology executives, among them
 Palantir's chief technology officer and OpenAI's chief product
 officer, directly commissioned as lieutenant colonels of the
 Army Reserve; reportedly without recusal from Pentagon
-business touching their companies [^5-4], and with
+business touching their companies [^4-4], and with
 the Army itself, per the defence press, not entirely certain
-what the unit was for [^5-5]. The state conferring
+what the unit was for [^4-5]. The state conferring
 *rank* on the contractor class: Colleoni's life-captaincy,
 re-run as a commissioning photograph.
 
@@ -1780,14 +1780,14 @@ disclosed is where the mechanism's story starts.
 
 
 #### Notes
-[^5-1]: ISW's count; airframe
+[^4-1]: ISW's count; airframe
 totals vary by source and are flagged
-[^5-2]: DOT&E report
-[^5-3]: Reuters/FT, December 2024;
+[^4-2]: DOT&E report
+[^4-3]: Reuters/FT, December 2024;
 The Economist's "neo-primes," April 2026 — commentary, cited
 as framing
-[^5-4]: Military.com
-[^5-5]: Defense One
+[^4-4]: Military.com
+[^4-5]: Defense One
 
 
 ---
@@ -1804,12 +1804,12 @@ physicians could name, nor rave, nor take to his bed in the ordinary
 manner of royal illness. He simply ceased to function: in the clinical
 reconstruction, he "did not talk, sat slumped, had to be fed and moved,
 did not recognise or respond to others and was incapable of government
-for a year and a half" [^6-1]. When his only son was
+for a year and a half" [^5-1]. When his only son was
 born that October and presented to him around the new year, he gave no
 sign of knowing what he was being shown. The traditional precipitant,
 recorded in the sources and repeated with due caution in the modern
 clinical literature, was "an unexpected fright – news of defeat at
-Castillon on 17 July 1453" [^6-2]: the battle with which this
+Castillon on 17 July 1453" [^5-2]: the battle with which this
 book opened, the old captain dead before the gun park, the last English
 province gone. The kingdom's response to its sovereign's absence was,
 for eight months, to pretend there wasn't one. Only in March 1454 did
@@ -1900,14 +1900,14 @@ interpretive level, puts the finding with academic restraint: "There
 seems to me to be little evidence that Henry himself was the author of
 his slow and halting progression to something resembling full
 authority: indeed, the fact that it was so slow and, in certain ways,
-incomplete tends to suggest the opposite" [^6-3]. The
+incomplete tends to suggest the opposite" [^5-3]. The
 council had spent the minority constructing what Watts calls an
 artificial exercise of royal power; his description of the 1435–45
 transition is "the peaceful transfer of authority from artificial
 council to (in effect) artificial king" — the machinery of conciliar
 signatures amounting, in his phrase, to "the creation of an artificial
 royal will in periods when the king could exercise no will in person"
-[^6-4]. Read those formulations slowly, because they
+[^5-4]. Read those formulations slowly, because they
 are load-bearing for everything this book will later say about
 executive fictions. A generation before the catatonia, England was
 already being governed by a constructed royal will — a corporate
@@ -2181,7 +2181,7 @@ from roughly eight years to roughly eleven under successive waves of
 acquisition reform; that the Navy's lead frigate programme is more
 than three years late with construction effectively stalled, and
 that its shipbuilding programmes generally run one to three years
-behind schedule [^6-5]. None of this is secret, contested or unmeasured; it is
+behind schedule [^5-5]. None of this is secret, contested or unmeasured; it is
 measured annually, by the sovereign, about itself. The hollow
 crown of the fifteenth century at least required chroniclers to
 infer its condition. The modern functional variant publishes its
@@ -2190,7 +2190,7 @@ Draghi report's Part B states it without cushioning: "Of a total of
 EUR 75 billion spent by Member States between June 2022 and June
 2023, 78% of procurement spending was diverted to purchases from
 suppliers located outside the EU, out of which 63% based in the US"
-[^6-6]. A continental economy of four
+[^5-6]. A continental economy of four
 hundred and fifty million people, formally committed to strategic
 autonomy, executes three-quarters of its defence procurement abroad.
 And Japan — orderly, rich, administratively superb — publishes each
@@ -2199,7 +2199,7 @@ an incapacity no ministry can execute against: 686,061 births in 2024,
 a record low and the ninth consecutive annual decline; a total
 fertility rate of 1.15, likewise a record; a national population
 falling by the better part of a million a year, with roughly thirty
-per cent of the country over sixty-five [^6-7]. No insurgency contests the Japanese state's
+per cent of the country over sixty-five [^5-7]. No insurgency contests the Japanese state's
 territory. A function on which the state's long-run existence
 depends is nevertheless outside its executive reach.
 
@@ -2354,17 +2354,17 @@ instrument (Chapter 6), then the reckoning at home (Chapter 7).
 
 
 #### Notes
-[^6-1]: Wilkinson 2020: 177
-[^6-2]: Wilkinson 2020: 177, the trigger marked
+[^5-1]: Wilkinson 2020: 177
+[^5-2]: Wilkinson 2020: 177, the trigger marked
 "reputedly" — a hedge this book preserves
-[^6-3]: Watts, ch. 5, p. 123
-[^6-4]: Watts, ch. 5, p. 127
-[^6-5]: GAO, annual weapon systems assessments; the
+[^5-3]: Watts, ch. 5, p. 123
+[^5-4]: Watts, ch. 5, p. 127
+[^5-5]: GAO, annual weapon systems assessments; the
 frequently cited multi-trillion-dollar portfolio figure is a
 planned-investment total, not an expenditure, and is flagged as
 such
-[^6-6]: Draghi report, Part B, p. 165
-[^6-7]: MHLW Vital Statistics 2024,
+[^5-6]: Draghi report, Part B, p. 165
+[^5-7]: MHLW Vital Statistics 2024,
 provisional; Statistics Bureau
 
 
@@ -2377,7 +2377,7 @@ provisional; Statistics Bureau
 *Cy ensuit les noms des cites, villes et places, chasteaux et forteresses
 qui ont este perdus durant la charge et gouvernance du duc de Somerset* —
 "the cities, towns and places, castles, and fortresses which have been
-lost during the charge and governance of the duke of Somerset" [^7-1].
+lost during the charge and governance of the duke of Somerset" [^6-1].
 
 The document that opens with these words is not a chronicle. It is a
 ledger. Some contemporary English hand — hostile to Somerset, compiling
@@ -2389,7 +2389,7 @@ recording how it fell. Clifford Rogers, who brought the list back into the
 military-historical argument, counts one hundred strongpoints taken by the
 French in 1450, "including Château Gaillard, St-Sauveur-le-Vicomte,
 Cherbourg, Roche-Guyon, and Rouen, all of which had earlier required long
-sieges to capture" [^7-2]. A hundred fortified places in roughly a year, in a century in which
+sieges to capture" [^6-2]. A hundred fortified places in roughly a year, in a century in which
 a single first-rate siege was understood to be a season's work, and often
 a year's.
 
@@ -2399,7 +2399,7 @@ monotony: *par composition* — surrendered on terms; *desemparee pour
 doubte des ennemys* — abandoned for fear of the enemy. A minority fell
 *dassault* or *par traison*; the places that resisted at all held for
 days, not months — Touques "tint trois jours," Harcourt "tint huit jours"
-[^7-3]. And nowhere in the hundred entries —
+[^6-3]. And nowhere in the hundred entries —
 nowhere — does the list record a storming through an artillery breach,
 and nowhere a sack. The two places whose walls the guns demonstrably
 opened,
@@ -2517,7 +2517,7 @@ rather than dramatic: Contamine's judgement is that Bessonneau "seems to
 have ceased all official function on 20 February 1440, but, from 1437,
 he was practically supplanted by Jean and Gaspard Bureau" [TRANS.
 CLAUDE], and the account series bears the sequence out — Jean's accounts
-open in August 1439, Gaspard's in January 1441 [^7-4]. The titles under which they served were themselves settling into
+open in August 1439, Gaspard's in January 1441 [^6-4]. The titles under which they served were themselves settling into
 institutional form in these years: *maistre de l'artillerie du roy*,
 *garde et gouverneur de l'artillerie* — an office of the crown's
 financial administration as much as of its army, held by men who audited
@@ -2543,7 +2543,7 @@ locates the achievement exactly there: "perhaps the most important
 feature of Charles VII's gunpowder artillery train was its intricate
 organization and superior leadership. Under masters of artillery Jean
 and Gaspard Bureau… Duties of cannoneers were established, officers
-were appointed, competence was improved and pay was increased" [^7-5]. The protagonist of this chapter is not a gadget. It is a
+were appointed, competence was improved and pay was increased" [^6-5]. The protagonist of this chapter is not a gadget. It is a
 payroll.
 
 The payroll can be read. In 1442 — seven years before the campaign that
@@ -2559,7 +2559,7 @@ thousand quivers — a sufficient 3,100 livres. Contamine, printing the
 document, draws the conclusion in a sentence: "Ainsi, dès cette époque,
 l'artillerie nouvelle coûte plus cher que l'artillerie ancienne" —
 already, at this date, the new artillery cost more than the old
-[TRANS. CLAUDE] [^7-6]. Run the arithmetic and the
+[TRANS. CLAUDE] [^6-6]. Run the arithmetic and the
 gunpowder establishment — guns and powder together — stands at roughly
 twice the cost of the entire traditional arsenal: 6,398 livres against
 3,100. Rogers, working from the same page, made the point that should
@@ -2568,7 +2568,7 @@ government was spending more than twice as much on its artillery train
 as it spent on more traditional war materiel… The central governments
 of large states could afford to acquire and maintain large siege
 trains: their subjects and smaller neighbors, in general, could not"
-[^7-7]. Hold that sentence; the chapter will return to who wrote
+[^6-7]. Hold that sentence; the chapter will return to who wrote
 it and why it matters that he did.
 
 Behind the programme stood the fiscal-administrative substrate without
@@ -2606,7 +2606,7 @@ July, Pont-Audemer fell to assault and Lisieux was delivered by its
 own bishop, whose negotiated composition — the Somerset list records
 it in a single line — carried with it Orbec, Courtonne, Auvilliers,
 Crèvecœur, Le Breul, Fauguernon and a string of places toward
-Argentan that no French soldier had approached [^7-8]. Ruse, treachery, clerical politics: these were the
+Argentan that no French soldier had approached [^6-8]. Ruse, treachery, clerical politics: these were the
 war's ancient modes of taking towns, and their prominence in the
 opening weeks is a caution the chapter accepts before it argues
 anything — much of what fell in 1449–50 fell as towns had always
@@ -2615,7 +2615,7 @@ When Talbot manoeuvred against the French near Harcourt, the Berry
 Herald describes him fortifying his position "behind hedges and some
 waggons… for the conveyance of his provisions and artillery," standing
 off his enemies through the daylight and withdrawing into the castle
-by night [^7-9] — though the reader
+by night [^6-9] — though the reader
 may note, in passing, what even Talbot's baggage now carried, and what
 the herald now thought worth listing beside the food. The new
 instrument enters the record not with a fanfare but as a line in the
@@ -2643,14 +2643,14 @@ townsmen opened a gate. On 29 October the English capitulated on terms;
 in the first days of November the castle and palace were handed over;
 on 10 November Charles VII made his ceremonial entry by the Porte
 Beauvoisine, the Berry Herald riding in the procession he would later
-describe [^7-10]. Investment to
+describe [^6-10]. Investment to
 capitulation: some three weeks. And the terms tell us more than the
 duration. Somerset's garrison was not massacred through a breach; it
 negotiated its way out, at the price of 50,000 écus, a clutch of
 hostages — the greatest of them John Talbot, earl of Shrewsbury — and
 the contracted delivery of a whole cluster of subsidiary places: Arques,
 Caudebec, Tancarville, Montivilliers, Lillebonne, the Harfleur–Honfleur
-estuary forts [^7-11]. One siege, settled
+estuary forts [^6-11]. One siege, settled
 by composition, was worth half a dozen fortresses that the French never
 had to approach. The 1449 instrument was not a sack; it was a
 settlement of accounts, and the account was Normandy's.
@@ -2668,16 +2668,16 @@ played a serious part, and hard-won at that; the
 town's resistance cost him a sick army and shaped the desperate march
 that ended, by accident, at Agincourt. When the English themselves had
 to retake Harfleur in 1440, the operation took somewhere between three
-and six months, depending on which chronicler one credits [^7-12]. In December 1449 the Bureau train arrived before the same
+and six months, depending on which chronicler one credits [^6-12]. In December 1449 the Bureau train arrived before the same
 town, emplaced sixteen large bombards, and battered it for seventeen
 days, whereupon the garrison made terms; the Somerset list dates the
-surrender "the first day of the year," 1 January 1450 [^7-13]. Five weeks
+surrender "the first day of the year," 1 January 1450 [^6-13]. Five weeks
 against the town's stores and disease in 1415; a season or more in
 1440; seventeen days of bombardment in 1449. Same walls. The
 seventeen-day figure, note, is not a collapse of the defence's will
 alone: the garrison tried the sword first. When the French attempted an
 escalade, Talbot's namesake garrison threw it back — the Berry Herald
-describes the French knights driven bodily off the wall [^7-14]. Storming failed at Harfleur; the guns did not.
+describes the French knights driven bodily off the wall [^6-14]. Storming failed at Harfleur; the guns did not.
 
 And here the chronicle hands the argument its own language, in a
 sentence this book could not improve upon. Robert Blondel, the Norman
@@ -2687,7 +2687,7 @@ actually did: "crebris fulminibus repetita tormentorum improbitas
 fortalitii *moenia et clausorum animos* a pede in verticem labefactat" —
 the relentless guns, thundering again and again, shook *the walls and
 the minds of the besieged* from foot to summit [TRANS. CLAUDE]
-[^7-15]. Walls and minds in a single clause,
+[^6-15]. Walls and minds in a single clause,
 governed by a single verb. The fifteen hundred defenders, "obsidionis
 acerbitate victi" — beaten by the harshness of the siege, not through
 any breach — opened the gates on terms that let them keep their goods
@@ -2704,7 +2704,7 @@ elatum ejus animum domat" [TRANS. CLAUDE]); its captain, Curson, then
 attention, because they show how routinised the transaction had already
 become. Honfleur would be delivered on 18 February 1450 unless the
 English relieved it by battle in the open field before that date;
-hostages were given for performance [^7-16].
+hostages were given for performance [^6-16].
 This is the conditional-surrender instrument of the old siege law, but
 executed on a new clock: the garrison was no longer selling months, it
 was buying weeks. No relief came; the town was handed over on the day.
@@ -2712,7 +2712,7 @@ The composition system, moreover, had teeth beyond the wall in
 question: when Curson had earlier refused to deliver Honfleur under
 the Rouen capitulation's terms, the legal machinery ran its course and
 Talbot — the hostage for that treaty — was formally adjudged Charles's
-prisoner, "processu legitime confecto" [^7-17]. These surrenders were not battlefield improvisations. They were
+prisoner, "processu legitime confecto" [^6-17]. These surrenders were not battlefield improvisations. They were
 contracts, enforced.
 
 Blondel's Rouen chapters add the mechanism's other face: surrender
@@ -2723,14 +2723,14 @@ city below them had come to terms, they gave up the place at once,
 "formidine immoderata territi ne insultu obruantur," terrified beyond
 measure of being overwhelmed by storm, bargaining for nothing but
 their lives; Charles, "compatiens," moved by their destitution as they
-marched out, gave them a hundred livres for the road [^7-18]. No gun had been laid against
+marched out, gave them a hundred livres for the road [^6-18]. No gun had been laid against
 them. The fear of what the guns made possible — the breach, and behind
 the breach the law of war's licensed sack — did the train's work at
 one remove. At Valognes, in the Cotentin, the chronicler compresses
 the whole transaction into a phrase: the town endured the guns'
 "intolerabili tormentorum fragore," their intolerable din, only
 briefly before its lieutenant swore himself the French king's man and
-the place was given up [^7-19]. The din, note — not the breach. By the campaign's middle
+the place was given up [^6-19]. The din, note — not the breach. By the campaign's middle
 months the sound of the train was functioning as its effect.
 
 One case from the same theatre keeps the argument honest, and the
@@ -2744,7 +2744,7 @@ the huge machines sufficed to crush so solid a construction [TRANS.
 CLAUDE] — and what finally forced the issue was not artillery at all
 but pestilence in the besieging camp, which killed the count of
 Rohan's heir and the duke's own cupbearer and drove the Bretons to
-accept a composition partly on the defenders' terms [^7-20]. The lesson is the one this chapter most needs
+accept a composition partly on the defenders' terms [^6-20]. The lesson is the one this chapter most needs
 the reader to carry: guns as such collapsed nothing. A ducal train —
 and Brittany's was a serious principality's serious establishment —
 remained what artillery had been for a century: one more slow
@@ -2759,7 +2759,7 @@ durations compress toward the absurd. Bayeux, in May 1450, held for
 sixteen days, at the end of which — in the Somerset list's own words —
 "the walls being pierced by great cannon," it was "taken by
 composition"; Rogers's parallel source has "almost the entire wall…
-'pierced and brought down'" [^7-21].
+'pierced and brought down'" [^6-21].
 Avranches, in June, the same sequence in fifteen days: walls pierced by
 cannon, surrender by composition. Caen, the greatest prize after Rouen,
 was invested on 5 June by four converging corps — perhaps fifteen to
@@ -2770,7 +2770,7 @@ treaty was sealed on 24 June and the keys handed over on 1 July.
 Falaise made terms in about two weeks, its surrender conditioned — a
 detail that measures how completely the political and military
 registers had merged — on Talbot's release from his Rouen hostageship
-[^7-22]. That transaction deserves a paragraph of its own,
+[^6-22]. That transaction deserves a paragraph of its own,
 because it displays the composition system operating as a complete
 legal order. Talbot had stood hostage since October 1449 for the
 performance of Rouen's capitulation; when Curson's refusal at Honfleur
@@ -2778,7 +2778,7 @@ breached the pact, the process ran and the earl was adjudged the
 French king's prisoner; and in July 1450 his liberty became a
 negotiable term in another town's surrender — released on conditions,
 among them, the tradition records, an obligation to pilgrimage in
-Rome's jubilee year [^7-23]. The most feared soldier in the English establishment spent
+Rome's jubilee year [^6-23]. The most feared soldier in the English establishment spent
 the campaign's decisive year not on a wall but inside the surrender
 instruments' clause structure — pledged, forfeited, adjudicated,
 redeemed. And the system's last irony was still to come: the man the
@@ -2793,7 +2793,7 @@ that superlative register: the *maximum* duration any fortress achieved
 against the train in 1449–50 was shorter than the *typical* duration of
 a serious pre-artillery siege. The next year, in Gascony, even the
 records fell: Blaye's walls were "completely thrown down in many
-places" in five days [^7-24].
+places" in five days [^6-24].
 
 A century of stone was repriced in a season. But the repricing, as the
 Somerset list has already warned us, was mostly not executed at the
@@ -2811,19 +2811,19 @@ a miller, Rouen opened by its citizens. The contested falls held days.
 The two documented artillery breaches ended, like everything else, in
 composition. "Most of the one hundred strongpoints referred to," Rogers
 writes, "were actually never besieged; they surrendered rather than
-make a hopeless attempt to resist" [^7-25]. Anne Curry, the
+make a hopeless attempt to resist" [^6-25]. Anne Curry, the
 leading specialist of Lancastrian Normandy and no friend of
 revolution-talk, states the same distribution from the other side:
 "More commonly in the Reconquest, the French *preparations* for
 bombardment and assault, rather than actual bombardment, were enough to
-prompt surrender" [^7-26]. Her account of the campaign's
+prompt surrender" [^6-26]. Her account of the campaign's
 shape is the one this chapter adopts: there was "no siege as there had
 been in 1418–19. Each place was picked off, one by one, but the fall
 of the major places led to a domino effect" — and she is careful to
 add the concession that keeps the two halves of the scholarship
 joined: "That does not deny that the guns used in 1449–50 were more
 powerful than those in 1417–19, as Rogers and others have shown"
-[^7-27]. Stronger guns, fewer sieges: the two findings sit
+[^6-27]. Stronger guns, fewer sieges: the two findings sit
 together only if the guns were working on something other than
 masonry.
 
@@ -2834,7 +2834,7 @@ better. At Verneuil the garrison of the Tour Grise — thirty men —
 surrendered by treaty to the king's negotiators although, in the
 Herald's own words as his English translator rendered them, the tower
 "was impregnable so long as there was food within" ("la dite tour
-estoit imprenable tant quil y eust en dedens que mengier") [^7-28]. Read that sentence twice, because the
+estoit imprenable tant quil y eust en dedens que mengier") [^6-28]. Read that sentence twice, because the
 entire argument of this chapter sits inside it. The place was
 impregnable, by the standards under which every wall in Europe had been
 financed — and it surrendered anyway. Impregnability had been a
@@ -2844,7 +2844,7 @@ What the train destroyed was not the tower. It was the market for
 months. Even where the sword was tried and succeeded, the record bends
 back to the same instrument: at Saint-James-de-Beuvron the assault ran
 from nine in the morning until night, and on the morrow the garrison
-surrendered the fortress "their lives and goods being saved" [^7-29] — a day's storming, concluded as a
+surrendered the fortress "their lives and goods being saved" [^6-29] — a day's storming, concluded as a
 composition. The forms of violence varied; the form of the ending
 almost never did.
 
@@ -2868,7 +2868,7 @@ was actually offered, the differential is the guns.
 The second says: Normandy fell politically — the gates were opened from
 inside. Curry again: "many surrenders were forced on the English by the
 local populations… the fall of the major places led to a domino effect"
-[^7-30]. Substantially conceded — and absorbed, because the
+[^6-30]. Substantially conceded — and absorbed, because the
 reputational mechanism *requires* a transmission belt. A threat
 collapses resistance only if the threatened believe it, and the belief
 ran through Norman townsmen who could do the arithmetic as well as any
@@ -2881,20 +2881,20 @@ If popular disaffection were the sufficient cause, the reconquest
 should have stalled where the population was loyal. In 1451 the train
 moved into Gascony — English for three centuries, and, in Rogers's
 words, "despite the deeply ingrained pro-English sympathies of the
-inhabitants," all of Guienne fell rapidly [^7-31]. Fronsac,
+inhabitants," all of Guienne fell rapidly [^6-31]. Fronsac,
 "la clef de la Guyenne," the strongest English fortress in the duchy,
 surrendered by composition on 15 June 1451 without an assault; Blaye
 went in five days; Bordeaux itself treated on 12 June and received
 Dunois's army — Jean Bureau riding in the entry — on 30 June, seven
 thousand three hundred and twenty French troops in the procession
-[^7-32]. The texture of the Gascon
+[^6-32]. The texture of the Gascon
 capitulations is worth a moment, because it shows the composition
 system operating as a market whose prices everyone now knew. Blaye
 and Bourg — "the keys to Bordeaux," in the contemporary judgement
 Vale reports — "surrendered cravenly to Dunois," and the terms their
 defenders extracted included pensions from Charles VII for, among
 others, Gadifer Shorthose, the *English* mayor of Bordeaux, with his
-sub-mayor and three jurats [^7-33]. Bayonne, the second city of
+sub-mayor and three jurats [^6-33]. Bayonne, the second city of
 the English south-west, held two weeks in August. The first Bordeaux
 settlement itself was studiedly generous — privileges confirmed, the
 city spared the taxes of the French interior, judicial and minting
@@ -2922,14 +2922,14 @@ cut to some 2,500 men in the truce years; Somerset himself pleaded in
 nother in reparations, ordenaunce ne in eny maner artillerie," and
 that remedy was possible only at "inestimable costs"; the one relief
 force England scraped together sailed short of its establishment
-[^7-34]. All true, and the book claims it as its own:
+[^6-34]. All true, and the book claims it as its own:
 this is Chapter 5's hollowed sovereignty meeting Chapter 6's
 artillery, the two blades of the same shears. The fiscal state that
 could afford the train faced a fiscal state that could no longer
 afford walls, powder or relief — the asymmetry is the mechanism seen
 from the losing side. Curry's own summary sentence — "A military
 revolution needs a strong, well resourced government to produce it"
-[^7-35] — is not a rebuttal of this chapter. It is its
+[^6-35] — is not a rebuttal of this chapter. It is its
 thesis, stated by its most careful sceptic.
 
 So the evidence, taken whole — the same-wall compressions where
@@ -2969,7 +2969,7 @@ brought up and fired on the line from beyond bowshot.
 Blondel names the hand that placed them: Giraud, "regiarum machinarum
 unus magistrorum," one of the masters of the royal machines, siting his
 "binas colubrinas" against the massed formation [TRANS. CLAUDE]
-[^7-36]. The guns did not break the line.
+[^6-36]. The guns did not break the line.
 They did something subtler: they made the position untenable to stand
 in, and the English — an army whose whole tactical inheritance said
 *never leave the position* — charged out and took them. The Berry
@@ -2977,7 +2977,7 @@ Herald records the sequel from the mêlée itself: the English "took from
 them… two culverines"; the seneschal of Poitou dismounted his men,
 counter-charged, and "recovered the two said culverines," at a cost the
 Herald puts at some two hundred English dead in that passage of arms
-alone [^7-37]. While the armies were
+alone [^6-37]. While the armies were
 locked, Richemont's cavalry came in on the flank — drawn to the field,
 the tradition has it, by the sound of the firing — and the last English
 field army in Normandy was destroyed where it stood. French sources
@@ -3001,7 +3001,7 @@ returned Gascony's capital to England — and the French response began,
 characteristically, in a warehouse. Within the month, the record shows
 Jean Aubry, lieutenant of Gaspard Bureau, master of the king's
 artillery, buying pieces of artillery in Paris and forwarding them to
-Rouen [^7-38]: the institution replenishing its Norman magazines
+Rouen [^6-38]: the institution replenishing its Norman magazines
 against one contingency while the court digested another, procurement
 proceeding by delegated routine rather than royal fiat. It is a small
 entry, and its smallness is the point — by 1452 the train was not an
@@ -3015,7 +3015,7 @@ l'advis… de maistre Jehan Burreau, chevalier, seigneur de Monglat":
 besiege Castillon first, Bureau counselled, because "qui porroit avoir
 ladicte ville de Chasteillon… on averoit ladicte rivière pour luy" —
 whoever held Castillon held the river [TRANS. CLAUDE] — and "a ce faire
-se conclud tout le conseil" [^7-39]. Note what has happened
+se conclud tout le conseil" [^6-39]. Note what has happened
 to the office. The master of the artillery is no longer a technician
 summoned to serve the plan; he is the counsellor whose logistical
 geography *is* the plan, and the whole council concludes on his advice.
@@ -3029,7 +3029,7 @@ went in beside the Lidoire: a park fortified with ditch and palisade on
 three sides and the river on the fourth, the guns — perhaps two to
 three hundred pieces of all sizes; the count is not settled and this
 book will not settle it — sited to sweep the approaches; eight hundred
-francs-archers pushed forward into an abbey nearer the town [^7-40]. It was, in effect, a fortress improvised in
+francs-archers pushed forward into an abbey nearer the town [^6-40]. It was, in effect, a fortress improvised in
 days by men who had spent four years demonstrating that fortresses
 could no longer be defended — with this difference, that its garrison
 wanted to be attacked.
@@ -3041,7 +3041,7 @@ word, when they opened their gate to him, that he would meet the French
 power in the field. Escouchy shows the burgesses pressing that promise
 back on him almost word for word, and Talbot answering coldly that he
 would keep it "quant je verray que temps et heure sera" — when he
-judged the time and hour right [TRANS. CLAUDE] [^7-41].
+judged the time and hour right [TRANS. CLAUDE] [^6-41].
 The time was chosen for him. At dawn on the day of battle his advance
 guard surprised the francs-archers in the abbey and cut its way
 through them; the survivors fell back on the park. Then came the
@@ -3052,7 +3052,7 @@ CLAUDE]. Escouchy, who tells the story as a mirror-for-princes, has
 Talbot break off the mass he was hearing with the words that "never
 shall I hear the mass, or this day I shall have overthrown the company
 of the French who are in that park before me" [TRANS. CLAUDE]
-[^7-42]. The report was false — what was moving was
+[^6-42]. The report was false — what was moving was
 camp-followers, not the army [GAP: the identity of the movers is
 carried in the tradition, not pinned in the parsed passage; verify in
 Escouchy ii. before print]. As the English column approached, an old
@@ -3060,11 +3060,11 @@ gentleman of the English nation, "qui avoit beaucoup veu des fais de
 la guerre," told Talbot plainly that the report was untrue, that the
 French stood in strength behind their works, and that he would gain
 nothing that day; Talbot answered the last man to tell him the truth
-with a sword-stroke across the face, and rode on [^7-43].
+with a sword-stroke across the face, and rode on [^6-43].
 
 The defenders "afusterrent leur artillerie au lez devers dont véoient
 venir ledit Talbot" — trained their guns on the side from which they
-saw him coming [TRANS. CLAUDE] [^7-44]. The Anglo-Gascon
+saw him coming [TRANS. CLAUDE] [^6-44]. The Anglo-Gascon
 army attacked the park frontally, banners forward, trumpets sounding,
 the men crying "Talbot! Talbot! Saint-George!" — a feudal host doing
 the bravest thing it knew how to do, into massed artillery firing from
@@ -3093,7 +3093,7 @@ impetuosity, Basin's and the older tradition's, founders on a
 career of battles prudently refused; and Castillon itself Pollard
 reads as honour-bound error rather than habitual recklessness,
 while insisting that the exact battlefield sequence remains
-uncertain [^7-45]. That uncertainty is the
+uncertain [^6-45]. That uncertainty is the
 void the hypothesis lives in: no document records Talbot's intent;
 the command group that could have testified died with him; and
 Escouchy's account — our fullest — is a moral narrative, built to
@@ -3101,7 +3101,7 @@ teach princes about rash credulity. What the record does establish
 is that no commander in Europe knew the train's effect more
 intimately: Talbot had passed through the Rouen instrument as its
 hostage, his own liberty a clause in the compositions the train
-compelled, and had stood on Harfleur's wall [^7-46]; and the one documented English tactical
+compelled, and had stood on Harfleur's wall [^6-46]; and the one documented English tactical
 reflex against field artillery was seizure — the archers at
 Formigny, earlier in this section, took the culverins rather than
 endure them. A train in park, entrenched, is unassailable; a train
@@ -3129,7 +3129,7 @@ to fire "tous ensamble et à une fois" — all together, in a single
 discharge [TRANS. CLAUDE] — against the outwork, then the massed guns
 turned on the gate-tower and wall until the rubble filled great
 stretches of the moat, the attackers each carrying a faggot to the
-ditch, and only then the assault cry [^7-47]. Even the
+ditch, and only then the assault cry [^6-47]. Even the
 one storming in the record is a bombardment wearing an assault's
 clothes; and it was reserved for a place under punitive terms, whose
 captain the king had executed [GAP-flag: Vale's TRHS article dates the
@@ -3142,14 +3142,14 @@ through October. Escouchy preserves the negotiation in detail: the
 burgesses' offer of a hundred thousand écus; the king's council
 weighing, among its reasons for accepting composition, "le dangier de
 l'epedimie" — the plague then running through the region and no
-respecter of besieging armies [TRANS. CLAUDE] [^7-48].
+respecter of besieging armies [TRANS. CLAUDE] [^6-48].
 The terms were the mirror of 1451's. Where the first surrender had
 confirmed the city's privileges, the second stripped them: lives
 spared, the ringleaders banished perpetually, the English shipped
 home — and Bordeaux renouncing "tous leurs previleiges et franchises,
 pour en faire au bon plaisir du Roy," all its privileges and
 franchises, to be disposed at the king's good pleasure [TRANS. CLAUDE]
-[^7-49]. Twelve hostages — six English,
+[^6-49]. Twelve hostages — six English,
 six Gascon — secured performance from 12 October; an internal dispute
 in the city deferred the handover; and French troops entered on 19
 October 1453. The Hundred Years War, by the convention historians
@@ -3157,7 +3157,7 @@ observe, ended there, leaving Calais as England's last continental
 holding. Even then the composition system showed its edges: the
 garrisons of Benauges and Rions, included in the treaty's provisions,
 refused point-blank to honour them and had to be dealt with
-separately [^7-50] — a reminder, recorded by the same
+separately [^6-50] — a reminder, recorded by the same
 witness, that a surrender instrument bound only those who believed
 the alternative was worse, which is to say that it was, first and
 last, an instrument of the train's credibility.
@@ -3216,7 +3216,7 @@ supplies the constitutional consequence: the central governments of
 large states could afford siege trains; "their subjects and smaller
 neighbors, in general, could not" — and the governments that acquired
 them suppressed regional powers, raised taxes, and expanded the trains
-further, in a cycle he describes and this book merely names [^7-51]. The disagreement that remains is a ranking of revolutions —
+further, in a cycle he describes and this book merely names [^6-51]. The disagreement that remains is a ranking of revolutions —
 which movement of the symphony matters most — and the chapter declines
 the contest, because it does not need to win it. It needs only the
 narrower claim its sternest witness has already granted: that the
@@ -3228,9 +3228,9 @@ was not a subject but a rival consolidator, and that its train did
 not save it.)
 
 The gradualist objection deserves the same respect. Curry has warned
-that "the military revolution has been a moveable feast" [^7-52] — a concept stretched over so many centuries and so many
+that "the military revolution has been a moveable feast" [^6-52] — a concept stretched over so many centuries and so many
 candidate technologies that its explanatory edge dulls; Rogers himself
-notes how quickly the idea became "the 'new orthodoxy'" [^7-53]. Her reading of 1449–50, as we have seen, distributes the
+notes how quickly the idea became "the 'new orthodoxy'" [^6-53]. Her reading of 1449–50, as we have seen, distributes the
 causation across money, numbers, command, English exhaustion and
 Norman politics, and this chapter has adopted more of that reading
 than it has resisted. But the book's claim was never the maximal one.
@@ -3282,13 +3282,13 @@ guns, been decisive. Artillery made them decisive. The contemporaries
 saw the coupling plainly enough: Charles VII, in DeVries's summary of
 the reconquest's finance, "increased the royal budget to procure a
 larger number of new guns, and he added heavier new taxes to his
-kingdom's inhabitants to pay for this increase" [^7-54] —
+kingdom's inhabitants to pay for this increase" [^6-54] —
 guns requiring taxes, taxes requiring the administration to assess
 and collect them, the administration protected by the guns. Rogers
 describes the same figure as a cycle: governments that acquired
 artillery suppressed regional powers, raised revenue from the
 territory thereby subdued, and spent the revenue expanding the train
-and the army that marched with it [^7-55]. A flywheel of this
+and the army that marched with it [^6-55]. A flywheel of this
 kind, once spinning, does not stop at a frontier, and Chapter 10
 will follow it into the institutions it built. That inversion —
 the moment at which the sinews of administration became the sinews of
@@ -3317,84 +3317,84 @@ chapter's business.
 
 
 #### Notes
-[^7-1]: Stevenson
+[^6-1]: Stevenson
 1864: II.ii, 619
-[^7-2]: Rogers 1993: 266, citing Stevenson 1864: II.ii, 619 et
+[^6-2]: Rogers 1993: 266, citing Stevenson 1864: II.ii, 619 et
 seq.
-[^7-3]: Stevenson 1864: II.ii, 619–37
-[^7-4]: Contamine 1972, Annexe
+[^6-3]: Stevenson 1864: II.ii, 619–37
+[^6-4]: Contamine 1972, Annexe
 VIII
-[^7-5]: DeVries
+[^6-5]: DeVries
 1998: 132
-[^7-6]: Contamine 1972: 666
-[^7-7]: Rogers 1993
-[^7-8]: Stevenson 1864:
+[^6-6]: Contamine 1972: 666
+[^6-7]: Rogers 1993
+[^6-8]: Stevenson 1864:
 II.ii, 621
-[^7-9]: Berry Herald, in Stevenson 1863: 261
-[^7-10]: Berry Herald, in Stevenson 1863: 316
-[^7-11]: Stevenson 1864: II.ii; Pollard 1983
-[^7-12]: Rogers 1993:
+[^6-9]: Berry Herald, in Stevenson 1863: 261
+[^6-10]: Berry Herald, in Stevenson 1863: 316
+[^6-11]: Stevenson 1864: II.ii; Pollard 1983
+[^6-12]: Rogers 1993:
 fn 103
-[^7-13]: Rogers 1993:
+[^6-13]: Rogers 1993:
 265–66, citing Chartier ii. 178–79; Stevenson 1864: II.ii
-[^7-14]: Berry Herald,
+[^6-14]: Berry Herald,
 in Stevenson 1863: 295
-[^7-15]: Blondel, in Stevenson 1863: 152
-[^7-16]: Blondel, in Stevenson 1863: 155
-[^7-17]: Blondel, in Stevenson 1863:
+[^6-15]: Blondel, in Stevenson 1863: 152
+[^6-16]: Blondel, in Stevenson 1863: 155
+[^6-17]: Blondel, in Stevenson 1863:
 142
-[^7-18]: Blondel, in
+[^6-18]: Blondel, in
 Stevenson 1863: 136 [TRANS. CLAUDE]
-[^7-19]: Blondel, in Stevenson 1863: 213 [TRANS.
+[^6-19]: Blondel, in Stevenson 1863: 213 [TRANS.
 CLAUDE]
-[^7-20]: Blondel, in
+[^6-20]: Blondel, in
 Stevenson 1863: 143
-[^7-21]: Stevenson 1864: II.ii; Rogers 1993: 265
-[^7-22]: Pollard 1983
-[^7-23]: Pollard 1983 [GAP: the jubilee stipulation is
+[^6-21]: Stevenson 1864: II.ii; Rogers 1993: 265
+[^6-22]: Pollard 1983
+[^6-23]: Pollard 1983 [GAP: the jubilee stipulation is
 carried via the DNB digest; confirm at page level in Pollard before
 print]
-[^7-24]: Rogers 1993: 265–66, citing Chartier ii. 254–56;
+[^6-24]: Rogers 1993: 265–66, citing Chartier ii. 254–56;
 Vale 1969 dates the fall by 3 May 1451
-[^7-25]: Rogers 1993: 266
-[^7-26]: Curry 2010: 187
-[^7-27]: Curry 2010: 187
-[^7-28]: Berry
+[^6-25]: Rogers 1993: 266
+[^6-26]: Curry 2010: 187
+[^6-27]: Curry 2010: 187
+[^6-28]: Berry
 Herald, in Stevenson 1863: 265
-[^7-29]: Berry
+[^6-29]: Berry
 Herald, in Stevenson 1863: 265
-[^7-30]: Curry 2010: 187
-[^7-31]: Rogers 1993: 266
-[^7-32]: Vale 1969, citing Escouchy i. 356–58
-[^7-33]: Vale 1969
-[^7-34]: Curry 2010: 185–87
-[^7-35]: Curry 2010: 187
-[^7-36]: Blondel, in Stevenson 1863: 172
-[^7-37]: Berry Herald, in Stevenson 1863: 337
-[^7-38]: Vale 1969
-[^7-39]: Escouchy, ii. 33
-[^7-40]: Escouchy,
+[^6-30]: Curry 2010: 187
+[^6-31]: Rogers 1993: 266
+[^6-32]: Vale 1969, citing Escouchy i. 356–58
+[^6-33]: Vale 1969
+[^6-34]: Curry 2010: 185–87
+[^6-35]: Curry 2010: 187
+[^6-36]: Blondel, in Stevenson 1863: 172
+[^6-37]: Berry Herald, in Stevenson 1863: 337
+[^6-38]: Vale 1969
+[^6-39]: Escouchy, ii. 33
+[^6-40]: Escouchy,
 ii. 33; ch06 memo §5
-[^7-41]: Escouchy, ii. 34–35
-[^7-42]: Escouchy, ii. 38–39
-[^7-43]: Escouchy, ii. 39
+[^6-41]: Escouchy, ii. 34–35
+[^6-42]: Escouchy, ii. 38–39
+[^6-43]: Escouchy, ii. 39
 [TRANS. CLAUDE]
-[^7-44]: Escouchy, ii. 39
-[^7-45]: Pollard 1983; 2005 preface
-[^7-46]: Berry Herald, in
+[^6-44]: Escouchy, ii. 39
+[^6-45]: Pollard 1983; 2005 preface
+[^6-46]: Berry Herald, in
 Stevenson 1863: 295
-[^7-47]: Escouchy, ii. 64–65
-[^7-48]: Escouchy, ii. 73–77
-[^7-49]: Escouchy, ii. 75–77
-[^7-50]: Escouchy, ii. 77 ff.
-[^7-51]: Rogers
+[^6-47]: Escouchy, ii. 64–65
+[^6-48]: Escouchy, ii. 73–77
+[^6-49]: Escouchy, ii. 75–77
+[^6-50]: Escouchy, ii. 77 ff.
+[^6-51]: Rogers
 1993
-[^7-52]: Curry 2010:
+[^6-52]: Curry 2010:
 171
-[^7-53]: Rogers 1993:
+[^6-53]: Rogers 1993:
 242
-[^7-54]: DeVries 1998: 132
-[^7-55]: Rogers 1993
+[^6-54]: DeVries 1998: 132
+[^6-55]: Rogers 1993
 
 
 ---
@@ -3423,12 +3423,12 @@ article's full text and exact phrasing await retrieval]). Among the
 thousands who would later sue out pardons were a knight, two members of
 Parliament, eighteen squires, gentlemen in numbers, yeomen,
 husbandmen, craftsmen, village constables — the office-holding,
-property-holding middle of one of England's richest counties [^8-1]. Kriehn, who worked through the pardon lists in the 1890s and
+property-holding middle of one of England's richest counties [^7-1]. Kriehn, who worked through the pardon lists in the 1890s and
 counted "about 2203 names of the men of Kent and Sussex alone," put
 the finding in a sentence the modern scholarship has refined but not
 reversed: "Cade's rebels were not drawn from the lower classes alone,
 but from the middle classes, the gentry and even from the nobility"
-[^8-2].
+[^7-2].
 
 That composition is this chapter's subject, because it recurs. The
 neomedieval literature this book builds on has next to nothing to say
@@ -3467,10 +3467,10 @@ mass and killed in June. Watts's account of the court regime of
 concentrating access and patronage in a narrow circle around a king
 who could not himself govern, and therefore unable to legitimate
 itself across the territorial interests it taxed and commanded
-[^8-3]. Kent, the county through which the wreckage of the
+[^7-3]. Kent, the county through which the wreckage of the
 French war physically arrived — the truce-era discharges of 1446–48,
 some two thousand soldiers put out of employment, many of whom, in
-Curry's summary, "took to living off the land" [^8-4],
+Curry's summary, "took to living off the land" [^7-4],
 followed by the refugee flow from Rouen through the Kentish ports —
 had particular reasons to feel the general failure, and particular
 men to articulate it. The evacuation of the Norman garrisons proper,
@@ -3681,7 +3681,7 @@ and "no lord but the Emperor" — compresses the restorationist
 paradox into six words, the most radical demand in the set framed as
 loyalty to the oldest authority available; at Lehen in 1513 and in
 Lower Alsace in 1517, each conspiracy betrayed and suppressed before
-rising [^8-5]. In Württemberg in 1514, the
+rising [^7-5]. In Württemberg in 1514, the
 "Armer Konrad" rising gives the pattern its most legible fiscal
 mechanics: Duke Ulrich, in debt, imposed new consumption taxes on
 meat, wine and grain and adjusted the public weights to sweeten the
@@ -3689,7 +3689,7 @@ yield; the Remstal rose in May; the revolt was suppressed by July;
 and the settlement — the Treaty of Tübingen of 1514 — had the
 estates assume the ducal debt in exchange for constitutional
 rights, the concession-within-consolidation pattern executed in a
-single document [^8-6]. The urban
+single document [^7-6]. The urban
 theatres ran on the same clock: Cologne's guild risings of 1481,
 1512 and 1513 — the documented cases; the tradition of a wave in
 the 1460s and 70s could not be verified and is not asserted here —
@@ -3763,7 +3763,7 @@ political-science framework already treats the wave as one
 phenomenon: Mudde's thin-centred ideology of the pure people
 against the corrupt elite; the Norris–Inglehart cultural-backlash
 account, in which support flows from once-dominant groups whose
-"hegemonic status, power, and privilege are fading" [^8-7]; Fetzer's austerity findings and Margalit's adjudication
+"hegemonic status, power, and privilege are fading" [^7-7]; Fetzer's austerity findings and Margalit's adjudication
 (economic insecurity real but "modest" as sole explanation; the
 backlash cultural and economic, interacting). On composition — the
 limb of the pattern this book most needs — the reviewed
@@ -3776,11 +3776,11 @@ among the welfare-dependent; Green and Pahontu's finding that some
 73 per cent of Leave voters were homeowners, property functioning
 as "self-insurance"; the Trump primary electorate's median
 household income of roughly $72,000 against a national median of
-roughly $56,000 [^8-8]. The pattern has named
+roughly $56,000 [^7-8]. The pattern has named
 exceptions and the chapter names them: Italy's Five Star Movement
 cuts against it — precarity *raised* the odds of M5S support 1.68
 times, and the movement ran strongest in the distressed South
-[^8-9]; the gilets jaunes complicate it — working and
+[^7-9]; the gilets jaunes complicate it — working and
 lower-middle, low-credential, peri-urban; the AfD's class base is a
 live scholarly exchange (Lengfeld versus Lux), cited as an
 exchange; and Brexit is two-sided in a way the honest version must
@@ -3791,10 +3791,10 @@ bulk, and says so.
 
 The idiom, meanwhile, is restorationist wherever one samples it —
 and this limb needs no recalibration. "Take back control" was the
-Leave voters' own first-ranked reason [^8-10]; the gilets jaunes demanded the "refoundation" — not the
+Leave voters' own first-ranked reason [^7-10]; the gilets jaunes demanded the "refoundation" — not the
 abolition — of representation; the carbon-tax revolt that ignited
 them is traced, in the best study, to distrust of the taxing state
-rather than to climate denial [^8-11]. The
+rather than to climate denial [^7-11]. The
 grievance is fiscal reach and administrative distance; the demand
 is that the state be returned to its imagined former owners; the
 composition is the anxious middle. Three of the form's four limbs,
@@ -3830,11 +3830,11 @@ restorationist programme actually took control of a major state's
 machinery — has been followed not by a retrenchment of the state's
 fiscal reach but by a tax take projected by the government's own
 forecaster to approach "a post-war high of 37.1% of GDP by
-2028-29" [^8-12]. The gilets jaunes won their carbon-tax
+2028-29" [^7-12]. The gilets jaunes won their carbon-tax
 retreat and a December package, and the administrative programme
 they rose against continued. Where populists have taken power, the
 peer-reviewed record finds institutional erosion and growth costs
-[^8-13] — damage, in other words, but
+[^7-13] — damage, in other words, but
 not demolition: nowhere in the gathered record has the wave
 durably reduced the state's fiscal-administrative reach. The
 demand these movements make of the state, here as in the
@@ -3864,27 +3864,27 @@ of the chapter that follows.
 
 
 #### Notes
-[^8-1]: Kriehn
+[^7-1]: Kriehn
 1892: 5; the gentry skeleton is carried with attribution to Griffiths,
 pp. 619–20 [GAP: confirm at page level]; the finer occupational
 percentages await Harvey's pardon-roll analysis and are not printed
 here
-[^8-2]: Kriehn 1892: 5
-[^8-3]: Watts, ch. 6
-[^8-4]: Curry 2010: 186–87
-[^8-5]: DHI/BNU institutional accounts
-[^8-6]: Landesarchiv Baden-Württemberg
-[^8-7]: Norris &
+[^7-2]: Kriehn 1892: 5
+[^7-3]: Watts, ch. 6
+[^7-4]: Curry 2010: 186–87
+[^7-5]: DHI/BNU institutional accounts
+[^7-6]: Landesarchiv Baden-Württemberg
+[^7-7]: Norris &
 Inglehart, ch. 1 — cited by chapter from the pre-publication text
 in repo
-[^8-8]: Norris & Inglehart; Green & Pahontu 2024; Silver
+[^7-8]: Norris & Inglehart; Green & Pahontu 2024; Silver
 2016, corroborated by Manza & Crowley 2017
-[^8-9]: Girardi 2024
-[^8-10]: Ashcroft polling: 49 per
+[^7-9]: Girardi 2024
+[^7-10]: Ashcroft polling: 49 per
 cent
-[^8-11]: Douenne & Fabre 2022
-[^8-12]: OBR, March 2024
-[^8-13]: Funke, Schularick & Trebesch 2023
+[^7-11]: Douenne & Fabre 2022
+[^7-12]: OBR, March 2024
+[^7-13]: Funke, Schularick & Trebesch 2023
 
 
 ---
@@ -3905,7 +3905,7 @@ the nombre of a thowsand persones… with curesse, brigaunders, jakks…
 gonnes… long cromes to drawe doun howsis… with which thei myned down
 the walles… and so came in to the seid mansion, the wiff of your
 besecher at that tyme beyng ther in, and xij. persones with her; the
-which persones thei dreve oute" [^9-1]. The thousand is
+which persones thei dreve oute" [^8-1]. The thousand is
 the plaintiff's number — a partisan figure in a pleading, and this
 book cites it as such — but the guns, the wall-mining and the eviction
 are the uncontested core, and so is what the petition says next, which
@@ -3913,7 +3913,7 @@ is the fifteenth century explaining its own legal system in one
 clause. Paston tells the crown plainly why he has not simply gone to
 law: "your seid besecher is not abille to sue the commone lawe in
 redressyng of this heynos wrong, for the gret myght and alyaunce of
-the seid Lord" [^9-2]. The courts existed. The writs
+the seid Lord" [^8-2]. The courts existed. The writs
 ran. And against a lord of sufficient might and alliance, they did
 not work — a fact Paston states without outrage, as a competent man
 states the weather.
@@ -3957,12 +3957,12 @@ wrete to hym for to shewe favour to the Lord Moleyns and hese men…
 Also he seythe that the Lord Molyns hath sent hym a letter, and my
 Lord of Norffolk anoder, for to shew favour in these indytements, he
 darnot abide the joporte of that, that he shuld offende the Kinges
-commaundment" [^9-3]. The king's writ, the
+commaundment" [^8-3]. The king's writ, the
 magnate's letter and the sheriff's fear, operating as one machine:
 royal justice was not absent from this world — it was *enlisted*, a
 factional resource like any other, and the Pastons' own bill to the
 Chancellor names the enlistment's legal arts in the statute's
-vocabulary: "mayntenaunces, champerties, embraceries" [^9-4] —
+vocabulary: "mayntenaunces, champerties, embraceries" [^8-4] —
 the judicial face, as Chapter 3 observed, of the same affinity
 system that retained the armed men.
 
@@ -3985,7 +3985,7 @@ house, the siege of Powderham in 1455, the Berkeley–Talbot feud
 factions" at Nibley Green in 1469, to Hornby Castle taken in 1471
 with "the cannon *Mile End*" — subjects bombarding subjects,
 "without ever involving the king," and the fallen Paston obliged
-to surrender his own guns to the victorious duke [^9-5]. The most advanced weapon of the age, privately owned,
+to surrender his own guns to the victorious duke [^8-5]. The most advanced weapon of the age, privately owned,
 privately aimed, resolving a probate dispute: Chapter 5's hollow
 sovereignty, seen from below.
 
@@ -4011,7 +4011,7 @@ does not prohibit the feud. It regulates its notice period:
 challenges are invalid unless "the challenge, three natural days
 before, shall have been intimated personally to the challenged man
 himself, or publicly in the place where he has been accustomed to
-reside" [^9-6]. The *Absage* —
+reside" [^8-6]. The *Absage* —
 the formal defiance — separated lawful feud from mere robbery; the
 feud was a procedure, with declaratory forms, customary limits on
 targets and duration, and a jurisprudence. What to make of this is
@@ -4033,7 +4033,7 @@ jurisdiction, claimed and exercised privately — and the Empire's
 attempt to end it makes the chapter's sequencing argument in the
 negative. At Worms in 1495 Maximilian's diet enacted the *Ewiger
 Landfriede* — the Perpetual Peace, "noteworthy for its definitive
-abolition of the right of feud" [^9-7] — and erected,
+abolition of the right of feud" [^8-7] — and erected,
 in the same session, the Reichskammergericht as the standing
 substitute forum: prohibition and replacement in one act, on
 paper as complete an assertion of the public sword as Europe had
@@ -4096,7 +4096,7 @@ at least twenty-two houses — offered permanent refuge. The scale
 is now counted: over 1,800 sanctuary seekers in the records
 between 1394 and 1557; Durham's register alone, across sixty
 years, holds petitions from 283 men admitting involvement in 195
-homicides [^9-8]. Benefit
+homicides [^8-8]. Benefit
 of clergy: the literate defendant who could read the neck-verse —
 Psalm 51, *Miserere mei Deus* — passed to the church's gentler
 justice; the Tudor statutes narrowed it (one use for laymen,
@@ -4114,7 +4114,7 @@ pedigree (Berman; Benson; Trakman; the economists' celebrated
 Champagne-fairs model). The medievalists have dismantled it.
 Kadens: "The law merchant myth is false on many levels… the
 most widespread aspects of commercial law arose from contract
-and statute rather than custom" [^9-9]; Sachs, from the
+and statute rather than custom" [^8-9]; Sachs, from the
 fullest surviving fair-court records, shows the merchants of St
 Ives "substantially subject to local control," custom varying
 town by town. What existed was real and plural — merchant
@@ -4133,7 +4133,7 @@ plurality inside the crown itself. The period synthesis is
 Johnson's, and it can stand for the whole section: "Late-
 medieval England was a world of a thousand law-courts… a society
 of dense legal pluralism, with thousands of overlapping and
-occasionally conflicting institutions" [^9-10].
+occasionally conflicting institutions" [^8-10].
 
 ## VI.
 
@@ -4144,12 +4144,12 @@ predicted it. Cerny, in 1998, forecast that the multilayering of
 institutions would lead, "at best, to the emergence of quasi-public,
 quasi-private dispute settlement regimes seeking to arbitrate
 competing claims for rights and privileges in this patchwork system"
-[^9-11] — and his sixth characteristic, the *zones grises*,
+[^8-11] — and his sixth characteristic, the *zones grises*,
 foresaw widening "escape routes… for those operating more or less
 'outside the law'," with "exit from political society… a more viable
 option for a wider range of actors and activities," mainstream
 activity expanding "as much through grey zones as through legitimate
-means, much as the so-called 'black economy' has done" [^9-12]. Twenty-eight years on, the audit can be run from the fora's
+means, much as the so-called 'black economy' has done" [^8-12]. Twenty-eight years on, the audit can be run from the fora's
 own annual reports.
 
 The private judiciary of high-value commerce, by its own count: the
@@ -4158,10 +4158,10 @@ dispute in the new cases and a pending caseload of $354 billion —
 its own "all-time record"; the LCIA took 362 referrals, 95 per cent
 international, from parties in 101 jurisdictions; Hong Kong's centre
 503 cases; Singapore's 625, with US$11.86 billion in dispute
-[^9-13]. Beneath the caseloads runs the
+[^8-13]. Beneath the caseloads runs the
 enforcement lattice that makes a private award better than most
 public judgments: the New York Convention, 172 contracting states
-[^9-14], under which the world's courts stand
+[^8-14], under which the world's courts stand
 ready to execute the decisions of tribunals the parties chose. (The
 famous claim that "90 per cent of cross-border contracts" contain
 arbitration clauses is corrected here to what the survey actually
@@ -4170,7 +4170,7 @@ arbitration in 2021, 87 in 2025 — a preference statistic from
 inside the guild, and cited as such.) Above the commercial tier
 sits the parallel judiciary of capital against sovereigns that
 Chapter 1 met at Próspera: 1,440 known treaty-based investor–state
-arbitrations by mid-2025 [^9-15], ICSID past its thousandth
+arbitrations by mid-2025 [^8-15], ICSID past its thousandth
 registered case — franchise jurisdiction, the medieval merchant
 would have said, chartered in treaty.
 
@@ -4184,12 +4184,12 @@ cases in ten it chose to hear (Board annual reports). Beneath that
 appellate spire, the mass jurisdiction: Meta removes millions of
 pieces of content daily, conceding in its own statement that "one
 to two out of every 10 of these actions may have been mistakes"
-[^9-16]. Apple's transparency report — disclosed
+[^8-16]. Apple's transparency report — disclosed
 under the *Cameron v. Apple* settlement, a provenance this book
 gets right because it matters — counts, for calendar 2024:
 7,771,599 app submissions reviewed; 1,931,400 rejected; 82,509
 apps removed; 26,224 removal appeals; 421 restorations; and
-128,961,839 customer accounts terminated [^9-17]. Read
+128,961,839 customer accounts terminated [^8-17]. Read
 those numbers as a legal system, because functionally they are
 one: adjudication at the scale of a serious jurisdiction,
 administered with the procedural depth of a customer-service
@@ -4225,7 +4225,7 @@ trillion reported across borders in a single year (EU Tax
 Observatory 2024, verbatim). Pistor's frame closes the survey:
 global capital is coded in the modules of private law, and the
 coding runs through "two domestic legal systems, the laws of
-England and those of New York State" [^9-18] — the
+England and those of New York State" [^8-18] — the
 plural order's true centre of gravity being not no-law but
 chosen-law.
 
@@ -4306,10 +4306,10 @@ and effective a year later. The same bloc licenses and caps the
 platform courts in one clause: the DSA compels internal
 complaint systems and certifies out-of-court settlement bodies
 which "shall not have the power to impose a binding settlement"
-[^9-19] — private adjudication permitted, its bindingness
+[^8-19] — private adjudication permitted, its bindingness
 reserved to the state. The first DMA fines have issued (April
 2025); the crypto experiment has been brought under a full
-regulatory code [^9-20], its
+regulatory code [^8-20], its
 flagship operators processed through the public criminal law —
 Binance's $4,316,126,163 resolution (November 2023), its
 founder's successor-in-interest at FTX sentenced to
@@ -4341,29 +4341,29 @@ next chapter's business.
 
 
 #### Notes
-[^9-1]: Gairdner, vol. II
-[^9-2]: Gairdner, vol. II
-[^9-3]: Gairdner, vol. II, no. 193
-[^9-4]: Gairdner
-[^9-5]: DeVries 1998:
+[^8-1]: Gairdner, vol. II
+[^8-2]: Gairdner, vol. II
+[^8-3]: Gairdner, vol. II, no. 193
+[^8-4]: Gairdner
+[^8-5]: DeVries 1998:
 144
-[^9-6]: Golden Bull, ch. 17, Avalon translation
-[^9-7]: GHDI translation
-[^9-8]: McSheffrey's project; the Durham figures T2
-[^9-9]: Kadens 2012
-[^9-10]: Johnson, *Law in
+[^8-6]: Golden Bull, ch. 17, Avalon translation
+[^8-7]: GHDI translation
+[^8-8]: McSheffrey's project; the Durham figures T2
+[^8-9]: Kadens 2012
+[^8-10]: Johnson, *Law in
 Common*
-[^9-11]: Cerny 1998: 52
-[^9-12]: Cerny 1998:
+[^8-11]: Cerny 1998: 52
+[^8-12]: Cerny 1998:
 57–58
-[^9-13]: SIAC Annual Report 2024, primary
-[^9-14]: UNCITRAL, as of July 2026
-[^9-15]: UNCTAD
-[^9-16]: Meta, December 2024
-[^9-17]: Apple, primary
-[^9-18]: Pistor 2019: 132
-[^9-19]: DSA, Art. 21
-[^9-20]: MiCA, fully applicable December 2024
+[^8-13]: SIAC Annual Report 2024, primary
+[^8-14]: UNCITRAL, as of July 2026
+[^8-15]: UNCTAD
+[^8-16]: Meta, December 2024
+[^8-17]: Apple, primary
+[^8-18]: Pistor 2019: 132
+[^8-19]: DSA, Art. 21
+[^8-20]: MiCA, fully applicable December 2024
 
 
 ---
@@ -4380,7 +4380,7 @@ The Parliament Roll preserves their report. They had pressed Henry VI
 "by all the waies and meanes that they cowede thynke" to obtain some
 instruction, some preference, some sign — "but they cowede gete noo
 answere ne signe" — and this fact, the fact of nothing, was formally
-entered "of record" [^10-1]. Constitutions do not usually
+entered "of record" [^9-1]. Constitutions do not usually
 document their own voids; the entry exists because the void had to be
 proved before anything could be built over it. Two days later the
 lords elected Richard of York "Protectorem & Defensorem… quamdiu Regi
@@ -4404,7 +4404,7 @@ Imbecility of Infancy or old Age and other natural Defects"; and "his
 Body politic is a Body that cannot be seen or handled… utterly void
 of Infancy and old Age and other natural Defects" — so that "what the
 King does… cannot be invalidated or frustrated by any Disability in
-his natural Body" [^10-2]. Blackstone
+his natural Body" [^9-2]. Blackstone
 would carry the maxim into the classical constitution: the king never
 dies. It is elegant, it is functional, and it contains a single
 unexamined premise on which everything in this chapter turns: the
@@ -4443,7 +4443,7 @@ bodies were "metaphysiological nonsense," he wrote; it was "an
 idle jest to say that the king never dies" when the demise of the
 crown in fact stopped "all the wheels of state" — parliament
 dissolved, offices vacated, the peace itself in abeyance until the
-successor's accession [^10-3]. Maitland's point is
+successor's accession [^9-3]. Maitland's point is
 not that the fiction was silly but that it was *strained* — a
 patch over a personal constitution's structural exposure — and
 strained fictions are diagnostic instruments: where they tear
@@ -4474,7 +4474,7 @@ nor of Regent, nor noo name that shall emporte auctorite of
 governaunce of the lande; but the seid name of Protectour and
 Defensour, the whiche emporteth a personell duete of entendaunce
 to the actuell defence of this land… duryng the Kynges pleaser"
-[^10-4]. Not tutor, not lieutenant, not
+[^9-4]. Not tutor, not lieutenant, not
 governor, not regent — four rejected titles, each rejected
 because it implied governance; and the accepted title imported
 only a personal duty of attendance to defence, revocable at the
@@ -4487,7 +4487,7 @@ verified formulations name what the same political nation had
 already been doing for a generation: the minority council's
 "artificial king," the conciliar manufacture of an "artificial
 royal will in periods when the king could exercise no will in
-person" [^10-5]. England could simulate the royal
+person" [^9-5]. England could simulate the royal
 will when custom licensed it — for a child — and could not
 lawfully institutionalise the simulation for a broken adult.
 The fiction permitted a fiction, and forbade a solution.
@@ -4594,9 +4594,9 @@ The documentation is the institutions' own. Meta's proxy statement
 discloses that its founder holds 99.8 per cent of the Class B
 shares and 60.8 per cent of the company's total voting power, and
 that Meta is, in the exchange's formal category, a "controlled
-company" [^10-6]. Alphabet's founders jointly hold
+company" [^9-6]. Alphabet's founders jointly hold
 some 52.7 per cent of its votes through the same dual-class
-mechanism [^10-7]. Nor are these legacy
+mechanism [^9-7]. Nor are these legacy
 anomalies: by Ritter's count, 48.4 per cent of American
 technology flotations in 2025 carried dual-class structures,
 against essentially none in 1980 — the personal constitution is
@@ -4643,7 +4643,7 @@ six of eleven at the count in the open literature —
 "informal, off-the-books mechanisms" of personal rule, several
 of which were then upgraded into formal Commissions: the
 routinisation datum, personal authority being re-clothed in
-institutional dress even as it concentrates [^10-8].
+institutional dress even as it concentrates [^9-8].
 And the American experiment in personalised authority *inside*
 the state ran its full arc within a single year, and is
 recorded here as the dated episode it is: a department of
@@ -4670,7 +4670,7 @@ counterweight into law — the Digital Services Act requires the
 largest platforms to establish "a compliance function,
 independent from their operational functions," whose head "shall
 not be removed without prior approval of the management body"
-[^10-9]: statute compelling an internal check on founder
+[^9-9]: statute compelling an internal check on founder
 discretion, the conciliar ordinance of 1403 re-enacted as
 European regulation. The AI governance layer is acquiring
 offices — the UK's institute, its American counterpart, the EU
@@ -4682,7 +4682,7 @@ placing the institution's long-run interest beyond any single
 natural body (primary announcement). Even the securities
 regulator has formalised the two-body problem: since 2009, CEO
 succession is a governance matter shareholders may raise, not
-"ordinary business" the board may keep to itself [^10-10].
+"ordinary business" the board may keep to itself [^9-10].
 
 And the substitutes still fail against the person. The test
 case ran in November 2023, and this book reads it evenly
@@ -4715,17 +4715,17 @@ account books.
 
 
 #### Notes
-[^10-1]: Rot. Parl. v
-[^10-2]: Plowden, *Commentaries*, 212a–213; the marginal
+[^9-1]: Rot. Parl. v
+[^9-2]: Plowden, *Commentaries*, 212a–213; the marginal
 gloss: "The King is always adjudged in Law of full Age"
-[^10-3]: Maitland 1901, open
-[^10-4]: Rot. Parl. v. 242; Lander
-[^10-5]: Watts, ch. 5, p. 127
-[^10-6]: Meta DEF 14A, 2026
-[^10-7]: Alphabet DEF 14A, 2026
-[^10-8]: Miller, Hoover
-[^10-9]: DSA, Art. 41
-[^10-10]: SEC Staff
+[^9-3]: Maitland 1901, open
+[^9-4]: Rot. Parl. v. 242; Lander
+[^9-5]: Watts, ch. 5, p. 127
+[^9-6]: Meta DEF 14A, 2026
+[^9-7]: Alphabet DEF 14A, 2026
+[^9-8]: Miller, Hoover
+[^9-9]: DSA, Art. 41
+[^9-10]: SEC Staff
 Legal Bulletin 14E
 
 
@@ -4741,7 +4741,7 @@ We know when it was issued to within a few weeks: Contamine, who
 reconstructed the sequence, places the lost ordonnance between an act
 given at Nancy on 9 January 1445 and the surviving text of
 Louppy-le-Châtel of 26 May 1445, and before 20 April — "on peut avancer
-la fin mars," the end of March 1445 [^11-1]. We
+la fin mars," the end of March 1445 [^10-1]. We
 know what it did, because the chroniclers Thomas Basin and Mathieu
 d'Escouchy describe the result and the Louppy text presupposes it: the
 retention, in permanent royal pay, of some fifteen hundred lances —
@@ -4794,19 +4794,19 @@ the opposite object: a force that existed *between* campaigns. The
 lance fournie, as Contamine enumerates it from the ordinances, was
 "composée de six hommes et de six chevaux" — the man-at-arms in full
 harness, his coutillier, a page, two mounted archers and a valet
-[^11-2]; of the six, three or four were true combatants,
+[^10-2]; of the six, three or four were true combatants,
 and the establishment drifted upward in the manner of all
 establishments — a seventh horse tolerated for baggage, up to an
-eighth by 1484 [^11-3]. Fifteen hundred lances is the
+eighth by 1484 [^10-3]. Fifteen hundred lances is the
 well-attested strength, publicly notorious enough that an advocate
 before the Cour des aides could cite it in 1449 and the Estates of
 1484 could demand a return to it; the tidy structure of fifteen
 companies of one hundred is Basin's precision, and this book carries
-it as his [^11-4]. A royal act of 25 April 1446
+it as his [^10-4]. A royal act of 25 April 1446
 confirms the scale and adds a nuance the chapter needs: it speaks of
 maintaining "jusqu'à la conclusion de la paix" — until the conclusion
 of peace — 1,500 lances for Languedoïl and 500 for Languedoc, *not
-counting* the troops on the Normandy and Guyenne frontiers [^11-5]. Two things follow. The
+counting* the troops on the Normandy and Guyenne frontiers [^10-5]. Two things follow. The
 establishment was larger than its famous number; and the founding
 frame was still war-duration, not perpetuity. Permanence was not
 proclaimed. It happened — the companies simply were not disbanded, by
@@ -4841,7 +4841,7 @@ sous; the petite ordonnance ran at 10 and 5; and among the
 specialists, the *canonnier de garnison* drew 8 livres — the gunner
 priced above the archer and below the man-at-arms, a wage grade for
 a technical trade that had not existed in the schedules a
-generation earlier [^11-6]. And the grid's
+generation earlier [^10-6]. And the grid's
 prehistory measures what it replaced: a mandement of the Dauphin
 Charles from about the summer of 1422 records war so debasing the
 coinage that it had become "comme de nulle valeur" — as if of no
@@ -4849,7 +4849,7 @@ value [TRANS. CLAUDE] — his troops unpayable and "réduits au
 pillage," and cuts the traditional tariff by a third to a half;
 through 1425–37 the scales wobble incoherently; a fresh tariff
 appears at the siege of Meaux in 1439; and then the 1445 grid holds
-[^11-7]. Between the 1422 document and the 1445
+[^10-7]. Between the 1422 document and the 1445
 one lies the whole transformation this chapter describes: from a
 crown that could not pay its soldiers in money worth having, to a
 crown whose monthly wage-grid was stable enough to hold for a
@@ -4895,7 +4895,7 @@ once primed, no longer needed the Estates' hand on the handle. The
 yield arc is carried at tertiary level pending the fiscal
 historians, and flagged as such: roughly 1.8 million livres at the
 end of Charles VII's reign; in 1481, near the end of Louis XI's,
-the taille alone bringing in 4.6 million [^11-8] — a rough tripling in a generation. And then the record
+the taille alone bringing in 4.6 million [^10-8] — a rough tripling in a generation. And then the record
 supplies its own control experiment. At the Estates of Tours in
 1484 — the first Estates General in decades, meeting over a royal
 minority — the assembled realm asserted itself: the taille was
@@ -4948,16 +4948,16 @@ appointés pour les gages des canonniers, aides canonniers et
 autres officiers de ladicte artillerie du Roy" — totalled 24,236
 livres tournois for the year's wages, and it was the
 *twenty-second* account of its series: the permanent
-artillery-wage line runs back to about 1469 [^11-9]. The *extraordinaire* — campaign expenditure — for 1489
+artillery-wage line runs back to about 1469 [^10-9]. The *extraordinaire* — campaign expenditure — for 1489
 totalled 111,733 livres, drawn across the généralités, Normandy
-and Picardy carrying the largest assignments [^11-10]. In 1489 the artillery's expenditures reached 8 per cent
-of all French military spending [^11-11]. The
+and Picardy carrying the largest assignments [^10-10]. In 1489 the artillery's expenditures reached 8 per cent
+of all French military spending [^10-11]. The
 administration of these accounts — keeping, payment, control,
 certification — cost 3,667 livres, 3.3 per cent of the total,
 and employed about thirty clerks; the ordinaire was paid
 quarterly, "comme c'est la règle pour tout ce qui ressortit à
 l'armée permanente" — as is the rule for everything belonging to
-the permanent army [TRANS. CLAUDE] [^11-12]. Pause
+the permanent army [TRANS. CLAUDE] [^10-12]. Pause
 on what that sentence attests. There was a *rule*, and the guns
 were inside it: the most advanced weapons system in Europe was a
 quarterly payroll with a three-per-cent administrative overhead,
@@ -4968,16 +4968,16 @@ establishment was small — hardly more than 150 names, swollen by
 mass extraordinary labour in campaign season — and it was
 long-service: of thirty-nine cannoneers attested in 1469, nine
 were still serving twenty-two years later, average careers of
-around twenty years [^11-13]. The offices had
+around twenty years [^10-13]. The offices had
 specialised into a bureaucratic anatomy: a captain of the
 wagon-train; a treasurer and keeper of saltpetres, sulphurs and
 lead; a keeper of powders; a captain of "mines and approaches"; a
-keeper of the "small engines" at Paris [^11-14]. The
+keeper of the "small engines" at Paris [^10-14]. The
 master of the artillery had acquired a jurisdiction as well as a
 command — in March 1487 the saltpetre-men of Paris appeared in
 judgment before the master "en son auditoire ou chastel du
 Louvre," the office holding court like any other great office of
-the crown [^11-15]. And the logistical footprint
+the crown [^10-15]. And the logistical footprint
 was a state programme in itself. The fragmentary accounts of the
 1477 Artois campaign — recovered, by one of archival history's
 better accidents, from the binding of a 1721 book into which the
@@ -4986,12 +4986,12 @@ speak: the guns and tools of three artillery bands required 521
 horses; the powder, saltpetre, sulphur, lead, shot,
 bombard-stones, two mobile forges, pioneers' tools, cordage and
 tents required 1,009 more; with 800 pioneers marching under the
-captain of the wagon-train [^11-16]. Twelve years earlier,
+captain of the wagon-train [^10-16]. Twelve years earlier,
 during the Public Weal crisis, the Milanese ambassadors had
 described the royal train on the move: "la plus belle du monde,"
 its convoy six leagues long, drawn by 1,200 horses — enough, they
 wrote home, "de quoi faire trembler le monde entier," to make the
-whole world tremble [TRANS. CLAUDE] [^11-17]. Diplomats do not exaggerate to their own
+whole world tremble [TRANS. CLAUDE] [^10-17]. Diplomats do not exaggerate to their own
 principals. The train was already, in 1465, an instrument of
 state communication: it said, at walking pace and six leagues of
 road, what the account books said in livres.
@@ -5001,14 +5001,14 @@ book's period. On the night of 31 December 1494, Charles VIII's
 artillery entered Rome: more than thirty-six pieces drawn by
 horses "à une incroyable vitesse" over any ground, the greatest
 of them bronze cannon eight feet long and six thousand pounds
-[^11-18] — the mobile train whose
+[^10-18] — the mobile train whose
 Italian debut announced to every chancery in Europe what the
 French account books had been quietly compounding for fifty
 years. Contamine's own summary of the position on the eve of
 Italy can close the institutional case: Charles VIII "a pu se
 laisser persuader qu'il possédait un instrument qu'aucune
 coalition ne pouvait briser" — an instrument no coalition could
-break [TRANS. CLAUDE] [^11-19]. The claim proved
+break [TRANS. CLAUDE] [^10-19]. The claim proved
 optimistic in Italy's politics; about the instrument's nature it
 was exact. What no coalition could break was not the guns. It
 was the two account series, the quarterly rule, the thirty
@@ -5029,11 +5029,11 @@ with the reform of the realm as its stated programme and the
 dismantling of the fiscal machine as its evident one. Militarily
 the league did well. Montlhéry (16 July 1465) was indecisive —
 the Burgundian guns, DeVries notes, managed no more than ten
-salvos [^11-20]; the artillery duel before Paris that
+salvos [^10-20]; the artillery duel before Paris that
 August and September "may have been the most fearsome artillery
 duel of the century," with Commynes, who was present, supplying
 the eyewitness superlative: "I have never seen so much shooting
-in such a few days" [^11-21]. The towns, a recent
+in such a few days" [^10-21]. The towns, a recent
 study of the urban dimension shows, held for the crown. And at
 the treaties of Conflans and Saint-Maur that October the princes
 won on paper nearly everything: Normandy to the king's brother,
@@ -5075,7 +5075,7 @@ spider's service and knew both courts, left the judgement of the
 age from the inside: "of all the princes that I ever knew, the
 wisest and most dexterous to extricate himself out of any danger
 or difficulty in time of adversity, was our master King Louis
-XI" [^11-22]. Wisdom and dexterity had a
+XI" [^10-22]. Wisdom and dexterity had a
 balance sheet: the tripled taille, the standing companies, the
 enlarged train. Louis XI's France is the first polity in this
 book's story in which the crown is systematically stronger than
@@ -5099,7 +5099,7 @@ regulated training, discipline, equipment and pay; refined at Bohain
 in 1472; the famous drill ordinance issued outside Trier at
 St-Maximin in 1473, with its squadron structures, uniforms,
 roll-calls and punishments; Lausanne in 1476 — have been read by
-modern scholarship [^11-23] as
+modern scholarship [^10-23] as
 marking the state's values prevailing over chivalry's in the
 ordering of an army [no verbatim printed: the quotation reaches
 this book only through an intermediary, and per the attribution
@@ -5109,16 +5109,16 @@ against Vaughan's *Charles the Bold*]. The artillery matched: Commynes calls
 it "very large and powerful"; La Marche counts "more than 300 carts
 of guns, not counting his culverins or 'haquebusses' which were
 'without number'"; at Neuss an eyewitness saw culverin fire "thicker
-than rain" [^11-24]. Nor was the apparatus behind
+than rain" [^10-24]. Nor was the apparatus behind
 the guns inferior: Burgundy instituted a dedicated *recette de
 l'artillerie* in 1458, its accounts auditable at the Chambre des
 comptes of Lille, its budget estimates passing through multiple
 correcting hands — the état for the Neuss campaign of November 1474
-bears Charles's own signature [^11-25]. The duke even paid
+bears Charles's own signature [^10-25]. The duke even paid
 better: his 1471 permanent army, raised "sur le modèle français,"
 gave its man-at-arms 38.60 grams of gold a month against the French
 36.70, with a squad-leader's supplement the French grid lacked,
-"destinée à assurer une rigueur plus grande" [^11-26]. By every measurable input — organisation, guns, accounts, pay —
+"destinée à assurer une rigueur plus grande" [^10-26]. By every measurable input — organisation, guns, accounts, pay —
 Burgundy was running the artillery state's programme, and running
 parts of it better than France.
 
@@ -5129,7 +5129,7 @@ make much use of their artillery," and a repositioning manoeuvre
 read as retreat collapsed the army into rout; the Swiss took the
 camp whole — the treasury, the diamonds, and by tradition some four
 hundred guns, a figure this book carries as the tradition's, not the
-archives' [^11-27]. Casualties at Grandson were small on both
+archives' [^10-27]. Casualties at Grandson were small on both
 sides; the defeat was of an army's cohesion, not its bodies. At
 Morat, on 22 June 1476, operational surprise caught the Burgundian
 army divided and undeployed, and the dead ran somewhere between six
@@ -5158,7 +5158,7 @@ work to do in Part III.) And the archive itself supplies the closing
 irony, which the draft declines to improve upon: all but one of the
 recette de l'artillerie's accounts were destroyed during the French
 Revolution — made into cartridges for the revolutionary army
-[^11-28]. The fiscal-military state's paperwork, fired at
+[^10-28]. The fiscal-military state's paperwork, fired at
 its enemies by its successor: the metaphor writes itself, and is
 therefore left exactly as the archivists found it.
 
@@ -5193,7 +5193,7 @@ found in the first two "a pattern showing the decline of feudalism
 and the rise of the central state… Local control and ownership of
 these weapons was removed by the central state, which would later
 return to use the weapons against those who had once owned them"
-[^11-29]. England ran the opposite experiment. The
+[^10-29]. England ran the opposite experiment. The
 English crown had *early and exclusive* royal control of guns —
 from Edward III through Henry V, "the king alone had control… and
 he used them in an almost absolute manner" — and then, in the
@@ -5205,7 +5205,7 @@ Green, gunfire between English gentlemen's retinues, a scene
 Chapter 8's legal world makes comprehensible — and, in DeVries's
 summary of Henry VI, "after almost fifty years of civil war not
 only had he lost control over gunpowder holdings in his kingdom,
-he had in fact lost his kingdom" [^11-30]. England had
+he had in fact lost his kingdom" [^10-30]. England had
 the monopoly without the fiscal-administrative substrate; the
 monopoly did not survive contact with dynastic crisis. Three
 counter-cases, three missing parts, three failures on schedule:
@@ -5225,14 +5225,14 @@ Artillery gravitated to the centre because of what it cost: "too
 expensive for the nobility to purchase, and hence tended to become
 a monopoly of the Crown. The superior military technology of the
 day both gravitated to and reinforced the political center"
-[^11-31]. The centre that acquired it
+[^10-31]. The centre that acquired it
 entered a self-reinforcing cycle: trains suppressed regional
 powers, suppression raised revenue, revenue bought larger trains
-and armies, "and so on" [^11-32].
+and armies, "and so on" [^10-32].
 And the capability at the cycle's heart was categorically
 state-sized: the artillery revolution "could not be provided by
 any other organisation than the state, or at least not at the
-level required to make an impact" [^11-33]. Rogers the
+level required to make an impact" [^10-33]. Rogers the
 punctuationist, DeVries the anti-determinist, Curry the gradualist
 — the three positions in the military-revolution debate, each
 conceding the fiscal-threshold mechanism while contesting the
@@ -5243,7 +5243,7 @@ to seventeenth century warfare," under the exogenous pressure of
 "the inter-dynastic struggles of the Hundred Years' War,"
 producing states that "could consolidate because they were
 multitasking and because they could afford to make increasing
-side-payments" [^11-34]. The book's mechanism
+side-payments" [^10-34]. The book's mechanism
 chapter closes its historical half on that convergence: the
 account of how the first dispersal ended is not this book's
 novelty; it is the shared premise of the sceptics, stated in
@@ -5252,14 +5252,14 @@ their several vocabularies.
 Curry's causal reversal deserves its own answer rather than
 absorption, because it is the strongest form of the objection:
 strong, well-resourced governments produce military revolutions,
-she argues — "not the other way around" [^11-35]. The
+she argues — "not the other way around" [^10-35]. The
 chapter's answer, held since Chapter 6's review: the chain is a
 loop with a threshold step. The fiscal instruments demonstrably
 predate the triumphs — the taille grant is 1439, the companies
 1445, the reconquest 1449–50 — so the book does not claim the gun
 conjured the fisc from nothing. It claims the gun did two things
 no earlier capability had done: it set the entry price of
-decisive force above what any subject could pay [^11-36], and it made the
+decisive force above what any subject could pay [^10-36], and it made the
 crown's pre-existing fiscal machinery *decisive and irreversible*
 — locking the loop in one direction. The four polities of this
 chapter are the loop's proof by variation: France ran it entire;
@@ -5294,7 +5294,7 @@ layer, the munitions base, and frontier compute.
 
 The foundry line is the clearest, and it has recently escalated
 past subsidy into something older. The United States legislated the
-CHIPS and Science Act on 9 August 2022 [^11-37]: $52.7
+CHIPS and Science Act on 9 August 2022 [^10-37]: $52.7
 billion appropriated for semiconductors — $39 billion in
 manufacturing incentives, $11 billion for R&D, a 25 per cent
 investment credit — with awards finalised in late 2024 to Intel
@@ -5323,13 +5323,13 @@ administrative power to deny a rival's. The concentration being
 contested is extreme by any historical standard: as of the
 industry's 2021 baseline, "100% of the world's most advanced
 (below 10 nanometers) semiconductor manufacturing capacity is
-currently located in Taiwan (92%) and South Korea (8%)" [^11-38] — a snapshot the CHIPS programmes exist to erode —
+currently located in Taiwan (92%) and South Korea (8%)" [^10-38] — a snapshot the CHIPS programmes exist to erode —
 and the lithography beneath the leading edge has exactly one
 supplier on earth, no EUV system ever having shipped to China.
 
 The orbital line: two polities today fly proliferated
 military-relevant constellations in low earth orbit — the United
-States [^11-39] and China (Qianfan and Guowang, dual-use state
+States [^10-39] and China (Qianfan and Guowang, dual-use state
 systems, some four hundred satellites between them and plans in
 the tens of thousands). Europe has signed a concession — IRIS²,
 €10.6 billion, December 2024 — for services from about 2030. The
@@ -5399,57 +5399,57 @@ paying.
 
 
 #### Notes
-[^11-1]: Contamine 1972: ~303 and n.
-[^11-2]: Contamine 1972: 280
-[^11-3]: Contamine 1972: 281
-[^11-4]: Contamine 1972: 281–82
-[^11-5]: Contamine
+[^10-1]: Contamine 1972: ~303 and n.
+[^10-2]: Contamine 1972: 280
+[^10-3]: Contamine 1972: 281
+[^10-4]: Contamine 1972: 281–82
+[^10-5]: Contamine
 1972; [TRANS. CLAUDE] for the clause
-[^11-6]: Contamine 1972, Annexe VI
-[^11-7]: Contamine 1972, Annexe VI
-[^11-8]: 1911 Encyclopaedia
+[^10-6]: Contamine 1972, Annexe VI
+[^10-7]: Contamine 1972, Annexe VI
+[^10-8]: 1911 Encyclopaedia
 Britannica, verbatim; the modern reference gives "about 4.5
 million"
-[^11-9]: Contamine 1964:
+[^10-9]: Contamine 1964:
 231
-[^11-10]: Contamine 1964:
+[^10-10]: Contamine 1964:
 231–32
-[^11-11]: Contamine 1964: 261
-[^11-12]: Contamine 1964: 232
-[^11-13]: Contamine 1964: 226–27
-[^11-14]: Contamine 1964
-[^11-15]: Contamine 1964: 232 n.
-[^11-16]: Perroy 1943
-[^11-17]: Perroy 1943, citing the
+[^10-11]: Contamine 1964: 261
+[^10-12]: Contamine 1964: 232
+[^10-13]: Contamine 1964: 226–27
+[^10-14]: Contamine 1964
+[^10-15]: Contamine 1964: 232 n.
+[^10-16]: Perroy 1943
+[^10-17]: Perroy 1943, citing the
 Milanese despatches
-[^11-18]: Giovio, via Contamine 1964: 221
-[^11-19]: Contamine 1964: 261
-[^11-20]: DeVries 1998: 137
-[^11-21]: DeVries 1998: 137
-[^11-22]: Commynes, Scoble ed., I.x
-[^11-23]: Heimpel's verdict, reported by Bachrach
-[^11-24]: all at DeVries 1998: 138
-[^11-25]: Depreter 2011
-[^11-26]: Contamine 1972, Annexe
+[^10-18]: Giovio, via Contamine 1964: 221
+[^10-19]: Contamine 1964: 261
+[^10-20]: DeVries 1998: 137
+[^10-21]: DeVries 1998: 137
+[^10-22]: Commynes, Scoble ed., I.x
+[^10-23]: Heimpel's verdict, reported by Bachrach
+[^10-24]: all at DeVries 1998: 138
+[^10-25]: Depreter 2011
+[^10-26]: Contamine 1972, Annexe
 VI
-[^11-27]: the surviving Burgundian records document the aftermath
+[^10-27]: the surviving Burgundian records document the aftermath
 as budget emergency, an inventory of what the duke *still had*,
 "repeatedly corrected for lack of means" — but no count of what he
 lost; Depreter 2011
-[^11-28]: Depreter 2011: 83
-[^11-29]: DeVries 1998: 145
-[^11-30]: DeVries 1998: 145
-[^11-31]: Porter, at DeVries 1998: 128
-[^11-32]: Rogers's cycle, at DeVries 1998: 128
-[^11-33]: Curry 2010: 188
-[^11-34]: Cerny 1998: 51–52, 58–59
-[^11-35]: Curry 2010: 187–88
-[^11-36]: Curry's own
+[^10-28]: Depreter 2011: 83
+[^10-29]: DeVries 1998: 145
+[^10-30]: DeVries 1998: 145
+[^10-31]: Porter, at DeVries 1998: 128
+[^10-32]: Rogers's cycle, at DeVries 1998: 128
+[^10-33]: Curry 2010: 188
+[^10-34]: Cerny 1998: 51–52, 58–59
+[^10-35]: Curry 2010: 187–88
+[^10-36]: Curry's own
 concession, in the sentence quoted above
-[^11-37]: Pub. L. 117-167
-[^11-38]: SIA/BCG,
+[^10-37]: Pub. L. 117-167
+[^10-38]: SIA/BCG,
 April 2021
-[^11-39]: Starlink at 8,872 working satellites as of July 2026, on
+[^10-39]: Starlink at 8,872 working satellites as of July 2026, on
 McDowell's count, with the NRO's Starshield constellation under a
 $1.8 billion contract and the Space Development Agency's tranches
 launching
@@ -5472,7 +5472,7 @@ revenue, a sum no subject in England could pay. It was never meant to
 be paid. On Christmas Eve the fine was commuted to £500 a year for
 ten years, and Bergavenny was forbidden to enter Kent, Surrey, Sussex
 or Hampshire — the counties of his power. He paid two instalments.
-When the old king died, the new one cancelled the rest [^12-1]. Observe the
+When the old king died, the new one cancelled the rest [^11-1]. Observe the
 instrument in full: an impossible debt, lawfully assessed, deliberately
 suspended — a fine never meant to be collected, only to convert a
 magnate into a bondholder of his own obedience.
@@ -5482,7 +5482,7 @@ actually looked like from inside — and the man who operated it has
 long had a historiographical family. The name was coined in the
 Victorian synthesis: J. R. Green wrote of "the New Monarchy," the
 character of "the English sovereignty from the time of Edward the
-Fourth to the time of Elizabeth" [^12-2], and the early twentieth
+Fourth to the time of Elizabeth" [^11-2], and the early twentieth
 century generalised it — Henry VII, Louis XI, Ferdinand and Isabella
 as one centralising moment. Modern scholarship has qualified the
 frame heavily, and this book declares its position at the outset: the
@@ -5514,7 +5514,7 @@ modern project's description — under treasurers Lovell and then
 Heron, with the distinguishing feature that the king audited it
 personally: Henry's own sign manual runs through the account books,
 signing off payments weekly, the sovereign as his own comptroller
-[^12-3]. The paradox is the
+[^11-3]. The paradox is the
 chapter's first lesson: the fisc was *personalised* — routed
 through the king's private rooms — precisely in order to be
 institutionalised, pulled out of the old departmental inertia into
@@ -5524,7 +5524,7 @@ The subordination move ran through paper. Lander's corrected
 tallies: of sixty-two peerage families, thirty-six gave bonds or
 recognizances to the crown — well over half the peerage bound —
 and some three-quarters lay under one coercive instrument or
-another: bond, attainder, fine or constraint [^12-4]. The machine's administrative organ
+another: bond, attainder, fine or constraint [^11-4]. The machine's administrative organ
 was the Council Learned in the Law, sitting from the mid-1490s
 under Bray and then Empson and Dudley, processing the bonds
 without appeal. And the machine's political price was paid in
@@ -5546,7 +5546,7 @@ expenditure — and Giovio watched the train enter Rome at night,
 "more than 36 pieces that the horses drew at an incredible
 speed"; Contamine's verdict, already quoted and worth its
 repetition here, was that the young king believed he possessed
-"an instrument no coalition could break" [^12-5]. The first continental adventure of the
+"an instrument no coalition could break" [^11-5]. The first continental adventure of the
 completed fiscal-military state: the settlement exporting
 itself, a generation after its assembly.
 
@@ -5635,12 +5635,12 @@ kanunname attributed to Mehmed, whose most notorious clause
 licenses fratricide "for nizām-i 'ālem" — for the order of the
 world — a text whose authenticity was long contested (Dilger
 and Berki the named sceptics) and is now generally accepted
-[^12-6]; and it reached for
+[^11-6]; and it reached for
 the fiscal base as well, converting private and endowed lands
 toward state land for redistribution as service tenures — with
 the revisionist caveat carried as this book carries such
 things: much "confiscation" altered revenue status rather than
-ownership [^12-7], and Bayezid II partially restored what
+ownership [^11-7], and Bayezid II partially restored what
 his father had taken. The disanalogy is stated plainly: the
 devşirme presupposed an imperial-household logic — the ruler's
 slave-family as the state — that no Latin monarchy possessed
@@ -5670,7 +5670,7 @@ is quantified in open scholarship: Luther's works alone made up
 roughly a fifth of all pamphlets published in the Empire between
 1500 and 1530, and the German presses "produced nearly five times
 as many German works by Luther as by all the Catholic
-controversialists put together" [^12-8]. But the state's
+controversialists put together" [^11-8]. But the state's
 harness is the chapter's subject, and England documents it
 statute by statute. The Act of Supremacy (November 1534) made the
 crown the head of the Church; Cromwell's injunctions of 5
@@ -5736,7 +5736,7 @@ dated.
 now operating would have been Henry VII's envy: the Common
 Reporting Standard's automatic exchange ran, in 2024, across
 116 jurisdictions and 171 million financial accounts,
-covering some thirteen trillion euros [^12-9]; the Pillar Two minimum tax is law in fifty-odd
+covering some thirteen trillion euros [^11-9]; the Pillar Two minimum tax is law in fifty-odd
 jurisdictions from 2024–26; India's stack couples a
 transaction-legibility machine to some twenty billion
 payments a month. And the move's great complication is
@@ -5788,8 +5788,8 @@ tracked through two chapters resolved, within the drafting
 window, in a direction nobody scripted — quoted here from
 the government's own releases: a presidential directive
 ordering agencies to "IMMEDIATELY CEASE all use of
-Anthropic's technology" [^12-10]; the firm's
-suit [^12-11]; a preliminary injunction (26 March 2026);
+Anthropic's technology" [^11-10]; the firm's
+suit [^11-11]; a preliminary injunction (26 March 2026);
 and GSA "restoring Anthropic technology to the status quo in
 effect prior to February 27, 2026" (3 April 2026). The
 paymaster state turned its coercive procurement instrument
@@ -5886,28 +5886,28 @@ artillery?
 
 
 #### Notes
-[^12-1]: Ross 2021,
+[^11-1]: Ross 2021,
 open, the case reconstructed from the records
-[^12-2]: Green 1874, ch. VI — the coinage
+[^11-2]: Green 1874, ch. VI — the coinage
 quotable at source, in this book's corpus
-[^12-3]: Tudor Chamber Books project; the revenue arc that tradition
+[^11-3]: Tudor Chamber Books project; the revenue arc that tradition
 attaches — chamber receipts rising from a few thousand pounds a
 year to above a hundred thousand — is Wolffe's series and is hedged
 here pending retrieval [GAP: Wolffe; Chrimes]
-[^12-4]: the exact tallies
+[^11-4]: the exact tallies
 to be fixed against Lander at retrieval; the reframing view —
 Cunningham's, that the recognizance system was an allegiance
 technology rather than fiscal terror — is named, and the two
 readings are not exclusive
-[^12-5]: Contamine 1964: 261
+[^11-5]: Contamine 1964: 261
 [TRANS. CLAUDE]
-[^12-6]: the debate staged in Ekinci 2018, open
-[^12-7]: Özel, open
-[^12-8]: Edwards, open
-[^12-9]: OECD peer review,
+[^11-6]: the debate staged in Ekinci 2018, open
+[^11-7]: Özel, open
+[^11-8]: Edwards, open
+[^11-9]: OECD peer review,
 2025
-[^12-10]: GSA, 27 February 2026
-[^12-11]: N.D. Cal.
+[^11-10]: GSA, 27 February 2026
+[^11-11]: N.D. Cal.
 
 
 ---
@@ -5967,11 +5967,11 @@ referent for the pressure being "the inter-dynastic struggles of the
 Hundred Years' War." Audit the mid-2020s against it. At The Hague,
 in June 2025, the Atlantic alliance pledged its members to "invest
 5% of GDP annually on core defence requirements as well as defence-
-and security-related spending by 2035" [^13-1] —
+and security-related spending by 2035" [^12-1] —
 a level unseen since the Cold War's depths. The European Union
 announced ReArm Europe: up to €800 billion — €650 billion of fiscal
 flexibility and €150 billion of SAFE lending, disbursing from early
-2026 [^13-2]. China's fifteenth Five-Year Plan (March
+2026 [^12-2]. China's fifteenth Five-Year Plan (March
 2026) headlines "greater self-reliance and strength in science and
 technology" (primary); the American chip-policy turn of 2026 pairs
 eased licensing with tariff instruments on advanced imports (carried
@@ -6019,7 +6019,7 @@ platform adjudication at nine-figure annual volume, the private
 orderings of code and contract. Above them, the state has written
 its supremacy into the instruments themselves: compulsory internal
 process, certified external bodies expressly denied binding power
-[^13-3]; and the hierarchy enforced in both directions —
+[^12-3]; and the hierarchy enforced in both directions —
 the same season's docket showing the state fining its platforms
 and the state's own exclusion directive enjoined by its own courts
 (the Anthropic arc, Chapter 11). Hierarchical plurality is not a
@@ -6045,7 +6045,7 @@ default [ANALOGY-ONLY beyond that point].
 And its summit is personal, atop bureaucracies that are
 improvising counterweights — Chapter 9's two-body problem, live:
 the dual-class charter as the default constitution of the new
-institutions; the compelled independent compliance function [^13-4]; succession reclassified as governance; the regency
+institutions; the compelled independent compliance function [^12-4]; succession reclassified as governance; the regency
 instruments existing, acting, and — the OpenAI week — failing
 against the person. The settlement's legal form for its absorbed
 platforms carries the thread the book promoted from Milan:
@@ -6081,7 +6081,28 @@ champion, the Secure Enclave, the weapons-lab exaflops, the
 proliferated constellations, the munitions ramp with its
 shortfall honestly audited by its own inspector general. Henry
 VII kept his own books; the American Henry publishes his, which
-is not the same discipline, but is a discipline.
+is not the same discipline, but is a discipline. One move, however,
+the American candidacy has not run, and until it runs the candidacy
+is incomplete — this is the book's observation (c), offered as
+analysis and not as counsel, and scored at C11-1. The United States
+has the stack but has not centralised its universalist platforms;
+and its present instinct, when it reaches for them, reaches for the
+nineteenth century — tariffs, and an antitrust vocabulary inherited
+from the trust-busting age, as though the platforms were its
+Rockefeller moment. The mechanism this book has traced points two
+centuries earlier and one register deeper: the platforms are not
+the American state's Standard Oil but its monasteries —
+universalist institutions holding functions and revenues the
+consolidating centre will need — and the settlement instrument the
+mechanism predicts is not dissolution-by-breakup but the Henrician
+one in American legal dress: licence, and the licensing fee — the
+right to run frontier AI at scale conferred by the state, priced
+by the state, and collected as the settlement's popular revenue,
+exactly where Chapter 11's five moves would put it. Not
+nationalisation in the socialist sense; annexation in the
+administrative one. Whether the American system can execute that
+move against its own constitutional grain is what C11-1 scores,
+year by year.
 
 China has substantially executed the settlement already — the
 discipline of 2020–23 completed and normalised in sequence, the
@@ -6128,15 +6149,15 @@ numbers that must never be blended.
 
 The low end of violence has decentralised, massively and
 genuinely. Ukraine produced 2.2 million drones in 2024
-[^13-5] and received some three million FPVs
-in 2025 against a 4.5-million procurement plan [^13-6]; a basic FPV runs a few hundred dollars. Their
+[^12-5] and received some three million FPVs
+in 2025 against a 4.5-million procurement plan [^12-6]; a basic FPV runs a few hundred dollars. Their
 share of the war's effects is measured three ways, each
 attributed and dated: tactical UAVs "account for 60–70% of
 damaged and destroyed Russian systems" — a *materiel* claim
-[^13-7]; roughly 70 per cent of *casualties*, per a Rada
+[^12-7]; roughly 70 per cent of *casualties*, per a Rada
 defence-committee official and, at 60–70 per cent, front-line
-medics [^13-8]; and over
-60 per cent of all *strikes* [^13-9]. Systems,
+medics [^12-8]; and over
+60 per cent of all *strikes* [^12-9]. Systems,
 casualties, strikes: three measurements, three sources, one
 conclusion — the cheap end of decisive violence has been
 democratised to the parish level, and any account of the
@@ -6146,10 +6167,10 @@ Two facts stand against the inference the objection wants, and
 the first is that the longbow at scale is itself an
 industrial-state product. Russia's Shahed campaign scaled from
 some two hundred launches a week to more than a thousand by
-March 2025 [^13-10]; the Alabuga complex
-documents a six-thousand-drone production programme [^13-11]; the night of 6–7 September 2025 put
+March 2025 [^12-10]; the Alabuga complex
+documents a six-thousand-drone production programme [^12-11]; the night of 6–7 September 2025 put
 805 drones into the air — "the largest attack since the
-beginning of the full-scale invasion" [^13-12] —
+beginning of the full-scale invasion" [^12-12] —
 and five-hundred-drone nights are routine. Both sides' cheap
 drone forces are mass-production programmes of fiscal-military
 states — the modern francs-archers, raised by the parish, paid
@@ -6207,6 +6228,37 @@ finding: distributed denial below, concentrated decision
 above. The Cade rebellions and the artillery states of our
 age, running simultaneously — which is exactly what the
 fifteenth century looked like from inside.
+
+One objection to the whole frame remains, and it deserves its
+own paragraph rather than a footnote: the nuclear overhang.
+Nothing in the fifteenth century corresponds to a weapon whose
+use destroys all sides, and a critic may fairly ask whether a
+mechanism about the price of *decisive* force can operate at all
+under an arsenal that makes decision suicidal. The answer is
+that nuclear weapons sit outside the currency this book prices,
+for a reason internal to the mechanism: the mechanism concerns
+force that takes and holds — the siege train, the stack — force
+whose use converts military advantage into territory, revenue
+and settlement. Nuclear weapons hold nothing. They cap
+escalation between their holders; they do not consolidate
+anything within or between them; and the consolidation contest
+therefore runs *underneath* the overhang, in the conventional
+and computational layer where taking and holding still happens.
+The demonstration case is on the record, and the book has
+already assembled its evidence: Russia — nuclear-armed at the
+greatest scale on earth, fiscally shallow, industrially
+strained — has spent four years of conventional war, at shell
+volumes its adversary's intelligence services report in the
+millions (attributed, per Chapter 10's discipline), without
+converting arsenal into decisive victory; its nuclear weight
+has deterred its adversary's patrons at the margin and taken
+not one additional city. A polity with weapons but without the
+fiscal-administrative stack can destroy and cannot decide —
+the mechanism's claim, stated from the negative case. The
+overhang bounds the wars the consolidators may fight with each
+other. It does not void the consolidation; it is one more
+reason the settlement runs inside blocs rather than between
+them.
 
 ## VI.
 
@@ -6305,23 +6357,23 @@ who signs the compositions.
 
 
 #### Notes
-[^13-1]: NATO communiqué, primary
-[^13-2]: Commission, primary
-[^13-3]: DSA, Arts. 20–21
-[^13-4]: DSA
+[^12-1]: NATO communiqué, primary
+[^12-2]: Commission, primary
+[^12-3]: DSA, Arts. 20–21
+[^12-4]: DSA
 Art. 41
-[^13-5]: Zelensky, February 2025
-[^13-6]: Shmyhal,
+[^12-5]: Zelensky, February 2025
+[^12-6]: Shmyhal,
 December 2025
-[^13-7]: RUSI, February 2025, p. 11, with the report's own caveat
+[^12-7]: RUSI, February 2025, p. 11, with the report's own caveat
 carried: "The above figure must be read in the appropriate
 context"
-[^13-8]: via NYT, March 2025; Politico, August 2025
-[^13-9]: Syrskyi, December 2025
-[^13-10]: CSIS's "drone saturation"
-[^13-11]: ISIS,
+[^12-8]: via NYT, March 2025; Politico, August 2025
+[^12-9]: Syrskyi, December 2025
+[^12-10]: CSIS's "drone saturation"
+[^12-11]: ISIS,
 from leaked documents
-[^13-12]: Ukrainian Air Force
+[^12-12]: Ukrainian Air Force
 
 
 ---
@@ -6390,7 +6442,7 @@ never allowed to vouch for one another.
 The *neomedieval spine* — Bull, Friedrichs, Cerny, Kobrin, Slaughter,
 Kaplan, Williams, McFate — was read as a literature being extended,
 and quoted from its own texts wherever they were in hand, with every
-second-hand quotation named as such [^14-1]. The *medieval historiography* was held to the hardest
+second-hand quotation named as such [^13-1]. The *medieval historiography* was held to the hardest
 rule in the book: no gated work cited as if consulted; every claim
 graded by tier; omission preferred to invention. Where the research
 corrected the project's own working assumptions, the corrections are
@@ -6496,7 +6548,7 @@ dispersal stable after all, and publishing the list.
 
 
 #### Notes
-[^14-1]: Bull's caution is cited through
+[^13-1]: Bull's caution is cited through
 a named intermediary to this day, one word flagged as varying by
 printing
 
