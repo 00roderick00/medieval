@@ -282,7 +282,7 @@ first chapter opens the books.
 
 ---
 
-*Draft ends. Word count ~5,200 against a ~12,000 chapter weight
+*Draft ends. Word count ~2,700 against a ~12,000 chapter weight
 (the intro will thicken as Roderick's [BRIDGE] and voice passes
 land across the book; Pollard page cites, Rengger, Bull's own
 text, and Holsinger re-verification remain on the acquisition

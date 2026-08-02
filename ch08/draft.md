@@ -462,7 +462,7 @@ next chapter's business.
 
 ---
 
-*Draft ends. Word count ~4,900 (memo-limited; Muir, Dean, Jansen,
+*Draft ends. Word count ~4,300 (memo-limited; Muir, Dean, Jansen,
 Zmora/Algazi/Brunner, Baker 1979, Berman and Pistor-at-page-level
 thicken §§III–VI at the upgrade pass). Voice-discipline ledger
 (counted as produced): coined concept —* hierarchical plurality

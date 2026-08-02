@@ -377,7 +377,7 @@ who signs the compositions.
 
 ---
 
-*Draft ends. Word count ~5,300 against a ~14,000 chapter
+*Draft ends. Word count ~3,300 against a ~14,000 chapter
 weight (synthesis-limited by design: the chapter inherits
 rather than re-argues, and Roderick's [BRIDGE] and closing
 passes will carry the expansion). Voice-discipline ledger

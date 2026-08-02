@@ -447,7 +447,7 @@ artillery?
 
 ---
 
-*Draft ends. Word count ~5,600 against a ~13,000 chapter
+*Draft ends. Word count ~3,900 against a ~13,000 chapter
 weight (memo-limited at the gated dependencies: Wolffe/Chrimes,
 Lander exact tallies, Elliott/Ladero, İnalcık/Kafadar, Febvre &
 Martin; and §VI compressed pending Roderick's [BRIDGE]

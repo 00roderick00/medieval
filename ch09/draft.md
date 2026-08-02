@@ -356,7 +356,7 @@ account books.
 
 ---
 
-*Draft ends. Word count ~4,700 (memo-limited; Kantorowicz,
+*Draft ends. Word count ~3,200 (memo-limited; Kantorowicz,
 Famiglietti/Autrand, the Elton-debate texts and Poguntke & Webb
 thicken §§II–V at the upgrade pass). Voice-discipline ledger
 (counted as produced): coined concept — NONE ("weak thesis" is
