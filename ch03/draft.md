@@ -327,4 +327,4 @@ fiscal years; lab revenues flagged as estimates; the 2026 episode
 dated, hedged, and carrying [RE-CHECK AT PRESS]. No claim beyond
 the reviewed memo.*
 
-STATUS: DRAFT — PENDING HUMAN REVIEW
+STATUS: REVIEWED (Roderick, 2026-08-02) — approved as drafted; the [RE-CHECK AT PRESS] conversion for the Anthropic–Pentagon episode is confirmed

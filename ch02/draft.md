@@ -47,7 +47,7 @@ entities that actually wield the non-territorial claim are not
 markets. They are *institutions*: rule-making, adjudicating,
 sanctioning, missionary bodies, with doctrines, internal reform
 movements, and jurisdictional quarrels — nearer in structure to the
-medieval Church than to anything in a economics textbook. The
+medieval Church than to anything in an economics textbook. The
 argument is not that the platforms resemble the Church; resemblance
 is banned in this book. The argument is that they occupy the same
 *structural position* — a universal authority claiming jurisdiction
@@ -366,4 +366,16 @@ as projection; chip controls anchored to ECCN 3A090 + NVIDIA 8-K;
 Avignon capture presented as polemic; every export-control claim
 dated. No claim beyond the reviewed memo.*
 
-STATUS: DRAFT — PENDING HUMAN REVIEW
+## Revisions (post-review, 2026-08-02)
+
+Roderick reviewed the Batch 2 drafts: ch02 approved with one
+correction.
+
+1. **§I typo fixed** ("a economics textbook" → "an economics
+   textbook"; the pre-commit fix had silently failed to apply and is
+   now verified in-file).
+
+---
+
+STATUS: REVIEWED (Roderick, 2026-08-02) — approved with revision
+applied

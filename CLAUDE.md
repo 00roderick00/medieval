@@ -165,6 +165,9 @@ has superseded it.
   checked against standing scholarship before the ledger claims it as
   a coinage. (Added 2026-08-01 on Roderick's instruction, Batch 1
   review.)
+- Personal names are verified against the chapter's sources.md before
+  commit. (Added 2026-08-02 on Roderick's instruction, Batch 2
+  review.)
 - Bridge paragraphs remain flagged [BRIDGE] for Roderick's rewrite — the
   voice document reduces how much rewriting these need, but the analogy
   joints stay his.

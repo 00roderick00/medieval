@@ -11,8 +11,9 @@ as established.*
 ## I.
 
 In the autumn of 2024 the Republic of Honduras was being sued for
-roughly eleven billion dollars — a sum in the region of a third of its
-national budget — by a city on one of its own islands.
+roughly eleven billion dollars — a sum equal to roughly a third of the
+country's annual gross domestic product — by a city on one of its own
+islands.
 
 The claimant, Próspera, is a privately governed jurisdiction on
 Roatán: a charter enclave with its own regulatory code, its own
@@ -201,7 +202,7 @@ axis, the 1977 reading of insufficiency was right, and a 1977
 reading of the 2020s evidence would not be. That is all the chapter
 claims, and it is enough.
 
-Jonathan Friedrichs supplied, a generation later, the analytical
+Jörg Friedrichs supplied, a generation later, the analytical
 engine the intuition had lacked, and his article is now in this
 book's corpus and cited first-hand. His definition: the medieval —
 and neomedieval — order is "a system of overlapping authority and
@@ -443,4 +444,21 @@ Forey; Jones; Bull's verbatim caution. Estimates flagged inline
 findings; promises them (§§I, VI). No claim beyond the reviewed
 memo.*
 
-STATUS: DRAFT — PENDING HUMAN REVIEW
+## Revisions (post-review, 2026-08-02)
+
+Roderick reviewed the Batch 2 drafts: approved with revisions.
+
+1. **"Jonathan Friedrichs" corrected to "Jörg Friedrichs"** (§III; the
+   only occurrence of the forename). The corresponding doctrine line —
+   personal names verified against sources.md before commit — was added
+   to CLAUDE.md §8 on authorization.
+2. **The Próspera denominator corrected**: the ~$11bn claim is
+   benchmarked against Honduras's GDP, not its national budget. The
+   memo's UNCTAD source carries the claim amount only; the GDP
+   benchmark is arithmetic on public figures [GAP: pin the GDP figure
+   and year at press].
+
+---
+
+STATUS: REVIEWED (Roderick, 2026-08-02) — approved with revisions
+applied

@@ -407,4 +407,4 @@ no-equity absence stated; Stralsund as prior consent; galley-a-day
 as anecdote; Prigozhin variants flagged. Hands off to ch05's
 Clarendon opening (§VII). No claim beyond the reviewed memo.*
 
-STATUS: DRAFT — PENDING HUMAN REVIEW
+STATUS: REVIEWED (Roderick, 2026-08-02) — approved as drafted
