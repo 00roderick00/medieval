@@ -521,5 +521,15 @@ Roderick reviewed the final batch: ch12 approved with revisions.
 
 ---
 
+4. **(2026-08-03, per instruction.)** The two SPINE-directed
+   insertions of Revisions 3 (the §IV Rockefeller/licensing
+   observation; the §V nuclear-overhang paragraph) are additions the
+   SPINE ordered, not reviewed rewrites: their wording stands
+   **PENDING HUMAN REVIEW** within an otherwise REVIEWED draft. No
+   other passage was touched.
+
+---
+
 STATUS: REVIEWED (Roderick, 2026-08-02) — approved with revisions
-applied; SPINE directives executed same date
+applied. The two SPINE-directed insertions (Revisions 3) are PENDING
+HUMAN REVIEW as additions; the remainder of the draft is reviewed.
