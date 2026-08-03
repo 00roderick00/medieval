@@ -369,3 +369,31 @@ in-session; translations not printed in the source volumes are marked
 Still WANTED (acquisition, not parse): Chartier t. II (éd. Vallet de
 Viriville), Leseur *Histoire de Gaston IV*, Escouchy t. I and III,
 Beaucourt *Histoire de Charles VII* (for apparatus, lower priority).
+
+**CORRECTION (2026-08-03, on Roderick's catch — the closing note above
+was stale/imprecise; verified against the corpus this date):**
+- **Chartier t. II — IN REPO since 27 July** (`chroniquedechar02char.pdf`)
+  and it IS the Vallet de Viriville edition (title page verified). The
+  two Rogers pins are now read first-hand: **ii. 178–79** (Harfleur —
+  "seize grosses bombardes" at source; the king in the fossés and mines;
+  Jean Bureau "gouverneur" of artillery AND mines, "fort subtil et
+  ingénieulx," Gaspard "maistre de l'artillerie du roy"; garrison 1,600
+  waged + 400 unwaged; parley 24 Dec, keys 1 Jan, Jean Bureau among the
+  six sealers of the composition) and **ii. 254–56** (Blaye 1451 — which
+  proves to be the BLAYE chapter, not Dax: siege laid 15 May; walls
+  "toute abbatue en plusieurs lieux"; the town STORMED at first assault
+  ~200 English dead; the castle then by "bien gracieuse composicion"
+  with the treaty text printed). Integrated: ch06 memo Revisions 11;
+  artillery-reconquest Revisions 6.
+- **Leseur — IN REPO since 27 July but it is TOME II** (SHF; pp. 119–21
+  are Gaston IV's 1462 Catalonia campaign — with Jean Bureau, grand
+  trésorier, commanding the rearguard, a bonus pin). **Rogers fn 107's
+  "Leseur 119–21" (the Dax battered-walls quote) must therefore be TOME
+  I — still WANTED.** The white-cross/Bayonne check likewise awaits t. I.
+- **Beaucourt — TOME 5 IN REPO** ("Le Roi Victorieux," covering 1449+ —
+  the Normandy day-date variants' volume;
+  `92759_Histoire_de_Charles_VII_T_5_Le_Roi_Victorieux_1449.pdf`).
+  Tome IV NOT found in the corpus — the probe Revisions 4 note
+  ("Beaucourt IV–V now in repo") overstated by one volume; t. IV
+  remains WANTED. Beaucourt V's parse is now unblocked.
+- **Escouchy t. I and III** — correctly listed as wanted; unchanged.

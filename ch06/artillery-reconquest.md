@@ -415,6 +415,46 @@ body above stands as written.
    is where military surrender converts into constitutional
    subordination.
 
+6. **(2026-08-03 — Chartier t. II read at source; two rows revised.)**
+   - **Harfleur row enriched (ii. 178–79, first-hand):** "Devant
+     ladite ville furent assorties **seize grosses bombardes**" — the
+     gun count at source; the king came from Montivilliers to see the
+     walls battered, "en personne ès fossez et mines, armé, la salade
+     en sa teste"; "D'icelles artillerie et mines estoit gouverneur
+     **Maistre Jehan Bureau**, trésorier de France… fort subtil et
+     ingénieulx," with "Jaspar ou Gaspard Bureau son frère… maistre de
+     l'artillerie du roy" — both brothers on the page, Jean holding
+     guns and mines together. Garrison: "seize cent personnes prenans
+     gaiges et aultres quatre cent sans gaiges" [VARIANT: Blondel's
+     1,500 — flag both]. Instrument anatomy: parley opened 24 Dec
+     ("la veille de Noël"), concluded Christmas Day, delivery term 1
+     Jan; sealed with six seals **including Jean Bureau's**; eight
+     English gentleman-hostages held at Montivilliers; keys delivered
+     kneeling to Dunois, the banners exchanged. Mode BOMB→comp
+     confirmed; the composition system's legal texture now T1 at this
+     wall too.
+   - **Blaye row corrected (ii. 254–56, first-hand):** siege laid
+     **15 May 1451** after Montguyon [DATE VARIANT: the Vale-derived
+     "fallen by 3 May 1451" of Revisions 4 conflicts — flagged, not
+     resolved; likewise Vale's "surrendered cravenly" sits oddly
+     beside a contested assault]. Naval action before the port (five
+     English vessels chased to Bordeaux; Jean Le Boursier commanding).
+     The battery: "fut furieusement batue de grosses bombardes et
+     canons, tellement que **la muraille en fut toute abbatue en
+     plusieurs lieux**" (Rogers's quote confirmed at source). Then —
+     the correction — **the town was taken by storm at the first
+     assault** (francs-archiers over the walls at the change of watch;
+     "la ville fut prinse à cette première attaque," ~200 English
+     dead), the notables (the mayor and sub-mayor of Bordeaux,
+     Lesparre, Montferrand, ~200 men) withdrawing to the castle, which
+     then surrendered by "bien gracieuse composicion" — treaty text
+     printed in Chartier. **Mode: BOMB→storm (town) → comp (castle).**
+     Blaye is thus the census's second documented breach-and-storm,
+     with Cadillac — both in Gascony, both outside the Somerset list;
+     the Normandy census's no-storming finding is unaffected, and the
+     draft's "no storming through an artillery breach, and nowhere a
+     sack" (scoped to the hundred entries) stands.
+
 ---
 
 STATUS: REVIEWED (Roderick, 2026-07-27) — feeds the ch06 draft

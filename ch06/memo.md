@@ -649,6 +649,37 @@ Drafting of ch06/draft.md may now proceed against this reviewed memo (§7).
     solid walls, keeps the claims Bureau-train-specific. Still wanted
     for this column: Chartier t. II, Leseur, Escouchy t. I and III.
 
+11. **(2026-08-03 — Roderick caught a stale ledger line; the correction
+    yields the Chartier pins first-hand.)** Revisions 10's closing
+    "still wanted" list was stale: Chartier t. II (Vallet de Viriville
+    — edition verified from the title page) and Leseur were in repo
+    from 27 July. Chartier ii. 178–79 and ii. 254–56 — the two pages
+    every ch06 gun-count and compression claim has cited via Rogers —
+    are now read at source (full pins in artillery-reconquest
+    Revisions 6). Headlines: (i) Harfleur's **sixteen great bombards
+    confirmed at source**, with material Rogers did not relay — the
+    king in person in the trenches and mines; **Jean Bureau as
+    governor of the artillery AND the mines** ("fort subtil et
+    ingénieulx"), Gaspard as master of the artillery, both named on
+    the page; the garrison at 1,600 waged plus 400 unwaged (Blondel's
+    1,500 now a flagged variant); and the composition's anatomy —
+    parley Christmas Eve, keys on 1 January, **Jean Bureau among the
+    six who sealed the treaty**: the artillery master sealing the
+    surrender his guns compelled, the §"contracts, enforced" theme in
+    a seal. (ii) **A mode correction at Blaye**: Chartier has the
+    five-day battery ("la muraille en fut toute abbatue en plusieurs
+    lieux," confirming Rogers) — and then the town **taken by storm at
+    the first assault** (~200 English dead), the castle only then
+    surrendering by "bien gracieuse composicion." Blaye joins Cadillac
+    as a documented breach-and-storm — both OUTSIDE the Somerset-list
+    census, whose Normandy-scoped no-storming finding stands as
+    drafted; the draft's tightened §I wording (2026-07-31) already
+    holds. (iii) Chartier dates the siege from **15 May 1451** — in
+    tension with the probe's Vale-derived "fallen by 3 May"; variant
+    flagged, not resolved. (iv) Leseur in repo is **tome II** (1462
+    Catalonia at pp. 119–21) — Rogers fn 107's Dax quote needs tome I,
+    still wanted; Beaucourt t. 5 (not IV–V) is in repo.
+
 ---
 
 STATUS: REVIEWED (Roderick, 2026-07-22) — cleared for drafting
