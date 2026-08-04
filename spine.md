@@ -122,3 +122,46 @@ China, the European Union, and — conditionally — India.
   American case); China as furthest along.
 - **Wager, knowingly:** the four-polity casting and its internal
   ranking; the Talbot seize-the-train reading; the timetable.
+
+## 7. The tense of the argument (do not lose this)
+
+The book's claim is a prediction, not a report — and the rewrite must
+never let it slide into the past tense.
+
+Bull was right in 1977: the conditions didn't exist. They came into
+existence afterward and they exist now — the dispersal is the present
+condition, still running. The reassertion is NOT accomplished. It is
+uneven: China is executing it; Europe is assembling the substrate; the
+USA has the stack and has not taken it back. That unevenness is not a
+weakness in the thesis — it is the thesis's present tense.
+
+The argument is a requirement, not a trend: to field force that works
+like cannon — the full AI-military stack — the state must take the
+stack back from its subjects. You cannot assemble decisive force while
+its components sit in private hands. The consolidation is compelled
+for any polity that wants to be decisive. That is why it will happen,
+not because it is already happening.
+
+You don't have to be the first mover. England wasn't — France built
+the artillery state and the Tudors arrived at the settlement two
+generations later, because the mechanism left them no alternative if
+they wanted to be a power. Late arrival is inside the pattern. The
+American case is England's position, not a counterexample: the
+wrong-fight observation (tariffs and the nineteenth century, instead
+of the platforms and the sixteenth) describes a latecomer, not a
+refutation.
+
+My prediction, stated once, plainly: the world will take a more
+definitive Tudor turn. The wager rides on the requirement, not the
+schedule — scoreable in Appendix C over fifteen years.
+
+Bull's role, correctly cast: he supplies the test — does the trend
+replace sovereignty, or reproduce it in new units? The book supplies
+the mechanism that forces the second answer. His caution is not
+inverted and not yet vindicated; it is inherited and armed.
+
+[GOVERNS: ch01 §III's DELTA resolution and the intro's closing page —
+both written in my hand at the rewrite. Also governs register
+throughout: wherever a draft states the reassertion as achieved
+rather than required, that is a conformance error against this
+section.]
