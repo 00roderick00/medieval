@@ -151,23 +151,31 @@ hypothesis; the systematiser a generation later, rebuilding it.
 
 Hedley Bull entertained the idea in 1977, in the tenth chapter of
 *The Anarchical Society*, as one of several alternatives to the
-states system: that "sovereign states might disappear and be
-replaced not by a world government but by a modern and secular
-equivalent of the kind of universal political organisation that
-existed in Western Christendom in the Middle Ages" — an order
-whose "central characteristic" would be "a system of overlapping
-authority and multiple loyalty" (Bull 1977: 245, quoted in Baaz;
-Friedrichs 2001: 483 quotes the corresponding caution at Bull
-1977: 254). He named five observable trends as prima facie
-evidence: the regional integration of states; the disintegration
-of states; the restoration of private international violence;
-transnational organisations; and the technological unification of
-the world (Bull 1977: 245–66, via Baaz). And then — the honesty
-for which this book keeps returning to him — he weighed his own
-five trends and declined the conclusion: the evidence for an
-emergent new medievalism was, in the mid-1970s, insufficient
-[GAP: Bull's verbatim caution sentences await the retrieval of
-*Anarchical Society* ch. 10; the paraphrase is Baaz's]. The book's
+states system: "It is also conceivable that sovereign states might
+disappear and be replaced not by a world government but by a
+modern and secular equivalent of the kind of universal political
+organisation that existed in Western Christendom in the Middle
+Ages" — for while a return to the theocratic original would be
+fanciful, "it is not fanciful to imagine that there might develop
+a modern and secular counterpart of it that embodies its central
+characteristic: a system of overlapping authority and multiple
+loyalty" (Bull [1977] 2012: 245 — quoted direct; every citation in
+this chapter formerly carried via Baaz is now to the copy in this
+book's corpus, whose pagination matches the earlier printings).
+The five trends he weighed as prima facie evidence sit not in the
+tenth chapter but in the eleventh — "The Decline of the States
+System?" — under numbered headings: the regional integration of
+states; the disintegration of states; the restoration of private
+international violence; transnational organisations; and the
+technological unification of the world (Bull [1977] 2012: 248–66;
+the intermediaries' habit of citing the whole run to "ch. 10"
+flattened a structure this book now restores). And then — the
+honesty for which this book keeps returning to him — he weighed
+his own five trends and declined the conclusion, in a verdict now
+quotable exactly: "there is no clear evidence that in the next
+few decades the states system is likely to give place to any of
+the alternatives to it that have been nominated" (Bull [1977]
+2012: 265). The book's
 relation to that caution was fixed in the Introduction and bears
 restating in one line: Bull's doubt was correct for his decade.
 The five trends were, in 1977, weak signals. Every one of them is
@@ -201,6 +209,28 @@ of humanity's commerce, memory and speech is transacted. On every
 axis, the 1977 reading of insufficiency was right, and a 1977
 reading of the 2020s evidence would not be. That is all the chapter
 claims, and it is enough.
+
+[DELTA — flagged on the first-hand reading of Bull, 2026-08-03, and
+not silently absorbed: Bull's per-trend tests are more specific than
+the "insufficient evidence" paraphrase the secondary literature
+carries, and the paragraph above must ultimately answer them in
+their own terms. His recurring test is not *how much* the trends had
+advanced but whether they replaced sovereignty as the organising
+principle or merely reproduced it in new units and were
+re-subordinated to it: integration that terminates in a new
+(European) state affirms the system; separatists who seek their own
+seats affirm it (the movements "do not bring it into question,"
+p. ~257); the multinational's first-decade "inroads" met "a reaction
+… demonstrating the capacity of sovereign states … to lay down
+their own terms" (p. ~262); and "'the shrinking of the globe' …
+does not in itself create a unity of outlook and has not in fact
+done so" (p. ~263). Crossing *his* threshold therefore means
+showing integration that does not terminate in a new sovereign,
+private force the state cannot re-subordinate, transnational
+organisations whose terms states cannot dictate — a sharper demand
+than the paragraph above meets as drafted. The delta is for
+Roderick's judgment at the rewrite: restate the crossing against
+Bull's actual tests, or qualify the claim.]
 
 Jörg Friedrichs supplied, a generation later, the analytical
 engine the intuition had lacked, and his article is now in this
@@ -427,7 +457,7 @@ been, once already, a matter of record.
 
 ---
 
-*Draft ends. Word count ~4,400 (memo-limited; Bull ch. 10, Morris,
+*Draft ends. Word count ~4,700 (memo-limited; Morris,
 Nicholson/Forey, Jones and the Rhineland monographs will thicken
 §§II–III at the upgrade pass; the Rhineland baseline is deliberately
 not asserted per Revisions 2/4). Voice-discipline ledger (per the
@@ -439,7 +469,9 @@ times with nothing fully erased" (§II); aphoristic line — "The state
 is not the default of European politics; it is an episode" (§VI).
 No [BRIDGE] passages (the chapter is diagnostic; the medieval
 material is baseline, not analogy). [GAP] flags: Morris; Nicholson/
-Forey; Jones; Bull's verbatim caution. Estimates flagged inline
+Forey; Jones (Bull's caution [GAP] closed 2026-08-03; a [DELTA] on
+his per-trend tests flagged in §III for the rewrite). Estimates
+flagged inline
 (Ocean Tomo; shadow economy; crypto). Does not assume ch06's
 findings; promises them (§§I, VI). No claim beyond the reviewed
 memo.*
@@ -460,5 +492,26 @@ Roderick reviewed the Batch 2 drafts: approved with revisions.
 
 ---
 
+3. **(2026-08-03 — Bull retrieved and read; all via-Baaz citations
+   upgraded to direct.)** *The Anarchical Society* (4th ed., Columbia,
+   2012) is in the corpus; pagination matches the earlier printings
+   (key passages at pp. 245, 265). Changes: (a) the two p. 245
+   formulations quoted direct and slightly extended from the page
+   (the "not fanciful" clause restored); (b) a structural correction
+   — the five trends sit in **ch. 11, "The Decline of the States
+   System?" (pp. 248–66), under numbered headings (i)–(v)**, not in
+   ch. 10 as the intermediary-derived citations implied; (c) the
+   insufficiency paraphrase replaced by Bull's verbatim chapter
+   verdict (p. 265); (d) a [DELTA] flagged in §III rather than
+   silently absorbed — Bull's per-trend tests (reproduce-vs-replace;
+   re-subordination; unity of outlook) are sharper than the
+   "insufficient evidence" summary, and the chapter's
+   "crossed on his own measures" argument must ultimately answer
+   them as written; Roderick's call at the rewrite. Changed passages
+   PENDING HUMAN REVIEW within the otherwise reviewed draft.
+
+---
+
 STATUS: REVIEWED (Roderick, 2026-08-02) — approved with revisions
-applied
+applied. Revisions 3 (Bull direct quotes; the tests [DELTA]) PENDING
+HUMAN REVIEW.

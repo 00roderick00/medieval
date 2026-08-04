@@ -328,6 +328,24 @@ as written.
    (§§1, 3) are closed; "quoted in Baaz" citations may be upgraded to
    direct cites at draft.
 
+6. **(2026-08-03 — Bull in repo; §1's flags close; one delta flagged.)**
+   *The Anarchical Society*, 4th ed. (2012), retrieved and chs. 10–12
+   read. §1's [UNVERIFIED — RETRIEVAL] flags close: the p. 245
+   formulations verified verbatim (Baaz's citations were accurate);
+   the caution is now Bull's own sentence pair at p. 265 ("going
+   beyond the evidence… giving way" / "no clear evidence… give
+   place" — the two phrasings are adjacent sentences, which explains
+   the intermediaries' variance). Structural correction: the five
+   trends are examined in **ch. 11 (pp. 248–66)** under numbered
+   headings, not ch. 10 — memo §1's "245–266" span silently crossed
+   the chapter break. And a [DELTA] is flagged to the draft rather
+   than absorbed: Bull's per-trend tests are reproduce-vs-replace
+   tests (separatism affirms the system; states re-subordinated the
+   multinationals; interaction ≠ common outlook), sharper than the
+   insufficiency paraphrase — the draft's "crossed on his own
+   measures" argument is put to Roderick against the tests as
+   written (ch01 draft Revisions 3).
+
 ---
 
 STATUS: REVIEWED (Roderick, 2026-07-22) — cleared for drafting

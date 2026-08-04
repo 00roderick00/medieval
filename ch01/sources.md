@@ -155,3 +155,19 @@ reading-list.md.
 pages are tertiary; the load-bearing formulations rest on Baaz (open,
 peer-reviewed) with the gated primaries on the RETRIEVAL LIST for direct
 quotation.*
+
+## Added 2026-08-03 — Bull retrieved
+
+- **T2 — Hedley Bull, *The Anarchical Society*, 4th ed. (Columbia UP,
+  2012; first ed. 1977)** — IN REPO (`corpus/retrieved/the anarchical
+  society.pdf`; OCR'd scan, rough in patches — re-verify further
+  verbatim against page images). Edition identified from front matter;
+  pagination matches the 2002 printing. Pins now used direct: p. 245
+  (the neo-mediaevalism passage and the "central characteristic"
+  formulation, both formerly via Baaz); pp. 248–66 (ch. 11, the five
+  trends under numbered headings — the structural correction); p. 265
+  (the chapter verdict, verbatim, and the "giving way" sentence).
+  Bull's per-trend test sentences (pp. ~257, ~262, ~263) carried in
+  the §III [DELTA] flag. All former "via Baaz" citations in the draft
+  are upgraded; Baaz remains listed as the verification intermediary
+  of record for the memo stage.
