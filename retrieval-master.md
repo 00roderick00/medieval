@@ -489,3 +489,31 @@ l'amiable, T1 ~267–68); ch03 (Meaux 1439: 20/50 companies écorcheur,
 repo names Contamine 1972 for anything the monograph contains; the
 negative resolutions re-point to the DeVries monograph and Smith &
 DeVries (2005, BUY).
+
+## 2026-08-04 (second entry): Pollard — PARTIAL delivery; three primary editions flagged from his notes
+
+**Pollard, *John Talbot*, 2nd ed. (2005)** — the delivered
+`John_Talbot_readable_reconciled.pdf` is **front matter + ch. 1 + notes
+only** (14 image tiles; OCR sidecar built). Ch. 1 INTEGRATED (ch06
+Revisions 14 / draft Revisions 7; ch00-intro Revisions 3): 250 guns;
+ramparts/standard-bearer/axe; age ~66 with fn 19's argument; Basin's
+judgment verbatim; the ch. 1 assessment sentence; Verneuil-1424
+negative (fn 36). **STILL WANTED: chs. 2–8** — the Rouen hostage terms
+and the reported release oath (load-bearing, ch06 §VI); captaincies
+and chronology; retinue; finances (the £1,205/1436 return is in ch. 1,
+fn 23's caveats captured); Berkeley; the final verdict.
+
+**New rows from Pollard's ch. 1 apparatus (top three by value):**
+1. **Thomas Basin, *Histoire de Charles VII*** (ed. Samaran, 2 vols) —
+   the hostile chronicle Pollard's Castillon judgment rests on; also
+   wanted independently by ch05/ch10 (Basin's 15-companies attribution;
+   the "homo plebeyus" sneer). ROUTE: open scans exist (older Quicherat
+   ed.); Samaran gated.
+2. **English Suits before the Parlement of Paris, 1420–1436**, ed.
+   Armstrong & Allmand (Camden 4th ser. 26, 1982) — the legal-primary
+   window on Talbot's world (fn 36); gated.
+3. **R. Brill, "An English captain of the later hundred years war"**
+   (Princeton PhD, 1966) — the heroic counter-case at full strength,
+   needed for the workshop hypothesis file; UMI/ProQuest.
+(Burne, *The Agincourt War*, already listed; CPR/CCR calendars are
+library staples, not listed.)
