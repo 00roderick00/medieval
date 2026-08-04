@@ -120,3 +120,13 @@ sources above (CLAUDE.md §4). URLs in the session research record.*
   "going beyond the evidence… giving way" sentence, quoted direct; the
   adjacent "give place" chapter-verdict sentence). Bibliography cites
   the 4th ed.
+
+## Added 2026-08-04 — Pollard, partial delivery
+
+- **T2 — Pollard, *John Talbot*, 2nd ed. (2005), ch. 1 + front matter
+  only** (see ch06/sources.md for the full entry). Intro pins: p. 1
+  (250 guns; the ramparts and the axe; ~66 not eighty; the
+  white-horse/no-armour tradition, Pollard's own hedge). Chs. 2–8
+  still wanted — the hostage oath the seize-the-train clause awaits
+  is in them.
+

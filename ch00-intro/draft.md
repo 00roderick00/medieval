@@ -22,12 +22,15 @@ besieging Castillon were abandoning their fortified camp; a man of his
 own nation, who had seen much war, told him to his face that it was
 untrue; Talbot struck him and rode. What waited behind the ditch and
 palisade along the little river Lidoire was not an army in the sense
-Talbot's sixty years had taught him — it was an artillery park,
-perhaps two to three hundred guns of all sizes, entrenched, provisioned
+Talbot's sixty years had taught him — it was an artillery park: in his
+biographer's reconstruction, "a line of 250 guns of all calibres
+massed wheel to wheel" (Pollard, ch. 1, p. 1), entrenched, provisioned
 and paid, sited by a man who had begun his career as a financial clerk.
-The Anglo-Gascon charge went in frontally, banners forward, and was
-destroyed in an afternoon; Talbot's horse was brought down by a round
-and the old man was killed on the ground; his son died with him. He
+The Anglo-Gascon charge went in frontally, banners forward — held
+the ramparts for one moment, long enough for the standard-bearer to
+fall planting the standard — and was destroyed; Talbot's horse was
+brought down and the old man was killed on the ground, his skull
+smashed by an axe (Pollard, ch. 1, p. 1); his son died with him. He
 had passed through the new order's machinery once already — held
 hostage for a surrendered city's compositions, his liberty a clause in
 a treaty — and if one reading of the day is right, he charged not in
@@ -329,6 +332,19 @@ the reviewed record.*
 
 ---
 
+3. **(2026-08-04 — Pollard ch. 1 at page level.)** The Castillon
+   opening's gun count upgraded to Pollard's figure (250, wheel to
+   wheel), and the death sequence gains the ramparts moment and the
+   axe, both at ch. 1, p. 1; the age (~66, not eighty) now rests on
+   the biography's page rather than the digest. The delivered file
+   is ch. 1 + front matter only (see ch06 memo Revisions 14); the
+   seize-the-train clause's hostage-oath deepening is BLOCKED
+   pending the remaining chapters. Changed passages PENDING HUMAN
+   REVIEW.
+
+---
+
 STATUS: REVIEWED (Roderick, 2026-08-02) — approved with revision
 applied; falsifiability passage confirmed verbatim. Revisions 2
-(Bull direct quotes) PENDING HUMAN REVIEW.
+(Bull direct quotes) and Revisions 3 (Pollard ch. 1) PENDING HUMAN
+REVIEW.
