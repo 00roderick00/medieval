@@ -456,8 +456,11 @@ origin, marked inference). → artillery-reconquest Revisions 8.
 ## 2026-08-04: acquisition row added on Roderick's query
 
 **Robert D. Smith & Kelly DeVries, *The Artillery of the Dukes of
-Burgundy, 1363–1477* (Boydell, 2005)** — NOT IN CORPUS; never
-previously tracked. BUY (recommended). NEEDED FOR (ch10 §VI, the
+Burgundy, 1363–1477* (Boydell, 2005)** — NOT IN CORPUS. **ROUTE: BUY**
+(confirmed by Roderick, 2026-08-04). Additional need identified at the
+workshop job: gun-construction and materials detail the French
+accounts don't carry. Note: Hall (already listed) covers the powder
+chemistry. NEEDED FOR (ch10 §VI, the
 Burgundian counter-case): a defensible Grandson gun-loss count (the
 "~400" tradition figure is currently attributed-only; Depreter 2011
 documents the aftermath without a count; his monograph gated);
@@ -466,3 +469,23 @@ the ducal ordinances' artillery provisions (pairs with Vaughan, still
 wanted, for labels); and the Burgundian account-book texture beside
 the in-repo recette-de-l'artillerie material. Bears on the promoted
 Depreter-refinement thread (ch10 → ch12).
+
+## 2026-08-04: Contamine Tome 2 → INTEGRATED (the owed integration complete)
+
+Both tomes read in full including the annex account-documents. A
+structural correction: the artillery-institution material sits at
+**T1 ~pp. 122–23 and 296–99 plus the annexes** — T2's chapters are
+XV–XVI (the ordonnance soldiery) and the Annexes I–XIII; the memos'
+"artillery chapters in Tome 2" expectation was wrong in location,
+satisfied in substance. Flags resolved this pass: ch06 (ennoblement
+JJ 178 n°256 + Basin's "homo plebeyus"; calibres/Formigny/place-count/
+Castillon-count all resolved NEGATIVE — Contamine silent, hedges
+stand; fn 93 gloss confirms p. 295 = Rouen; the pre-1442 crossover,
+Annexe XII E); ch10 (quartering billet standard, T2 ch. XVI; craft
+layer; Montlhéry named guns "L'ostesse"/"l'ung des douze pers" via
+Perroy fn; 1406 master-as-merchant); ch07 (Praguerie partage à
+l'amiable, T1 ~267–68); ch03 (Meaux 1439: 20/50 companies écorcheur,
+63% of effectives). No remaining [UNVERIFIED — RETRIEVAL] flag in the
+repo names Contamine 1972 for anything the monograph contains; the
+negative resolutions re-point to the DeVries monograph and Smith &
+DeVries (2005, BUY).
