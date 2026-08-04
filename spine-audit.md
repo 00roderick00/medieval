@@ -163,3 +163,56 @@ wording), and four substantive tensions with SPINE judgments (3, 4, 6,
 11). The two SPINE-directed ch12 insertions (Revisions 3) stand
 PENDING HUMAN REVIEW per today's instruction and are not audited here,
 being the spine's own text executed.*
+
+---
+
+# Addendum — SPINE §7 tense-conformance sweep (2026-08-03)
+
+*Produced on §7's delivery ("wherever a draft states the reassertion as
+achieved rather than required, that is a conformance error against this
+section"). Same rules as the main audit: quoted, located, one line,
+nothing proposed. The two items §7 reserves to Roderick's hand — the
+ch01 §III [DELTA] resolution and the Introduction's closing page — are
+untouched and excluded here.*
+
+**A1.** *"China has substantially executed the settlement already"*
+(ch12 §IV; echoed in the Coda §V, "substantially executed but exposed
+at the summit"). — Achieved register where §7's tense is progressive
+("China is executing it"); the sweep's clearest conformance error, and
+it compounds main-audit entry 10.
+
+**A2.** *"Seen from inside, the settlement's texture is already
+documented"* (ch12 §III, the section's frame). — The section presents
+current instruments as the interior of a settlement that §7 holds is
+NOT accomplished; the facts cited are current, but the frame states an
+inside the settlement does not yet have.
+
+**A3.** *"The settlement, seen from outside, is already legible in the
+blocs' own declarations"* (ch12 §II). — Borderline: "legible" claims
+emergence rather than achievement, but the noun governs — what is
+legible in the declarations is the *pressure and the programmes*, not
+the settlement.
+
+**A4.** *"the same mechanism, operating now, produces…"* (ch12 §I, the
+wager sentence; similar constructions at ch11 §VI's opening). — Trend
+register where §7 rests the wager on *requirement* ("that is why it
+will happen, not because it is already happening"); the drafts argue
+from observed motion where §7 argues from compulsion — a register
+difference running through the modern sections generally, noted once.
+
+**A5.** *"US 4/5 moves in execution… China 5/5 in execution"*
+(Appendix C, the C11-1 scorecard baseline). — "In execution" is
+progressive and near-conformant, but 5/5 states completion of the
+move-set; §7's casting ("executing," uneven) reads one notch cooler.
+
+**Conforming counter-examples, for the rewrite's reference:** ch10
+§VIII ("The modern half ends earlier in the arc — nearer 1445 than
+1494… the outcome unproven") and ch08 §VII ("observable, dateable, and
+early in its arc") state §7's tense exactly; ch12 §IV's US passage
+("the candidacy is incomplete") and the latecomer logic of SPINE §7
+("the American case is England's position") point the same way —
+main-audit entry 9's flat superlative aside.
+
+*Five findings. Note for the rewrite only (proposing nothing): §7's
+England-as-latecomer casting supplies the frame that would resolve
+main-audit entries 9–10 in one stroke.*
