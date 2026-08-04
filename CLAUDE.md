@@ -179,3 +179,9 @@ has superseded it.
   indicators without sources for the baselines.
 - Chapter 12's implications section stays comparative historical analysis:
   asset-class direction is permitted, actionable investment guidance is not.
+- FIREWALL (added 2026-08-04, authorized): workshop/ is outside the book.
+  No chapter memo, draft, appendix, assembly, or audit job may cite,
+  quote, or draw from workshop/ files. Material moves from workshop/
+  into the manuscript only by Roderick's explicit per-item instruction,
+  re-entering through the normal provenance gate, at which point every
+  [COLOUR — UNSOURCED] item must be sourced or cut.
