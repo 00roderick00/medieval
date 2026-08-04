@@ -444,6 +444,25 @@ chapter's Part-I inheritance at page level; N&I ch. 1 (ch07 Revisions 7)
 is available for the populism cross-reference in §7 with its
 draft-pagination caveat.
 
+## Revisions (post-review)
+
+1. **(2026-08-04 — Wolffe 1964 in repo; the §1 chamber-finance series
+   flag closes.)** "Henry VII's Land Revenues and Chamber Finance,"
+   *EHR* 79 (1964), pp. 225–54, read in full. The table (p. 237,
+   figures to the nearest £1,000; PRO E101/413/2/1–3): chamber
+   receipts, yearly averages — **£17,000** (4 July 1487–4 July 1489;
+   land revenues £3,000), **£27,000** (1 Oct 1492–1 Oct 1495; land
+   £11,000), **£105,000** (the period ending 1505; land £40,000). The
+   memo's tertiary arc ("~£3k → ~£105k") is superseded by the pinned
+   series — the £3k was the *land-revenue* line's start, the £105k
+   the *total* line's end; the draft now prints the table's own
+   pairs. And Wolffe's continuity corrective, verbatim: "even after
+   ten years of Tudor rule the scale of chamber activity was still
+   smaller than it had been at the end of the Yorkist period" (p.
+   237) — the Grummitt point the memo carried at second hand, now in
+   the source it came from. Chrimes remains on retrieval for the
+   institutional narrative.
+
 ---
 
 STATUS: REVIEWED (Roderick, 2026-07-31 — read in full, nothing to add; no revisions required)
