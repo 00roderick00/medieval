@@ -3470,14 +3470,22 @@ the "poor commons of Kent," and their captain — a man of obscure origin
 who gave his name as John Mortimer, and whom the government would
 insist, then and after, was an Irish adventurer named Jack Cade — styled
 himself Captain of Kent. The men behind him had not gathered as a mob
-gathers. The county had assembled itself: summoned hundred by hundred
-through the same constable-and-muster machinery by which the crown
-itself raised Kent for war, the posse of the shire called out by its
-own locally chosen officers — against, as it turned out, the men who
-normally did the calling (Bohna 2003, at abstract level: the rising
-mobilised through "the traditional structure of the posse comitatus or
-militia under the command of locally-elected constables" [GAP: the
-article's full text and exact phrasing await retrieval]). Among the
+gathers. The county had assembled itself: "the power of the county
+of Kent assembled in arms under its elected constables… Having
+mustered themselves at the gathering places traditionally used by
+each hundred" (Bohna 2003: 563) — the same constable-and-muster
+machinery by which the crown itself raised Kent for war, operated,
+as it turned out, against the men who normally did the operating.
+The pardon rolls quantify the machinery: fifty-three constables from
+thirty-one of Kent's sixty-eight hundreds headed their named
+contingents, "sometimes followed by the note 'and all others of the
+said hundred'" (Bohna 2003: ~566). This was, in Bohna's verdict,
+"not a jacquerie, not an act of disorganized undirected violence"
+but "a demonstration of dissent by rural society embodied as the
+militia of the county" (~564) — the array and the posse providing
+"a ready military organization for revolt, complete with sub-units,
+chain of command and provision for emergency communications between
+districts" (~576). Among the
 thousands who would later sue out pardons were a knight, two members of
 Parliament, eighteen squires, gentlemen in numbers, yeomen,
 husbandmen, craftsmen, village constables — the office-holding,
