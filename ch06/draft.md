@@ -280,8 +280,12 @@ the age: half a year, and a moral wound that chroniclers on both sides
 recorded.
 
 In October 1449 a French army appeared before the same walls. On 16
-October an assault was repelled — the garrison was competent and the
-walls were sound. On 19 October, while the garrison heard mass, the
+October an assault was repelled — citizens inside aiding the
+attackers onto the wall, Talbot in person with his banner driving
+them off it, at a cost of fifty or sixty killed or taken (Escouchy,
+i. 215–16 [TRANS. CLAUDE]; the Berry Herald's parallel account at
+Stevenson 1863: 295) — the garrison was competent and the walls were
+sound. On 19 October, while the garrison heard mass, the
 townsmen opened a gate. On 29 October the English capitulated on terms;
 in the first days of November the castle and palace were handed over;
 on 10 November Charles VII made his ceremonial entry by the Porte
@@ -319,11 +323,16 @@ surrender "the first day of the year," 1 January 1450 (Rogers 1993:
 265–66, citing Chartier ii. 178–79; Stevenson 1864: II.ii). Five weeks
 against the town's stores and disease in 1415; a season or more in
 1440; seventeen days of bombardment in 1449. Same walls. The
-seventeen-day figure, note, is not a collapse of the defence's will
-alone: the garrison tried the sword first. When the French attempted an
-escalade, Talbot's namesake garrison threw it back — the Berry Herald
-describes the French knights driven bodily off the wall (Berry Herald,
-in Stevenson 1863: 295). Storming failed at Harfleur; the guns did not.
+seventeen-day figure, note, stands without any storming
+counter-factual: the town fell to the guns and the treaty, and to
+nothing else. (An earlier state of this draft placed a failed French
+escalade here on the Berry Herald's authority; first-hand reading of
+Escouchy has since shown that scene — Talbot in person, banner beside
+him, driving the attackers from the wall — to belong to Rouen's
+repelled assault of 16 October, where this draft now records it; the
+reattribution is logged in the evidence file, and the census point
+survives at Rouen: storming was tried, failed, and the city fell by
+composition.)
 
 And here the chronicle hands the argument its own language, in a
 sentence this book could not improve upon. Robert Blondel, the Norman
@@ -1041,6 +1050,23 @@ per §7; [BRIDGE] and [TRANS. CLAUDE] passes remain his.
 
 ---
 
+6. **(2026-08-03 — a misattribution corrected from Escouchy t. I.)**
+   The probe file had assigned Berry p. 295 (the escalade Talbot
+   repels in person) to **Harfleur**; Escouchy i. 215–16, now read,
+   narrates the same scene at **Rouen** — the Porte Beauvoisis, the
+   citizens aiding the attackers, Talbot with his banner, 50–60 lost
+   — and Berry's page sequence (p. 265 July events; p. 316 the 10
+   November entry) brackets p. 295 inside the Rouen siege, where
+   Contamine's fn 93 gloss had in fact placed it. §IV's Harfleur
+   paragraph is corrected (the escalade sentence removed, a bracketed
+   note recording the change); the Rouen paragraph now carries the
+   scene with both chronicle citations. The census point (storming
+   tried, failed, composition followed) survives intact at Rouen.
+   Changed passages PENDING HUMAN REVIEW.
+
+---
+
 STATUS: REVIEWED (Roderick, 2026-07-31) — approved with revisions
 applied ([BRIDGE] and [TRANS. CLAUDE] passes outstanding); Revisions 5
-added 2026-08-01 on instruction
+added 2026-08-01 on instruction; Revisions 6 (the p. 295
+reattribution) PENDING HUMAN REVIEW
