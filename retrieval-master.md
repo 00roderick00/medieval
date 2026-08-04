@@ -442,3 +442,13 @@ Remaining top-tier wants after this delivery: **Harvey; Pollard (book);
 Vaughan; Kantorowicz; Barker; İnalcık/Kafadar; Wolffe/Chrimes/Lander;
 Mallett; Rengger/Holsinger; Leseur t. II is in repo — t. I now too;
 Escouchy t. III; Beaucourt I–III; Chartier t. I/III.**
+
+**(2026-08-03, addendum):** Beaucourt t. IV force-OCR complete
+(`source-library/Beaucourt-T4-ocr.txt`); t. IV proves to end at the
+rupture — the reconquest day-dates were in **t. V** all along, now
+parsed: Fresnay 22 Mar 1450 RESOLVED; Bayeux capitulation 16 May 1450;
+Rouen treaty terms (50,000 écus within a year); Harcourt/Chambrais/
+Argentan dated; Pont-de-l'Arche reprisal under the Breton banner, its
+day still open (Somerset list's 9 May stands; the t. IV
+ambassadors-at-Pont-de-l'Arche-15-May date noted as a possible variant
+origin, marked inference). → artillery-reconquest Revisions 8.

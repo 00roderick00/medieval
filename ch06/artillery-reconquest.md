@@ -510,6 +510,43 @@ body above stands as written.
      text layer is badly garbled; a force-OCR pass is running, and
      the Pont-de-l'Arche/Fresnay day-date checks are queued on it.
 
+8. **(2026-08-03, second entry — Beaucourt V parsed after the t. IV
+   force-OCR; the queued day-date checks resolve.)** Beaucourt's
+   reconquest volume (t. V, in repo since 27 July) carries the
+   narrative the t. IV acquisition was expected to hold; t. IV (now
+   OCR'd) proves to end at the rupture. Resolutions:
+   - **Fresnay: rendered 22 March 1450** — "il vint s'établir à
+     Alençon (15 mars), d'où il envoya assiéger Fresnay-le-Vicomte,
+     qui se rendit le 22" (Beaucourt V). The row's [variant] flag
+     closes on the 22 March side; the memo's tertiary "Jan 1450" is
+     dead. Bonus on the same page: the king had "un charriot d'un
+     nouveau modèle, destiné au transport de l'artillerie" built and
+     delivered to him at Alençon — transport innovation, royal
+     attention to the train's logistics, mid-campaign.
+   - **Bayeux: capitulation signed 16 May 1450 by Dunois**
+     (Beaucourt V) — the row's "mid-May" sharpened to a day.
+   - **Rouen: the 29 October treaty's terms at T2 narrative level** —
+     Somerset engaged to evacuate the palace and castle, to deliver
+     Caudebec, Tancarville, Honfleur, Arques and Montivilliers, and
+     to pay the 50,000 écus **within one year** (the payment term new
+     to the table); entry confirmed Monday 10 November. The palace/
+     castle handover's exact day is still not pinned — flag stands.
+   - **The eastern sweep dated**: Harcourt 1–14 September; Chambrais
+     15–20 September; Argentan capitulated 4 October 1449
+     (Beaucourt V) — Table I(b) texture.
+   - **Pont-de-l'Arche: the reprisal framing confirmed, with a
+     deniability detail** — royal captains took Pont-de-l'Arche,
+     Conches and Gerberoy "en représailles de la surprise de
+     Fougères… arborant la bannière du duc de Bretagne" — under the
+     banner of Brittany (Beaucourt V). The capture's day-date remains
+     unpinned in Beaucourt's narrative; the Somerset list's 9 May
+     stands as the documentary date, and a possible origin of the
+     "15 May" tradition surfaces in **t. IV**: the pre-rupture
+     agreement fixed 15 May as the day ambassadors were to meet *at
+     Pont-de-l'Arche* — a date attached to the place in the
+     diplomatic record, plausibly transferred to the capture by later
+     tradition [INFERENCE — marked as such, not asserted].
+
 ---
 
 STATUS: REVIEWED (Roderick, 2026-07-27) — feeds the ch06 draft
