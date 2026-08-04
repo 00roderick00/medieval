@@ -106,3 +106,17 @@ memo); listed here are the texts the introduction itself engages.
 
 *Consulted 2026-07-24; provenance runs to the documents and named
 sources above (CLAUDE.md §4). URLs in the session research record.*
+
+
+## Added 2026-08-03 — Bull retrieved
+
+- **T2 — Hedley Bull, *The Anarchical Society: A Study of Order in World
+  Politics*, 4th ed. (Columbia UP, 2012; first ed. 1977)** — IN REPO
+  (`corpus/retrieved/the anarchical society.pdf`; OCR'd scan, text layer
+  rough in patches — verify any further verbatim against the page
+  images). Edition identified from the front matter (Hurrell foreword);
+  **pagination matches the Kelemen-cited 2002 printing** (key passages
+  at pp. 245, 265 in both). Pins used by the Introduction: p. 265 (the
+  "going beyond the evidence… giving way" sentence, quoted direct; the
+  adjacent "give place" chapter-verdict sentence). Bibliography cites
+  the 4th ed.

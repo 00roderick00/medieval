@@ -269,10 +269,15 @@ the new medievalism its name in 1977, weighed the evidence of his
 decade and declined his own hypothesis: "it would be going beyond
 the evidence to conclude that 'groups other than the state' have
 made such inroads on the sovereignty of states that the states
-system is now giving way to this alternative" (Bull, via Kelemen
-2019, citing Bull 2002: 265; one word — "giving way to" against
-"giving place to" — varies by printing and is flagged for the
-in-copy check [GAP]). Bull's caution was correct, and this book's
+system is now giving way to this alternative" (Bull [1977] 2012:
+265 — quoted direct from the copy in this book's corpus; the
+way/place confusion in the secondary literature dissolves on the
+page, where the very next sentence answers the chapter's question
+with the other phrase: "there is no clear evidence that in the
+next few decades the states system is likely to give place to any
+of the alternatives to it that have been nominated" — two
+adjacent sentences, one of each). Bull's caution was correct, and
+this book's
 first chapter begins by saying so: in 1977 the evidence was not
 there. The argument of everything that follows is that it is
 there now — and that it points, not where Bull's successors
@@ -284,9 +289,9 @@ first chapter opens the books.
 
 *Draft ends. Word count ~2,700 against a ~12,000 chapter weight
 (the intro will thicken as Roderick's [BRIDGE] and voice passes
-land across the book; Pollard page cites, Rengger, Bull's own
-text, and Holsinger re-verification remain on the acquisition
-list). Voice-discipline ledger (counted as produced): coined
+land across the book; Pollard page cites, Rengger, and Holsinger
+re-verification remain on the acquisition list; Bull's own text
+arrived 2026-08-03). Voice-discipline ledger (counted as produced): coined
 concepts — the book-level pair introduced and spent here: the*
 artillery state *(§I) and the* Tudor turn *(§I); vivid image —
 the underdetermined construction-site scene (§II) carried as
@@ -299,7 +304,8 @@ appears in §I ("and if one reading of the day is right… a
 possibility Chapter 6 weighs and declines to decide"). Castillon
 per ch06's corrections (Talbot ~66; two-to-three-hundred guns;
 no "sixty places"). [GAP] flags: Pollard at page level; Rengger;
-Bull way/place variant; Holsinger re-verify. No claim beyond
+Holsinger re-verify (the Bull way/place [GAP] closed 2026-08-03,
+Revisions 2). No claim beyond
 the reviewed record.*
 
 ## Revisions (post-review, 2026-08-02)
@@ -310,5 +316,19 @@ the reviewed record.*
 
 ---
 
+2. **(2026-08-03 — Bull retrieved; the caution quoted direct.)** *The
+   Anarchical Society* is in the corpus (4th ed., Columbia, 2012;
+   pagination verified to match the Kelemen-cited 2002 printing — the
+   key passages fall at pp. 245 and 265 in both). §V's caution
+   quotation is upgraded from via-Kelemen to a direct quote at p. 265;
+   the way/place variant is settled and explained (both phrasings
+   occur, in adjacent sentences: "giving way" in the neo-mediaevalism
+   sentence, "give place" in the chapter verdict); the [GAP] and the
+   intermediary are removed. The changed sentences stand PENDING HUMAN
+   REVIEW within the otherwise reviewed draft.
+
+---
+
 STATUS: REVIEWED (Roderick, 2026-08-02) — approved with revision
-applied; falsifiability passage confirmed verbatim
+applied; falsifiability passage confirmed verbatim. Revisions 2
+(Bull direct quotes) PENDING HUMAN REVIEW.
