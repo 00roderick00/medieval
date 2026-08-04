@@ -413,3 +413,32 @@ a [DELTA] for the rewrite rather than absorbed); coda §III updated;
 appendix-a entry updated. CAUTION: the scan's OCR is rough in patches —
 any further verbatim quotation should be checked against the page
 images. The oldest item on the acquisition list is closed.
+
+## 2026-08-03 (second entry): the six-item delivery — all integrated
+
+- **Leseur t. I** (`histoiredegaston01leseuoft_bw.pdf`) — IN REPO,
+  parsed. Dax = **1451** (fn 107's year flag resolved) with the SHF
+  editor's caution recorded (Leseur's Dax account "fort exagéré…
+  inexact"); the Bayonne **white-cross prodigy at source** (i. ~214);
+  entry-date variant (22 vs 20/21 Aug) flagged. → artillery-reconquest
+  Revisions 7.
+- **Escouchy t. I** (`chroniquedemathi01escouoft.pdf`) — IN REPO,
+  parsed. i. 215–16 settles the **Berry p. 295 reattribution
+  (Harfleur → Rouen)**; i. 356–58 the Bordeaux 1451 treaty anatomy
+  (29/30 June variant flagged); i. 192 Pont-Audemer texture; i. 337 ff.
+  the treaty-request chapter. → ch06 draft Revisions 6 (PENDING HUMAN
+  REVIEW), memo Revisions 12.
+- **Beaucourt t. IV** (Gallica scan) — IN REPO; text layer badly
+  garbled; **force-OCR running**; the Pont-de-l'Arche/Fresnay day-date
+  checks queued on the sidecar.
+- **The three browser pulls — CLOSED at T1** (ch12 Revisions 5): the
+  Jeddah statement quoted verbatim; **Proclamation 11002** (14 Jan
+  2026, 91 FR 2443 — the Section 232 semiconductor tariff, 25% ad
+  valorem first phase); **CRS R48887 original** (mirror retired; the
+  $11.3bn figure's attribution corrected to NYT-reported Pentagon
+  briefings, partial; Operation Epic Fury named).
+
+Remaining top-tier wants after this delivery: **Harvey; Pollard (book);
+Vaughan; Kantorowicz; Barker; İnalcık/Kafadar; Wolffe/Chrimes/Lander;
+Mallett; Rengger/Holsinger; Leseur t. II is in repo — t. I now too;
+Escouchy t. III; Beaucourt I–III; Chartier t. I/III.**

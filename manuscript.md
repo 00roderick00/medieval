@@ -2672,20 +2672,22 @@ the age: half a year, and a moral wound that chroniclers on both sides
 recorded.
 
 In October 1449 a French army appeared before the same walls. On 16
-October an assault was repelled — the garrison was competent and the
-walls were sound. On 19 October, while the garrison heard mass, the
+October an assault was repelled — citizens inside aiding the
+attackers onto the wall, Talbot in person with his banner driving
+them off it, at a cost of fifty or sixty killed or taken [^6-10] — the garrison was competent and the walls were
+sound. On 19 October, while the garrison heard mass, the
 townsmen opened a gate. On 29 October the English capitulated on terms;
 in the first days of November the castle and palace were handed over;
 on 10 November Charles VII made his ceremonial entry by the Porte
 Beauvoisine, the Berry Herald riding in the procession he would later
-describe [^6-10]. Investment to
+describe [^6-11]. Investment to
 capitulation: some three weeks. And the terms tell us more than the
 duration. Somerset's garrison was not massacred through a breach; it
 negotiated its way out, at the price of 50,000 écus, a clutch of
 hostages — the greatest of them John Talbot, earl of Shrewsbury — and
 the contracted delivery of a whole cluster of subsidiary places: Arques,
 Caudebec, Tancarville, Montivilliers, Lillebonne, the Harfleur–Honfleur
-estuary forts [^6-11]. One siege, settled
+estuary forts [^6-12]. One siege, settled
 by composition, was worth half a dozen fortresses that the French never
 had to approach. The 1449 instrument was not a sack; it was a
 settlement of accounts, and the account was Normandy's.
@@ -2703,16 +2705,22 @@ played a serious part, and hard-won at that; the
 town's resistance cost him a sick army and shaped the desperate march
 that ended, by accident, at Agincourt. When the English themselves had
 to retake Harfleur in 1440, the operation took somewhere between three
-and six months, depending on which chronicler one credits [^6-12]. In December 1449 the Bureau train arrived before the same
+and six months, depending on which chronicler one credits [^6-13]. In December 1449 the Bureau train arrived before the same
 town, emplaced sixteen large bombards, and battered it for seventeen
 days, whereupon the garrison made terms; the Somerset list dates the
-surrender "the first day of the year," 1 January 1450 [^6-13]. Five weeks
+surrender "the first day of the year," 1 January 1450 [^6-14]. Five weeks
 against the town's stores and disease in 1415; a season or more in
 1440; seventeen days of bombardment in 1449. Same walls. The
-seventeen-day figure, note, is not a collapse of the defence's will
-alone: the garrison tried the sword first. When the French attempted an
-escalade, Talbot's namesake garrison threw it back — the Berry Herald
-describes the French knights driven bodily off the wall [^6-14]. Storming failed at Harfleur; the guns did not.
+seventeen-day figure, note, stands without any storming
+counter-factual: the town fell to the guns and the treaty, and to
+nothing else. (An earlier state of this draft placed a failed French
+escalade here on the Berry Herald's authority; first-hand reading of
+Escouchy has since shown that scene — Talbot in person, banner beside
+him, driving the attackers from the wall — to belong to Rouen's
+repelled assault of 16 October, where this draft now records it; the
+reattribution is logged in the evidence file, and the census point
+survives at Rouen: storming was tried, failed, and the city fell by
+composition.)
 
 And here the chronicle hands the argument its own language, in a
 sentence this book could not improve upon. Robert Blondel, the Norman
@@ -3366,14 +3374,15 @@ VIII
 [^6-8]: Stevenson 1864:
 II.ii, 621
 [^6-9]: Berry Herald, in Stevenson 1863: 261
-[^6-10]: Berry Herald, in Stevenson 1863: 316
-[^6-11]: Stevenson 1864: II.ii; Pollard 1983
-[^6-12]: Rogers 1993:
-fn 103
+[^6-10]: Escouchy,
+i. 215–16 [TRANS. CLAUDE]; the Berry Herald's parallel account at
+Stevenson 1863: 295
+[^6-11]: Berry Herald, in Stevenson 1863: 316
+[^6-12]: Stevenson 1864: II.ii; Pollard 1983
 [^6-13]: Rogers 1993:
+fn 103
+[^6-14]: Rogers 1993:
 265–66, citing Chartier ii. 178–79; Stevenson 1864: II.ii
-[^6-14]: Berry Herald,
-in Stevenson 1863: 295
 [^6-15]: Blondel, in Stevenson 1863: 152
 [^6-16]: Blondel, in Stevenson 1863: 155
 [^6-17]: Blondel, in Stevenson 1863:
@@ -5963,8 +5972,12 @@ commercial satellite imagery. Within days the effects were tactical
 and specific: HIMARS targeting degraded, Patriot cueing impaired — the
 precision instruments of a military that had made itself the world's
 laboratory of drone warfare, blunted not by any enemy action but by a
-patron's pause. Restoration followed the Jeddah statement on 11 March
-[GAP: pin the Jeddah wording at press]. Ukraine flew its millions of
+patron's pause. Restoration followed the Jeddah joint statement of 11 March, in
+wording now quoted from the document: "The United States will
+immediately lift the pause on intelligence sharing and resume
+security assistance to Ukraine" (Joint Statement, Jeddah, 11 March
+2025, primary, in repo) — a patron's pause, lifted by treaty
+language, eight days after it began. Ukraine flew its millions of
 drones that week as before. What the week demonstrated was the layer
 the drones fly *within*: the communications backbone (some 42,000
 Starlink terminals, "the essential backbone" in the standard
@@ -6009,20 +6022,25 @@ flexibility and €150 billion of SAFE lending, disbursing from early
 2026 [^12-2]. China's fifteenth Five-Year Plan (March
 2026) headlines "greater self-reliance and strength in science and
 technology" (primary); the American chip-policy turn of 2026 pairs
-eased licensing with tariff instruments on advanced imports (carried
-at T3/T4 — browser pins owed; flagged). And the decade's sharpest
+eased licensing with a Section 232 instrument now cited from the
+Federal Register: Proclamation 11002 of 14 January 2026, imposing an
+immediate 25 per cent ad valorem duty on covered semiconductor
+imports as a first phase, with broader tariffs and an investment
+offset programme recommended for a second (91 FR 2443, primary, in
+repo). And the decade's sharpest
 exogenous datum now has its documentary record [RE-CHECK AT PRESS —
 the whole passage; source: CRS R48887, "U.S. Conflict with Iran,"
-26 March 2026, via the EveryCRSReport mirror, to be pinned against
-the congress.gov original]: the United States struck three Iranian
+26 March 2026, the congress.gov original now in repo]: the United States struck three Iranian
 nuclear facilities on 22 June 2025, absorbed Iran's retaliatory
 missile attack on Al Udeid the next day, and — after the Tehran
 demonstrations of December 2025 — opened, with Israel, a full
 campaign against Iranian targets on 28 February 2026, in which the
 Supreme Leader was killed; by 25 March Central Command reported
-more than 10,000 targets struck, and the operation's cost, by the
-official figure the CRS report carries, exceeded "$11.3 billion in
-the first six days." A great-power war of exactly the kind the
+more than 10,000 targets struck; and the cost figure the CRS report
+carries — attributed there to New York Times reporting of Pentagon
+briefings to Members, and noted as excluding many associated costs —
+put Operation Epic Fury above "$11.3 billion in the first six
+days." A great-power war of exactly the kind the
 neomedieval diagnosis's second characteristic said had left the
 system: the pressure is not returning; it has returned. The pattern
 across every bloc at once: rearmament, industrial-base panic,
@@ -6243,11 +6261,13 @@ discipline — every figure attributed, categories never blended
 campaign of February–March 2026, a full-stack power struck, by
 its own combatant command's report, more than 10,000 targets in
 under a month; the president's claim — quoted as a claim — was
-"complete and total control of the skies over Iran"; the
-operation's official cost exceeded $11.3 billion in its first
-six days; American fatalities stood at 13 service personnel (as
-of 23 March), against more than 3,000 Iranian fatalities
-*reported* — a claim category, not a count. Targets struck,
+"complete and total control of the skies over Iran"; the cost of
+Operation Epic Fury exceeded $11.3 billion in its first six days
+per Pentagon briefings as reported by the New York Times — a
+press-carried, explicitly partial figure, not an official total;
+American fatalities stood at 13 service personnel (as of 23
+March), against more than 3,000 fatalities *reported* in Iran and
+more than 1,000 in Lebanon — a claim category, not a count. Targets struck,
 costs, own casualties, enemy casualties: four different kinds of
 number, from four different kinds of source, and the book keeps
 them separate. What the exhibit shows, within those limits, is
