@@ -284,6 +284,23 @@ as written.
    the crown hired the well-born and expelled the rest. Scale figures
    for the écorcheur decade remain in Tome 2/Tuetey — flag stands.
 
+5. **(2026-08-04 — the §1 écorcheur scale flag closes from Tome 1.)**
+   Contamine quantifies the écorcheur share of royal force at the
+   siege of Meaux (1439): of the fifty companies, **twenty were of
+   "gens de compagnie"/routier/écorcheur origin, comprising 63 per
+   cent of effectives** (T1 ~pp. 262–63) — the crown's siege army
+   was two-thirds staffed by the freebooting market it would shortly
+   absorb and cull. Supporting texture now page-citable: Charles VII
+   re-equipping the écorcheurs he met ravaging the Beaujolais before
+   ordering them to Meaux; the itinerary of a single celebrated
+   écorcheur captain, Jean de Blanchefort, mapped across three years
+   and half of France (T1 carte 3, ~p. 263); and the limit case —
+   Antoine de Chabannes, "prince des Écorcheurs," twenty years in the
+   war by 1445 and excluded from the companies at their creation.
+   The [UNVERIFIED — RETRIEVAL: Contamine for scale figures] flag is
+   closed; scale for the écorcheur *decade* beyond Meaux remains
+   with Tuetey (named in Contamine's apparatus, on the list).
+
 ---
 
 STATUS: REVIEWED (Roderick, 2026-07-22) — cleared for drafting
