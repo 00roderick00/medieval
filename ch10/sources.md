@@ -262,3 +262,14 @@ accordingly.*
 - **Cazelles** on Contamine 1972, *BEC* 131 (1973), p. 293: "une
   contribution de premier ordre à l'histoire de l'État moderne" — the
   review carrying the anchor monograph pending purchase.
+
+
+## Edition note (2026-08-04)
+
+- **Contamine 1972, edition of record:** as ch06/sources.md — the
+  purchased two-volume digital edition, continuous pagination, OCR
+  sidecars as working texts, verbatim to be checked against page
+  images. INTEGRATED: memo Revisions 10–14. The artillery-institution
+  material sits at T1 ~pp. 122–23 and 296–99 plus the annexes (the
+  memos' earlier assumption that it occupied T2 chapters was wrong;
+  T2 = chs. XV–XVI on the ordonnance soldiery + Annexes I–XIII).

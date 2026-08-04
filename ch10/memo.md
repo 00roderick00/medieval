@@ -871,6 +871,49 @@ Drafting of ch10/draft.md may now proceed against this reviewed memo (§7).
     These figures let §1 price the standing army's manpower directly
     against every comparator polity the chapter uses.
 
+14. **(2026-08-04 — Tome 2 integration completed; the §1 quartering
+    flag closes and the institution gains its craft layer.)**
+    - **§1 quartering — closed:** T2 ch. XVI (~p. 508) preserves the
+      billet standard per lance of six: a furnished chamber of three
+      beds ("deux hommes par lit"), six pairs of sheets, three
+      blankets; for the kitchen two cloths, twelve bowls, four
+      dishes, two pewter pots, one bronze and one iron pan; stabling
+      for six horses; a loft for provisions, wood, straw and forage
+      [TRANS. CLAUDE]. The standing army's domestic logistics,
+      itemised.
+    - **§3 enriched at page level:** the canonniers' craft profile
+      (T1 ~p. 297) — often bell-founders, required to found a piece,
+      to make powder from "le charbon de bois, le salpêtre et le
+      soufre," and to possess "quelques rudiments de balistique,"
+      with staffing evaluable only for 1469 (under Gaspard Bureau)
+      and 1491; the master's older commercial face (1406: "fabricant
+      et garde-magasin," contracting with other artilleurs and
+      founders "d'où sans doute d'assez gros profits" compensating
+      modest wages, T1 ~p. 29x); the fourteenth-century founding
+      centres (Paris, Saint-Lô, Caen — 32 pieces cast at Caen, the
+      largest over 2,000 lb throwing quintal balls, under "maistres
+      des canons, à la fois fondeurs et canonniers," T1 ~pp. 122–23);
+      and the pre-1442 crossover (Annexe XII E: ~10,000 vs ~9,000
+      l.t., early 1400s) extending the §3 fiscal-signature series
+      backward a generation.
+    - **§4 Montlhéry enriched:** Contamine's fn (citing Perroy,
+      "L'artillerie royale à la bataille de Montlhéry," p. 188)
+      records Giraud de Samain captured with four couleuvrines, a
+      fifth great cast couleuvrine called **"L'ostesse,"** and "ung
+      gros canon de cuivre nommé **l'ung des douze pers**" — the
+      royal guns named for the Twelve Peers of France; light pieces
+      drawn by one to four horses. The named-gun evidence the
+      institution's texture lacked.
+    - **Praguerie (cross-noted to ch07):** Contamine frames the
+      revolt's demand precisely — the princes asked Charles VII to
+      choose "capitaines convenables et suffisans, **tant de ceulx du
+      roy comme de mesdiz seigneurs**," "proposant ainsi un partage à
+      l'amiable" of the captaincies (T1 ~pp. 267–68) — an amicable
+      partition of the military monopoly, refused.
+    - Edition note added to sources.md; no draft passage required
+      correction (the drafts' Contamine cites already point at this
+      edition's pagination).
+
 ---
 
 STATUS: REVIEWED (Roderick, 2026-07-23) — cleared for drafting
