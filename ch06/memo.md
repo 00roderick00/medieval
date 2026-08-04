@@ -680,6 +680,20 @@ Drafting of ch06/draft.md may now proceed against this reviewed memo (§7).
     Catalonia at pp. 119–21) — Rogers fn 107's Dax quote needs tome I,
     still wanted; Beaucourt t. 5 (not IV–V) is in repo.
 
+12. **(2026-08-03 — the three free arrivals integrated; one draft
+    correction.)** Leseur t. I, Escouchy t. I and Beaucourt t. IV are
+    in repo. Full pins in artillery-reconquest Revisions 7. For this
+    memo: (i) the Berry p. 295 escalade is **Rouen, not Harfleur** —
+    Escouchy i. 215–16 settles it (the draft corrected under its
+    Revisions 6; the census point survives at Rouen); (ii) Dax 1451
+    confirmed as the fn 107 siege, with the SHF editor's warning that
+    Leseur's account is exaggerated — the battered-walls quote
+    carries an editorial caution now recorded; (iii) the Bayonne
+    white-cross has its chronicle basis (Leseur i. ~214), a prodigy
+    reported as fact by a partisan source; (iv) Bordeaux 1451's
+    treaty anatomy at T1 with a 29/30 June variant flagged;
+    (v) Beaucourt IV awaits its force-OCR for the day-date checks.
+
 ---
 
 STATUS: REVIEWED (Roderick, 2026-07-22) — cleared for drafting

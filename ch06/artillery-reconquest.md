@@ -455,6 +455,61 @@ body above stands as written.
      draft's "no storming through an artillery breach, and nowhere a
      sack" (scoped to the hundred entries) stands.
 
+7. **(2026-08-03 — Leseur t. I, Escouchy t. I and Beaucourt t. IV
+   arrive; three flags close, one misattribution is corrected, and
+   one source-criticism finding enters the record.)**
+   - **CORRECTION — Berry p. 295 is Rouen, not Harfleur.** Revisions
+     5(b) assigned the repelled escalade (Talbot in person on the
+     wall) to Harfleur. Escouchy i. 215–16, now read first-hand,
+     narrates the scene at Rouen — the assault at "la porte de
+     Beauvoisis," a man from the city summoning the attackers in,
+     knights mounting the wall "par l'ayde desdis citoiens," and
+     Talbot, banner beside him, driving them out "très
+     chevallereusement," 50–60 killed or taken [TRANS. CLAUDE] — and
+     Berry's own page sequence (265 → 316) brackets p. 295 inside the
+     Rouen siege, as Contamine's fn 93 gloss ("Rouen") had it. Table
+     I's Rouen row gains the two-chronicle escalade record; the
+     Harfleur row loses the assault-failed clause (its mode was and
+     remains BOMB→comp). The ch06 draft is corrected under its
+     Revisions 6.
+   - **Dax 1451 — the year resolved, with a source-criticism caveat
+     Rogers's fn 107 does not carry.** Leseur i. 119–22 is the Dax
+     siege of **1451** (the editor's apparatus cross-dates it to the
+     Bordeaux-terms summer; the campaign context is the reconquest):
+     "nostre artillerie besognoit, empiroit fort et abatoit leurs
+     murailles"; mines driven "au travers du fossé et jusques oultre
+     les murailles"; escalade and "infiny nombre de fagots" ready —
+     the battered-walls phenomenon at source. **But the SHF editor's
+     own footnote (i. 122 n.) rates Leseur's Dax account "fort
+     exagéré et même tout à fait inexact"** — the real surrender
+     terms were Bordeaux-like and "très avantageuses" (citing
+     Beaucourt V, 48–50; Escouchy i. 337–39; Chartier ii. 277–79) —
+     so the quote is usable for the bombardment phenomenon only,
+     with the editorial caution attached; a corner of Rogers's fn
+     107 rests on a passage its own editor discounts. Row updated.
+   - **Bayonne — the white-cross legend's chronicle basis found.**
+     Leseur i. ~214 (chapter head "prodige dans le ciel," ~199): on
+     a Friday morning, "en plain jour," in view of defenders and
+     French alike, "il s'estoit apparu au ciel… la figure d'une
+     grande croix blanche," moving the Bayonnais to seek terms;
+     twenty Biscayan ships "tous portans la croix blanche" entering
+     the port; the entry dated "xxiie jour d'aoust" [VARIANT vs the
+     row's 20/21 Aug — flag]. The apparition is the partisan Foix
+     chronicle reporting a prodigy as fact; cite as the chronicle's
+     claim, never as event. Flag closed.
+   - **Bordeaux 1451 (Escouchy i. 356–58, first-hand):** the treaty
+     "scelléez des seaulx de chascune partie"; the rendition day
+     fixed "le mardi xxix jour de juing" [VARIANT vs the row's
+     30 June entry — flag 29/30]; the keys presented below the
+     Chartreux by the jurats with Montferrand, Duras and Lesparre.
+     Escouchy i. 337 ff. supplies the treaty-request chapter (fear
+     of force, the councils in the town). Escouchy i. 192 adds
+     Pont-Audemer texture (the knightings; Burgundian participation;
+     10–12 English dead).
+   - **Beaucourt t. IV in repo** (Gallica; 1444–1449) — but the scan's
+     text layer is badly garbled; a force-OCR pass is running, and
+     the Pont-de-l'Arche/Fresnay day-date checks are queued on it.
+
 ---
 
 STATUS: REVIEWED (Roderick, 2026-07-27) — feeds the ch06 draft
