@@ -308,6 +308,21 @@ as written.
    (§0.1's recalibration data) remain in the full book — that flag
    stays open.
 
+8. **(2026-08-04 — the §2 Contamine flag closes from Tome 1.)**
+   Contamine's account of the Praguerie's demand, at page level (T1
+   ~pp. 267–68): between 1440 and 1442 the princes of the blood —
+   Bourbon, René d'Anjou, Alençon — asked Charles VII to choose
+   "capitaines convenables et suffisans, **tant de ceulx du roy comme
+   de mesdiz seigneurs**," "proposant ainsi un partage à l'amiable"
+   [TRANS. CLAUDE: proposing an amicable partition] of the
+   captaincies. The scholarly account thus frames the revolt exactly
+   as §2 argues — a bid to *share* the emerging military monopoly,
+   refused — and adds the sequence detail that the gathering of
+   princes at Orléans during the Meaux operations was already, in
+   Contamine's words, the Praguerie beginning. The [UNVERIFIED —
+   RETRIEVAL: Contamine] flag is closed; the draft's Praguerie
+   section needs no correction (its claims sit inside Contamine's).
+
 ---
 
 STATUS: REVIEWED (Roderick, 2026-07-22) — cleared for drafting
