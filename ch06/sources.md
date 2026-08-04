@@ -201,3 +201,20 @@ quotation in a browser before print.*
   (`source-library/Contamine-1972-tome{1,2}-ocr.txt`) — any further
   verbatim should be checked against the page images. INTEGRATED:
   memo Revisions 8–13.
+
+## Added 2026-08-04 — Pollard, partial delivery
+
+- **T2 — A. J. Pollard, *John Talbot and the War in France 1427–1453*,
+  2nd ed. (2005)** — PARTIAL IN REPO
+  (`corpus/retrieved/John_Talbot_readable_reconciled.pdf`): front
+  matter + ch. 1 ("The Terror of the French") + notes, as image tiles
+  (OCR sidecar `source-library/Pollard-Talbot-ch1-ocr.txt`). Pins used:
+  p. 1 (250 guns; the ramparts and the axe; age ~66; the white-horse/
+  no-armour tradition with Pollard's own "according to some accounts"
+  hedge); ~p. 5 (Basin's judgment); ~p. 6 (the ch. 1 assessment
+  sentence); fn 19 (the birth-date argument); fn 36 (Verneuil 1424
+  negative). **Chs. 2–8 still wanted** (hostage terms and the release
+  oath; captaincies; retinue and finances; Berkeley; the final
+  verdict). The 43-page digest remains the carrier for the undelivered
+  chapters, marked as such.
+

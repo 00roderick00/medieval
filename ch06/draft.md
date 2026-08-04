@@ -690,9 +690,11 @@ The force sent against Castillon — Escouchy gives three thousand
 men-at-arms with archers in proportion, under Boussac, Joachim Rouault
 and Bureau himself — did not assault the town. It dug. The famous camp
 went in beside the Lidoire: a park fortified with ditch and palisade on
-three sides and the river on the fourth, the guns — perhaps two to
-three hundred pieces of all sizes; the count is not settled and this
-book will not settle it — sited to sweep the approaches; eight hundred
+three sides and the river on the fourth, the guns — "a line of 250
+guns of all calibres massed wheel to wheel," in Pollard's
+reconstruction (Pollard, ch. 1, p. 1); the tradition's counts run to
+three hundred and this book carries the biographer's figure — sited
+to sweep the approaches; eight hundred
 francs-archers pushed forward into an abbey nearer the town (Escouchy,
 ii. 33; ch06 memo §5). It was, in effect, a fortress improvised in
 days by men who had spent four years demonstrating that fortresses
@@ -735,9 +737,14 @@ army attacked the park frontally, banners forward, trumpets sounding,
 the men crying "Talbot! Talbot! Saint-George!" — a feudal host doing
 the bravest thing it knew how to do, into massed artillery firing from
 prepared positions at close range. It was destroyed in an afternoon.
-Talbot's horse was brought down by a round; he was killed on the
-ground — by whose hand, the sources disagree and this book declines to
-choose; his son Lord Lisle died with him. The town of Castillon
+The assault was not
+instantly hopeless — Pollard's reconstruction has the attackers
+establish themselves "for a moment on the ramparts," where the
+standard-bearer fell planting the standard — and then the
+counter-attack broke them. Talbot's horse was brought down; he was
+killed on the ground, his skull, in Pollard's account, smashed by an
+axe — the weapon known, the hand anonymous (Pollard, ch. 1, p. 1);
+his son Lord Lisle died with him. The town of Castillon
 surrendered two days later under the continuing fire. What died on the
 field is easy to name and easier to over-name: not chivalry, which had
 been dying of other causes for a century, but the assumption that
@@ -1066,7 +1073,21 @@ per §7; [BRIDGE] and [TRANS. CLAUDE] passes remain his.
 
 ---
 
+7. **(2026-08-04 — Pollard ch. 1 at page level; two §VI passages
+   upgraded.)** The gun count now carries Pollard's figure ("a line
+   of 250 guns of all calibres massed wheel to wheel," ch. 1, p. 1)
+   inside the reviewed calibration; the death sequence gains the
+   ramparts moment, the standard-bearer, and the axe (weapon stated,
+   killer anonymous — consistent with the reviewed caution). The
+   delivered file is ch. 1 + front matter only; the hostage-oath
+   verification the seize-the-train passage awaits is BLOCKED
+   pending the remaining chapters (memo Revisions 14). Changed
+   passages PENDING HUMAN REVIEW.
+
+---
+
 STATUS: REVIEWED (Roderick, 2026-07-31) — approved with revisions
 applied ([BRIDGE] and [TRANS. CLAUDE] passes outstanding); Revisions 5
 added 2026-08-01 on instruction; Revisions 6 (the p. 295
-reattribution) PENDING HUMAN REVIEW
+reattribution) and Revisions 7 (Pollard ch. 1 upgrades) PENDING HUMAN
+REVIEW

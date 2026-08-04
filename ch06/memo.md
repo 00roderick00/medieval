@@ -744,6 +744,63 @@ Drafting of ch06/draft.md may now proceed against this reviewed memo (§7).
     - The probe's Bordeaux-mayoralty flag: Contamine silent; stays
       with Vale. Edition note added to sources.md.
 
+14. **(2026-08-04 — Pollard arrives, PARTIALLY: the delivered file is
+    front matter + chapter 1 + its notes only.)** The corpus file
+    (`John_Talbot_readable_reconciled.pdf`, 2nd-edition text — the
+    Preface to the Second Edition is included) contains fourteen
+    image tiles covering the cover, contents, both prefaces, and
+    ch. 1 ("The Terror of the French") with its notes — **not the
+    full monograph**. Read visually in full; an OCR sidecar is built.
+    What chapter 1 resolves at page level:
+    - **The Castillon gun count, at last:** the defenders "were,
+      moreover, safely behind a line of **250 guns of all calibres
+      massed wheel to wheel**" (Pollard, ch. 1, p. 1). The reviewed
+      "perhaps two to three hundred" hedge now carries the
+      biography's own figure inside it; draft updated (Revisions 7
+      there).
+    - **The death sequence:** the assault "was suicidal but the
+      troops… actually managed to establish themselves for a moment
+      on the ramparts; there the standard bearer fell in the moment
+      of planting the standard"; on the counter-attack all broke
+      "except a small party around the old commander who… was
+      himself brought down from his horse and **had his skull
+      smashed by an axe**" (p. 1). Pollard states the weapon, not
+      the killer — compatible with the reviewed exact-killer
+      caution, and firmer than the draft's formulation.
+    - **The age, with its argument:** "Widely, but erroneously,
+      believed to be eighty years old (he was approximately
+      sixty-six)" (p. 1); fn 19 gives the dating logic (summoned to
+      parliament Oct 1409, not Oct 1407 → born 1386–88; "1387 is
+      unlikely to be more than a year out").
+    - **The white horse and the armour, with Pollard's own hedge:**
+      "he had, **according to some accounts**, gone to battle on a
+      small white horse, wearing no armour at all" (p. 1) — the
+      unarmoured tradition carried as tradition by the biography
+      itself.
+    - **Basin's judgment verbatim via Pollard** (~p. 5): Talbot
+      attacked "against the better advice of his lieutenants"
+      because he was "normally [able] to drive the enemy into
+      flight by impetuous daring rather than by a deliberate
+      assault, thinking that his name alone would cause the enemy
+      to take flight."
+    - **The ch. 1 assessment sentence, exact:** "the most generous
+      recent assessment remains that he was but **the ablest
+      commander during a period of declining military power and
+      ultimate defeat**" (~p. 6) — quotable now against the
+      seize-the-train staging; Pollard's own final verdict remains
+      in the undelivered ch. 8.
+    - **A negative finding (fn 36):** the DNB/CP claim that Talbot
+      fought at Verneuil (1424) has "no strictly contemporary
+      evidence"; he was in all likelihood in England, nominating
+      attorneys for Ireland (CPR 1422–9, p. 332).
+    **BLOCKED pending the remaining chapters:** the Rouen
+    hostageship's terms and the reported release oath never again
+    to bear arms against the French king (load-bearing for §VI's
+    seize-the-train passage and the unarmoured reading); the
+    captaincies and Normandy chronology at page level; the retinue
+    and finances; Pollard's ch. 8 verdict. Flagged on
+    retrieval-master: Pollard chs. 2–8 still wanted.
+
 ---
 
 STATUS: REVIEWED (Roderick, 2026-07-22) — cleared for drafting
