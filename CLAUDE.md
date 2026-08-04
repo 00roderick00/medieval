@@ -158,6 +158,13 @@ has superseded it.
   hedge deliberately, land firm judgements flat, flag inference as inference.
 - The text carries the argument; apparatus lives in endnotes (author–date
   inline during drafting; conversion at assembly).
+- research/style-standard.md (the Cambridge History Faculty guide,
+  Section II, as digested there) governs citation and typographic
+  conventions henceforth. Author–date inline remains the drafting format
+  for traceability; the assembly conversion target is Section II-style
+  notes — first full reference, short titles thereafter. The standard
+  applies immediately to all new and revised text, including workshop/
+  files. (Added 2026-08-04, authorized.)
 - No verbatim quotation without inline attribution, no exceptions.
   (Added 2026-07-31 on Roderick's instruction, ch06 draft review.)
 - The draft voice ledger counts every quotable sentence the chapter
