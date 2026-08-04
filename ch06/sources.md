@@ -187,3 +187,17 @@ quotation in a browser before print.*
   heading (first-hand; see memo Revisions 6).
 - **Keen** on Vale, *Medium Ævum* 52 (1983), p. 117: "a substantial and
   important study" — review carrying Vale pending the loan.
+
+
+## Edition note (2026-08-04)
+
+- **Contamine, *Guerre, état et société à la fin du Moyen Âge* — the
+  edition of record for all page cites:** the purchased two-volume
+  digital edition in repo (`corpus/retrieved/contamine_…tome-1.pdf` /
+  `…tome-2.pdf`), continuous print pagination (T1 pp. 1–~450; T2 chs.
+  XV–XVI pp. 451–530 + Annexes I–XIII to p. ~757, with the 1442
+  document at p. 666). The PDFs carry an obfuscated text layer;
+  force-OCR sidecars are the working texts
+  (`source-library/Contamine-1972-tome{1,2}-ocr.txt`) — any further
+  verbatim should be checked against the page images. INTEGRATED:
+  memo Revisions 8–13.

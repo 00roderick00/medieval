@@ -694,6 +694,56 @@ Drafting of ch06/draft.md may now proceed against this reviewed memo (§7).
     treaty anatomy at T1 with a 29/30 June variant flagged;
     (v) Beaucourt IV awaits its force-OCR for the day-date checks.
 
+13. **(2026-08-04 — the owed Tome 2 integration completed: every
+    Contamine-naming flag in this memo resolved, positively or
+    negatively.)** Both tomes read in full, including the
+    artillery-institution material (which proves to sit at T1 ~pp.
+    296–99 plus the annexes, not in T2's chapters — T2 is chs. XV–XVI
+    on the ordonnance soldiery plus Annexes I–XIII) and the annex
+    account-documents. Resolutions:
+    - **§2 offices flag — closed** (Revisions 9 carried the account
+      series; added now): Jean and Gaspard Bureau were **recognised as
+      noble by Charles VII** (A.N. JJ 178, n° 256, via Contamine T1
+      fn ~p. 405); and Basin's contemporary sneer at [Jean] Bureau is
+      preserved in Contamine's apparatus — "Homo plebeyus et, ut
+      aiebant, aggerum et fossarum faciendorum artifex" — a plebeian,
+      and, as they said, a craftsman of embankments and ditches
+      [TRANS. CLAUDE] (Basin, *Hist. Ch. VII*, t. I, p. 212, via
+      Contamine fn 94). The financial-technical man, sneered at and
+      ennobled: §2's institutional protagonist in two documents.
+    - **§2 calibres flag — resolved negative:** Contamine nowhere
+      attributes calibre standardisation to the Bureaux; his one
+      calibre passage concerns the growth of "canons de très grand
+      calibre" and powder scale ("vers 1375… par centaines de livres
+      de poudre; désormais… par milliers ou dizaines de milliers,"
+      consumption decupling 1350s→1370s; T1 ~pp. 122–23). The
+      reviewed institutional treatment stands confirmed by silence.
+    - **§3 Formigny flag — resolved negative:** Contamine's only
+      Formigny references are fn 93 and a career notice; no
+      attribution of the two culverins to the Bureaux. The flag
+      re-points to the DeVries monograph alone.
+    - **§4 place-count — resolved negative:** no Contamine count of
+      places taken; Rogers-on-Stevenson stands as drafted.
+    - **§5 Castillon gun count — resolved negative:** no count in
+      either tome; the draft's "perhaps two to three hundred" hedge
+      stands; the flag re-points to the DeVries monograph and the
+      newly-listed Smith & DeVries (2005).
+    - **fn 93's gloss confirmed at source:** Contamine's own words —
+      "aux sièges de Harcourt, de Pont-Audemer et de Rouen, lors de
+      l'entrée du roi dans Rouen, à la bataille de Formigny" — pin
+      Berry pp. 261/265/**295 = the siege of Rouen**/316/337: the
+      Revisions 6 reattribution now rests on Contamine's explicit
+      gloss, not only on Escouchy's parallel.
+    - **Bonus, the earlier price-crossover:** Annexe XII E lets
+      Contamine estimate, for an early-fifteenth-century siege,
+      ~10,000 l.t. spent on "canons, boulets et poudre" against
+      ~9,000 l.t. for trebuchet artillery and bowed weapons — "dès le
+      début du 15e siècle, le coût du nouveau type d'artillerie
+      l'emportait" — a price-curve point a generation before the
+      1442 document, carried to ch10.
+    - The probe's Bordeaux-mayoralty flag: Contamine silent; stays
+      with Vale. Edition note added to sources.md.
+
 ---
 
 STATUS: REVIEWED (Roderick, 2026-07-22) — cleared for drafting
