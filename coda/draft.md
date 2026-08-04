@@ -70,9 +70,12 @@ never allowed to vouch for one another.
 The *neomedieval spine* — Bull, Friedrichs, Cerny, Kobrin, Slaughter,
 Kaplan, Williams, McFate — was read as a literature being extended,
 and quoted from its own texts wherever they were in hand, with every
-second-hand quotation named as such (Bull's caution is cited through
-a named intermediary to this day, one word flagged as varying by
-printing). The *medieval historiography* was held to the hardest
+second-hand quotation named as such — and retired when the primary
+arrived: Bull's caution, carried through named intermediaries for
+the whole research phase with one word flagged as varying by
+printing, was re-quoted direct from the fourth edition when the
+book reached the corpus, and the variant proved to be two adjacent
+sentences on one page. The *medieval historiography* was held to the hardest
 rule in the book: no gated work cited as if consulted; every claim
 graded by tier; omission preferred to invention. Where the research
 corrected the project's own working assumptions, the corrections are
@@ -186,5 +189,14 @@ book predicts, and declines to bless" (§V). The authorised
 disclosure sentence appears in §III; the narrowing delta table in
 §IV. No new research; every claim inherits from the reviewed
 record.*
+
+## Revisions (pre-review, 2026-08-03)
+
+1. **§III's Bull sentence updated** on the primary's arrival: the
+   caution is no longer intermediary-carried (see ch00-intro Revisions
+   2, ch01 Revisions 3); the sourcing-discipline example now records
+   the retirement of the intermediary as the discipline working.
+
+---
 
 STATUS: DRAFT — PENDING HUMAN REVIEW

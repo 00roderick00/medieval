@@ -397,3 +397,19 @@ was stale/imprecise; verified against the corpus this date):**
   ("Beaucourt IV–V now in repo") overstated by one volume; t. IV
   remains WANTED. Beaucourt V's parse is now unblocked.
 - **Escouchy t. I and III** — correctly listed as wanted; unchanged.
+
+## 2026-08-03: Bull retrieved — IN REPO → INTEGRATED
+
+**Bull, *The Anarchical Society*** — IN REPO (`corpus/retrieved/the
+anarchical society.pdf`): **4th edition (Columbia UP, 2012)**, identified
+from the front matter (Hurrell foreword); **pagination verified to match
+the Kelemen-cited 2002 printing** (key passages at pp. 245 and 265 in
+both). Chs. 10–12 read. INTEGRATED: ch00-intro Revisions 2 (the caution
+quoted direct at p. 265; way/place variant settled — both phrasings
+occur in adjacent sentences); ch01 Revisions 3 (all via-Baaz citations
+upgraded; the five trends' structural correction — ch. 11, pp. 248–66,
+numbered headings; the verdict verbatim; the per-trend tests flagged as
+a [DELTA] for the rewrite rather than absorbed); coda §III updated;
+appendix-a entry updated. CAUTION: the scan's OCR is rough in patches —
+any further verbatim quotation should be checked against the page
+images. The oldest item on the acquisition list is closed.

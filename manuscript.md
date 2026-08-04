@@ -267,7 +267,15 @@ the new medievalism its name in 1977, weighed the evidence of his
 decade and declined his own hypothesis: "it would be going beyond
 the evidence to conclude that 'groups other than the state' have
 made such inroads on the sovereignty of states that the states
-system is now giving way to this alternative" [^0-3]. Bull's caution was correct, and this book's
+system is now giving way to this alternative" (Bull [1977] 2012:
+265 — quoted direct from the copy in this book's corpus; the
+way/place confusion in the secondary literature dissolves on the
+page, where the very next sentence answers the chapter's question
+with the other phrase: "there is no clear evidence that in the
+next few decades the states system is likely to give place to any
+of the alternatives to it that have been nominated" — two
+adjacent sentences, one of each). Bull's caution was correct, and
+this book's
 first chapter begins by saying so: in 1977 the evidence was not
 there. The argument of everything that follows is that it is
 there now — and that it points, not where Bull's successors
@@ -280,10 +288,6 @@ first chapter opens the books.
 [^0-1]: Kaplan 1994; the limo Homer-Dixon's
 [^0-2]: Holsinger, punctum-carried page
 cites, re-verify on purchase
-[^0-3]: Bull, via Kelemen
-2019, citing Bull 2002: 265; one word — "giving way to" against
-"giving place to" — varies by printing and is flagged for the
-in-copy check [GAP]
 
 
 ---
@@ -431,21 +435,26 @@ hypothesis; the systematiser a generation later, rebuilding it.
 
 Hedley Bull entertained the idea in 1977, in the tenth chapter of
 *The Anarchical Society*, as one of several alternatives to the
-states system: that "sovereign states might disappear and be
-replaced not by a world government but by a modern and secular
-equivalent of the kind of universal political organisation that
-existed in Western Christendom in the Middle Ages" — an order
-whose "central characteristic" would be "a system of overlapping
-authority and multiple loyalty" [^1-3]. He named five observable trends as prima facie
-evidence: the regional integration of states; the disintegration
-of states; the restoration of private international violence;
-transnational organisations; and the technological unification of
-the world [^1-4]. And then — the honesty
-for which this book keeps returning to him — he weighed his own
-five trends and declined the conclusion: the evidence for an
-emergent new medievalism was, in the mid-1970s, insufficient
-[GAP: Bull's verbatim caution sentences await the retrieval of
-*Anarchical Society* ch. 10; the paraphrase is Baaz's]. The book's
+states system: "It is also conceivable that sovereign states might
+disappear and be replaced not by a world government but by a
+modern and secular equivalent of the kind of universal political
+organisation that existed in Western Christendom in the Middle
+Ages" — for while a return to the theocratic original would be
+fanciful, "it is not fanciful to imagine that there might develop
+a modern and secular counterpart of it that embodies its central
+characteristic: a system of overlapping authority and multiple
+loyalty" [^1-3].
+The five trends he weighed as prima facie evidence sit not in the
+tenth chapter but in the eleventh — "The Decline of the States
+System?" — under numbered headings: the regional integration of
+states; the disintegration of states; the restoration of private
+international violence; transnational organisations; and the
+technological unification of the world [^1-4]. And then — the
+honesty for which this book keeps returning to him — he weighed
+his own five trends and declined the conclusion, in a verdict now
+quotable exactly: "there is no clear evidence that in the next
+few decades the states system is likely to give place to any of
+the alternatives to it that have been nominated" [^1-5]. The book's
 relation to that caution was fixed in the Introduction and bears
 restating in one line: Bull's doubt was correct for his decade.
 The five trends were, in 1977, weak signals. Every one of them is
@@ -480,12 +489,34 @@ axis, the 1977 reading of insufficiency was right, and a 1977
 reading of the 2020s evidence would not be. That is all the chapter
 claims, and it is enough.
 
+[DELTA — flagged on the first-hand reading of Bull, 2026-08-03, and
+not silently absorbed: Bull's per-trend tests are more specific than
+the "insufficient evidence" paraphrase the secondary literature
+carries, and the paragraph above must ultimately answer them in
+their own terms. His recurring test is not *how much* the trends had
+advanced but whether they replaced sovereignty as the organising
+principle or merely reproduced it in new units and were
+re-subordinated to it: integration that terminates in a new
+(European) state affirms the system; separatists who seek their own
+seats affirm it (the movements "do not bring it into question,"
+p. ~257); the multinational's first-decade "inroads" met "a reaction
+… demonstrating the capacity of sovereign states … to lay down
+their own terms" (p. ~262); and "'the shrinking of the globe' …
+does not in itself create a unity of outlook and has not in fact
+done so" (p. ~263). Crossing *his* threshold therefore means
+showing integration that does not terminate in a new sovereign,
+private force the state cannot re-subordinate, transnational
+organisations whose terms states cannot dictate — a sharper demand
+than the paragraph above meets as drafted. The delta is for
+Roderick's judgment at the rewrite: restate the crossing against
+Bull's actual tests, or qualify the claim.]
+
 Jörg Friedrichs supplied, a generation later, the analytical
 engine the intuition had lacked, and his article is now in this
 book's corpus and cited first-hand. His definition: the medieval —
 and neomedieval — order is "a system of overlapping authority and
 multiple loyalty, held together by a duality of competing
-universalistic claims" [^1-5]. The load-bearing word is
+universalistic claims" [^1-6]. The load-bearing word is
 *duality*. What held the medieval lattice together, on this
 account, was not an equilibrium of fragments but the standing
 competition of two universalisms — Empire and Church, each
@@ -494,12 +525,12 @@ absorb the other — beneath whose contest the plural lesser
 authorities found their room to exist. And the modern translation:
 our own order is "held together by the competing universal claims
 of the nation-state system and the transnational market economy"
-[^1-6] — the territorial universalism
+[^1-7] — the territorial universalism
 of the states, the non-territorial universalism of the market,
 Empire and Church in modern dress. Friedrichs is careful about
 the limits of the mapping — the medieval system was "based on
 legal and spatial concepts," the neomedieval one on functional
-linkages [^1-7] — and the book preserves his
+linkages [^1-8] — and the book preserves his
 care. But one amendment is entered now, in passing, because Part
 I exists to argue it: this book will contend, in the next
 chapter, that Friedrichs's second universalism is misdescribed as
@@ -520,7 +551,7 @@ institutions; the lack of exogenous territorialising pressures;
 the uneven consolidation of new spaces, cleavages, conflicts and
 inequalities; fragmented identities; contested property rights;
 and the spread of *zones grises* — grey zones, the coinage is
-Alain Minc's, as Cerny's own note records [^1-8]. Run the checklist against the 2020s, characteristic by
+Alain Minc's, as Cerny's own note records [^1-9]. Run the checklist against the 2020s, characteristic by
 characteristic, with the evidence graded as this book grades
 everything.
 
@@ -528,7 +559,7 @@ everything.
 European Commission designated six firms — five of them American,
 one Chinese — as "gatekeepers" under the Digital Markets Act,
 subjecting the core architecture of their products to a regulatory
-code written by a polity in which none of them is domiciled [^1-9]. The same data, meanwhile, may sit
+code written by a polity in which none of them is domiciled [^1-10]. The same data, meanwhile, may sit
 simultaneously under the European GDPR, the American CLOUD Act,
 and the Chinese PIPL — three territorial legal orders issuing
 partially contradictory commands to one non-territorial entity,
@@ -544,7 +575,7 @@ and the book wants the reader to stare directly at why. Cerny's
 own section names what the absent pressure once was: "the
 inter-dynastic struggles of the Hundred Years' War" — the
 external, existential, consolidating force that squeezed the
-first plural order into states [^1-10]. Since 2022 that
+first plural order into states [^1-11]. Since 2022 that
 species of pressure has visibly begun returning: a land war on
 the continent, rearmament, alliance consolidation, the
 re-militarisation of frontiers. Read one way, this falsifies the
@@ -580,7 +611,7 @@ invented.
 
 *Contested and entrenched property rights.* By the end of 2023
 the cumulative count of treaty-based investor–state arbitrations
-reached 1,332 [^1-11] — thirteen hundred instances of
+reached 1,332 [^1-12] — thirteen hundred instances of
 property claims prosecuted against sovereigns in fora the
 sovereigns cannot dissolve; Katharina Pistor's account of capital
 as legal code supplies the frame. The much-quoted estimate that
@@ -660,9 +691,9 @@ narrative suggests: Osiander's demolition of the "Westphalian
 myth" shows the 1648 treaties concerned overwhelmingly with the
 Holy Roman Empire's internal constitution — the sovereign-state
 reading is a nineteenth- and twentieth-century retrojection
-[^1-12]; Teschke's *Myth of 1648* pushes the emergence
+[^1-13]; Teschke's *Myth of 1648* pushes the emergence
 of genuinely modern territorial sovereignty later still
-[^1-13]. The contrary position exists and is named:
+[^1-14]. The contrary position exists and is named:
 Latham reads late-medieval and early-modern sovereignty as
 variation on a theme rather than difference in kind — on which
 account the "anomaly" framing overstates. The book does not
@@ -705,23 +736,27 @@ been, once already, a matter of record.
 September 2024
 [^1-2]: Anderson 1974: 37–38; canonised for the
 international-relations literature by Ruggie 1993
-[^1-3]: Bull 1977: 245, quoted in Baaz;
-Friedrichs 2001: 483 quotes the corresponding caution at Bull
-1977: 254
-[^1-4]: Bull 1977: 245–66, via Baaz
-[^1-5]: Friedrichs 2001: 475; argued as a
+[^1-3]: Bull [1977] 2012: 245 — quoted direct; every citation in
+this chapter formerly carried via Baaz is now to the copy in this
+book's corpus, whose pagination matches the earlier printings
+[^1-4]: Bull [1977] 2012: 248–66;
+the intermediaries' habit of citing the whole run to "ch. 10"
+flattened a structure this book now restores
+[^1-5]: Bull [1977]
+2012: 265
+[^1-6]: Friedrichs 2001: 475; argued as a
 redefinition at 482, restated at 490
-[^1-6]: Friedrichs 2001, verbatim in-file
-[^1-7]: Friedrichs 2001: 497
-[^1-8]: Cerny 1998: 45–57 and
+[^1-7]: Friedrichs 2001, verbatim in-file
+[^1-8]: Friedrichs 2001: 497
+[^1-9]: Cerny 1998: 45–57 and
 n. 16; the war-college-tested five-fold restatement is Cerny
 2005
-[^1-9]: EU
+[^1-10]: EU
 DMA designations, primary
-[^1-10]: Cerny 1998: 52
-[^1-11]: UNCTAD, primary
-[^1-12]: Osiander 2001
-[^1-13]: Teschke 2003
+[^1-11]: Cerny 1998: 52
+[^1-12]: UNCTAD, primary
+[^1-13]: Osiander 2001
+[^1-14]: Teschke 2003
 
 
 ---
@@ -6442,7 +6477,12 @@ never allowed to vouch for one another.
 The *neomedieval spine* — Bull, Friedrichs, Cerny, Kobrin, Slaughter,
 Kaplan, Williams, McFate — was read as a literature being extended,
 and quoted from its own texts wherever they were in hand, with every
-second-hand quotation named as such [^13-1]. The *medieval historiography* was held to the hardest
+second-hand quotation named as such — and retired when the primary
+arrived: Bull's caution, carried through named intermediaries for
+the whole research phase with one word flagged as varying by
+printing, was re-quoted direct from the fourth edition when the
+book reached the corpus, and the variant proved to be two adjacent
+sentences on one page. The *medieval historiography* was held to the hardest
 rule in the book: no gated work cited as if consulted; every claim
 graded by tier; omission preferred to invention. Where the research
 corrected the project's own working assumptions, the corrections are
@@ -6547,28 +6587,28 @@ way that matters, by saying exactly what evidence would prove the
 dispersal stable after all, and publishing the list.
 
 
-#### Notes
-[^13-1]: Bull's caution is cited through
-a named intermediary to this day, one word flagged as varying by
-printing
-
-
 ---
 
 # Appendix A — The Neomedievalism Literature, Annotated
 
 ## I. The founding hypothesis
 
-**Hedley Bull, *The Anarchical Society* (1977), ch. 10 and conclusion.**
-*[T2 — GATED; quoted via named intermediaries]* The founding "new
-mediaevalism" hypothesis: "a system of overlapping authority and
-multiple loyalty" as a possible secular successor to the states system;
-the five prima facie trends; and Bull's own refusal of the conclusion on
-his decade's evidence — the caution this book takes as its honest hinge
-(quoted via Baaz and Kelemen, one word varying by printing, flagged).
-Engaged: Introduction (the debt and the precise disagreement, developed
-in the Coda), Ch1 (the caution inverted). *Still on the acquisition
-list; no formulation is cited as consulted.*
+**Hedley Bull, *The Anarchical Society*, 4th ed. (Columbia UP, 2012;
+first ed. 1977), chs. 10–12.** *[T2 — IN REPO, read first-hand]* The
+founding "new mediaevalism" hypothesis (ch. 10, p. 245: "a system of
+overlapping authority and multiple loyalty"); the five prima facie
+trends, examined in **ch. 11, "The Decline of the States System?"
+(pp. 248–66)** under numbered headings — a structure the secondary
+literature's "ch. 10" citations flattened; and Bull's verdict, verbatim
+at p. 265 ("no clear evidence that in the next few decades the states
+system is likely to give place…"), with the "giving way" sentence
+adjacent — the way/place variance among intermediaries dissolved on
+the page. His per-trend tests (reproduce-vs-replace; re-subordination
+of the multinationals; interaction without unity of outlook) are
+flagged as a [DELTA] to the Ch1 argument. Engaged: Introduction, Ch1,
+the Coda. Pagination matches the 2002 printing; bibliography cites the
+4th ed.; the scan's OCR is rough — re-verify further verbatim against
+page images.
 
 ## II. Theoretical reconstruction
 

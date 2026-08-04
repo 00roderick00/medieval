@@ -9,16 +9,22 @@ contributes, and where the book engages it.*
 
 ## I. The founding hypothesis
 
-**Hedley Bull, *The Anarchical Society* (1977), ch. 10 and conclusion.**
-*[T2 — GATED; quoted via named intermediaries]* The founding "new
-mediaevalism" hypothesis: "a system of overlapping authority and
-multiple loyalty" as a possible secular successor to the states system;
-the five prima facie trends; and Bull's own refusal of the conclusion on
-his decade's evidence — the caution this book takes as its honest hinge
-(quoted via Baaz and Kelemen, one word varying by printing, flagged).
-Engaged: Introduction (the debt and the precise disagreement, developed
-in the Coda), Ch1 (the caution inverted). *Still on the acquisition
-list; no formulation is cited as consulted.*
+**Hedley Bull, *The Anarchical Society*, 4th ed. (Columbia UP, 2012;
+first ed. 1977), chs. 10–12.** *[T2 — IN REPO, read first-hand]* The
+founding "new mediaevalism" hypothesis (ch. 10, p. 245: "a system of
+overlapping authority and multiple loyalty"); the five prima facie
+trends, examined in **ch. 11, "The Decline of the States System?"
+(pp. 248–66)** under numbered headings — a structure the secondary
+literature's "ch. 10" citations flattened; and Bull's verdict, verbatim
+at p. 265 ("no clear evidence that in the next few decades the states
+system is likely to give place…"), with the "giving way" sentence
+adjacent — the way/place variance among intermediaries dissolved on
+the page. His per-trend tests (reproduce-vs-replace; re-subordination
+of the multinationals; interaction without unity of outlook) are
+flagged as a [DELTA] to the Ch1 argument. Engaged: Introduction, Ch1,
+the Coda. Pagination matches the 2002 printing; bibliography cites the
+4th ed.; the scan's OCR is rough — re-verify further verbatim against
+page images.
 
 ## II. Theoretical reconstruction
 
