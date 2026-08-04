@@ -452,3 +452,17 @@ Argentan dated; Pont-de-l'Arche reprisal under the Breton banner, its
 day still open (Somerset list's 9 May stands; the t. IV
 ambassadors-at-Pont-de-l'Arche-15-May date noted as a possible variant
 origin, marked inference). → artillery-reconquest Revisions 8.
+
+## 2026-08-04: acquisition row added on Roderick's query
+
+**Robert D. Smith & Kelly DeVries, *The Artillery of the Dukes of
+Burgundy, 1363–1477* (Boydell, 2005)** — NOT IN CORPUS; never
+previously tracked. BUY (recommended). NEEDED FOR (ch10 §VI, the
+Burgundian counter-case): a defensible Grandson gun-loss count (the
+"~400" tradition figure is currently attributed-only; Depreter 2011
+documents the aftermath without a count; his monograph gated);
+verification of La Marche's "300 carts" (currently via DeVries 1998);
+the ducal ordinances' artillery provisions (pairs with Vaughan, still
+wanted, for labels); and the Burgundian account-book texture beside
+the in-repo recette-de-l'artillerie material. Bears on the promoted
+Depreter-refinement thread (ch10 → ch12).
