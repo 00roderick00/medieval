@@ -517,3 +517,24 @@ fn 23's caveats captured); Berkeley; the final verdict.
    needed for the workshop hypothesis file; UMI/ProQuest.
 (Burne, *The Agincourt War*, already listed; CPR/CCR calendars are
 library staples, not listed.)
+
+## 2026-08-04 (third entry): the Bureau biographical authorities (workshop job)
+
+Top three by value, for workshop/bureau verification (the [T4 — VERIFY]
+items: the Châtelet service under the occupation; the Oct 1447 Bourges
+ennoblement date; the 1451/1453 two-stage mayoralty; the "marquis de
+Castillon" 1464; the Bureau–Cœur marriage; the burial):
+1. **Dictionnaire de biographie française, "Bureau (Jean)" and
+   "Bureau (Gaspard)"** (Letouzey & Ané) — the standing biographical
+   authority. ROUTE: research library / BnF; not digitised open.
+2. **G. Dupont-Ferrier, *Gallia Regia*** (office-holders of France
+   with dates, by bailliage and office) — the office-list instrument
+   for every Bureau title and date. ROUTE: OPEN (Gallica) — a PARSE
+   job, not a purchase.
+3. **Histoire de Bordeaux** (dir. Ch. Higounet), the volume covering
+   1453 and after, plus the Revue historique de Bordeaux literature on
+   the perpetual mayoralty — the municipal-side record of Jean's
+   governorship. ROUTE: BUY/library.
+Bonus, open: **L.-N. Bonaparte (Napoléon III), Études sur le passé et
+l'avenir de l'artillerie** (1846–71) — prints Bureau-era documents;
+public domain on Gallica; period-piece caution applies.
