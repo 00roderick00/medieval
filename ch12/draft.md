@@ -8,10 +8,10 @@ update: ch09, cited there as pending review, was reviewed 2026-07-31 and
 is cited here accordingly. The §9 boundary governs §VII: asset-class
 direction permitted, actionable guidance prohibited. The US–Iran
 exclusion was REVERSED on Roderick's synthesis-memo review (2026-08-02):
-CRS R48887 ("U.S. Conflict with Iran," 26 March 2026) was retrieved via
-the EveryCRSReport mirror and is integrated in §§II and V as dated,
-attributed claims, [RE-CHECK AT PRESS] — pin against
-crsreports.congress.gov at press. Author–date citations inline;
+CRS R48887 ("U.S. Conflict with Iran," 26 March 2026) is integrated in
+§§II and V as dated, attributed claims, [RE-CHECK AT PRESS]; the
+congress.gov original is in repo (2026-08-03) and the cost figure's
+attribution is corrected to it. Author–date citations inline;
 conventions as established.*
 
 ---
@@ -30,8 +30,12 @@ commercial satellite imagery. Within days the effects were tactical
 and specific: HIMARS targeting degraded, Patriot cueing impaired — the
 precision instruments of a military that had made itself the world's
 laboratory of drone warfare, blunted not by any enemy action but by a
-patron's pause. Restoration followed the Jeddah statement on 11 March
-[GAP: pin the Jeddah wording at press]. Ukraine flew its millions of
+patron's pause. Restoration followed the Jeddah joint statement of 11 March, in
+wording now quoted from the document: "The United States will
+immediately lift the pause on intelligence sharing and resume
+security assistance to Ukraine" (Joint Statement, Jeddah, 11 March
+2025, primary, in repo) — a patron's pause, lifted by treaty
+language, eight days after it began. Ukraine flew its millions of
 drones that week as before. What the week demonstrated was the layer
 the drones fly *within*: the communications backbone (some 42,000
 Starlink terminals, "the essential backbone" in the standard
@@ -76,20 +80,25 @@ flexibility and €150 billion of SAFE lending, disbursing from early
 2026 (Commission, primary). China's fifteenth Five-Year Plan (March
 2026) headlines "greater self-reliance and strength in science and
 technology" (primary); the American chip-policy turn of 2026 pairs
-eased licensing with tariff instruments on advanced imports (carried
-at T3/T4 — browser pins owed; flagged). And the decade's sharpest
+eased licensing with a Section 232 instrument now cited from the
+Federal Register: Proclamation 11002 of 14 January 2026, imposing an
+immediate 25 per cent ad valorem duty on covered semiconductor
+imports as a first phase, with broader tariffs and an investment
+offset programme recommended for a second (91 FR 2443, primary, in
+repo). And the decade's sharpest
 exogenous datum now has its documentary record [RE-CHECK AT PRESS —
 the whole passage; source: CRS R48887, "U.S. Conflict with Iran,"
-26 March 2026, via the EveryCRSReport mirror, to be pinned against
-the congress.gov original]: the United States struck three Iranian
+26 March 2026, the congress.gov original now in repo]: the United States struck three Iranian
 nuclear facilities on 22 June 2025, absorbed Iran's retaliatory
 missile attack on Al Udeid the next day, and — after the Tehran
 demonstrations of December 2025 — opened, with Israel, a full
 campaign against Iranian targets on 28 February 2026, in which the
 Supreme Leader was killed; by 25 March Central Command reported
-more than 10,000 targets struck, and the operation's cost, by the
-official figure the CRS report carries, exceeded "$11.3 billion in
-the first six days." A great-power war of exactly the kind the
+more than 10,000 targets struck; and the cost figure the CRS report
+carries — attributed there to New York Times reporting of Pentagon
+briefings to Members, and noted as excluding many associated costs —
+put Operation Epic Fury above "$11.3 billion in the first six
+days." A great-power war of exactly the kind the
 neomedieval diagnosis's second characteristic said had left the
 system: the pressure is not returning; it has returned. The pattern
 across every bloc at once: rearmament, industrial-base panic,
@@ -315,11 +324,13 @@ discipline — every figure attributed, categories never blended
 campaign of February–March 2026, a full-stack power struck, by
 its own combatant command's report, more than 10,000 targets in
 under a month; the president's claim — quoted as a claim — was
-"complete and total control of the skies over Iran"; the
-operation's official cost exceeded $11.3 billion in its first
-six days; American fatalities stood at 13 service personnel (as
-of 23 March), against more than 3,000 Iranian fatalities
-*reported* — a claim category, not a count. Targets struck,
+"complete and total control of the skies over Iran"; the cost of
+Operation Epic Fury exceeded $11.3 billion in its first six days
+per Pentagon briefings as reported by the New York Times — a
+press-carried, explicitly partial figure, not an official total;
+American fatalities stood at 13 service personnel (as of 23
+March), against more than 3,000 fatalities *reported* in Iran and
+more than 1,000 in Lebanon — a claim category, not a count. Targets struck,
 costs, own casualties, enemy casualties: four different kinds of
 number, from four different kinds of source, and the book keeps
 them separate. What the exhibit shows, within those limits, is
@@ -528,8 +539,27 @@ Roderick reviewed the final batch: ch12 approved with revisions.
    **PENDING HUMAN REVIEW** within an otherwise REVIEWED draft. No
    other passage was touched.
 
+5. **(2026-08-03 — the three browser pulls arrived; pins executed.)**
+   (a) The Jeddah statement (president.gov.ua print, in repo): §I's
+   [GAP] closed with the verbatim sentence ("The United States will
+   immediately lift the pause on intelligence sharing and resume
+   security assistance to Ukraine," 11 March 2025). (b) The Section
+   232 instrument identified and cited at T1: Proclamation 11002 of
+   14 January 2026 (91 FR 2443) — 25% ad valorem on covered
+   semiconductor imports, first phase, offset programme recommended
+   for the second; the §II claim upgraded from T3/T4. (c) CRS R48887
+   original in repo: the mirror citation retired; two attribution
+   corrections from the original — the $11.3bn figure is NYT-reported
+   Pentagon briefing material and explicitly partial (not "the
+   official figure" as the mirror-based text had it), the operation
+   is named (Epic Fury), and the reported-fatalities category now
+   includes the >1,000 Lebanon figure. All changed passages PENDING
+   HUMAN REVIEW; [RE-CHECK AT PRESS] retained (events ongoing at the
+   report's date).
+
 ---
 
 STATUS: REVIEWED (Roderick, 2026-08-02) — approved with revisions
-applied. The two SPINE-directed insertions (Revisions 3) are PENDING
-HUMAN REVIEW as additions; the remainder of the draft is reviewed.
+applied. The SPINE-directed insertions (Revisions 3) and the
+Revisions 5 pin corrections are PENDING HUMAN REVIEW; the remainder
+of the draft is reviewed.

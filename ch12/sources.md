@@ -118,7 +118,11 @@ above (CLAUDE.md §4). URLs in the session research record.*
   retrieved via the EveryCRSReport mirror (crsreports.congress.gov and
   the FAS mirror blocked at fetch); integrated in draft §§II/V,
   [RE-CHECK AT PRESS]. PIN AT PRESS: the congress.gov original PDF.
-- **Verification pulls still open (browser):** the Jeddah joint
-  statement's verbatim wording (state.gov page garbled at fetch;
-  president.gov.ua/mfa.gov.ua 403); the Section 232 semiconductor
-  tariff instrument (federalregister.gov bot-blocked).
+- **Verification pulls CLOSED (2026-08-03, browser, all in repo):**
+  the Jeddah joint statement (president.gov.ua print — the lift-the-
+  pause sentence quoted in draft §I); **Proclamation 11002 of 14 Jan
+  2026** (91 FR 2443, `2026-01052.pdf`) — the Section 232 semiconductor
+  tariff, 25% ad valorem first phase; **CRS R48887 original**
+  (`R48887.1.pdf`) — mirror citation retired, cost-figure attribution
+  corrected (NYT-reported Pentagon briefings; partial; Operation Epic
+  Fury named).
