@@ -66,10 +66,16 @@ modern project's description — under treasurers Lovell and then
 Heron, with the distinguishing feature that the king audited it
 personally: Henry's own sign manual runs through the account books,
 signing off payments weekly, the sovereign as his own comptroller
-(Tudor Chamber Books project; the revenue arc that tradition
-attaches — chamber receipts rising from a few thousand pounds a
-year to above a hundred thousand — is Wolffe's series and is hedged
-here pending retrieval [GAP: Wolffe; Chrimes]). The paradox is the
+(Tudor Chamber Books project) — and the revenue arc is now
+Wolffe's table, printed from the source: chamber receipts averaging
+£17,000 a year in 1487–89, £27,000 in 1492–95, and £105,000 by the
+period ending 1505, with the land-revenue line inside them rising
+from £3,000 to £40,000 (Wolffe 1964: 237). Wolffe's own corrective
+rides with the figures: "even after ten years of Tudor rule the
+scale of chamber activity was still smaller than it had been at the
+end of the Yorkist period" (p. 237) — the machine was inherited and
+enlarged, not invented [GAP: Chrimes, for the institutional
+narrative]. The paradox is the
 chapter's first lesson: the fisc was *personalised* — routed
 through the king's private rooms — precisely in order to be
 institutionalised, pulled out of the old departmental inertia into
@@ -467,4 +473,14 @@ debate staged; Özel caveat; the Pillar Two carve-out, FTC
 loss, and Anthropic reversal printed, not smoothed. No claim
 beyond the reviewed memo.*
 
-STATUS: REVIEWED (Roderick, 2026-08-02) — approved as drafted
+## Revisions (post-review)
+
+1. **(2026-08-04.)** §II's chamber-finance passage upgraded from the
+   hedged tertiary arc to Wolffe's table at p. 237 (memo Revisions 1);
+   the Yorkist-continuity sentence added verbatim. Changed passage
+   PENDING HUMAN REVIEW within the otherwise reviewed draft.
+
+---
+
+STATUS: REVIEWED (Roderick, 2026-08-02) — approved as drafted;
+Revisions 1 (Wolffe upgrade) PENDING HUMAN REVIEW
