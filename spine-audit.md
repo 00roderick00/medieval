@@ -166,53 +166,90 @@ being the spine's own text executed.*
 
 ---
 
-# Addendum — SPINE §7 tense-conformance sweep (2026-08-03)
+# Addendum — SPINE §7 tense-conformance sweep (2026-08-03; re-run, complete, superseding the same-day first pass)
 
-*Produced on §7's delivery ("wherever a draft states the reassertion as
-achieved rather than required, that is a conformance error against this
-section"). Same rules as the main audit: quoted, located, one line,
-nothing proposed. The two items §7 reserves to Roderick's hand — the
-ch01 §III [DELTA] resolution and the Introduction's closing page — are
-untouched and excluded here.*
+*Re-run on instruction against §7 ("wherever a draft states the
+reassertion as achieved rather than required, that is a conformance
+error"). Criterion applied: statements about the settlement,
+consolidation or reassertion at bloc level in achieved register —
+discrete documented events (a fine paid, a company absorbed) are facts
+and are excluded unless they carry bloc-level completion. Quoted,
+located, one line each; nothing proposed. The two items §7 reserves to
+Roderick's hand — the ch01 §III [DELTA] resolution and the
+Introduction's closing page — are untouched and excluded.*
 
 **A1.** *"China has substantially executed the settlement already"*
-(ch12 §IV; echoed in the Coda §V, "substantially executed but exposed
-at the summit"). — Achieved register where §7's tense is progressive
-("China is executing it"); the sweep's clearest conformance error, and
-it compounds main-audit entry 10.
+(ch12 §IV); echoed in the Coda §V (*"the Chinese substantially
+executed but exposed at the summit"*). — The sweep's clearest error:
+achieved register ("has executed… already") where §7's tense is
+progressive ("China is executing it"); compounds main-audit entry 10.
 
 **A2.** *"Seen from inside, the settlement's texture is already
-documented"* (ch12 §III, the section's frame). — The section presents
-current instruments as the interior of a settlement that §7 holds is
-NOT accomplished; the facts cited are current, but the frame states an
-inside the settlement does not yet have.
+documented"* (ch12 §III, the section's frame; also *"the lived order
+the chapters have assembled"*). — Presents current instruments as the
+interior of a settlement §7 holds is NOT accomplished; the facts are
+current, the frame gives the settlement an inside it does not yet
+have.
 
-**A3.** *"The settlement, seen from outside, is already legible in the
-blocs' own declarations"* (ch12 §II). — Borderline: "legible" claims
-emergence rather than achievement, but the noun governs — what is
-legible in the declarations is the *pressure and the programmes*, not
-the settlement.
+**A3.** *"China closed out its 2020–23 platform discipline and moved
+to normalisation… the sequence, note, being subordination first,
+normalisation after"* (ch11 §VI, move two). — Move-level completion
+stated for a candidate bloc; under §7, even China's moves are "in
+execution," and the completed-discipline framing (inherited from the
+memo) reads one notch past it.
 
-**A4.** *"the same mechanism, operating now, produces…"* (ch12 §I, the
-wager sentence; similar constructions at ch11 §VI's opening). — Trend
-register where §7 rests the wager on *requirement* ("that is why it
-will happen, not because it is already happening"); the drafts argue
-from observed motion where §7 argues from compulsion — a register
-difference running through the modern sections generally, noted once.
-
-**A5.** *"US 4/5 moves in execution… China 5/5 in execution"*
+**A4.** *"US 4/5 moves in execution… China 5/5 in execution"*
 (Appendix C, the C11-1 scorecard baseline). — "In execution" is
-progressive and near-conformant, but 5/5 states completion of the
-move-set; §7's casting ("executing," uneven) reads one notch cooler.
+§7-conformant; "5/5" states the full move-set entered, which combined
+with A1's prose reads as completion; the scorecard's China row is the
+number behind the achieved register elsewhere.
+
+**A5.** *"The settlement, seen from outside, is already legible in
+the blocs' own declarations"* (ch12 §II). — Borderline: "legible"
+claims emergence, but the noun governs — what the declarations make
+legible is pressure and programmes, not a settlement.
+
+**A6.** *"What remains is the wager: that the same mechanism,
+operating now, produces…"* (ch12 §I; the same operating-now
+construction opens ch11 §VI's translation and closes ch12 §VIII, "it
+is running again"). — Trend register where §7 rests the wager on
+requirement ("that is why it will happen, not because it is already
+happening"); the modern sections generally argue from observed motion
+where §7 argues from compulsion; noted once for the family.
+
+**A7.** *"Russia completed the re-monopolisation Chapter 4
+narrated"* (ch11 §VI, move three). — Completion language, but Russia
+is SPINE §5's demonstration case, not a candidate, and the Wagner
+absorption is a discrete documented event; flagged for the
+completion verb only, with the distinction stated.
+
+**A8.** *"the dispersal's most developed actors are everywhere being
+absorbed by fiscally capable centres"* (ch04 §VII, Part I's closing
+verdict). — Progressive and therefore near-conformant, but
+"everywhere" universalises an absorption §7 casts as uneven ("China
+is executing it; Europe is assembling; the USA… has not taken it
+back").
+
+**A9.** *"the pattern of the 2020s already leans Henrician"* (ch02
+§VI). — Borderline: "leans" is emergent, and the passage's examples
+are discrete facts; listed because "already" pulls the Henrician
+settlement toward the present tense; overlaps main-audit entry 3.
 
 **Conforming counter-examples, for the rewrite's reference:** ch10
 §VIII ("The modern half ends earlier in the arc — nearer 1445 than
-1494… the outcome unproven") and ch08 §VII ("observable, dateable, and
+1494… the programmes legislated, the accounts opened, the first
+awards finalised, the execution uneven, the outcome unproven") and
+ch08 §VII ("The modern re-assertion is observable, dateable, and
 early in its arc") state §7's tense exactly; ch12 §IV's US passage
-("the candidacy is incomplete") and the latecomer logic of SPINE §7
-("the American case is England's position") point the same way —
-main-audit entry 9's flat superlative aside.
+("the candidacy is incomplete," "until it runs") and ch12 §IV's EU
+conditional ("either the assertion-to-enforcement lag closes… or…")
+are likewise conformant. The heaviest concentration of achieved
+register sits in ch12 §§II–IV and its Appendix C echo — one chapter's
+frame, not a book-wide drift.
 
-*Five findings. Note for the rewrite only (proposing nothing): §7's
-England-as-latecomer casting supplies the frame that would resolve
-main-audit entries 9–10 in one stroke.*
+*Nine findings (A1–A2 clear errors; A3–A4 move-level completion; A5,
+A8–A9 borderline; A6 the trend-vs-requirement register family; A7 a
+completion verb on a non-candidate). Note for the rewrite only,
+proposing nothing: §7's England-as-latecomer casting and its
+requirement framing would resolve A1–A6 and main-audit entries 9–10
+in a single register decision.*
