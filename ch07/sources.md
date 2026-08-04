@@ -130,3 +130,15 @@ listed at the foot.
 peer-reviewed base unusual for this book; the medieval side's percentages and
 programmes await Harvey/Bohna/Najemy/Blickle. Update retrieval-master.md
 accordingly.*
+
+## Added 2026-08-04 — Bohna retrieved
+
+- **T2 — M. Bohna, "Armed Force and Civic Legitimacy in Jack Cade's
+  Revolt, 1450," *EHR* 118/477 (2003), pp. 563–82** — IN REPO
+  (`corpus/retrieved/Bohna-ArmedForceCivic-2003.pdf`, JSTOR). Pins:
+  p. 563 (the opening mechanism sentence); ~564 ("not a jacquerie…
+  embodied as the militia of the county" — the flagged phrase's true
+  form); ~566 (53 constables / 31 of 68 hundreds; "3,000 or more
+  ultimate pardons" — count variant vs Kriehn flagged); ~576 (the
+  ready-military-organization thesis); ~578 (Morris on the
+  constable's dual character). Closes the §1/probe §2 flags.

@@ -323,6 +323,31 @@ as written.
    RETRIEVAL: Contamine] flag is closed; the draft's Praguerie
    section needs no correction (its claims sit inside Contamine's).
 
+9. **(2026-08-04 — Bohna 2003 in repo, read in full; the §1
+   muster-machinery flags close at page level.)** *EHR* 118/477, pp.
+   563–82. The flagged phrase resolves: the circulating "the militia
+   of the county embodied" was a rearrangement of Bohna's actual
+   sentence, now quotable exactly — "Cade's Revolt was not a
+   jacquerie, not an act of disorganized undirected violence; rather
+   it was **a demonstration of dissent by rural society embodied as
+   the militia of the county**" (~p. 564). The opening states the
+   mechanism: "the power of the county of Kent assembled in arms
+   under its elected constables… Having mustered themselves at the
+   gathering places traditionally used by each hundred" (p. 563);
+   the structural thesis — the array and posse comitatus "provided
+   Kentishmen with a ready military organization for revolt,
+   complete with sub-units, chain of command and provision for
+   emergency communications between districts" (~p. 576); the
+   constables' dual character — "in the office… the communal and
+   royal authorities meet" (Morris, quoted ~p. 578). **New hard
+   number:** "**Fifty-three constables from thirty-one of the
+   sixty-eight hundreds of Kent** headed their named contingents" in
+   the pardons, "sometimes followed by 'and all others of the said
+   hundred'" (~p. 566) — the muster-machinery claim quantified. Note
+   a count variant: Bohna's "3,000 or more ultimate pardons" against
+   Kriehn's "about 2,203 names" for Kent and Sussex — different
+   documentary bases, both carried, flagged.
+
 ---
 
 STATUS: REVIEWED (Roderick, 2026-07-22) — cleared for drafting

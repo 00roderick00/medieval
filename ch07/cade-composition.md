@@ -150,6 +150,15 @@ Roderick reviewed and approved the file.
    truce-era discharges and refugees feed the rising; the evacuation
    wave feeds the aftermath.
 
+2. **(2026-08-04 — Bohna retrieved; §2's flags close.)** The exact
+   phrasing, the quantification (53 constables from 31 of 68
+   hundreds, ~p. 566), the "not a jacquerie… embodied as the militia
+   of the county" sentence (~p. 564), and the sub-units/chain-of-
+   command thesis (~p. 576) are now first-hand — see ch07 memo
+   Revisions 9. §2's [UNVERIFIED — RETRIEVAL: Bohna] flags are
+   closed; the pardon-count variant (Bohna 3,000+ vs Kriehn 2,203)
+   is flagged, not resolved.
+
 ---
 
 STATUS: REVIEWED (Roderick, 2026-07-27) — feeds the ch07 draft
