@@ -538,3 +538,16 @@ Castillon" 1464; the Bureau–Cœur marriage; the burial):
 Bonus, open: **L.-N. Bonaparte (Napoléon III), Études sur le passé et
 l'avenir de l'artillerie** (1846–71) — prints Bureau-era documents;
 public domain on Gallica; period-piece caution applies.
+
+## 2026-08-04 (fourth entry): Wolffe and Bohna — IN REPO → INTEGRATED
+
+**Wolffe 1964** (*EHR* 79) — the ch11 chamber-finance series pinned at
+p. 237 (£17k/£27k/£105k yearly averages; land £3k/£11k/£40k; the
+Yorkist-continuity sentence verbatim); tertiary arc superseded; ch11
+memo Revisions 1 + draft Revisions 1. **Bohna 2003** (*EHR* 118) — the
+ch07 muster-machinery flags closed at page level (the "embodied as the
+militia of the county" sentence in its true form, ~564; 53 constables
+from 31 of 68 hundreds, ~566; the organization thesis, ~576); ch07
+memo Revisions 9, probe Revisions 2, draft Revisions 2. Pardon-count
+variant (Bohna 3,000+ vs Kriehn 2,203) flagged. Still wanted for ch07:
+Harvey (percentages, geography); Virgoe (indictments).

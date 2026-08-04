@@ -95,7 +95,7 @@
 | Ch10 | VIII | RE-CHECK AT PRESS | RE-CHECK AT PRESS — this entire section's contemporary figures, programme statuses and licensing positions … | … success — and the success became the template Europe copied for three centuries. ## VIII. |
 | Ch10 | VIII | BRIDGE | BRIDGE — this closing section is the chapter's translation into the present; the synthesis is tagged (c) th… | …tatuses and licensing positions are time-sensitive and must be re-verified at press time.] |
 | Ch11 | — | RE-CHECK AT PRESS | RE-CHECK AT PRESS | …ief's instruction. Author–date citations inline; conventions as established. §VIII carries |
-| Ch11 | II | GAP | GAP: Wolffe; Chrimes | …year to above a hundred thousand — is Wolffe's series and is hedged here pending retrieval |
+| Ch11 | II | GAP | GAP: Chrimes, for the institutional narrative | …end of the Yorkist period" (p. 237) — the machine was inherited and enlarged, not invented |
 | Ch11 | II | TRANS. CLAUDE | TRANS. CLAUDE | …g king believed he possessed "an instrument no coalition could break" (Contamine 1964: 261 |
 | Ch11 | III | GAP | GAP: Kamen; Contreras & Henningsen | …ounding bull and asserts no casualty figures — the scale literature is gated and contested |
 | Ch11 | IV | GAP | GAP: İnalcık's framing and the per-levy figures await retrieval; the mechanism is carried from open T2. | … not as an option the West declined but as the demonstration of the pattern's outer bound. |

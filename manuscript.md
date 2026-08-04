@@ -21,12 +21,15 @@ besieging Castillon were abandoning their fortified camp; a man of his
 own nation, who had seen much war, told him to his face that it was
 untrue; Talbot struck him and rode. What waited behind the ditch and
 palisade along the little river Lidoire was not an army in the sense
-Talbot's sixty years had taught him — it was an artillery park,
-perhaps two to three hundred guns of all sizes, entrenched, provisioned
+Talbot's sixty years had taught him — it was an artillery park: in his
+biographer's reconstruction, "a line of 250 guns of all calibres
+massed wheel to wheel" [^0-1], entrenched, provisioned
 and paid, sited by a man who had begun his career as a financial clerk.
-The Anglo-Gascon charge went in frontally, banners forward, and was
-destroyed in an afternoon; Talbot's horse was brought down by a round
-and the old man was killed on the ground; his son died with him. He
+The Anglo-Gascon charge went in frontally, banners forward — held
+the ramparts for one moment, long enough for the standard-bearer to
+fall planting the standard — and was destroyed; Talbot's horse was
+brought down and the old man was killed on the ground, his skull
+smashed by an axe [^0-2]; his son died with him. He
 had passed through the new order's machinery once already — held
 hostage for a surrendered city's compositions, his liberty a clause in
 a treaty — and if one reading of the day is right, he charged not in
@@ -194,7 +197,7 @@ representation of chaos" — and carried an image that has outlived
 the essay: "Think of a stretch limo in the potholed streets of New
 York City…" — the gated rich inside, the rest of humanity outside
 — an image that is, the attribution matters, Thomas Homer-Dixon's,
-quoted and adopted by Kaplan [^0-1].
+quoted and adopted by Kaplan [^0-3].
 The Coming Anarchy did not come, or came only where it was already
 resident; the genre's record is the objection, and this book's
 answer is method, not indignation. The book does not argue from
@@ -210,7 +213,7 @@ political theory's Middle Ages is a fairyland — in Holsinger's
 words, neomedievalism as "the global idiom of the non-state actor,"
 and the international-relations variant "a frightening lens on to
 the ultimate co-optability of academic theorising into a regressive
-and destructive political culture" [^0-2]; Rengger's version asks whether the
+and destructive political culture" [^0-4]; Rengger's version asks whether the
 new Middle Ages could be anything but "its calamitous predecessor"
 [GAP: Rengger's chapter is gated; the fragment is carried via a
 named intermediary and his argument is not paraphrased further
@@ -285,8 +288,10 @@ first chapter opens the books.
 
 
 #### Notes
-[^0-1]: Kaplan 1994; the limo Homer-Dixon's
-[^0-2]: Holsinger, punctum-carried page
+[^0-1]: Pollard, ch. 1, p. 1
+[^0-2]: Pollard, ch. 1, p. 1
+[^0-3]: Kaplan 1994; the limo Homer-Dixon's
+[^0-4]: Holsinger, punctum-carried page
 cites, re-verify on purchase
 
 
@@ -3069,10 +3074,12 @@ The force sent against Castillon — Escouchy gives three thousand
 men-at-arms with archers in proportion, under Boussac, Joachim Rouault
 and Bureau himself — did not assault the town. It dug. The famous camp
 went in beside the Lidoire: a park fortified with ditch and palisade on
-three sides and the river on the fourth, the guns — perhaps two to
-three hundred pieces of all sizes; the count is not settled and this
-book will not settle it — sited to sweep the approaches; eight hundred
-francs-archers pushed forward into an abbey nearer the town [^6-40]. It was, in effect, a fortress improvised in
+three sides and the river on the fourth, the guns — "a line of 250
+guns of all calibres massed wheel to wheel," in Pollard's
+reconstruction [^6-40]; the tradition's counts run to
+three hundred and this book carries the biographer's figure — sited
+to sweep the approaches; eight hundred
+francs-archers pushed forward into an abbey nearer the town [^6-41]. It was, in effect, a fortress improvised in
 days by men who had spent four years demonstrating that fortresses
 could no longer be defended — with this difference, that its garrison
 wanted to be attacked.
@@ -3084,7 +3091,7 @@ word, when they opened their gate to him, that he would meet the French
 power in the field. Escouchy shows the burgesses pressing that promise
 back on him almost word for word, and Talbot answering coldly that he
 would keep it "quant je verray que temps et heure sera" — when he
-judged the time and hour right [TRANS. CLAUDE] [^6-41].
+judged the time and hour right [TRANS. CLAUDE] [^6-42].
 The time was chosen for him. At dawn on the day of battle his advance
 guard surprised the francs-archers in the abbey and cut its way
 through them; the survivors fell back on the park. Then came the
@@ -3095,7 +3102,7 @@ CLAUDE]. Escouchy, who tells the story as a mirror-for-princes, has
 Talbot break off the mass he was hearing with the words that "never
 shall I hear the mass, or this day I shall have overthrown the company
 of the French who are in that park before me" [TRANS. CLAUDE]
-[^6-42]. The report was false — what was moving was
+[^6-43]. The report was false — what was moving was
 camp-followers, not the army [GAP: the identity of the movers is
 carried in the tradition, not pinned in the parsed passage; verify in
 Escouchy ii. before print]. As the English column approached, an old
@@ -3103,18 +3110,23 @@ gentleman of the English nation, "qui avoit beaucoup veu des fais de
 la guerre," told Talbot plainly that the report was untrue, that the
 French stood in strength behind their works, and that he would gain
 nothing that day; Talbot answered the last man to tell him the truth
-with a sword-stroke across the face, and rode on [^6-43].
+with a sword-stroke across the face, and rode on [^6-44].
 
 The defenders "afusterrent leur artillerie au lez devers dont véoient
 venir ledit Talbot" — trained their guns on the side from which they
-saw him coming [TRANS. CLAUDE] [^6-44]. The Anglo-Gascon
+saw him coming [TRANS. CLAUDE] [^6-45]. The Anglo-Gascon
 army attacked the park frontally, banners forward, trumpets sounding,
 the men crying "Talbot! Talbot! Saint-George!" — a feudal host doing
 the bravest thing it knew how to do, into massed artillery firing from
 prepared positions at close range. It was destroyed in an afternoon.
-Talbot's horse was brought down by a round; he was killed on the
-ground — by whose hand, the sources disagree and this book declines to
-choose; his son Lord Lisle died with him. The town of Castillon
+The assault was not
+instantly hopeless — Pollard's reconstruction has the attackers
+establish themselves "for a moment on the ramparts," where the
+standard-bearer fell planting the standard — and then the
+counter-attack broke them. Talbot's horse was brought down; he was
+killed on the ground, his skull, in Pollard's account, smashed by an
+axe — the weapon known, the hand anonymous [^6-46];
+his son Lord Lisle died with him. The town of Castillon
 surrendered two days later under the continuing fire. What died on the
 field is easy to name and easier to over-name: not chivalry, which had
 been dying of other causes for a century, but the assumption that
@@ -3136,7 +3148,7 @@ impetuosity, Basin's and the older tradition's, founders on a
 career of battles prudently refused; and Castillon itself Pollard
 reads as honour-bound error rather than habitual recklessness,
 while insisting that the exact battlefield sequence remains
-uncertain [^6-45]. That uncertainty is the
+uncertain [^6-47]. That uncertainty is the
 void the hypothesis lives in: no document records Talbot's intent;
 the command group that could have testified died with him; and
 Escouchy's account — our fullest — is a moral narrative, built to
@@ -3144,7 +3156,7 @@ teach princes about rash credulity. What the record does establish
 is that no commander in Europe knew the train's effect more
 intimately: Talbot had passed through the Rouen instrument as its
 hostage, his own liberty a clause in the compositions the train
-compelled, and had stood on Harfleur's wall [^6-46]; and the one documented English tactical
+compelled, and had stood on Harfleur's wall [^6-48]; and the one documented English tactical
 reflex against field artillery was seizure — the archers at
 Formigny, earlier in this section, took the culverins rather than
 endure them. A train in park, entrenched, is unassailable; a train
@@ -3172,7 +3184,7 @@ to fire "tous ensamble et à une fois" — all together, in a single
 discharge [TRANS. CLAUDE] — against the outwork, then the massed guns
 turned on the gate-tower and wall until the rubble filled great
 stretches of the moat, the attackers each carrying a faggot to the
-ditch, and only then the assault cry [^6-47]. Even the
+ditch, and only then the assault cry [^6-49]. Even the
 one storming in the record is a bombardment wearing an assault's
 clothes; and it was reserved for a place under punitive terms, whose
 captain the king had executed [GAP-flag: Vale's TRHS article dates the
@@ -3185,14 +3197,14 @@ through October. Escouchy preserves the negotiation in detail: the
 burgesses' offer of a hundred thousand écus; the king's council
 weighing, among its reasons for accepting composition, "le dangier de
 l'epedimie" — the plague then running through the region and no
-respecter of besieging armies [TRANS. CLAUDE] [^6-48].
+respecter of besieging armies [TRANS. CLAUDE] [^6-50].
 The terms were the mirror of 1451's. Where the first surrender had
 confirmed the city's privileges, the second stripped them: lives
 spared, the ringleaders banished perpetually, the English shipped
 home — and Bordeaux renouncing "tous leurs previleiges et franchises,
 pour en faire au bon plaisir du Roy," all its privileges and
 franchises, to be disposed at the king's good pleasure [TRANS. CLAUDE]
-[^6-49]. Twelve hostages — six English,
+[^6-51]. Twelve hostages — six English,
 six Gascon — secured performance from 12 October; an internal dispute
 in the city deferred the handover; and French troops entered on 19
 October 1453. The Hundred Years War, by the convention historians
@@ -3200,7 +3212,7 @@ observe, ended there, leaving Calais as England's last continental
 holding. Even then the composition system showed its edges: the
 garrisons of Benauges and Rions, included in the treaty's provisions,
 refused point-blank to honour them and had to be dealt with
-separately [^6-50] — a reminder, recorded by the same
+separately [^6-52] — a reminder, recorded by the same
 witness, that a surrender instrument bound only those who believed
 the alternative was worse, which is to say that it was, first and
 last, an instrument of the train's credibility.
@@ -3259,7 +3271,7 @@ supplies the constitutional consequence: the central governments of
 large states could afford siege trains; "their subjects and smaller
 neighbors, in general, could not" — and the governments that acquired
 them suppressed regional powers, raised taxes, and expanded the trains
-further, in a cycle he describes and this book merely names [^6-51]. The disagreement that remains is a ranking of revolutions —
+further, in a cycle he describes and this book merely names [^6-53]. The disagreement that remains is a ranking of revolutions —
 which movement of the symphony matters most — and the chapter declines
 the contest, because it does not need to win it. It needs only the
 narrower claim its sternest witness has already granted: that the
@@ -3271,9 +3283,9 @@ was not a subject but a rival consolidator, and that its train did
 not save it.)
 
 The gradualist objection deserves the same respect. Curry has warned
-that "the military revolution has been a moveable feast" [^6-52] — a concept stretched over so many centuries and so many
+that "the military revolution has been a moveable feast" [^6-54] — a concept stretched over so many centuries and so many
 candidate technologies that its explanatory edge dulls; Rogers himself
-notes how quickly the idea became "the 'new orthodoxy'" [^6-53]. Her reading of 1449–50, as we have seen, distributes the
+notes how quickly the idea became "the 'new orthodoxy'" [^6-55]. Her reading of 1449–50, as we have seen, distributes the
 causation across money, numbers, command, English exhaustion and
 Norman politics, and this chapter has adopted more of that reading
 than it has resisted. But the book's claim was never the maximal one.
@@ -3325,13 +3337,13 @@ guns, been decisive. Artillery made them decisive. The contemporaries
 saw the coupling plainly enough: Charles VII, in DeVries's summary of
 the reconquest's finance, "increased the royal budget to procure a
 larger number of new guns, and he added heavier new taxes to his
-kingdom's inhabitants to pay for this increase" [^6-54] —
+kingdom's inhabitants to pay for this increase" [^6-56] —
 guns requiring taxes, taxes requiring the administration to assess
 and collect them, the administration protected by the guns. Rogers
 describes the same figure as a cycle: governments that acquired
 artillery suppressed regional powers, raised revenue from the
 territory thereby subdued, and spent the revenue expanding the train
-and the army that marched with it [^6-55]. A flywheel of this
+and the army that marched with it [^6-57]. A flywheel of this
 kind, once spinning, does not stop at a frontier, and Chapter 10
 will follow it into the institutions it built. That inversion —
 the moment at which the sinews of administration became the sinews of
@@ -3417,28 +3429,30 @@ Herald, in Stevenson 1863: 265
 [^6-37]: Berry Herald, in Stevenson 1863: 337
 [^6-38]: Vale 1969
 [^6-39]: Escouchy, ii. 33
-[^6-40]: Escouchy,
+[^6-40]: Pollard, ch. 1, p. 1
+[^6-41]: Escouchy,
 ii. 33; ch06 memo §5
-[^6-41]: Escouchy, ii. 34–35
-[^6-42]: Escouchy, ii. 38–39
-[^6-43]: Escouchy, ii. 39
-[TRANS. CLAUDE]
+[^6-42]: Escouchy, ii. 34–35
+[^6-43]: Escouchy, ii. 38–39
 [^6-44]: Escouchy, ii. 39
-[^6-45]: Pollard 1983; 2005 preface
-[^6-46]: Berry Herald, in
+[TRANS. CLAUDE]
+[^6-45]: Escouchy, ii. 39
+[^6-46]: Pollard, ch. 1, p. 1
+[^6-47]: Pollard 1983; 2005 preface
+[^6-48]: Berry Herald, in
 Stevenson 1863: 295
-[^6-47]: Escouchy, ii. 64–65
-[^6-48]: Escouchy, ii. 73–77
-[^6-49]: Escouchy, ii. 75–77
-[^6-50]: Escouchy, ii. 77 ff.
-[^6-51]: Rogers
+[^6-49]: Escouchy, ii. 64–65
+[^6-50]: Escouchy, ii. 73–77
+[^6-51]: Escouchy, ii. 75–77
+[^6-52]: Escouchy, ii. 77 ff.
+[^6-53]: Rogers
 1993
-[^6-52]: Curry 2010:
+[^6-54]: Curry 2010:
 171
-[^6-53]: Rogers 1993:
+[^6-55]: Rogers 1993:
 242
-[^6-54]: DeVries 1998: 132
-[^6-55]: Rogers 1993
+[^6-56]: DeVries 1998: 132
+[^6-57]: Rogers 1993
 
 
 ---
@@ -5558,7 +5572,16 @@ modern project's description — under treasurers Lovell and then
 Heron, with the distinguishing feature that the king audited it
 personally: Henry's own sign manual runs through the account books,
 signing off payments weekly, the sovereign as his own comptroller
-[^11-3]. The paradox is the
+[^11-3] — and the revenue arc is now
+Wolffe's table, printed from the source: chamber receipts averaging
+£17,000 a year in 1487–89, £27,000 in 1492–95, and £105,000 by the
+period ending 1505, with the land-revenue line inside them rising
+from £3,000 to £40,000 (Wolffe 1964: 237). Wolffe's own corrective
+rides with the figures: "even after ten years of Tudor rule the
+scale of chamber activity was still smaller than it had been at the
+end of the Yorkist period" (p. 237) — the machine was inherited and
+enlarged, not invented [GAP: Chrimes, for the institutional
+narrative]. The paradox is the
 chapter's first lesson: the fisc was *personalised* — routed
 through the king's private rooms — precisely in order to be
 institutionalised, pulled out of the old departmental inertia into
@@ -5934,10 +5957,7 @@ artillery?
 open, the case reconstructed from the records
 [^11-2]: Green 1874, ch. VI — the coinage
 quotable at source, in this book's corpus
-[^11-3]: Tudor Chamber Books project; the revenue arc that tradition
-attaches — chamber receipts rising from a few thousand pounds a
-year to above a hundred thousand — is Wolffe's series and is hedged
-here pending retrieval [GAP: Wolffe; Chrimes]
+[^11-3]: Tudor Chamber Books project
 [^11-4]: the exact tallies
 to be fixed against Lander at retrieval; the reframing view —
 Cunningham's, that the recognizance system was an allegiance
