@@ -8,6 +8,10 @@ detailed outline). Where this doctrine and the outline conflict, the outline
 wins; flag the conflict rather than resolving it silently.
 
 ## 1. The Argument (verbatim; do not drift, dilute, or "improve")
+(Reflective project documents — e.g. research/project-analysis.md —
+live in research/ and sit outside the provenance chain, like
+workshop/: no chapter, memo, or draft may cite them. Added
+2026-08-06, authorized.)
 The neomedieval condition described by Bull, Friedrichs, and Cerny is not a
 terminus but the mid-point of a repeatable historical arc. The specific
 mechanism that ended it once — the capital-intensification of decisive force,
