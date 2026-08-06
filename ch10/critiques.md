@@ -215,6 +215,95 @@ embarrassment to be managed.
 
 ---
 
+## Additions (2026-08-06, on Roderick's triage instruction) — PENDING HUMAN REVIEW
+
+## Objection 6 — How is this not Tilly?
+
+**Steelman.** A reader who knows the state-formation literature will
+put the question within a page of the mechanism statement. Tilly
+(*Coercion, Capital, and European States*, 1990) established a
+generation ago that war made the state and the state made war: rulers
+extracted coercion and capital from their populations to fight one
+another, and the extraction apparatus *was* the state. Brewer (*The
+Sinews of Power*, 1989) named and anatomised the fiscal-military
+state. Parrott (*The Business of War*, 2012) then complicated the
+monopolisation narrative from inside the specialism, showing military
+enterprise — private contracting at every scale — persisting and
+*growing* deep into the seventeenth century. Against that shelf, the
+chapter's artillery → permanent finance → administration chain reads
+as Tilly's coercion-capital cycle with one weapon system foregrounded:
+a special case of a thirty-year-old paradigm, presented as a
+discovery. And Tilly was deliberately technology-agnostic — his cycle
+runs on war-making in general, and he distrusted technological
+determinism; narrowing the engine to one gun train is precisely the
+move his framework warns against.
+
+**The chapter's answer — descent owned, plus the variable the
+ancestor declined to supply.** The relation to Tilly is ancestry, and
+the book should say so flatly: without the bellicist literature there
+is no frame for this chapter. What Tilly explains is that war made
+states and why the paths diverged (coercion-intensive,
+capital-intensive, capitalised coercion). What he deliberately does
+not explain is *timing* and *threshold*: why the consolidating turn
+came when it came, and why its casualties were specifically the
+intermediate authorities — the sub-state holders of force who had
+been viable for centuries. The book's addition is the priced step:
+a datable change in the cost of decisive force that closed the
+sub-state path, which converts Tilly's descriptive cycle into a
+falsifiable mechanism (Appendix C is the difference in practice).
+That this is a real gap and not a straw one is the current
+scholarship's own judgment: Mangini & Petroff (2022 working paper,
+in repo, read first-hand) frame their 6,378-city fortification study
+as explaining "why Tilly's cycle began when it did," with the
+gunpowder revolution as the catalyst — the defensive face (wall
+costs) of the same price shock this chapter argues from the
+offensive face (train costs). Brewer is absorbed, not contradicted:
+the fiscal-military state names the mature post-1688 English form;
+the chapter's claim is that the French mid-century case is the
+mechanism's first complete run, of which Brewer's England is the
+perfected descendant. Parrott's contracting is the serious limb, and
+the answer is ch03's standing distinction: enterprise persisted as
+*licensed provision under state monopsony* — the enterpriser sold to
+crowns because only crowns could buy at decisive scale — which is
+the mechanism's prediction about markets in force, not a
+counter-example to it. **Deferred caveat:** Tilly, Parrott, and
+Brewer-beyond-the-coinage are on the retrieval list (Tilly HIGH);
+this steelman is built from their standing arguments and must be
+verified at page level before press.
+
+---
+
+## Objection 7 — The global historians' objection (Andrade–Sharman)
+
+**Steelman, compressed — the full engagement is ch06 critiques
+Objection 7.** Andrade: the gun lived longest in China and
+consolidated nothing there of the European kind — Chinese walls were
+already effectively cannon-proof, so no obsolescence crisis; the
+military revolution is European parochialism. Sharman: pre-1800
+European arms conferred no decisive superiority abroad; the thesis
+is retrospective myth. For *this* chapter the sting is comparative:
+a mechanism chapter that universalises from one region's experience
+has no business generating Part III's claims about four
+contemporary blocs, three of them non-European.
+
+**The chapter's answer.** The fiscal threshold is conditional, and
+the condition is the answer: the mechanism runs where the new
+capability is decisive against the standing defensive stock *and* a
+latent fisc exists to be mobilised — Latin Europe's thin high walls
+met both conditions; China's tamped-earth mass met neither, so the
+mechanism idled there, a conforming negative case like the
+chapter's Swiss. Far from embarrassing Part III, the conditionality
+is Part III's method: the modern chapters do not assume diffusion —
+they *score conditions per bloc* (Appendix C), which is precisely
+the discipline the global historians' critique demands of any
+military-revolution argument. Sharman's superiority claim is
+off-axis (the book predicts intra-bloc consolidation plus durable
+interstitial disorder — the latter agreeing with him). Same
+deferred caveat as ch06: both works unretrieved, now HIGH on the
+list; steelmen provisional; do not caricature.
+
+---
+
 ## For the Perplexity second-opinion run (log after the draft)
 
 - Is the founding reform dated 26 May 1445, Louppy-le-Châtel, with the

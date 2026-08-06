@@ -228,6 +228,62 @@ temporal compression, never as evidence.
 
 ---
 
+## Additions (2026-08-06, on Roderick's triage instruction) — PENDING HUMAN REVIEW
+
+## Objection 7 — The global historians' objection: gunpowder consolidated nothing where it had lived longest
+
+**Steelman.** The global history of the gun surrounds this chapter and
+is not friendly to it. Andrade (*The Gunpowder Age*, 2016): China
+invented the gun and used it in war for centuries before Crécy, and
+experienced no artillery-driven consolidation crisis of the European
+type — in part, on Andrade's own analysis, because Chinese city walls
+were of a different kind entirely: massive tamped-earth cores tens of
+metres thick that early modern cannon could not meaningfully breach.
+The gun never made China's fortifications obsolete, so the "military
+revolution" is a European parochialism promoted to a general law.
+Sharman (*Empires of the Weak*, 2019) presses from the other side:
+before roughly 1800 European arms conferred no decisive superiority
+anywhere that mattered — expansion ran on sea power, local alliances,
+trading-post sufferance and disease, not military-revolution armies —
+so the military-revolution thesis is retrospective myth-making about
+European power. If the gun did not consolidate the polity that had it
+longest, and did not even make its European wielders superior abroad,
+then "the price of decisive force moved" looks like a local accident
+dressed up as a mechanism.
+
+**The chapter's answer — the fiscal threshold, which the objection's
+own evidence supports.** The objection defeats a claim the book does
+not make. The mechanism is a conjunction with a locational term:
+capital-intensive force that is *decisive against the standing
+defensive stock*, plus latent fiscal-administrative capacity, plus
+exogenous pressure. "Decisive" did real work in Latin Europe because
+of what Latin Europe's walls were: high, thin curtain walls,
+purpose-built against escalade and pre-gunpowder engines, defending
+small rich polities in dense contestation. Against that stock the
+new train crossed the threshold — the price of holding a place moved
+above what any subject could pay. Where the standing stock was
+already gun-resistant — Andrade's tamped-earth point — the gun never
+crossed the decisiveness threshold, the price shock never arrived,
+and the mechanism predicts exactly what happened: no consolidation
+crisis. On the book's own terms, China-before-the-nineteenth-century
+is a *conforming negative case*, structurally identical to the
+chapter's Swiss (conditions absent, mechanism idle), not a
+refutation. Sharman's limb is off-axis in the same way: his target
+is the *exported* military revolution — European superiority over
+non-European polities — which the book nowhere asserts; the claim is
+intra-European consolidation, and Part III's interstitial-disorder
+prediction in fact sides with Sharman on the limits of decisive
+force beyond the blocs. **Deferred caveat, stated plainly:** neither
+monograph is in the corpus. Both are now on the retrieval list at
+HIGH; the steelmen above are provisional reconstructions from the
+works' published arguments as carried in the review literature, and
+the answer must be re-verified against their actual texts before
+press. The chapter must not caricature either author — Andrade in
+particular documents Chinese gunpowder state-making the book should
+engage, not elide.
+
+---
+
 ## For the Perplexity second-opinion run (log here after the draft)
 
 Priorities to stress-test on the draft:

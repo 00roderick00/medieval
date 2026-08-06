@@ -218,3 +218,23 @@ quotation in a browser before print.*
   verdict). The 43-page digest remains the carrier for the undelivered
   chapters, marked as such.
 
+
+## Added 2026-08-06 — Mangini & Petroff (retrieved and read)
+
+- **T3 — Michael-David Mangini & Casey Petroff, "Conflict Technology
+  as a Catalyst of State Formation" (working paper, Sept 2022; IPES
+  Oct 2022 version also in repo)** — IN REPO, read first-hand
+  (both PDFs in `corpus/retrieved/`, full text extracted). The
+  6,378-city fortification dataset (geocoded from Stoob 1988):
+  post-1450 defensive construction migrates to borders; complex
+  walls concentrate where borders were being eliminated; limestone
+  proximity stops predicting construction once states could
+  redistribute. Graded **T3, not T2**: unpublished working paper,
+  not peer-reviewed — [RE-CHECK AT PRESS] for a journal version.
+  USE, if Roderick elects to cite: corroboration that the price
+  shock has a measured European footprint (the defensive face of
+  ch06's offensive-face argument), citing their Tilly-timing
+  framing. LIMITS: sample space excludes western France (the whole
+  Normandy–Guyenne theatre), and their agglomeration effect turns
+  on after 1600 — never cite as evidence about 1449–53. Full
+  assessment in retrieval-master (2026-08-06 entry).
