@@ -551,3 +551,67 @@ from 31 of 68 hundreds, ~566; the organization thesis, ~576); ch07
 memo Revisions 9, probe Revisions 2, draft Revisions 2. Pardon-count
 variant (Bohna 3,000+ vs Kriehn 2,203) flagged. Still wanted for ch07:
 Harvey (percentages, geography); Virgoe (indictments).
+
+## 2026-08-06: competitive-landscape triage — book-work additions
+
+On Roderick's triage of the landscape list. Cross-checked first
+against reading-list.md, corpus/bundled/index.md, and this ledger:
+already tracked were **Brewer** (row above, was LOW), **Miller,
+*Chip War*** (row above, PENDING), **Parker** (BORROW row above),
+and the **Rogers anthology** (BUY row above — carries Roberts 1956
+and Rogers's artillery-revolution thesis); **Varoufakis** is engaged
+second-hand via Gosztonyi & Gyetván (in repo). Everything below is
+new to the ledger. The trade titles from the same list go to
+research/competitive-landscape.md (positioning, outside the
+provenance chain), not here.
+
+| Work | Needed for | Priority | Route / status |
+|---|---|---|---|
+| Tilly, *Coercion, Capital, and European States, AD 990–1992* (Blackwell, 1990; rev. 1992) | ch10 critiques Objection 6 (the Tilly-relation objection now standing — page-level engagement required before press); ch01/ch04 state-formation ancestry | **HIGH** | BUY (in print, cheap used) / IA borrow likely; route unverified per dossier convention |
+| Andrade, *The Gunpowder Age* (Princeton UP, 2016) | ch06 + ch10 critiques Objection 7 (the global-history objection — must not be caricatured; steelman provisional until read) | **HIGH** | BUY (in print) / IA borrow likely |
+| Sharman, *Empires of the Weak* (Princeton UP, 2019) | same objection, the pre-1800 European-weakness limb | **HIGH** | BUY (in print) |
+| Parrott, *The Business of War* (Cambridge UP, 2012) | ch03 (military enterprise vs monopsony), ch10 critiques Objection 6 (the contracting-persisted limb) | MED | BUY (in print, CUP pb) |
+| Brewer, *The Sinews of Power* (1989) | as its row above, **priority raised LOW → MED**: now engaged by name in ch10 critiques Objection 6; the coinage passage verbatim still wanted | MED | PENDING (unchanged route) |
+| Bobbitt, *The Shield of Achilles* (2002) | titling/category precedent ("market state" as durable coinage) — intro/ch11 positioning and Appendix A candidate, not load-bearing | LOW–MED | BUY used (out-of-print hardback cheap) / IA borrow |
+| **Mangini & Petroff, "Conflict Technology as a Catalyst of State Formation" (working paper, 2022)** | ch06 (empirical air cover for the mechanism); ch10 critiques Objection 6 (the Tilly-timing point, in their own framing) | **DONE — RETRIEVED 2026-08-06 AND READ** | Both open versions in repo: Sept 2022 full draft, 62 pp. (`Mangini-Petroff-Conflict-Technology-State-Formation-latest-draft.pdf`, from caseypetroff.github.io) and the IPES Oct 2022 conference version, 43 pp. (`…-ipes.pdf`, from michaeldavidmangini.com). **Unpublished working paper — not peer-reviewed; grade T3 until a journal version appears; [RE-CHECK AT PRESS] for a published version supersedes** |
+
+**Mangini & Petroff — reading assessment (read first-hand today, full
+draft).** The paper argues the gunpowder revolution forced city
+agglomeration into territorial states: artillery obsoleted the
+fortification stock, the *trace italienne* response priced defence
+above city-level fiscal capacity, and only states could solve the
+border/interior free-riding problem — border walls defending the
+interior, coercive authority extracting the contributions (their
+Hanse, Dutch and Swiss league failures are the negative cases).
+Evidence: a new dataset geocoding Stoob (1988) — **6,378 fortified
+cities** — plus Kennard (1986) artillery manufacturers (422 makers,
+129 cities) and Abramson (2017) borders at five-year steps. Findings:
+post-1450 construction sits nearer borders (the border-centroid
+ratio); complex walls concentrate where borders were being
+eliminated (effect visible after 1600, onset with the Thirty Years'
+War); limestone proximity predicts construction before gunpowder but
+not after (states redistributing resources); catch-up cities sit
+near agglomeration zones. Their own positioning is the book's:
+they "further develop Tilly's pioneering work" by explaining **why
+the war-made-the-state cycle began when it did** — the technological
+catalyst Tilly declined to supply — and they partially reconcile
+Abramson's anti-bellicist critique via exactly a fiscal-threshold
+argument (cities rich enough to build the walls alone kept their
+sovereignty longer). **Fit for ch06:** strong as corroboration of
+the mechanism at European scale — the *defensive* face (wall costs)
+of the price shock ch06 argues from the *offensive* face (train
+costs). Three limits to respect if cited: (1) their sample space is
+Stoob's map — the Empire and adjacent strips; it **excludes western
+France, most of Italy, and the British Isles**, i.e. ch06's entire
+Normandy–Guyenne theatre; (2) their dividing line is a stylised
+1450 and their agglomeration effect turns on after 1600 — a longer
+clock than ch06's 1449–53 hinge; (3) working paper, unpublished.
+So: citable as the current quantitative statement that the
+mechanism has a measured European footprint, never as evidence
+about the French reconquest itself. **Fit for Appendix C:** no
+direct indicator linkage (the indicators are modern, dated,
+measurable; this is historical); the honest linkage is
+methodological — their border-hardening and border-elimination
+measures are a historical analogue of C's consolidation indicators,
+worth at most a headnote citation. Both placements are Roderick's
+call; nothing inserted in any draft.
