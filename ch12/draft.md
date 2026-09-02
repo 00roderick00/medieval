@@ -198,22 +198,77 @@ the American candidacy has not run, and until it runs the candidacy
 is incomplete — this is the book's observation (c), offered as
 analysis and not as counsel, and scored at C11-1. The United States
 has the stack but has not centralised its universalist platforms;
-and its present instinct, when it reaches for them, reaches for the
-nineteenth century — tariffs, and an antitrust vocabulary inherited
-from the trust-busting age, as though the platforms were its
-Rockefeller moment. The mechanism this book has traced points two
-centuries earlier and one register deeper: the platforms are not
-the American state's Standard Oil but its monasteries —
-universalist institutions holding functions and revenues the
-consolidating centre will need — and the settlement instrument the
-mechanism predicts is not dissolution-by-breakup but the Henrician
-one in American legal dress: licence, and the licensing fee — the
-right to run frontier AI at scale conferred by the state, priced
-by the state, and collected as the settlement's popular revenue,
+and its present instinct, when it reaches for them, is usually
+described — sometimes by its own officials — in the vocabulary of
+the trust-busting age, as though the platforms were its Rockefeller
+moment and the remedy a dramatic dissolution. The republic's own
+record reads differently, and this book has now assembled it case
+by case (the twelve-case evidentiary file is
+ch12/american-pattern.md; its primaries are statutes, opinions and
+decrees). Twelve times between 1887 and 2002 — the railroads,
+Standard Oil, the Money Trust, the banking combination, the
+utility pyramids, the packers, RCA, the studios, Alcoa, the
+DuPont–GM stake, the Bell System, Microsoft — the republic
+confronted a privately held switch through which public life had
+to pass, and in no verified case did it confiscate. The method,
+every time, was regulation of the switch rather than seizure of
+the property: title left, discretion severed — by common carriage,
+line-of-business firebreak, interlock ban, holding-company
+simplification, divestiture-by-spin-off or interoperability
+decree, whichever instrument fitted the dependency. The two great
+spin-off decrees wrote the wealth-preservation into their own
+text: Standard Oil's successor companies and the Bell operating
+companies went, by decree, to the existing shareholders.
+Rockefeller kept every share and grew richer; what he lost, by
+sections 5 and 6 of the decree, was unified command and the right
+ever to rebuild it — wealth and power decoupled by legal
+instrument, in the instrument's own words. And the proof case
+carries a lag the compressed telling misses: 1911 severed the
+private off-switch and handed it to no one. The public off-switch
+was built across a generation — pipelines made common carriers
+from 1906, five years before the breakup; proration from 1930;
+federal interdiction of contraband oil from 1935; the
+licence-and-block powers of 1917, 1941 and 1977 — by regulation,
+not antitrust. The republic decouples in one act and acquires
+control across decades; the American settlement of its oil barons
+was made the way the French settlement of 1439–46 was made, as
+practice hardening into permanence, the dramatic act neither the
+beginning nor the end. Senator Sherman had stated the principle in
+the instrument's own legislative record, in words a
+fifteenth-century chancery would have recognised: "If we will not
+endure a king as a political power we should not endure a king
+over the production, transportation, and sale of any of the
+necessaries of life" (21 Cong. Rec. 2457 (1890), quoted by Greene
+J., 552 F. Supp. 131). The pattern has two limits, and the book
+states them because they mark where its wager could fail. The
+structural arm runs at case speed, and the newest verified case
+states the condition of its own failure — "six years seems like an
+eternity in the computer industry," the Microsoft court warned,
+vacating a breakup in a market that outran the litigation (253
+F.3d 34) — and the modern stack maximises exactly that tempo
+problem, which is why the regulatory line, moving at statute
+speed, carries more of this prediction than the antitrust line
+does. And the First Amendment bounds the enterprise at the
+speech-bearing layers: curation is expressive, and the state may
+reach the platforms' economic switches — access, process,
+portability, the non-expressive infrastructure — but not their
+doctrine (*Moody v. NetChoice*, 603 U.S. ___ (2024)). The American
+state may absorb the monasteries' functions; it cannot rule their
+creed. What the mechanism predicts is therefore stated in this
+book's own tense — compelled, not accomplished: the state will
+absorb the stack. The settlement will look hybrid — licence,
+carriage, firebreak, the platforms' equity intact and their
+returns exceptional — and will be, in fact, consolidation, because
+every instrument in the republic's standing repertoire severs the
+same thing: private discretion over who computes, communicates,
+transacts and connects. Licence, and the licensing fee — the right
+to run frontier AI at scale conferred by the state, priced by the
+state, collected as the settlement's popular revenue — sits
 exactly where Chapter 11's five moves would put it. Not
 nationalisation in the socialist sense; annexation in the
-administrative one. Whether the American system can execute that
-move against its own constitutional grain is what C11-1 scores,
+administrative one, executed with the republic's own instruments.
+Whether the American system can run that pattern against its own
+constitutional grain, at the stack's tempo, is what C11-1 scores,
 year by year.
 
 China has substantially executed the settlement already — the
@@ -251,6 +306,58 @@ ahead of its military-industrial one; conditional, as every
 chapter has held. Everyone else buys, licenses, aligns, or
 inhabits the interstices — Chapter 6's
 capitulation-without-siege, operating as procurement policy.
+
+The book's chief theoretical rival has arrived, from the opposite
+direction, at nearly the same map — and the convergence deserves
+engagement by name, not least because it is usually misdescribed.
+Bratton's *The Stack* (2015) is routinely cited for the
+proposition that sovereignty migrates to the platforms; he
+disclaims exactly that — "not another prophecy of the declining
+state withering away" — and holds the two domains "interlacing and
+folding up in new ways," the state "sometimes absorbing them as
+[its] own new norms" (Bratton 2015 [scan pp. 22, 150, 145 — every
+Bratton pin in this chapter to be re-set against the printed
+edition before assembly]). His sentence on control is the point of
+contact, the taille and the off-switch stated from the platform
+side: "The practical locus of governmental control is over the
+capacity to structure, police, and, especially, tax flows: flows
+of people, money, data, energy. Through the control of the
+interfaces of input and output… the taxation of flows is both the
+means by which states execute the right to exact capital and the
+result of sovereignty" [scan pp. 164–65]. And by February 2026 he
+had named the outcome this book predicts, from his own premises:
+"Hemispherical Stacks: a China Stack, a US Stack, an India Stack,
+an EU Stack" — the four-bloc casting, arrived at from the platform
+side, with "encapsulation of global platforms within the expanded
+borders of their host hemisphere: service withdrawals, app bans,
+deeper, direct connections with the state" (Bratton 2026). The
+disagreement that remains is the one worth having. Bratton
+declines teleology: platform and state fold into each other, and
+he will not say which absorbs which. This book says the price of
+decisive force decides it, bloc by bloc — and for the United
+States has just declared the direction. His refusal to choose is
+the space this book's wager fills.
+
+A second objection to the casting arrives from the engine room:
+that compute is merely electricity by other means — that the
+master metric beneath the stack is the ability to generate, store
+and direct power, and that the book has mistaken the gun for its
+powder. The premise is right and the conclusion wrong. Watts are
+the modern train's powder, not its gun: a necessary input to every
+decisive layer — the foundries, the constellations, the exaflops —
+and an input whose own supply chain is concentrated enough to
+carry controls, which is why the mirror table in this chapter's
+evidentiary file now carries an energy row as an input beneath the
+decisive layers, with the instruments already operating there. But
+no polity decides anything with generation alone; decision is made
+at the layer where sensing, computing and striking are fused, and
+the book therefore prices the cannon and audits the powder — the
+dependency conceded, the hierarchy kept. There is a corollary the
+same analysis supplies, and the book takes it: the democratised
+weapon is built from the concentrated stack's materials, so
+control of the supply is control of the people's weapon too [T3
+for the electrotech argument: Krejsa and Benich, *War on the
+Rocks*, 20 August 2026; the argument cited, its figures not used].
 
 ## V.
 
@@ -377,6 +484,27 @@ overhang bounds the wars the consolidators may fight with each
 other. It does not void the consolidation; it is one more
 reason the settlement runs inside blocs rather than between
 them.
+
+One sharpening of that boundary is owed, because the decade's
+reporting has added a fact the paragraph above cannot absorb
+without saying so. The consolidators' war plans run through the
+same connective tissue that runs their deterrents: an American
+campaign against the Chinese war machine's decision-making would
+mean, in the contemporary defence press's summary, lightning-fast
+attacks on many of the systems China also relies on to control
+its nuclear forces — and nobody professes to know where the red
+lines lie, only that they exist (The Economist, 28 May 2026, at
+T3; [RE-CHECK AT PRESS]). The overhang, that is, does not merely
+cap the consolidators' wars from above; at the top layer, the
+decisive stack's own hardware is entangled with nuclear command
+and control. Which yields a question this book can pose but not
+answer, and poses as a confessed limit: if the full transparency
+war between blocs is unfightable at its top layer, the blocs may
+consolidate and never test one another — a permanent, armed,
+mutually observed pause rather than a Bosworth. Whether that is a
+Tudor settlement or something without precedent, the record of
+this century will say. The wager's scoring does not depend on the
+answer, and the coda returns to the question.
 
 ## VI.
 

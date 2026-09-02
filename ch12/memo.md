@@ -579,6 +579,81 @@ parse and may later sharpen §7's Castillon return.
    is T3 pending a primary (retrieval-master rows of 2 Sep, third
    entry). No draft text touched.
 
+7. **(2026-09-02 — Phase 3 renovation executed in draft.md per spine
+   §8(b), (c), (d), (f) and the two REVIEWED probes. PENDING HUMAN
+   REVIEW.)** Draft changes, each traceable:
+   - **§IV: the "monasteries, not Standard Oil" sentence is
+     superseded** by the new passage the §8(c) CONFIRMED instruction
+     ordered: the American method as regulation of the switch
+     rather than seizure of the property — the twelve-case pattern
+     (no confiscation anywhere verified; the two spin-off decrees
+     preserving wealth by design), the proof case stated WITH the
+     lag (decoupling 1911; the public off-switch built 1906–77,
+     rhyming with the settlement of 1439–46), Microsoft at *49 as
+     the tempo limit, *Moody* as the First Amendment limit (the
+     monasteries image retained in its corrected form: functions
+     absorbable, creed unreachable), Senator Sherman's "king over
+     the production" sentence via Greene J. as the lineage, and
+     the verdict declared in §7's tense: the state WILL absorb the
+     stack — compelled, not accomplished. The licence-and-fee
+     close and the C11-1 scoring stand.
+   - **§IV gains Bratton by name** per §8(f): the council's
+     misreading corrected from his own disclaimers, the tax-flows
+     sentence quoted as the point of contact, Hemispherical Stacks
+     as independent confirmation of the four-bloc casting, the
+     disagreement stated as no-teleology versus compelled outcome.
+     Every Bratton pin is a scan-page pin flagged for re-setting
+     against the printed edition.
+   - **§IV gains the watts-are-powder answer** per §8(d)
+     ("compute is merely electricity by other means" — premise
+     right, conclusion wrong; dependency conceded, hierarchy kept),
+     with the mirror table's new energy INPUT row cross-referenced
+     (american-pattern.md Table 2 + its Revisions 3; Krejsa &
+     Benich at T3, figures unused).
+   - **§V's nuclear-overhang paragraph sharpened** per the REVIEWED
+     Revisions 1: the entanglement point (the stack's top layer
+     runs nuclear C2; Economist 28 May 2026 at T3, [RE-CHECK AT
+     PRESS]) and the confessed-limit question (a permanent, armed,
+     mutually observed pause — Tudor settlement or something
+     without precedent?), handed to the coda. TENSION FLAGGED FOR
+     RODERICK, unresolved, restated from Revisions 1: the
+     entanglement complicates spine §5's "nuclear weapons sit
+     outside the frame" — the frame's boundary may run through the
+     stack itself.
+   - **american-pattern.md upgraded** (its Revisions 1–3, PENDING):
+     the packers partially established at T1 from Swift 276 U.S.
+     311 (structure-first sequence CONFIRMED, with the
+     consent-injunction precision); the Money Trust's dependency
+     leg at T1 from the Pujo report; the energy row entered.
+   - **The Appendix C American sub-wager (CA-1..8) — placement
+     proposal, per §8(f), for Roderick's decision, with reasons;
+     nothing decided.** PROPOSAL: keep the scored indicator table
+     in Appendix C as the grouped American sub-wager, and give ch12
+     a single named cross-reference paragraph (the chapter states
+     the verdict and points to the sub-wager). Reasons: (i) the
+     chapter's register is analysis, not scorecard — eight dated
+     baselines with thresholds would break §IV's prose; (ii)
+     Appendix C is where the book's falsification apparatus lives
+     and where a 2040 reader will look; (iii) §VI already hands to
+     Appendix C, so the flow exists. The alternative (the table in
+     ch12 §VII) is workable if Roderick wants the wager and its
+     scorecard on one page. BASELINES the 2 September corpus now
+     allows, marked: CA-1 (cloud carriage): CMA Final Decision
+     Report + Summary, 31 July 2025 — IN HAND; CA-3 (frontier
+     licensing): EO 14148 rescission of EO 14110 — IN HAND; SB 53
+     chaptered text — IN HAND; CA-4 (structural executed): Google
+     search Final Judgment + remedies opinion + two compliance
+     reports — IN HAND; Google ad-tech liability opinion +
+     plaintiffs' proposed final judgment (NO final remedies
+     judgment at capture) — IN HAND; FTC v. Meta appeal release —
+     IN HAND (pin from the D.C. Circuit docket owed); CA-5
+     (standing regulator): S.1671 as introduced — IN HAND; CA-6
+     (H200 cut vs control): the arrangement's instrument — PENDING
+     (no primary yet); CA-7 (interlocks): DOJ Clayton §8 release
+     22-1222 — IN HAND; CA-8 (inward-open/outward-closed): BIS VEU
+     revocation rule, 90 FR (2 Sep 2025) — IN HAND; Section 232
+     Proclamations 11002 and 11052 — IN HAND.
+
 ---
 
 STATUS: REVIEWED (Roderick, 2026-07-31 — read in full, nothing to add; no revisions required)

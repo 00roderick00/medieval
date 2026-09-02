@@ -277,3 +277,18 @@ precisely so that patience cannot be pleaded later.
      is the better description and the chapter's American route
      fails its test honestly. The objection is thereby answered
      architecturally — absorbed into the wager, not argued away.
+
+3. **(2026-09-02, Phase 3 — where the renovation touches Revisions
+   1 and 2. PENDING HUMAN REVIEW.)** Draft §IV now carries the
+   pattern passage and the declared verdict (memo Revisions 7);
+   two consequences for this file's entries. (i) The Parrott
+   answer's tempo condition (*Microsoft* at *49) is now DRAFT TEXT
+   — the chapter states its own structural arm's failure condition,
+   which strengthens the architectural answer: the objection is in
+   the book, not only in the apparatus. CA-4 remains the scoreable
+   test. (ii) The H200 entry's cut-versus-control point is now
+   implied by the draft's verdict sentence ("a cut is income, not
+   control" remains memo/spine language; the draft says the
+   mechanism runs on severing discretion) — the [RE-CHECK AT
+   PRESS] status of the H200 arrangement is unchanged and CA-6
+   still waits on its instrument.

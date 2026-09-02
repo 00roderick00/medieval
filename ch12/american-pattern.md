@@ -566,6 +566,7 @@ stated at the foot.
 | Frontier models | Glass–Steagall: the line-of-business firebreak (model developer / dominant cloud / distribution chosen sides within a window) + licence-conditioned operation (the TWEA "by means of licenses" lineage, off-switch probe §3) + Microsoft §III.E/D for interfaces | the dependency is a COMBINATION dependency (compute + model + distribution under one roof), which is what firebreaks are for; the licence is spine §8(c)'s named instrument | *Microsoft* at *49 is the standing warning: the five-year decree chased a market that moved faster; a firebreak drawn on today's layer boundaries may be obsolete before its compliance window closes — the 1933 statute's one-year window worked because banking's layers held still |
 | Identity / payments | the Money Trust package: a public substitute rail (the Fed's modern analogue), the interlock/cross-ownership ban across layers, a standing commission | the dependency is a network-of-governance dependency, not a single firm — the 1913–14 answer was built for exactly that shape | the Fed leg of the historical package is the one whose primary is NOT yet in corpus; and a public payment rail touches the state-as-competitor problem the 1913 design deliberately fudged (a banker's bank, not a people's bank) |
 | Speech-bearing layers (feeds, search ranking, social graph, app-store editorial surfaces) | Paramount's practices toolkit (block-booking = bundled placement; clearances = ranking priority) and Microsoft's interoperability — BUT bounded by the First Amendment limit below | the practices, not the ownership, are the tractable object — as in 1948 | **the *Moody v. NetChoice* limit, stated in full at the foot of this table** |
+| **Energy / electrotech — AN INPUT ROW, beneath the decisive layers per spine §8(d)** (generation, storage, power electronics, grid orchestration) | the instruments already operating there run in the procurement and trade lines — component prohibitions, foreign-battery licensing, the Section 232 proclamations now reaching polysilicon (Procl. 11052, in corpus) — and the analytically right test is the control-layer one: license the software-bearing ("smart") layers, not the commodity ("dumb") materials | watts are powder, not gun: every decisive layer draws on this one, so control of its supply is also control of the people's weapon — the democratised drone is built from the concentrated stack's materials (spine §4 gloss per §8(d)) | the taille bought guns directly; the modern state cannot buy this base at Pentagon scale — the civilian-scale-reserve (Detroit) disanalogy, stated at ch10 §VIII. The row's framing is T3 (Krejsa & Benich, WOTR, 20 Aug 2026 — argument cited, figures not used); each named instrument except Procl. 11052 still needs its primary — [UNVERIFIED — RETRIEVAL: the battery-licensing and component-prohibition instruments] |
 
 **The First Amendment limit (T1 in corpus: Moody v. NetChoice, 603
 U.S. ___ (2024), slip op.).** The pattern's instruments reach
@@ -609,5 +610,75 @@ platforms' functions; it cannot rule their creed.
    pattern table's one open fortune question).
 3. Bringhurst and Childs — rows entered (probe support for the
    Standard Oil worked example and the proration record).
+
+## Revisions (2026-09-02, Phase 3 renovation) — PENDING HUMAN REVIEW
+
+1. **(The packers case upgraded from bracketed to partially
+   established at T1.)** *Swift & Co. v. United States*, 276 U.S.
+   311 (1928), now in corpus
+   (`open-web-pulls-2026-09-02b/Swift-v-US-276-US-311-1928-LoC.pdf`),
+   recites the 1920 decree's terms: the packers enjoined "from
+   holding directly or indirectly (without the consent of the
+   court) any interest in any public stockyard, or any stockyard
+   terminal railroad, or any stockyard market journal," from "the
+   business of manufacturing, buying, selling or handling any one
+   of 114 enumerated food products or any one of 30 other named
+   articles," from retail meat, milk and cream, public cold
+   storage, from using their distributive systems for those
+   articles, and from majority interests in businesses in those
+   lines (276 U.S. at 328–29). Meatpacking itself is nowhere among
+   the enjoined businesses; nothing was confiscated; the decree was
+   entered BY CONSENT on the day the petition was filed (27
+   February 1920), with the express clause that consent "shall not
+   constitute or be considered an admission… that the defendants…
+   have in fact violated any law" (at 320), and with perpetual
+   retained jurisdiction (¶ Eighteenth, at 320–21). The 1928 Court
+   sustained it whole: "The power to enjoin includes the power to
+   enjoin too much" (at 330–31). SEQUENCE CONFIRMED: FTC
+   meat-packing report 1918–20 → decree February 1920 → Packers and
+   Stockyards Act 1921 — the series' one structure-first case, WITH
+   the precision that its "structural" act was an exclusion
+   injunction by consent, not an asset severance: the
+   no-confiscation core holds here too. The 1921 Act's own content
+   remains [UNVERIFIED — RETRIEVAL: only p. 159 in corpus]. Fortune
+   column: the consent structure spared the packers any
+   adjudication; the opinion is silent on wealth. Playbook
+   precision: "wholesale groceries" as a named category appears in
+   the opinion only via the intervening grocers' associations, not
+   in the Court's recitation of the decree.
+
+2. **(The Money Trust's dependency leg upgraded to T1.)** The Pujo
+   report (H. Rept. 1593, 62d Cong., 3d sess., 28 Feb 1913; FRASER
+   OCR in corpus — re-check quotations against the scan) supplies
+   the dependency in the committee's own words: "an established and
+   well-defined identity and community of interest between a few
+   leaders of finance which has been created and is held together
+   through stock holdings, interlocking directorates, and other
+   forms of domination… a vast and growing concentration of
+   control of money and credit in the hands of a comparatively few
+   men… the condition thus described exists in this country
+   to-day" (p. 130); the tabulation — "In all, 341 directorships in
+   112 corporations having aggregate resources or capitalization
+   of $22,245,000,000" (pp. 89–90); the chokepoint — no $10m issue
+   in ten years without the group (pp. 160–61). And the report
+   itself states the pattern's character: "The gentlemen
+   constituting this inner circle have, however, violated no law"
+   (p. 161) — so the remedy set is wholly prospective regulation of
+   practices (interlocks "abolished and prohibited," p. 140; the
+   statutory form at p. 163 that Clayton §8 would enact — lineage
+   inference, the report cannot attest its successor); personal
+   fortunes expressly counted out of even the measurements ("This
+   takes no account of the personal fortunes of these gentlemen,"
+   p. 131). The Federal Reserve leg of the case REMAINS [UNVERIFIED
+   — RETRIEVAL]. Probe §3 and Table 1's Money Trust row are
+   corrected of record by this entry; the section text is not
+   silently rewritten.
+
+3. **(Table 2 gains the energy/electrotech input row** per spine
+   §8(d) — entered above in the table this date; the row's framing
+   is T3 (Krejsa & Benich) and its named instruments except
+   Proclamation 11052 carry [UNVERIFIED — RETRIEVAL] flags.)
+
+---
 
 STATUS: REVIEWED (Roderick, 2026-09-02 — review pack)

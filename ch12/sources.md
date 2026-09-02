@@ -148,3 +148,41 @@ above (CLAUDE.md §4). URLs in the session research record.*
   "connective tissue" would mean "lightning-fast attacks on many of
   the systems that China also relies on to control its nuclear
   forces"). Integration: memo Revisions 1 (post-review).
+
+## Added 2026-09-02 — Phase 3 renovation (the pattern's primaries, Bratton, the baselines)
+
+- **T1 — the American-pattern primaries** used by draft §IV via
+  ch12/american-pattern.md (REVIEWED): the twelve-case set in
+  `corpus/retrieved/source-library/american-primaries-2026-09-02/`
+  (INDEX.md is the manifest) plus the Standard Oil set; NEWLY USED
+  this date: *Swift & Co. v. United States*, 276 U.S. 311 (1928)
+  (the 1920 packers' decree recited; consent posture; sequence) and
+  the Pujo report (H. Rept. 1593, 62d Cong., 3d sess., 1913; FRASER
+  OCR — re-check quotations against the 15.4 MB scan before print).
+  Draft §IV quotes at T1: Senator Sherman via Greene J. (552 F.
+  Supp. 131); *Microsoft*, 253 F.3d 34 at *49; *Moody v. NetChoice*
+  (2024). Four cases remain [UNVERIFIED — RETRIEVAL] per the
+  probe's brackets (Fed Act leg; PUHCA/Insull; the packers' 1921
+  Act text; RCA).
+- **T2 — Bratton, *The Stack* (2015) and "Planetary Computation's
+  Next Phase" (2026)** — as ch10/sources.md 2026-09-02 entry: the
+  2015 scan carries NO printed pagination; **every Bratton
+  quotation in draft §IV is pinned to scan pages and must be
+  re-pinned to the printed edition before assembly**
+  (tenth-anniversary edition on retrieval-master, BUY). Used: the
+  withering-away disclaimer, the interlacing/absorbing passages,
+  the tax-flows sentence, Hemispherical Stacks and the
+  encapsulation passage (2026, text captured).
+- **T3 — Krejsa & Benich (WOTR, 20 Aug 2026)** — as ch10/sources.md
+  entry; used in draft §IV (watts-are-powder answer) and the
+  probe's Table 2 energy row; argument cited, figures not used.
+- **T1 — Appendix C baseline instruments now in corpus** (for the
+  CA-1..8 sub-wager, wherever placed): CMA Cloud Services Final
+  Decision Report + Summary (31 Jul 2025); BIS VEU revocation rule
+  (90 FR, 2 Sep 2025); Google search Final Judgment, remedies
+  opinion, and compliance reports (Dec 2025 – Aug 2026); Google
+  ad-tech liability opinion + plaintiffs' proposed final judgment
+  (no final remedies judgment at capture); FTC v. Meta appeal
+  release (docket pin owed); EO 14148 (28 Jan 2025); S.1671;
+  California SB 53; Proclamations 11002 and 11052. All [RE-CHECK
+  AT PRESS] as contemporary instruments.
