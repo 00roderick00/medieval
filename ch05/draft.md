@@ -69,13 +69,20 @@ long treated it as a distinctively English catastrophe: a saintly
 simpleton on the throne, wicked uncles, the wheel of fortune. The
 argument of this chapter is that the English case was one instance of a
 continental pattern, and that the pattern has a structure. The
-chapter's title term should be credited before it is used: the
-undermighty king is K. B. McFarlane's formulation — his famous dictum
-holds that only a king who was under-mighty had anything to fear from
-over-mighty subjects [GAP: pin the verbatim wording at retrieval —
-McFarlane's essays are on the acquisition list] — and the debt is
-acknowledged here because what follows deploys his term against part
-of his point: this chapter generalises the condition across the
+chapter's title term should be credited before it is used, and its
+lineage runs deeper than its historian. The over-mighty subject is
+a fifteenth-century coinage before it is a twentieth-century
+category: Sir John Fortescue, writing *The Governance of England*
+in the 1470s, headed a chapter with "the perellis that mey come to
+the kyng by ouer myghtye subgettes" (ed. Plummer, ch. IX — the OCR
+text in this book's corpus; wording to be verified against the
+page images before print). The undermighty king is K. B.
+McFarlane's inversion of Fortescue's warning — his famous dictum
+holds that only a king who was under-mighty had anything to fear
+from over-mighty subjects [GAP: pin the verbatim wording at
+retrieval — McFarlane's essays are on the acquisition list] — and
+both debts are acknowledged here because what follows deploys the
+term against part of the historian's point: this chapter generalises the condition across the
 Channel and forward five centuries, and argues (§VI) that the
 causation his dictum compresses runs in a direction the English
 evidence alone leaves open. Personal
@@ -607,5 +614,22 @@ Roderick reviewed the Batch 1 drafts: approved with revisions.
 
 ---
 
+## Revisions
+
+1. **(2026-09-03 — Phase 4 Run A, integration. PENDING HUMAN
+   REVIEW.)** One change (check 1, the over-mighty lineage; executes
+   the Fortescue-credit note recorded at ch12/memo.md Revisions 3,
+   REVIEWED). §I's crediting sentence now runs the lineage in
+   order: Fortescue's chapter heading — "the perellis that mey come
+   to the kyng by ouer myghtye subgettes" (*The Governance of
+   England*, ed. Plummer, ch. IX; verified this date in the corpus
+   OCR, where the scan garbles "ouer" as "GUER"; wording to be
+   checked against the page images before print) — then McFarlane's
+   inversion, both debts acknowledged. The §VI back-reference
+   ("McFarlane's dictum, credited in §I") still holds, since the
+   dictum remains his. No other change.
+
+---
+
 STATUS: REVIEWED (Roderick, 2026-08-01) — approved with revisions
-applied
+applied; Revisions 1 (Phase 4 Run A) PENDING HUMAN REVIEW
