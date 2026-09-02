@@ -219,3 +219,61 @@ precisely so that patience cannot be pleaded later.
      eventually score this: a cut that never acquires conditions is
      venality; a cut that acquires revocation conditions is the
      settlement beginning. Not resolved here.
+
+2. **(2026-09-02 — Parrott's devolution objection answered from the
+   American pattern. PENDING HUMAN REVIEW.)** Executed against
+   ch12/american-pattern.md; Parrott's *The Business of War* is
+   GATED (retrieval-master, HIGH) — the objection is engaged here as
+   the council reported it, and the full engagement waits on the
+   text: [UNVERIFIED — RETRIEVAL: Parrott 2012] for every
+   attribution to him.
+   - **The objection, as reported.** Wholly state-administered force
+     was a ~1760–1960 anomaly; contractor incorporation may be the
+     stable equilibrium; the 2025–26 record shows devolution
+     (consolidated contractor awards, constellation dependence)
+     running concurrently with consolidation. Applied to spine
+     §8(c): why would the platforms not simply be devolved-to the
+     way the early modern contractors were?
+   - **What the pattern actually shows — re-severance is the
+     standing behaviour.** The verified series is not one severance
+     but a recurring cycle across new media of dependency: rails
+     (1887/1906) → oil (1911) → credit and governance (1913–14) →
+     deposits-and-securities (1933) → the local exchange
+     (1956/1982) → the software interface (2001–02). Each time a
+     privately held switch re-formed in a new layer, the republic
+     re-severed it with an instrument fitted to the new dependency
+     — and twice (Hepburn's commodities clause; Glass–Steagall) it
+     did so by standing statute rather than case. On this record,
+     what Parrott reads as devolution, the pattern reads as the
+     INTER-SEVERANCE PHASE: private re-acquisition of switches is
+     the normal state between corrections, not a refutation of the
+     correcting behaviour. The undermighty and venality readings of
+     the present (spine §8(c)) name that phase.
+   - **The honest half — where Parrott could still win.** (i) The
+     pattern's structural arm has a tempo condition, stated by its
+     own newest verified case: *Microsoft*, 253 F.3d at *49 — "six
+     years seems like an eternity in the computer industry… By the
+     time a court can assess liability, firms, products, and the
+     marketplace are likely to have changed dramatically." If stack
+     tempo permanently outruns decree tempo, the republic's
+     structural instrument fails exactly where the thesis needs it,
+     and the equilibrium Parrott describes could hold. The
+     regulatory line (licensing, carriage, disclosure — which moves
+     at statute speed, not case speed) then carries the whole
+     prediction. (ii) The cycle claim rests on the VERIFIED rows;
+     the packers and RCA rows — the two where the republic
+     allegedly severed adjacency-control most directly — are still
+     [UNVERIFIED — RETRIEVAL]. (iii) The pattern is domestic: it
+     says nothing about contractors ACROSS the security perimeter,
+     which is Parrott's home ground; the council's
+     control-rights/revocation reframing (model-council-synthesis
+     arguments; GPT 5.6 Sol's metric) does that work and is already
+     CA-2/CA-6's territory.
+   - **Scoreable form.** The disagreement reduces to CA-4
+     (structural separation executed, not ordered) against a dated
+     horizon: if by the Appendix C window no structural or
+     firebreak instrument has executed against any platform switch
+     while contractor incorporation deepens, Parrott's equilibrium
+     is the better description and the chapter's American route
+     fails its test honestly. The objection is thereby answered
+     architecturally — absorbed into the wager, not argued away.

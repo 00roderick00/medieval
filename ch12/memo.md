@@ -483,6 +483,72 @@ parse and may later sharpen §7's Castillon return.
    conceded for the rentable layers. No draft text proposed;
    placement proposals in the assessment §5.
 
+5. **(2026-09-02 — the American-pattern probe executed
+   (ch12/american-pattern.md), per Revisions 4's commission and spine
+   §8(c)'s RULING. PENDING HUMAN REVIEW.)** Twelve cases run against
+   their T1 primaries in corpus; eight established, four bracketed
+   ([UNVERIFIED — RETRIEVAL]: the Fed leg of the Money Trust;
+   PUHCA/Insull; the packers; RCA). What the verified pattern
+   establishes, and where it changes §§2–4:
+   - **The pattern's verified core, for §3's American case.** In no
+     verified case does the republic confiscate: every instrument
+     severs discretion and leaves title, and in the two spin-off
+     decrees (Standard Oil 1911; AT&T MFJ §I(A)(4)) the
+     wealth-preservation is IN the decree text at T1 — the
+     shareholders receive the successors' stock by design. The
+     "wealth and power decoupled by legal instrument" sentence of
+     spine §8(c) now rests on decree text, not on biography (the
+     biographical wealth figures remain [UNVERIFIED — RETRIEVAL:
+     Chernow/Yergin], and the probe flags Insull as the one case
+     where the fortune-kept column may fail — worth knowing before
+     the chapter claims the column).
+   - **The lag finding generalises, in a stronger form than
+     Revisions 2 stated.** Regulation of the switch precedes or
+     accompanies the structural act in every verified case — and in
+     three (Money Trust, Alcoa, Microsoft) the structural act never
+     comes at all, its place taken by governance rules, public
+     capacity, or a conduct decree. The packers are conditionally
+     the one structure-first case (decree 1920 before statute 1921
+     — bracketed until the primaries arrive). Consequence for §§2–3
+     at renovation: the American consolidation the chapter predicts
+     should be described as the regulatory line arriving FIRST
+     (carriage, licensing, disclosure — the CA-1/3/5 indicators),
+     with the structural cases late and rare — which is also what
+     the 2025–26 record (Google conduct remedies; no executed
+     platform divestiture) currently shows.
+   - **The opinions almost never sever — the decree does.**
+     Paramount, Alcoa and DuPont–GM all remand, defer or decline in
+     the very opinions that made them famous; the severing lives in
+     negotiated decrees under retained jurisdiction. For §2's
+     settlement-from-inside: the American instrument of settlement
+     is the consent decree with a named judge and a compliance
+     apparatus — the Sforza-adjacent legal form the chapter should
+     name when the renovation comes.
+   - **Two limits the pattern itself states.** (i) *Microsoft* at
+     *49 ("six years seems like an eternity in the computer
+     industry") is the condition under which the structural arm
+     fails, and the modern stack maximises it — carried into
+     critiques Revisions 2 as the honest half of the Parrott answer.
+     (ii) *Moody v. NetChoice* bounds the speech-bearing layers:
+     curation is expressive; the instruments reach economic
+     switches, process, portability and non-expressive
+     infrastructure only (probe Table 2 foot; consistent with
+     Revisions 3's Henrician disanalogy).
+   - **Gold for the lineage:** Greene J. quotes Senator Sherman, 21
+     Cong. Rec. 2457 (1890): "If we will not endure a king as a
+     political power we should not endure a king over the
+     production, transportation, and sale of any of the necessaries
+     of life" (552 F. Supp. at *164–65) — the over-mighty citizen
+     in the instrument's own legislative record, now citable at T1.
+   - **Playbook corrections recorded** (probe, passim): "34
+     companies" vs the decree's ~37-subsidiary table; the seven
+     RBOCs were AT&T's plan, not a decree term (§I(A)(4) expressly
+     declines to fix a number); the 1956 "government work" carve-out
+     is unverified; the divestitures the playbook narrates for
+     Paramount, Alcoa and DuPont sit in later decrees not yet in
+     corpus. None of these breaks the pattern; all of them
+     discipline how it may be written.
+
 ---
 
 STATUS: REVIEWED (Roderick, 2026-07-31 — read in full, nothing to add; no revisions required)

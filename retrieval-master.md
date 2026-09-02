@@ -660,6 +660,32 @@ Everything below is new to the ledger.
 | Bloch, *L'Étrange Défaite* (1946; Eng. *Strange Defeat*) | coda / ch12 — the modern control where the correct systemic answer was available in real time and rejected for political reasons; "essentially an intellectual victory" | LOW | **IN REPO 2026-09-02** (`corpus/retrieved/Bloch-Etrange-Defaite-UQAM.pdf`, Classiques des sciences sociales digital ed., 1946 Franc-Tireur pagination pp. 21–194 embedded). Both target quotes verified: "A qui la faute ?…" (Ch. II opening) at 1946 p. 45; "le triomphe des Allemands fut, essentiellement, une victoire intellectuelle" at 1946 p. 56. Not yet integrated in any chapter file |
 | Searle & Zhang on Qing perceptions of British force, Opium War | reserve sidebar only | LOW | T&F — verify page refs against version of record per the report's own caution |
 
+### American pattern probe (2026-09-02, spine §8(c) RULING)
+
+Probe: ch12/american-pattern.md. The retrieved primaries are in
+`corpus/retrieved/source-library/american-primaries-2026-09-02/`
+(INDEX.md there is the manifest). Rows below are what the probe still
+needs; the four cases carried at [UNVERIFIED — RETRIEVAL] are Money
+Trust (Fed Act leg), PUHCA/Insull, the packers, RCA, plus the IBM and
+AT&T 1956 decrees.
+
+| Work | Needed for | Priority | Route / status |
+|---|---|---|---|
+| Federal Reserve Act, Pub. L. 63-43, 38 Stat. 251 (1913) | Money Trust case — the public substitute for the private liquidity syndicate | **HIGH** | OPEN — FRASER NARA scan, 9.5 MB (one-click for Roderick): https://fraser.stlouisfed.org/files/docs/historical/fr_act/nara-dc_rg011_e005b_pl63-43.pdf |
+| Public Utility Holding Company Act, 49 Stat. 803 (1935), Title I §11 (the "death sentence") | PUHCA/Insull case — the simplification mandate; the strongest cross-layer conglomerate template | **HIGH** | OPEN — govinfo, 14 MB (one-click): https://www.govinfo.gov/content/pkg/STATUTE-49/pdf/STATUTE-49-Pg803.pdf |
+| Packers and Stockyards Act, 42 Stat. 159 (1921) | packers case — sector regulation following the decree | **HIGH** | OPEN — govinfo (per-page granule failed; pull the full Statute volume pages): https://www.govinfo.gov/content/pkg/STATUTE-42/pdf/STATUTE-42-Pg159.pdf |
+| Swift consent decree (27 Feb 1920, Sup. Ct. D.C.) | packers case — the line-of-business exclusion | **HIGH** | terms recited in *Swift & Co. v. United States*, 276 U.S. 311 (1928) — OPEN, LoC U.S. Reports: https://tile.loc.gov/storage-services/service/ll/usrep/usrep276/usrep276311/usrep276311.pdf ; original decree text: FTC 1925 status report / NARA — route to identify |
+| RCA consent decree (D. Del., Nov 1932) | RCA case — cross-ownership divestiture + patent-pool constraints | MED | DOJ archive location to identify; no open text found 2026-09-02 |
+| IBM consent decree (25 Jan 1956, S.D.N.Y.) and the 1982 dismissal stipulation | IBM case — patent licensing, sale-as-well-as-lease; the 1969 unbundling context | MED | DOJ 1996 memorandum on modifying the 1956 judgment recites the decree (justice.gov, open — locate on the ATR case page); 1956 decree text: CCH Trade Cases 1956 ¶68,245 — library route |
+| AT&T/Western Electric consent decree (24 Jan 1956, D.N.J.) | AT&T case — the confinement-and-licensing stage before the MFJ | MED | terms recited in *US v. AT&T*, 552 F. Supp. 131 (IN CORPUS); original: CCH Trade Cases 1956 ¶68,246 — library route |
+| Bringhurst, *Antitrust and the Oil Monopoly: The Standard Oil Cases, 1890–1911* (1979) | Standard Oil worked example — the state-cases prehistory 1890–1911 | MED | BUY used / IA borrow |
+| Childs, *The Texas Railroad Commission* (Texas A&M UP, 2005) | off-switch probe §3 — the proration order history at T2 | MED | BUY (Texas A&M UP) |
+| Pujo Committee, *Money Trust Investigation* report (1913) | Money Trust case — the dependency as Congress documented it | LOW | OPEN — FRASER; pull if the case is drafted |
+| Paramount consent decrees (1948–49, S.D.N.Y.) | Paramount case — the 334 U.S. 131 opinion orders NO divestiture (probe finding); the theatre divestitures live in these decrees only | **HIGH** | DOJ Paramount Decrees review docket / DOJ archive — route to identify |
+| *United States v. E.I. du Pont de Nemours & Co.* (remedy), 366 U.S. (1961) | DuPont–GM case — the 1957 opinion only remands (probe finding); the divestiture order is here. Citation in corpus only via 253 F.3d 34's quotation | **HIGH** | LoC U.S. Reports (tile.loc.gov usrep366 pattern) — one-click |
+| Alcoa post-1945 remedy proceedings (dissolution deferred at 148 F.2d 416, *446–47 "then, but then only") | Alcoa case — what the district court did after the Surplus Property Act disposals | MED | citation to identify (S.D.N.Y., post-1945); do not cite from memory |
+| A T2 on Samuel Insull's personal fortune after the 1932 collapse | the pattern table's ONE open fortune question (ch12/american-pattern.md §5): if Insull's fortune did not survive, the fortune-kept column gains its qualification | MED | biography route to identify (no source in repo speaks to it) |
+
 ### Normandy council assessment additions (2026-09-02, Job 4)
 
 | Work | Needed for | Priority | Route / status |
@@ -744,5 +770,16 @@ Act 1913, NARA scan (9.5 MB, FRASER); PUHCA 1935 (14 MB, govinfo);
 Packers and Stockyards Act 1921 (govinfo per-page only; loc.gov behind a
 bot check); Fortescue PDF (24 MB, archive.org). Not attempted: the
 Swift, RCA, IBM and AT&T 1956 consent decrees.
+
+**PROBE EXECUTED 2026-09-02 against this set: ch12/american-pattern.md**
+(spine §8(c) RULING; ch12 memo Revisions 5; critiques Revisions 2).
+Eight of twelve cases established at T1 from the retrieved primaries;
+four carried [UNVERIFIED — RETRIEVAL] (Money Trust's Fed leg;
+PUHCA/Insull; packers; RCA), plus the IBM and AT&T 1956 decrees and
+the later structural decrees the probe found missing from the great
+opinions themselves — Paramount 1948–49 decrees, DuPont–GM 366 U.S.
+(1961), the Alcoa post-1945 remedy proceedings (rows in the "American
+pattern probe" table above, with the Swift-via-276-U.S.-311 route,
+Bringhurst and Childs).
 
 | Bratton, *The Stack*, tenth-anniversary edition (MIT Press, 2026) | ch12 — the book-length statement of Hemispherical Stacks; printed pagination for every Bratton pin | **HIGH** | BUY |
