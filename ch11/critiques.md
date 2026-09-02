@@ -187,3 +187,91 @@ survives its members losing cases, but not the court losing the cases.
 - Does the close hand forward to ch12 without summarising?
 
 *(Run pending; results to be pasted below with date.)*
+
+---
+
+## Revisions (2026-09-02)
+
+1. **(2026-09-02 — the Mamluk counter-case entered beside the Ottoman
+   material: copied the weapon, could not copy the state. PENDING
+   HUMAN REVIEW.)** Executed against spine §8 and the 2026-09-02
+   session instruction; primary retrieved and read this session; no
+   draft text proposed.
+   - **The source, now in repo at T1 (in translation).** Ibn Iyas,
+     *Bada'i' al-zuhur*, the eyewitness Cairo chronicle of the
+     Ottoman conquest, in W. H. Salmon's 1921 translation (*An
+     Account of the Ottoman Conquest of Egypt in the Year A.H. 922
+     (A.D. 1516)*, Oriental Translation Fund):
+     `corpus/retrieved/IbnIyas-Salmon-1921-Ottoman-Conquest-of-Egypt.txt`
+     (archive.org `AnAccountOfTheOttomanConquestOfEgypetVolXxv`;
+     open PDF also available). Read pp. 40–116 this session; every
+     quotation below verified in the file. **CITATION CAUTION: the
+     volume carries two paginations** — the printed English pages
+     and Salmon's bracketed markers of the Arabic edition's pages
+     (`[81]` etc.). Second-opinion leads circulating with pins "p.
+     81 / 92 / 97 / 98 / 51" are using the ARABIC markers; the
+     printed pages (cite these) are 88, 105, 111, 111 and 49
+     respectively.
+   - **What the Mamluks demonstrably saw and copied.** At Marj Dabiq
+     the Karanisah Mamluks captured "seven standards, the guns on
+     the carriages, and the musketeers" (p. 42). Tumanbay then
+     replicated the system's visible layer: "a wooden vehicle drawn
+     by oxen, and carrying musketeers; there were about thirty or
+     more of these vehicles… also camels carrying an arrangement for
+     musketeers to shoot from" (p. 88, marker [81] — the verb is
+     "inspected"); "this Sultan had displayed great energy in making
+     wagons and forging guns, in the manufacture of muskets, and the
+     raising of a very large number of musketeers" (p. 105, [92]);
+     at Raydaniyya he "fortified it with cannons and guns, arranged
+     a line of shields and wooden defences… and dug a trench from
+     Jebel Ahmer to the Matariyyeh fields" (p. 111; the day-by-day
+     trench account at p. 107). And he was annihilated anyway.
+   - **The causal registers Ibn Iyas actually uses — none systemic.**
+     Providence: "this loss was inflicted on the Egyptian troops by
+     the will of Providence in fulfilment of His decrees" (p. 42);
+     "God's anger was kindled against the Egyptian troops, and their
+     hands seemed to be fettered" (p. 43); "Thus was it written in
+     the Divine decrees" (p. 46); "But Allah did not grant him the
+     victory" (p. 111, [97]). Moral desert: "Neither the Sultan nor
+     his Amirs ruled the people justly; they reaped the reward of
+     their evil doings" (p. 46). Treason: Khair Bey "said to be
+     secretly in league with Ibn 'Othman… confirmed later," "the
+     first to fly" (p. 42); named "Khain Bey (traitor)" by the
+     Ottoman sultan (p. 49, [51] — the text says "Ibn 'Othman"
+     throughout, never "Selim"). Discipline: the imported Mamluks
+     "might have been blocks of wood for all the stir they made"
+     (p. 45). Bare number, in VERSE, not prose: "But courage cannot
+     avail against numbers" (p. 66, from the poem on al-Ghuri's
+     defeat — quote it as verse or not at all).
+   - **Why it sits beside the Ottoman material (memo §4).** The
+     Ottoman variant is the chapter's most radical five-move case;
+     the Mamluk catastrophe is its control: the neighbouring
+     military élite procured the hardware within months and lost,
+     because the operative variable was the standing, salaried,
+     drilled establishment and the fiscal-administrative-logistical
+     machine behind it — which is not procurable. The systemic
+     reading rests on **Ágoston, "Firearms and Military Adaptation,"
+     *JWH* 25:1 (2014) — [UNVERIFIED — RETRIEVAL: the article is on
+     the 2026-09-02 retrieval list; its specific claims (early
+     integration of gunpowder weapons into standing forces;
+     administrative-fiscal-logistical strength; the Raydaniyya
+     intelligence point) may not be asserted until the PDF is in
+     repo]**; likewise **Fuess, *Turcica* 41 (2009) [UNVERIFIED —
+     RETRIEVAL]** for dismantling the "chivalric refusal of
+     firearms" story. Until both arrive, the chapter may carry only
+     what Ibn Iyas himself supports: perception of components,
+     replication of hardware, catastrophic loss, and a causal
+     vocabulary of decree, desert and treason.
+   - **Disanalogy per CLAUDE.md §6, stated now.** The Ottoman
+     conquest of Egypt is a case of one fiscal-military state
+     absorbing a rival élite, not of intermediate authorities being
+     suppressed within a polity; and the Mamluks' failure was not
+     for want of money alone (the sultanate taxed heavily) but for
+     want of the standing-army form. The counter-case disciplines
+     the five-move schema; it does not extend it.
+   - **France 1346–57 (the same-war mirror case for ch06/ch07): NOT
+     TOUCHED this session, per instruction.** Its retrieval needs,
+     already on the 2026-09-02 retrieval-master list: Jean de
+     Venette, *Chronicle* (tr. Birdsall, ed. Newhall, Columbia
+     1953); Lefèvre, "La déconfiture" (on Montebelluna's *Tragicum
+     argumentum*). Nothing enters ch06/ch07 until those are in repo.
