@@ -297,3 +297,51 @@ Priorities to stress-test on the draft:
 - Has the Curry gradualist objection been engaged without caricature?
 
 *(Run pending; results to be pasted below with date.)*
+
+---
+
+## Revisions (2026-09-02) — Phase 3 renovation, PENDING HUMAN REVIEW
+
+1. **(The Recouvrement tradition is one victory tradition — the
+   apparatus-level caution, per spine §8(e)(6).)** Wherever this
+   chapter's argument stacks the French chroniclers — the Berry
+   Herald's *Recouvrement*, Blondel, Chartier, parts of Escouchy —
+   as corroborating witnesses to the artillery's role, the stack is
+   to be discounted to ONE interdependent victory tradition plus the
+   genuinely independent witnesses: the Somerset list, the English
+   chronicles, and Blondel where he diverges from the tradition (as
+   at Fougères, where he reports Breton guns failing). The
+   scholarly attribution of the interdependence finding
+   (Michaud-Fréjaville; Contamine's "Un regard sur le Recouvrement
+   de Normendie") is **[UNVERIFIED — RETRIEVAL: neither article yet
+   located — not on Persée; exact references to identify]** — until
+   it is in repo the caution operates as method, not as citation.
+   The ratchet reading absorbs the discount: the book's mechanism
+   does not ride on chronicler enthusiasm for the guns, and the
+   chapter's census rests on the Somerset list, which is English,
+   hostile, and lists surrenders rather than bombardments.
+
+2. **(Vale's dissent on the Bordeaux 1452 tax trigger — recorded,
+   not adopted, per spine §8(e)(5).)** The council's account of the
+   October 1452 rising attributes it to a broken tax exemption.
+   Vale 1969 (T2, in repo, read at page level) contests the story
+   at its source: "There is no evidence, apart from Thomas Basin's
+   account, that Guyenne was subjected to taxation which might
+   constitute a breach of the treaty of 12 June 1451 by the king"
+   (TRHS 1969: 131–32), Basin being "hardly the most reliable of
+   authorities" for the preliminaries (p. 126), with MORE evidence
+   of forcible taxation under Talbot's own 1452–53 administration
+   than under the French. The draft's wording ("the city rose for
+   its old allegiance") stands; the tax trigger is not imported;
+   the disagreement (Basin and the chronicle tradition vs Vale) is
+   recorded here per CLAUDE.md §5.
+
+3. **(The Castillon dissent staged in the draft — interaction with
+   Objections 3 and 5.)** Draft §VI now stages Howard [UNVERIFIED —
+   RETRIEVAL] and Basin's temerity-and-providence verdict at first
+   hand (Quicherat i. 261–68, Latin verbatim with [TRANS. CLAUDE])
+   BEFORE the book's conjecture, which is now marked explicitly as
+   the author's own, evidence-free by its own statement. This
+   strengthens Objection 5's answer (no over-attribution: the
+   cleanest exhibit is presented as contested) and gives Objection
+   3's Formigny discipline a Castillon twin.

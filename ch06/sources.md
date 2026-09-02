@@ -265,3 +265,45 @@ quotation in a browser before print.*
   once retrieved. Until then every knock-out-blow genealogy claim is
   **[UNVERIFIED — RETRIEVAL: Freedman 2017]**. Route: BUY / IA
   borrow (retrieval-master, 2026-09-02 section).
+
+## Added 2026-09-02 — Phase 3 renovation (regularisation and new T1)
+
+- **T1 — J. Stevenson (ed.), *Narratives of the Expulsion of the
+  English from Normandy, MCCCCXLIX–MCCCCL*** (Rolls Series, 1863) —
+  Blondel's *De Reductione Normanniae* (Latin) and the Berry
+  Herald's *Recouvrement* (French), with the volume's English
+  apparatus. IN REPO (`corpus/retrieved/narrativesofexpu00stev.pdf`,
+  good text layer) and cited by the draft throughout as "Stevenson
+  1863" — **this entry regularises a citation the draft carried ~15
+  times without a sources.md row** (flagged in
+  normandy-council-assessment.md). The capitulation chapters were
+  read end-to-end for the 2026-09-02 instrument sweep (memo
+  Revisions 16). TRADITION CAUTION per critiques Revisions 1: Berry
+  and Blondel are part of one victory tradition and are discounted
+  accordingly where they merely corroborate each other.
+- **T1 — Thomas Basin, *Histoire des règnes de Charles VII et de
+  Louis XI*, ed. J. Quicherat (SHF, 1855), t. I** — Latin text, IN
+  REPO as Internet Archive OCR
+  (`source-library/open-web-pulls-2026-09-02b/Basin-Histoire-Charles-VII-Quicherat-1855-t1-IA-djvu.txt`).
+  USED IN DRAFT (§VI): the Castillon chapters (capitula VI–VII,
+  SHF pp. 261–68) — the temerity and providence verdicts, the
+  Evringham episode, the Jean Bureau portrait — Latin verbatim with
+  [TRANS. CLAUDE], pinned to the SHF pagination carried in the OCR's
+  running headers (high confidence; **verify against the scan's
+  page images before print**; the 30 MB scan PDF is one click at
+  archive.org/histoiredesrgn01basiuoft). Samaran's edition remains
+  the gated edition of record.
+- **T1 — William Worcester, *The Boke of Noblesse*, ed. J. G.
+  Nichols (Roxburghe Club, 1860; Gutenberg #33953)** — IN REPO
+  (`corpus/retrieved/Worcester-Boke-of-Noblesse-Gutenberg.txt`,
+  Nichols pagination preserved as `{n}` markers). USED IN DRAFT
+  (§V): the p. 74 great-hurts passage (wanhope; "penurie of money,
+  and lak of provision of artillerie"). CAUTION carried from the
+  assessment: the "Defectus pecuniae" rubric (pp. 33–34) glosses
+  the King John 1203 exemplum, not 1449–50, and is not used.
+- **T1 (in translation) — Ibn Iyas, tr. W. H. Salmon (1921)** and
+  **Marc Bloch, *L'Étrange Défaite* (1946 ed.)** — both IN REPO
+  (see retrieval-master 2026-09-02 rows; dual-pagination caveat for
+  Salmon). USED IN DRAFT (§V, the misdiagnosis passage): Salmon
+  printed pp. 42, 105; Bloch 1946 p. 45. Cross-chapter primaries —
+  ch11 (Mamluks) and coda/ch12 (Bloch) hold the full treatments.

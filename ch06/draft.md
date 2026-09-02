@@ -362,7 +362,36 @@ English relieved it by battle in the open field before that date;
 hostages were given for performance (Blondel, in Stevenson 1863: 155).
 This is the conditional-surrender instrument of the old siege law, but
 executed on a new clock: the garrison was no longer selling months, it
-was buying weeks. No relief came; the town was handed over on the day.
+was buying weeks. The clause deserves its name — the relief-delay,
+the *délai de secours* of the French siege literature [the term is
+the historians'; its carrier to be pinned at retrieval] — and this
+chapter names it as its central device, because wherever the
+chronicles record a negotiated surrender's terms in detail, this is
+the form the composition takes: Vernon in August 1449 ("ou cas que
+les Anglois ne seroient les plus fors, dedens le Samedi ensuivant"),
+Harcourt in September, Honfleur here, Belesme, Caen — eighteen
+hostages against the first of July — and Falaise, twelve against the
+twenty-first: six instruments across both halves of the campaign,
+three of them double-attested in Blondel and the Berry Herald
+(Stevenson 1863, the capitulation chapters; the census's mass of
+bare "par composition" entries is consistent with the same form but
+does not document it, and this book counts only what is written).
+The guns priced the threat; the composition encoded the price as a
+date; the date did the conquering. [BOOK'S ARGUMENT for the
+device's centrality; instrument-count per the 2026-09-02 sweep,
+recorded in the memo.] Blondel adds the instrument's most revealing
+use: at Caen, he writes, Somerset inserted the relief condition
+"licet certum haberet tempore sibi non succurrendum" — though he
+held it certain that no relief would come in time — so that the
+loss would stand to the account of England's withheld succour
+rather than his own surrender [TRANS. CLAUDE] (Blondel, in
+Stevenson 1863: 222–23). The clause was legal cover as well as
+clock: a device by which the losing side, too, administered its
+defeat. And by the campaign's last capitulation the fiction could
+be dropped altogether — Cherbourg's terms, Blondel notes, took "a
+new form of composition," a fixed delivery date with no battle
+condition at all (Blondel, in Stevenson 1863: 235–36). No relief
+came; Honfleur was handed over on the day.
 The composition system, moreover, had teeth beyond the wall in
 question: when Curson had earlier refused to deliver Honfleur under
 the Rouen capitulation's terms, the legal machinery ran its course and
@@ -412,6 +441,21 @@ institution operating at a specific scale of finance, maintenance and
 technical staffing, and the claims of this chapter attach to that
 institution, not to the technology in general. Fougères is the
 control case, and it failed.
+
+Blondel himself supplies the maxim, and its context matters enough
+to state, because the sentence is usually lifted without it. He is
+writing of Brittany in the truce years — of a duchy sunk in ease,
+"omnis rei militaris oblivio Britones armis ineptos capit," every
+memory of war's business slipping from Bretons made unfit for arms
+while their town walls stood intact — when he lays down the rule:
+"Non enim moenia comparata ignavos, sed militum virtus bello
+instructa urbes et castra tutatur" — for walls, however furnished,
+do not protect the idle; it is soldiers' valour, trained for war,
+that protects cities and strongholds [TRANS. CLAUDE] (Blondel, *De
+Reductione* ch. 19, in Stevenson 1863: ~17–18 [GAP: pin the print
+page at assembly]). A Breton sentence about a Breton failing — and
+within five years the reconquest had made it the century's epitaph
+for masonry everywhere.
 
 Where resistance was offered and the guns given time to work, the
 durations compress toward the absurd. Bayeux, in May 1450, held for
@@ -488,6 +532,33 @@ powerful than those in 1417–19, as Rogers and others have shown"
 (Curry 2010: 187). Stronger guns, fewer sieges: the two findings sit
 together only if the guns were working on something other than
 masonry.
+
+Name the two speeds, then, because they are two different
+quantities with two different causes, and conflating them has
+confused a century of debate. Siege speed — the duration of the
+sieges actually fought — is the guns' own: seventeen days at
+Harfleur, sixteen at Bayeux, order-of-magnitude compressions at
+walls that had held for months a generation earlier. Campaign
+speed — the year in which a hundred-place duchy changed hands — is
+a different object: a cascade of surrenders whose causes were
+political and fiscal, running fastest where no gun was fired. The
+campaign's own calendar keeps them apart. Cut the dated falls at
+the turn of winter 1449 and the pattern is stark: before December
+— Pont-de-l'Arche, Verneuil, the eastern sweep, Rouen — not one
+documented fall is bombardment-driven; the duchy's centre fell by
+ruse, treason, composition and civic rising, the train's role at
+Rouen secondary to the rising (Somerset list, in Stevenson 1864:
+II.ii; Berry Herald and Blondel, in Stevenson 1863; the one
+marginal exception is Harcourt, where Berry has cannon piercing
+the outer court's wall at the first shot — a contribution, not a
+cause, for the castle fell by relief-clause composition). From
+December the guns take over: Harfleur, Honfleur, Bayeux,
+Avranches, Caen, Cherbourg — six of the nine dated falls of the
+winter and the Cotentin endgame are artillery falls. Campaign
+speed is politics moving at the speed of belief; siege speed is
+ballistics. The chapter needs both and confuses them nowhere: the
+guns set the price, and the politics paid it — mostly before the
+guns arrived.
 
 A naïve reading takes this as deflation: if the fortresses were not
 battered down, the guns did not matter. The Berry Herald, who rode
@@ -577,7 +648,12 @@ The two Bordeaux reversals, twenty months apart, are as close to a
 controlled experiment as the fifteenth century offers: the political
 variable operating without the train in 1452, the train operating
 against the political variable in 1449–51 and 1453. Each fell to the
-other's weapon exactly once.
+other's weapon exactly once. The pair of experiments disposes of the
+morale explanation as a sufficient cause: it was not a collapse of
+belief that lost England its French possessions — the population of
+Gascony invited the English back — and what settled the matter both
+times the train arrived was the train. Decisive force is decisive;
+everything else in this censused record is the negotiation of when.
 
 The third counter-argument says: the defender was bankrupt before the
 attacker was armed. The Lancastrian establishment in Normandy had been
@@ -595,6 +671,53 @@ from the losing side. Curry's own summary sentence — "A military
 revolution needs a strong, well resourced government to produce it"
 (Curry 2010: 187) — is not a rebuttal of this chapter. It is its
 thesis, stated by its most careful sceptic.
+
+The losing side's own analyst completes the post-mortem. William
+Worcester — Sir John Fastolf's secretary, compiling his *Boke of
+Noblesse* for the recovery that never came — set down the great
+hurts of the loss, and his second and third are the mechanism
+entire: the Normans' rebellion came "thoroughe theire wanhope,
+havyng no trust of hastie socoure and relief of an armee to come in
+tyme covenable"; and behind the despair, "famyn of vitaile and
+penurie of money, and lak of provision of artillerie and stuffe of
+ordenaunce" (Worcester, *Boke of Noblesse*, ed. Nichols, 74).
+Wanhope — despair of relief — is the surrender clock seen from
+inside the walls; money-penury and the ordnance deficit are
+Somerset's dispatch restated as a private man's diagnosis. The
+English state's paper trail, official and unofficial, is a
+finance-first post-mortem.
+
+And yet the same English record never names the machine. Treason,
+the Maine cession, unpaid garrisons, bad commanders — the
+impeachment articles and the chronicles distribute the blame among
+agents; nowhere does an English writer describe the thing this
+chapter has been describing, the fiscal-administrative system whose
+visible edge was the train. The failure is not English but human,
+and it has a history long enough to state as a pattern. Sixty years
+on, the Mamluk chronicler Ibn Iyas watched his sultanate copy the
+Ottoman guns — the ox-drawn vehicles inspected, the "great energy
+in making wagons and forging guns" — and lose anyway, and explained
+the loss as decree, desert and treachery: "this loss was inflicted
+on the Egyptian troops by the will of Providence in fulfilment of
+His decrees" (Ibn Iyas, tr. Salmon, 42, 105). In 1940 Marc Bloch
+recorded the French generals blaming "le régime parlementaire, la
+troupe, les Anglais, la cinquième colonne… A tout le monde, en
+somme, sauf à eux" — everyone, in short, except themselves [TRANS.
+CLAUDE] (Bloch, *L'Étrange Défaite*, 1946 ed.: 45). The defeated
+see the components — Ibn Iyas could count the wagons, Worcester
+could price the ordnance deficit — and cannot see the coupling,
+because the coupling is a fiscal-administrative fact with no place
+to stand on a battlefield. The French of 1449–53 could give the
+account because they had built the thing being described; the
+English could not, because from outside, a system looks like a
+run of misfortunes. [BRIDGE — the modern face of the asymmetry is
+suggested, not asserted: the reporting from Ukraine's kill zones
+describes soldiers who experience the transparency apparatus as
+omnipresent effect — the sentry overhead, the strike from nowhere —
+without sight of the sensing-and-deciding system behind it (The
+Economist, 28 May 2026, T3, atmospheric support only); whether
+losing troops today "understand" what is used against them is not
+a documented claim, and this joint is Roderick's to set or cut.]
 
 So the evidence, taken whole — the same-wall compressions where
 fighting happened, the composition census where it did not, the
@@ -659,6 +782,21 @@ centuries. The novelty was the lever, not the hammer. Drafting the
 claim any larger than that would hand the specialist reviewer the
 easiest rebuttal in the book; drawn at this size, it holds.
 
+But Formigny's largest work was legal, and it is measured in the
+instrument this chapter has already named. The relief-clause
+composition — surrender on the named day unless an English army
+stood in the field — required, to mean anything, that such an army
+could exist. Kyriell's force was the last one that could. After
+its destruction every clause of that form, standing or yet to be
+drafted, was a foregone conclusion — and the drafting did not
+stop: Caen's eighteen hostages were pledged against the first of
+July by a commander who, on Blondel's telling, inserted the relief
+condition in the certain knowledge that relief would not come
+(§IV). The battle's tactical story is a curiosity. Its effect on
+the campaign's instrument structure was total. [BOOK'S ARGUMENT —
+the connection of the field battle to the clause structure is the
+book's own; the documented instruments are in §IV.]
+
 Castillon, 17 July 1453, is the major key, and it will bear the weight.
 The campaign context matters. Bordeaux's rising of October 1452 had
 returned Gascony's capital to England — and the French response began,
@@ -700,6 +838,26 @@ ii. 33; ch06 memo §5). It was, in effect, a fortress improvised in
 days by men who had spent four years demonstrating that fortresses
 could no longer be defended — with this difference, that its garrison
 wanted to be attacked.
+
+The camp had an author, and the sources dwell on him in a way that
+repays attention to persons. Basin — no friend of parvenus —
+introduces the man set "generaliter super omnes machinas et
+bellicos apparatus," over all the king's machines and apparatus of
+war: "magister Johannes Bureau, civis parisiensis, vir quidam
+plebeius et statura corporis parvus, verum audax et animo magnus" —
+Master Jean Bureau, citizen of Paris, a plebeian, small of body,
+but bold and great of spirit — by whose professional industry the
+French camp was made "munita admodum," exceedingly strong [TRANS.
+CLAUDE] (Basin, ed. Quicherat, i. 263–64 [SHF pagination via the
+scan; verify against the page images at assembly]). Sit with the
+figure the sources compose: the campaign is designed in council by
+the artillery administrator, and its decisive position is then
+engineered on the ground by the same man — a Paris burgess,
+forward-deployed, the fiscal-technical state present in person at
+the edge of the battlefield. The age of commanders was not over.
+But the man who chose the ground was an accountant of guns, and
+the chronicle thought his smallness and his boldness both worth
+recording.
 
 Talbot came because Bordeaux made him. He was around sixty-six years
 old, the most feared English captain of the war's last generation — *le
@@ -754,7 +912,38 @@ war charged the first great instrument of the new one, on the advice
 of a false report and against the advice of a true one, and the
 instrument did not care.
 
-[BOOK'S ARGUMENT — the reading that follows is the book's own.]
+Honesty requires the dissent to be staged before any reading is
+offered, because the book's cleanest exhibit is contested from
+both ends of its historiography. Among the moderns, Michael Howard
+judged flatly that Castillon was in no sense a victory for field
+artillery — a sentence this book will argue with only when it can
+cite it at page level [UNVERIFIED — RETRIEVAL: Howard, *War in
+European History* (1976); the page to pin]. And the weightiest
+contemporary gives the defeat a double cause in which the guns
+barely figure: temerity, and God. Basin — who admired Talbot,
+"tanquam optimo atque probatissimo duci," the best and most proven
+of commanders — has him resolve on the attack "temere nimium atque
+inconsulte," too rashly and with too little counsel; describes a
+man accustomed to charge "audacia et inconsulta temeritate, potius
+quam fortitudine," by daring and unconsidered rashness rather than
+strength; shows the standard-bearer Thomas Evringham "prudenter et
+sapienter" labouring to turn him from "a qua temeritate," and
+ordered for his pains to carry the standard to the enemy rampart,
+with a taunt for his unaccustomed fearfulness; and when the
+culverin shot struck Talbot's leg, Basin insists it came "non fato
+quidem, sed divina ita disponente providentia" — not by chance but
+by God's disposing providence — before closing the death with the
+apostle's sentence: judgment without mercy for the man who had
+shown none [TRANS. CLAUDE throughout] (Basin, ed. Quicherat, i.
+261–68 [SHF pagination via the scan; verify against the page
+images at assembly]). Temerity and providence: the contemporary
+verdict locates the cause in the man and in heaven, not in the
+machine. The reader should hold that verdict in full strength
+before what follows.
+
+[BOOK'S ARGUMENT — the reading that follows is the author's own
+conjecture, offered explicitly as conjecture: no contemporary
+evidence supports it, and the draft says so.]
 Before leaving Talbot on the field, the record permits — and its
 gaps invite — one further reading, offered as hypothesis and tagged
 as such. Pollard's considered judgement of the man should be stated
@@ -791,6 +980,32 @@ the instrument that had ended his war; the book does not pretend
 it can. But under either reading, Castillon testifies to the same
 fact: the train was understood, by both sides, as the thing worth
 dying for.
+
+Against the temerity tradition, then, the conjecture in its
+plainest form. Talbot had watched the clock of warfare change
+under artillery — had been processed through the new order's
+instruments as hostage and clause — and it is reasonable to
+suppose the change had entered his own calculus: a commander who
+understands that the dynamics of the ground have altered has a
+reason to strike at the thing that altered them, quickly, while it
+can still be struck. He failed, and his thoughts died with him.
+Vanity and impetuosity remain the available reading — Basin's, and
+it may be right — but it is the lazy one wherever a commander had
+cause to act at once against guns; from the winners' chronicle, a
+failed rational lunge and simple rashness look identical. And
+under either reading the death instructs, and instructs for this
+book's purposes: Talbot attacked the weapon, when what was
+defeating England was the process — the fisc, the council, the
+burgess engineer, the restocked magazines — of which the weapon in
+the park was only the visible end. Attacking the weapon and not
+the process is an error with a long future, and a mirror: a later
+chapter meets the same mistake with its sign reversed, in the
+prophets of the knock-out blow, for whom the weapon was over-
+rather than under-estimated — the satirist's Maxim-gun couplet and
+its twentieth-century heirs [the genealogy's anchor awaits
+retrieval — GAP: Freedman, *The Future of War* (2017); the Belloc
+1898 text is not in corpus and is not quoted here]. Talbot's error
+and theirs are one mistake run in opposite directions.
 
 The mopping-up of 1453 completes the evidentiary set, because it
 contains both the census's one genuine exception and its most
@@ -1085,6 +1300,71 @@ per §7; [BRIDGE] and [TRANS. CLAUDE] passes remain his.
    passages REVIEWED (Roderick, 2026-09-02 — review pack).
 
 ---
+
+8. **(2026-09-02 — Phase 3 renovation per spine §8(e), all six
+   upgrades ruled YES. PENDING HUMAN REVIEW.)** Nine changes, each
+   with its evidentiary basis; no reviewed sentence silently
+   rewritten.
+   - **§V gains the two-speeds passage** (campaign speed, political
+     and fiscal; siege speed, the guns' own), stated WITH the
+     date-cut the ruling required: the fortress table's dated falls
+     cut at ~1 December 1449 show zero bombardment-driven falls in
+     Phase One against six of nine in Phase Two — the count and its
+     three qualifications (Rouen's train present; the undated
+     census; Harcourt's first-shot breach as marginal exception) are
+     recorded in memo Revisions 16.
+   - **§IV names the délai de secours as the chapter's central
+     device**, at the strength the 2026-09-02 instrument sweep
+     supports: SIX documented relief-clause capitulations (Vernon,
+     Harcourt, Honfleur, Belesme, Caen, Falaise), across both
+     phases, three double-attested; the census's bare "par
+     composition" mass explicitly NOT counted; plus Blondel's
+     Somerset-knew gloss at Caen (the clause as legal cover) and
+     Cherbourg's "new form of composition." The term's scholarly
+     carrier is flagged for retrieval.
+   - **§VI gains the Formigny-to-clause connection** ([BOOK'S
+     ARGUMENT]): the battle deleted the army the clauses named;
+     chronology honestly stated (Caen's clause post-dates Formigny
+     and was written as cover).
+   - **§V gains Worcester** (Nichols p. 74, verbatim from the
+     Gutenberg text in corpus) beside Somerset as the English
+     finance-first post-mortem, and the misdiagnosis passage: Ibn
+     Iyas (tr. Salmon, in corpus, pp. 42, 105) and Bloch (1946 ed.:
+     45, in corpus) as the cross-era pattern; the reason stated
+     (the defeated see components, not the fiscal coupling; the
+     French had built it); the Russian parallel fenced [BRIDGE]
+     with its unsourced status declared.
+   - **§IV gains Blondel's "non enim moenia" maxim WITH its Breton
+     context** (De Reductione ch. 19; print page [GAP] to pin).
+   - **§VI stages the Castillon dissent before the reading**:
+     Howard [UNVERIFIED — RETRIEVAL] and Basin at first hand —
+     temerity ("temere nimium atque inconsulte"; "audacia et
+     inconsulta temeritate, potius quam fortitudine"), Evringham,
+     providence ("non fato quidem, sed divina ita disponente
+     providentia"), the James 2:13 close — Latin verbatim with
+     [TRANS. CLAUDE], pinned to Quicherat i. 261–68 (SHF pagination
+     via the scan; page-image check owed).
+   - **§VI's conjecture recast as the author's own, explicitly
+     evidence-free** per the ruling, extended with the
+     dynamics-changed reading, the lazy-reading point, and the
+     Talbot/Belloc two-error symmetry (Freedman and the Belloc 1898
+     text both flagged — neither in corpus; the couplet not
+     quoted).
+   - **§VI gains Jean Bureau as the forward-deployed engineer**:
+     Basin's portrait ("civis parisiensis… plebeius et statura
+     corporis parvus, verum audax et animo magnus," Quicherat i.
+     263–64). Evidence note: every in-repo source that names a
+     Bureau at Castillon names JEAN (Escouchy ii. 33 and index;
+     Basin); Gaspard — the titular master per the contemporary
+     documents Beaucourt cites — is unattested there; the draft
+     already used the safe formulation and keeps it.
+   - **§V's Gascony close sharpened per the ruling**: the morale
+     explanation disposed of (the population invited the English
+     back); "Decisive force is decisive" entered as the author's
+     own line. VOICE-LEDGER NOTE for Roderick: the chapter now
+     carries two aphoristic candidates ("They fell because they
+     were priced"; "Decisive force is decisive") — the discipline
+     allows one; his cut to make.
 
 STATUS: REVIEWED (Roderick, 2026-07-31) — approved with revisions
 applied ([BRIDGE] and [TRANS. CLAUDE] passes outstanding); Revisions 5

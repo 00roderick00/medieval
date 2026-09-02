@@ -842,4 +842,54 @@ Drafting of ch06/draft.md may now proceed against this reviewed memo (§7).
 
 ---
 
+16. **(2026-09-02 — the date-cut and the instrument sweep run per
+    spine §8(e)(1)–(2); results of record. PENDING HUMAN REVIEW.)**
+    Both analyses executed against the in-repo record only
+    (artillery-reconquest.md; the Somerset list read end-to-end in
+    Stevenson *Letters and Papers* II.ii pp. 619–34; Blondel and
+    Berry in Stevenson *Narratives*, capitulation chapters read).
+    - **The date-cut (Phase One = falls before ~1 Dec 1449; Phase
+      Two = after).** Phase One, 8 dated entries: BOMB 0; THREAT 2;
+      RUSE 2; POL 1 (Rouen); assault 1 (Argentan); unknown 2. Phase
+      Two, 9 dated entries: BOMB-hybrid 6 (Harfleur, Honfleur,
+      Bayeux, Avranches, Caen, Cherbourg); THREAT 1 (Falaise);
+      assault 1 (Domfront, guns undocumented); unknown 1 (Fresnay).
+      VERDICT: the table SUPPORTS the phase split, with three
+      qualifications carried into the draft: Rouen's train present
+      but secondary; the undated I(b) census (mostly the eastern
+      sweep) not phase-assignable; Harcourt's Berry-attested
+      first-shot breach of the basse-cour wall (Sept 1449) a
+      marginal Phase One artillery contribution — contribution, not
+      cause (fell by relief-clause composition). Two NEW date
+      variants surfaced: the Somerset list dates Domfront to the
+      Assumption (15 Aug 1450) against Berry's 2 Aug — if the
+      list's date held, Domfront, not Cherbourg, was the campaign's
+      last fall; and Berry has Harfleur "environ le iij. [var. v.]
+      jour de Janvier" against the list's 1 January. Both
+      unresolved, recorded here.
+    - **The relief-clause sweep.** The clause (surrender on a named
+      day unless relieved) is documented in-repo at SIX
+      capitulations: Vernon (Berry §28), Harcourt (§33), Honfleur
+      (Blondel 155 + Berry §91), Belesme (§92), Caen (§§112–13 +
+      Blondel 222–23, eighteen hostages), Falaise (§120 + Blondel
+      229, twelve hostages). Three double-attested; both phases
+      covered (Vernon/Harcourt are Aug–Sept 1449). The Somerset
+      list — the census instrument — NEVER records the clause; its
+      diction is bare "par composition" throughout. Calibrated
+      formulation adopted in the draft: wherever the chronicles
+      record a negotiated surrender's terms in detail, the
+      composition takes the relief-clause form; the census's bare
+      compositions are consistent with but do not document it. Two
+      texture finds carried into the draft: Blondel's gloss that
+      Somerset inserted the Caen clause "licet certum haberet
+      tempore sibi non succurrendum" (legal cover); Cherbourg's "in
+      novam compositionis formam" (the relief fiction dropped).
+      Borderline cases NOT counted: Bordeaux 1451 (the table's
+      "relief-truce" is its own compression); Valognes and
+      Avranches (succour-failure as motive, no dated clause).
+    - Draft integration: draft Revisions 8; the six-instrument list
+      and the two-speeds passage are now draft text, PENDING.
+
+---
+
 STATUS: REVIEWED (Roderick, 2026-07-22) — cleared for drafting
