@@ -246,7 +246,7 @@ opening in August 1439 and Gaspard's in January 1441 — the
 brothers supplanting Bessonneau in practice from 1437, as Chapter
 6 established from Contamine's annexes. The reader has seen the
 1442 procurement programme and its arithmetic — the gunpowder
-establishment at twice the cost of the traditional arsenal — and
+establishment at more than twice the cost of the traditional arsenal — and
 this chapter re-deploys that budget line as its premise rather
 than re-arguing it. One fact about its regime, though, belongs
 here: before 1444 the war treasury ran, in Contamine's words, with
@@ -637,7 +637,7 @@ book's own — and the analogy joints are Roderick's to set.]
 
 Run the 1442 test against the present. The test, recall, was a
 budget document: a state pricing a decisive capability against its
-traditional arsenal and finding the new item costing twice the old —
+traditional arsenal and finding the new item costing more than twice the old —
 and paying it, annually, because the capability could not be
 improvised, stockpiled cheaply, or raised by summons. The question
 for our own decade is which polities carry the equivalent lines: 
@@ -661,7 +661,13 @@ threshold the fifteenth century would have recognised at once: the
 United States converted $8.9 billion of grants into equity —
 roughly 10 per cent of Intel, with a warrant over a further 5 per
 cent tied to Intel's keeping control of its foundry business. The
-artillery state bought guns; this state is buying the foundry. The
+artillery state bought guns; this state is buying the foundry. And
+the purchase should be read as the exception that marks the rule:
+in the foundry — the one physically singular layer — the American
+state bought; everywhere else in its record the instruments are
+the licence, the carriage rule and the revocable authorisation,
+the regulation-of-the-switch pattern Chapter 12 assembles from the
+republic's own statutes and decrees. The
 European Union's equivalent (Regulation 2023/1781, in force 21
 September 2023) decomposes honestly into about €35 billion of
 member-state aid plus matching, with the Commission directly
@@ -908,6 +914,26 @@ Roderick reviewed the Batch 1 drafts: ch10 approved with revisions.
      coined); the added images are quotations or plain statement.
      [BRIDGE] status of §VIII unchanged — the new passages sit
      inside the existing [BRIDGE] fence.
+
+4. **(2026-09-03 — Phase 4 Run A, integration. PENDING HUMAN
+   REVIEW.)** Three changes, keyed to the checks.
+   - §IV and §VIII (check 6, duplicates item 1): "at twice the
+     cost" and "costing twice the old" → "more than twice," both,
+     matching Rogers's pinned wording ("spending more than twice as
+     much"); §IV's "two-to-one ascendancy" stands as the probe's
+     arithmetic (6,398 : 3,100).
+   - §VIII (check 3, audit findings 3/6): the foundry aphorism
+     keeps its place and gains its rule: "And the purchase should
+     be read as the exception that marks the rule: in the foundry —
+     the one physically singular layer — the American state bought;
+     everywhere else in its record the instruments are the licence,
+     the carriage rule and the revocable authorisation, the
+     regulation-of-the-switch pattern Chapter 12 assembles…" — the
+     Intel equity stated as the foundry exception inside a
+     licensing-mode American pattern, per spine §8(c).
+   - No tense changes needed: the audit's conforming counter-example
+     ("nearer 1445 than 1494… the outcome unproven") is this
+     chapter's §VIII register and stands.
 
 ---
 
