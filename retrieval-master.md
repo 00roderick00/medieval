@@ -698,3 +698,50 @@ Addendum.
 | Fortescue, *The Governance of England*, ed. Plummer (1885) | ch05 (credit for the term); ch12 (coinage lineage) | MED | archive.org — open, human pull |
 | Contemporary baselines for Appendix C CA-1..8: CMA cloud findings; Google search final judgment + compliance report; DOJ ad-tech judgment; FTC v. Meta appeal; EO 14110 rescission; BIS AI Diffusion Rule rescission; SB 53; Bennet–Welch bill text; DOJ Clayton §8 release; the H200 arrangement's instrument; VEU revocation notice | appendix-c/memo.md American sub-wager | **HIGH** (all [RE-CHECK AT PRESS]) | open primaries where they exist — pull and DATE each |
 
+## 2026-09-02 (night): American primaries and Fortescue — RETRIEVED by Claude/Cowork via the built-in browser
+
+On Roderick's "go". Twenty-six public documents fetched from official or
+open archives, each verified on arrival, filed under
+`corpus/retrieved/source-library/american-primaries-2026-09-02/` with an
+INDEX.md giving every source URL, capture date and verification; the
+Fortescue OCR text sits flat in `corpus/retrieved/`. Status flips against
+the 2026-09-02 (evening) rows above:
+
+**IN REPO (PDF of record, T1):** Interstate Commerce Act 1887 (9 pp.);
+Clayton Act 1914 (11 pp.); FTC Act 1914 (8 pp.); Banking Act of 1933,
+Pub. L. 73-66, FRASER scan (37 pp.); Hart–Scott–Rodino 1976 (15 pp.);
+Telecommunications Act 1996 (107 pp.); *Paramount* 334 U.S. 131 (U.S.
+Reports, 51 pp.); *DuPont–GM* 353 U.S. 586 (71 pp.); *Moody v.
+NetChoice* slip op. 22-277 (96 pp.); *Microsoft* Final Judgment, D.D.C.
+2002 (18 pp.); Google search: Memorandum Opinion on remedies and Final
+Judgment (both filed 5 Dec 2025), Plaintiffs' first compliance report
+(4 May 2026), Joint Status Report (14 Aug 2026); Google ad tech:
+liability Memorandum Opinion, E.D. Va., Doc. 1410 (17 Apr 2025) and
+Plaintiffs' Proposed Final Judgment (3 Nov 2025) — **no final remedies
+judgment on the DOJ page at capture**; EO 14148 (28 Jan 2025) rescinding
+EO 14110 at §(ggg); S.1671 Digital Platform Commission Act of 2023 (as
+introduced, 66 pp.).
+
+**IN REPO (text carriers, T1 content; PDF of record noted in INDEX):**
+Fortescue, *Governance of England*, Plummer ed. 1885 — full OCR
+(chapter "the perils… by ouer myghtye subgettes" located; verify
+verbatim against page images); *Alcoa* 148 F.2d 416; *AT&T* MFJ 552 F.
+Supp. 131; *Microsoft* 253 F.3d 34; California SB 53 chaptered text
+(Ch. 138, 2025); DOJ Clayton §8 release 22-1222 (19 Oct 2022); FTC
+notice-of-appeal release in *FTC v. Meta* (URL path Jan 2026, page
+date 13 Feb 2026 — **pin from the D.C. Circuit docket**); BIS release
+of 13 May 2025 on the AI Diffusion Rule — **finding: no Federal
+Register rescission rule exists at capture; the "rescission" is an
+announced non-enforcement decision, and the release itself says a
+formalising regulation is still to come.** Appendix C CA-3 baseline
+should be stated accordingly.
+
+**STILL WANTED — one-click human downloads (URLs in INDEX.md):**
+*Ordonnances des Roys de France* t. XIII (Gallica returned 503 all
+session; pages 306–313 for the 2 Nov 1439 act; `…/f{n}.texteBrut` gives
+page text) — **this is the item gating spine §8(a)**; Federal Reserve
+Act 1913, NARA scan (9.5 MB, FRASER); PUHCA 1935 (14 MB, govinfo);
+Packers and Stockyards Act 1921 (govinfo per-page only; loc.gov behind a
+bot check); Fortescue PDF (24 MB, archive.org). Not attempted: the
+Swift, RCA, IBM and AT&T 1956 consent decrees.
+
