@@ -380,8 +380,9 @@ enclaves were closed — by consolidating monarchies that
 finally could. Venice became the proto-state itself. The
 platforms are designated, fined, licensed and commissioned by
 the polities they were said to have surpassed. The dispersal's
-most developed actors are everywhere being absorbed by
-fiscally capable centres — and the literature has no account
+most developed actors are being absorbed by fiscally capable
+centres — unevenly, and fastest where the fisc is deepest, but
+in every one of the four chapters — and the literature has no account
 of the force that does the absorbing, because it never asked
 how the first dispersal ended. That is the question Part II
 exists to answer, and it begins where consolidation was least
@@ -407,4 +408,20 @@ no-equity absence stated; Stralsund as prior consent; galley-a-day
 as anecdote; Prigozhin variants flagged. Hands off to ch05's
 Clarendon opening (§VII). No claim beyond the reviewed memo.*
 
-STATUS: REVIEWED (Roderick, 2026-08-02) — approved as drafted
+## Revisions
+
+1. **(2026-09-03 — Phase 4 Run A, integration. PENDING HUMAN
+   REVIEW.)** One change (check 2, tense sweep A8): §VII's Part I
+   verdict "are everywhere being absorbed" → "are being absorbed…
+   — unevenly, and fastest where the fisc is deepest, but in every
+   one of the four chapters" — the universalising "everywhere"
+   replaced by spine §7's uneven register while keeping the
+   verdict's force; the progressive verb was already conformant.
+   No other change; §V's American-mode passage ("no federal equity
+   stake, no golden share… procurement and personnel") is the
+   spine's judgment stated from the record and stands (audit:
+   Chapter 4 — no conflicts found).
+
+---
+
+STATUS: REVIEWED (Roderick, 2026-08-02) — approved as drafted; Revisions 1 (Phase 4 Run A) PENDING HUMAN REVIEW
