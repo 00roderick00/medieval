@@ -296,6 +296,16 @@ as written.
    only for the 1453 episode. Ch. 6 ("The Rule of the Court, 1445–1450")
    supplies the court-regime backdrop the crisis sections use.
 
+
+- **(2026-09-02 — Fortescue credit owed. PENDING HUMAN REVIEW.)** The
+  phrase "over-mighty subject" predates McFarlane's inversion: Sir
+  John Fortescue, *The Governance of England* (c. 1471–75), on the
+  danger to a king from "ovur mighty subgiettes." The chapter credits
+  McFarlane for the undermighty-king dictum (Revisions, 2026-08-01);
+  it should credit Fortescue for the term he inverted. Fortescue
+  (Plummer ed., 1885, archive.org) on the retrieval list; no draft
+  text proposed. Filed by Claude/Cowork on Roderick's instruction.
+
 ---
 
 STATUS: REVIEWED (Roderick, 2026-07-22) — cleared for drafting

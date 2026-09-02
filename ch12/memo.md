@@ -373,6 +373,62 @@ parse and may later sharpen §7's Castillon return.
      equity-intact/control-transferred one — the licence — which is
      also where draft §IV already stands.
 
+3. **(2026-09-02 — the over-mighty citizen: the American idiom of
+   consolidation, from research/overmighty-citizen-playbook.md.
+   PENDING HUMAN REVIEW.)** Filed by Claude/Cowork on Roderick's
+   instruction; no draft text proposed. Roderick's proposition, stated
+   for the record: for the USA to regain sovereign power over its
+   tech stack, and therefore to compete, it must deploy its
+   traditional approach to over-mighty citizens — Musk, Zuckerberg,
+   the hyperscalers — as it did to Rockefeller, Morgan, Insull and
+   Bell. The playbook is the elaboration of spine §8(c).
+   - **What it adds to §§2–4's American case.** A twelve-case series
+     (Standard Oil, the ICC, the Money Trust, Glass–Steagall, PUHCA,
+     the packers, RCA, Paramount, Alcoa, DuPont–GM, AT&T, IBM,
+     Microsoft) in which the republic separates, unbundles, opens or
+     supervises a privately held bottleneck and never confiscates —
+     "the line was repeatedly drawn between ownership and
+     sovereignty." Described analytically, this is comparative
+     historical analysis within CLAUDE.md §9 and converts the
+     council's four American readings into phases of one recurring
+     pattern (venality and undermighty kingship = the pre-antitrust
+     moment). Every case has a T1 primary; the retrieval leads are in
+     ch12/standard-oil-offswitch.md, Addendum.
+   - **What it answers.** Opus 5's severed-link objection (the modern
+     stack is financed by private capital, so no representation
+     bargain): the taille's modern analogue is control rights, not
+     revenue — the ICC never took the railroads' money, it took their
+     discretion over who could ship. GPT 5.6 Sol's revocation metric
+     and the playbook's "power switch test" are one criterion.
+   - **Coinage (for the ledger).** "Over-mighty citizen" as the
+     chapter-level coinage: a republic has citizens, not subjects;
+     the term serves the book-level coinage rather than competing
+     with it. The lineage is Fortescue, *Governance of England*
+     (c. 1471–75), "ovur mighty subgiettes," BEFORE McFarlane's
+     inversion — ch05 credits McFarlane and should credit Fortescue
+     (ch05 note, same date).
+   - **Two disanalogies to concede, not smooth.** (a) *Moody v.
+     NetChoice* (2024): the American state may regulate the
+     platforms' economic switches but not their doctrine — a genuine
+     limit on the Henry VIII analogy (the state absorbs the Church's
+     functions; it cannot rule its creed). (b) The playbook's menu
+     opens the stack inward (interoperability, portability, public
+     compute) while export controls close it outward (the council's
+     indivisibility point): both are control moves — licensing the
+     guilds at home, embargoing the foundry abroad — and the chapter
+     should say so.
+   - **What may NOT enter.** The thirty-measure menu and the 2026–30
+     sequencing are prescription. They enter only as Appendix C
+     indicators (appendix-c/memo.md, "American sub-wager", same
+     date), never as counsel in the chapter. Consistent with the
+     Rockefeller-crossing rule in spine §5: observation, not counsel.
+   - **Interaction with Revisions 2.** The probe's lag refinement
+     (decoupling 1911; public off-switch assembled 1906–1977) is
+     confirmed from the playbook's own case order — the ICC precedes
+     Standard Oil — and should govern how the "proof case" sentence
+     is written at renovation; the monasteries/proof-case tension
+     stands for Roderick's ruling.
+
 ---
 
 STATUS: REVIEWED (Roderick, 2026-07-31 — read in full, nothing to add; no revisions required)

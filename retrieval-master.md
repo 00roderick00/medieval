@@ -681,3 +681,20 @@ repo) *contests* the council's tax-trigger reading of Bordeaux 1452
 | Work | Needed for | Priority | Route / status |
 |---|---|---|---|
 | The Economist, Essay: "Easier to start, harder to win" (web headline "The dangerous delusion of modern warfare"), 28 May 2026, by the departing defence editor | ch10 §VIII / ch12 (capital-intensity migration; Epic Fury as Depreter case; nuclear ceiling); ch06 §VI (Belloc pairing) — T3, supporting colour only; every figure re-sourced to primaries | MED | **INTEGRATED 2026-09-02** (`corpus/retrieved/The dangerous delusion of modern warfare _ The Economist.pdf`, web print, 17 pp. — the earlier "9 pp." was wrong; essay text pp. 1–14; read in full) — entered in ch06/ch10/ch12 sources.md at T3 with tier caveat; memo Revisions filed (ch10 15–16, ch06 15, ch12 post-review 1, coda holding note). Its Epic Fury BDA figures post-date CRS R48887 and are [RE-CHECK AT PRESS]. Freedman, *The Future of War* (2017) for the knock-out-blow genealogy: BUY / IA borrow — now also on ch06 RETRIEVAL LIST |
+
+### 2026-09-02 (evening): the American case series — T1 primaries (from ch12/standard-oil-offswitch.md, Addendum)
+
+Leads from research/overmighty-citizen-playbook.md (AI-generated report
+commissioned by Roderick; outside the provenance chain). All open
+unless noted; human pulls into corpus/retrieved, then pin in ch12
+sources.md at T1. Full table with what each carries is in the probe
+Addendum.
+
+| Work | Needed for | Priority | Route / status |
+|---|---|---|---|
+| Interstate Commerce Act (1887); Pujo Committee report (1913); Federal Reserve Act, Clayton Act §8, FTC Act (1913–14); Banking Act of 1933; PUHCA (1935) §11; Packers and Stockyards Act (1921); HSR (1976); Telecommunications Act of 1996 §251 | ch12 §§2–4 American idiom (statutes) | **HIGH** as a set | govinfo / FRASER / LoC — human pull |
+| *Paramount* 334 U.S. 131 (1948); *Alcoa* 148 F.2d 416 (1945); *DuPont–GM* 353 U.S. 586 (1957); *AT&T* 552 F. Supp. 131 (1982); *Microsoft* 253 F.3d 34 (2001) + 2002 Final Judgment; *Moody v. NetChoice* 603 U.S. ___ (2024) | ch12 (opinions and decrees); ch02/ch12 disanalogy (NetChoice) | **HIGH** as a set | LII / Justia / DOJ / supremecourt.gov — human pull |
+| Swift consent decree (1920); RCA consent decree (1932); IBM 1956 decree and 1982 dismissal memorandum; AT&T 1956 decree | ch12 (decree series) | MED | DOJ archive — pull; some may be gated |
+| Fortescue, *The Governance of England*, ed. Plummer (1885) | ch05 (credit for the term); ch12 (coinage lineage) | MED | archive.org — open, human pull |
+| Contemporary baselines for Appendix C CA-1..8: CMA cloud findings; Google search final judgment + compliance report; DOJ ad-tech judgment; FTC v. Meta appeal; EO 14110 rescission; BIS AI Diffusion Rule rescission; SB 53; Bennet–Welch bill text; DOJ Clayton §8 release; the H200 arrangement's instrument; VEU revocation notice | appendix-c/memo.md American sub-wager | **HIGH** (all [RE-CHECK AT PRESS]) | open primaries where they exist — pull and DATE each |
+

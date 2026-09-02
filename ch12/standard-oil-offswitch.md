@@ -207,3 +207,47 @@ book's own proposal (spine §8(c)), not a report of enacted policy.
    tradition the draft sets aside. Roderick's call at renovation.
 
 STATUS: PENDING HUMAN REVIEW
+
+---
+
+## Addendum (2026-09-02, filed by Claude/Cowork on Roderick's instruction) — the American case series as retrieval leads
+
+Source of the list: research/overmighty-citizen-playbook.md (AI-generated
+report commissioned and prompt-designed by Roderick; outside the
+provenance chain). Nothing below is cited from it; each row names the
+T1 primary that would carry the case, its status, and what it would do
+for §8(c)'s proof-case argument. The list confirms this probe's §3
+finding from the other direction: the playbook's own first non-oil
+case (the ICC, 1887; Hepburn, 1906) is carriage regulation that
+PRECEDES and surrounds the 1911 dissolution — the off-switch was
+being built by the regulatory line before the antitrust line fired.
+
+| Case | T1 primary to retrieve | Status | What it carries |
+|---|---|---|---|
+| Railroads — ICC | Interstate Commerce Act, 24 Stat. 379 (1887); Hepburn Act, 34 Stat. 584 (1906) | Hepburn IN REPO (this probe); ICA 1887 open (govinfo/LoC) — PULL | the "leave title, regulate the switch" template; rate-discretion → administrative function |
+| Money Trust — Morgan | Federal Reserve Act, 38 Stat. 251 (1913); Clayton Act §8, 38 Stat. 730 (1914); FTC Act, 38 Stat. 717 (1914); Pujo Committee report (1913) | open (govinfo; FRASER for Pujo) — PULL | a network of control broken by governance rules, not a merger case; the interlock ban |
+| Glass–Steagall | Banking Act of 1933, 48 Stat. 162 | open (FRASER) — PULL | line-of-business firebreak; owners keep equity, lose the combination |
+| Utility pyramids — Insull | Public Utility Holding Company Act, 49 Stat. 803 (1935), Title I "death sentence" §11 | open (govinfo) — PULL | the strongest template for a cross-layer conglomerate: simplification mandate |
+| Meatpackers | Swift consent decree (1920); Packers and Stockyards Act, 42 Stat. 159 (1921) | PSA open; decree via DOJ — PULL | line-of-business exclusion + sector regulation combined |
+| RCA | 1932 consent decree (GE/Westinghouse divestiture) | DOJ archive — PULL, may be gated | cross-ownership + patent pool severed |
+| Paramount | *United States v. Paramount Pictures*, 334 U.S. 131 (1948); 1948–49 decrees | opinion open (LII/Justia) — PULL | producer-distributor divested from the exhibition gateway: app-store/first-party analogue |
+| Alcoa | *United States v. Aluminum Co. of America*, 148 F.2d 416 (2d Cir. 1945) | open (Justia) — PULL | structure as §2 monopolisation without a predatory act |
+| DuPont–GM | *United States v. E.I. du Pont de Nemours & Co.*, 353 U.S. 586 (1957) | open (LII) — PULL | a strategic equity link as control: the cloud/model cross-investment analogue |
+| AT&T | 1956 consent decree; *United States v. AT&T*, 552 F. Supp. 131 (D.D.C. 1982) (the MFJ, Greene J.) | 1982 opinion open (Justia) — PULL | regulated bottleneck separated from adjacent markets; named-judge supervision |
+| IBM | 1956 consent decree; 1969 unbundling announcement; DOJ 1982 dismissal memorandum | DOJ archive — PULL | tying, closed interfaces, patent leverage; causation caveat per the playbook itself |
+| Microsoft | *United States v. Microsoft Corp.*, 253 F.3d 34 (D.C. Cir. 2001); Final Judgment (2002) | open (DOJ/Justia) — PULL | interoperability as remedy: the closest precedent for mandatory APIs |
+| Merger review | Hart–Scott–Rodino Act, 90 Stat. 1383 (1976) | open — PULL | pre-consolidation intervention |
+| Telecom unbundling | Telecommunications Act of 1996, 110 Stat. 56, §251 | open — PULL | unbundled-network framework |
+| Speech limit | *Moody v. NetChoice*, 603 U.S. ___ (2024) | open (supremecourt.gov) — PULL | the disanalogy: the state may regulate the platforms' economic switches, not their doctrine (ch02/ch12 concession) |
+| Lineage of the phrase | Fortescue, *The Governance of England* (c. 1471–75), ed. Plummer (1885) | open (archive.org) — PULL | "ovur mighty subgiettes" — the term predates McFarlane's inversion; ch05 credit owed |
+| Contemporary (all [RE-CHECK AT PRESS]) | DOJ Google search final judgment (Dec 2025) and compliance report; DOJ ad-tech liability judgment; FTC v. Meta appeal (Jan 2026); EO 14110 rescission (Jan 2025); BIS AI Diffusion Rule rescission (2025); Omdia Q3 2025 cloud shares; Bennet–Welch Digital Platforms Commission bill text | primaries open where they exist — PULL and date | the 2026 baselines for the Appendix C American sub-wager |
+
+Two analytical notes for the renovation, recorded not resolved: (i)
+the playbook's menu opens the stack inward (interoperability,
+portability, public compute) while the export-control line closes it
+outward (the council's indivisibility point, GLM 5.2) — both are
+control moves and the draft should say so rather than treat them as
+opposites; (ii) the playbook's "power switch test" is GPT 5.6 Sol's
+revocation metric in statutory form — the two should be cited as one
+criterion in Appendix C, not two.
+

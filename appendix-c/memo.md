@@ -698,6 +698,106 @@ At assembly, the finished Appendix C should print this table beside the
 introduction's passage so the reader can score the wager without
 reconstructing the mapping.
 
+## American sub-wager — DRAFT candidate indicators (2026-09-02) — PENDING HUMAN REVIEW
+
+Filed by Claude/Cowork on Roderick's instruction, from spine §8(c) and
+research/overmighty-citizen-playbook.md (outside the provenance chain).
+Purpose: convert the playbook's prescriptive menu into the falsifiable
+form the council asked for — dated disconfirmation thresholds, 2026
+baselines — so that ch12's American section predicts rather than
+counsels. Per CLAUDE.md §9 no indicator is FINAL until its baseline is
+sourced; every baseline below is marked. The playbook's own 2026–30
+sequencing supplies the dates. The unifying criterion (GPT 5.6 Sol's
+revocation metric = the playbook's "power switch test"): does the
+state, by 2030, hold reviewable authority over who computes,
+communicates, transacts, authenticates or connects — while equity
+stays private?
+
+**CA-1 — Common-carrier designation of critical cloud [baseline
+PENDING].** *Measures:* statutory or regulatory designation of a
+hyperscale cloud provider as a common carrier / essential service with
+nondiscrimination, continuity and appeal duties (federal); UK SMS
+designation as the comparator. *Baseline 2026:* none in US law;
+CMA provisional findings (UK) — [RE-CHECK AT PRESS; source the CMA
+document]. *Threshold:* designation enacted or ordered by end-2029 =
+consolidation via carriage (the ICC/Hepburn route); none = sub-wager
+weakens. *Disconfirmation:* a federal statute expressly disclaiming
+common-carrier treatment of cloud.
+
+**CA-2 — Starlink/continuity conditions on strategic connectivity
+[baseline PARTIAL].** *Measures:* federal launch, spectrum or defence
+contracts conditioned on continuity, lawful-priority and escalation
+duties; a documented government override process. *Baseline:* the
+March 2025 suspension week (C12-1, sourced) and the Starlink
+shutdown-order investigation (the council's template — [UNVERIFIED —
+RETRIEVAL]). *Threshold:* conditions written into contract or statute
+by 2028. *Note:* this is the cleanest revocation-rights test in the
+set — the private operator's unilateral switch made reviewable.
+
+**CA-3 — Frontier-compute licensing [baseline IN HAND, dated].**
+*Measures:* a statutory licence to train above a compute threshold,
+with beneficial-ownership disclosure. *Baseline:* EO 14110 reporting
+rescinded Jan 2025; California SB 53 (2025) as the state floor —
+[RE-CHECK AT PRESS; pin both instruments]. *Threshold:* federal
+licensing statute by 2029 = licensing-not-socialisation confirmed
+(spine §5, §8(c)); executive-only or none = the American route stalls
+at the pre-antitrust moment.
+
+**CA-4 — Structural separation executed, not ordered [baseline IN
+HAND, dated].** *Measures:* a completed divestiture severing a
+platform's vertical link (ad exchange from publisher tools; app store
+from first-party apps; cloud from commerce). *Baseline:* DOJ ad-tech
+liability judgment; Google search final judgment (Dec 2025) stopping
+short of Chrome divestiture; FTC v. Meta lost at trial, on appeal Jan
+2026 — [RE-CHECK AT PRESS; pin each]. *Threshold:* one executed
+structural separation by 2030 = the Paramount/AT&T route live; none
+= conduct remedies only (the Microsoft route), which is consolidation
+of a weaker kind — score as partial.
+
+**CA-5 — A standing digital regulator [baseline IN HAND].**
+*Measures:* enactment of a Digital Platforms Commission or equivalent
+with rulemaking and structural-remedy referral authority (the
+Bennet–Welch proposal). *Baseline:* proposed, not enacted (2026).
+*Threshold:* enacted by 2028 per the playbook's own sequencing =
+the ICC/SEC pattern repeating; not enacted by 2030 = the American
+route relying on episodic litigation, scored against the thesis.
+
+**CA-6 — Revenue cut versus control right (the H200 test) [baseline
+IN HAND, dated].** *Measures:* whether Washington's take from
+controlled-chip exports remains a revenue share (income) or is
+replaced by revocation authority (control). *Baseline:* the 15% H200
+arrangement (research/model-council-synthesis.md — [UNVERIFIED —
+RETRIEVAL; primary instrument to pin]). *Threshold:* the cut replaced
+or subordinated by licensing/revocation terms by 2028 = spine §8(c)'s
+predicted correction; the cut entrenched = Opus 5's venality reading
+holds. This is the sub-wager's sharpest single test.
+
+**CA-7 — Cross-ownership and interlock enforcement [baseline IN
+HAND].** *Measures:* Clayton §8 actions or statutory extension to
+platform/model/chip/cloud boards and observer seats. *Baseline:* DOJ
+resignations campaign from 2022 — [RE-CHECK; pin DOJ release].
+*Threshold:* extension to non-corporate entities / minority stakes by
+2029.
+
+**CA-8 — Inward-open, outward-closed [composite; baseline
+PARTIAL].** *Measures:* the pairing of domestic interoperability or
+portability mandates (opening the stack inward) with export controls
+on chips, tools and servicing (closing it outward). *Baseline:* VEU
+revocation for TSMC/Samsung/SK Hynix; ASML servicing denial (council
+— [UNVERIFIED — RETRIEVAL]); no federal portability statute.
+*Threshold:* both halves present by 2030 = the state licensing the
+guilds at home while embargoing the foundry abroad — the full Tudor
+move in the American idiom.
+
+*Scoring rule (draft):* CA-6 and CA-2 are the discriminating tests;
+CA-1, CA-3, CA-5 are the institutional ones; CA-4, CA-7 are the
+structural ones; CA-8 is the composite. Sub-wager WINS if CA-6 turns
+and any two of CA-1/3/5 are enacted by 2030; FAILS if CA-6 entrenches
+and none of CA-1/3/5 is enacted. Everything between is scored
+partial, with the lag refinement from ch12/standard-oil-offswitch.md
+§6 in mind: 1911 decoupled first and built the public off-switch over
+a generation.
+
 ---
 
 *Seeded from ch06/memo.md (2026-07-22); extended from ch01, ch02, ch05,
