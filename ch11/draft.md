@@ -350,7 +350,7 @@ antitrust wave reached remedies in the search case
 (September 2025 — conduct remedies and compelled
 data-sharing, no divestiture; cross-appeals running) — and
 lost the Meta case outright (November 2025; appealed). China
-closed out its 2020–23 platform discipline and moved to
+carried its 2020–23 platform discipline through into
 normalisation — the entrepreneurs' symposium, the Private
 Economy Promotion Law (May 2025) — the sequence, note, being
 subordination first, normalisation after. The pattern
@@ -361,11 +361,12 @@ form: Henry VII's instruments were legal instruments too,
 and the crown that rules through law is ruled by it. This is
 Chapter 8's hierarchical plurality operating at the summit.
 
-*Move three: domestication of the market for force.* Russia
-completed the re-monopolisation Chapter 4 narrated: Wagner's
-residual African presence wound up (the Mali announcement,
-6 June 2025), the Africa Corps — the defence ministry's own
-vehicle — absorbing the theatres. The American pattern runs
+*Move three: domestication of the market for force.* Russia —
+the demonstration case, not a candidate — finished absorbing
+Wagner, the re-monopolisation Chapter 4 narrated: the residual
+African presence wound up (the Mali announcement, 6 June 2025),
+the Africa Corps — the defence ministry's own vehicle —
+absorbing the theatres. The American pattern runs
 through programmes of record, clearances and commissions
 (Chapters 3–4), extended in July 2025 by the Pentagon's
 frontier-AI agreements. And the test case this book has
@@ -436,13 +437,15 @@ has been assembling, and with the legal refinement the
 threads were carried to deliver.
 
 The consolidating states will not break their platforms.
-They will nationalise their *functions* — by
-security-clearance and procurement integration in the United
-States; by canonical regulation in Europe; by fused
-ownership in China; by sovereign-stack substitution in
-India — while the platforms' corporate forms persist, as the
-Church persisted after Henry: intact, wealthy, and
-subordinate in the functions that matter. And the ch04
+They will nationalise their *functions* — the book predicts
+this on balance, and scores it rather than assumes it — by
+licence and licensing fee above all, with security-clearance
+and procurement integration beneath, in the United States; by
+canonical regulation in Europe; by fused ownership in China;
+by sovereign-stack substitution in India — while the
+platforms' corporate forms persist, as the Church persisted
+after Henry: intact, wealthy, and subordinate in the
+functions that matter. And the ch04
 thread now specifies the settlement's legal texture. The
 absorbed platforms may remain *operative but never
 invested* — running state-critical infrastructure under
@@ -528,6 +531,29 @@ beyond the reviewed memo.*
      that refusal named as the space the wager fills. Scan-page
      pins only; every Bratton pin to be re-set against the printed
      edition; the full engagement remains ch12's.
+
+3. **(2026-09-03 — Phase 4 Run A, integration. PENDING HUMAN
+   REVIEW.)** Three changes, keyed to the checks.
+   - §VII (check 3, audit finding 7): the platform-centralisation
+     prediction now stated at HOLD rank ("the book predicts this on
+     balance, and scores it rather than assumes it") and the
+     American mode gains its licensing limb first ("by licence and
+     licensing fee above all, with security-clearance and
+     procurement integration beneath") per spine §5 and §8(c).
+   - §VI move two (check 2, sweep A3): "China closed out its
+     2020–23 platform discipline" → "carried its 2020–23 platform
+     discipline through into normalisation" — the completion verb
+     removed; the documented sequence kept.
+   - §VI move three (check 2, sweep A7): "Russia completed the
+     re-monopolisation" → "Russia — the demonstration case, not a
+     candidate — finished absorbing Wagner, the re-monopolisation
+     Chapter 4 narrated" — the discrete documented event named as
+     such, the §5 casting stated.
+   FLAG (check 4, minor, not fixed): §VII hands the EU forward as
+   "the 1495 Empire's, apparatus without the centre" where ch12
+   weighs the EU through the Burgundy/Depreter figure — substance
+   identical, figure shifted; whether ch11 should pre-name Burgundy
+   is a voice choice left to Roderick.
 
 ---
 
