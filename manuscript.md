@@ -34,8 +34,9 @@ had passed through the new order's machinery once already — held
 hostage for a surrendered city's compositions, his liberty a clause in
 a treaty — and if one reading of the day is right, he charged not in
 despair but for the guns themselves, the war's decisive instrument
-briefly, falsely, reported loose (a possibility Chapter 6 weighs and
-declines to decide). Either way, the field settled the larger
+briefly, falsely, reported loose (a reading Chapter 6 stages against
+the contemporary verdict and argues as the author's own conjecture,
+while conceding the record cannot settle it). Either way, the field settled the larger
 question. Bordeaux capitulated in October; three centuries of English
 France ended; and the instrument that ended it was not a general or a
 dynasty but a budget line — a fiscal apparatus, two permanent
@@ -97,7 +98,7 @@ consciously, in the American case; deliberately, in the Chinese —
 to subordinate every intermediate authority that stands between the
 centre and the capability. The scene is left deliberately
 underdetermined, because in 1445 it was underdetermined too. Nobody
-at Louppy-le-Châtel knew they were founding the modern state. The
+at Louppy-le-Château knew they were founding the modern state. The
 ordonnance that did it is lost.
 
 The book's three claims, in the order its parts argue them. First,
@@ -141,7 +142,7 @@ C's).
 > materially above four; or a full-stack power is defeated in
 > decisive engagement by cheap distributed systems fielded *without*
 > a patron's intelligence, connectivity, and interceptor layers
-> behind them [C6-1/C10-2; C12-1];
+> behind them [C10-2 (absorbing C6-1); C12-1];
 >
 > **2.** the legibility infrastructure fragments in fact and not
 > only in principle — bloc-internal fiscal and reporting reach
@@ -154,7 +155,7 @@ C's).
 > of being absorbed — an actor combining decisive-relevant
 > capability with a majority-commercial fiscal base escapes the
 > state's instruments, and, decisively, resolves its disputes with
-> states in fora states do not control [C2-3/C3-2; C11-3];
+> states in fora states do not control [C2-3/C3-2; C8-2];
 >
 > **4.** the Tudor moves stall across all four candidate polities —
 > no fiscal absorption of platform surplus, no canonical assertion
@@ -232,9 +233,10 @@ own theorist — locates the ending of the first dispersal in "the
 creative destruction of fifteenth to seventeenth century warfare."
 The disagreements that remain among these scholars are over
 ranking, tempo and sequence inside an agreed direction of travel.
-A mechanism assembled from its critics' concessions may still be
-wrong, but it cannot be fantasy — and where its medieval
-components are contested, the book says so in the text, by name.
+A mechanism assembled from its critics' concessions may be
+contested at any of its named joints; what it cannot be is
+fantasy — and where its medieval components are contested, the
+book says so in the text, by name.
 
 The third objection says: this is English history wearing a
 universal hat. The answer is auditable. Every English-leaning
@@ -677,9 +679,10 @@ will tabulate — were taken by states and blocs, transmitted
 *through* the networks, and resisted by none of them. Slaughter
 described the wiring of the dispersal phase with great accuracy;
 the book's quarrel is only with the load the wiring was asked to
-bear. Chapter 12 returns to her to say precisely what the networks
-become inside a bloc-consolidated order — and the answer will not
-be nothing.
+bear. Chapter 12 says what the networks become inside a
+bloc-consolidated order — ranked, not abolished: the hierarchical
+plurality of its settlement-from-inside, connective tissue under a
+funded sovereign — and the answer, note, is not nothing.
 
 ## VI.
 
@@ -923,7 +926,8 @@ discipline matters; the case is strong enough without them.)
 The second is the Chinese state-platform church, and its defining
 property is fusion: the universal claim is not rival to the state
 but *absorbed into it* — which makes China, in this chapter's
-terms, not a church-state contest but its pre-emptive resolution.
+terms, not a church-state contest but the contest pre-empted:
+fusion asserted by discipline, and enforced since.
 The demonstration was the crackdown of 2020–21, best read — the
 structural licence holds — as intra-church discipline: a reform
 movement imposed on over-mighty religious orders by the authority
@@ -1091,11 +1095,12 @@ thereafter performed them. The decisive settlements did not
 defeat the universal authority; they annexed it. The reader is
 asked to hold that sentence against Part III's argument about
 what the consolidating blocs will do with their churches —
-because the pattern of the 2020s already leans Henrician: the
-American state converting subsidy into equity in its
-foundational infrastructure, the Chinese state ruling its
-platforms as departments, the European state legislating its
-church's canon itself. The wager's precise form comes later.
+because the pattern of the 2020s leans Henrician: the American
+state regulating the switches of its foundational
+infrastructure by licence and condition — and, in the foundry,
+exceptionally, converting subsidy into equity — the Chinese
+state ruling its platforms as departments, the European state
+legislating its church's canon itself. The wager's precise form comes later.
 What Part I still owes the reader is the rest of the diagnosis
 — because beneath the churches' quarrels, the dispersal has
 armed actors and contract polities of its own. The retinues
@@ -1315,7 +1320,7 @@ Maven and the CDAO awards before print].
 Phil Williams's pessimist counter-read is integrated rather
 than resisted: where the state has weakened furthest, he
 argued in 2008, what emerges is not durable disorder but
-something darker — and his zones are the ones Chapter 5 mapped,
+something darker — and his zones are the ones Chapter 5 will map,
 where the contractor economy is not a symptom of governance but
 its operative form. (Chronology stated: Williams wrote before
 McFate; the contrast is the book's staging, not a debate they
@@ -1808,8 +1813,9 @@ enclaves were closed — by consolidating monarchies that
 finally could. Venice became the proto-state itself. The
 platforms are designated, fined, licensed and commissioned by
 the polities they were said to have surpassed. The dispersal's
-most developed actors are everywhere being absorbed by
-fiscally capable centres — and the literature has no account
+most developed actors are being absorbed by fiscally capable
+centres — unevenly, and fastest where the fisc is deepest, but
+in every one of the four chapters — and the literature has no account
 of the force that does the absorbing, because it never asked
 how the first dispersal ended. That is the question Part II
 exists to answer, and it begins where consolidation was least
@@ -1894,13 +1900,20 @@ long treated it as a distinctively English catastrophe: a saintly
 simpleton on the throne, wicked uncles, the wheel of fortune. The
 argument of this chapter is that the English case was one instance of a
 continental pattern, and that the pattern has a structure. The
-chapter's title term should be credited before it is used: the
-undermighty king is K. B. McFarlane's formulation — his famous dictum
-holds that only a king who was under-mighty had anything to fear from
-over-mighty subjects [GAP: pin the verbatim wording at retrieval —
-McFarlane's essays are on the acquisition list] — and the debt is
-acknowledged here because what follows deploys his term against part
-of his point: this chapter generalises the condition across the
+chapter's title term should be credited before it is used, and its
+lineage runs deeper than its historian. The over-mighty subject is
+a fifteenth-century coinage before it is a twentieth-century
+category: Sir John Fortescue, writing *The Governance of England*
+in the 1470s, headed a chapter with "the perellis that mey come to
+the kyng by ouer myghtye subgettes" (ed. Plummer, ch. IX — the OCR
+text in this book's corpus; wording to be verified against the
+page images before print). The undermighty king is K. B.
+McFarlane's inversion of Fortescue's warning — his famous dictum
+holds that only a king who was under-mighty had anything to fear
+from over-mighty subjects [GAP: pin the verbatim wording at
+retrieval — McFarlane's essays are on the acquisition list] — and
+both debts are acknowledged here because what follows deploys the
+term against part of the historian's point: this chapter generalises the condition across the
 Channel and forward five centuries, and argues (§VI) that the
 causation his dictum compresses runs in a direction the English
 evidence alone leaves open. Personal
@@ -2890,8 +2903,8 @@ wall. It was executed in the minds of men reading news.
 
 Set the full census out plainly, because the book's discipline requires
 it and because the distribution is itself the finding. Of the hundred
-strongpoints in the Somerset list, the great majority fell without a
-siege: by composition, by abandonment "for fear of the enemies," by
+strongpoints in the Somerset list, the great majority fell by
+capitulation without siege: by composition, by abandonment "for fear of the enemies," by
 treason, by the act of their own townsmen or clergy — Lisieux delivered
 by its bishop, Coutances "by the churchmen," Verneuil's town betrayed by
 a miller, Rouen opened by its citizens. The contested falls held days.
@@ -2971,7 +2984,7 @@ alone, and the book's own mechanism (Chapter 10 will formalise it)
 treats train, standing companies and standing taxation as a single
 fiscal object — three line-items of one budget. But manpower cannot
 explain the same-wall compressions. Henry V had numbers at Rouen in
-1418 and needed six months; the French had numbers at Harfleur in 1449
+1418 and needed nearly six months; the French had numbers at Harfleur in 1449
 and needed seventeen days *because the wall failed*. Where resistance
 was actually offered, the differential is the guns.
 
@@ -3150,7 +3163,12 @@ Formigny, honestly told, is therefore not the battle field artillery
 won; it is the battle at which field artillery first *mattered* — the
 battle in which two guns broke not the English line but English
 discipline, prising a hitherto-unbeaten defensive system out of the
-posture that had won Crécy, Poitiers and Agincourt. The kill was
+posture that had won Crécy, Poitiers and Agincourt — Agincourt
+itself being, this book holds with its own spine, no simple
+longbow story but a commander keeping men from breaking, and a
+logistical feat, against an undermighty king already in civil
+war; the posture was the system's emblem, not its whole
+explanation. The kill was
 delivered by cavalry and the press of men, as it had been for
 centuries. The novelty was the lever, not the hammer. Drafting the
 claim any larger than that would hand the specialist reviewer the
@@ -3860,12 +3878,16 @@ misgovernment in general but the fiscal-military state in
 particular, named and resisted at the moment of its creation.
 
 In November 1439 the Estates at Orléans produced, and Charles VII
-promulgated, the ordonnance this book's Chapter 10 will treat as a
-founding document: private lords forbidden to raise or maintain
-troops without royal licence, captaincies reserved to royal
-appointment, and the taille established as an effectively permanent
-tax to pay for the king's soldiers (ordonnance of 2 November 1439).
-Every clause cut something away from somebody. The great princes
+promulgated, the ordonnance this book's Chapter 10 will weigh as
+the opening act of a seven-year settlement: private lords forbidden
+to raise or maintain troops without royal licence, captaincies
+reserved to royal appointment — and, in the tradition Chapter 10
+holds at tertiary strength until the act's own text is read, the
+taille to pay for the king's soldiers, a tax whose permanence was
+in the event made by practice across the 1440s rather than granted
+at Orléans (ordonnance of 2 November 1439; the settlement of
+1439–46). Every clause of the military monopoly cut something away
+from somebody. The great princes
 lost their private armies; the free captains — the écorcheur
 entrepreneurs of Chapter 3's world — lost their market; and the
 taxpaying country acquired a permanent obligation where custom had
@@ -4574,8 +4596,10 @@ proclaimed without the fiscal-military substrate, and therefore
 proclaimed again and again.
 
 Set the dates against Part II's spine and the sequence is
-unmistakable. The taille is granted in 1439; the companies stand
-from 1445; the train runs from 1449; and the courts, councils,
+unmistakable. The monopoly of force is claimed in 1439; the
+companies stand from 1445; the tax hardens into permanence across
+the same seven years — the settlement of 1439–46; the train runs
+from 1449; and the courts, councils,
 constabularies and abolitions arrive in the two generations
 *after* — 1470s to 1540s — precisely where the fiscal-military
 consolidation had laid the substrate, and nowhere else. The
@@ -4984,7 +5008,10 @@ interval in corporate form, the returning person
 re-personalising the constitution that had briefly operated
 without him. Institutionalisation of the new political bodies
 is pending, not achieved; the two-bodies problem of the
-platform age is live, and Appendix C carries its indicators.
+platform age is live, and Chapter 12 weighs it where it bears
+hardest — in the Chinese candidacy, whose settlement is being
+executed as personal rule, and in the succession clauses of every
+charter Part III reads.
 
 The fifteenth century's resolution, when it came, did not come
 from constitutional theory at all. No regency ordinance, no
@@ -5251,7 +5278,7 @@ opening in August 1439 and Gaspard's in January 1441 — the
 brothers supplanting Bessonneau in practice from 1437, as Chapter
 6 established from Contamine's annexes. The reader has seen the
 1442 procurement programme and its arithmetic — the gunpowder
-establishment at twice the cost of the traditional arsenal — and
+establishment at more than twice the cost of the traditional arsenal — and
 this chapter re-deploys that budget line as its premise rather
 than re-arguing it. One fact about its regime, though, belongs
 here: before 1444 the war treasury ran, in Contamine's words, with
@@ -5630,7 +5657,7 @@ book's own — and the analogy joints are Roderick's to set.]
 
 Run the 1442 test against the present. The test, recall, was a
 budget document: a state pricing a decisive capability against its
-traditional arsenal and finding the new item costing twice the old —
+traditional arsenal and finding the new item costing more than twice the old —
 and paying it, annually, because the capability could not be
 improvised, stockpiled cheaply, or raised by summons. The question
 for our own decade is which polities carry the equivalent lines: 
@@ -5654,7 +5681,13 @@ threshold the fifteenth century would have recognised at once: the
 United States converted $8.9 billion of grants into equity —
 roughly 10 per cent of Intel, with a warrant over a further 5 per
 cent tied to Intel's keeping control of its foundry business. The
-artillery state bought guns; this state is buying the foundry. The
+artillery state bought guns; this state is buying the foundry. And
+the purchase should be read as the exception that marks the rule:
+in the foundry — the one physically singular layer — the American
+state bought; everywhere else in its record the instruments are
+the licence, the carriage rule and the revocable authorisation,
+the regulation-of-the-switch pattern Chapter 12 assembles from the
+republic's own statutes and decrees. The
 European Union's equivalent (Regulation 2023/1781, in force 21
 September 2023) decomposes honestly into about €35 billion of
 member-state aid plus matching, with the Commission directly
@@ -6216,7 +6249,7 @@ antitrust wave reached remedies in the search case
 (September 2025 — conduct remedies and compelled
 data-sharing, no divestiture; cross-appeals running) — and
 lost the Meta case outright (November 2025; appealed). China
-closed out its 2020–23 platform discipline and moved to
+carried its 2020–23 platform discipline through into
 normalisation — the entrepreneurs' symposium, the Private
 Economy Promotion Law (May 2025) — the sequence, note, being
 subordination first, normalisation after. The pattern
@@ -6227,11 +6260,12 @@ form: Henry VII's instruments were legal instruments too,
 and the crown that rules through law is ruled by it. This is
 Chapter 8's hierarchical plurality operating at the summit.
 
-*Move three: domestication of the market for force.* Russia
-completed the re-monopolisation Chapter 4 narrated: Wagner's
-residual African presence wound up (the Mali announcement,
-6 June 2025), the Africa Corps — the defence ministry's own
-vehicle — absorbing the theatres. The American pattern runs
+*Move three: domestication of the market for force.* Russia —
+the demonstration case, not a candidate — finished absorbing
+Wagner, the re-monopolisation Chapter 4 narrated: the residual
+African presence wound up (the Mali announcement, 6 June 2025),
+the Africa Corps — the defence ministry's own vehicle —
+absorbing the theatres. The American pattern runs
 through programmes of record, clearances and commissions
 (Chapters 3–4), extended in July 2025 by the Pentagon's
 frontier-AI agreements. And the test case this book has
@@ -6302,13 +6336,15 @@ has been assembling, and with the legal refinement the
 threads were carried to deliver.
 
 The consolidating states will not break their platforms.
-They will nationalise their *functions* — by
-security-clearance and procurement integration in the United
-States; by canonical regulation in Europe; by fused
-ownership in China; by sovereign-stack substitution in
-India — while the platforms' corporate forms persist, as the
-Church persisted after Henry: intact, wealthy, and
-subordinate in the functions that matter. And the ch04
+They will nationalise their *functions* — the book predicts
+this on balance, and scores it rather than assumes it — by
+licence and licensing fee above all, with security-clearance
+and procurement integration beneath, in the United States; by
+canonical regulation in Europe; by fused ownership in China;
+by sovereign-stack substitution in India — while the
+platforms' corporate forms persist, as the Church persisted
+after Henry: intact, wealthy, and subordinate in the
+functions that matter. And the ch04
 thread now specifies the settlement's legal texture. The
 absorbed platforms may remain *operative but never
 invested* — running state-critical infrastructure under
@@ -6417,17 +6453,22 @@ repricing of decisive force (Chapter 6), the fiscal-military state it
 compelled (Chapter 10), the five-move settlement the new monarchies
 executed (Chapter 11). The diagnosis is behind us: the dispersal,
 the churches, the retinues, the contract polities, the hollow crowns
-(Part I; Chapter 5). What remains is the wager: that the same
-mechanism, operating now, produces not a restored Westphalia and not
-a stable neomedieval plateau but three or four parallel Tudor
-settlements, executed inside civilisational blocs, with durable
-disorder persisting in the spaces between. Not modernity, but Tudor.
+(Part I; Chapter 5). The mechanism's present operation the book
+defends outright — the price of decisive force has moved, and the
+instruments answering it are on the record. What remains wagered is
+the outcome's shape: that the operation produces not a restored
+Westphalia and not a stable neomedieval plateau but three or four
+parallel Tudor settlements, executed inside civilisational blocs,
+with durable disorder persisting in the spaces between — because
+the consolidation is compelled, not because it is already
+accomplished. Not modernity, but Tudor.
 
 ## II.
 
-The settlement, seen from outside, is already legible in the blocs'
-own declarations — and the variable whose absence defined the
-neomedieval diagnosis has returned to the books.
+The pressure that compels the settlement is, seen from outside,
+already legible in the blocs' own declarations — and the variable
+whose absence defined the neomedieval diagnosis has returned to
+the books.
 
 Cerny's second characteristic, the reader will recall from Chapter
 1, was the *lack* of exogenous territorialising pressure — his own
@@ -6482,9 +6523,10 @@ either; it built councils *for* them.
 
 ## III.
 
-Seen from inside, the settlement's texture is already documented,
-and three of its features can be stated from instruments the prior
-chapters put in evidence.
+Seen from inside, the settlement the mechanism compels can be
+described in advance, because three of its features already exist
+as instruments the prior chapters put in evidence — texture before
+completion, the way the 1440s carried the texture of the 1470s.
 
 Its law is hierarchically plural — Chapter 8's finding, now
 statutory. The plural fora persist: arbitration at record caseloads,
@@ -6496,9 +6538,10 @@ process, certified external bodies expressly denied binding power
 the same season's docket showing the state fining its platforms
 and the state's own exclusion directive enjoined by its own courts
 (the Anthropic arc, Chapter 11). Hierarchical plurality is not a
-compromise on the way to monopoly; it is the settlement's mature
-legal form, as it was the Tudor form — church courts and manorial
-courts and merchant courts all surviving, ranked.
+compromise on the way to monopoly; it is the mature legal form a
+settlement of this kind takes — it was the Tudor form: church
+courts and manorial courts and merchant courts all surviving,
+ranked.
 
 Its legibility is infrastructural and persistent. The automatic
 exchange of financial information across 116 jurisdictions and 171
@@ -6520,8 +6563,8 @@ improvising counterweights — Chapter 9's two-body problem, live:
 the dual-class charter as the default constitution of the new
 institutions; the compelled independent compliance function [^12-4]; succession reclassified as governance; the regency
 instruments existing, acting, and — the OpenAI week — failing
-against the person. The settlement's legal form for its absorbed
-platforms carries the thread the book promoted from Milan:
+against the person. The settlement's legal form for the platforms
+it absorbs carries the thread the book promoted from Milan:
 *operative but never invested* — function delegated through
 licence, clearance, commission and programme of record;
 legitimacy retained by the state; and, the Anthropic episode's
@@ -6536,8 +6579,8 @@ Who, then, is Henry VII — and what is his artillery? The casting
 is the book's own (c); the components are the prior chapters'
 documented record; and the four candidacies resolve unevenly.
 
-The United States is the most probable case, and the least
-self-aware: the five moves executed haphazardly, half of them
+The United States is, on this book's wager, the most probable
+case, and the least self-aware: the five moves running haphazardly, half of them
 under doctrines that would deny the pattern. Its fisc extends
 through its own instruments while exempting itself from everyone
 else's — the stablecoin rails legislated, the global minimum tax
@@ -6570,7 +6613,10 @@ decrees). Twelve times between 1887 and 2002 — the railroads,
 Standard Oil, the Money Trust, the banking combination, the
 utility pyramids, the packers, RCA, the studios, Alcoa, the
 DuPont–GM stake, the Bell System, Microsoft — the republic
-confronted a privately held switch through which public life had
+confronted an over-mighty citizen (a republic has citizens, not
+subjects; the coinage is this chapter's, the lineage Fortescue's
+by way of Chapter 5) holding a privately owned switch through
+which public life had
 to pass, and in no verified case did it confiscate. The method,
 every time, was regulation of the switch rather than seizure of
 the property: title left, discretion severed — by common carriage,
@@ -6632,7 +6678,9 @@ Whether the American system can run that pattern against its own
 constitutional grain, at the stack's tempo, is what C11-1 scores,
 year by year.
 
-China has substantially executed the settlement already — the
+China is the furthest along — probably closest to Tudor norms, as
+this book holds on balance, the settlement more nearly executed
+there than anywhere — the
 discipline of 2020–23 completed and normalised in sequence, the
 fused-ownership absorption mode, the legibility instruments, the
 canon now exported through a treaty organisation with
@@ -6647,8 +6695,10 @@ a continuous dynastic-political centre does not survive
 contact. The EU is the refinement's harder application:
 canonically the strongest actor of the four — the most
 developed regulatory apparatus on earth, upheld by its own
-courts — and structurally the weakest: no single fisc, no
-single executive, its dynasty a treaty; its flagship fab
+courts — and structurally the weakest in a precise sense: the
+tax base and the tools are present, bloc-wide and deep, but the
+single fisc and the single executive are not, its dynasty a
+treaty; its flagship fab
 cancelled, its constellation contracted for the decade's end,
 its munitions instrument counting capacity, its high-risk
 canon deferred to 2027–28, its enforcement powers held
@@ -6870,7 +6920,7 @@ First: the platforms treated as institutional universalisms —
 canon, sanction, jurisdiction, documented from their founding
 instruments (Chapter 2) — with the state's answer documented in
 the same register (Chapter 11): absorption of functions,
-executed differently per bloc, in the operative-but-never-
+proceeding differently per bloc, in the operative-but-never-
 invested legal form. That is the treatment Kobrin's 1998
 insight pointed toward and the literature never wrote. Second:
 the re-consolidation claimed with a mechanism rather than a
@@ -7117,9 +7167,9 @@ settlements, no named winners of elections or wars; its unit of
 prediction is the pattern and its horizon is fifteen years of named
 indicators. It does not claim any polity's success: the American
 candidacy is called probable and half-conscious, the Chinese
-substantially executed but exposed at the summit the book's own
-two-bodies chapter diagnoses, the European conditional on a fiscal
-substrate that does not yet exist, the Indian possible; all four
+furthest along but exposed at the summit the book's own
+two-bodies chapter diagnoses, the European conditional on a single
+fisc that does not yet exist, the Indian possible; all four
 could fail, and condition four of the wager scores exactly that. It
 does not claim the settlement is desirable: the Tudor turn, where
 it ran, ran through bonds, expulsions, dissolutions and a harvest
@@ -7308,34 +7358,6 @@ comparative register; Appendix C the indicators.*
 ---
 
 # Appendix B — The Comparative Register
-# Appendix B — The Comparative Register
-
-*ASSEMBLED (first assembly, 2026-08-02). CLAUDE.md §6's rule — no
-single-polity argument, ever; each chapter a primary polity plus at
-least two comparators — tabulated from the reviewed memos and drafts so
-the rule can be audited at a glance. Modern-side comparator sets are
-the four candidate blocs unless narrower.*
-
-| Ch. | Subject | Primary polity | Continental comparators | Counter-case / control | Modern comparator set |
-|---|---|---|---|---|---|
-| 1 | The diagnosis | (literature chapter) | c. 1200 baseline: papacy, Empire, N. Italian communes (Rhineland deliberately unasserted pending retrieval) | Capetian France, Angevin England named as consolidating exceptions | EU, US, China (DMA/CLOUD/PIPL trilemma) |
-| 2 | The new Church | (structural chapter) | Investiture Empire/papacy; Avignon France; the Schism's three obediences | Worms as truce vs the Henrician settlement | US hyperscaler church; Chinese fused church; EU canonical church |
-| 3 | The retinues | England (livery/maintenance) | France (écorcheurs); Burgundy (Golden Fleece); the Empire (Fehde) | Italy held for ch. 4 | US contractor economy; UK custody contracts; Israeli export licensing |
-| 4 | The condottieri | Italy (Hawkwood, Sforza) | The Hansa (Baltic); Venice | Prigozhin's Russia (the failed from-below) | US Sforza-from-above; the frontier labs |
-| 5 | The undermighty kings | England (Henry VI) | France (Charles VI); the Ottomans (1444–51) | Portugal/Aragon stable; France recovering (the pivot) | Somalia/Lebanon/Libya (territorial); US/EU/Japan (functional) |
-| 6 | The walls | France (the reconquest) | England (the defender); Gascony (the loyalty test) | Fougères (ducal guns fail); Bordeaux 1452 (politics without the train) | 1940 France; 2021 Kabul ([BRIDGE], tempo only) |
-| 7 | The commons | England (Cade) | France (Praguerie); Italy (Ciompi legacy); the Empire (Bundschuh, Armer Konrad, Cologne) | The Merfolds (the genuinely revolutionary contrast) | Brexit UK; US; France (gilets jaunes); Italy (M5S, the exception); Germany (AfD, the exchange) |
-| 8 | Private justice | England (the Pastons) | The Empire (Fehde/Landfrieden); Italy (vendetta/pax) | The Empire post-1495 (assertion without substrate) | Arbitration/ISDS; platform courts; crypto; offshore |
-| 9 | The two bodies | England (the protectorates) | France (the 1393/1403 ordinances); Troyes (the dual monarchy) | England's refused vs France's legislated substitute | US/Meta/Alphabet charters; China's term-limit removal; OpenAI board |
-| 10 | The artillery state | France (companies, taille, Bureau service) | Burgundy; the Swiss Confederation | Burgundy (centre fails); Swiss (no compulsion); England (fisc fails) | US, China, EU, India — the four-layer stack |
-| 11 | The new monarchies | England (Henry VII) | France (extended); Spain (Ferdinand & Isabella); the Ottomans (Mehmed II) | The Habsburg composite (noted, different path) | The five moves across all four blocs |
-| 12 | The synthesis | (all four blocs) | Tudor England as anchor | The EU under the Depreter test | US probable; China executed; EU conditional; India possible |
-
-**The rule's exceptions, declared:** chapters 1, 2 and 12 are
-literature, structural and synthesis chapters respectively; their
-comparative obligation is carried by the material they organise rather
-than a single primary polity. Nowhere in the book does an
-English-leaning argument stand on England alone.
 
 
 ---
