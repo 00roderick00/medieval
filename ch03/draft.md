@@ -205,7 +205,7 @@ Maven and the CDAO awards before print].
 Phil Williams's pessimist counter-read is integrated rather
 than resisted: where the state has weakened furthest, he
 argued in 2008, what emerges is not durable disorder but
-something darker — and his zones are the ones Chapter 5 mapped,
+something darker — and his zones are the ones Chapter 5 will map,
 where the contractor economy is not a symptom of governance but
 its operative form. (Chronology stated: Williams wrote before
 McFate; the contrast is the book's staging, not a debate they
@@ -327,4 +327,15 @@ fiscal years; lab revenues flagged as estimates; the 2026 episode
 dated, hedged, and carrying [RE-CHECK AT PRESS]. No claim beyond
 the reviewed memo.*
 
-STATUS: REVIEWED (Roderick, 2026-08-02) — approved as drafted; the [RE-CHECK AT PRESS] conversion for the Anthropic–Pentagon episode is confirmed
+## Revisions
+
+1. **(2026-09-03 — Phase 4 Run A, integration. PENDING HUMAN
+   REVIEW.)** One change (check 4): §III "his zones are the ones
+   Chapter 5 mapped" → "will map" — the tense corrected to the book
+   order (Chapter 5 follows this chapter); no other change. The
+   chapter's terms, tense, figures and cross-references were checked
+   against the inventories and conform.
+
+---
+
+STATUS: REVIEWED (Roderick, 2026-08-02) — approved as drafted; the [RE-CHECK AT PRESS] conversion for the Anthropic–Pentagon episode is confirmed; Revisions 1 (Phase 4 Run A) PENDING HUMAN REVIEW
