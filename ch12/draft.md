@@ -55,17 +55,22 @@ repricing of decisive force (Chapter 6), the fiscal-military state it
 compelled (Chapter 10), the five-move settlement the new monarchies
 executed (Chapter 11). The diagnosis is behind us: the dispersal,
 the churches, the retinues, the contract polities, the hollow crowns
-(Part I; Chapter 5). What remains is the wager: that the same
-mechanism, operating now, produces not a restored Westphalia and not
-a stable neomedieval plateau but three or four parallel Tudor
-settlements, executed inside civilisational blocs, with durable
-disorder persisting in the spaces between. Not modernity, but Tudor.
+(Part I; Chapter 5). The mechanism's present operation the book
+defends outright — the price of decisive force has moved, and the
+instruments answering it are on the record. What remains wagered is
+the outcome's shape: that the operation produces not a restored
+Westphalia and not a stable neomedieval plateau but three or four
+parallel Tudor settlements, executed inside civilisational blocs,
+with durable disorder persisting in the spaces between — because
+the consolidation is compelled, not because it is already
+accomplished. Not modernity, but Tudor.
 
 ## II.
 
-The settlement, seen from outside, is already legible in the blocs'
-own declarations — and the variable whose absence defined the
-neomedieval diagnosis has returned to the books.
+The pressure that compels the settlement is, seen from outside,
+already legible in the blocs' own declarations — and the variable
+whose absence defined the neomedieval diagnosis has returned to
+the books.
 
 Cerny's second characteristic, the reader will recall from Chapter
 1, was the *lack* of exogenous territorialising pressure — his own
@@ -120,9 +125,10 @@ either; it built councils *for* them.
 
 ## III.
 
-Seen from inside, the settlement's texture is already documented,
-and three of its features can be stated from instruments the prior
-chapters put in evidence.
+Seen from inside, the settlement the mechanism compels can be
+described in advance, because three of its features already exist
+as instruments the prior chapters put in evidence — texture before
+completion, the way the 1440s carried the texture of the 1470s.
 
 Its law is hierarchically plural — Chapter 8's finding, now
 statutory. The plural fora persist: arbitration at record caseloads,
@@ -134,9 +140,10 @@ process, certified external bodies expressly denied binding power
 the same season's docket showing the state fining its platforms
 and the state's own exclusion directive enjoined by its own courts
 (the Anthropic arc, Chapter 11). Hierarchical plurality is not a
-compromise on the way to monopoly; it is the settlement's mature
-legal form, as it was the Tudor form — church courts and manorial
-courts and merchant courts all surviving, ranked.
+compromise on the way to monopoly; it is the mature legal form a
+settlement of this kind takes — it was the Tudor form: church
+courts and manorial courts and merchant courts all surviving,
+ranked.
 
 Its legibility is infrastructural and persistent. The automatic
 exchange of financial information across 116 jurisdictions and 171
@@ -159,8 +166,8 @@ the dual-class charter as the default constitution of the new
 institutions; the compelled independent compliance function (DSA
 Art. 41); succession reclassified as governance; the regency
 instruments existing, acting, and — the OpenAI week — failing
-against the person. The settlement's legal form for its absorbed
-platforms carries the thread the book promoted from Milan:
+against the person. The settlement's legal form for the platforms
+it absorbs carries the thread the book promoted from Milan:
 *operative but never invested* — function delegated through
 licence, clearance, commission and programme of record;
 legitimacy retained by the state; and, the Anthropic episode's
@@ -175,8 +182,8 @@ Who, then, is Henry VII — and what is his artillery? The casting
 is the book's own (c); the components are the prior chapters'
 documented record; and the four candidacies resolve unevenly.
 
-The United States is the most probable case, and the least
-self-aware: the five moves executed haphazardly, half of them
+The United States is, on this book's wager, the most probable
+case, and the least self-aware: the five moves running haphazardly, half of them
 under doctrines that would deny the pattern. Its fisc extends
 through its own instruments while exempting itself from everyone
 else's — the stablecoin rails legislated, the global minimum tax
@@ -209,7 +216,10 @@ decrees). Twelve times between 1887 and 2002 — the railroads,
 Standard Oil, the Money Trust, the banking combination, the
 utility pyramids, the packers, RCA, the studios, Alcoa, the
 DuPont–GM stake, the Bell System, Microsoft — the republic
-confronted a privately held switch through which public life had
+confronted an over-mighty citizen (a republic has citizens, not
+subjects; the coinage is this chapter's, the lineage Fortescue's
+by way of Chapter 5) holding a privately owned switch through
+which public life had
 to pass, and in no verified case did it confiscate. The method,
 every time, was regulation of the switch rather than seizure of
 the property: title left, discretion severed — by common carriage,
@@ -271,7 +281,9 @@ Whether the American system can run that pattern against its own
 constitutional grain, at the stack's tempo, is what C11-1 scores,
 year by year.
 
-China has substantially executed the settlement already — the
+China is the furthest along — probably closest to Tudor norms, as
+this book holds on balance, the settlement more nearly executed
+there than anywhere — the
 discipline of 2020–23 completed and normalised in sequence, the
 fused-ownership absorption mode, the legibility instruments, the
 canon now exported through a treaty organisation with
@@ -286,8 +298,10 @@ a continuous dynastic-political centre does not survive
 contact. The EU is the refinement's harder application:
 canonically the strongest actor of the four — the most
 developed regulatory apparatus on earth, upheld by its own
-courts — and structurally the weakest: no single fisc, no
-single executive, its dynasty a treaty; its flagship fab
+courts — and structurally the weakest in a precise sense: the
+tax base and the tools are present, bloc-wide and deep, but the
+single fisc and the single executive are not, its dynasty a
+treaty; its flagship fab
 cancelled, its constellation contracted for the decade's end,
 its munitions instrument counting capacity, its high-risk
 canon deferred to 2027–28, its enforcement powers held
@@ -514,7 +528,7 @@ First: the platforms treated as institutional universalisms —
 canon, sanction, jurisdiction, documented from their founding
 instruments (Chapter 2) — with the state's answer documented in
 the same register (Chapter 11): absorption of functions,
-executed differently per bloc, in the operative-but-never-
+proceeding differently per bloc, in the operative-but-never-
 invested legal form. That is the treatment Kobrin's 1998
 insight pointed toward and the literature never wrote. Second:
 the re-consolidation claimed with a mechanism rather than a
@@ -607,8 +621,11 @@ who signs the compositions.
 weight (synthesis-limited by design: the chapter inherits
 rather than re-argues, and Roderick's [BRIDGE] and closing
 passes will carry the expansion). Voice-discipline ledger
-(counted as produced): coined concept — NONE (all inherited
-and credited); vivid image — the cheap strike complex aiming
+(counted as produced): coined concept — ONE, "the over-mighty
+citizen" (§IV, entered Phase 4 Run A on the REVIEWED memo
+Revisions 3 proposal; lineage credited to Fortescue via ch05;
+serves the book-level coinage, does not compete with it); vivid
+image — the cheap strike complex aiming
 "through an ally's targeting layer" (§I; the memo's
 longbow/cannon image rendered once, plainly); aphoristic line
 — "distributed denial below, concentrated decision above"
@@ -702,9 +719,53 @@ rewritten; the superseded monasteries passage is preserved in the
 git history and its supersession was ordered by spine §8(c)'s
 CONFIRMED instruction (ii).
 
+**(2026-09-03 — Phase 4 Run A, integration. PENDING HUMAN REVIEW.)**
+Ten changes, keyed to the checks — the heaviest chapter of the pass,
+as the audit predicted ("the heaviest concentration of achieved
+register sits in ch12 §§II–IV").
+- §I (check 3, audit finding 8; sweep A6): the wager sentence now
+  separates the tiers — the mechanism's operation defended outright,
+  the outcome's shape wagered, "compelled, not… already
+  accomplished" added in §7's own words.
+- §II (check 2, A5): "The settlement… is already legible" → "The
+  pressure that compels the settlement is… already legible."
+- §III (check 2, A2): the frame recast — the settlement "can be
+  described in advance, because three of its features already exist
+  as instruments… texture before completion"; "the settlement's
+  mature legal form" → "the mature legal form a settlement of this
+  kind takes"; "its absorbed platforms" → "the platforms it
+  absorbs."
+- §IV (check 3, finding 9): the American opening marked as wager
+  ("is, on this book's wager, the most probable case"); "the five
+  moves executed haphazardly" → "running haphazardly."
+- §IV (check 3, finding 10; sweep A1): "China has substantially
+  executed the settlement already" → "China is the furthest along —
+  probably closest to Tudor norms, as this book holds on balance,
+  the settlement more nearly executed there than anywhere" — the
+  spine's rank and qualifier restored.
+- §IV (check 3, finding 11): the EU's fiscal starting position
+  aligned with spine §5 — "the tax base and the tools are present,
+  bloc-wide and deep, but the single fisc and the single executive
+  are not."
+- §IV (check 1): the over-mighty citizen entered as the chapter's
+  coinage at the twelve-case sentence, lineage credited to
+  Fortescue via ch05, per the REVIEWED memo Revisions 3 proposal;
+  footer ledger updated from "coined concept — NONE" to ONE.
+- §VI (check 2): "absorption of functions, executed differently per
+  bloc" → "proceeding differently per bloc."
+- Borderline items left standing, recorded: the licence-fee present
+  indicative inside the §IV verdict passage (governed by "the state
+  will absorb"); §V's "the pressure… has returned" (documented
+  budget lines); the Coda's echo is fixed in the Coda's own pass.
+- FLAG (check 2, for Roderick): the audit's note stands — §7's
+  England-as-latecomer casting and requirement framing would
+  resolve the whole A1–A6 family "in a single register decision";
+  the sentence-level fixes above conform the text, but that voice
+  decision is his and would finish the job.
+
 ---
 
 STATUS: REVIEWED (Roderick, 2026-08-02) — approved with revisions
 applied. The SPINE-directed insertions (Revisions 3) and the
 Revisions 5 pin corrections are REVIEWED (Roderick, 2026-09-02 — review pack); the remainder
-of the draft is reviewed.
+of the draft is reviewed. Phase 4 Run A entry PENDING HUMAN REVIEW.
