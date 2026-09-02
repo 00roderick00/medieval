@@ -27,4 +27,4 @@ comparative obligation is carried by the material they organise rather
 than a single primary polity. Nowhere in the book does an
 English-leaning argument stand on England alone.
 
-STATUS: ASSEMBLED — PENDING HUMAN REVIEW
+STATUS: ASSEMBLED — REVIEWED (Roderick, 2026-09-02 — review pack)

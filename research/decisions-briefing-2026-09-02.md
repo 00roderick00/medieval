@@ -8,6 +8,8 @@ draft may cite this file.
 
 # What you need to decide — a plain briefing
 
+> ANSWERED, 2 September 2026: all three decisions were made on the review pack; the rulings are in spine.md §8(a)–(f). This briefing is kept as the record of what was asked.
+
 *2 September 2026*
 
 This briefing explains, in ordinary language, the decisions that only you can make before the book can move forward. It defines every term as it goes. There are three real decisions, followed by a reading job, a shopping job, and one piece of writing. Nothing here is urgent in the sense of a deadline, but the machine cannot do its next round of work until the three decisions are made, because that work has to be written against your rulings.

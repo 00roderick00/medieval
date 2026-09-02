@@ -206,7 +206,7 @@ book's own proposal (spine §8(c)), not a report of enacted policy.
    shows the licence working as a control instrument inside the very
    tradition the draft sets aside. Roderick's call at renovation.
 
-STATUS: PENDING HUMAN REVIEW
+STATUS: REVIEWED (Roderick, 2026-09-02 — review pack)
 
 ---
 

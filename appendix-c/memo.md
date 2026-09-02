@@ -700,6 +700,13 @@ reconstructing the mapping.
 
 ## American sub-wager — DRAFT candidate indicators (2026-09-02) — PENDING HUMAN REVIEW
 
+> RULING (Roderick, 2026-09-02, review pack; spine §8(f)): these
+> indicators belong in the chapter about what America is likely to do
+> to consolidate, or in an appendix, depending on flow — keep the
+> research live and together in the whole area about American
+> consolidation. The indicators themselves remain DRAFT until their
+> baselines are sourced; placement is decided at the ch12 renovation.
+
 Filed by Claude/Cowork on Roderick's instruction, from spine §8(c) and
 research/overmighty-citizen-playbook.md (outside the provenance chain).
 Purpose: convert the playbook's prescriptive menu into the falsifiable

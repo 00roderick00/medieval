@@ -133,4 +133,4 @@ Pollard, Watts, and the chronicle editions) is graded per-chapter in
 each sources.md and is not duplicated here; Appendix B carries the
 comparative register; Appendix C the indicators.*
 
-STATUS: ASSEMBLED — PENDING HUMAN REVIEW
+STATUS: ASSEMBLED — REVIEWED (Roderick, 2026-09-02 — review pack)

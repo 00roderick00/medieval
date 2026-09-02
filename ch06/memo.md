@@ -804,7 +804,7 @@ Drafting of ch06/draft.md may now proceed against this reviewed memo (§7).
 ---
 
 15. **(2026-09-02 — The Economist essay at T3: the Talbot/Belloc
-    two-error symmetry for §VI. PENDING HUMAN REVIEW.)** Executed
+    two-error symmetry for §VI. REVIEWED (Roderick, 2026-09-02 — review pack).)** Executed
     against spine §8 and the 2026-09-02 session instruction; no draft
     text proposed.
     - **The device.** Draft §VI carries the seize-the-train reading of

@@ -525,9 +525,9 @@ one correction.
    to the article at page level: the exact sentences, the
    53-constables/31-hundreds quantification, and the
    sub-units/chain-of-command thesis (memo Revisions 9). Changed
-   passage PENDING HUMAN REVIEW within the otherwise reviewed draft.
+   passage REVIEWED (Roderick, 2026-09-02 — review pack) within the otherwise reviewed draft.
 
 ---
 
 STATUS: REVIEWED (Roderick, 2026-08-01) — approved with revision
-applied; Revisions 2 (Bohna upgrade) PENDING HUMAN REVIEW
+applied; Revisions 2 (Bohna upgrade) REVIEWED (Roderick, 2026-09-02 — review pack)

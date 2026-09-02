@@ -297,7 +297,7 @@ as written.
    supplies the court-regime backdrop the crisis sections use.
 
 
-- **(2026-09-02 — Fortescue credit owed. PENDING HUMAN REVIEW.)** The
+- **(2026-09-02 — Fortescue credit owed. REVIEWED (Roderick, 2026-09-02 — review pack).)** The
   phrase "over-mighty subject" predates McFarlane's inversion: Sir
   John Fortescue, *The Governance of England* (c. 1471–75), on the
   danger to a king from "ovur mighty subgiettes." The chapter credits

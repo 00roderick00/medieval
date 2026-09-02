@@ -610,4 +610,4 @@ platforms' functions; it cannot rule their creed.
 3. Bringhurst and Childs — rows entered (probe support for the
    Standard Oil worked example and the proration record).
 
-STATUS: PENDING HUMAN REVIEW
+STATUS: REVIEWED (Roderick, 2026-09-02 — review pack)

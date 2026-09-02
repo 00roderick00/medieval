@@ -193,12 +193,31 @@ the aides/taille/gabelle architecture, the élus and généralités, the
 Praguerie as the settlement's civil war. This becomes a dedicated
 research job before ch10 is renovated.
 
+RULING, 2 September 2026 (on the fiscal-settlement probe,
+ch10/fiscal-settlement.md, reviewed): the hinge is stated as "the
+settlement of 1439 to 1446," not "the taille of 1439" — Contamine
+carries no taille grant at Orléans; permanence was made in practice
+(the annual ordinances, the 25 April 1446 "jusqu'à la conclusion de la
+paix" formula, the consolidation of c. 1450). And the ratchet's object
+is named: what the guns of 1449–53 made irreversible was not the
+crown's intention, already fixed by 1445–46, but everyone else's
+ability to reverse it — the assemblies' and the magnates'. No Estates
+General met again until 1484, and when it did the machine survived
+it. Wherever "the taille of 1439" survives in a memo or draft it is
+period shorthand for that process and is to be rewritten at
+renovation. (a) otherwise stands as ruled on 9 August: I agree with
+it.
+
 ### (b) The settlement: hybrid, stated per bloc
 The predicted outcome is a hybrid settlement, stated explicitly per
 bloc — the Sforza thread (operative but never invested) is its legal
 form. Which side of the absorption contest (state absorbs stack vs.
 stack absorbs state) the evidence favours is specified bloc by bloc,
 and the Bratton convergence is engaged by name.
+
+RULING, 2 September 2026: hybrid to some degree, per bloc — but for
+the United States the verdict is declared: the state will absorb the
+stack. The American hybrid is the form; the direction is absorption.
 
 ### (c) America: the four routes stated, my verdict declared
 The book states all four readings of the American case as live routes
@@ -241,6 +260,21 @@ military-technology stack. Standard Oil remains the worked example
 (ch12/standard-oil-offswitch.md); every other case enters only
 through its own T1 primary, now in corpus.
 
+CONFIRMED, 2 September 2026 (on the two ch12 probes, reviewed): this
+is a proper statement of my view — consolidation will happen; power,
+the off-switch, will migrate to the nation state. Three instructions
+for the renovation. (i) The proof case is stated WITH THE LAG: wealth
+and power decoupled in one act in 1911; the public off-switch was
+built over a generation (Hepburn 1906 before it; proration,
+interdiction, licence-and-block after it) by regulation, not
+antitrust — which rhymes with the French settlement of 1439–46. (ii)
+The "monasteries, not Standard Oil" sentence is superseded by a NEW
+PASSAGE explaining that the American method is regulation of the
+switch rather than seizure of the property: title left, discretion
+severed. (iii) The chapter looks at the broader American cases, not
+Standard Oil alone — the twelve-case research is done
+(ch12/american-pattern.md, reviewed) and is to be referred to.
+
 [GOVERNS: the Phase 3 renovation of ch06, ch10, ch11 and ch12; the
 two research probes (French fiscal settlement; Standard Oil
 off-switch); Appendix C's rebuild into scored sub-wagers. Consistent
@@ -265,3 +299,68 @@ layers, not as their base.
 [GOVERNS: ch12 §IV and the mirror table; ch10 §VIII (the
 civilian-scale reserve stated as a disanalogy, not a new mechanism);
 Appendix C's American sub-wager indicators; any gloss to §4.]
+
+### (e) Chapter 6: the Normandy council's six upgrades — ruled
+RULING, 2 September 2026 (on ch06/normandy-council-assessment.md,
+reviewed; the six as the council numbered them):
+1. YES — two different kinds of speed (campaign speed, political and
+   fiscal in cause; siege speed, the guns' own). It works well.
+2. YES — the délai de secours is the chapter's named central device.
+3. YES — quote Somerset's dispatch and Worcester as the English
+   post-mortem (and Blondel's line with its Breton context), BUT pair
+   them with the work already done on how contemporaries misread why
+   they lost, and how contemporary enquiries up to the modern era lack
+   the insight of time (research/perplexity-contemporary-misdiagnosis.md
+   and its sources).
+4. ACKNOWLEDGE the dissenting voices (Howard; Basin's temerity) — but
+   my reading is that Talbot understood the need to change the
+   dynamics on the ground and went for a rash attack against the
+   artillery itself. He failed, so we do not have his thoughts; but he
+   had watched the clock of warfare change under artillery, and it is
+   reasonable to assume that changed his own calculus. There is no
+   contemporary evidence for this conjecture — call it out as
+   conjecture — but it is always too easy to say commanders are vain
+   and impetuous when there is a reason a commander would act quickly
+   to knock out the guns. Two further things for §VI: it is
+   interesting that one of the Bureau brothers is present at the
+   decisive moment — a forward-deployed engineer; and considering the
+   individual protagonists' minds and motivations is useful in this
+   chapter. Talbot's death is ultimately illustrative of attacking the
+   weapon and not the process.
+5. YES — Gascony 1451–53 stays and is sharpened: it shows it was not
+   merely a collapse of morale that lost England its French
+   possessions, because the population invited the English back; it
+   is artillery that is fundamentally decisive. Decisive force is
+   decisive. (The council's tax-trigger embellishment is not adopted;
+   Vale's dissent is recorded.)
+6. YES — the source-independence caution, AND the reason the
+   defeated could not give the account: they did not understand the
+   hidden forces behind the artillery — the fiscal apparatus — whereas
+   the French had understood the development of the fiscal apparatus.
+   The parallel to draw: losing Russian troops today do not really
+   understand the full-spectrum capabilities used against them (or
+   another example of the same kind).
+
+### (f) Placements ruled, 2 September 2026
+Bratton (research/bratton-assessment.md §5): YES ch12 §IV and the
+per-bloc hybrid; YES ch11/coda (Cloud feudalism versus Empire as his
+binary, his refusal to choose the space the wager fills); YES ch10
+§VIII (the concentration passages). NO ch02; NO ch01/Appendix A; NO
+Appendix C.
+The Economist essay (research/economist-transparency-placements.md):
+YES 1 (the diffusion objection — projectile→apparatus migration;
+tag as the book's own); YES 2 (Epic Fury as the living Depreter
+case); YES 3 (ch06 §VI, Talbot and the Belloc syndrome — Talbot's
+death illustrative of attacking the weapon, not the process); NO 4
+(the sceptics-concede arc compressed — do not add); YES 5 (the
+nuclear ceiling as a confessed limit); YES 6 (attrition-belt
+production as fiscal-mobilisation evidence — keep).
+Appendix C, the American sub-wager (CA-1..8, appendix-c/memo.md):
+these belong in the chapter about what America is likely to do to
+consolidate, or in an appendix, depending on flow — keep the research
+live and together in the whole area about American consolidation.
+Krejsa & Benich: per (d).
+
+[GOVERNS: the Phase 3 renovation. Every PENDING entry the review pack
+of 2 September carried and I marked reviewed is now REVIEWED in its
+file; the rest stay PENDING.]

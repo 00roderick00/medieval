@@ -478,9 +478,9 @@ beyond the reviewed memo.*
 1. **(2026-08-04.)** §II's chamber-finance passage upgraded from the
    hedged tertiary arc to Wolffe's table at p. 237 (memo Revisions 1);
    the Yorkist-continuity sentence added verbatim. Changed passage
-   PENDING HUMAN REVIEW within the otherwise reviewed draft.
+   REVIEWED (Roderick, 2026-09-02 — review pack) within the otherwise reviewed draft.
 
 ---
 
 STATUS: REVIEWED (Roderick, 2026-08-02) — approved as drafted;
-Revisions 1 (Wolffe upgrade) PENDING HUMAN REVIEW
+Revisions 1 (Wolffe upgrade) REVIEWED (Roderick, 2026-09-02 — review pack)

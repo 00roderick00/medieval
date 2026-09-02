@@ -59,4 +59,4 @@ Williams, Slaughter chs. 5–6, Kaplan, Wæver, Khanna) is indexed in
 this appendix's folder; Appendix A grades it and records what has
 since been superseded by first-hand retrievals.
 
-STATUS: ASSEMBLED — PENDING HUMAN REVIEW
+STATUS: ASSEMBLED — REVIEWED (Roderick, 2026-09-02 — review pack)

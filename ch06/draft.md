@@ -1069,7 +1069,7 @@ per §7; [BRIDGE] and [TRANS. CLAUDE] passes remain his.
    note recording the change); the Rouen paragraph now carries the
    scene with both chronicle citations. The census point (storming
    tried, failed, composition followed) survives intact at Rouen.
-   Changed passages PENDING HUMAN REVIEW.
+   Changed passages REVIEWED (Roderick, 2026-09-02 — review pack).
 
 ---
 
@@ -1082,7 +1082,7 @@ per §7; [BRIDGE] and [TRANS. CLAUDE] passes remain his.
    delivered file is ch. 1 + front matter only; the hostage-oath
    verification the seize-the-train passage awaits is BLOCKED
    pending the remaining chapters (memo Revisions 14). Changed
-   passages PENDING HUMAN REVIEW.
+   passages REVIEWED (Roderick, 2026-09-02 — review pack).
 
 ---
 

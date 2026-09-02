@@ -379,4 +379,4 @@ reading be tested against the record.
    généralités, the Estates' politics, the permanence question.
 3. A T2 carrier for the Praguerie's military course (Cusset).
 
-STATUS: PENDING HUMAN REVIEW
+STATUS: REVIEWED (Roderick, 2026-09-02 — review pack)

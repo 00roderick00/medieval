@@ -305,7 +305,7 @@ parse and may later sharpen §7's Castillon return.
 ## Revisions (post-review)
 
 1. **(2026-09-02 — The Economist essay at T3: the nuclear ceiling as a
-   confessed limit. PENDING HUMAN REVIEW.)** Executed against spine §8
+   confessed limit. REVIEWED (Roderick, 2026-09-02 — review pack).)** Executed against spine §8
    and the 2026-09-02 session instruction; no draft text proposed.
    - **The finding.** The draft's §V nuclear-overhang paragraph argues
      the consolidation mechanism runs *underneath* the overhang, with
@@ -339,7 +339,7 @@ parse and may later sharpen §7's Castillon return.
 
 2. **(2026-09-02 — the Standard Oil off-switch probe executed
    (ch12/standard-oil-offswitch.md), per spine §8(c)'s RESEARCH note.
-   PENDING HUMAN REVIEW.)** The 1911 opinion is now in corpus at T1
+   REVIEWED (Roderick, 2026-09-02 — review pack).)** The 1911 opinion is now in corpus at T1
    (Cornell LII text plus the official U.S. Reports PDF with the
    decree footnote), with the off-switch migration documented from
    open primaries (Hepburn 1906; Texas 1917; the RRC proration
@@ -375,7 +375,7 @@ parse and may later sharpen §7's Castillon return.
 
 3. **(2026-09-02 — the over-mighty citizen: the American idiom of
    consolidation, from research/overmighty-citizen-playbook.md.
-   PENDING HUMAN REVIEW.)** Filed by Claude/Cowork on Roderick's
+   REVIEWED (Roderick, 2026-09-02 — review pack).)** Filed by Claude/Cowork on Roderick's
    instruction; no draft text proposed. Roderick's proposition, stated
    for the record: for the USA to regain sovereign power over its
    tech stack, and therefore to compete, it must deploy its
@@ -430,7 +430,7 @@ parse and may later sharpen §7's Castillon return.
      stands for Roderick's ruling.
 
 4. **(2026-09-02 — RULING: the American pattern, not the proof case.
-   PENDING HUMAN REVIEW of the consequences, not of the ruling.)**
+   REVIEWED (Roderick, 2026-09-02 — review pack) of the consequences, not of the ruling.)**
    Roderick's instruction, recorded verbatim in substance: the whole
    over-mighty citizen research document is to be used in place of
    looking at Standard Oil alone; it provides a much more
@@ -485,7 +485,7 @@ parse and may later sharpen §7's Castillon return.
 
 5. **(2026-09-02 — the American-pattern probe executed
    (ch12/american-pattern.md), per Revisions 4's commission and spine
-   §8(c)'s RULING. PENDING HUMAN REVIEW.)** Twelve cases run against
+   §8(c)'s RULING. REVIEWED (Roderick, 2026-09-02 — review pack).)** Twelve cases run against
    their T1 primaries in corpus; eight established, four bracketed
    ([UNVERIFIED — RETRIEVAL]: the Fed leg of the Money Trust;
    PUHCA/Insull; the packers; RCA). What the verified pattern

@@ -44,7 +44,7 @@ The **popular-synthesis marker** of the neomedieval diagnosis — a mass-audienc
 
 The spine of the neomedievalism literature and its critics are gated or in-print monographs, to be integrated with page-level citations once their PDFs appear per CLAUDE.md §4:
 
-- **Hedley Bull, *The Anarchical Society* (1977), ch. 10** — the founding "new mediaevalism" hypothesis and the five sub-trends; the book's starting point and Bull's own skepticism.
+- **Hedley Bull, *The Anarchical Society* (1977), ch. 10** — [CORRECTION, Roderick 2026-09-02: this IS in corpus (4th ed., read first-hand; see appendix-a/appendix.md §I); it should not sit under "pending integration" — move at the next memo pass] — the founding "new mediaevalism" hypothesis and the five sub-trends; the book's starting point and Bull's own skepticism.
 - **Jörg Friedrichs, "The Meaning of New Medievalism," *EJIR* 7:4 (2001)** (or the polished 2007 chapter) — the Church/Empire duality that the book institutionalises; and Friedrichs 2004, "The Neomedieval Renaissance," the fullest literature review.
 - **Philip G. Cerny, "Neomedievalism, Civil War and the New Security Dilemma," *Civil Wars* 1:1 (1998)** — the **six**-characteristics original behind the bundled 2005 companion.
 - **Jan Zielonka, *Europe as Empire* (2006)** — the EU as neomedieval empire, paired with Wæver.
@@ -55,4 +55,4 @@ See `reading-list.md` for access routes and `corpus/bundled/index.md` for the fu
 
 ---
 
-STATUS: PENDING HUMAN REVIEW
+STATUS: REVIEWED (Roderick, 2026-09-02 — review pack) — with the Bull correction above outstanding

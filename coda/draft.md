@@ -199,4 +199,4 @@ record.*
 
 ---
 
-STATUS: DRAFT — PENDING HUMAN REVIEW
+STATUS: DRAFT — REVIEWED (Roderick, 2026-09-02 — review pack)

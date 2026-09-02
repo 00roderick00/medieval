@@ -8,7 +8,7 @@ absorbed into its body or carried forward as Revisions 1.)*
 ## Pre-memo holding notes
 
 1. **(2026-09-02 — the nuclear-ceiling question, inherited from ch12.
-   PENDING HUMAN REVIEW.)** Executed against spine §8 and the
+   REVIEWED (Roderick, 2026-09-02 — review pack).)** Executed against spine §8 and the
    2026-09-02 session instruction; no draft text proposed.
    - The Economist essay of 28 May 2026 (in repo; entered at T3 in
      ch06/ch10/ch12 sources.md with the tier caveat) closes on the
@@ -33,4 +33,4 @@ absorbed into its body or carried forward as Revisions 1.)*
 
 ---
 
-STATUS: PENDING HUMAN REVIEW
+STATUS: REVIEWED (Roderick, 2026-09-02 — review pack)

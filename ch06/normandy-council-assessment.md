@@ -299,3 +299,23 @@ then.
 
 Nothing above is draft text; every adoption runs through a memo or
 critiques Revisions entry, PENDING HUMAN REVIEW, in the normal way.
+
+---
+
+## RULINGS (Roderick, 2 September 2026 — review pack)
+
+Entered verbatim in substance at spine.md §8(e). 1 YES. 2 YES. 3 YES,
+paired with the contemporary-misdiagnosis work (research/
+perplexity-contemporary-misdiagnosis.md). 4 ACKNOWLEDGE the dissent;
+Roderick's own reading — Talbot went for the guns to change the
+dynamics on the ground, conjecture stated as conjecture; a Bureau
+brother as forward-deployed engineer; protagonists' minds and
+motivations worth considering; Talbot's death illustrates attacking
+the weapon, not the process. 5 YES, sharpened: not morale but
+artillery was decisive — "decisive force is decisive"; tax trigger
+not adopted. 6 YES, with the reason the defeated could not give the
+account (they did not see the fiscal apparatus behind the guns; the
+French did) and the modern parallel (Russian troops and full-spectrum
+capabilities).
+
+STATUS: REVIEWED (Roderick, 2026-09-02 — review pack); rulings above govern the ch06 renovation.

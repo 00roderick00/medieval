@@ -916,7 +916,7 @@ Drafting of ch10/draft.md may now proceed against this reviewed memo (§7).
 
 15. **(2026-09-02 — The Economist essay integrated at T3; the
     diffusion objection gains its modern face and its fifteenth-century
-    parallel. PENDING HUMAN REVIEW.)** Executed against spine §8 and
+    parallel. REVIEWED (Roderick, 2026-09-02 — review pack).)** Executed against spine §8 and
     the 2026-09-02 session instruction; no draft text proposed.
     - **The modern claim, from the essay (T3, sources.md 2026-09-02
       entry).** The essay's own caution is the operative sentence: "To
@@ -965,7 +965,7 @@ Drafting of ch10/draft.md may now proceed against this reviewed memo (§7).
       supplies §7's modern half of the layer argument only.
 
 16. **(2026-09-02 — Epic Fury entered beside Burgundy 1477 as the
-    contemporary Depreter case. PENDING HUMAN REVIEW.)** Executed
+    contemporary Depreter case. REVIEWED (Roderick, 2026-09-02 — review pack).)** Executed
     against spine §8; no draft text proposed.
     - **The claim.** §5a's deeper lesson (apparatus without the
       institution-compelling coupling produces no consolidation) has
@@ -999,7 +999,7 @@ Drafting of ch10/draft.md may now proceed against this reviewed memo (§7).
 
 17. **(2026-09-02 — the fiscal-settlement probe executed
     (ch10/fiscal-settlement.md), per spine §8(a)'s RESEARCH ORDER.
-    PENDING HUMAN REVIEW.)** Contamine Tomes 1–2 extracted in full on
+    REVIEWED (Roderick, 2026-09-02 — review pack).)** Contamine Tomes 1–2 extracted in full on
     the settlement; the probe carries the verbatim record and the
     dated fiscal-vs-artillery chronology. What it establishes, and
     where it bears on this memo's causal sequence:
