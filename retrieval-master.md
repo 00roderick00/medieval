@@ -659,6 +659,22 @@ Everything below is new to the ledger.
 | Bloch, *L'Étrange Défaite* (1946; Eng. *Strange Defeat*) | coda / ch12 — the modern control where the correct systemic answer was available in real time and rejected for political reasons; "essentially an intellectual victory" | LOW | Open (French text online) / cheap pb |
 | Searle & Zhang on Qing perceptions of British force, Opium War | reserve sidebar only | LOW | T&F — verify page refs against version of record per the report's own caution |
 
+### Normandy council assessment additions (2026-09-02, Job 4)
+
+| Work | Needed for | Priority | Route / status |
+|---|---|---|---|
+| Worcester, *The Boke of Noblesse* (ed. Nichols, Roxburghe Club 1860; Gutenberg #33953) | ch06 §VI / counter-argument section — the English finance-first post-mortem: Nichols p. 74 (wanhope / "no trust of hastie socoure"; "penurie of money, and lak of provision of artillerie"); pp. 29–30 ("defaute of exercising of armes… coloure of trewes"). CAUTION: the "Defectus pecuniae" rubric (pp. 33–34) glosses the King John 1203 exemplum, not 1449–50 | — | **IN REPO 2026-09-02** (`corpus/retrieved/Worcester-Boke-of-Noblesse-Gutenberg.txt`, Nichols pagination preserved as `{n}` markers; passages verified). Enter in ch06/sources.md at T1 on integration |
+| Michael Howard, *War in European History* (OUP 1976) | ch06 §V/§VI — the Castillon dissent ("in no sense a victory for field artillery"): the sentence must be pinned to the edition before the dissent can be staged; do NOT cite from the council summary | MED | BUY (cheap pb) / IA borrow likely |
+| Michaud-Fréjaville on the *Recouvrement* tradition's interdependence (exact article to identify); Contamine, "Un regard sur le Recouvrement de Normendie" | ch06 apparatus — the source-independence caution (Recouvrement/Chartier/Berry Herald/Escouchy as one victory tradition); attribution unverifiable until the article is in hand | MED | Persée / OpenEdition — route to verify; identify the exact reference first |
+| Basin, *Histoire de Charles VII* (ed. Samaran; open Quicherat scans) | ch06 — already a wanted row (2026-08-04); now ALSO needed for the Castillon temerity/divine-vengeance reading at first hand (currently only via Pollard) | MED→**HIGH** | as the 2026-08-04 row: Samaran gated; Quicherat scans open — human pull |
+
+Also noted in ch06/normandy-council-assessment.md: ch06/sources.md
+lacks an entry for Stevenson's *Narratives of the Expulsion*
+(`narrativesofexpu00stev.pdf`, in repo) despite ~15 draft citations —
+housekeeping for the next ch06 sources pass; and Vale TRHS 1969 (in
+repo) *contests* the council's tax-trigger reading of Bordeaux 1452
+(see assessment §5).
+
 ### Economist essay (16 August)
 
 | Work | Needed for | Priority | Route / status |
