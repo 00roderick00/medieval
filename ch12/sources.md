@@ -126,3 +126,25 @@ above (CLAUDE.md §4). URLs in the session research record.*
   (`R48887.1.pdf`) — mirror citation retired, cost-figure attribution
   corrected (NYT-reported Pentagon briefings; partial; Operation Epic
   Fury named).
+
+## Added 2026-09-02 — The Economist essay (retrieved and read)
+
+- **T3 — The Economist, Essay: "Easier to start, harder to win"** (web
+  headline "The dangerous delusion of modern warfare"; print headline
+  "The crucible of transparency"), 28 May 2026, by the departing
+  defence editor. IN REPO: `corpus/retrieved/The dangerous delusion of
+  modern warfare _ The Economist.pdf` (web print, 17 pp.; essay text
+  pp. 1–14). Read in full 2026-09-02. **Tier caveat (per CLAUDE.md
+  §5): quality long-form journalism — supporting colour and
+  contemporary reporting only, never sole support for a structural
+  claim.** Its Epic Fury BDA figures (13,000 targets struck; 75% of
+  Iran's pre-war missile launchers and 70% of its cruise and
+  ballistic missiles surviving; 400 targets/day) POST-DATE CRS R48887
+  (26 March 2026) and are not in it — every such figure is [RE-CHECK
+  AT PRESS] against a later CRS update or equivalent primary; R48887
+  remains the primary for the war's onset, stated objectives, and
+  the Hormuz interdiction. NEEDED FOR: the nuclear-ceiling question
+  (the Taiwan passage: attacking the Chinese war machine's
+  "connective tissue" would mean "lightning-fast attacks on many of
+  the systems that China also relies on to control its nuclear
+  forces"). Integration: memo Revisions 1 (post-review).

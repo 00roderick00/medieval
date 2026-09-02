@@ -302,4 +302,41 @@ parse and may later sharpen §7's Castillon return.
 
 ---
 
+## Revisions (post-review)
+
+1. **(2026-09-02 — The Economist essay at T3: the nuclear ceiling as a
+   confessed limit. PENDING HUMAN REVIEW.)** Executed against spine §8
+   and the 2026-09-02 session instruction; no draft text proposed.
+   - **The finding.** The draft's §V nuclear-overhang paragraph argues
+     the consolidation mechanism runs *underneath* the overhang, with
+     Russia as the evidence (spine §5). The essay (sources.md
+     2026-09-02 entry) adds a sharper, narrower point the paragraph
+     does not yet carry: in a Taiwan war, America's plan to attack
+     the Chinese war machine's "connective tissue" "would involve
+     lightning-fast attacks on many of the systems that China also
+     relies on to control its nuclear forces. The risks of
+     miscalculation are huge." The red lines exist but "people are
+     not sure where they lie" (the October 2022 50-50 assessment as
+     the one data point). The decisive stack is not merely capped by
+     the overhang from above — its own hardware is entangled with
+     nuclear command and control.
+   - **The question, put as a question.** If the full transparency
+     war between blocs is unfightable at the top layer, the blocs
+     may consolidate and never test each other: a permanent, armed,
+     mutually observed pause rather than a Bosworth. Is that a Tudor
+     settlement or something without precedent? The chapter should
+     confess the limit rather than resolve it; the coda inherits the
+     question (coda/memo.md holding note, same date). Consistent
+     with spine §5 (nuclear outside the frame; Russia as the
+     demonstration case) and with the existing §V paragraph — this
+     entry sharpens, it does not replace.
+   - **Flag for Roderick (not resolved here).** The entanglement
+     point sits in tension with spine §5's clean "nuclear weapons
+     sit outside the frame": if attacking the decisive stack means
+     attacking nuclear C2, the frame's boundary runs through the
+     stack itself. Registered as a tension for his ruling, per the
+     2026-09-02 instruction to flag rather than resolve.
+
+---
+
 STATUS: REVIEWED (Roderick, 2026-07-31 — read in full, nothing to add; no revisions required)

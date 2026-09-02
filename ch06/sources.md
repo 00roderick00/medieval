@@ -238,3 +238,30 @@ quotation in a browser before print.*
   Normandy–Guyenne theatre), and their agglomeration effect turns
   on after 1600 — never cite as evidence about 1449–53. Full
   assessment in retrieval-master (2026-08-06 entry).
+
+## Added 2026-09-02 — The Economist essay (retrieved and read)
+
+- **T3 — The Economist, Essay: "Easier to start, harder to win"** (web
+  headline "The dangerous delusion of modern warfare"; print headline
+  "The crucible of transparency"), 28 May 2026, by the departing
+  defence editor. IN REPO: `corpus/retrieved/The dangerous delusion of
+  modern warfare _ The Economist.pdf` (web print, 17 pp.; essay text
+  pp. 1–14). Read in full 2026-09-02. **Tier caveat (per CLAUDE.md
+  §5): quality long-form journalism — supporting colour and
+  contemporary reporting only, never sole support for a structural
+  claim; every figure re-sourced to a primary before it carries
+  weight.** NEEDED FOR: §VI's two-error symmetry — the Belloc
+  syndrome (Gady's coinage in the essay; the Maxim-gun couplet from
+  Belloc's "The Modern Traveller," 1898) and the knock-out-blow
+  genealogy (Bush 2003 "effectively out of business"; Nicholson 2017
+  "Taliban cannot win on the battlefield") as the overestimation
+  error paired against Talbot's underestimation. Integration: memo
+  Revisions 15.
+- **RETRIEVAL LIST addition — Lawrence Freedman, *The Future of War:
+  A History* (2017).** NEEDED FOR: the knock-out-blow genealogy at
+  T2 — the essay's attribution ("some military minds have a
+  long-standing attachment to the idea of the 'knock-out blow'") is
+  the T3 pointer; the structural claim must rest on Freedman's text
+  once retrieved. Until then every knock-out-blow genealogy claim is
+  **[UNVERIFIED — RETRIEVAL: Freedman 2017]**. Route: BUY / IA
+  borrow (retrieval-master, 2026-09-02 section).

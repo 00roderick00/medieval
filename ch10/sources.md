@@ -273,3 +273,24 @@ accordingly.*
   material sits at T1 ~pp. 122–23 and 296–99 plus the annexes (the
   memos' earlier assumption that it occupied T2 chapters was wrong;
   T2 = chs. XV–XVI on the ordonnance soldiery + Annexes I–XIII).
+
+## Added 2026-09-02 — The Economist essay (retrieved and read)
+
+- **T3 — The Economist, Essay: "Easier to start, harder to win"** (web
+  headline "The dangerous delusion of modern warfare"; print headline
+  "The crucible of transparency"), 28 May 2026, by the departing
+  defence editor. IN REPO: `corpus/retrieved/The dangerous delusion of
+  modern warfare _ The Economist.pdf` (web print, 17 pp.; essay text
+  pp. 1–14). Read in full 2026-09-02. **Tier caveat (per CLAUDE.md
+  §5): quality long-form journalism — supporting colour and
+  contemporary reporting only, never sole support for a structural
+  claim; every figure it carries (13,000 Epic Fury targets; 75% of
+  Iran's pre-war missile launchers and 70% of its cruise and ballistic
+  missiles surviving; 400 targets/day, 5,000/day projected; 270
+  applications on 20 systems; sensor-to-shooter down 33%) must be
+  re-sourced to a primary before it carries weight — [RE-CHECK AT
+  PRESS] wherever no primary yet exists.** NEEDED FOR: §7's modern
+  parallel (capital-intensity migration from projectile to
+  sensing-and-deciding apparatus) and §5a's Depreter refinement (Epic
+  Fury as the contemporary control case). Integration: memo Revisions
+  15–16.

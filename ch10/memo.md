@@ -914,6 +914,89 @@ Drafting of ch10/draft.md may now proceed against this reviewed memo (§7).
       correction (the drafts' Contamine cites already point at this
       edition's pagination).
 
+15. **(2026-09-02 — The Economist essay integrated at T3; the
+    diffusion objection gains its modern face and its fifteenth-century
+    parallel. PENDING HUMAN REVIEW.)** Executed against spine §8 and
+    the 2026-09-02 session instruction; no draft text proposed.
+    - **The modern claim, from the essay (T3, sources.md 2026-09-02
+      entry).** The essay's own caution is the operative sentence: "To
+      attribute to weapons the advantages that accrue to the systems
+      which use them best has misled military minds in the past. It
+      could do so again." Its reporting locates decisive capacity not
+      in the $3,000 FPV (consumer-electronics supply chains; Hizbullah
+      adoption; "new generations of technology can rise and fall
+      without the lines moving more than a few metres") but in the
+      connective tissue: "more and better sensors; precision
+      firepower; and networks that convey actionable data from the
+      first to the targeting systems of the second" — satellite
+      oversight, Maven-class targeting (400 targets/day in Epic Fury;
+      5,000/day projected with frontier-model integration, via Manson
+      — T3 carrier), encryptors procured because data outran networks,
+      sensor-to-shooter time down 33%. All figures [RE-CHECK AT
+      PRESS]; none may carry structural weight at T3.
+    - **Where it lands in this memo.** §7's four-layer close gains its
+      analytical statement: capital intensity has migrated from the
+      projectile to the sensing-and-deciding apparatus. Diffusion at
+      the tactical layer and consolidation at the systemic layer are
+      simultaneous, not contradictory — the diffusion objection
+      (cheap drones invert the mechanism) is answered by layer
+      separation, which is also the modern face of spine §8(a)'s
+      ratchet. **[BOOK'S ARGUMENT]** for the synthesis; the essay
+      supplies colour and dated reporting only.
+    - **The fifteenth-century parallel, located in repo.** Cheap
+      portable firearms diffused widely *under* the sovereign
+      siege-train monopoly, and contemporaries priced both layers
+      correctly: (i) Contamine 1972, T1 — after the 1466–67 Capdorat
+      reform the francs-archers admitted couleuvriniers ("Timidement,
+      les armes à feu portatives s'introduisaient dans les bandes
+      d'infanterie"; Lyon 2 of 30; Troyes 1476, 2 of 42) [OCR t.1 ll.
+      18655–64; print-page pin to confirm at integration]; (ii) the
+      Franco-Swiss treaty of 26 October 1474: the Cantons' 6,000 men
+      to come one third with pikes, one third with **couleuvrines à
+      main**, one third with crossbows (Bolla to Milan, 3 February
+      1475) [OCR t.1 ll. 18725–35; print-page pin to confirm] —
+      hand-firearms broadly diffused among the very infantry that
+      beat Burgundy; (iii) DeVries 1998 p. 138 (in repo): Charles the
+      Bold's culverins and "haquebusses" "without number." None of
+      this touched the siege train's fiscal threshold (§3's 1442
+      line). **The Hussite hand-gun precedent is NOT in repo —
+      [UNVERIFIED — RETRIEVAL] before any Hussite sentence.**
+    - **Causal-sequence note.** Nothing here alters §§1–3; the entry
+      supplies §7's modern half of the layer argument only.
+
+16. **(2026-09-02 — Epic Fury entered beside Burgundy 1477 as the
+    contemporary Depreter case. PENDING HUMAN REVIEW.)** Executed
+    against spine §8; no draft text proposed.
+    - **The claim.** §5a's deeper lesson (apparatus without the
+      institution-compelling coupling produces no consolidation) has
+      a Depreter-form contemporary control: the most exquisite strike
+      apparatus in history, run at full transparency against Iran,
+      produced strategic stalemate where the political centre could
+      not specify what the apparatus was for. The essay: "to the
+      extent that they were ever defined, President Donald Trump's
+      objectives in that war have not been met"; Iran retains "75% of
+      its pre-war missile launchers and 70% of its cruise and
+      ballistic missiles" after 13,000 targets struck. Apparatus is
+      necessary, never sufficient — the anti-determinism inoculation
+      of §5a, in the present tense.
+    - **Sourcing discipline.** CRS R48887 (in repo, `R48887.1.pdf`,
+      26 March 2026) is the primary for: onset (28 February 2026),
+      the stated objectives (destroying the ballistic-missile arsenal
+      and programme, the navy, terror-group support, nuclear
+      acquisition), the Hormuz interdiction, and the
+      objectives-unmet frame ("it remains unclear whether… key
+      threats… have been eliminated"). The Economist's BDA figures
+      (13,000; 75%; 70%; 400/day) POST-DATE R48887 and are **not**
+      tieable to it — each is **[RE-CHECK AT PRESS]** against a later
+      CRS update or equivalent primary. No figure enters a draft on
+      the essay's authority alone.
+    - **Disanalogy, per CLAUDE.md §6.** Burgundy 1477 ended in the
+      extinction of the polity; Epic Fury ends in stalemate, not
+      Nancy. The case demonstrates non-sufficiency of apparatus, not
+      state death — and Iran is not Lorraine: the coupling that
+      failed is between apparatus and war aims, not between apparatus
+      and fisc. State the limits or the parallel overclaims.
+
 ---
 
 STATUS: REVIEWED (Roderick, 2026-07-23) — cleared for drafting

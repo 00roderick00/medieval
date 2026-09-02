@@ -803,4 +803,43 @@ Drafting of ch06/draft.md may now proceed against this reviewed memo (§7).
 
 ---
 
+15. **(2026-09-02 — The Economist essay at T3: the Talbot/Belloc
+    two-error symmetry for §VI. PENDING HUMAN REVIEW.)** Executed
+    against spine §8 and the 2026-09-02 session instruction; no draft
+    text proposed.
+    - **The device.** Draft §VI carries the seize-the-train reading of
+      Talbot's death — the error of *underestimating* the apparatus
+      behind the guns. The essay (sources.md 2026-09-02 entry)
+      supplies the mirror error: the "Belloc syndrome" (Gady's
+      coinage in the essay) — "the belief that a one-sided
+      application of brute force in its most modern and efficient
+      form will always prove decisive" — anchored in the Maxim-gun
+      couplet from Belloc's "The Modern Traveller" (1898) and William
+      Blood, "abandoned by those his gunnery protected"; and the
+      knock-out-blow genealogy: Bush 2003 (Taliban "effectively out
+      of business"), Nicholson 2017 ("Taliban cannot win on the
+      battlefield" — "(Reader, they won.)"), a 5,000-targets-a-day
+      pipeline projected for a war whose aims were never defined.
+      Talbot underestimated the system behind the weapon; the
+      knock-out-blow prophets overestimate the weapon and miss the
+      system. Both mistake the weapon for the system — the same error
+      with the sign reversed, five hundred years apart. **[BOOK'S
+      ARGUMENT]** for the symmetry; the essay is colour and
+      genealogy-pointer only.
+    - **Sourcing discipline.** The genealogy's T2 anchor is Freedman,
+      *The Future of War* (2017) — now on this chapter's RETRIEVAL
+      LIST and retrieval-master. Until it is in repo, every
+      knock-out-blow genealogy claim is **[UNVERIFIED — RETRIEVAL:
+      Freedman 2017]**; the essay's attribution is a T3 pointer, not
+      a source. The Belloc couplet itself is public-domain primary
+      (T1 when quoted from the 1898 text; pin the edition before any
+      draft use).
+    - **Placement note.** §VI only, as a section device beside the
+      existing Castillon material; interacts with Revisions 14's
+      Basin-via-Pollard temerity passage (the contemporary
+      moral-failure reading as a third mislocation of the cause). The
+      analogy joint remains [BRIDGE] — Roderick's to set.
+
+---
+
 STATUS: REVIEWED (Roderick, 2026-07-22) — cleared for drafting
