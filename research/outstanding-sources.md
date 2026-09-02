@@ -14,9 +14,9 @@ when any item below lands; regenerate this file from it rather than
 editing the two separately.
 -->
 
-# Outstanding sources — the reconciled list, 2 September 2026
+# Outstanding sources — the reconciled list, 2 September 2026 (updated after the second-pass pulls)
 
-In repo and integrated (not listed): Contamine 1972 (both tomes), Contamine 1964, Curry "Guns and Goddams", Cerny 1998, Friedrichs 2001, Watts chs. 5–6, Bull (4th ed.), Wolffe 1964, Bohna 2003, Pollard (monograph, chs. 1 read; digest), Beaucourt IV–V, Escouchy, Chartier t. II, Stevenson (Rolls Series, vols. I and II.ii; *Narratives of the Expulsion*), Vale TRHS 1969, Kriehn 1892, Perroy 1943, Depreter 2011 (article), Rogers 1993, DeVries 1998, Mangini & Petroff, Worcester *Boke of Noblesse*, Ibn Iyas (Salmon 1921), Bloch *L'Étrange Défaite*, Fortescue (Plummer 1885, OCR text), Bratton 2015 (partial scan) and 2026, the Economist essay (28 May 2026), Norris & Inglehart ch. 1, Pezzolo, the AHR 2002 print forum, Keen's review of Vale, the Cambridge style guide, and the American primaries retrieved 2 September (ICA, Clayton, FTC Act, Banking Act 1933, HSR, Telecom Act 1996, *Paramount*, *DuPont–GM*, *NetChoice*, *Alcoa*, AT&T MFJ, *Microsoft* 2001 and Final Judgment 2002, the Google search and ad-tech filings, EO 14148, S.1671, SB 53, the DOJ/FTC/BIS releases).
+In repo and integrated (not listed): Contamine 1972 (both tomes), Contamine 1964, Curry "Guns and Goddams", Cerny 1998, Friedrichs 2001, Watts chs. 5–6, Bull (4th ed.), Wolffe 1964, Bohna 2003, Pollard (monograph, chs. 1 read; digest), Beaucourt IV–V, Escouchy, Chartier t. II, Stevenson (Rolls Series, vols. I and II.ii; *Narratives of the Expulsion*), Vale TRHS 1969, Kriehn 1892, Perroy 1943, Depreter 2011 (article), Rogers 1993, DeVries 1998, Mangini & Petroff, Worcester *Boke of Noblesse*, Ibn Iyas (Salmon 1921), Bloch *L'Étrange Défaite*, Fortescue (Plummer 1885, OCR text), Bratton 2015 (partial scan) and 2026, the Economist essay (28 May 2026), Norris & Inglehart ch. 1, Pezzolo, the AHR 2002 print forum, Keen's review of Vale, the Cambridge style guide, and the American primaries retrieved 2 September (ICA, Clayton, FTC Act, Banking Act 1933, HSR, Telecom Act 1996, *Paramount*, *DuPont–GM*, *NetChoice*, *Alcoa*, AT&T MFJ, *Microsoft* 2001 and Final Judgment 2002, the Google search and ad-tech filings, EO 14148, S.1671, SB 53, the DOJ/FTC/BIS releases), plus the second-pass pulls of 2 September (*Swift v. US*, the Pujo report, Proclamations 11002 and 11052, the VEU revocation rule, the CMA cloud decision, the Jeddah statement, Basin/Quicherat t. I, the Venette continuation, DOJ's 1995 IBM memorandum).
 
 ## A. Gating a ruling or a probe — do these first
 
@@ -27,11 +27,11 @@ In repo and integrated (not listed): Contamine 1972 (both tomes), Contamine 1964
 | Vale, *Charles VII* (1974) | ch10 — the 1445 reform in scholarly narrative; joins the fiscal probe | IA borrow / used |
 | Chernow, *Titan* (1998) or Yergin, *The Prize* (1991) | The "Rockefeller richer after 1911" figure is carried only by an unfootnoted T3; the proof case needs a T2 carrier | Cheap used; IA borrow likely |
 | Bringhurst, *Antitrust and the Oil Monopoly* (1979); Childs, *The Texas Railroad Commission* (2005) | Standard Oil worked example (prehistory; the proration order history at T2) | Used / Texas A&M UP |
-| Federal Reserve Act 1913 (NARA scan, 9.5 MB); PUHCA 1935 (14 MB); Packers and Stockyards Act 1921 | Three cases in the American pattern without their full statute in corpus | One-click: FRASER `nara-dc_rg011_e005b_pl63-43.pdf`; govinfo `STATUTE-49-Pg803.pdf`; govinfo STATUTE-42 pp. 159–169 |
-| Swift decree (1920, via *Swift v. US* 276 U.S. 311); RCA decree (1932); IBM 1956 decree; AT&T 1956 decree | The decree series for the pattern probe | LoC U.S. Reports (Swift, open); DOJ archive to locate (RCA, IBM); CCH Trade Cases 1956 ¶68,246 (AT&T, library) |
+| Federal Reserve Act 1913 (NARA scan, 9.5 MB); PUHCA 1935 (14 MB); Packers and Stockyards Act 1921 (full text — p. 159 only is in) | Three cases in the American pattern without their full statute in corpus | One-click: FRASER `nara-dc_rg011_e005b_pl63-43.pdf`; govinfo `STATUTE-49-Pg803.pdf`; Packers: govinfo serves only p. 159 as a granule — the STATUTE-42 volume PDF or a library copy |
+| RCA decree (1932); IBM 1956 decree text; AT&T 1956 decree (Swift IS IN via 276 U.S. 311; DOJ's 1995 memorandum describing the IBM decree IS IN) | The decree series for the pattern probe | Not on DOJ — CCH Trade Cases 1956 ¶68,245 (IBM), ¶68,246 (AT&T); RCA via the Delaware district record or CCH (library) |
 | Michael Howard, *War in European History* (1976) | ch06 — the Castillon dissent sentence at page level (Normandy council upgrade 4) | Cheap pb / IA borrow |
-| Basin, *Histoire de Charles VII* (Samaran ed.; Quicherat scans open) | ch06 — the temerity/divine-vengeance verdict on Talbot; raised to HIGH | Quicherat scans open — human pull; Samaran gated |
-| Michaud-Fréjaville on the *Recouvrement* tradition (exact article to identify) | ch06 — the source-independence caution (upgrade 6) | Persée / OpenEdition once identified |
+| Basin, *Histoire de Charles VII* (Samaran ed.) | ch06 — the temerity/divine-vengeance verdict on Talbot; raised to HIGH. **Quicherat t. I (1855) OCR text IS IN** (2 Sep, second pass); pin against the scan's page images | Samaran gated (library); Quicherat scan PDF one click at archive.org |
+| Michaud-Fréjaville on the *Recouvrement* tradition (exact article to identify); Contamine, "Un regard sur le *Recouvrement de Normendie*" | ch06 — the source-independence caution (upgrade 6) | Neither is on Persée (searched 2 Sep by author, title, subject) — probably in edited volumes; identify the references first |
 | Bratton, *The Stack*, tenth-anniversary edition (2026) | Printed pagination for every Bratton pin; the book-length Hemispherical Stacks | BUY (MIT Press) |
 
 ## B. Buy (the anchors)
@@ -40,7 +40,7 @@ Strayer, *On the Medieval Origins of the Modern State* (JSTOR alumni access deni
 
 ## C. Internet Archive controlled loans (free; an afternoon's delegable work)
 
-Ullmann, *The Growth of Papal Government* · Famiglietti, *Royal Intrigue* · Vaughan, *John the Fearless* and *Philip the Good* (and *Charles the Bold* — route to verify) · İnalcık, *The Ottoman Empire: The Classical Age* · DeVries, *Guns and Men in Medieval Europe* · Vale, *War and Chivalry* · Parker, *The Military Revolution* (1st ed.) · Nicholson, *Templars, Hospitallers and Teutonic Knights* (BORROW NOW) · Tierney, *Foundations of the Conciliar Theory* · Kendall, *Louis XI* · Jean de Venette, *Chronicle* (Birdsall/Newhall) · Fortescue PDF (24 MB; the OCR text is already in).
+Ullmann, *The Growth of Papal Government* · Famiglietti, *Royal Intrigue* · Vaughan, *John the Fearless* and *Philip the Good* (and *Charles the Bold* — route to verify) · İnalcık, *The Ottoman Empire: The Classical Age* · DeVries, *Guns and Men in Medieval Europe* · Vale, *War and Chivalry* · Parker, *The Military Revolution* (1st ed.) · Nicholson, *Templars, Hospitallers and Teutonic Knights* (BORROW NOW) · Tierney, *Foundations of the Conciliar Theory* · Kendall, *Louis XI* · Jean de Venette, *Chronicle* (Birdsall/Newhall translation — the Latin text in Géraud's 1843 edition IS IN as OCR) · Fortescue PDF (24 MB; the OCR text is already in).
 
 ## D. Cambridge alumni access (JSTOR / Project MUSE / Cambridge Core)
 
@@ -52,7 +52,7 @@ Griffiths, *The Reign of King Henry VI* · Curry, *The Hundred Years War* (book;
 
 ## F. Open web, human hands (bot-blocked or in-browser only)
 
-The Jeddah US–Ukraine joint statement verbatim (state.gov); the Section 232 semiconductor tariff instrument; CRS R48887 original PDF; CNN Alabuga reporting (geo-blocked); the ch12 in-browser pulls listed in ch12/sources.md; the Appendix C contemporary baselines not yet pulled — CMA cloud findings, the H200 revenue-share instrument, the VEU revocation notice, the ASML servicing denial, the DOJ Clayton §8 later releases; Pujo Committee report (FRASER); Bratton's "Hemispherical Stacks" is IN (5 Feb 2026 article).
+CRS R48887 original PDF (congress.gov and crsreports.congress.gov both bot-checked on 2 Sep); CNN Alabuga reporting (geo-blocked); the remaining ch12 in-browser pulls listed in ch12/sources.md; the Appendix C contemporary baselines not yet pulled — the H200 revenue-share instrument, the ASML servicing denial, the DOJ Clayton §8 later releases. **IN as of 2 Sep (second pass):** the Jeddah statement verbatim; Proclamation 11002 (Section 232 semiconductors) and Proclamation 11052 (polysilicon); the VEU revocation rule; the CMA cloud final decision (summary and 637-page report); the Pujo report (FRASER OCR); *Swift v. US*; DOJ's 1995 IBM memorandum; Basin (Quicherat t. I) and the Venette continuation (Géraud t. II) as OCR text. Bratton's "Hemispherical Stacks" is IN (5 Feb 2026 article).
 
 ## G. To identify before they can be fetched
 

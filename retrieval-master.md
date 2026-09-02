@@ -783,3 +783,50 @@ pattern probe" table above, with the Swift-via-276-U.S.-311 route,
 Bringhurst and Childs).
 
 | Bratton, *The Stack*, tenth-anniversary edition (MIT Press, 2026) | ch12 — the book-length statement of Hemispherical Stacks; printed pagination for every Bratton pin | **HIGH** | BUY |
+
+## 2026-09-02 (second pass, small hours) — twelve more open-web pulls into corpus
+
+Retrieved via the built-in browser against research/outstanding-sources.md;
+filed under `corpus/retrieved/source-library/open-web-pulls-2026-09-02b/`
+with an INDEX.md (source URL, capture, verification, tier, caveats per
+file). Status flips:
+
+**IN REPO (PDF of record, T1):** *Swift & Co. v. United States*, 276
+U.S. 311 (1928) — LoC U.S. Reports, 22 pp. (carries the 1920 packers'
+decree; closes the "Swift decree" row); Proclamation 11002 of 14 Jan
+2026, Section 232 semiconductors, 91 FR (20 Jan 2026), 14 pp.;
+Proclamation 11052 of 6 Aug 2026, Section 232 polysilicon, 91 FR (11 Aug
+2026), 13 pp. (not previously listed — later stack-layer instrument for
+Appendix C); BIS final rule, Revocation of Validated End-User
+Authorizations in the PRC, 90 FR (2 Sep 2025), 2 pp.; CMA Cloud services
+market investigation — Summary of final decision (8 pp.) and Final
+decision report (637 pp.), both 31 July 2025; DOJ, *U.S. v. IBM*, United
+States' Memorandum in Support of Partial Judgment Termination (11 Sep
+1995), 13 pp. — DOJ's own account of the 25 Jan 1956 Final Judgment as
+amended 1963/1970 (the decree text itself remains CCH 1956 Trade Cases
+¶68,245, library).
+
+**IN REPO (text carriers, T1 content; OCR — re-check quotations against
+the scans):** Pujo Committee report (28 Feb 1913), FRASER full-text OCR
+(690 KB; the 15.4 MB scan is one click); Jeddah US–Ukraine joint
+statement (11 Mar 2025), state.gov verbatim sidecar; Thomas Basin,
+*Histoire des règnes de Charles VII et de Louis XI*, ed. Quicherat (SHF
+1855), t. I, Internet Archive OCR (Castillon/Talbot chapters present;
+30 MB scan one click; Samaran still gated); *Chronique latine de
+Guillaume de Nangis… avec les continuations*, ed. Géraud (SHF 1843),
+t. II — the Venette continuation, Latin, Internet Archive OCR (the
+Birdsall/Newhall translation stays an IA loan).
+
+**PARTIAL:** Packers and Stockyards Act 1921 — p. 159 only (govinfo
+serves a granule only for the page an Act begins on; pp. 160–169 are
+not served). Full text still wanted.
+
+**TRIED, NOT OBTAINED (human hands):** Gallica t. XIII pp. 306–313 —
+"Vérification de sécurité" bot-check on every attempt tonight (**still
+gating spine §8(a)**); CRS R48887 — congress.gov and
+crsreports.congress.gov both behind a "Just a moment…" check; RCA 1932
+decree and AT&T 1956 decree — not on DOJ (library: CCH Trade Cases);
+Contamine, "Un regard sur le Recouvrement de Normendie" and
+Michaud-Fréjaville — not on Persée under author, title or subject;
+exact references still to identify. Federal Reserve Act (NARA 9.5 MB)
+and PUHCA (14 MB) left as one-click links.
