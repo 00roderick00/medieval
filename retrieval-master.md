@@ -830,3 +830,8 @@ Contamine, "Un regard sur le Recouvrement de Normendie" and
 Michaud-Fréjaville — not on Persée under author, title or subject;
 exact references still to identify. Federal Reserve Act (NARA 9.5 MB)
 and PUHCA (14 MB) left as one-click links.
+
+## 2026-09-02 (third entry) — Krejsa & Benich, "War: Watt Is It Good For?"
+
+| Krejsa & Benich, "War: Watt Is It Good For?", War on the Rocks, 20 Aug 2026 | ch12 (which layer is decisive — electrotech/electricity as the shared substrate of drones, compute and grid); spine §4 gloss; ch10 §VIII (civilian-scale reserve); ch11/coda (IRA vs CHIPS as Estates politics); Appendix C indicators | MED | **IN REPO 2026-09-02** — text captured to corpus/retrieved/source-library/; T3; assessment in research/krejsa-benich-electrotech-stack.md |
+| Primaries behind it: DoD drone production request and battery strategy; CHIPS and Science Act (Pub. L. 117-167); the 2025 reconciliation act's IRA provisions (consumer EV credit repeal; 45X survival); DoD Chinese-component prohibitions (10 U.S.C. §4872 and successors); the "80% of global compute" dataset; China grid additions (IEA/NEA) | Appendix C baselines; any figure quoted from the article | MED | OPEN — govinfo / congress.gov (bot-checked; human) / IEA |
