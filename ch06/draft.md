@@ -509,8 +509,8 @@ wall. It was executed in the minds of men reading news.
 
 Set the full census out plainly, because the book's discipline requires
 it and because the distribution is itself the finding. Of the hundred
-strongpoints in the Somerset list, the great majority fell without a
-siege: by composition, by abandonment "for fear of the enemies," by
+strongpoints in the Somerset list, the great majority fell by
+capitulation without siege: by composition, by abandonment "for fear of the enemies," by
 treason, by the act of their own townsmen or clergy — Lisieux delivered
 by its bishop, Coutances "by the churchmen," Verneuil's town betrayed by
 a miller, Rouen opened by its citizens. The contested falls held days.
@@ -596,7 +596,7 @@ alone, and the book's own mechanism (Chapter 10 will formalise it)
 treats train, standing companies and standing taxation as a single
 fiscal object — three line-items of one budget. But manpower cannot
 explain the same-wall compressions. Henry V had numbers at Rouen in
-1418 and needed six months; the French had numbers at Harfleur in 1449
+1418 and needed nearly six months; the French had numbers at Harfleur in 1449
 and needed seventeen days *because the wall failed*. Where resistance
 was actually offered, the differential is the guns.
 
@@ -776,7 +776,12 @@ Formigny, honestly told, is therefore not the battle field artillery
 won; it is the battle at which field artillery first *mattered* — the
 battle in which two guns broke not the English line but English
 discipline, prising a hitherto-unbeaten defensive system out of the
-posture that had won Crécy, Poitiers and Agincourt. The kill was
+posture that had won Crécy, Poitiers and Agincourt — Agincourt
+itself being, this book holds with its own spine, no simple
+longbow story but a commander keeping men from breaking, and a
+logistical feat, against an undermighty king already in civil
+war; the posture was the system's emblem, not its whole
+explanation. The kill was
 delivered by cavalry and the press of men, as it had been for
 centuries. The novelty was the lever, not the hammer. Drafting the
 claim any larger than that would hand the specialist reviewer the
@@ -1212,8 +1217,11 @@ chapter's business.
 *Draft ends. Word count ~11,000. Voice-discipline ledger (§8): coined
 concept — the* time value *of fortification (§II); vivid image — the
 castle as a clock wound against the future (§II); aphoristic line —
-"The walls did not fall because they were pushed. They fell because
-they were priced." (§V). One [BRIDGE] passage (§VII). [TRANS. CLAUDE]
+TWO now counted as produced, against a ration of one: "The walls
+did not fall because they were pushed. They fell because they were
+priced." (§V) and "Decisive force is decisive" (§V, entered on the
+spine §8(e)(5) ruling) — the cut between them is Roderick's
+[FLAGGED, Phase 4 Run A]. One [BRIDGE] passage (§VII). [TRANS. CLAUDE]
 markers: Contamine ×2, Blondel ×4, Escouchy ×8. [GAP] flags: Rouen
 1418–19 detail (Barker); artillery tipping-point chronology
 (DeVries/Hall); the Castillon false-report movers; the Cadillac date
@@ -1371,3 +1379,29 @@ applied ([BRIDGE] and [TRANS. CLAUDE] passes outstanding); Revisions 5
 added 2026-08-01 on instruction; Revisions 6 (the p. 295
 reattribution) and Revisions 7 (Pollard ch. 1 upgrades) PENDING HUMAN
 REVIEW
+
+9. **(2026-09-03 — Phase 4 Run A, integration. PENDING HUMAN
+   REVIEW.)** Four changes, keyed to the checks.
+   - §VI (check 3, audit finding 4): the Crécy–Poitiers–Agincourt
+     triad now carries spine §2's Agincourt qualification (no
+     simple longbow story; cohesion and logistics against an
+     undermighty king already in civil war; the posture the
+     system's emblem, not its whole explanation). The §IV Agincourt
+     mention (l. 316, "the desperate march that ended, by accident,
+     at Agincourt") makes no system claim and stands.
+   - §V (check 6, duplicates item 12): "needed six months" at the
+     Rouen-manpower counter-argument → "needed nearly six months,"
+     matching the pinned five months and three weeks.
+   - §V (check 4, minor): "fell without a siege" → "fell by
+     capitulation without siege" — the chapter now owns the phrase
+     ch10 and ch12 attribute to it ("Chapter 6's
+     capitulation-without-siege").
+   - Footer ledger (check 7): the aphorism count corrected to TWO
+     as produced ("They fell because they were priced"; "Decisive
+     force is decisive"), against a ration of one — the cut is
+     Roderick's, FLAGGED.
+
+---
+
+STATUS note: Revisions 8 (Phase 3) and 9 (Phase 4 Run A) PENDING
+HUMAN REVIEW within the otherwise reviewed draft.
