@@ -192,12 +192,16 @@ misgovernment in general but the fiscal-military state in
 particular, named and resisted at the moment of its creation.
 
 In November 1439 the Estates at Orléans produced, and Charles VII
-promulgated, the ordonnance this book's Chapter 10 will treat as a
-founding document: private lords forbidden to raise or maintain
-troops without royal licence, captaincies reserved to royal
-appointment, and the taille established as an effectively permanent
-tax to pay for the king's soldiers (ordonnance of 2 November 1439).
-Every clause cut something away from somebody. The great princes
+promulgated, the ordonnance this book's Chapter 10 will weigh as
+the opening act of a seven-year settlement: private lords forbidden
+to raise or maintain troops without royal licence, captaincies
+reserved to royal appointment — and, in the tradition Chapter 10
+holds at tertiary strength until the act's own text is read, the
+taille to pay for the king's soldiers, a tax whose permanence was
+in the event made by practice across the 1440s rather than granted
+at Orléans (ordonnance of 2 November 1439; the settlement of
+1439–46). Every clause of the military monopoly cut something away
+from somebody. The great princes
 lost their private armies; the free captains — the écorcheur
 entrepreneurs of Chapter 3's world — lost their market; and the
 taxpaying country acquired a permanent obligation where custom had
@@ -529,5 +533,24 @@ one correction.
 
 ---
 
+3. **(2026-09-03 — Phase 4 Run A, integration. PENDING HUMAN
+   REVIEW.)** One change (checks 1 and 4; spine §8(a) RULING;
+   cross-reference mismatch 2). §III's account of the 1439
+   ordonnance no longer asserts "the taille established as an
+   effectively permanent tax" as the act's content: the military
+   monopoly clauses stand as before; the taille limb is now carried
+   in ch10's register — a tradition held at tertiary strength until
+   the act's text is read, permanence made by practice across the
+   1440s — and the sentence names "the settlement of 1439–46."
+   "Founding document" → "the opening act of a seven-year
+   settlement." The Praguerie narrative and its dates keep their
+   existing [GAP: Contamine's chapters] hedge — the duplicates
+   inventory notes ch07's calendar precision (February–July 1440,
+   Cusset in July) sits against Contamine's wider "entre 1440 et
+   1442" and yields to Contamine when his account arrives; the
+   hedge already covers it.
+
+---
+
 STATUS: REVIEWED (Roderick, 2026-08-01) — approved with revision
-applied; Revisions 2 (Bohna upgrade) REVIEWED (Roderick, 2026-09-02 — review pack)
+applied; Revisions 2 (Bohna upgrade) REVIEWED (Roderick, 2026-09-02 — review pack); Revisions 3 (Phase 4 Run A) PENDING HUMAN REVIEW
