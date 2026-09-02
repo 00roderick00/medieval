@@ -16,7 +16,7 @@ The founding document of Europe's first standing army does not survive.
 We know when it was issued to within a few weeks: Contamine, who
 reconstructed the sequence, places the lost ordonnance between an act
 given at Nancy on 9 January 1445 and the surviving text of
-Louppy-le-Châtel of 26 May 1445, and before 20 April — "on peut avancer
+Louppy-le-Château of 26 May 1445, and before 20 April — "on peut avancer
 la fin mars," the end of March 1445 (Contamine 1972: ~303 and n.). We
 know what it did, because the chroniclers Thomas Basin and Mathieu
 d'Escouchy describe the result and the Louppy text presupposes it: the
@@ -141,23 +141,44 @@ fought — briefly, as it turned out.
 
 The constitutional theory of French taxation before 1439 was
 consent: the Estates granted, for a purpose and a term, and the
-grant lapsed. The ordonnance of 2 November 1439, issuing from the
-Estates at Orléans, changed the subject-matter of the grant: the
-king alone would raise troops, name captains, and levy the taille
-for their pay — the reader met this act in Chapter 7 as the
-document the Praguerie rose against, and met the revolt's fate
-there too: broken in five months, settled at Cusset with pensions
-and nothing structural conceded. What followed the revolt's failure
-was not a proclamation of permanent taxation but a practice.
-Through the 1440s the crown continued the taille by annual
-ordinances no longer sanctioned by the Estates; around 1450 the
-annual improvisation gave way to a single general statement of
-finance; and by mid-century the tax was, in function, permanent —
-granted once, collected forever. The sequence deserves its three
-steps — 1439 the grant, the 1440s the practice, c. 1450 the
-institution — because the gradualism is the finding. No one
-abolished the constitution of consent. It was simply not consulted,
-year after year, until non-consultation was the constitution.
+grant lapsed. What the ordonnance of 2 November 1439, issuing from
+the Estates at Orléans, verifiably changed was the constitution of
+force, not — so far as this book's sources can show — the
+constitution of taxation. Contamine, who calls it "la grande
+pragmatique sanction," reads it as the crown's claim to the
+exclusive right to raise troops, and his one quotation from the
+act is the licensing clause: "certain nombre de capitaines de gens
+d'armes et de traict sera ordonné pour la conduicte de la guerre"
+— a fixed number of captains, ordained for the conduct of the war
+[TRANS. CLAUDE] (Contamine 1972, citing *Ordonnances des Roys de
+France*, t. XIII, pp. 306–13 [GAP: the ordonnance's own text
+remains to be read at article level — Gallica pull; with it,
+whatever the act actually said of tailles]). The tradition that
+Orléans also granted the king a permanent taille — the familiar
+textbook sentence — is carried here as what this book's corpus can
+presently show it to be: a tradition, held at tertiary strength
+until the text and the fiscal historians are in [GAP: Wolfe;
+Henneman; Major]. What the record does show is a settlement made
+across seven years, 1439 to 1446, and made as practice rather than
+proclamation. The reader met the 1439 act in Chapter 7 as the
+document the Praguerie rose against — the settlement's own civil
+war, brewing among the lords at Orléans itself, broken in five
+months, settled at Cusset with pensions and nothing structural
+conceded. Through the 1440s the crown continued the taille by
+annual ordinances no longer sanctioned by the Estates. The act of
+25 April 1446 still spoke the language of emergency — "jusqu'à la
+conclusion de la paix," the formula the reader has already met in
+§II — while, on Contamine's judgment, the arrangements were by
+then "quasi définitif" in the councillors' minds: dressed as
+provisional for the taxpayers' sake, definitive in intent. Around
+1450 the annual improvisation gave way to a single general
+statement of finance; and by mid-century the tax was, in function,
+permanent — collected forever, granted never quite at all. The
+sequence deserves its dates — 1439 the monopoly of force, the
+1440s the practice, 1446 the formula, c. 1450 the institution —
+because the gradualism is the finding. No one abolished the
+constitution of consent. It was simply not consulted, year after
+year, until non-consultation was the constitution.
 
 Beneath the tax sat the machinery that made it collectable — and
 this book's mechanism runs through the machinery, not the rate. The
@@ -184,6 +205,18 @@ General met again until 1560. A tax the constitution said required
 consent had become a tax that could survive the consent's
 withdrawal. That is what "permanent" means in this book: not a
 legal category but a demonstrated property.
+
+And the dates fix the ratchet's object, which must be named
+precisely because it is easy to name wrongly. The crown's intent
+was set by 1445–46 — before a single Norman wall came down. What
+the guns of 1449–53 made irreversible was therefore not the king's
+programme but everyone else's power to reverse it: the
+assemblies', not summoned again for nearly forty years, their one
+reassertion absorbed; and the magnates', whose Praguerie had
+already failed and whose Public Weal would fail on schedule (§V).
+The technology did not conceive the settlement. It closed the
+argument against it — wall-breaking proof no Estates could argue
+with and no magnate could replicate.
 
 One honesty about vocabulary, because the chapter leans on a term
 the period did not use. "Fiscal-military state" is John Brewer's
@@ -215,7 +248,14 @@ brothers supplanting Bessonneau in practice from 1437, as Chapter
 1442 procurement programme and its arithmetic — the gunpowder
 establishment at twice the cost of the traditional arsenal — and
 this chapter re-deploys that budget line as its premise rather
-than re-arguing it. What this chapter adds is duration and
+than re-arguing it. One fact about its regime, though, belongs
+here: before 1444 the war treasury ran, in Contamine's words, with
+"ni budget, ni prévisions" — neither budget nor forecasts [TRANS.
+CLAUDE] — and only from 1445 did the permanent army's financial
+infrastructure show what he calls its incontestable efficiency
+(Contamine 1972). The guns achieved their two-to-one ascendancy
+under improvised finance; the institution then made the ascendancy
+permanent. What this chapter adds beyond that is duration and
 depth: the line item became a department, and the department can
 be audited.
 
@@ -448,6 +488,32 @@ Revolution — made into cartridges for the revolutionary army
 its enemies by its successor: the metaphor writes itself, and is
 therefore left exactly as the archivists found it.
 
+The refinement has a contemporary control, and it belongs here,
+beside Burgundy, rather than in Part III. In the spring of 2026
+the United States and Israel ran the most exquisite strike
+apparatus yet assembled against Iran — the campaign the
+Congressional Research Service dates from 28 February 2026, with
+objectives it lists as destroying the ballistic-missile arsenal
+and programme, the navy, the terror networks and the nuclear
+ambition, while recording that "it remains unclear" under what
+circumstances those threats would be deemed eliminated (CRS
+R48887). Three months in, the Economist's departing defence
+editor, writing the transparency decade's summa, reported some
+thirteen thousand targets struck and three-quarters of Iran's
+pre-war missile launchers surviving, under a political centre
+that had never resolved what the apparatus was for (The
+Economist, 28 May 2026 — journalistic strength only; every
+battle-damage figure [RE-CHECK AT PRESS], the primary being CRS
+R48887 and its successors). Apparatus without a coherent
+political object produced stalemate, as apparatus without a
+survivable centre had produced collapse. The disanalogy is
+stated at once, because the parallel otherwise overclaims:
+Burgundy died of its missing part; the United States merely
+failed to win with its present ones, and Iran is not Lorraine.
+The case demonstrates non-sufficiency, nothing more — which is
+precisely the anti-determinist lesson this section exists to
+hold. [BOOK'S ARGUMENT]
+
 The Swiss are the second counter-case, and the deeper one. The
 victors of Grandson and Morat had just demonstrated the century's
 most decisive field capability — and no Swiss artillery state
@@ -540,10 +606,11 @@ absorption, because it is the strongest form of the objection:
 strong, well-resourced governments produce military revolutions,
 she argues — "not the other way around" (Curry 2010: 187–88). The
 chapter's answer, held since Chapter 6's review: the chain is a
-loop with a threshold step. The fiscal instruments demonstrably
-predate the triumphs — the taille grant is 1439, the companies
-1445, the reconquest 1449–50 — so the book does not claim the gun
-conjured the fisc from nothing. It claims the gun did two things
+loop with a threshold step. The fiscal-military settlement
+demonstrably predates the triumphs — the monopoly of force is
+1439, the companies 1445, the "until the conclusion of peace"
+formula 1446, the reconquest 1449–53 — so the book does not claim
+the gun conjured the fisc from nothing. It claims the gun did two things
 no earlier capability had done: it set the entry price of
 decisive force above what any subject could pay (Curry's own
 concession, in the sentence quoted above), and it made the
@@ -652,6 +719,68 @@ state-financed at threshold scale, and that the private
 frontier is an unresolved instability in the pattern, not a
 refutation of it — tracked, not overclaimed.
 
+An objection has been waiting since this section began, and it
+takes its answer here, with the account books open. The drone
+appears to invert the chapter's mechanism: a three-thousand-dollar
+aircraft built on consumer-electronics supply chains, adopted
+within months by militias, looks like the opposite of a capability
+priced above subjects. The answer is that the objection mistakes
+the layer — and the fifteenth century itself ran both layers at
+once. Cheap portable firearms diffused *beneath* the sovereign
+siege-train monopoly: by the late 1460s the francs-archers'
+parishes were fielding couleuvriniers — "timidement, les armes à
+feu portatives s'introduisaient dans les bandes d'infanterie,"
+timidly, portable firearms were entering the infantry bands
+[TRANS. CLAUDE] (Contamine 1972); the Franco-Swiss treaty of 1474
+specified a third of the cantonal contingent armed with
+couleuvrines à main (Contamine 1972); Charles the Bold's
+haquebusses were "without number" (DeVries 1998: 138) [the Hussite
+prehistory of the cheap hand-gun is asserted nowhere in this book —
+GAP: not yet in corpus]. None of it touched the fiscal threshold
+the train had set. So now. The capital intensity has migrated from
+the projectile to the sensing-and-deciding apparatus — the
+constellations, the targeting pipelines, the kill chains and their
+encryptors, the standing and continuously funded connective tissue
+through which a cheap projectile becomes militarily decisive — and
+the best contemporary account of the transparency decade put the
+caution in a sentence this book adopts as its warning label: to
+attribute to weapons the advantages that accrue to the systems
+which use them best has misled military minds before (The
+Economist, 28 May 2026). Diffusion at the tactical layer and
+consolidation at the systemic layer are simultaneous, and the
+second is where the 1442 test bites. [BOOK'S ARGUMENT]
+
+The concentration is attested from the far side of the argument
+too. Bratton — the theorist of planetary computation whom Chapter
+12 engages at full length, and the writer least invested in state
+reassertion — documented a decade ago the "rapid centripetal
+centralization of information toward a small number of global
+Cloud platforms capable of supporting and leveraging service
+infrastructures at such a massive scale," and made the platforms'
+geopolitical future turn on "their ability to deploy their own
+competitively effective, end-to-end cyberinfrastructures"
+(Bratton 2015 [scan pp. 146, 148 — re-pin to printed edition]).
+That is the platform-side statement of capital intensity: few,
+ruinously expensive chokepoints — which is to say, the
+precondition of an off-switch, described by a witness with no
+interest in there being one.
+
+One disanalogy with 1442 is conceded here rather than left to a
+reviewer. The taille paid for the Bureau train directly: state
+revenue, state guns. The modern munitions and electrotech base
+cannot be bought that way. A recent analysis of the
+electricity-and-batteries layer states the difficulty as the
+arsenal-of-democracy problem — Detroit could become the arsenal
+only having first sold generations of cars to families, and an
+industrial reserve can serve military needs only if built at
+civilian scale (Krejsa and Benich, *War on the Rocks*, 20 August
+2026 — the argument cited at T3, its figures not used). The modern
+equivalent of the taille is therefore partly a tax credit shaping
+private demand: the state summons a base it cannot simply
+purchase. The mechanism survives the disanalogy — the summons is
+still fiscal, and still beyond any subordinate authority — but the
+difference in instrument is real, and it is stated.
+
 Score the four layers and the four-polity conclusion follows —
 as the book's own synthesis, offered for falsification. Two
 polities clearly carry all four lines: the United States and
@@ -722,6 +851,63 @@ Roderick reviewed the Batch 1 drafts: ch10 approved with revisions.
    draft only via Bachrach; per the no-intermediary-quotes rule,
    matching the Friedrichs precedent, it is paraphrased with a [GAP]
    to pin at source or cut at assembly).
+
+3. **(2026-09-02 — Phase 3 renovation per spine §8(a), (d), (f) and
+   the fiscal-settlement probe (REVIEWED). PENDING HUMAN REVIEW.)**
+   Seven changes; no reviewed sentence silently rewritten — each is
+   listed with its reason.
+   - **§III rewritten as the settlement of 1439–46.** The old
+     passage stated the 1439 ordonnance as granting troop monopoly
+     AND the taille; per the probe (Contamine silent on any 1439
+     taille grant) and the spine §8(a) RULING, the verifiable core
+     is now the monopoly of force (Contamine's "grande pragmatique
+     sanction," his verbatim licensing clause quoted with [TRANS.
+     CLAUDE]; the Ord. t. XIII text flagged [GAP] pending the
+     Gallica pull), the taille grant carried openly as tradition at
+     tertiary strength [GAP: Wolfe; Henneman; Major], the Praguerie
+     named the settlement's civil war, the 1446 "jusqu'à la
+     conclusion de la paix" formula and Contamine's "quasi
+     définitif" judgment added, and the sequence restated: 1439 the
+     monopoly of force, the 1440s the practice, 1446 the formula,
+     c. 1450 the institution.
+   - **§III gains the ratchet's object** (new closing paragraph):
+     what 1449–53 made irreversible was the assemblies' and
+     magnates' power to reverse the settlement, not the crown's
+     intent (fixed by 1445–46); no Estates General until 1484, the
+     machine surviving it. Wording follows spine §8(a)'s RULING.
+   - **§IV gains the improvised-finance clause**: "ni budget, ni
+     prévisions" before 1444; efficiency from 1445 (probe §3) — the
+     guns' 2:1 ascendancy achieved under improvised finance, then
+     institutionalised.
+   - **§VII's loop-answer re-dated**: "the taille grant is 1439"
+     replaced by the settlement sequence (monopoly 1439; companies
+     1445; formula 1446; reconquest 1449–53).
+   - **§VI gains Epic Fury beside Burgundy** as the contemporary
+     Depreter control (memo Revisions 16, REVIEWED): CRS R48887 the
+     primary; the Economist's BDA figures at T3, all [RE-CHECK AT
+     PRESS]; disanalogy stated (Burgundy died of its missing part;
+     Iran is not Lorraine).
+   - **§VIII gains three passages**: the diffusion objection
+     answered by layer separation, [BOOK'S ARGUMENT], with the
+     in-repo fifteenth-century parallel (couleuvriniers among the
+     francs-archers; the 1474 treaty's couleuvrines à main; DeVries
+     p. 138) and the Hussite prehistory flagged [GAP: not in
+     corpus] (memo Revisions 15, REVIEWED); Bratton's concentration
+     passages as the platform-side statement of capital intensity
+     [scan pp. 146, 148 — re-pin to printed edition] per spine
+     §8(f); and the Krejsa–Benich civilian-scale-reserve point
+     (Detroit) stated as a disanalogy with the taille, at T3,
+     figures unused, per spine §8(d).
+   - **§I spelling**: "Louppy-le-Châtel" → "Louppy-le-Château,"
+     Contamine's printing (probe §4); the Cosneau check remains
+     owed before assembly. The §I Contamine pin "~303" carries the
+     probe's pagination-drift caveat (inline OCR page numbers drift
+     up to ~8 pages; print-image verification before assembly).
+   - Voice ledger check: no new coinage; no new aphorism claimed
+     (the Economist warning-label sentence is attributed, not
+     coined); the added images are quotations or plain statement.
+     [BRIDGE] status of §VIII unchanged — the new passages sit
+     inside the existing [BRIDGE] fence.
 
 ---
 

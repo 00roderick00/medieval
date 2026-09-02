@@ -293,4 +293,32 @@ accordingly.*
   parallel (capital-intensity migration from projectile to
   sensing-and-deciding apparatus) and §5a's Depreter refinement (Epic
   Fury as the contemporary control case). Integration: memo Revisions
-  15–16.
+  15–16; draft §VI (Epic Fury) and §VIII (diffusion warning-label
+  sentence) per draft Revisions 3 (2026-09-02).
+
+## Added 2026-09-02 — Phase 3 renovation (Bratton; Krejsa & Benich)
+
+- **T2 — Benjamin H. Bratton, *The Stack: On Software and
+  Sovereignty* (MIT Press, 2015)** — IN REPO as a partial,
+  disordered scan with OCR sidecar (459 scan pages; no printed
+  pagination; degraded after ~scan p. 340). USED IN DRAFT: §VIII,
+  the concentration passages ("rapid centripetal centralization…";
+  "end-to-end cyberinfrastructures") at [scan pp. 146, 148].
+  **CAVEAT: every Bratton quotation carries a scan-page pin and must
+  be re-pinned to the printed edition before assembly** — the MIT
+  Press ebook or the tenth-anniversary edition (2026) is on
+  retrieval-master (BUY). Full engagement is ch12's; this chapter
+  uses only the concentration passages per spine §8(f).
+- **T2 — Bratton, "Benjamin Bratton on Planetary Computation's Next
+  Phase" (*MIT Press Reader*, 5 Feb 2026)** — IN REPO (text
+  captured, source-library). Not used in this chapter's draft;
+  listed because §VIII's Bratton sentence names him as engaged in
+  ch12.
+- **T3 — Harry Krejsa & Phoebe Benich, "War: Watt Is It Good For?"
+  (*War on the Rocks*, Cogs of War, 20 Aug 2026)** — IN REPO
+  (`source-library/Krejsa-Benich-War-Watt-Is-It-Good-For-WOTR-2026-08-20.txt`;
+  byline verified in the file). USED IN DRAFT: §VIII, the
+  civilian-scale-reserve/Detroit point as a stated disanalogy with
+  the taille, per spine §8(d). **Tier caveat: quality analysis at
+  T3 — the argument is cited, its figures are NOT used** (each
+  would need a primary; none carried).

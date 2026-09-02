@@ -1068,6 +1068,28 @@ Drafting of ch10/draft.md may now proceed against this reviewed memo (§7).
       expenditure series, including military spending at 74% of
       4.7M l.t. in 1482, which §2 does not yet use.
 
+18. **(2026-09-02 — Phase 3 renovation executed in draft.md per
+    spine §8(a), (d), (f); the probe and Revisions 15–17 now
+    REVIEWED and carried into the draft. PENDING HUMAN REVIEW.)**
+    Draft Revisions 3 lists the seven changes; this entry records
+    the memo-side consequences.
+    - §2's "the taille of 1439" constructions are superseded in the
+      draft by the settlement of 1439–46; the memo's §2 text stands
+      as written (reviewed) with this entry as the correction of
+      record until an upgrade pass rewrites it.
+    - The ratchet's object (assemblies/magnates, not crown intent)
+      is now draft text (§III close), wording per the RULING.
+    - The Gaspard "27 December 1444" date (memo §3): the draft
+      never carried it and now cannot — the carrier remains
+      unidentified [UNVERIFIED — RETRIEVAL]; the memo sentence
+      awaits the same upgrade pass.
+    - Bratton 2015/2026 and Krejsa & Benich enter sources.md this
+      date (T2 with scan-pin caveat; T3 respectively); the
+      Economist entry of 2026-09-02 now also carries the §VI Epic
+      Fury and §VIII diffusion draft placements.
+    - Louppy spelling normalised to Contamine's "-Château" in the
+      draft; Cosneau check owed (retrieval-master).
+
 ---
 
 STATUS: REVIEWED (Roderick, 2026-07-23) — cleared for drafting
