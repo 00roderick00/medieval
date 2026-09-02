@@ -226,6 +226,21 @@ a cut is income, not control, and the mechanism runs on control.
 The venality and undermighty readings describe the 1890s phase of
 the American pattern, not its terminus.
 
+RULING, 2 September 2026: the chapter rests on the whole American
+pattern, not on Standard Oil alone. The twelve-case series in
+research/overmighty-citizen-playbook.md — railroads/ICC, Standard
+Oil, the Money Trust, Glass–Steagall, PUHCA/Insull, the packers, RCA,
+Paramount, Alcoa, DuPont–GM, AT&T, IBM, Microsoft — is the evidence
+for how the republic handles an over-mighty citizen: it severs the
+power switch by whichever instrument fits the dependency (structural
+separation, line-of-business firebreak, common carriage,
+interoperability, holding-company simplification, merger review) and
+leaves the fortune. That pattern, not one case, is what predicts how
+American consolidation will occur in support of the decisive
+military-technology stack. Standard Oil remains the worked example
+(ch12/standard-oil-offswitch.md); every other case enters only
+through its own T1 primary, now in corpus.
+
 [GOVERNS: the Phase 3 renovation of ch06, ch10, ch11 and ch12; the
 two research probes (French fiscal settlement; Standard Oil
 off-switch); Appendix C's rebuild into scored sub-wagers. Consistent

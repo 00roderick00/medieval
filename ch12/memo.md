@@ -429,6 +429,30 @@ parse and may later sharpen §7's Castillon return.
      is written at renovation; the monasteries/proof-case tension
      stands for Roderick's ruling.
 
+4. **(2026-09-02 — RULING: the American pattern, not the proof case.
+   PENDING HUMAN REVIEW of the consequences, not of the ruling.)**
+   Roderick's instruction, recorded verbatim in substance: the whole
+   over-mighty citizen research document is to be used in place of
+   looking at Standard Oil alone; it provides a much more
+   comprehensive argument and pattern than Rockefeller and suggests
+   strongly how US consolidation will occur to support the decisive
+   military-technology stack. Entered in spine.md §8(c) as a dated
+   ruling. Consequences for this chapter: (a) §§2–4's American case
+   is to be rebuilt on the twelve-case series, each case verified
+   from its T1 primary (the American-primaries set retrieved
+   2026-09-02; see retrieval-master), with the instrument chosen in
+   each case mapped to the kind of dependency severed; (b) the
+   Standard Oil probe becomes the worked example within the pattern,
+   its lag finding (regulation of the switch precedes and surrounds
+   the antitrust act) generalised across the series where the
+   primaries bear it out; (c) the "monasteries, not Standard Oil"
+   sentence in draft §IV is now superseded in substance — the
+   chapter's claim is that the platforms are the republic's next
+   over-mighty citizens and will be handled by its standing pattern;
+   (d) the pattern supplies Appendix C's CA-1..8 with their
+   historical analogues instrument by instrument. A dedicated probe,
+   ch12/american-pattern.md, is commissioned to do (a)–(b).
+
 ---
 
 STATUS: REVIEWED (Roderick, 2026-07-31 — read in full, nothing to add; no revisions required)
