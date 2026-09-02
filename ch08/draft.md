@@ -408,8 +408,10 @@ proclaimed without the fiscal-military substrate, and therefore
 proclaimed again and again.
 
 Set the dates against Part II's spine and the sequence is
-unmistakable. The taille is granted in 1439; the companies stand
-from 1445; the train runs from 1449; and the courts, councils,
+unmistakable. The monopoly of force is claimed in 1439; the
+companies stand from 1445; the tax hardens into permanence across
+the same seven years — the settlement of 1439–46; the train runs
+from 1449; and the courts, councils,
 constabularies and abolitions arrive in the two generations
 *after* — 1470s to 1540s — precisely where the fiscal-military
 consolidation had laid the substrate, and nowhere else. The
@@ -480,4 +482,17 @@ Star Chamber correction, the QMUL preference correction, the
 Cameron-not-Epic provenance and the DSA Art. 21 cap all carried.
 No claim beyond the reviewed memo.*
 
-STATUS: REVIEWED (Roderick, 2026-08-02) — approved as drafted
+## Revisions
+
+1. **(2026-09-03 — Phase 4 Run A, integration. PENDING HUMAN
+   REVIEW.)** One change (check 1; spine §8(a) RULING): §VII's
+   sequence sentence "The taille is granted in 1439" → "The
+   monopoly of force is claimed in 1439; … the tax hardens into
+   permanence across the same seven years — the settlement of
+   1439–46" — the dated-grant construction replaced by the settled
+   term; the sequence's argumentative work (fiscal-military
+   substrate before the courts) unchanged.
+
+---
+
+STATUS: REVIEWED (Roderick, 2026-08-02) — approved as drafted; Revisions 1 (Phase 4 Run A) PENDING HUMAN REVIEW
