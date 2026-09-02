@@ -165,7 +165,8 @@ discipline matters; the case is strong enough without them.)
 The second is the Chinese state-platform church, and its defining
 property is fusion: the universal claim is not rival to the state
 but *absorbed into it* — which makes China, in this chapter's
-terms, not a church-state contest but its pre-emptive resolution.
+terms, not a church-state contest but the contest pre-empted:
+fusion asserted by discipline, and enforced since.
 The demonstration was the crackdown of 2020–21, best read — the
 structural licence holds — as intra-church discipline: a reform
 movement imposed on over-mighty religious orders by the authority
@@ -337,11 +338,12 @@ thereafter performed them. The decisive settlements did not
 defeat the universal authority; they annexed it. The reader is
 asked to hold that sentence against Part III's argument about
 what the consolidating blocs will do with their churches —
-because the pattern of the 2020s already leans Henrician: the
-American state converting subsidy into equity in its
-foundational infrastructure, the Chinese state ruling its
-platforms as departments, the European state legislating its
-church's canon itself. The wager's precise form comes later.
+because the pattern of the 2020s leans Henrician: the American
+state regulating the switches of its foundational
+infrastructure by licence and condition — and, in the foundry,
+exceptionally, converting subsidy into equity — the Chinese
+state ruling its platforms as departments, the European state
+legislating its church's canon itself. The wager's precise form comes later.
 What Part I still owes the reader is the rest of the diagnosis
 — because beneath the churches' quarrels, the dispersal has
 armed actors and contract polities of its own. The retinues
@@ -377,5 +379,27 @@ correction.
 
 ---
 
+## Revisions
+
+1. **(2026-09-03 — Phase 4 Run A, integration. PENDING HUMAN
+   REVIEW.)** Two changes, keyed to the checks.
+   - §VI (checks 2 and 3; audit finding 3 and tense sweep A9):
+     "the pattern of the 2020s already leans Henrician: the
+     American state converting subsidy into equity in its
+     foundational infrastructure…" → "the pattern of the 2020s
+     leans Henrician: the American state regulating the switches of
+     its foundational infrastructure by licence and condition —
+     and, in the foundry, exceptionally, converting subsidy into
+     equity — …". The American emblem is now the licensing mode per
+     spine §8(c), with the Intel equity stated as the foundry
+     exception; "already" dropped per §7.
+   - §III (check 2, tense family): "not a church-state contest but
+     its pre-emptive resolution" → "but the contest pre-empted:
+     fusion asserted by discipline, and enforced since" — the
+     bloc-level achieved noun replaced by the documented act plus
+     continuing enforcement.
+
+---
+
 STATUS: REVIEWED (Roderick, 2026-08-02) — approved with revision
-applied
+applied; Revisions 1 (Phase 4 Run A) PENDING HUMAN REVIEW
