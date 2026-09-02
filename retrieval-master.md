@@ -686,6 +686,19 @@ AT&T 1956 decrees.
 | Alcoa post-1945 remedy proceedings (dissolution deferred at 148 F.2d 416, *446–47 "then, but then only") | Alcoa case — what the district court did after the Surplus Property Act disposals | MED | citation to identify (S.D.N.Y., post-1945); do not cite from memory |
 | A T2 on Samuel Insull's personal fortune after the 1932 collapse | the pattern table's ONE open fortune question (ch12/american-pattern.md §5): if Insull's fortune did not survive, the fortune-kept column gains its qualification | MED | biography route to identify (no source in repo speaks to it) |
 
+### Phase 3 renovation rows (2026-09-02, renovation session)
+
+Every row here was created by a flag written into a draft this
+session; the dependent claim is named in the draft flag.
+
+| Work | Needed for | Priority | Route / status |
+|---|---|---|---|
+| Hilaire Belloc, *The Modern Traveller* (1898) — the Maxim-gun couplet at T1 | ch06 §VI (the two-error symmetry names the couplet but does not quote it; confirmed NOT in corpus 2026-09-02) | LOW | public domain — archive.org / Gutenberg, one click |
+| Hussite hand-gun scholarship (carrier to choose: the standard works on Hussite warfare) | ch10 §VIII (the cheap-firearm diffusion parallel names the Hussite prehistory as [GAP: not in corpus]) | LOW | identify carrier first (DeVries's Hussite articles are the likely route) |
+| CHIPS and Science Act (Pub. L. 117-167) statute text; Inflation Reduction Act (Pub. L. 117-169) statute text; the 2025–26 IRA-repealing instrument (exact citation to identify) | ch11 §VI (the Estates-politics contrast is carried at T3 only; every dependent sentence flagged [UNVERIFIED — RETRIEVAL]) | MED | govinfo one-click for the two statutes; the repealing instrument needs its citation identified first |
+| The scholarly carrier of the term "délai de secours" | ch06 §IV (the device is named with "[the term is the historians'; carrier to be pinned]") | LOW | French siege-warfare literature — identify with the Michaud-Fréjaville search |
+| Cosneau, *Le connétable de Richemont*, app. LXXXIV, pp. 610–12 | ch10 §I — the Louppy spelling check ("-Château" per Contamine vs the memo's "-Châtel"); the surviving 26 May 1445 text | LOW | old edition, likely open on Gallica/IA — route to verify |
+
 ### Normandy council assessment additions (2026-09-02, Job 4)
 
 | Work | Needed for | Priority | Route / status |

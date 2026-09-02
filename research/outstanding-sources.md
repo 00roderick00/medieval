@@ -56,7 +56,11 @@ CRS R48887 original PDF (congress.gov and crsreports.congress.gov both bot-check
 
 ## G. To identify before they can be fetched
 
-A middle-Rhine ecclesiastical-principalities monograph (the Rhineland c. 1250 baseline; ELEVATED since 22 July; still no title) · an Avignon-papacy study (Rollo-Koster or equivalent) · Jones, *The Italian City-State*; Wickham, *Sleepwalking into a New World* · the exact Michaud-Fréjaville reference · Vaillé, *Histoire générale des postes* t. II (only if the 1464 postal edict is kept).
+A middle-Rhine ecclesiastical-principalities monograph (the Rhineland c. 1250 baseline; ELEVATED since 22 July; still no title) · an Avignon-papacy study (Rollo-Koster or equivalent) · Jones, *The Italian City-State*; Wickham, *Sleepwalking into a New World* · the exact Michaud-Fréjaville reference · Vaillé, *Histoire générale des postes* t. II (only if the 1464 postal edict is kept) · the scholarly carrier of the term "délai de secours" (ch06 §IV names the device with the carrier flagged) · the 2025–26 IRA-repealing instrument's exact citation (ch11 §VI) · a Hussite hand-gun carrier (ch10 §VIII; DeVries's Hussite articles the likely route).
+
+## H. Phase 3 renovation additions (2026-09-02, renovation session — mirrors retrieval-master's "Phase 3 renovation rows")
+
+Belloc, *The Modern Traveller* (1898) — public domain, one click (ch06 §VI couplet at T1) · CHIPS Act (Pub. L. 117-167) and IRA (Pub. L. 117-169) statute texts — govinfo one-click (ch11 §VI, currently T3-carried and flagged) · Cosneau, *Le connétable de Richemont*, app. LXXXIV — the surviving Louppy text and the "-Château/-Châtel" spelling check (ch10 §I); likely open, route to verify.
 
 ## Standing rule
 
