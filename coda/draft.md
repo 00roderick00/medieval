@@ -141,9 +141,9 @@ settlements, no named winners of elections or wars; its unit of
 prediction is the pattern and its horizon is fifteen years of named
 indicators. It does not claim any polity's success: the American
 candidacy is called probable and half-conscious, the Chinese
-substantially executed but exposed at the summit the book's own
-two-bodies chapter diagnoses, the European conditional on a fiscal
-substrate that does not yet exist, the Indian possible; all four
+furthest along but exposed at the summit the book's own
+two-bodies chapter diagnoses, the European conditional on a single
+fisc that does not yet exist, the Indian possible; all four
 could fail, and condition four of the wager scores exactly that. It
 does not claim the settlement is desirable: the Tudor turn, where
 it ran, ran through bonds, expulsions, dissolutions and a harvest
@@ -207,6 +207,19 @@ book predicts, and declines to bless" (§V). The authorised
 disclosure sentence appears in §III; the narrowing delta table in
 §IV. No new research; every claim inherits from the reviewed
 record.*
+
+## Revisions (2026-09-03 — Phase 4 Run A)
+
+- **(Integration. PENDING HUMAN REVIEW.)** One change (check 2,
+  sweep A1's echo; check 3, finding 11's echo): §V's disclaimer
+  now reads "the Chinese furthest along" (for "substantially
+  executed") and "conditional on a single fisc that does not yet
+  exist" (for "a fiscal substrate that does not yet exist" — the
+  EU has the tax base; what it lacks is the single fisc, per spine
+  §5 and ch12's corrected assessment). The coda's mechanism
+  statement (§I) checked against the Introduction, ch06 §VII, ch10
+  §VII and ch12 §I — one sentence-family throughout (check 5);
+  no change needed.
 
 ## Revisions (2026-09-02 — Phase 3)
 
