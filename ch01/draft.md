@@ -397,9 +397,10 @@ will tabulate — were taken by states and blocs, transmitted
 *through* the networks, and resisted by none of them. Slaughter
 described the wiring of the dispersal phase with great accuracy;
 the book's quarrel is only with the load the wiring was asked to
-bear. Chapter 12 returns to her to say precisely what the networks
-become inside a bloc-consolidated order — and the answer will not
-be nothing.
+bear. Chapter 12 says what the networks become inside a
+bloc-consolidated order — ranked, not abolished: the hierarchical
+plurality of its settlement-from-inside, connective tissue under a
+funded sovereign — and the answer, note, is not nothing.
 
 ## VI.
 
@@ -512,6 +513,21 @@ Roderick reviewed the Batch 2 drafts: approved with revisions.
 
 ---
 
+4. **(2026-09-03 — Phase 4 Run A, integration. PENDING HUMAN
+   REVIEW.)** One change (check 4). §V's close promised "Chapter 12
+   returns to her [Slaughter] to say precisely what the networks
+   become" — ch12 contains no Slaughter return (grep: zero hits).
+   The promise is redirected to what ch12 actually carries: the
+   networks' fate stated via the hierarchical-plurality settlement
+   ("ranked, not abolished… connective tissue under a funded
+   sovereign"), the closing cadence kept. Tagged connective, not a
+   new claim. FLAG for Roderick: if he prefers ch12 to name
+   Slaughter at that point, the addition is his to order — the
+   present fix changes only the referring sentence. The §III
+   [DELTA] is untouched, reserved.
+
+---
+
 STATUS: REVIEWED (Roderick, 2026-08-02) — approved with revisions
 applied. Revisions 3 (Bull direct quotes; the tests [DELTA]) PENDING
-HUMAN REVIEW.
+HUMAN REVIEW; Revisions 4 (Phase 4 Run A) PENDING HUMAN REVIEW.
