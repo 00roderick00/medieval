@@ -453,6 +453,36 @@ parse and may later sharpen §7's Castillon return.
    historical analogues instrument by instrument. A dedicated probe,
    ch12/american-pattern.md, is commissioned to do (a)–(b).
 
+5. **(2026-09-02 — Bratton read: *The Stack* (2015, partial scan) and
+   "Planetary Computation's Next Phase" (5 Feb 2026). PENDING HUMAN
+   REVIEW.)** Assessment in research/bratton-assessment.md (outside
+   the provenance chain; scan-page pins to be converted to printed
+   pages before any quotation enters the draft). Findings for this
+   chapter: (a) the council's account of Bratton as predicting that
+   sovereignty migrates to the stack is wrong — he disclaims "the
+   declining state withering away into the realm of pure network"
+   twice and holds a mutual, unresolved co-evolution ("The Stack does
+   not necessarily privilege either"); he is therefore an ally on the
+   hybrid form of the settlement (spine §8(b)) and a rival only on
+   its cause and direction; (b) his sentence on sovereignty as the
+   capacity "to structure, police, and, especially, tax flows…
+   through the control of the interfaces of input and output" is the
+   revocation metric / power-switch test stated from the platform
+   side and should be the point of contact quoted; (c) the 2026 piece
+   names the four Hemispherical Stacks — China, US, India, EU — the
+   book's four polities, and records "encapsulation of global
+   platforms within… their host hemisphere… deeper, direct
+   connections with the state," i.e. the beginning of the reassertion
+   observed, while keeping the hybrid; (d) the genuine disagreement
+   is his "no teleology or necessary outcome" against the book's
+   compelled outcome, and his "too big… and too small to control"
+   objection, answered at the level of layers (packets versus fabs,
+   launch, compute, finance — the layers he himself calls centralised
+   and expensive); (e) his divisibility point ("exit at whatever
+   level") is the council's disanalogy in his own words and must be
+   conceded for the rentable layers. No draft text proposed;
+   placement proposals in the assessment §5.
+
 ---
 
 STATUS: REVIEWED (Roderick, 2026-07-31 — read in full, nothing to add; no revisions required)

@@ -635,8 +635,8 @@ Everything below is new to the ledger.
 
 | Work | Needed for | Priority | Route / status |
 |---|---|---|---|
-| Bratton, *The Stack: On Software and Sovereignty* (MIT Press, 2015) | ch12 §IV (the book borrows the noun; must engage his rival prediction that sovereignty migrates to the stack); coda; Appendix A | **HIGH** | BUY (MIT Press pb) / library ebook; IA borrow possible |
-| Bratton, "Hemispherical Stacks" (*MIT Press Reader*, Feb 2026) | ch12 — his convergence on the bloc-level prediction must be cited from his text, not the council's summary; the stack-divisibility disanalogy | **HIGH** | OPEN WEB — human pull (bot-block likely); verify date and title |
+| Bratton, *The Stack: On Software and Sovereignty* (MIT Press, 2015) | ch12 §IV; ch02 (cartography/citizenship); ch01/Appendix A (the dispersal's shape); ch10 §VIII (concentration); coda | **HIGH** | **IN REPO 2026-09-02 — PARTIAL SCAN** (`corpus/retrieved/the stack .pdf`, 459 scan pp., out of book order, chs. 75–77 absent, no printed pagination; OCR sidecar + reading extract in source-library/). Read and assessed: research/bratton-assessment.md — **the council's "sovereignty migrates to the stack" reading is wrong; Bratton is a hybrid theorist and disclaims the withering state twice.** For page pins BUY the tenth-anniversary edition (MIT Press, 2026) |
+| Bratton, "Benjamin Bratton on Planetary Computation's Next Phase," *MIT Press Reader*, 5 Feb 2026 (adapted from the 10th-anniversary edition; coins "Hemispherical Stacks" — the term, not the title) | ch12 — the four-bloc casting (China, US, India, EU) from the opposite direction; "encapsulation of global platforms within… their host hemisphere… deeper, direct connections with the state" as an observed 2026 baseline (Appendix C CA-8) | **HIGH** | **IN REPO 2026-09-02** (`source-library/Bratton-Planetary-Computation-Next-Phase-MITPressReader-2026-02-05.txt`, full text) |
 | Spruyt, *The Sovereign State and Its Competitors* (Princeton, 1994) | ch04/ch11/ch12 — the capital-rich non-consolidators (Hanse, Venice, Dutch) as the omitted comparanda for the syndicated-stack case | MED | BUY used / IA borrow likely |
 | Scheidel, *Escape from Rome* (Princeton, 2019); Hoffman, *Why Did Europe Conquer the World?* (Princeton, 2015) | coda — the endogeneity point: consolidation may kill the innovation that produces the stack; Hoffman's tournament model for ch10 critiques | MED | BUY (in print) / library ebook |
 
@@ -745,3 +745,4 @@ Packers and Stockyards Act 1921 (govinfo per-page only; loc.gov behind a
 bot check); Fortescue PDF (24 MB, archive.org). Not attempted: the
 Swift, RCA, IBM and AT&T 1956 consent decrees.
 
+| Bratton, *The Stack*, tenth-anniversary edition (MIT Press, 2026) | ch12 — the book-length statement of Hemispherical Stacks; printed pagination for every Bratton pin | **HIGH** | BUY |
