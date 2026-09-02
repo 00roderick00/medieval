@@ -321,6 +321,24 @@ it is the parallel-settlements reading — consolidation
 within blocs, not above them — operating in tax law. The
 sceptical reading is stated in critiques.md and not hidden.
 
+The fiscal move's domestic face carries an Estates politics the
+fifteenth century would recognise at once — offered at analytic
+strength only, with the statutes flagged. Within four years the
+American legislature made two grants of permanence to industrial
+bases and revoked one: the semiconductor programme survived; the
+energy-and-battery credits were repealed [UNVERIFIED — RETRIEVAL:
+the CHIPS and IRA statutes and the repealing instrument — the
+contrast is carried at T3 from Krejsa and Benich, *War on the
+Rocks*, 20 August 2026, the argument only, no figure used]. The
+same kind of grant, and consent turned on the banner it flew: the
+one passed as security held; the one passed as climate fell when
+the assembly's majority changed. The parallel is not in the
+outcomes but in the mechanism — a grant's permanence is decided by
+the politics of its justification, which is why the consolidators
+of Chapter 10 dressed a permanent tax as war necessity for seven
+years before letting it be forever. [BOOK'S ARGUMENT for the
+parallel; the joint sits inside this section's BRIDGE fence.]
+
 *Move two: subordination of great subjects.* The instruments
 run, and the state sometimes loses — both facts are the
 record. The EU's first DMA fines issued in April 2025 (Apple
@@ -444,7 +462,23 @@ written down in government releases and docket entries. The
 five moves are observable in every bloc at the instrument
 level; the interstitial spaces — the zones the settlements
 will not reach — stay neomedieval, and Chapter 12 maps
-them. One question remains, and it is the book's last
+them.
+
+The settlement's shape has a rival description, and the
+rival deserves his own words before the chapter closes.
+Bratton — whose *Stack* gave this book's Part III its noun —
+ends his 2015 study holding a binary he declines to resolve:
+on one side a Cloud feudalism of platform polities, on the
+other the Kojèvian Empire, consolidation at more-than-national
+scale; both are his, and he chooses neither (Bratton 2015
+[scan pins only; re-pin to the printed edition — the full
+engagement is Chapter 12's]). The refusal is not a failing;
+it is the honest report of a theorist without a mechanism
+for deciding between his own futures. The space that refusal
+leaves open is the space this book's wager fills: the price
+of decisive force is the deciding mechanism, and it chooses
+the Empire's direction inside each bloc while leaving the
+feudal texture to the interstices. One question remains, and it is the book's last
 historical question asked of the present: every settlement
 in this chapter had a consolidator — a Henry, a Louis, a
 Ferdinand, a Mehmed — and an instrument whose economics
@@ -479,6 +513,21 @@ beyond the reviewed memo.*
    hedged tertiary arc to Wolffe's table at p. 237 (memo Revisions 1);
    the Yorkist-continuity sentence added verbatim. Changed passage
    REVIEWED (Roderick, 2026-09-02 — review pack) within the otherwise reviewed draft.
+
+2. **(2026-09-02 — Phase 3 renovation per spine §8(f). PENDING HUMAN
+   REVIEW.)** Two insertions; no reviewed sentence rewritten.
+   - **§VI, Move one, gains the IRA/CHIPS Estates-politics
+     paragraph**: two grants of permanence, one revoked — consent
+     turning on the banner the grant flew — carried at T3 from
+     Krejsa & Benich (argument only), with the statutes and the
+     repealing instrument [UNVERIFIED — RETRIEVAL]; the parallel
+     tagged [BOOK'S ARGUMENT] inside §VI's existing [BRIDGE] fence.
+   - **§VII gains the Bratton binary**: Cloud feudalism versus
+     Empire as his own pair, his refusal to choose stated as the
+     honest report of a theorist without a deciding mechanism, and
+     that refusal named as the space the wager fills. Scan-page
+     pins only; every Bratton pin to be re-set against the printed
+     edition; the full engagement remains ch12's.
 
 ---
 

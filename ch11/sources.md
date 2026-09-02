@@ -181,3 +181,16 @@ skeletons pending the named monographs; the modern half is T1-heavy
 *Open items consulted 2026-07-24; every claim cites the document or named
 source above — provenance runs to sources only (CLAUDE.md §4). URLs in
 the session research record. Update retrieval-master.md accordingly.*
+
+## Added 2026-09-02 — Phase 3 renovation (pointer entry)
+
+- Draft §VII now uses **Bratton, *The Stack* (2015; T2, scan-pin
+  caveat)** and §VI uses **Krejsa & Benich (WOTR, 20 Aug 2026; T3,
+  argument only)** — full graded entries with caveats are in
+  ch10/sources.md and ch12/sources.md, same date; the caveats
+  (re-pin all Bratton quotations to the printed edition; no Krejsa
+  & Benich figure may be used) apply here identically. The CHIPS
+  and IRA statutes and the IRA-repealing instrument are on
+  retrieval-master (2026-09-02, Phase 3 rows) — every §VI sentence
+  that depends on them is flagged [UNVERIFIED — RETRIEVAL] in the
+  draft.

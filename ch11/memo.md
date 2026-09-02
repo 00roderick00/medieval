@@ -463,6 +463,19 @@ draft-pagination caveat.
    the source it came from. Chrimes remains on retrieval for the
    institutional narrative.
 
+- **(2026-09-02 — Phase 3 renovation, memo-side record. PENDING
+  HUMAN REVIEW.)** Draft Revisions 2 lists the two insertions
+  (§VI IRA/CHIPS Estates politics at T3, statutes [UNVERIFIED —
+  RETRIEVAL]; §VII the Bratton Cloud-feudalism-versus-Empire binary
+  with his refusal to choose as the wager's space, scan pins
+  flagged). Sources consequence: Bratton 2015/2026 and Krejsa &
+  Benich now used by this chapter's draft — entries as in
+  ch10/sources.md and ch12/sources.md 2026-09-02 additions; the
+  chapter-level sources.md carries a pointer this date rather than
+  duplicate entries. The Mamluk counter-case (critiques Revisions
+  1, 2026-09-02) is untouched by this pass; Ágoston and Fuess
+  remain [UNVERIFIED — RETRIEVAL].
+
 ---
 
 STATUS: REVIEWED (Roderick, 2026-07-31 — read in full, nothing to add; no revisions required)

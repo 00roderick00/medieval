@@ -153,6 +153,24 @@ the book predicts, and declines to bless. And it does not claim
 that history repeats: it claims that a mechanism has recurred, and
 it stakes the claim on measurements.
 
+One limit is confessed rather than disclaimed, because it is a
+question the book can pose and cannot answer. The consolidations
+this book predicts run beneath a nuclear overhang whose top layer,
+the decade's reporting suggests, is entangled with the decisive
+stack itself: to fight the full transparency war between blocs
+would mean striking systems that also run the adversary's
+deterrent, and nobody professes to know where the red lines lie —
+only that they exist (Chapter 12 carries the point with its
+source). If that war is unfightable, the blocs may consolidate and
+never test one another: a permanent, armed, mutually observed
+pause rather than a Bosworth. Whether such a pause is a Tudor
+settlement — a settlement being, in the end, an order nobody finds
+it worth fighting — or something without precedent in the
+mechanism's history, this book does not know, and says so. The
+wager's scoring does not depend on the answer: the indicators
+measure consolidation within blocs, and a pause between them
+would leave every one of them scoreable.
+
 ## VI. The debt to Bull, and the precise disagreement
 
 The debt first, because it is total: without the tenth chapter of
@@ -189,6 +207,18 @@ book predicts, and declines to bless" (§V). The authorised
 disclosure sentence appears in §III; the narrowing delta table in
 §IV. No new research; every claim inherits from the reviewed
 record.*
+
+## Revisions (2026-09-02 — Phase 3)
+
+- **(§V gains the nuclear-ceiling confessed limit. PENDING HUMAN
+  REVIEW.)** Per the REVIEWED coda/memo.md holding note and spine
+  §8(f) (Economist placement 5, YES): the entanglement point and
+  the pause-or-precedent question inserted as §V's closing
+  paragraph, with the source carried by ch12 (the coda cites no
+  contemporary reporting directly); the wager's independence from
+  the answer stated. The [BRIDGE]-adjacent judgment — whether "a
+  settlement is an order nobody finds it worth fighting" stands as
+  the coda's line — is Roderick's to keep or cut.
 
 ## Revisions (pre-review, 2026-08-03)
 
