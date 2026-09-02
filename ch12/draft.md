@@ -685,6 +685,23 @@ Roderick reviewed the final batch: ch12 approved with revisions.
    HUMAN REVIEW; [RE-CHECK AT PRESS] retained (events ongoing at the
    report's date).
 
+**(2026-09-02 — Phase 3 renovation. PENDING HUMAN REVIEW.)** Four
+draft changes, executed per spine §8(b)/(c)/(d)/(f) and itemised in
+full at ch12/memo.md Revisions 7: (i) §IV's "monasteries, not
+Standard Oil" sentence superseded by the regulation-of-the-switch
+passage (the twelve-case pattern; the proof case with the lag; the
+Sherman-king lineage; the Microsoft tempo limit; the *Moody* limit;
+the verdict declared in spine §7's tense); (ii) §IV gains the
+Bratton engagement by name (all pins scan-page pins, to be re-set
+against the printed edition) and the watts-are-powder answer; (iii)
+§V's nuclear-overhang paragraph gains the entanglement sharpening
+and the confessed-limit question; (iv) cross-references to
+american-pattern.md's new Revisions 1–3 (packers and Money Trust
+upgrades; the energy input row). No reviewed sentence silently
+rewritten; the superseded monasteries passage is preserved in the
+git history and its supersession was ordered by spine §8(c)'s
+CONFIRMED instruction (ii).
+
 ---
 
 STATUS: REVIEWED (Roderick, 2026-08-02) — approved with revisions
