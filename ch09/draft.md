@@ -338,7 +338,10 @@ interval in corporate form, the returning person
 re-personalising the constitution that had briefly operated
 without him. Institutionalisation of the new political bodies
 is pending, not achieved; the two-bodies problem of the
-platform age is live, and Appendix C carries its indicators.
+platform age is live, and Chapter 12 weighs it where it bears
+hardest — in the Chinese candidacy, whose settlement is being
+executed as personal rule, and in the succession clauses of every
+charter Part III reads.
 
 The fifteenth century's resolution, when it came, did not come
 from constitutional theory at all. No regency ordinance, no
@@ -371,4 +374,21 @@ reported-only; Starlink/Crimea in the corrected declined-to-
 enable form, attributed; DOGE and the OpenAI board drafted as
 dated episodes. No claim beyond the reviewed memo.*
 
-STATUS: REVIEWED (Roderick, 2026-08-02) — approved as drafted
+## Revisions
+
+1. **(2026-09-03 — Phase 4 Run A, integration. PENDING HUMAN
+   REVIEW.)** One change (check 4, mismatch 3). §VI's close
+   promised "Appendix C carries its indicators" for the two-bodies
+   problem — the assembled Appendix C carries no such indicator (no
+   C9-x exists; C11-3 measures state-vs-subject litigation, not
+   two-body fragility). The promise is redirected to what the book
+   actually does: ch12 §IV weighs the two-body exposure in the
+   Chinese candidacy ("whether a settlement executed *as* personal
+   rule reproduces the two-body fragility Part II diagnosed").
+   FLAG for Roderick: if a scored two-bodies indicator is wanted
+   instead, it must be built into Appendix C — an addition the
+   integration pass may not make.
+
+---
+
+STATUS: REVIEWED (Roderick, 2026-08-02) — approved as drafted; Revisions 1 (Phase 4 Run A) PENDING HUMAN REVIEW
