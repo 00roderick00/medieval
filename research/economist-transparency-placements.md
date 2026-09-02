@@ -1,15 +1,16 @@
 <!--
 Filed: 2026-09-02
 Origin: in-session analysis (Claude, chat of 16 August 2026) of The
-Economist's August 2026 essay by its departing defence editor on the
-"crucible of transparency" — drone warfare, sensor networks and the
-lessons of Ukraine, Lebanon and Operation Epic Fury — read against
-spine.md at Roderick's request. Placements are proposals awaiting his
-ruling. THE ESSAY ITSELF IS NOT YET IN THE CORPUS: Roderick holds the
-PDF; it should be dropped into corpus/retrieved/ and entered in the
-relevant sources.md at T3 (quality long-form journalism — supporting
-colour and contemporary reporting, never sole support for a
-structural claim) before any of the figures below are used.
+Economist Essay "Easier to start, harder to win" (web headline "The
+dangerous delusion of modern warfare"), 28 May 2026, by its departing
+defence editor — drone warfare, sensor networks and the lessons of
+Ukraine, Lebanon and Operation Epic Fury — read against spine.md at
+Roderick's request. Placements are proposals awaiting his ruling.
+THE ESSAY IS IN REPO (2026-09-02): corpus/retrieved/"The dangerous
+delusion of modern warfare _ The Economist.pdf". It is to be entered
+in the relevant sources.md at T3 (quality long-form journalism —
+supporting colour and contemporary reporting, never sole support for
+a structural claim) before any of the figures below are used.
 
 Reflective analysis — NOT a manuscript source. No chapter, memo, or
 draft may cite this file. All figures quoted here (5,000 targets a
