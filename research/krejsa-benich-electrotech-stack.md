@@ -89,6 +89,12 @@ compute as the most valuable conversion of it? The article is the
 best short T3 statement of the second position and should be engaged
 as such.
 
+**RULED, 2 September 2026 (spine §8(d)): compute-led, energy as an
+input.** The energy layer is scored as a necessary input to the
+decisive layers, not as the master metric; the article is engaged as
+the best statement of the position the book declines, and for the
+supply-concentration point, which it keeps.
+
 ## 3. Where it hands the book evidence for its own mechanism
 
 - **Civilian scale as the modern fisc.** "Detroit became the Arsenal
@@ -164,11 +170,11 @@ as such.
 ## 5. Placement (proposals for Roderick's ruling)
 
 - **ch12 §IV (the American route) and the mirror table:** add an
-  energy/electrotech row — batteries, power electronics, grid
-  orchestration, generation — with the article as the T3 statement
-  that this is the substrate the other rows share; the "compute is
-  electricity by other means" sentence quoted; the layer question in
-  §2(b) above stated openly as a choice the book makes.
+  energy/electrotech INPUT row beneath the decisive layers —
+  batteries, power electronics, grid orchestration, generation — with
+  the article as the T3 statement of the substrate the other rows
+  share; the "compute is electricity by other means" sentence quoted
+  and answered per §8(d): powder, not gun.
 - **spine §4:** consider one added sentence: the longbow of the
   present is built from the cannon's materials — democratised in use,
   concentrated in supply. (Roderick's document; proposal only.)

@@ -245,3 +245,23 @@ through its own T1 primary, now in corpus.
 two research probes (French fiscal settlement; Standard Oil
 off-switch); Appendix C's rebuild into scored sub-wagers. Consistent
 with §7: the consolidation is compelled, not accomplished.]
+
+### (d) The decisive stack: compute-led, energy as an input
+RULING, 2 September 2026 (given on reading Krejsa & Benich, "War:
+Watt Is It Good For?", WOTR, 20 Aug 2026 — research/
+krejsa-benich-electrotech-stack.md): the decisive stack is
+compute-led, with energy as an input. Electricity — generation,
+storage, direction — is a necessary input to the decisive layers
+(compute, fabs, models, constellations, munitions, identity) and is
+scored as such; it is not the master metric and the book does not
+restate its mechanism as an energy race. The cannon is the full-stack
+AI-automated state (§4); watts are its powder, not its gun. The
+electrotech point is kept in its supporting form — the democratised
+weapon is built from the concentrated stack's materials, so control
+of supply is control of the people's weapon too — and the energy row
+enters ch12's mirror table as an input row beneath the decisive
+layers, not as their base.
+
+[GOVERNS: ch12 §IV and the mirror table; ch10 §VIII (the
+civilian-scale reserve stated as a disanalogy, not a new mechanism);
+Appendix C's American sub-wager indicators; any gloss to §4.]

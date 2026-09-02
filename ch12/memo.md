@@ -549,6 +549,36 @@ parse and may later sharpen §7's Castillon return.
      corpus. None of these breaks the pattern; all of them
      discipline how it may be written.
 
+6. **(2026-09-02 — RULING recorded: the decisive stack is compute-led,
+   energy an input (spine §8(d)). PENDING HUMAN REVIEW of the
+   consequences, not of the ruling.)** Given on reading Krejsa &
+   Benich, "War: Watt Is It Good For?" (WOTR, 20 Aug 2026; T3;
+   research/krejsa-benich-electrotech-stack.md). Consequences for the
+   chapter: (i) the mirror table (ch12/american-pattern.md TABLE 2)
+   gains an energy/electrotech row placed as an INPUT beneath the
+   decisive layers, not as their base — generation, storage, power
+   electronics, grid orchestration — with the control instruments
+   that already operate there (component prohibitions; licences for
+   foreign battery technology; the "smart-to-dumb" control-layer
+   test) as the power-switch test one layer down; (ii) §IV states
+   the electrotech point in its supporting form — the democratised
+   weapon (spine §4's longbow) is built from the concentrated
+   stack's materials, so control of supply is control of the
+   people's weapon — and answers "compute is merely electricity by
+   other means" per the ruling: watts are powder, not gun; (iii) the
+   article's own prescription (managed dependency by risk tier,
+   licensed foreign technology, demand credits) is recorded as the
+   observed American hybrid at the energy layer (spine §8(b)),
+   not argued away; (iv) the civilian-scale-reserve disanalogy
+   (Detroit) is routed to ch10 §VIII, and the IRA-repealed /
+   CHIPS-survived contrast to ch11/coda as Estates politics; (v)
+   Appendix C: two candidate indicators for the American sub-wager
+   (a demand instrument for batteries/electrotech enacted under a
+   security banner; component controls moving from blanket origin
+   bans to control-layer licensing). Every figure the article carries
+   is T3 pending a primary (retrieval-master rows of 2 Sep, third
+   entry). No draft text touched.
+
 ---
 
 STATUS: REVIEWED (Roderick, 2026-07-31 — read in full, nothing to add; no revisions required)
