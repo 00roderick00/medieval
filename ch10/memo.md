@@ -997,6 +997,77 @@ Drafting of ch10/draft.md may now proceed against this reviewed memo (§7).
       failed is between apparatus and war aims, not between apparatus
       and fisc. State the limits or the parallel overclaims.
 
+17. **(2026-09-02 — the fiscal-settlement probe executed
+    (ch10/fiscal-settlement.md), per spine §8(a)'s RESEARCH ORDER.
+    PENDING HUMAN REVIEW.)** Contamine Tomes 1–2 extracted in full on
+    the settlement; the probe carries the verbatim record and the
+    dated fiscal-vs-artillery chronology. What it establishes, and
+    where it bears on this memo's causal sequence:
+    - **§2's 1439 sentence loses half its footing.** The memo states
+      the Orléans ordonnance granted that "the king alone raises
+      troops, names captains, and levies the taille for their pay"
+      [T3]. Contamine supports the troop monopoly and captain
+      licensing at T2 (verbatim, with the Ord. t. XIII pp. 306–13
+      citation) but is ENTIRELY SILENT on a 1439 taille grant — no
+      grant language, no index entry for taille/aides/gabelle
+      anywhere in the monograph. The taille half of the sentence
+      remains T3 until the ordonnance text (Gallica, human pull —
+      retrieval-master) and/or Wolfe/Henneman/Major are in repo.
+      Draft consequence when renovation comes: "the taille of 1439"
+      is period shorthand for a 1439–c. 1451 process, not a datable
+      act.
+    - **§2's gradualism is upgraded from T3 to T2.** The 25 April
+      1446 "jusqu'à la conclusion de la paix" act, the
+      "toute provisoire… quasi définitif" judgment, and Contamine's
+      general law ("l'extraordinaire se mue alors en ordinaire") are
+      now verbatim in the probe — the memo's gradualist reading (per
+      §0.3) is Contamine's own.
+    - **Causal-sequence refinement for §6 (and the spine §8(a)
+      hinge).** The 2:1 artillery budget (1442, print p. 666,
+      confirmed) predates the working fisc: before 1444 there was
+      "ni budget, ni prévisions," and the permanent army's financial
+      infrastructure is efficient only "à partir de 1445." Royal
+      artillery superiority was achieved under improvised finance
+      and then institutionalised by it — co-evolution, with the
+      guns' ascendancy (Bureau 1437–42) sitting between the monopoly
+      claim (1439) and the fisc (1445). Additionally the
+      irreversibility Contamine documents ("quasi définitif") is
+      dated 1445–46, BEFORE the 1449–53 proof: what 1449–53
+      ratcheted was the acquiescence (no Estates General until
+      1484), not the crown's intent. Flagged in the probe §8 for
+      Roderick's ruling on the ratchet's precise object; not
+      resolved here.
+    - **§3 correction flagged: the Gaspard date.** The memo has
+      Gaspard "grand-master of the king's artillery from 27 December
+      1444 — succeeding Pierre Bessonneau." Contamine instead:
+      the brothers "pratiquement supplanté" Bessonneau "dès 1437";
+      Jean's artillery account opens August 1439; Bessonneau's last
+      account closes 20 February 1440; Gaspard's first account opens
+      14 January 1441 (Annexe VIII, print pp. 639–40; succession
+      passage index-confirmed print p. 238). The 27 Dec 1444 date is
+      NOT in Contamine — its carrier must be identified or the date
+      dropped at renovation.
+    - **Pin corrections.** (i) Revisions 14's Praguerie
+      "capitaines convenables et suffisans" passage sits in ch. XIV
+      (print pp. 399–450, ~402–03; Bourré note index-confirmed p.
+      405), not "~pp. 267–68" — the inline OCR page markers of the
+      EHESS reprint drift up to ~8 pages against print pagination,
+      which qualifies ALL "~p." pins taken from inline markers in
+      Revisions 10–14; print-image verification before any draft
+      quotation. (ii) Contamine prints "Louppy-le-Château," not
+      "Louppy-le-Châtel" — check Cosneau before draft use. (iii)
+      Contamine dates the Praguerie exchange "entre 1440 et 1442,"
+      wider than §2's "February–July 1440"; the Cusset/Richemont
+      narrative is NOT in Contamine and keeps its T3 flag.
+    - **Two negative findings that discipline the draft.** The
+      phrase "taille des lances" occurs nowhere in Contamine 1972
+      (substance yes — forecastable ordinaire receipts, district
+      assignment of lances, Annexe IX in-kind schedules; term no);
+      and Contamine provides no taille-YIELD series (the 1.8M→4.6M
+      arc keeps its tertiary flag) — his contribution is the
+      expenditure series, including military spending at 74% of
+      4.7M l.t. in 1482, which §2 does not yet use.
+
 ---
 
 STATUS: REVIEWED (Roderick, 2026-07-23) — cleared for drafting
