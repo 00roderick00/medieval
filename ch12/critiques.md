@@ -180,3 +180,42 @@ precisely so that patience cannot be pleaded later.
   and hand the reader the indicators, without summary?
 
 *(Run pending; results to be pasted below with date.)*
+
+---
+
+## Revisions (2026-09-02)
+
+1. **(2026-09-02 — the H200 revenue cut set against the off-switch
+   record. PENDING HUMAN REVIEW.)** Executed against spine §8(c) and
+   ch12/standard-oil-offswitch.md; no draft text proposed.
+   - **The evidentiary status first.** The H200 revenue-cut
+     arrangement is carried in this repo only as ch10 memo §7's
+     flagged licensing flux ("H20 ban→reversal→revenue fee→H200
+     case-by-case… to be re-verified at press time"); no primary
+     instrument for the arrangement is in corpus. Everything below
+     is conditional on that verification — [RE-CHECK AT PRESS].
+   - **The analytical point, from the probe's record.** The
+     instruments that actually constituted the American energy
+     off-switch are control instruments that yield no revenue:
+     common-carrier status, proration allowables, contraband
+     interdiction, license-and-block powers, a conditional reserve.
+     The one revenue-bearing instrument in the 1911 story — the
+     retained shares — is precisely the side that carried WEALTH,
+     not power. A percentage of the syndicate's sales sits on the
+     wealth side of that ledger: it gives the state an interest in
+     the flow continuing, which is the opposite of an off-switch.
+     Spine §8(c)'s formulation ("a cut is income, not control; the
+     mechanism runs on control") is therefore consistent with the
+     1911-order record as retrieved.
+   - **The complication to hold onto (flag, not resolution).** TWEA
+     § 5(b) controls "by means of licenses" — and a licence can
+     carry BOTH a fee and conditions. Whether the H200 arrangement
+     is venality (the Crown joining the syndicate) or an embryonic
+     licence (fee now, conditions later) is exactly the question
+     spine §8(c) says the mechanism will force; the probe's record
+     shows the American system historically converting emergency
+     licence-and-block powers into standing control, over decades.
+     The critique's answer to Objection 5 (dated thresholds) should
+     eventually score this: a cut that never acquires conditions is
+     venality; a cut that acquires revocation conditions is the
+     settlement beginning. Not resolved here.

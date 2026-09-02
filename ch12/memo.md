@@ -337,6 +337,42 @@ parse and may later sharpen §7's Castillon return.
      stack itself. Registered as a tension for his ruling, per the
      2026-09-02 instruction to flag rather than resolve.
 
+2. **(2026-09-02 — the Standard Oil off-switch probe executed
+   (ch12/standard-oil-offswitch.md), per spine §8(c)'s RESEARCH note.
+   PENDING HUMAN REVIEW.)** The 1911 opinion is now in corpus at T1
+   (Cornell LII text plus the official U.S. Reports PDF with the
+   decree footnote), with the off-switch migration documented from
+   open primaries (Hepburn 1906; Texas 1917; the RRC proration
+   orders 1930–32; Connally and the Interstate Oil Compact 1935; EO
+   8832/TWEA 1941; EPCA § 161 1975; IEEPA 1977). What the probe
+   establishes for this memo:
+   - **The control-rights reading is supported at T1.** The decree
+     dissolved the holding structure and enjoined recombination
+     while ordering no individual divestiture and no operational
+     severance (the Court's own pipeline illustration: a combined
+     continuous line post-dissolution "would not be repugnant to
+     the act"). Wealth retained; unified command extinguished. The
+     wealth side of the decoupling (fortune ~$300M → ~$900M+ by
+     end-1913) is carried openly only by an unfootnoted T3 (Cato
+     *Regulation*, Summer 2025) — **[UNVERIFIED — RETRIEVAL:
+     Chernow; Yergin]**.
+   - **The sequence refinement (probe §6).** The off-switch did not
+     transfer in the breakup; it was assembled 1906–1977 by
+     carriage, production and transaction instruments, Hepburn
+     PRECEDING the dissolution. If §§2–3's American-case treatment
+     adopts the proof case at renovation, it should carry the lag —
+     decoupling first, control-acquisition over a generation —
+     which mirrors ch10's fiscal gradualism rather than a
+     single-act settlement.
+   - **Tension flagged, not resolved:** draft §IV's "not the
+     American state's Standard Oil but its monasteries" versus
+     spine §8(c)'s "Standard Oil is the proof case" — probe §6.3
+     states the reconciliation candidates; Roderick's call.
+   - The mirror table (probe §5) states the modern analogues with
+     per-row disanalogies; the strongest row is the
+     equity-intact/control-transferred one — the licence — which is
+     also where draft §IV already stands.
+
 ---
 
 STATUS: REVIEWED (Roderick, 2026-07-31 — read in full, nothing to add; no revisions required)
