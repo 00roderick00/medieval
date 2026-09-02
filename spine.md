@@ -165,3 +165,68 @@ both written in my hand at the rewrite. Also governs register
 throughout: wherever a draft states the reassertion as achieved
 rather than required, that is a conformance error against this
 section.]
+
+## 8. Council rulings (August 2026 — governs the renovation)
+
+*Rulings given by Roderick on 9 August 2026 in response to the Model
+Council Synthesis (research/model-council-synthesis.md); wording
+shaped in-session from his dictation and filed 2 September 2026. His
+document per §9.*
+
+### (a) The hinge: co-evolution with a ratchet
+I adopt the corrected chronology in co-evolutionary form. Finance and
+firepower built each other across two decades: the taille of 1439 and
+the compagnies of 1445 precede the decisive employment of 1449–53,
+but the artillery revolution of the 1420s–30s precedes the taille —
+the Estates voted permanence in a world where royal guns were already
+earning visible returns. Artillery is not the motor and not a mere
+consequence: it is the RATCHET — the technology that made the fiscal
+settlement irreversible by delivering wall-breaking proof no Estates
+could argue with and no magnate could replicate. Tech is critical; it
+acts to bolster and lock the fiscal settlement. This is also the
+book's differentiation from Tilly: not war-made-the-state in general,
+but a two-stroke mechanism with a technology at the irreversibility
+point.
+RESEARCH ORDER: the French fiscal settlement itself needs more depth —
+how the 1439 Orléans grant actually came about, the Estates politics,
+the aides/taille/gabelle architecture, the élus and généralités, the
+Praguerie as the settlement's civil war. This becomes a dedicated
+research job before ch10 is renovated.
+
+### (b) The settlement: hybrid, stated per bloc
+The predicted outcome is a hybrid settlement, stated explicitly per
+bloc — the Sforza thread (operative but never invested) is its legal
+form. Which side of the absorption contest (state absorbs stack vs.
+stack absorbs state) the evidence favours is specified bloc by bloc,
+and the Bratton convergence is engaged by name.
+
+### (c) America: the four routes stated, my verdict declared
+The book states all four readings of the American case as live routes
+(consolidation-in-progress; venality/the Crown joining the syndicate;
+contractual-oligarchic settlement; persistent undermighty kingship).
+My verdict, argued openly: consolidation will happen. The state stops
+being undermighty and enforces what looks like a hybrid solution on
+the over-mighty lords but is in fact consolidation — through
+licensing, legal process, and fundamentally the ability to turn their
+systems off. This is the path America has taken against over-mighty
+barons before: antitrust and its kindred legal instruments. Standard
+Oil is the proof case, and the point is precise: Rockefeller got
+RICHER when Standard Oil was broken up, and less POWERFUL — wealth
+and power decoupled by legal instrument. The state did not take the
+oil; it destroyed the vertical integration that made oil sovereign.
+The question that matters then and now: after the breakup, who owned
+the power to turn off the energy? [RESEARCH: trace that answer
+properly — the migration of the energy off-switch from the trust to
+the regulated order.] The modern equivalents: licensing to run
+frontier AI, revocation rights over compute/constellation/foundry
+access, the legal decomposition of platform vertical integration.
+The H200 revenue cut is the pre-antitrust moment — the Crown taking
+a cut from the syndicate — and the thesis predicts its correction:
+a cut is income, not control, and the mechanism runs on control.
+The venality and undermighty readings describe the 1890s phase of
+the American pattern, not its terminus.
+
+[GOVERNS: the Phase 3 renovation of ch06, ch10, ch11 and ch12; the
+two research probes (French fiscal settlement; Standard Oil
+off-switch); Appendix C's rebuild into scored sub-wagers. Consistent
+with §7: the consolidation is compelled, not accomplished.]

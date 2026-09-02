@@ -615,3 +615,52 @@ methodological — their border-hardening and border-elimination
 measures are a historical analogue of C's consolidation indicators,
 worth at most a headnote citation. Both placements are Roderick's
 call; nothing inserted in any draft.
+
+## 2026-09-02: post-council additions — filing session (Roderick's 9 August rulings, spine §8)
+
+Filed on the reconciliation of the repo against the 9 and 16 August
+conversations. Sources of these entries: research/model-council-
+synthesis.md (Phase 2 retrievals), spine.md §8 (the two research
+probes), research/perplexity-contemporary-misdiagnosis.md (the
+comparative-cases leads), research/economist-transparency-
+placements.md. Cross-checked against this ledger first: **Parrott**
+(row 2026-08-06, MED → **HIGH**, now a named structural rival per the
+council and spine §8(b)); **Wolfe** (row above, ch10 — now also the
+fiscal-settlement probe); **Ágoston, *Guns for the Sultan*** (row
+above with İnalcık/Murphey — the 2014 *JWH* article is the new,
+open-access entry below); **Bobbitt** (row 2026-08-06, unchanged).
+Everything below is new to the ledger.
+
+### Phase 2 — structural rivals and lineage (council)
+
+| Work | Needed for | Priority | Route / status |
+|---|---|---|---|
+| Bratton, *The Stack: On Software and Sovereignty* (MIT Press, 2015) | ch12 §IV (the book borrows the noun; must engage his rival prediction that sovereignty migrates to the stack); coda; Appendix A | **HIGH** | BUY (MIT Press pb) / library ebook; IA borrow possible |
+| Bratton, "Hemispherical Stacks" (*MIT Press Reader*, Feb 2026) | ch12 — his convergence on the bloc-level prediction must be cited from his text, not the council's summary; the stack-divisibility disanalogy | **HIGH** | OPEN WEB — human pull (bot-block likely); verify date and title |
+| Spruyt, *The Sovereign State and Its Competitors* (Princeton, 1994) | ch04/ch11/ch12 — the capital-rich non-consolidators (Hanse, Venice, Dutch) as the omitted comparanda for the syndicated-stack case | MED | BUY used / IA borrow likely |
+| Scheidel, *Escape from Rome* (Princeton, 2019); Hoffman, *Why Did Europe Conquer the World?* (Princeton, 2015) | coda — the endogeneity point: consolidation may kill the innovation that produces the stack; Hoffman's tournament model for ch10 critiques | MED | BUY (in print) / library ebook |
+
+### Spine §8 research probes
+
+| Work | Needed for | Priority | Route / status |
+|---|---|---|---|
+| Henneman, *Royal Taxation in Fourteenth-Century France* (2 vols, 1971, 1976); Major, *Representative Government in Early Modern France* (1980); Wolfe (row above); Contamine Tomes 1–2 (IN REPO) | **French fiscal-settlement probe** — how the 1439 Orléans grant came about, the Estates politics, aides/taille/gabelle, élus and généralités, the Praguerie as the settlement's civil war (spine §8(a) RESEARCH ORDER; gates the ch10 hinge recast) | **HIGH** | Henneman: IA borrow likely / used; Major: Yale UP, used; a dedicated research job, PENDING |
+| Standard Oil breakup literature — *Standard Oil Co. of New Jersey v. United States*, 221 U.S. 1 (1911) (T1, open); Chernow, *Titan* (1998); Yergin, *The Prize* (1991); Childs, *The Texas Railroad Commission* (2005); Bringhurst, *Antitrust and the Oil Monopoly* (1979) | **Standard Oil off-switch probe** — the 1911 decree as a control-rights story: what it severed, where energy revocation authority migrated (state utility commissions; the Texas Railroad Commission's later production control), the wealth/power decoupling (spine §8(c) RESEARCH; evidentiary spine of ch12's American section) | **HIGH** | 1911 opinion: open (Justia/LII), human pull; Chernow/Yergin: cheap used; Childs: Texas A&M UP; a dedicated research job, PENDING |
+
+### Comparative-cases leads (Perplexity, 9 August — page pins to verify)
+
+| Work | Needed for | Priority | Route / status |
+|---|---|---|---|
+| Ibn Iyas, *An Account of the Ottoman Conquest of Egypt in the Year A.H. 922 (A.D. 1516)*, tr. W. H. Salmon (Oriental Translation Fund, 1921) | ch11 (Mamluks copied the Ottoman gun-wagons and lost: the "copied the weapon, not the state" counter-case beside the Ottoman material); the report's pp. 42–98 pins | MED | OPEN — archive.org full text, human pull; T1 primary in translation |
+| Ágoston, "Firearms and Military Adaptation: The Ottomans and the European Military Revolution, 1450–1800," *Journal of World History* 25:1 (2014), 85–124 | ch11 (Ottoman fiscal-administrative-logistical integration as the decisive variable; Raydaniyya intelligence point); ch06/ch10 critiques (Andrade–Sharman objection, from the Ottoman side) | MED | JSTOR / MUSE (alumni access) — pins at pp. 87, 93, 111, 123 to verify |
+| Fuess, "Les janissaires, les mamelouks et les armes à feu," *Turcica* 41 (2009), 209–227 | ch11 — dismantles the "chivalric refusal of firearms" story for the Mamluks | LOW | Peeters Online Journals; alumni access uncertain |
+| Jean de Venette, *Chronicle* (tr. Birdsall, ed. Newhall, Columbia 1953); Lefèvre, "La déconfiture" (on Montebelluna, *Tragicum argumentum*) | ch06/ch07 — the same-war control: French contemporaries explaining Crécy/Poitiers by Genoese treachery, cowardice and sin (Montebelluna's explicit rejection of the structural explanation as a candidate epigraph); Rogers on integrated English tactics already partly in repo | MED | Venette: IA borrow / used; Lefèvre: article, route to verify |
+| Master Roger, *Epistola in miserabile carmen* and Thomas of Split, *Historia Salonitana*, CEU Press bilingual editions (Central European Medieval Texts) | ch08 or ch11 sidebar — near-complete inventory of Mongol practice without a category for the system (the "seeing components, not coupling" device) | LOW | CEU Press; library / used |
+| Bloch, *L'Étrange Défaite* (1946; Eng. *Strange Defeat*) | coda / ch12 — the modern control where the correct systemic answer was available in real time and rejected for political reasons; "essentially an intellectual victory" | LOW | Open (French text online) / cheap pb |
+| Searle & Zhang on Qing perceptions of British force, Opium War | reserve sidebar only | LOW | T&F — verify page refs against version of record per the report's own caution |
+
+### Economist essay (16 August)
+
+| Work | Needed for | Priority | Route / status |
+|---|---|---|---|
+| The Economist, August 2026 essay by the departing defence editor on drones, sensors and the "crucible of transparency" (exact title/date to pin) | ch10 §VIII / ch12 (capital-intensity migration; Epic Fury as Depreter case; nuclear ceiling); ch06 §VI (Belloc pairing) — T3, supporting colour only; every figure re-sourced to primaries | MED | **Roderick holds the PDF — drop into corpus/retrieved/ and pin in ch10/ch12 sources.md**; Freedman, *The Future of War* (2017) for the knock-out-blow genealogy: BUY / IA borrow |
