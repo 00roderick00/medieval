@@ -13,13 +13,13 @@ the four candidate blocs unless narrower.*
 | 3 | The retinues | England (livery/maintenance) | France (écorcheurs); Burgundy (Golden Fleece); the Empire (Fehde) | Italy held for ch. 4 | US contractor economy; UK custody contracts; Israeli export licensing |
 | 4 | The condottieri | Italy (Hawkwood, Sforza) | The Hansa (Baltic); Venice | Prigozhin's Russia (the failed from-below) | US Sforza-from-above; the frontier labs |
 | 5 | The undermighty kings | England (Henry VI) | France (Charles VI); the Ottomans (1444–51) | Portugal/Aragon stable; France recovering (the pivot) | Somalia/Lebanon/Libya (territorial); US/EU/Japan (functional) |
-| 6 | The walls | France (the reconquest) | England (the defender); Gascony (the loyalty test) | Fougères (ducal guns fail); Bordeaux 1452 (politics without the train) | 1940 France; 2021 Kabul ([BRIDGE], tempo only) |
+| 6 | The walls | France (the reconquest) | England (the defender); Gascony (the loyalty test) | Fougères (ducal guns fail); Bordeaux 1452 (politics without the train) | 1940 France; 2021 Kabul ([BRIDGE], tempo only); the misdiagnosis series (Mamluk 1516; France 1940) at §V |
 | 7 | The commons | England (Cade) | France (Praguerie); Italy (Ciompi legacy); the Empire (Bundschuh, Armer Konrad, Cologne) | The Merfolds (the genuinely revolutionary contrast) | Brexit UK; US; France (gilets jaunes); Italy (M5S, the exception); Germany (AfD, the exchange) |
 | 8 | Private justice | England (the Pastons) | The Empire (Fehde/Landfrieden); Italy (vendetta/pax) | The Empire post-1495 (assertion without substrate) | Arbitration/ISDS; platform courts; crypto; offshore |
 | 9 | The two bodies | England (the protectorates) | France (the 1393/1403 ordinances); Troyes (the dual monarchy) | England's refused vs France's legislated substitute | US/Meta/Alphabet charters; China's term-limit removal; OpenAI board |
 | 10 | The artillery state | France (companies, taille, Bureau service) | Burgundy; the Swiss Confederation | Burgundy (centre fails); Swiss (no compulsion); England (fisc fails) | US, China, EU, India — the four-layer stack |
 | 11 | The new monarchies | England (Henry VII) | France (extended); Spain (Ferdinand & Isabella); the Ottomans (Mehmed II) | The Habsburg composite (noted, different path) | The five moves across all four blocs |
-| 12 | The synthesis | (all four blocs) | Tudor England as anchor | The EU under the Depreter test | US probable; China executed; EU conditional; India possible |
+| 12 | The synthesis | (all four blocs) | Tudor England as anchor | The EU under the Depreter test | US probable; China furthest along; EU conditional; India possible |
 
 **The rule's exceptions, declared:** chapters 1, 2 and 12 are
 literature, structural and synthesis chapters respectively; their
@@ -27,4 +27,16 @@ comparative obligation is carried by the material they organise rather
 than a single primary polity. Nowhere in the book does an
 English-leaning argument stand on England alone.
 
-STATUS: ASSEMBLED — REVIEWED (Roderick, 2026-09-02 — review pack)
+## Revisions
+
+1. **(2026-09-03 — Phase 4 Run A, integration. PENDING HUMAN
+   REVIEW.)** Two cell changes (checks 2 and 8): row 12's synthesis
+   column "China executed" → "China furthest along" (tense sweep
+   A4/A1; spine §7); row 6's modern column gains the misdiagnosis
+   series ch06 §V now actually runs (Mamluk 1516 via Ibn Iyas;
+   France 1940 via Bloch — both in corpus at T1). The table
+   otherwise matches the chapters as renovated.
+
+---
+
+STATUS: ASSEMBLED — REVIEWED (Roderick, 2026-09-02 — review pack); Phase 4 Run A Revisions 1 PENDING HUMAN REVIEW

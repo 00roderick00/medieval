@@ -813,4 +813,43 @@ memos (2026-07-23); extended from ch11 and ch12 memos and the ch00-intro
 wager linkage (2026-07-24). To be extended by each subsequent chapter
 job; assembly per the directive above.*
 
+## Revisions (2026-09-03 — Phase 4 Run A, integration)
+
+1. **(Check 8. PENDING HUMAN REVIEW; appendix-c/appendix.md itself
+   untouched per the run's do-not-touch list.)**
+   - **The fifteen assembled indicators' baselines, verified against
+     the Phase 3 corpus and chapter sources.md entries — marked:**
+     IN HAND (primary or verified chapter source in corpus): the
+     context variable (NATO Hague pledge; ReArm; CRS R48887); C11-1
+     (ch11 §VI instrument record); C10-2 (SIA/BCG in repo; BIS
+     rules in repo); C10-1 (CHIPS statute figures per ch10
+     sources); C10-3 (GAO/DoD IG/NDIS per ch05/ch10 sources);
+     C12-1 (the March 2025 week; Jeddah statement verbatim in
+     corpus); C12-2 (attributed official figures per ch12 §0.2
+     discipline); C2-3 (Anthropic docket dates per ch03/ch11
+     sources); C3-2 (10-K figures verbatim); C7-1 (OBR March
+     2024); C8-2 (Achmea/Komstroy/ECT/DSA/MiCA/Binance per ch08
+     sources); C8-3 (EU Tax Observatory 2024); C11-2 (OECD/CRS
+     figures per ch11 sources); C11-3 (dockets as cited); C6-3
+     (IRIS² concession; licensing patterns [RE-CHECK AT PRESS]).
+     PENDING (browser pins owed or figures flagged in their
+     chapters): C2-1's WAICO and $1-deal pins; C4-1's
+     counter-drone ceiling upper figure; C10-2's TrendForce table;
+     Starshield's canonical Reuters URL (bot-blocked, noted in
+     ch10 sources). No baseline was found contradicting its
+     chapter source.
+   - **The American sub-wager CA-1..8** stays in this memo as the
+     clearly separated DRAFT block (it has never entered
+     appendix.md), in exactly the form ch12/memo.md Revisions 7
+     proposed — Appendix C to carry the indicators, ch12 to
+     cross-reference them — with its baselines marked IN
+     HAND/PENDING there. Entering it into appendix.md awaits
+     Roderick's placement ruling being executed at the next
+     assembly of the appendix; nothing merged into the fifteen.
+   - **A4 note (tense sweep):** the C11-1 baseline's "China 5/5 in
+     execution" is scorecard wording and stands ("in execution" is
+     §7-conformant); the prose that compounded it (ch12 §IV, coda
+     §V, appendix-b row 12) was conformed in this run's chapter
+     passes.
+
 STATUS: PENDING HUMAN REVIEW (running file)
