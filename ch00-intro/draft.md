@@ -35,8 +35,9 @@ had passed through the new order's machinery once already — held
 hostage for a surrendered city's compositions, his liberty a clause in
 a treaty — and if one reading of the day is right, he charged not in
 despair but for the guns themselves, the war's decisive instrument
-briefly, falsely, reported loose (a possibility Chapter 6 weighs and
-declines to decide). Either way, the field settled the larger
+briefly, falsely, reported loose (a reading Chapter 6 stages against
+the contemporary verdict and argues as the author's own conjecture,
+while conceding the record cannot settle it). Either way, the field settled the larger
 question. Bordeaux capitulated in October; three centuries of English
 France ended; and the instrument that ended it was not a general or a
 dynasty but a budget line — a fiscal apparatus, two permanent
@@ -98,7 +99,7 @@ consciously, in the American case; deliberately, in the Chinese —
 to subordinate every intermediate authority that stands between the
 centre and the capability. The scene is left deliberately
 underdetermined, because in 1445 it was underdetermined too. Nobody
-at Louppy-le-Châtel knew they were founding the modern state. The
+at Louppy-le-Château knew they were founding the modern state. The
 ordonnance that did it is lost.
 
 The book's three claims, in the order its parts argue them. First,
@@ -142,7 +143,7 @@ C's).
 > materially above four; or a full-stack power is defeated in
 > decisive engagement by cheap distributed systems fielded *without*
 > a patron's intelligence, connectivity, and interceptor layers
-> behind them [C6-1/C10-2; C12-1];
+> behind them [C10-2 (absorbing C6-1); C12-1];
 >
 > **2.** the legibility infrastructure fragments in fact and not
 > only in principle — bloc-internal fiscal and reporting reach
@@ -155,7 +156,7 @@ C's).
 > of being absorbed — an actor combining decisive-relevant
 > capability with a majority-commercial fiscal base escapes the
 > state's instruments, and, decisively, resolves its disputes with
-> states in fora states do not control [C2-3/C3-2; C11-3];
+> states in fora states do not control [C2-3/C3-2; C8-2];
 >
 > **4.** the Tudor moves stall across all four candidate polities —
 > no fiscal absorption of platform surplus, no canonical assertion
@@ -234,9 +235,10 @@ own theorist — locates the ending of the first dispersal in "the
 creative destruction of fifteenth to seventeenth century warfare."
 The disagreements that remain among these scholars are over
 ranking, tempo and sequence inside an agreed direction of travel.
-A mechanism assembled from its critics' concessions may still be
-wrong, but it cannot be fantasy — and where its medieval
-components are contested, the book says so in the text, by name.
+A mechanism assembled from its critics' concessions may be
+contested at any of its named joints; what it cannot be is
+fantasy — and where its medieval components are contested, the
+book says so in the text, by name.
 
 The third objection says: this is English history wearing a
 universal hat. The answer is auditable. Every English-leaning
@@ -344,7 +346,39 @@ the reviewed record.*
 
 ---
 
+4. **(2026-09-03 — Phase 4 Run A, integration. PENDING HUMAN
+   REVIEW.)** Five changes, keyed to the checks.
+   - §I (check 3; audit findings 2/5, superseded by spine §8(e)(4)):
+     "(a possibility Chapter 6 weighs and declines to decide)" →
+     "(a reading Chapter 6 stages against the contemporary verdict
+     and argues as the author's own conjecture, while conceding the
+     record cannot settle it)" — the clause made consistent with
+     what ch06 §VI now does, and no more. NOTE: this supersedes the
+     wording ordered at the 2026-08-01 review (the "single
+     authorised hedged clause"); the change executes spine
+     §8(e)(4), but the clause's register remains Roderick's if he
+     wants a different sentence.
+   - §II (check 6, duplicates item 9): "Louppy-le-Châtel" →
+     "Louppy-le-Château," matching ch10's Contamine-verified form.
+   - §IV (check 3, audit finding 1): "may still be wrong, but it
+     cannot be fantasy" → "may be contested at any of its named
+     joints; what it cannot be is fantasy" — the DEFEND-tier
+     mechanism no longer conceded as possibly wrong in passing; the
+     rhetorical shape kept.
+   - §III (check 4): two indicator IDs aligned with Appendix C's
+     assembled list and concordance — "[C6-1/C10-2…]" → "[C10-2
+     (absorbing C6-1)…]"; condition 3's forum-migration limb
+     re-pointed from C11-3 (which measures states losing in their
+     own courts — the near-opposite) to C8-2 (state reassertion
+     over private fora), the appendix's actual instrument for that
+     limb. The falsifiability passage's conditions are otherwise
+     untouched — no failure condition softened.
+   - The closing page (§V's final paragraph) untouched, reserved
+     per spine §7.
+
+---
+
 STATUS: REVIEWED (Roderick, 2026-08-02) — approved with revision
 applied; falsifiability passage confirmed verbatim. Revisions 2
 (Bull direct quotes) and Revisions 3 (Pollard ch. 1) PENDING HUMAN
-REVIEW.
+REVIEW; Revisions 4 (Phase 4 Run A) PENDING HUMAN REVIEW.
