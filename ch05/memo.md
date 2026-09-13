@@ -309,3 +309,20 @@ as written.
 ---
 
 STATUS: REVIEWED (Roderick, 2026-07-22) — cleared for drafting
+
+7. **(2026-09-13 — Spruyt intake note; pointer. PENDING HUMAN
+   REVIEW.)** Spruyt (1994, T2; full entries at ch04/ch10) mounts
+   the direct counter-case to any reading in which warfare built
+   the French state: his ch. 5 section "Why the Emergence of the
+   French State Does Not Follow from the Character of Warfare"
+   (pp. 82–86) argues Capetian consolidation preceded the military
+   transformations, the taille system was "largely in place by
+   1379" (p. 95), and the Hundred Years War "threatened to
+   fragment rather than centralize the kingdom" (p. 85). This
+   chapter's material must be stated so that it does not claim
+   what Spruyt refutes: the claim is not that war created French
+   kingship but that the 1440s price shock converted an existing
+   administrative inheritance into permanent, assembly-free war
+   finance. His positive account of the earlier taille bargain
+   (predictable royal tax preferred to irregular seigneurial
+   exaction, p. 91) is usable background at T2.

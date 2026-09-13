@@ -424,3 +424,76 @@ list; steelmen provisional; do not caricature.
      Aksan, Börekçi) noted for the retrieval list. The Andrade
      limb of the caveat remains open pending the Andrade intake
      (running this session).
+
+3. **(2026-09-13 — Spruyt read in full; the rival-mechanism
+   engagement, steelman first. PENDING HUMAN REVIEW.)** Spruyt
+   (1994, T2; sources entry this date) is the strongest available
+   rival on the causal arrow and was previously engaged only from
+   his standing reputation. From the text:
+   - **Steelman, at full strength.** The sovereign territorial
+     FORM was forged 1000–1300 by trade-driven coalitions (king +
+     towns), not by cannon: Capetian consolidation was complete
+     "by 1300," before artillery existed; the taille system was
+     "largely in place by 1379" (p. 95); "the historical evidence
+     suggests that the success of the Capetian kingdom preceded
+     the expensive developments of large infantry armies,
+     artillery, and redesigned fortifications" (p. 85). The arrow
+     reverses: "sovereign, territorial states made adoption of new
+     technology imperative" (p. 21), the pressure "becoming acute
+     about 1450" from princes who already existed. War capacity is
+     "an intervening variable, itself determined by institutional
+     makeup" (p. 30). And the selection record shows no battlefield
+     kill: "Warfare did not obliterate the alternatives to the
+     state. There were no decisive battles to end the Hanseatic
+     League or the Italian city-states" (p. 178); Venice's revenue
+     was 60% HIGHER than the French crown's in the mid-fifteenth
+     century (p. 157); small states survived by recognition, not
+     by force (pp. 32, 170–71).
+   - **The chapter's answer — accept stage one, supply stage two's
+     missing clock.** The book does not contest the Capetian
+     genesis of the sovereign TEMPLATE, and should say so flatly:
+     Spruyt's explanandum is the form; this chapter's is how the
+     form acquired teeth — terrain he formally vacates ("not the
+     particular level of monarchical administration or royal
+     revenue," p. 3) and partly concedes (war "might explain the
+     growth of government, particularly following the fifteenth
+     century," p. 77; "no doubt that the military revolution led
+     to an exponential increase in state demands," p. 30). His own
+     two-stage schema admits war as selector ("death is the final
+     arbiter," p. 84; "an important selective mechanism," p. 157)
+     and demands only that war-capacity be explained
+     institutionally — which is precisely what the priced step
+     does: after c. 1440, decisive force required continuous,
+     centralised, creditworthy revenue, so the selection
+     environment began testing an institutional property that
+     leagues and city-states structurally lacked. Spruyt never
+     explains why his selection dynamics turned fatal only in the
+     fifteenth–seventeenth centuries; the artillery threshold is
+     the clock his account lacks. And the decisive textual fact:
+     the 1440–1500 siege-artillery window does not exist as a
+     category in his book (no cannon, no sieges, no Formigny or
+     Castillon, the compagnies dismissed in one endnote, n. 83
+     p. 254) — his refutations target pre-1300 military change or
+     the post-1500 Parker/Stone revolution, never the mid-century
+     threshold this chapter argues.
+   - **What must be absorbed, not argued away:** (i) the Stone
+     inversion (p. 85) — the chapter must be precise that the
+     1439–46 settlement built on existing Capetian administrative
+     stock; the mechanism claims the price shock CONVERTED that
+     stock into permanent war finance, not that administration
+     began in 1440. (ii) The reverse-causation demand point
+     (p. 21, via Rice): absorbable as the demand side — the
+     competitive state system explains who WANTED the guns;
+     capital-intensity explains who could HAVE them, and what
+     happened to everyone in between. (iii) His mutual-empowerment
+     /derecognition mechanism (pp. 155, 170–71) is annexed, not
+     refuted: legibility as an instrument of suppression is the
+     book's own second stack, and "one does not really know what
+     the Hansa in essence is" is the template sentence for how a
+     state system treats illegible universalisms (ch12's use).
+   - Interaction with Objection 6: Spruyt attacks Tilly from the
+     opposite side (war explains too much) while this book amends
+     Tilly on timing (the unpriced hinge) — the chapter should
+     note the triangle rather than treat the rivals as one bloc;
+     his "my theory complements Tilly's analysis" (pp. 32–33)
+     marks the seam.

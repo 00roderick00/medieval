@@ -435,3 +435,40 @@ accordingly.*
   (p. 94) — a permanent-finance mechanism, described while denying
   one. Full engagement: critiques Revisions 2; ch06 critiques
   Revisions 4; Ottoman material at ch11/sources.md.
+
+- **T2 — Hendrik Spruyt, *The Sovereign State and Its Competitors*
+  (Princeton UP, 1994)** — IN REPO (OCR sidecar in source-library;
+  printed pages resolved from running heads; verify numerals against
+  page images before print). Read in full. THE STRONGEST RIVAL ON
+  THE CAUSAL ARROW, now page-pinned: "shifts in military milieu
+  alone cannot explain the development of particular institutional
+  arrangements. Rather, the reverse is true: sovereign, territorial
+  states made adoption of new technology imperative" (p. 21, with
+  the Rice quotation dating the pressure "acute about 1450"); "the
+  ability to wage war is an intervening variable, itself determined
+  by institutional makeup" (p. 30); Stone's inversion endorsed —
+  "central administration preceded and made possible modern warfare
+  rather than the other way round" (p. 85); "Warfare, in other
+  words, threatened to fragment rather than centralize the kingdom"
+  (p. 85). THE CONCESSIONS THE ANSWER ROUTES THROUGH: his two-stage
+  structure admits war at stage two — "One can perhaps say that
+  states survived because they were better at waging war than
+  synchronic and rival forms … As in all evolution, death is the
+  final arbiter" (p. 84); "Warfare is thus an important selective
+  mechanism" (p. 157); "The ability to wage war operated as an
+  intermediate cause of selection" (p. 178); "there is no doubt
+  that the military revolution led to an exponential increase in
+  state demands on society following the Middle Ages" (p. 30); and
+  he explicitly explains the FORM, "not the particular level of
+  monarchical administration or royal revenue" (p. 3), conceding
+  warfare "might explain the growth of government, particularly
+  following the fifteenth century" (p. 77). NEGATIVE FINDINGS
+  (verified full-text): "cannon" zero occurrences; "siege" zero
+  occurrences; Formigny, Castillon, the Bureau brothers, the 1439/
+  1445 ordonnances all absent; the compagnies appear once, in an
+  endnote, dismissed — "this development only reinforced the
+  monarchy" (ch. 8 n. 83, p. 254); his artillery is a
+  fourteenth-century curiosity plus a sixteenth-century revolution
+  — THE 1440–1500 SIEGE-ARTILLERY WINDOW DOES NOT EXIST AS A
+  CATEGORY IN THE BOOK. Date caveat: 1994 — predates Rogers 1995,
+  Glete, Parrott, Sharman. Full engagement: critiques Revisions 3.

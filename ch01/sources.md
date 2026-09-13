@@ -182,3 +182,19 @@ quotation.*
   concentration, not dispersal); this chapter's literature survey
   should not group him with the dispersal writers. Ebook — cite by
   chapter.
+
+## Added 2026-09-13 — source intake (pointer entry)
+
+- **T2 — Hendrik Spruyt, *The Sovereign State and Its Competitors*
+  (Princeton UP, 1994), ch. 9** — IN REPO (read in full this date;
+  full entries at ch04/ch10). For this chapter's lineage section: a
+  1994 IR text already framing crosscutting jurisdictions and the
+  EC-as-Hansa problem — "The nonsovereign logic of the Hansa proved
+  to have serious flaws. To some extent we might see the contours
+  of such problems re-emerge in the EC" (p. 190) — with a forced
+  binary (nonsovereign forms either propagate or consolidate,
+  p. 191) that anticipates both the neomedieval diagnosis and this
+  book's re-consolidation wager; he concludes for state resilience
+  ("De iure the state system is alive and well," p. 193). Belongs
+  in the pre-history of the neomedieval literature alongside Bull
+  (whom he cites, p. 16).

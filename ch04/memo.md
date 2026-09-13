@@ -347,3 +347,34 @@ STATUS: REVIEWED (Roderick, 2026-07-22) — cleared for drafting
    larger territorial states "had the scale to absorb the
    increased costs," p. 76) is the T2 frame for the chapter's
    close. Pointer only; no change to the chapter's argument.
+
+6. **(2026-09-13 — Spruyt read in full; the Hansa account tested.
+   PENDING HUMAN REVIEW.)**
+   - CONFIRMS: the chapter's Hansa-as-genuine-intermediate-authority
+     portrait, with better pins than we had (waged wars, broke
+     kings, pp. 109, 123, 127); and the memo's existing line that
+     the Hansa was domesticated rather than destroyed — Spruyt's
+     no-decisive-battle finding (pp. 166–7, tonnage HIGHER in 1600
+     than 1500) is a T2 anchor for exactly that.
+   - CONTRADICTS (full strength): any reading on which the Hansa
+     was militarily suppressed or priced out by artillery-era
+     warfare. Spruyt: death by defection, non-recognition, and
+     exit — freeriding (p. 164), no credible commitments (pp.
+     167–8), Westphalia's "one does not really know what the Hansa
+     in essence is" (p. 170). The book's answer, sketched: the
+     mechanism never claimed a battlefield kill — it claims the
+     capital-intensification of decisive force raised the
+     institutional threshold (continuous creditworthy central
+     revenue) that stage-two selection tested, and Spruyt himself
+     never explains WHY his league's defects, present from the
+     start, became fatal only after c. 1500. His own sentence at
+     p. 166 concedes the type of war changed; the change is this
+     book's variable. The derecognition limb is a GIFT: legibility
+     as a suppression instrument is the book's second stack.
+   - ADDS: the Westphalia exclusion quotes (pp. 170–71) as
+     first-order material for the chapter's close; the Golden Bull
+     foreclosure (p. 116) for why no German royal-urban coalition
+     formed.
+   - Provenance note: his Hansa historiography rests principally
+     on Dollinger and older German scholarship — date the entries
+     accordingly.

@@ -262,3 +262,16 @@ above (CLAUDE.md §4). URLs in the session research record.*
   contractor-state." Effectiveness steelman (contractor forces were
   not inferior): pp. 153–4, 195, 308, 317. Full engagement:
   critiques.md Revisions 5.
+
+- **T2 — Hendrik Spruyt, *The Sovereign State and Its Competitors*
+  (Princeton UP, 1994)** — pointer entry (read in full this date;
+  full entries at ch04/ch10). For this chapter: his second
+  selection mechanism — mutual empowerment and derecognition
+  ("states … selected out and delegitimized actors who did not fit
+  a system of territorially demarcated and internally hierarchical
+  authorities," p. 28; "nonstate actors are stripped of coercive
+  means — mercenaries and privateers thus have disappeared," p. 16;
+  Westphalia on the Hansa: "One does not really know what the
+  Hansa in essence is," p. 170) — as the T2 template for how a
+  state system treats illegible institutional universalisms: the
+  platform-recognition question in fifteenth-century dress.

@@ -165,3 +165,31 @@ retrieval-master.md accordingly.*
   overall thesis (state-administered force as the 1760–1960
   anomaly) is engaged at full strength in ch12 critiques Revisions 5
   and ch10 critiques Objection 6, not here.
+
+- **T2 — Hendrik Spruyt, *The Sovereign State and Its Competitors*
+  (Princeton UP, 1994; 1996 pbk printing)** — IN REPO (scan, no text
+  layer; OCR sidecar `source-library/Spruyt-Sovereign-State-ocr.txt`,
+  printed pages resolved from running heads — body text good, verify
+  numerals against page images before print; note the 1667-vs-1669
+  last-diet discrepancy between his pp. 154 and 167 is possibly OCR).
+  Read in full. THE STANDING COUNTER-ACCOUNT of the Hansa's end,
+  which this chapter must engage, not bypass: "the demise of the
+  Hansa was long and protracted. There was no decisive battle that
+  sealed its fate … the tonnage of Hanseatic shipping was 50 percent
+  higher in 1600 than it was in 1500" (pp. 166–7); death by four
+  institutional failures — no standardisation (p. 163), freeriding
+  and defection (p. 164: Hansa share of English trade 25% in 1570 →
+  3–4% by 1600), no credible commitments (pp. 167–8), and
+  DE-RECOGNITION at Westphalia — the princes' third reason: "One
+  does not really know what the Hansa in essence is" (p. 170).
+  Also serves the chapter's portrait of the Hansa as a genuine
+  intermediate authority: "on occasion it could make or break
+  kings" (p. 123); Stralsund 1370 succession control (p. 127); and
+  the Golden Bull as the imperial foreclosure of the city-king
+  coalition ("Magna Carta of German particularism," forbade
+  city-leagues, p. 116). His war-capacity concession: "the Hansa of
+  the seventeenth century was less able to wage the type of war
+  that the French state could engage in at the time. But this was
+  due to the organizational flaws of the Hanseatic League" (p. 166)
+  — the TYPE of war had changed; he does not ask why. Rival
+  engagement at ch10 critiques Revisions 3.
