@@ -307,3 +307,31 @@ quotation in a browser before print.*
   Salmon). USED IN DRAFT (§V, the misdiagnosis passage): Salmon
   printed pp. 42, 105; Bloch 1946 p. 45. Cross-chapter primaries —
   ch11 (Mamluks) and coda/ch12 (Bloch) hold the full treatments.
+
+## Added 2026-09-13 — source intake (read in full)
+
+- **T2 — Michael Howard, *War in European History* (OUP, 1976; 1977
+  reprint)** — IN REPO (scan `2015.117903.War-In-European-History.pdf`,
+  no text layer; OCR sidecar built 2026-09-13 at
+  `source-library/Howard-War-in-European-History-1976-ocr.txt`;
+  printed = PDF−6 early, −8 by the epilogue). Read in full.
+  **NEGATIVE FINDING, the entry's point: the word "Castillon" does
+  not occur in this book** — nor Formigny; the index's "Battles"
+  entry lists neither; full-text and fuzzy searches zero. The
+  sentence the council attributed to Howard ("Castillon was in no
+  sense a victory for field artillery") CANNOT be cited to this
+  work at any page. What Howard actually says: the reconquest
+  narrated in aggregate at p. 14 ("the kings of France developed a
+  train of siege artillery before which the castles protecting the
+  lands of the English crown in France crumbled into heaps of
+  stones" — no battle named); and the real Howard dissent at pp.
+  30–31: field artillery's battlefield effectiveness "was slight
+  compared with their heavy cost," "In siege warfare the great
+  guns were indeed to have profound and lasting effects." USE:
+  the p. 14 passage as Howard's actual position; pp. 30–31 as the
+  genuine field-vs-siege dissent for §VI's staging at the next
+  renovation. The draft's existing [UNVERIFIED — RETRIEVAL:
+  Howard 1976, page to pin] hedge is VINDICATED and must resolve
+  by restaging, not by pinning — memo Revisions 18. Off the
+  RETRIEVAL LIST this date (the book is in repo; the attributed
+  sentence is not in it).

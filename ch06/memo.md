@@ -909,3 +909,39 @@ STATUS: REVIEWED (Roderick, 2026-07-22) — cleared for drafting
     not cite it for battle detail; the 1451 Bordeaux terms remain
     with *English Gascony*/TRHS 1969 (his own deferral, pp. 121,
     125 nn.).
+
+18. **(2026-09-13 — Howard, *War in European History* (OUP 1976),
+    read in full; intake. PENDING HUMAN REVIEW.)** The
+    Castillon-dissent question, settled at source.
+    - CORRECTS: the council-attributed sentence ("in no sense a
+      victory for field artillery") is NOT in the book — no
+      Castillon, no Formigny, anywhere (text, notes, index; the
+      index's consolidated "Battles" entry enumerates thirty
+      battles, neither present). The draft's §VI staging ("Michael
+      Howard judged flatly that Castillon was in no sense a
+      victory for field artillery — a sentence this book will
+      argue with only when it can cite it at page level
+      [UNVERIFIED]") was exactly right to refuse the citation; the
+      resolution is now known: AT THE NEXT RENOVATION the Howard
+      dissent is restaged on what he actually wrote — pp. 30–31
+      (field artillery cost-ineffective for a century after 1453;
+      siege guns "profound and lasting") — which is the honest kin
+      of the attributed sentence and CONVERGES with this chapter's
+      own two-speeds discipline (campaign/siege; lever-not-hammer
+      at Formigny). No draft change in this pass; proposal
+      recorded. If the attributed sentence exists anywhere it is
+      in another Howard text, unidentified — do not chase it
+      without a lead.
+    - CONFIRMS: p. 14 (verified against the page image) is
+      Howard's actual account of 1449–53 — archers shattered by "a
+      few artillery discharges at the beginning," the siege train
+      before which English-held castles "crumbled into heaps of
+      stones," English dominance gone in fifty years — usable as
+      the T2 synthesis statement of the chapter's mechanism; and
+      p. 22's price-of-independence passage backs §VII's fiscal
+      threshold.
+    - Escalation of the correction, recorded plainly: this is the
+      second council attribution to fail at source this month
+      (Parrott's compagnies claim being the other, ch12 critiques
+      Revisions 5) — council-reported quotations are LEADS, never
+      citations, per the standing discipline.
