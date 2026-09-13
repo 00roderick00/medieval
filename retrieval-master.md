@@ -848,3 +848,45 @@ and PUHCA (14 MB) left as one-click links.
 
 | Krejsa & Benich, "War: Watt Is It Good For?", War on the Rocks, 20 Aug 2026 | ch12 (which layer is decisive — electrotech/electricity as the shared substrate of drones, compute and grid); spine §4 gloss; ch10 §VIII (civilian-scale reserve); ch11/coda (IRA vs CHIPS as Estates politics); Appendix C indicators | MED | **IN REPO 2026-09-02** — text captured to corpus/retrieved/source-library/; T3; assessment in research/krejsa-benich-electrotech-stack.md |
 | Primaries behind it: DoD drone production request and battery strategy; CHIPS and Science Act (Pub. L. 117-167); the 2025 reconciliation act's IRA provisions (consumer EV credit repeal; 45X survival); DoD Chinese-component prohibitions (10 U.S.C. §4872 and successors); the "80% of global compute" dataset; China grid additions (IEA/NEA) | Appendix C baselines; any figure quoted from the article | MED | OPEN — govinfo / congress.gov (bot-checked; human) / IEA |
+
+## 2026-09-13: source-intake discovery session — inventory and unlisted arrivals
+
+STEP 0 inventory of this date is in research/outstanding-sources.md
+(top section): 130 files in corpus/retrieved/ + source-library
+surveyed and classified. Ledger notes from the inventory, before the
+batch intakes below flip their own rows:
+
+- **Basin, ed. SAMARAN, Tome I (1407–1444), Les Belles Lettres 1933
+  is IN CORPUS** (`histoiredecharle00basi.pdf`, 368 pp., OCR layer) —
+  the gated edition of record, previously believed unobtained. The
+  Castillon chapters are in Samaran's TOME II, still wanted; the
+  Basin row is updated accordingly (T. I in repo; T. II wanted).
+- **Bratton, *The Stack* (MIT Press 2015) — a clean full copy with
+  text layer and printed pagination is IN CORPUS** (`[SOC BRA] the
+  stack - on software and sovereignty.pdf`, 727 pp.) — candidate to
+  close every "[scan p.N — re-pin to printed edition]" flag; queued
+  next session.
+- **Howard 1976 had no text layer** — OCR sidecar built 2026-09-13
+  (`source-library/Howard-War-in-European-History-1976-ocr.txt`,
+  printed = PDF−6). **NEGATIVE FINDING, recorded ahead of the intake
+  entry: the word "Castillon" does not occur in the book** (full-text
+  search + index check) — the council-attributed sentence is not in
+  this edition; see the ch06 intake entry of this date.
+- **Tilly 1990 and Spruyt had no text layer** — OCR sidecars built
+  2026-09-13 (`source-library/Tilly-Coercion-Capital-1990-ocr.txt`,
+  printed = PDF−10; `source-library/Spruyt-Sovereign-State-ocr.txt`);
+  working-text quality, verify quotations against page images.
+- İnalcık, *Classical Age*: no text layer; OCR queued next session.
+- Paston, ed. Davis, Part II: the file in corpus is FRONT MATTER
+  ONLY (17 pp.) — the row stays wanted.
+- "MA Thesis" ×5 image-only files: apparent duplicates of the
+  mphil/ set (which has .txt pairs) — FLAG for Roderick to confirm
+  and cull; no OCR spent.
+
+### Unlisted arrivals (class (c) — rows created this date)
+
+| Work | Needed for | Priority | Route / status |
+|---|---|---|---|
+| Hal Brands & Francis J. Gavin (eds.), *COVID-19 and World Order* (Johns Hopkins UP, 2020) | ch01/ch12 context — the pandemic-era order debate as a dated waypoint between the neomedieval literature and the 2020s record; T3 for this book's purposes (edited essays; any load-bearing claim re-sourced) | LOW | **IN REPO 2026-09-13** (ebook conversion; cite by chapter) — intake in a later batch |
+| Yanis Varoufakis, *Technofeudalism: What Killed Capitalism* (Bodley Head, 2023) | RIVAL MECHANISM — cloud capital/technofeudal succession vs this book's platforms-as-churches and compelled reconsolidation; ch01 (the literature's tense), ch02 (fiefs vs churches), ch12 critiques | **HIGH** (class (ii)) | **IN REPO 2026-09-13** (ebook, no print pagination — cite by chapter); INTAKE THIS SESSION |
+| Gosztonyi & Gyetván, "The applicability of neomedievalism, technofeudalism and sovereignty in contemporary internet governance," *Ethical Space* 22:1/2 (2025), CC-BY-NC-ND | ch01/Appendix A — the literature note connecting the two rival vocabularies; T3 | LOW | IN REPO (`ydgjxfcsysmb…pdf`) — intake in a later batch |

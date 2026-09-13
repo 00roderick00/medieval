@@ -14,6 +14,95 @@ when any item below lands; regenerate this file from it rather than
 editing the two separately.
 -->
 
+# Inventory 2026-09-13 (source-intake discovery session, STEP 0)
+
+Corpus surveyed in full this date: 130 files in `corpus/retrieved/` +
+`source-library/` (loose files and seven indexed subdirectories).
+Every file identified from its own title page/metadata by three
+extraction passes. Classes per the intake instruction: (a) on ledger,
+not yet intaken; (b) already intaken (skip); (c) not on ledger — row
+created under "Unlisted arrivals" in retrieval-master; (d) unreadable
+as found (OCR/conversion action stated).
+
+## Class (a) — on ledger, not yet intaken (the intake queue)
+
+| File | Work (from content) | Chapters | Tier |
+|---|---|---|---|
+| CharlesVII - Vale.pdf | M. G. A. Vale, *Charles VII*, U. California Press, 1974 (OCR noisy; plate-drifting page offset 14→24) | ch10, ch07, ch06, ch05 | T2 |
+| 2015.117903.War-In-European-History.pdf | Michael Howard, *War in European History*, OUP 1976 (1977 reprint; scan had NO text layer — OCR sidecar built this date: `source-library/Howard-War-in-European-History-1976-ocr.txt`; printed = PDF−6) | ch06, ch10 | T2 |
+| Titan_…PDF Room.pdf | Ron Chernow, *Titan*, text of Vintage 2nd ed. 2004 (ebook conversion, NO print pagination — cite by chapter) | ch12 | T2 |
+| _OceanofPDF…The_Prize_-_Daniel_Yergin.pdf | Daniel Yergin, *The Prize* (ebook conversion; imprint page beyond sampled range) | ch12 | T2 |
+| Parrott - The Business of War.pdf | David Parrott, *The Business of War*, CUP 2012 (clean text; printed = PDF−20) | ch12, ch03, ch04, ch10 | T2 |
+| Tilly - Coercion Capital and European States.pdf | Charles Tilly, *Coercion, Capital, and European States, AD 990–1990*, Blackwell 1990 first ed. (NO text layer — OCR running this session; printed = PDF−10) | ch10, ch12, coda | T2 |
+| Spruyt - The Sovereign State and Its Competitors.pdf | (title from prior ledger row; scan NO text layer — OCR running this session) | ch04, ch11, ch12 | T2 |
+| histoiredecharle00basi.pdf | **Thomas Basin, *Histoire de Charles VII*, ed./trans. SAMARAN, Tome I (1407–1444), Les Belles Lettres 1933 — the gated edition of record, now in corpus.** NB Castillon is in Samaran's Tome II, still wanted | ch10 (Praguerie years), ch05, ch06 base | T1/T2 |
+| Andrade - The Gunpowder Age.epub | Tonio Andrade (EPUB; pandoc absent — sidecar via unzip+strip at intake; chapter-and-paragraph pins) | ch06/ch10 critiques (Obj. 7), ch11 | T2 |
+| Sharman - Empires of the Weak.pdf | J. C. Sharman, Princeton 2019 | ch06/ch10 critiques, ch11 | T2 |
+| Scheidel - Escape from Rome.pdf | Walter Scheidel, Princeton 2019 | coda, ch10 critiques | T2 |
+| Hoffman - Why Did Europe Conquer the World.pdf | Philip T. Hoffman, Princeton 2015 | coda, ch10 critiques | T2 |
+| bobbitt-shield-of-achilles.pdf | Philip Bobbitt, *The Shield of Achilles* (rough OCR) | ch01/Appendix A lineage, ch12 | T2 |
+| Zielonka - Europe as Empire.pdf | Jan Zielonka, OUP | ch01, ch12 (EU), Appendix A | T2 |
+| Strayer - On the Medieval Origins of the Modern State.pdf | Joseph R. Strayer, Princeton 1970 | ch01, ch10 | T2 |
+| Elliott - Imperial Spain 1469-1716.pdf | J. H. Elliott, Penguin (2002 revision) | ch11 | T2 |
+| Kafadar - Between Two Worlds.pdf | Cemal Kafadar, U. California 1995 | ch11 | T2 |
+| Inalcik - The Ottoman Empire - The Classical Age 1300-1600.pdf | Halil İnalcık, Phoenix (NO text layer — OCR next session) | ch05, ch11 | T2 |
+| Hall - Weapons and Warfare in Renaissance Europe.pdf | Bert S. Hall, Johns Hopkins 1997 | ch06 (tipping-point GAP), ch10 | T2 |
+| Freedman - The Future of War.pdf | Lawrence Freedman, PublicAffairs 2017 | ch06 §VI (knock-out-blow GAP), ch12 | T2 |
+| Miller - Chip War.pdf | Chris Miller, Scribner (ebook layout) | ch10 §VIII, ch12 | T3 |
+| Vaughan - John the Fearless….pdf | Richard Vaughan, Barnes & Noble 1966 | ch05 (GAP), ch03, ch10 | T2 |
+| Rogers (ed) - The Military Revolution Debate.pdf | C. J. Rogers (ed.), Westview 1995 (2018 printing) | ch06/ch10 critiques (carries Roberts 1956) | T2 |
+| [SOC BRA] the stack….pdf | **Bratton, *The Stack*, MIT Press 2015 — a clean full copy (727 pp., text layer OK): candidate to close every scan-page re-pin flag** | ch12, ch10 §VIII, ch11 | T2 |
+| Fortescue - The Governance of England (Plummer 1885).pdf | the page-image PDF behind the OCR already in repo — closes the "verify against page images" caveats | ch05, ch12 | T1 |
+| _OceanofPDF…COVID-19_and_World_Order…pdf | Hal Brands & F. J. Gavin (eds.), JHU Press | see Unlisted arrivals row | T2/T3 |
+| Varoufakis…Technofeudalism…(2023).pdf | Yanis Varoufakis, Bodley Head 2023 (ebook; cite by chapter) | see Unlisted arrivals row | T2/T3 |
+
+## Class (c) — not on ledger until this date (rows created in retrieval-master, "Unlisted arrivals 2026-09-13")
+
+Brands & Gavin (eds.), *COVID-19 and World Order* (2020) — ch01/ch12
+context, T3 for this book's purposes. · Varoufakis, *Technofeudalism*
+(2023) — rival mechanism (cloud capital/technofeudal stagnation vs
+this book's reconsolidation); ch01, ch02, ch12 critiques; T2 in its
+field, load per CLAUDE.md §5. · Gosztonyi & Gyetván, "The
+applicability of neomedievalism, technofeudalism and sovereignty in
+contemporary internet governance," *Ethical Space* 22:1/2 (2025) —
+ch01/Appendix A literature note, T3.
+
+## Class (d) — unreadable as found, with the action taken
+
+Howard 1976 — OCR sidecar BUILT this date. · Tilly 1990 and Spruyt —
+ocrmypdf running this session (sidecars to source-library; quality to
+be noted). · İnalcık — OCR queued next session. · Andrade EPUB —
+unzip+strip sidecar at its intake (pandoc not installed). · "MA
+Thesis" ×5 (image-only, unidentifiable from content) — apparent
+duplicates of the mphil/ set, which already has .txt pairs; no OCR
+spent; FLAG for Roderick to confirm and cull. · "John Talbot
+_Pollard/" (9 PNG screenshots) — content already carried by the
+digest and the reconciled excerpt PDF; no action. · Paston
+Davis Part II (474441601.pdf) — front matter only, NOT the volume:
+the ledger row stays wanted.
+
+## Class (b) — already intaken (ledger rows carry dates; skipped)
+
+The whole prior working corpus: Contamine 1972 tomes + 1964 article;
+Curry; Rogers 1993; DeVries 1998; Bull 4th ed.; Friedrichs; Cerny;
+Watts chs. 5–6; Wilkinson; Wolffe 1964; Bohna; Vale TRHS 1969;
+Perroy ×2; Depreter 2011; Stevenson vols. + *Narratives*; Escouchy
+t. I–II; Chartier t. II; Beaucourt IV (×2 scans) + V; Leseur t. I–II;
+Commynes (Scoble/Gutenberg); Fortescue OCR; Worcester; Ibn Iyas;
+Bloch; Basin-Quicherat OCR; Venette continuation; Bratton scan +
+2026 article; Krejsa & Benich; the Economist essay; Pollard digest +
+reconciled excerpt + ch. 1 OCR; the American-primaries set (26
+files); the open-web-pulls set (13 files); the statute/case set
+(Standard Oil, Hepburn, TWEA, EPCA, IEEPA, Connally, Oil Compact,
+Panama, Rowan & Nichols, Swift, Epic v. Apple ×3, Moody, BIS rules,
+Proclamations); Draghi A+B; R48887; RUSI 2025; SIAC; Norris &
+Inglehart ch. 1; Karaman & Pamuk; Pezzolo; Mangini & Petroff (paper +
+slides); Eisenstein + Johns; Keen review; Cazelles review; Green
+1875; MHLW; Jeddah; NM-OCD; Texas RRC/LRL; Cato Shughart; the
+mphil/ set; the mirrors and .txt twins of the above.
+
+---
+
 # Outstanding sources — the reconciled list, 2 September 2026 (updated after the second-pass pulls)
 
 In repo and integrated (not listed): Contamine 1972 (both tomes), Contamine 1964, Curry "Guns and Goddams", Cerny 1998, Friedrichs 2001, Watts chs. 5–6, Bull (4th ed.), Wolffe 1964, Bohna 2003, Pollard (monograph, chs. 1 read; digest), Beaucourt IV–V, Escouchy, Chartier t. II, Stevenson (Rolls Series, vols. I and II.ii; *Narratives of the Expulsion*), Vale TRHS 1969, Kriehn 1892, Perroy 1943, Depreter 2011 (article), Rogers 1993, DeVries 1998, Mangini & Petroff, Worcester *Boke of Noblesse*, Ibn Iyas (Salmon 1921), Bloch *L'Étrange Défaite*, Fortescue (Plummer 1885, OCR text), Bratton 2015 (partial scan) and 2026, the Economist essay (28 May 2026), Norris & Inglehart ch. 1, Pezzolo, the AHR 2002 print forum, Keen's review of Vale, the Cambridge style guide, and the American primaries retrieved 2 September (ICA, Clayton, FTC Act, Banking Act 1933, HSR, Telecom Act 1996, *Paramount*, *DuPont–GM*, *NetChoice*, *Alcoa*, AT&T MFJ, *Microsoft* 2001 and Final Judgment 2002, the Google search and ad-tech filings, EO 14148, S.1671, SB 53, the DOJ/FTC/BIS releases), plus the second-pass pulls of 2 September (*Swift v. US*, the Pujo report, Proclamations 11002 and 11052, the VEU revocation rule, the CMA cloud decision, the Jeddah statement, Basin/Quicherat t. I, the Venette continuation, DOJ's 1995 IBM memorandum).
