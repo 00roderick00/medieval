@@ -326,3 +326,32 @@ STATUS: REVIEWED (Roderick, 2026-07-22) — cleared for drafting
    finance. His positive account of the earlier taille bargain
    (predictable royal tax preferred to irregular seigneurial
    exaction, p. 91) is usable background at T2.
+
+8. **(2026-09-13 — Basin–Samaran Tome I read in full; the
+   Praguerie witness. PENDING HUMAN REVIEW.)** The chapter's
+   period witness for the 1440 revolt, now first-hand.
+   - The finding that matters most is an ABSENCE: Basin frames the
+     Praguerie (Book III ch. XII, pp. 256–9) entirely as princely
+     ambition and the seduction of the dauphin — the captains
+     "avides de nouveauté et jaloux du bonheur de ceux qui
+     jouissaient de plus grands biens et honneurs" (p. 257),
+     Bourbon "principal auteur de toute la rébellion" (pp. 258–9)
+     — with no reference to the 1439 ordonnance, taxation, or the
+     reform of the companies. The reform-revolt link this book
+     uses rests on Beaucourt and Vale; the chapter should say so
+     rather than imply a contemporary connection. Basin's
+     chronology here is demonstrably scrambled (Samaran's nn.,
+     pp. 259, 261): perception source only, never sequence.
+   - ADDS: the 1405–07 Burgundian tax-propaganda passage (Book I
+     ch. III, pp. 16–21 — Orléans painted as "l'auteur et le
+     défenseur le plus implacable de toutes ces taxes nouvelles,"
+     the people "toujours plus sensible à ces griefs financiers")
+     — taxation-as-grievance as a political weapon a generation
+     before the settlement, i.e. the deep politics this chapter's
+     undermighty-kings frame needs; and the eyewitness devastation
+     tableau (pp. 86–7, "Nous-même nous avons vu…") for the
+     écorcheur years.
+   - Citation form: Basin, *Charles VII*, ed. Samaran, i (1933),
+     French recto page for translations, Latin verso when
+     load-bearing; T1 witness in T2 edition; hostile exile
+     composing 1471–2.

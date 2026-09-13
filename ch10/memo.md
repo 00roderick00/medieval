@@ -1224,3 +1224,39 @@ STATUS: REVIEWED (Roderick, 2026-07-23) — cleared for drafting
       teleology) but the mechanism claims a threshold, not a single
       path — the coda's existing multi-path concession is the
       right container.
+
+23. **(2026-09-13 — Basin–Samaran Tome I, read in full; intake.
+    PENDING HUMAN REVIEW.)** The gated edition of record for
+    Books I–III (1407–1444), discovered in corpus and now read.
+    - CORRECTS (a provenance correction, not a factual one): the
+      Praguerie-against-the-1439-reform reading entered at
+      Revisions 19 from Vale must carry its provenance precisely.
+      The contemporary witness — and the century's fiercest critic
+      of taxation-without-consent — does NOT make the link: Basin's
+      Praguerie (Book III ch. XII, pp. 256–9) is princely ambition
+      seducing a sixteen-year-old dauphin, with Bourbon "principal
+      auteur," and contains no word on taxation, the Estates, or
+      the military reform. The reform-revolt connection is modern
+      historiography (Beaucourt III, 115–42; Vale). The chapter
+      may keep the reading at T2 but must not imply contemporary
+      attestation. This also disciplines the spine §8(a) ratchet
+      framing: the magnates' object as Vale reconstructs it, not
+      as Basin reports it.
+    - CONFIRMS: the écorcheur before-state at first hand (pp.
+      236–7 verbatim, with the Latin "sine certo numero et
+      stipendio" at p. 236) — companies without number or pay as
+      the disorder the 1445 settlement answered; and Basin's own
+      concession that the Praguerie usefully "réveillé" the king
+      (p. 261).
+    - ADDS: Samaran's introduction as a citable T2 layer —
+      Quicherat's characterisation (p. xix) of Basin's ideology
+      ("la liberté c'était pour lui l'attachement à tout ce que le
+      temps avait consacré … ses sorties contre les armées
+      régulières, les taxes") is exactly the profile of the
+      constitutionalist objection the settlement provoked, usable
+      NOW even though the denunciation text itself awaits Tome II.
+    - NEGATIVE / RETRIEVAL: the taille-denunciation and the
+      15-companies attribution are NOT in Tome I — Samaran Tome II
+      (1944) and the *Histoire de Louis XI* (Samaran, 3 vols,
+      1963–72) added as retrieval rows; no Basin-based claim on
+      the consent argument may cite Tome I.

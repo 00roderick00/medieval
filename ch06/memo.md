@@ -945,3 +945,21 @@ STATUS: REVIEWED (Roderick, 2026-07-22) — cleared for drafting
       (Parrott's compagnies claim being the other, ch12 critiques
       Revisions 5) — council-reported quotations are LEADS, never
       citations, per the standing discipline.
+
+19. **(2026-09-13 — Basin–Samaran Tome I read in full; intake.
+    PENDING HUMAN REVIEW.)** Boundary finding: Tome I ends in 1444
+    — every Castillon/Formigny/reconquest dependency on Basin
+    (including the Castillon temerity/divine-vengeance reading
+    currently carried via Pollard) waits on Samaran's Tome II,
+    now a named retrieval row. Usable now: the Pontoise 1441
+    artillery set-piece (pp. 271–3, verbatim in sources.md) as
+    the demonstrated state of the royal siege train eight years
+    before the reconquest — the chapter's "the instrument
+    existed; the fisc caught up" bridge gains a dated primary
+    exhibit; and Samaran's n. 1 at p. 271 as a T2 judgment
+    explicitly connecting artillery progress to the deliverance
+    of Normandy and Guyenne. Gun vocabulary note for the
+    typology paragraph: Basin's Latin at Pontoise is
+    "bombardella … quas colubrinas et serpentinas vocant"
+    (p. 272) — period attestation of the calibre-name drift the
+    chapter flags elsewhere.

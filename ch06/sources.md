@@ -335,3 +335,26 @@ quotation in a browser before print.*
   by restaging, not by pinning — memo Revisions 18. Off the
   RETRIEVAL LIST this date (the book is in repo; the attributed
   sentence is not in it).
+
+- **T1 (in a T2 edition) — Thomas Basin, *Histoire de Charles VII*,
+  ed./trans. Samaran, Tome I: 1407–1444 (Les Belles Lettres, 1933)**
+  — IN REPO (`histoiredecharle00basi.pdf`; printed = PDF−50; French
+  layer good). Read in full 2026-09-13. FOR THIS CHAPTER, CHIEFLY A
+  BOUNDARY: the tome ends at the Truce of Tours — no reconquest
+  narrative, no Formigny, no Castillon, no Bureau brothers (all in
+  Samaran's TOME II, 1944 → RETRIEVAL LIST). What it does supply:
+  (i) the siege of Pontoise 1441 (Book III chs. XIV–XV, pp. 262–75)
+  as the earliest set-piece of the royal siege train in Basin —
+  "l'artillerie … de grandes et puissantes perrières, dont les
+  décharges fréquentes et terribles ébranlent les murailles"
+  (p. 271), the "bombardes nommées coulevrines et serpentines"
+  whose fire "brisèrent et annihilèrent la force de résistance des
+  Anglais" (p. 273); with Samaran's own bridging judgment, citable
+  at T2 (p. 271 n. 1): it was "principalement grâce aux progrès de
+  cette arme et au soin que prit Charles VII de munir ses troupes
+  de nombreuses bouches à feu que la Normandie et la Guyenne purent
+  être délivrées." (ii) Basin's biography (Samaran intro, pp.
+  vii–viii): as bishop he negotiated Lisieux's capitulation in
+  August 1449 and claims authorship of the campaign plan —
+  self-aggrandising ("il s'en vante," Samaran), but a
+  reconquest-from-inside-Normandy witness the chapter can name.

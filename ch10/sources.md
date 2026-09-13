@@ -472,3 +472,32 @@ accordingly.*
   — THE 1440–1500 SIEGE-ARTILLERY WINDOW DOES NOT EXIST AS A
   CATEGORY IN THE BOOK. Date caveat: 1994 — predates Rogers 1995,
   Glete, Parrott, Sharman. Full engagement: critiques Revisions 3.
+
+- **T1 (in a T2 edition) — Thomas Basin, *Histoire de Charles VII*,
+  ed./trans. Charles Samaran, Tome I: 1407–1444 (Les Belles Lettres,
+  1933; Classiques de l'histoire de France au Moyen Âge 15)** — IN
+  REPO (`histoiredecharle00basi.pdf`; Latin verso/French recto;
+  printed = PDF−50 in the text, −2 in the roman-numbered intro;
+  French text layer very good, Latin noisier — verify Latin against
+  page images before print). Read in full. Composed 1471–2 at Trier,
+  in exile — a hostile-to-Louis-XI retrospective; Samaran's verdict:
+  "un mélange assez décevant" with verified "lacunes … erreurs de
+  fait et … anachronismes" (p. xviii) — NEVER use Basin alone for
+  dates or sequence (his Truce of Tours is misdated by a year,
+  p. 301 with Samaran's n. 1). WHAT THIS TOME ESTABLISHES FOR THIS
+  CHAPTER, chiefly by absence: (i) no taille, no Estates of Orléans
+  1439, no November 1439 ordonnance anywhere — Basin's famous
+  denunciation of taxation-without-consent is NOT in Tome I; it
+  must be sought in Tome II (Books IV–V, 1944) and the *Histoire de
+  Louis XI* — both now retrieval rows. (ii) His Praguerie chapter
+  (Book III ch. XII, pp. 256–9) assigns the revolt to princely
+  ambition and evil counsel — Bourbon as "principal auteur de toute
+  la rébellion" (pp. 258–9) — and NEVER mentions the 1439 reforms;
+  the reform-revolt link rests on modern historiography (Beaucourt;
+  Vale), not on the contemporary witness. (iii) The écorcheur
+  diagnosis, pp. 236–7 ("aucune règle, aucune discipline … des
+  bandes de gens d'armes en nombre indéterminé et sans solde"), as
+  the before-state the 1445 ordonnance answered. Samaran's
+  introduction and notes citable separately at T2 (Quicherat's
+  characterisation of Basin's ideology — "ses sorties contre les
+  armées régulières, les taxes" — at p. xix).
