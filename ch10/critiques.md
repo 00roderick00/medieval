@@ -497,3 +497,31 @@ list; steelmen provisional; do not caricature.
      note the triangle rather than treat the rivals as one bloc;
      his "my theory complements Tilly's analysis" (pp. 32–33)
      marks the seam.
+
+4. **(2026-09-13 — Andrade read in full; Objection 7's deferred
+   caveat now fully closed. PENDING HUMAN REVIEW.)** Both named
+   authorities of the global historians' objection are now read
+   cover to cover (Sharman: Revisions 2; Andrade: this entry, full
+   engagement at ch06 critiques Revisions 5). For THIS chapter's
+   compressed staging, three upgrades. (i) The answer's
+   conditionality move is now quotable from the objector: Andrade's
+   ch. 6 cost-benefit passage ("In China artillery would not have
+   repaid the heavy investments") and his Conclusions restatement
+   ("European walls were an order of magnitude thinner … large guns
+   were simply not worth the investment") — the steelman's "Chinese
+   walls were already effectively cannon-proof" line is his own
+   thesis, and the chapter may cite him for it directly. (ii) He
+   corroborates the window: his "neutral divergence" (1380–1480,
+   Europe leads in siege artillery), classic-gun date c. 1480, and
+   his Acknowledgments' endorsement of Rogers/DeVries/Smith on the
+   1400s as the decades "that set Western Europe off on a separate
+   path" bracket this chapter's 1440–1500 claim from outside the
+   European literature. (iii) The absorption the answer must carry:
+   his ch. 8 deflation ("Defeudalization would likely have occurred
+   without guns," with Hale) — met by the form/timing restatement
+   and the tusi parallel (ch06 critiques Revisions 5). The
+   war-frequency variable is annexed as the demand side, exactly as
+   the Spruyt engagement (Revisions 3) annexes the competitive
+   state system: competition explains who wanted guns;
+   capital-intensity explains who could field them and what
+   happened to everyone in between.

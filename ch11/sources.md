@@ -216,3 +216,21 @@ the session research record. Update retrieval-master.md accordingly.*
   chapter's retrieval list (the Ágoston 2014 article is already on
   the ledger at MED). Tier caveat as at ch10: T2 synthesis, no
   primary Ottoman research of his own.
+
+- **T2 — Tonio Andrade, *The Gunpowder Age* (Princeton UP, 2016)** —
+  IN REPO (EPUB sidecar; cite by chapter — no pagination in this
+  conversion). Read in full this date; full entries at ch06/ch10.
+  For this chapter: the Age of Parity (1550–1700) as his named
+  period — parity maintained by adoption (the "Frankish cannon,"
+  red-barbarian cannon, Chinese volley fire documented in Qi
+  Jiguang 1560, before Nagashino or Nieuwpoort); his two conceded
+  European advantages (the broadside ship; the renaissance fortress
+  as "an 'engine of European expansion'" / "force multiplier"); and
+  the GREAT QING PEACE as a precedent this book's Part III must
+  respect — consolidation removing the stimulus: "China faced no
+  serious external threats … from around 1760 until 1839. China's
+  armies atrophied, and military innovation slowed." His
+  conditional, calibrated framing of the PRC "new warring states"
+  question (Conclusions) is also a register model for Part III.
+  Caveat: war-frequency datasets "intentionally rudimentary"
+  (Appendix 2) — never load-bearing.

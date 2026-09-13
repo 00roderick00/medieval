@@ -370,3 +370,63 @@ Priorities to stress-test on the draft:
    (p. 111). Steelman survives at full strength on the
    universality point; the chapter's answer stands; details and
    absorptions at ch10 critiques Revisions 2.
+
+5. **(2026-09-13 — Andrade read in full; Objection 7's Andrade limb
+   engaged on the text. PENDING HUMAN REVIEW.)** The objection's
+   chief authority turns out to supply the chapter's answer at
+   chapter length; and one genuine opposing judgment must enter the
+   steelman.
+   - **Steelman, upgraded from his own pages.** China had guns
+     first, used them for five centuries at battlefield densities
+     Europe reached only in the mid-1500s (10%→30% of Ming
+     soldiers), inside repeated warring-states competition — and no
+     artillery-driven fiscal consolidation followed. Andrade
+     explicitly deflates the European causal claim (ch. 8): "the
+     transformative effects of guns have nonetheless been
+     overstated for Europe. Defeudalization would likely have
+     occurred without guns" (citing Hale), "and China adds weight
+     to the case"; and he endorses Lorge/Morillo readings on which
+     causality runs state→gun ("strong infantry depends on strong
+     government"). His prime mover is war frequency, not the
+     weapon: China's post-1449 stall and the Qing stagnation are
+     explained by peace.
+   - **The answer, now in the objector's own words.** The
+     conditionality argument this chapter and ch10 already stage
+     (thin high walls met the price; tamped-earth mass did not) is
+     Andrade's ch. 6 thesis verbatim: "The kings and dukes of
+     Europe paid these exorbitant sums because it was worth it …
+     In China artillery would not have repaid the heavy
+     investments … the massive tamped-earth walls of China acted
+     as a deterrent to the development of gunpowder artillery."
+     China is the mechanism's control case — same weapon, different
+     target geometry, threshold never crossed — and the objection's
+     authority states the condition himself. The engagement should
+     cite him as such, not argue past him.
+   - **The tusi paragraph is the unexpected confirmation** (ch. 8):
+     where China DID retain quasi-feudal intermediaries, guns gave
+     the centre "a decisive edge over local powers," ending
+     indirect rule — "a clear parallel here with the gunpowder
+     revolution model for Europe" (Zhang Wen, as reported by
+     Andrade). The suppression-of-armed-intermediaries claim finds
+     a Chinese instance inside the supposed counterexample; the
+     core lacked the cascade because the intermediaries were
+     already gone.
+   - **What the chapter must concede and restate:** (i) not "guns
+     made the state" but the narrower claim — artillery
+     capital-intensity determined the FORM, timing, and selectivity
+     of consolidation within an already-competitive system; the
+     Hale/Andrade point that defeudalisation had other engines is
+     absorbed, and the answer is the form/timing distinction plus
+     the tusi parallel. (ii) Andrade's war-frequency variable is a
+     complement, not a rival: Song China shows competition without
+     the geometry yields gun innovation but no artillery-priced
+     fiscal threshold; Europe had both. (iii) Never lean on Andrade
+     for the French campaign narrative (no Formigny, no Castillon,
+     no Bureaux; his one French-artillery sentence misnames the
+     king) — Rogers, DeVries, Contamine, Vale carry the battles.
+   - The Andrade limb of the "both works unretrieved" caveat
+     closes; with Sharman (Revisions 4) both named authorities of
+     Objection 7 are now engaged from their texts. Remaining
+     adjacent limb: Hoffman (his price-of-violence model is NOT in
+     Andrade — must be answered from Hoffman's own book, on the
+     ledger, in corpus, next batch).

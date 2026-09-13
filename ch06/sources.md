@@ -358,3 +358,40 @@ quotation in a browser before print.*
   August 1449 and claims authorship of the campaign plan —
   self-aggrandising ("il s'en vante," Samaran), but a
   reconquest-from-inside-Normandy witness the chapter can name.
+
+- **T2 — Tonio Andrade, *The Gunpowder Age: China, Military
+  Innovation, and the Rise of the West in World History* (Princeton
+  UP, 2016)** — IN REPO (EPUB + sidecar
+  `source-library/Andrade-Gunpowder-Age-epub.txt`; NO printed
+  pagination in this conversion — cite by chapter until a paginated
+  copy is in hand; print TOC anchors: ch. 6 begins p. 88, ch. 8
+  p. 115). Read in full. The Objection 7 chief authority AND the
+  source of its answer. THE WALLS THESIS, his own words (ch. 6):
+  Chinese walls — tamped-earth core, battered slope, 10–20 m thick —
+  "were so thick … that early guns—even the huge bombards of
+  Europe—would have had tremendous difficulty attacking them";
+  "would Europeans have bothered to develop wall-smashing artillery
+  … if they had faced walls like those of China? … The kings and
+  dukes of Europe paid these exorbitant sums because it was worth
+  it … In China artillery would not have repaid the heavy
+  investments"; restated in his Conclusions: "European walls were
+  an order of magnitude thinner … in China large guns were simply
+  not worth the investment." He AFFIRMS the European transformation
+  (Odruik 1377 "marked a new era"; "the balance had swung in favor
+  of the offence"; Constantinople at length) and aligns himself
+  with Rogers/DeVries/Smith on the 1400s as the decades "that set
+  Western Europe off on a separate path" (Acknowledgments). HIS
+  OPPOSING JUDGMENT, to be quoted not omitted (ch. 8):
+  "the transformative effects of guns have nonetheless been
+  overstated for Europe. Defeudalization would likely have occurred
+  without guns" (with Hale). THE TUSI COUNTER-GIFT (ch. 8): where
+  China retained quasi-feudal intermediaries (the southwest
+  chieftaincies), guns gave the centre "a decisive edge over local
+  powers," ending indirect rule — "a clear parallel here with the
+  gunpowder revolution model for Europe" (reporting Zhang Wen).
+  CAUTIONS: his one sentence on the French artillery state misnames
+  the king ("Charles V (1422–1461)" — Charles VII's dates); NO
+  Formigny, NO Castillon, NO Bureau brothers anywhere — never lean
+  on Andrade for the campaign narrative; his war-frequency datasets
+  are self-described as "intentionally rudimentary" (Appendix 2).
+  Full engagement: critiques Revisions 5; ch10 critiques Revisions 4.
