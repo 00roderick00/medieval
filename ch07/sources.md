@@ -142,3 +142,107 @@ accordingly.*
   ultimate pardons" — count variant vs Kriehn flagged); ~576 (the
   ready-military-organization thesis); ~578 (Morris on the
   constable's dual character). Closes the §1/probe §2 flags.
+
+## Added 2026-09-13 — integration run (September-intake assessments; pins verified against sidecars)
+
+- **T2 — Ralph A. Griffiths, *The Reign of King Henry VI* (1981;
+  California printing in repo)** — IN REPO (sidecar
+  `text-2026-09-13b/Griffiths.txt`; printed page survives as the
+  last line of each PDF page; plates break the offset; pins to be
+  spot-checked against the named 1998 second edition before
+  press). USE-NOTE: the standard monograph — ALLY on the
+  programme, RIVAL on the composition of Cade's host; engaged BY
+  NAME in §I. THE NEGATIVE FINDING (STEP 0-class): the draft's
+  "gentry skeleton" footnote cites Griffiths pp. 619–21 FOR THE
+  OPPOSITE OF WHAT HE SAYS — his position is that reading the
+  pardon roll as a roster of rebels is "quite unwarranted"
+  (p. 621, sidecar verified); Cheyne is offered as an UNLIKELY
+  rebel; officials and priors took pardons for protection; the
+  list "represents, in brief, a cross-section of society in the
+  south-east of England, but little more" (p. 621). The
+  "eighteen squires, two MPs" tally is not in Griffiths at all —
+  RE-SOURCE (to Harvey 1991/Bohna 2003, both retrieval rows) OR
+  CUT. DISPUTE RECORDED: Griffiths (the caution) v. Harvey and
+  Bohna (the reply, post-dating him) on the pardon roll; the
+  book sides with the reply for stated reasons, and loses the
+  flat "refined but not reversed." OTHER CORRECTIONS: Blackheath
+  encampment "by 11 June" (p. 611; the 4-June dating rejected as
+  "faulty chronology"); the three Cade manifestos are DISTINCT
+  documents (Stow's complaint names no adviser; the
+  Magdalen/Fastolf articles carry "the see is lost, ffraunse his
+  lost"; the "desires of the trewe comyns" names Slegge,
+  Crowmer, Isle and Est — pp. 628–38): every §II quotation must
+  be re-assigned to its manifesto; Moleyns was killed "by one of
+  the force's own captains, Cuthbert Colville" (p. 519), not
+  lynched by unpaid soldiers; no source in Griffiths for "some
+  five thousand men of Kent." WHAT HE ADDS: the mutiny of the
+  royal retinues as "one of the most critical events of the
+  entire rising" (p. 624, sidecar verified); the sheriffs'
+  capture by "Saye's charmed, but unpopular, circle" (p. 633);
+  the resumption grievance (p. 635); for ch05, the household
+  finance [GAP] closed (£372,000 debt against £225,315 in 1433;
+  "a hand-to-mouth existence in a fundamental state of
+  bankruptcy," pp. 376–92); for ch06, Fougères as state policy
+  (Surienne a Garter knight; Suffolk and Somerset complicit,
+  pp. 511–12) and "grooms of the cellar and pages of the
+  kitchen … transformed into armourers" (p. 344). DISPUTE
+  RECORDED (ch05): Griffiths/Wolffe v. Watts on the king's
+  agency — "The king's personality was in large part determining
+  the actions of his government" (p. 251).
+
+- **T1 (documents) / T2 (apparatus) — Tom Scott & Bob Scribner
+  (eds), *The German Peasants' War: A History in Documents*
+  (1991)** — IN REPO (sidecar
+  `text-2026-09-13b/Scott-Scribner.txt`; printed = PDF−14;
+  umlauts mangled — restore silently, verify at page images).
+  USE-NOTE: replaces the "DHI/BNU institutional accounts" of
+  n. 7-5 wherever it can; the editors' causal statement is the
+  chapter's mechanism from the peasant's side ("replacing
+  autonomous communal self-government by the rule of district
+  officials or bailiffs … replacing local customary law with
+  Roman Law … levying new territorial taxes," pp. 10–11).
+  CORRECTIONS: the Bundschuh programme was "all lordship except
+  that of the Pope and Emperor" — the 1525 banners "no lords
+  other than God and the Emperor" (pp. 10, 45): the draft drops
+  the ecclesiastical half, which is what makes the demand
+  restorationist; 1525 ended in ANNIHILATION, not absorption
+  ("bloodthirsty ruthlessness," p. 3; Frankenhausen's five
+  thousand; Kitzingen's blindings) — the absorption came a year
+  later, minimal, at Speyer; and the editors insist on
+  contingency ("The success of revolutions often turns on such
+  contingencies," p. 64) — "on schedule … the same fate" cannot
+  stand (ruling sheet §5(t)). WHAT THE DOCUMENTS ADD (T1):
+  Feuerbacher's deposition — "We want no diet … 'Give money!
+  give money!' We want to give no more money, justice is what we
+  want" (p. 141, sidecar verified) — the fiscal grievance in the
+  rebels' own mouths; the Twelve Articles' tax-for-defence
+  clause (Art. 2, p. 254); the Swabian League's Fugger loan of
+  10,000 fl. and the Ravensburg clerk's "three armies" letter
+  (pp. 57, 156) — the repression as a FUNDED operation; the
+  disarmament clauses and the bell taken from the tower
+  (Stühlingen, pp. 303–4); the Speyer recess §§9–10 — mutual aid
+  "with horse and foot" for a month at the neighbours' cost
+  (p. 318, sidecar verified) — the inter-princely security
+  compact, "shaped, not prevented" in one document. THE
+  SPINE-§4 CAUTION (critiques): the commons had cannon —
+  forty-seven at Königshofen (p. 61, sidecar verified) — and
+  still lost; captured, not cast, fed or paid for.
+
+- **T2 — Richard Vaughan, *John the Fearless* (1966; 2002
+  repr.)** — IN REPO (sidecar `text-2026-09-13/Vaughan.txt`;
+  printed running head second; numerals corrupt in places —
+  verify figures). FOR THIS CHAPTER (§III): the Cabochien
+  ordonnance as the Paris instance the chapter lacks — the
+  revolt of 28 April 1413 "in part … class warfare … But in part
+  it represented reform rather than revolution" (p. 99, sidecar
+  verified); the 258-article ordonnance "never implemented,"
+  "solemnly torn up by the clerk of the court at the Paris
+  Parlement" (p. 193); amnesty exclusions cut from 500 to
+  forty-five (pp. 203–4). THE DISANALOGY TO STATE: this rising
+  was sponsored by an over-mighty subject running an anti-tax
+  platform (John's Hesdin promise of 1417: no taxes, loans,
+  subsidies or salt-duty, p. 216) — the magnate's anti-tax
+  populism as the Praguerie's mirror image. Coville (*Les
+  Cabochiens*) remains primary for the ordonnance's text —
+  retrieval row. Full Vaughan entries at ch05/ch10 (integration
+  notes there).

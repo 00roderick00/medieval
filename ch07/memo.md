@@ -368,3 +368,77 @@ STATUS: REVIEWED (Roderick, 2026-07-22) — cleared for drafting
   "revolt of the over-mighty against the machinery being built to
   end them" is Vale's own frame (p. 77: reform "to deprive the
   potentially rebellious magnate of the means of revolt").
+
+## Revisions (2026-09-13 — integration run, PENDING HUMAN REVIEW)
+
+1. **(Griffiths — the Cade footnote cites him for the opposite of
+   what he says; the synthesis §3b finding, its own entry.)**
+   - THE NEGATIVE CLOSURE (RE-SOURCE OR CUT): §I's "gentry
+     skeleton" — the pardon roll read as a roster of propertied
+     rebels, attributed to Griffiths pp. 619–20 — is refuted by
+     the page cited: reading pardons as rebels is "quite
+     unwarranted"; the list is "a cross-section of society in
+     the south-east of England, but little more" (p. 621). The
+     "eighteen squires, two MPs" tally is not in Griffiths. The
+     chapter's propertied-revolt claim SURVIVES — on the
+     programme ("the frustrations … of practically all sections
+     of Kentish society, including the substantial and
+     well-to-do," p. 630), the county's structure, and
+     Harvey/Bohna — but the footnote must be re-sourced and
+     Griffiths recorded as the dissent, with the book siding
+     with the later scholarship for stated reasons.
+   - CORRECTS: Blackheath "by 11 June" not the first week; the
+     three manifestos separated (every §II quotation re-assigned
+     to Stow's complaint, the Magdalen articles, or the "desires
+     of the trewe comyns" before print); Moleyns killed by his
+     own captain Colville, not lynched by unpaid soldiers; "some
+     five thousand" unsourced in Griffiths (contemporaries'
+     20,000–60,000 "notional").
+   - ADDS: the royal retinues' mutiny as "one of the most
+     critical events of the entire rising" (p. 624) — the
+     state's own soldiers adopting the commons' programme, ch05's
+     hollow crown meeting this chapter's crowd; the sheriffs'
+     circle (p. 633); Payling's Say datum (trading pardons for
+     Kentish manors two years before the block, EHR 1998 p. 8)
+     as the corruption made concrete.
+
+2. **(Scott & Scribner — 1525 was annihilation, not absorption;
+   ruling sheet §5(t).)**
+   - CORRECTS: the Bundschuh programme restored to "no lord but
+     God/the Pope and the Emperor" — the ecclesiastical half is
+     what makes it restorationist; §V's "the same ending" cannot
+     stand — 1525 ended in slaughter, the minimal concessions
+     were struck from the final Speyer recess, and the editors
+     rule the outcome contingent ("nearly won"). Proposed
+     recut (per the assessment, graded GOOD only with the
+     re-scope): the propertied-anxious form describes the FIRST
+     phase (strike-like, householder-led, seeking composition);
+     1525 is the boundary case where the form broke its banks
+     into godly-law revolution and was annihilated; the
+     absorption is Speyer 1526's recess — an inter-princely
+     mutual-aid compact ("with horse and foot," §§9–10), which
+     is "shaped, not prevented" in one document. "On schedule"
+     becomes "under a probability the state's fiscal reach kept
+     raising."
+   - ADDS: Feuerbacher's "Give money! give money!" deposition;
+     the Twelve Articles' tax-for-defence clause; the League's
+     Fugger loan and the rebels' rotation system ("robbed them
+     of the chance to build up expertise" — because no one could
+     pay them to stay); the disarmament clauses and the bell
+     from the tower; the revolutionary tract named as the
+     exception (as the Merfolds are for Kent).
+   - THE SPINE-§4 ITEM (critiques): the commons had forty-seven
+     cannon at Königshofen and lost — captured guns, no train,
+     no treasury, no standing structure. Correctly stated, the
+     best short proof that a captured weapon is not a decisive
+     one; incorrectly stated, the first objection a hostile
+     reader raises against the longbow/cannon metaphor.
+3. **(Vaughan — the Paris instance.)** The Cabochien revolt
+   enters §III as proposed by the outline: "reform rather than
+   revolution," a 258-article administrative programme sponsored
+   from above, torn up by the Parlement's clerk, its amnesty
+   exclusions negotiated down from 500 to forty-five — with the
+   disanalogy stated: the sponsor was an over-mighty subject
+   running an anti-tax platform (Hesdin 1417), the Praguerie's
+   mirror image. Coville stays on retrieval for the ordonnance's
+   text.

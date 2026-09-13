@@ -167,3 +167,48 @@ downsized.
 - Are the blocked figures (€10bn, RFSP percentages) absent?
 
 *(Run pending; results to be pasted below with date.)*
+
+## Revisions (2026-09-13 — integration run, PENDING HUMAN REVIEW)
+
+1. **Griffiths on the composition of Cade's host.** Steelman: "The
+   collective behaviour of the rebels was the behaviour of
+   commoners, ill-organized, poorly armed, and badly disciplined"
+   (p. 623); the rank and file "from the lower orders … 'a fulle
+   rude peple'" (p. 622); the constables who negotiated pardons
+   were agents of their hundreds seeking protection, not
+   recruiting agents — a view he calls profoundly misunderstood
+   (p. 622). The standard monograph aims this squarely at the
+   Bohna reading the chapter carries. Answer (assessment grade:
+   DEFENSIBLE, at a cost): (i) Griffiths concedes the propertied
+   character of the programme and the county (pp. 630, 637);
+   re-found the claim on grievance, structure and leadership,
+   not the roll's occupational tally; (ii) Harvey 1991 and Bohna
+   2003 post-date him and re-argue the roll and the muster
+   machinery — cite the sequence Griffiths-the-caution,
+   Harvey/Bohna-the-reply, and side with the reply for stated
+   reasons. The cost: the flat "refined but not reversed" goes —
+   Griffiths did try to reverse Kriehn. No spine ruling reached.
+
+2. **Scott & Scribner on determinism and on the commons' cannon.**
+   Steelman: 1525 was contingent and nearly won ("had he been
+   defeated at Weingarten, the peasants would certainly have
+   regained their confidence"; "if the league's army is once
+   defeated … the peasants will be the lords"); the idiom was not
+   restorationist to its bones (godly law as a NEW benchmark; the
+   Christian Union "assumed the air of a sovereign authority");
+   the marchers included the landless margin; and the commons had
+   cannon — forty-seven at Königshofen — so "the people's weapon"
+   line of spine §4 is exposed. Answers (grades preserved): the
+   re-scope per memo Revisions 2 (good only if 1525 becomes the
+   boundary case); the sociology conceded with the editors'
+   sentence quoted; and the cannon answer is THE MECHANISM ITSELF
+   (graded STRONG): the peasants' guns were seized, not cast, fed
+   or paid; Götz's band before Horneck "had not a single cannon
+   with which they could dislodge a single stone from the wall";
+   the League fought on a Fugger loan and a 1488 constitution;
+   the rotation system starved expertise because nobody could pay
+   men to stay. The decisive asymmetry was the train plus the
+   treasury plus the standing structure — spine §4's cannon
+   correctly restated as the full-stack state, not the barrel.
+   One sentence in the chapter; the wording change is
+   ruling-sheet §5(t) and (i).
