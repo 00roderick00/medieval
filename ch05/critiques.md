@@ -149,3 +149,34 @@ hinge framing should be cut rather than allowed to imply a hidden unity.
   or marked as estimates?
 
 *(Run pending; results to be pasted below with date.)*
+
+## Revisions (2026-09-13 — integration run, PENDING HUMAN REVIEW)
+
+1. **Lander on the over-mighty myth.** Steelman: "The popularity
+   of Sir John Fortescue's works has created something of a myth
+   of the overmighty subject" (p. 16) — no fortresses, incomes a
+   twelfth of the king's, "merely rich gentlemen" (p. 68);
+   campaigning "little more than 12 or 13 weeks in 32 years"
+   (p. 62); the Wars of the Roses came from failed arbitration,
+   not a warlike nobility (pp. 20, 55); the system "demanded a
+   king of strong character" and Edward IV ran it through
+   bastard feudalism's own lines (pp. 33, 38). "Private armies"
+   is "completely misleading" (p. 31). This cuts at §VI's
+   "Over-mighty subjects, encountering an undermighty king,
+   produce the crisis … because it was structural."
+   - Answer (assessment grades preserved): the claim is
+     RELATIONAL — capability concentrated relative to the
+     crown's executive capacity — and Lander concedes the
+     relation ("The authority necessary to ensure social peace
+     lay largely in private hands," p. 30; "The margin between
+     order and disorder was still small … and it depended on the
+     action of a strong king," p. 170). HOLDS if the chapter
+     drops "private armies," states Lander's disanalogy
+     (scattered estates, no fortresses), and recasts
+     "structural" as the crown's deficit rather than the
+     magnates' surplus. DOES NOT HOLD for "outlasted him":
+     Lander's Edward IV managed the problem personally — retreat
+     to the assessment's formulation, "Edward's management was
+     personal and non-transferable," which is Lander's own. No
+     spine ruling reached; the English limb's register changes
+     (cross-ref ch11 critiques and ruling sheet §5(k)).

@@ -129,3 +129,88 @@ primary tables before print. Consistency with ch06 verified.*
   paraphrased pending retrieval). RETRIEVAL ROUTE: Cambridge alumni
   e-access if listed; otherwise Internet Archive borrow; otherwise
   second-hand purchase — add to retrieval-master.
+
+## Added 2026-09-13 — integration run (September-intake assessments; pins verified against sidecars)
+
+- **T2 — Griffiths, *The Reign of King Henry VI* (1981)** — IN REPO
+  (sidecar `text-2026-09-13b/Griffiths.txt`; full entry at ch07).
+  FOR THIS CHAPTER: closes the §II household-finance [GAP] —
+  debts "£372,000 (compared with £225,315 in 1433)" by July 1449;
+  "a hand-to-mouth existence in a fundamental state of
+  bankruptcy"; customs 1441–52 at 83 per cent of 1422–32; taxation
+  halved while borrowing rose a third (pp. 376–92, sidecar
+  verified for the £372,000). The collapse texture at T1 routes:
+  the Stodeley newsletter and Clere's letter (pp. 716–17) for "he
+  had to be fed"; "no public announcement of Henry's incapacity
+  was made" (p. 719). Beaufort as the crown's banker ("a quarter
+  of a million pounds … able to dictate the kind of security he
+  wanted," p. 392) for §VI. DISPUTE RECORDED (per CLAUDE.md §5):
+  Griffiths/Wolffe v. Watts on the king's agency — "The king's
+  personality was in large part determining the actions of his
+  government" (p. 251) against the Watts frame §II follows; the
+  chapter must name both readings. Hedge for §III: Griffiths
+  doubts the completeness of the late-1454 recovery and will not
+  dismiss a second bout in 1455–56 (pp. 717–18).
+
+- **T2 — Lander, *Crown and Nobility* (1976)** — IN REPO (full
+  entry at ch11). FOR THIS CHAPTER, THE RIVAL ON §VI: "The
+  popularity of Sir John Fortescue's works has created something
+  of a myth of the overmighty subject … not even the greatest
+  subject possessed an income much more than one twelfth of that
+  of the king … the English nobility possessed no fortresses"
+  (p. 16); the crisis was arbitration, and the cure a strong king
+  (pp. 20, 33, 38). And the CAVEAT the chapter must carry:
+  "private army" is "completely misleading" (p. 31) — Buckingham's
+  whole retinue cost "just over £900"; magnates "could never keep
+  them in arms for long." §I dates confirmed (March 1454;
+  Somerset released 7 February 1455, pp. 75–6). Fortescue pins:
+  "equipollent" (p. 16, Plummer 130); "the might of the land …
+  standeth most in the king's officers" (p. 269 n. 10). Engaged
+  in critiques this date.
+
+- **T2 — Vaughan, *John the Fearless* (1966)** — IN REPO (sidecar
+  `text-2026-09-13/Vaughan.txt`; ch07/ch10 entries this date).
+  FOR THIS CHAPTER: the §III [GAP] closes — the 1407 murder
+  "certainly premeditated" (p. 44); Montereau "on Sunday, 10
+  September" (p. 274), with Vaughan's verdict (the dauphin "was
+  one of the murderers," p. 283) stated as his, against the
+  Dauphinist "fracas" version — the draft's "at a parley"
+  understates it. THE FISCAL-PIPE ADDITION for §VI: the apanage
+  as revenue stream — royal debts to John of 347,591 francs by
+  April 1407 (pp. 42–3, sidecar verified) while Orléans drew
+  159,000 l. of ceded aides; "among the many motives which
+  impelled John the Fearless to assassinate his rival … the need
+  for funds from France" (p. 43); "if this was an expensive
+  game, the king was paying for it, not he" (p. 87). The civil
+  war as a contest among crown-endowed subjects for the
+  undermighty king's revenue stream — the chapter's
+  direction-of-causation argument with its motive supplied.
+  PRECISION: "creations of royal grant in the 1360s" → "royal
+  grant and royal marriage-brokering" (duchy 1363; Flanders by
+  the 1369 marriage, p. 251). Hollow-sovereignty images for
+  ch09: the king re-badged by each captor (p. 197); the seals
+  and rival Parlements of 1418 (pp. 221, 263, 267).
+
+- **Pointer — the Ottoman 1444 corrections (Kafadar; İnalcık):**
+  §IV's "weary of the throne" is unsupported in both authorities
+  — İnalcık gives a dynastic motive (insurance against the
+  pretender Orhan, p. 20) captured by the war party (his own
+  phrase, p. 22); Kafadar gives the faction frame (p. 146).
+  Write both, drop weariness. The 1446 return: "convinced that
+  this was the wish of the Janissaries" (İnalcık p. 63). Ágoston
+  adds Halil Pasha at the 1444 crossing with four hundred
+  arquebusiers and two hundred gunners, the guns "delivered to
+  him by the Genoese of Pera" (p. 90 n. 14) — the peace-party
+  vizier operating the guns in the crisis year. Full entries at
+  ch11.
+
+- **Pointer — Gairdner 1872 (T1; full entry at ch08):** Norfolk's
+  April 1452 proclamation ("nexst the Kynge … the princypall
+  rewle and governance throwh all this schir … whyls that we be
+  lyvynge," no. 173) — the keyring of jurisdictions in a duke's
+  own voice, for §VI; York's gun-train at Dartford 1452
+  (Appendix 4, chronicle figure). Elliott correction for §VII
+  (from ch11 entry): Aragon 1450–79 is "a society in retreat" —
+  "Portugal stable, Aragon expanding" must lose its second limb;
+  Iberia belongs INSIDE the modal condition, Portugal alone
+  stands.

@@ -355,3 +355,37 @@ STATUS: REVIEWED (Roderick, 2026-07-22) — cleared for drafting
      French recto page for translations, Latin verso when
      load-bearing; T1 witness in T2 edition; hostile exile
      composing 1471–2.
+
+9. **(2026-09-13 — integration run: Griffiths, Lander, Vaughan and
+   the Ottoman corrections carried to this chapter. PENDING HUMAN
+   REVIEW.)**
+   - CLOSES: the §II household-finance [GAP] (Griffiths pp.
+     376–92, CLOSABLE AT RENOVATION with the £372,000/£225,315
+     pair, the 83 per cent customs figure, and "hand-to-mouth …
+     fundamental state of bankruptcy"); the §III
+     assassination-dates [GAP] (Vaughan pp. 44, 274).
+   - CORRECTS: §III "at a parley with the Dauphin's party" →
+     understates Vaughan's finding (premeditated; the dauphin
+     among the murderers — stated as Vaughan's verdict against
+     the French tradition); §VI "creations of royal grant in the
+     1360s" → grant AND marriage-brokering; §IV "weary of the
+     throne" → dynastic insurance captured by the war party
+     (İnalcık p. 20; Kafadar p. 146) — both motives, no
+     weariness; §VII "Aragon expanding" → "a society in retreat"
+     (Elliott PDF 51); §I dates confirmed against Lander; ch09's
+     24/25 March dates per Griffiths (deputation nominated the
+     23rd, visit the 24th, report the 25th, formal act 3 April).
+   - ADDS: the fiscal-pipe reading of the civil war (Vaughan §4a
+     — the 347,591-franc arrears, the aides, "the king was
+     paying for it") for §VI; Beaufort-as-banker (Griffiths p.
+     392); the royal retinues' mutiny of 1450 (Griffiths p. 624)
+     as the hollow crown meeting the crowd; Norfolk's
+     proclamation and York's Dartford ordnance (Gairdner) for
+     §VI texture; the queen's regency bill ("she desireth to
+     have the hole reule of this land," Griffiths p. 722).
+   - DISPUTES RECORDED: Griffiths/Wolffe v. Watts on agency (the
+     chapter should name both rather than "follow" one — an
+     active but incompetent executive still fails §VI's test);
+     Lander v. the over-mighty-subject frame (critiques entry
+     this date); the §III "total and continuous" contrast hedged
+     per Griffiths pp. 717–18.
