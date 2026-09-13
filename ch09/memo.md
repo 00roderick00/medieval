@@ -287,3 +287,17 @@ discipline (cite via reviews pending retrieval) is unchanged.
 ---
 
 STATUS: REVIEWED (Roderick, 2026-07-31 — read in full, nothing to add; no revisions required)
+
+## Revisions (2026-09-13 — integration run, PENDING HUMAN REVIEW)
+
+1. **(Pointer intake.)** CORRECTS: the March 1454 sequence
+   (23/24/25 March; act of 3 April — Griffiths pp. 716–26);
+   York's protestation wording to be conformed against RP V 242.
+   DISSENT RECORDED: Lander's second protectorate as manoeuvre,
+   not medical response — §III must name the disagreement. ADDS:
+   the physicians' warrant, the peers' fines, the queen's bill
+   (Griffiths); Vaughan's hollow-sovereignty images (re-badged
+   king; seized seals; split offices; the 1406–09 ordonnance
+   series); Eisenstein's printed two-bodies and Varennes
+   (PENDING RE-QUOTATION from the English edition). All
+   proposals; no draft text.

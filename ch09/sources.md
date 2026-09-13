@@ -148,3 +148,42 @@ Update retrieval-master.md accordingly.*
   natural body; direct support for the two-bodies argument.
 - **Wilkinson**, p. 177: "did not talk, sat slumped, had to be fed and
   moved" — the natural body's failure, clinically stated.
+
+## Added 2026-09-13 — integration run (pointer entries; pins verified; full entries at the named chapters)
+
+- **Lander, T2 (full entry at ch11):** the protectorate formula at
+  source — Rot. Parl. v 242 printed in full at his p. 76 ([^9-4]
+  can read "Lander 1976: 76"); the 1455–56 terms "identical with
+  those of the first protectorate" (p. 84); and the RIVAL READING
+  of the second protectorate — "no second breakdown" in 1455: "an
+  attempted palace revolution which failed miserably for lack of
+  support" (pp. 90, 99), driven through by York's feoffee Burley.
+  §III treats both protectorates as responses to incapacity; the
+  second, on Lander's account, was a magnate WORKING the device —
+  record as the named dissent.
+- **Griffiths, T2 (full entry at ch07):** the 1454 dates corrected
+  — deputation nominated Saturday 23 March "to wait on the king
+  next day"; visit the 24th; report Monday the 25th; the formal
+  act 3 April (pp. 716, 724–6); York's protestation reads
+  "restethe thexcercice of his auctoritee" (p. 725 — check the
+  draft's "resteth th'exercice" against RP V 242). ADDS: the five
+  physicians given formal authority under twenty-eight lords'
+  signatures for their "experiments" (p. 717); parliament fining
+  absent peers on 28 February — "for the first and only time in
+  medieval England" (p. 724); the queen's bill ("she desireth to
+  have the hole reule of this land," p. 722).
+- **Vaughan, T2 (full entries at ch05/ch07/ch10):** hollow
+  sovereignty in its literal images — the mad king re-badged by
+  each captor (the Armagnac bend, the Burgundian saltire, p. 197);
+  the seals seized and disavowed ("we forbid you to obey any
+  letters or writs sent to you whatsoever, except our own,"
+  p. 267); the offices split (Parlement and chambre des comptes
+  duplicated at Troyes and Poitiers/Bourges, pp. 221, 263); the
+  regency ordonnances of 1406–09 making "rewritten twice a year"
+  pinnable (pp. 37, 68, 81).
+- **Eisenstein, T2 (CHINESE FILE — pins only, re-quote from the
+  English edition before any use):** the king's two bodies,
+  printed — portraits by the thousand making the office and the
+  body distinct in subjects' eyes; Louis XVI recognised at
+  Varennes from the assignat portrait (orig. 84, 134). For the
+  chapter that carries Kantorowicz; PENDING RE-QUOTATION.
