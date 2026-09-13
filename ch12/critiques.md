@@ -349,3 +349,65 @@ precisely so that patience cannot be pleaded later.
    mechanism runs on severing discretion) — the [RE-CHECK AT
    PRESS] status of the H200 arrangement is unchanged and CA-6
    still waits on its instrument.
+
+5. **(2026-09-13 — Parrott read in full; the devolution objection
+   restaged on his actual text. PENDING HUMAN REVIEW.)** Revisions 2
+   engaged the objection "as the council reported it" and flagged
+   every attribution [UNVERIFIED — RETRIEVAL: Parrott 2012]. The book
+   is now in repo and read (T2; printed = PDF−20); those flags
+   RESOLVE as follows.
+   - **The thesis, now verbatim (pp. 1–2):** "the maintenance of
+     wholly state-recruited and state-administered military force is
+     an anomalous development over the broader course of European
+     history," an "explicit drive" that "is a particular
+     preoccupation of European states from roughly 1760 to 1960."
+     The council reported the thesis accurately. Revisions 2's
+     engagement stands on this limb unchanged.
+   - **One attribution fails at source:** the compagnies
+     d'ordonnance never appear in the book — zero occurrences of
+     "ordonnance"; Charles VII is never named (only Charles VIII,
+     p. 68 of the argument on 1494). The council's line that the
+     compagnies were "an experiment repeatedly unwound by contractor
+     warfare" (model-council-synthesis, non-citable) is a council
+     construction Parrott never makes. His actual deflation of the
+     mid-fifteenth-century milestone is p. 30: standing forces "had
+     existed, as a small proportion of the ruler's potential armed
+     strength, throughout the middle ages"; "the permanent forces of
+     the king of France from the mid-fifteenth century numbered
+     around 6,000 men." That is a SCALE point, not an unwinding
+     point — and it is answerable on scale (ch10 memo Revisions 21).
+   - **The steelman, upgraded from his own pages:** Parrott's
+     strongest limb is effectiveness — enterprise forces were not
+     the feeble instruments of Machiavelli's polemic but capable,
+     durable, often superior providers (pp. 153–4, 195; conclusion
+     pp. 308, 317), and the fiscal-military state was BUILT ON
+     private provision rather than against it (p. 318: "If the
+     fiscal-military state was built on the opportunities and
+     benefits that private involvement in warfare offered, why
+     should these have been abandoned?"). Applied to ch12: the
+     platforms are the enterprisers, and their incorporation-without-
+     nationalisation is his equilibrium, not a way-station.
+   - **The book's answer, now anchored in Parrott's own concession
+     (p. 291):** when the line of battle made the decisive naval
+     unit specialised capital — useless as a merchantman, unbuildable
+     privately at rated scale — "European states therefore faced a
+     simple challenge … they would have to build it and maintain it
+     at their own expense," from tax revenues. Parrott himself
+     documents that where decisive force becomes specialised,
+     non-dual-use capital, the private-provision equilibrium
+     collapses and the state owns the asset. That is the artillery
+     state's mechanism, operating inside his own account, at sea,
+     on his own pages. The ch12 question then becomes empirical, as
+     Revisions 2 already framed it: is the stack more like Parrott's
+     seventeenth-century contract army (dual-use, hireable,
+     devolvable) or like his rated warship (specialised capital of
+     decisive scale)? Spine §8(d)'s compute-led reading is precisely
+     the claim that the frontier fab and the training cluster are
+     rated warships, not armed merchantmen. The p. 327 sentence —
+     the "comprehensive return to military outsourcing … embraced
+     with all the … pragmatism of the states that moved in this
+     direction from the sixteenth to the late eighteenth century" —
+     is his counter-prediction, and CA-4's dated horizon (Revisions
+     2, scoreable form) remains the honest test between them. No
+     spine ruling is reached; §8(c)/(d) anticipate the shape of the
+     disagreement.

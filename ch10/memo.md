@@ -1161,3 +1161,25 @@ STATUS: REVIEWED (Roderick, 2026-07-23) — cleared for drafting
       22 support); the p. 62 objection is the genuine Howard
       dissent and belongs beside Curry's reversal in §VII at the
       next renovation (proposal only).
+
+21. **(2026-09-13 — Parrott read in full; the p. 30 deflation
+    noted for Objection 6. PENDING HUMAN REVIEW.)** Parrott's
+    only touch on this chapter's ground — he never names the
+    compagnies d'ordonnance or Charles VII anywhere in the book
+    (verified, zero hits) — is one deflationary paragraph at
+    p. 30: standing forces "had existed, as a small proportion of
+    the ruler's potential armed strength, throughout the middle
+    ages," and "the permanent forces of the king of France from
+    the mid-fifteenth century numbered around 6,000 men," dwarfed
+    by Ottoman and Mughal establishments. For the critiques
+    Objection 6 engagement (the contracting-persisted limb): the
+    answer is that the chapter's claim was never a SIZE claim —
+    it is a FUNDING-FORM claim (permanent taxation without
+    assemblies carrying a permanent force, the ratchet holding
+    thereafter), and Parrott's own naval concession (his p. 291;
+    ch12 critiques Revisions 5) supplies the mechanism's rule for
+    when his contract-equilibrium fails. The Objection 6 deferred
+    caveat ("Tilly, Parrott … must be verified at page level")
+    can close on its Parrott limb at the next critiques
+    renovation; the Tilly limb closes with the Tilly intake this
+    session.

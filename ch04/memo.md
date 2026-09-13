@@ -311,3 +311,29 @@ as written.
 ---
 
 STATUS: REVIEWED (Roderick, 2026-07-22) — cleared for drafting
+
+4. **(2026-09-13 — Parrott, *The Business of War* (CUP 2012), read
+   in full; intake. PENDING HUMAN REVIEW.)**
+   - CONFIRMS: the memo's domestication line — condottieri
+     disciplined by market competition and integration into
+     fiscally-capable buyers — is Parrott's own account of the
+     Italian system's evolution (pp. 41–45, 105, 135): condotte
+     tightening, enterprisers folded into standing state
+     structures. The chapter's ch03 cross-reference (licensed
+     provision under state monopsony) now has its T2 anchor on
+     the provision side as well as the monopsony side.
+   - CORRECTS (prophylactic): the bloodless-condottieri trope is
+     dead on arrival — Parrott pp. 27–28 quotes Machiavelli's
+     one-death Anghiari and calls the account "fictitious"; the
+     1440 campaign was existential for Florence. No current memo
+     or draft text uses the trope; this entry exists so none ever
+     does.
+   - ADDS: Marignano (pp. 27–29) as the chapter's best hybrid
+     case if one is wanted — half the Swiss bought off by treaty
+     before the battle, the rest honouring their contract into
+     near-certain slaughter, and the defeat INCREASING demand for
+     Swiss service. Sharpens the existing Swiss disanalogy
+     (anti-determinism case) rather than disturbing it.
+   - CONTRADICTS: nothing in this chapter. Parrott's system-level
+     counter-thesis bears on ch10/ch12 and is engaged there
+     (ch12 critiques Revisions 5).

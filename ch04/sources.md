@@ -136,3 +136,32 @@ releases, ISW).
 agents). The modern Sforza-from-above material shares its primary base with
 ch03/sources.md — cross-reference rather than duplicate. Update
 retrieval-master.md accordingly.*
+
+## Added 2026-09-13 — source intake (read in full)
+
+- **T2 — David Parrott, *The Business of War* (Cambridge UP, 2012)** —
+  IN REPO (`Parrott - The Business of War.pdf`; sidecar
+  `source-library/text-2026-09-13/Parrott.txt`; printed = PDF−20).
+  Read in full. For this chapter: (a) **the Anghiari correction,
+  pp. 27–28** — Machiavelli's one-death account quoted at chapter
+  head and then dispatched: "Machiavelli's account of Anghiari is
+  fictitious: it was far from being a bloodless struggle, and the
+  battle and the campaign of 1440 were crucial to the survival of
+  Florentine independence." If any draft ever reaches for the
+  bloodless-condottieri trope, this is the standing prohibition
+  (none does at present — prophylactic entry). (b) Marignano
+  pp. 27–29 as the anti-romantic hybrid case (Swiss contingents
+  bought off pre-battle; the rest fighting to honour a CONTRACT),
+  including the correction that Marignano made Swiss troops MORE
+  sought after — reinforcing ch04's market-in-force framing and the
+  Swiss disanalogy discipline. (c) The mercenary-definition
+  argument, pp. 29–30 — "service for pay no more defined a mercenary
+  in the sixteenth or seventeenth century than it does in the
+  twenty-first" — useful for the chapter's care with the term.
+  (d) Condottieri domestication confirmed at pp. 41–45, 105, 135
+  (contract forms tightening; enterprisers absorbed into state
+  service structures) — corroborating the chapter's
+  domestication-by-market-and-integration line at T2. Parrott's
+  overall thesis (state-administered force as the 1760–1960
+  anomaly) is engaged at full strength in ch12 critiques Revisions 5
+  and ch10 critiques Objection 6, not here.

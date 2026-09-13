@@ -235,3 +235,30 @@ above (CLAUDE.md §4). URLs in the session research record.*
   decade-long decay of successor coordination through the 26
   Broadway meetings (see memo Revisions 9(d) for the nuance this
   puts on the probe's severance framing).
+
+- **T2 — David Parrott, *The Business of War: Military Enterprise and
+  Military Revolution in Early Modern Europe* (Cambridge UP, 2012)** —
+  IN REPO (`Parrott - The Business of War.pdf`; text sidecar in
+  `source-library/text-2026-09-13/Parrott.txt`; printed = PDF−20).
+  Read in full. The book's most serious named rival, now engaged on
+  its actual text rather than the council's report of it. The thesis
+  verbatim, pp. 1–2: "the maintenance of wholly state-recruited and
+  state-administered military force is an anomalous development over
+  the broader course of European history," a "particular
+  preoccupation … from roughly 1760 to 1960." NEGATIVE FINDING: the
+  compagnies d'ordonnance appear NOWHERE in the book (zero hits for
+  "ordonnance"; Charles VII is never mentioned) — the council's
+  "experiment repeatedly unwound" framing is the council's own
+  construction, not Parrott's. THE CONCESSION THAT MATTERS, p. 291:
+  once the line of battle made warships specialised capital, states
+  "would have to build it and maintain it at their own expense …
+  These ships would only come into existence if the ruler was
+  prepared to spend heavily from tax revenues to build, arm and crew
+  them" — i.e. where decisive force becomes specialised capital,
+  private provision fails and the state owns; which is this book's
+  mechanism, conceded inside the rival's own account. The
+  contemporary return, p. 327: governments' "widespread and
+  comprehensive return to military outsourcing and the military
+  contractor-state." Effectiveness steelman (contractor forces were
+  not inferior): pp. 153–4, 195, 308, 317. Full engagement:
+  critiques.md Revisions 5.
