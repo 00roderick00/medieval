@@ -963,3 +963,37 @@ STATUS: REVIEWED (Roderick, 2026-07-22) — cleared for drafting
     "bombardella … quas colubrinas et serpentinas vocant"
     (p. 272) — period attestation of the calibre-name drift the
     chapter flags elsewhere.
+
+20. **(2026-09-13 — DeVries, *Guns and Men* (Variorum 2002), read
+    in full; intake. PENDING HUMAN REVIEW.)** The Castillon
+    dissent problem, resolved at T2.
+    - CLOSES (at next renovation): the gap left by the Howard
+      negative finding (Revisions 18). The chapter's §V/§VI
+      staging can now rest on DeVries's actual, calibrated
+      judgment — battlefield guns "less effectual" than siege
+      guns but "beginning to make an impact," demonstrated by the
+      Girault letter's per-ball lethality at Castillon (X, 348),
+      with campaign victory attributed to the Bureau
+      ORGANISATION, not the weapon (XVI, 132–3: "led to … 
+      contributed to"). This is better than the phantom Howard
+      sentence: it is the field's leading sceptic conceding
+      lethality-as-used while refusing determinism — exactly the
+      chapter's own two-speeds discipline, from the opposing
+      bench. Proposed restaging (proposal only, no draft edits
+      this job): pair DeVries X, 348 with Howard's genuine pp.
+      30–31 field-vs-siege judgment.
+    - ADDS: Harcourt 1449 (single shot → surrender) and Bourg
+      1451 (surrender before a shot) as the two intimidation
+      data-points for the reconquest's speed (XIII, 231); Talbot
+      by gunshot (XVII, 136); Cherbourg 1450 command casualties
+      (XVII, 136); Bayonne 1451 culverin-wound surgery (XVII,
+      140).
+    - CAUTIONS: the 100dpi OCR corrupts digits systematically —
+      every date verified against page image or journal original
+      before any draft use; Formigny remains without tactical
+      authority in this volume (one list mention, one
+      Bureau-victories mention) — the Formigny culverin detail
+      stays [UNVERIFIED — RETRIEVAL] with Curry/Vale/Rogers as
+      candidate closers; supersession note per DeVries himself:
+      XV (1990) first-ship-sunk claim corrected by his own XIV
+      (1998).

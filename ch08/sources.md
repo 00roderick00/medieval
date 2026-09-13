@@ -214,3 +214,16 @@ EUR-Lex) contemporaneously.
 source listed above — provenance runs to sources only (CLAUDE.md §4).
 URLs in the session research record. Update retrieval-master.md
 accordingly.*
+
+## Added 2026-09-13 — source intake (pointer entry)
+
+- **T2 — DeVries, *Guns and Men in Medieval Europe* (Variorum
+  2002), Article XVI, 142–4** — IN REPO (read in full this date;
+  full entries at ch06/ch10). For this chapter's English private
+  gunpowder war: the catalogue at first hand — Norwich riots 1443;
+  Fitzwilliam seizing Talbot's artillery 1450; Powderham 1455; the
+  Berkeley–Talbot feud settled at Nibley Green 1469 "with
+  gunpowder weaponry bombardments"; Mowbray's guns against
+  Paston's Caister 1469; Stanley's cannon "Mile End" at Hornby
+  1471. Private artillery as the symptom of the suppression that
+  did NOT happen in England.

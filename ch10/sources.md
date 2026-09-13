@@ -501,3 +501,41 @@ accordingly.*
   introduction and notes citable separately at T2 (Quicherat's
   characterisation of Basin's ideology — "ses sorties contre les
   armées régulières, les taxes" — at p. xix).
+
+- **T2 — Kelly DeVries, *Guns and Men in Medieval Europe, 1200–1500*
+  (Variorum, 2002)** — IN REPO (OCR sidecar; digit-corruption
+  caveat — verify dates at page images; cite Article numeral +
+  original pagination). Read in full; Article XVI is the in-repo
+  1998 paper, pagination identical. What the VOLUME adds for this
+  chapter beyond XVI: (i) the mechanism's scope condition restated
+  independently at XII, 293 — "smaller ducal or comital entities
+  who could not afford … their own gunpowder weapons began to be
+  forced out of power by the more fiscally strong central states,"
+  with n. 54: "England and the Holy Roman Empire do not follow the
+  same pattern" — the sceptic's own statement of the
+  affordability-suppression chain, with the exceptions named. (ii)
+  The England counter-case in full: royal-only gun control from
+  Edward III (XVI, 139), the Wars of the Roses fought with "few
+  gunpowder weapons" and the arsenal "almost completely
+  disappeared by the middle of the fifteenth century" (XVI, 142),
+  private gun war returning as the state weakened (Nibley Green
+  1469; Caister 1469; Hornby 1471 — XVI, 143–4), and the verdict:
+  the English king "did not … use them to control his own
+  subjects, and after almost fifty years of civil war not only
+  had he lost control over gunpowder holdings in his kingdom, he
+  had in fact lost his kingdom" (XVI, 145). England = guns
+  without the internal-suppression use → no consolidation: the
+  chapter's falsification-shaped comparator, from the sceptic.
+  (iii) The Hale dissent quoted at XVI, 129 (centralisation
+  "began before cannon were effective … can be explained without
+  reference to gunpowder weapons") — the same dissent Andrade
+  deploys; both citations now converge on one passage to answer
+  once. (iv) Anti-determinism calibration: Introduction pp. x–xi
+  ("technology did not determine warfare … Men … played the
+  dominant role"); XVIII, 470 ("No one living … described their
+  effectiveness with the words 'decisive', 'invincible' or
+  'revolutionary'"); his rejection of Rogers's
+  punctuated-equilibrium model for Buchanan's ratchet-evolution
+  (XVIII, 470). (v) Cost texture: powder economics XI, 126–30;
+  gunners paid above cavalry (XI, 122); the Byzantine
+  cannot-afford counter-case (X, 351).

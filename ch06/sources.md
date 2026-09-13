@@ -395,3 +395,49 @@ quotation in a browser before print.*
   on Andrade for the campaign narrative; his war-frequency datasets
   are self-described as "intentionally rudimentary" (Appendix 2).
   Full engagement: critiques Revisions 5; ch10 critiques Revisions 4.
+
+- **T2 — Kelly DeVries, *Guns and Men in Medieval Europe, 1200–1500*
+  (Variorum CS747, Ashgate 2002)** — IN REPO
+  (`DeVries-Guns-and-Men-100dpi.pdf`, image-only; OCR sidecar
+  `source-library/DeVries-Guns-and-Men-ocr.txt` — legible, but the
+  scan corrupts digits (3↔5): VERIFY EVERY DATE against page images
+  or the original journal before print). Read in full. Eighteen
+  collected articles, 1987–99; Variorum practice: cite Article
+  [Roman numeral] + ORIGINAL pagination (exceptions: II and IX were
+  repaginated in-volume). Article XVI = the *War in History* 5
+  (1998) paper already in repo, identical pagination — existing
+  citations stand. **WHAT THIS VOLUME CLOSES: the calibrated
+  Castillon authority the chapter has lacked since the Howard
+  attribution failed.** DeVries's considered position, composite:
+  battlefield guns "were less effectual, although by the
+  mid-fifteenth century they too had begun to make an impact" —
+  followed by the Girault letter from Castillon, his own
+  translation: "Girault the cannoneer and his assistants and
+  companions directed their artillery against the enemy … each
+  ball hit five or six men, killing them all" (X, 348; near-verbatim
+  XI, 121–2); and the Bureau-organisation frame: the artillery "led
+  to numerous victories … at the battle of Formigny and the siege
+  of Caen in 1450 … at the battle of Castillon … and ultimately
+  contributed to the eventual French victory" (XVI, 132–3 — victory
+  credited to the Bureau ORGANISATION, never to guns per se;
+  OCR-verify the Castillon year against the in-repo journal
+  original). Talbot "killed at the siege of Castillon in July …
+  by gunshot" (XVII, 136). Siege side: Harcourt 1449 — "a single
+  shot from a French gun pierced the wall … and caused the English
+  to surrender" (XIII, 231, citing Berry Herald); Bourg June 1451
+  taken in six days after the heavy guns arrived "although they
+  never fired a shot" (XIII, 231, citing Vale); "by the middle of
+  the fifteenth century every siege was undertaken with numerous
+  guns, and most besieged targets fell rapidly to fortification
+  breach or intimidated surrender" (X, 347); "guns had, by the end
+  of the Middle Ages, completely altered siege warfare" (XIII,
+  244); breach chronology 1374 Saint-Sauveur-le-Vicomte / 1377
+  Odruik (XIII, 229); bombards obsolete by 1453 (X, 348). WHAT IT
+  DOES NOT CLOSE: no Formigny tactical narrative (no two
+  culverins, no verdict — that flag stays on RETRIEVAL); no
+  trunnions (word absent from the volume), no cast-iron-shot
+  discussion — repoint those flags to Smith & DeVries, *The
+  Artillery of the Dukes of Burgundy* (2005), already on the
+  ledger. Corning: "occurring c. 1407/1410 … seems to have had
+  little effect" (XI, 122–3, 130–31; X, 349 n. 21) — his
+  documented dissent from Rogers's 1420 dividing line (IX, 2 n. 2).

@@ -1260,3 +1260,26 @@ STATUS: REVIEWED (Roderick, 2026-07-23) — cleared for drafting
       (1944) and the *Histoire de Louis XI* (Samaran, 3 vols,
       1963–72) added as retrieval rows; no Basin-based claim on
       the consent argument may cite Tome I.
+
+24. **(2026-09-13 — DeVries, *Guns and Men* volume, read in full;
+    intake. PENDING HUMAN REVIEW.)** The chapter's standing
+    DeVries concessions (state-only provider; France/Burgundy
+    conform) survive the full volume and gain their strongest
+    statement: XII, 293 with n. 54 — the affordability-suppression
+    chain in the sceptic's own words, with England and the Empire
+    as named exceptions. The England counter-case is now richer
+    than the chapter's current use of it: not merely "England had
+    guns but no consolidation" but a three-act arc (royal monopoly
+    from Edward III → arsenal decay by mid-century → PRIVATE gun
+    war returning as the state weakened, XVI, 143–5), which makes
+    England a dynamic falsification-shaped comparator: monopoly
+    without internal suppression decayed into re-privatised
+    force — the ratchet run backwards. Recommend the §VII England
+    paragraph absorb this arc at next renovation. Also noted: the
+    Hale dissent (XVI, 129) is textually the same objection
+    Andrade's ch. 8 deploys — the Objection 6/7 engagements should
+    answer it once, in one place, and cross-refer. Supersession
+    per the sceptic himself: his English "dark ages of military
+    technology" claim (1998) is qualified by Gunn, Grummitt &
+    Cools (2007) and Grummitt on Calais ordnance — record as
+    contested; the Gunn volume is already a ledger row.
