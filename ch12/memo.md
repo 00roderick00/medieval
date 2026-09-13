@@ -896,3 +896,48 @@ STATUS: REVIEWED (Roderick, 2026-07-31 — read in full, nothing to add; no revi
       thresholds" (p. 94), "perhaps the hungriest thing in the
       world" (pp. 94–5), and the data-centre energy question at
       p. 113 — all index-anchored or ±1.
+
+13. **(2026-09-13 — integration run: Miller, Brands, Bobbitt,
+    Fortescue, Freedman; the pointers from Johns, Elliott and
+    Lane. PENDING HUMAN REVIEW.)**
+    - CORRECTS: the American denial regime's date — 2016–20 (ZTE;
+      Jinhua entity-listing Oct 2018; Huawei May 2019; FDPR May
+      2020), the October 2022 rule generalising a switch already
+      thrown twice, with the audited effects in the earlier cases
+      (Jinhua destroyed; Huawei divested) — ch01 §IV's "since
+      2022" and this chapter's regime dating both move (Miller
+      chs. 49–51; Brands pp. 210, 306–7, 371). "One EUV supplier"
+      → "one integrator, with American-held nodes inside it"
+      (Miller ≈228–30) — C10-2's baseline must score the right
+      object. The RMA pin: Rumsfeld 2001, not Bush 2003
+      (Freedman p. 184).
+    - THE FISCAL LINK RESTATED for the foundry layer (the
+      assessment's register change, to the ruling sheet): the
+      1442 test is passed by FIRMS and failed by TREASURIES
+      (GlobalFoundries priced out at $1.5bn; the Pentagon cannot
+      afford a fab; the federal chip share ~2 per cent) — the
+      state's contribution is the VETO, not the account book;
+      "ability to pay" reads as "ability to command the price."
+      The artillery state of this century taxes the switch, not
+      the train. Consistent with §8(c)/(d) as ruled; the taille
+      analogy must not carry more than Miller allows.
+    - ADDS: Fortescue's equipollence criterion and his
+      regulation-not-seizure instrument-set as §IV's original
+      (resumption of own grants; office oath; accumulation
+      licence); the Brands natural experiment for §II (medical
+      onshoring lapsed, semiconductor controls hardened — the
+      mechanism predicts which reassertions stick), with the
+      Hicks/Schake 2020 counter-baselines for Appendix C; the
+      Bobbitt 2002 scoreables ("the CDC, not the Pentagon";
+      "regulations will always come too late") and the 1945
+      Bell-System counterfactual for the AT&T lag; Ferguson's
+      "Take TSMC!" for §V; the Johns 1684–88 arc as the
+      absorption-attempted-and-reversed precedent beside Standard
+      Oil; Solórzano's two forms for §IV's American/Chinese
+      grammar; the pandemic-silence paragraph (one paragraph in
+      §II naming why the book is silent on 2020 — the mechanism
+      prices force, not disease).
+    - DISPUTES/RIVALS entered at critiques Revisions 6–8; the
+      devolution fifth-failure-mode from ch11 (Ágoston) and
+      Tilly's pp. 207–8 rentier warning (Revisions 10) stand
+      beside them as this chapter's objection set.

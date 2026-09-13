@@ -345,3 +345,159 @@ above (CLAUDE.md §4). URLs in the session research record.*
   MUSE chapter PDFs (true pagination) or the tenth-anniversary
   print — both on the ledger; otherwise cite by chapter/section,
   which is edition-stable.
+
+## Added 2026-09-13 — integration run (September-intake assessments; pins verified against sidecars)
+
+- **T3 — Chris Miller, *Chip War* (Scribner, 2022)** — IN REPO
+  (sidecar `text-2026-09-13/Miller.txt`; ebook conversion — each
+  form-feed page is a chapter; printed pages from the index or
+  interpolated, marked ≈; pre-dates the October 2022 BIS rule).
+  USE-NOTE: carries every concentration sentence at T3 and gives
+  the off-switch its EXERCISED cases. "'Globalization' of chip
+  fabrication hadn't occurred; 'Taiwanization' had… monopolized by
+  a handful of irreplaceable companies" (ch. 49, ≈297–8, sidecar
+  verified); "The U.S., it turns out, has escalation dominance
+  when it comes to severing supply chains" (ch. 51, ≈317); Jinhua
+  destroyed within months; Huawei "cut off from the world's entire
+  chipmaking infrastructure, except for chips that the U.S.
+  Commerce Department deigned to give it a special license to buy"
+  (ch. 51, ≈316) — licence, not title: §8(c) in the record.
+  CORRECTIONS (memo Revisions 13): the American denial regime
+  dates from 2016–20 (ZTE, Jinhua, Huawei, the FDPR of May 2020),
+  not from the October 2022 rule — the 2022 rule generalised a
+  switch already thrown twice; and "one EUV supplier on earth" →
+  "one integrator, with American-held nodes inside it" (ASML makes
+  15 per cent of the tool; Cymer's light source is the FDPR's
+  bite, ch. 39, ≈228–30). ADDS: GlobalFoundries as the 1442 test
+  at firm level ($1.5bn for 7nm; "Even the deep pockets of the
+  Persian Gulf royals… weren't deep enough," ch. 40, ≈234); the
+  Pentagon-cannot-afford-a-fab passage (a leading fab "costs
+  twice as much as an aircraft carrier but will only be
+  cutting-edge for a couple of years"; the federal share of the
+  chip market ~2 per cent — Conclusion, ≈346–7; ch. 48, ≈289) —
+  REPLACES Krejsa–Benich as the disanalogy's primary T3 support
+  per the assessment; TSMC as a state project raised by fiscal
+  summons (the 48 per cent state stake; families "'asked' by the
+  government to invest," ch. 29, ≈167–8); Xi's "vital gate"
+  (sidecar verified) and "storm the passes"; Ishihara 1989 as the
+  ally's threatened switch. THE RIVAL LIMB (critiques Revisions
+  6): the decisive layer was built by private markets and sits
+  outside all four blocs.
+
+- **T3 — Hal Brands & Francis J. Gavin (eds), *COVID-19 and World
+  Order* (JHU, 2020)** — IN REPO (sidecar
+  `text-2026-09-13/Brands.txt`; open-access conversion, PDF pins
+  only). USE-NOTE: 2020 witnesses to the state's reassertion —
+  dated baselines EARLIER than the manuscript's record, and the
+  three dissenters at full strength. THE DATING CORRECTION (with
+  Miller): the doctrinal turn is 2017 (NSS) and the first
+  decisive-layer control 2019–20 (Huawei listing; FDPR of 5 May
+  2020) — ch01 §IV's "since 2022" should read "since 2017–20, and
+  visibly since 2022." THE NATURAL EXPERIMENT for §II (the
+  assessment's key add): the pandemic's medical onshoring LAPSED;
+  the semiconductor controls HARDENED — the mechanism does not
+  claim every reassertion, it predicts which ones stick; Schake's
+  "temporary… will reverse direction" (p. 387) supplies the
+  discriminator. Counter-baselines for Appendix C: Hicks 2020 —
+  "US defense spending is likely to decline in the coming years"
+  (p. 419, sidecar verified) — and Schake (p. 399), against which
+  the Hague pledge moved; NGEU 2020 as the precedent the
+  own-resource proposals extend ("no fisc" imprecise as
+  no-borrowing); Ferguson's "Take TSMC!" nationalist posts
+  (p. 496, sidecar verified) as the foundry-as-casus-belli
+  witness for §V. Dissenters for critiques: Ferguson
+  (city-states won; scale a liability), Bobbitt 2020 (the
+  market-state restated), Schmidt (the stack must not be split;
+  the units are companies).
+
+- **T3 — Philip Bobbitt, *The Shield of Achilles* (Knopf, 2002)** —
+  IN REPO (sidecar
+  `text-2026-09-13/bobbitt-shield-of-achilles.txt`; printed
+  running-head pages, drifting offset — cite printed). USE-NOTE:
+  the most serious grand-theory rival not yet engaged — the
+  market-state is THE NEOMEDIEVAL DISPERSAL WEARING A
+  CONSTITUTION; engaged by name here and in ch01/ch10. What he
+  concedes: "withering away, a highly implausible view" (p. xxx,
+  sidecar verified); the fiscal threshold as selector (the
+  princely state superseded "because it could not field forces to
+  match… states that were larger, richer," p. 91); the Italian
+  witnesses (Venetian senate 1498; Guicciardini; Machiavelli's
+  no-wall line, p. 80 — re-pin to Mallett and the Ricordi); the
+  privatisation footnote ("the government retains the power of
+  determining the use of such forces," p. 304 n.) — "operative
+  but never invested" anticipated in 2002. THE SCOREABLE
+  PREDICTIONS (this section's use): "the U.S. Centers for Disease
+  Control (CDC) and Prevention, not the Pentagon, is the model";
+  "regulations will always come too late" (p. 793, sidecar
+  verified) — the record since 2022 (CHIPS, the Intel stake, the
+  DMA, Starshield) moving against a dated 2002 prescription; his
+  1945 Bell System counterfactual (p. 788) as the dated witness
+  for the AT&T lag (§8(c)(i)). THE RIVAL LIMBS (critiques
+  Revisions 7): the price of decisive force has fallen; the
+  successor state sheds the switch; blocs are "a failure of
+  imagination" (p. 234, sidecar verified); direction is
+  undecidable (his field v. the book's ratchet — fight in the
+  open in ch10/ch01). Dating divergences recorded: his 1494
+  catalyst against the book's 1439–53, conceded in his own n. 5
+  (Harfleur's seventeen days under Charles VII).
+
+- **T1 (Fortescue) / T2-dated (Plummer) — Sir John Fortescue, *The
+  Governance of England*, ed. Plummer (Oxford, 1885)** — IN REPO
+  (`Fortescue - The Governance of England (Plummer 1885).pdf`;
+  sidecar `text-2026-09-13/Fortescue.txt`; printed = PDF−28).
+  FOR THIS CHAPTER (§IV): the over-mighty citizen's CRITERION at
+  source — "ther mey no grettir perell growe to a prince, than to
+  haue a subgett equepolent to hym selff" (p. 130, sidecar
+  verified): EQUIPOLLENCE, not wealth, is the test — lords may
+  grow rich "while thai aspire to non hygher estate"; wealth
+  tolerated, parity of power not — "title left, discretion
+  severed" in its original. And his instruments are REGULATION OF
+  THE SWITCH, NOT SEIZURE: resumption of the king's own grants;
+  the office monopoly ("the myght off þe lande… stondith most in
+  þe kynges officers," pp. 150–51); the oath severing dual
+  allegiance (p. 153); the licence over accumulation by marriage
+  and purchase (pp. 133–4). Parallel of INSTRUMENT-TYPE, marked
+  as illustration (a marriage veto is not merger review). Also
+  the hostile witness to the French machine (pp. 114–15, 117 —
+  ch10's use) and the §8(e)(6) correction (ruling sheet §5(d)):
+  "the myght of his reaume is nerehande distroyed therby"
+  (p. 117, sidecar verified) — the defeated SAW the fiscal
+  apparatus, called it tyranny, and did not see what it bought;
+  "gonnes"/"artillery" occur nowhere in his text (verified: zero)
+  — the English post-mortem has no artillery in it.
+
+- **T2 — Lawrence Freedman, *The Future of War* (2017)** — IN REPO
+  (full entry keyed here; ch06 pointer this date). USE-NOTE: the
+  most authoritative sceptic of the claim the spine defends
+  hardest — met BY NAME, with "decisive" pinned to HIS neutral,
+  settlement-forcing sense ("The decision could take the form of
+  a negotiated settlement… achieved largely by military means,"
+  p. 9) and never allowed to slide to battle-winning (spine §4's
+  "decisive on the battlefield" does slide — ruling sheet).
+  ALLY: force that takes and holds as the criterion (air power,
+  swarms, "Numbers were still needed to take and control
+  territory"); the private frontier stated 2017 (p. 281); the
+  nuclear leveller (Putin 2014, p. 281). RIVAL (critiques
+  Revisions 8): "the technology was rarely monopolised" (pp.
+  276–7, sidecar verified) and McMaster's VAMPIRE FALLACY
+  (p. 279) — answered by the composition-forcing sense of
+  decisive, the fifteenth century as the documented exception
+  attested from the sceptics, and the Appendix C method (a
+  published, dated falsifier list — the only reply Freedman
+  would accept). CORRECTIONS: the RMA pin is Rumsfeld 2001, not
+  "Bush 2003"; his 2017 drone judgment cited as opinion of its
+  date; the knock-out-blow genealogy runs Chesney→Douhet→Holman
+  (Holman 2014 → retrieval), NOT Belloc (ch06 memo Revisions 26).
+
+- **Pointers:** Johns's 1670–88 quo warranto arc (ch11 sources
+  this date) enters §IV as the worked example of the
+  state-absorbs-stack route attempted and REVERSED — the
+  precedent beside Standard Oil with the opposite outcome; the
+  Corsellis forgery (1664) as what a Restoration absolutist
+  thought the medium ought to have been. Elliott 1992's two
+  union forms (accessory; *aeque principaliter*) supply §IV's
+  legal grammar for the American and Chinese readings —
+  Solórzano's sentence at his p. 53. Lane's EU sentences ("could
+  not in the long run compete"; "playing the balance of power";
+  the mainland's "complete lack of any national feeling") for
+  the EU paragraph — entered at ch10 this date.

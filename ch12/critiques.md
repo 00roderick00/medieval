@@ -411,3 +411,87 @@ precisely so that patience cannot be pleaded later.
      2, scoreable form) remains the honest test between them. No
      spine ruling is reached; §8(c)/(d) anticipate the shape of the
      disagreement.
+
+6. **(2026-09-13 — integration run: Miller's private-markets
+   objection. PENDING HUMAN REVIEW.)** Steelman: the decisive
+   layer was built by consumer markets, not the fiscal state
+   ("Only consumer markets had the volume to fund… Moore's Law");
+   state attempts mostly failed (Sematech's lithography rescue
+   "an abject failure"; the Soviet copy-it sector; Tsinghua
+   Unigroup's default); the polity most capable of paying (China)
+   has not obtained the layer, the polity that obtained it
+   (Taiwan) is not a great power — and the layer sits OUTSIDE all
+   four blocs (Taiwan, Veldhoven, San Diego, Korea). Reaches the
+   DEFEND-tier "power follows the ability to pay for decisive
+   force." Answer (assessment grades preserved): GOOD for the
+   American case — the Pentagon was the founding customer (72 per
+   cent of ICs in 1965), TSMC was state-founded by fiscal
+   summons, and the control that matters is administrative
+   denial, which worked: read "ability to pay" as "ability to
+   command the price" — but it honestly changes the fiscal link's
+   weight (memo Revisions 13) and the chapter should say so
+   first. STRONG on the bloc geometry: the interstitial fab sits
+   under the patron's security guarantee — bloc membership is
+   procured, not chosen (TSMC's spirit-of-the-law pledge is
+   capitulation-without-siege in real time). WEAKER on China:
+   "furthest along" is layer-specific (legibility yes,
+   compute-foundry no) and must be written as such — spine §6
+   holds it on balance, not defended.
+
+7. **(2026-09-13 — integration run: Bobbitt's four limbs.
+   PENDING HUMAN REVIEW.)** Steelman: (i) "For five centuries it
+   has taken the resources of a state to destroy another state…
+   This is no longer true" — the price of decisive force has
+   FALLEN; (ii) the successor state sheds the switch ("the CDC,
+   not the Pentagon, is the model"; "regulations will always come
+   too late"); (iii) blocs are "a failure of imagination… rather
+   pathetic that the visionaries in Brussels can imagine nothing
+   more forward-looking than equipping the E.U. with the trappings
+   of the nation-state"; (iv) direction is undecidable — his
+   field against the book's ratchet, and he accepts the whole
+   war-makes-state premise while refusing the direction §8(a)
+   asserts. Answers (grades preserved): (i) GOOD — his sentence
+   is about resources to DESTROY; the book's currency is force
+   that takes and holds; his own "unlikely we will be challenged
+   openly" did not survive February 2022 — but §V must say
+   "decisive" means decisive against a peer for territory, and
+   place his vulnerability layer beside the nuclear overhang.
+   (ii) GOOD — the record moved against the dated prescription;
+   now scoreable in Appendix C. (iii) WEAKER — his objection is
+   that a bloc reproduces the nation-state at scale; the reply
+   (the stack's price requires the scale; the EU is conditional
+   for want of the single fisc) is Bobbitt's point from the other
+   side — the Depreter test already concedes half; ADMIT IT.
+   (iv) Fight in the open (ch10/ch01): he needs the field to hold
+   six transitions; the book claims one mechanism at one
+   transition, with account books, and can afford a direction he
+   cannot.
+
+8. **(2026-09-13 — integration run: Freedman's vampire fallacy;
+   the Brands dissenters. PENDING HUMAN REVIEW.)** Steelman
+   (Freedman): "the technology was rarely monopolised or else…
+   adversaries found ways to limit their effects"; McMaster's
+   fallacy — promises of "fast, cheap and efficient victories"
+   neglecting "war's political and human dimensions"; the RMA
+   sold itself as LOWERING the fiscal threshold; the sensing
+   layer has diffused to smartphones; and a book predicting a
+   Tudor turn driven by the AI stack is, on his taxonomy, a
+   Dorking-genre work. Answers (grades preserved): GOOD on (i)
+   PROVIDED "decisive" never slides from composition-forcing to
+   battle-winning (spine §4's "decisive on the battlefield" does
+   slide — ruling sheet); the fifteenth century stands as the
+   documented exception attested from the sceptics; GOOD and
+   evidenced on the RMA (the attrition belt and the 155mm ramp);
+   on the genre charge, the only reply he would accept is METHOD
+   — the published, dated falsifier list — "only as good as the
+   indicators," and the resemblance is real: say so in the
+   Introduction's genre paragraph. The Brands dissenters enter
+   beside him: Ferguson (city-states won; the centrifugal risk
+   to a one-party state is the China wager's named failure
+   variable); Schmidt (the unsplit stack; the units are
+   companies — quote as the platform side's preferred
+   settlement, not as an ally); and the structural objection no
+   contributor states: the decade's most-cited return of the
+   state was compelled by a virus, not by the price of decisive
+   force — answered by the natural experiment (what lapsed
+   versus what hardened), stated in §II.
