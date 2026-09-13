@@ -371,3 +371,56 @@ list; steelmen provisional; do not caricature.
      naval concession works FOR the mechanism). Brewer-beyond-the-
      coinage remains the only unverified limb; his row stays on the
      ledger at MED.
+
+2. **(2026-09-13 — Sharman read in full; the Sharman limb of
+   Objection 7's deferred caveat closes. PENDING HUMAN REVIEW.)**
+   The Objection 7 steelman ("both works unretrieved … steelmen
+   provisional") is now verified against the text (T2; printed =
+   PDF−15). The steelman as written is CONFIRMED and the answer
+   STRENGTHENS, with two additions it must absorb.
+   - The scope answer acquires Sharman's own licence: he states
+     that the thesis matters now chiefly "for discussions of the
+     rise of the West and developments outside Europe than those
+     inside Europe" (p. 9), and his sole direct strike at the
+     domestic sequence — "may not even hold in Europe … may simply
+     have been a coincidence" (p. 126) — is two sentences,
+     triple-hedged, sourced to a single citation (Gat 2006), from
+     an author who calls Tilly's essay "brilliant" (p. 8). The
+     engagement should quote p. 126 with its modality visible: a
+     raised doubt, not an argued refutation. His "including in
+     Europe" (pp. 121–2) refers to the Ottoman frontier, not to
+     intra-Christian-European warfare.
+   - ABSORPTION (i): his positive rival account of the SUPPRESSION
+     step — private military enterprise ended in the late
+     eighteenth century "for reasons that owed nothing to an
+     assessment of its actual effectiveness" but because state
+     provision became "a marker of sovereignty" (pp. 26–7,
+     following Parrott and Thomson) — must be met, not waved off.
+     The answer: the fifteenth-century suppression this chapter
+     argues (the armed magnate retinue, the free company) and the
+     eighteenth-century end of oceanic enterprise are different
+     events; Sharman never discusses the former (Formigny,
+     Castillon, the compagnies, Burgundy: wholly absent — negative
+     finding, verified), and the book already treats chartered
+     hybrids as a LATER suppression case. His sequence point —
+     absorption of the EIC followed rather than preceded its
+     hegemony (p. 95) — is a dated fact the ch03 framing must
+     accommodate.
+   - ABSORPTION (ii): Hui's "self-weakening" recast of European
+     fiscal expedients (p. 128 — debt and mercenaries as "throwing
+     money at problems … rather than build institutions") cuts
+     nearest the permanent-finance link. The rejoinder is on
+     Sharman's own page: his EIC explanation is that superior
+     credit machinery won the wars by draining rivals' credit
+     pools (p. 94) — permanent finance as the decisive variable,
+     pejoratively described. The debate is over the adjective, not
+     the mechanism.
+   - The Ottoman chapter WORKS FOR ch11: an alternative-route,
+     centrally financed gun-armed standing army before the
+     European great powers (p. 100), parity in gunpowder to the
+     late 1600s (p. 107), decline via fiscal decentralisation
+     (pp. 111–12) — the book's logic run in reverse. Entered at
+     ch11/sources.md with his gateway citations (Ágoston, Murphey,
+     Aksan, Börekçi) noted for the retrieval list. The Andrade
+     limb of the caveat remains open pending the Andrade intake
+     (running this session).

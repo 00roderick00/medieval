@@ -345,3 +345,28 @@ Priorities to stress-test on the draft:
    strengthens Objection 5's answer (no over-attribution: the
    cleanest exhibit is presented as contested) and gives Objection
    3's Formigny discipline a Castillon twin.
+
+4. **(2026-09-13 — Sharman read in full; what Objection 7's full
+   engagement here may and may not attribute to him. PENDING HUMAN
+   REVIEW.)** This file carries the full Objection 7 engagement;
+   Sharman's text (T2, read cover to cover; printed = PDF−15) sets
+   these bounds. (i) NEGATIVE FINDING: Formigny, Castillon, the
+   French 1440s, the Bureau brothers, Burgundy, and the Hundred
+   Years War as narrative are entirely absent from his book — he
+   cannot be cited as an authority against any claim this chapter
+   makes about them; the objection's Sharman limb is comparative
+   inference only. (ii) His direct doubt about the domestic
+   sequence is p. 126, triple-hedged, resting on Gat 2006 — quote
+   it with the hedges visible. (iii) His real strength is the
+   Ottoman record (sieges of new-style artillery fortresses taken,
+   pp. 109–11; parity to the late 1600s, p. 107) — which the
+   chapter's conditionality answer already accommodates: the
+   mechanism claims a threshold where guns beat the standing
+   defensive stock and a latent fisc exists, not European
+   superiority over anyone. (iv) He concedes the naval exception
+   ("cannon-armed sailing ships were superior to anything other
+   powers could put on the open ocean," p. 34) and that post-1750
+   "Western military superiority became increasingly real"
+   (p. 111). Steelman survives at full strength on the
+   universality point; the chapter's answer stands; details and
+   absorptions at ch10 critiques Revisions 2.

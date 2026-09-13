@@ -194,3 +194,25 @@ the session research record. Update retrieval-master.md accordingly.*
   retrieval-master (2026-09-02, Phase 3 rows) — every §VI sentence
   that depends on them is flagged [UNVERIFIED — RETRIEVAL] in the
   draft.
+
+## Added 2026-09-13 — source intake (read in full)
+
+- **T2 — J. C. Sharman, *Empires of the Weak* (Princeton UP, 2019)**
+  — IN REPO (clean text; printed = PDF−15). Read in full. For this
+  chapter, his ch. 3 is a well-sourced Ottoman synthesis that mostly
+  WORKS FOR the comparator: the Janissary corps as a standing,
+  centrally paid gun infantry "well before the European great powers
+  started to do the same" (p. 100); gunpowder parity with Europe "at
+  least until the late 1600s" (p. 107); the Porte "more capable in
+  logistics, finance, and recruitment than its main European
+  adversaries" until the 1700s (p. 108); Ottoman capture of
+  new-style artillery fortresses on the Hungarian line (pp. 109–11);
+  decline explained internally by fiscal decentralisation — the
+  imperial treasury's tax share falling from c. 60% (1500s) to under
+  20% — and the decay of the drilled core (pp. 111–13); Aksan's
+  comparison that in 1768–70 the EIC outspent the sultan on its
+  military three-to-four-fold (p. 112). His synthesis rests on
+  Ágoston, Murphey, Aksan, Börekçi — gateway citations for this
+  chapter's retrieval list (the Ágoston 2014 article is already on
+  the ledger at MED). Tier caveat as at ch10: T2 synthesis, no
+  primary Ottoman research of his own.

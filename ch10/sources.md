@@ -405,3 +405,33 @@ accordingly.*
   (e) Multi-path discipline (coercion-intensive /
   capital-intensive / capitalized coercion) — the standing check on
   any single-track reading of the mechanism.
+
+- **T2 — J. C. Sharman, *Empires of the Weak: The Real Story of
+  European Expansion and the Creation of the New World Order*
+  (Princeton UP, 2019)** — IN REPO (`Sharman - Empires of the
+  Weak.pdf`, clean text; printed = PDF−15, constant). Read in full.
+  The Objection 7 co-author, now page-pinned. Tier caveat: T2 for
+  historiographical positioning and the Ottoman synthesis (which
+  rests on Ágoston, Murphey, Aksan, Börekçi); it contains NO
+  intra-European fifteenth-century research and may not carry any
+  such factual claim. THE SCOPE FACTS: his own statement of target —
+  "the military revolution thesis is now more significant for
+  discussions of the rise of the West and developments outside
+  Europe than those inside Europe" (p. 9); his single direct strike
+  at the domestic story is pp. 123–4 and p. 126 ("may not even hold
+  in Europe … may not have had any causal impact … may simply have
+  been a coincidence"), triple-hedged and resting on one citation
+  (n. 126 = Gat 2006); he calls Tilly's war-making essay "brilliant"
+  (p. 8) and reproduces the Roberts–Parker domestic sequence without
+  contest (pp. 8–9). NEGATIVE FINDING: Formigny, Castillon, Charles
+  VII, the compagnies, the taille, Burgundy — all wholly absent
+  (text, notes, index). Pressure points the answer must carry:
+  (i) suppression-by-legitimacy (pp. 26–7, following Parrott and
+  Thomson — private enterprise ended "for reasons that owed nothing
+  to … effectiveness"); (ii) Hui's "self-weakening" reading of
+  European fiscal expedients (p. 128). Counter-resource inside his
+  own text: the EIC won by superior credit machinery that "tended to
+  drain the pool of credit potentially available to its rivals"
+  (p. 94) — a permanent-finance mechanism, described while denying
+  one. Full engagement: critiques Revisions 2; ch06 critiques
+  Revisions 4; Ottoman material at ch11/sources.md.

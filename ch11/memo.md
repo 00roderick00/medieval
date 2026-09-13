@@ -479,3 +479,22 @@ draft-pagination caveat.
 ---
 
 STATUS: REVIEWED (Roderick, 2026-07-31 — read in full, nothing to add; no revisions required)
+
+2. **(2026-09-13 — Sharman, *Empires of the Weak*, read in full;
+   intake. PENDING HUMAN REVIEW.)** The Ottoman comparator gains a
+   current T2 synthesis whose thrust CONFIRMS the chapter's frame:
+   the Ottomans reached a centrally financed, gun-armed standing
+   force by an alternative route and earlier than the Latin West
+   (p. 100), held technical parity to the late 1600s (p. 107), and
+   declined by fiscal decentralisation (pp. 111–13) — the book's
+   mechanism run in reverse, from the revenue side. ADDS: the
+   Aksan spend comparison (EIC vs the sultan, 1768–70, p. 112) as
+   a dated marker of when the company-state's permanent finance
+   overtook the empire's. CAUTION for drafting: Sharman deploys
+   this material AGAINST the military-revolution thesis's
+   universality — any use here must not cite him as if he endorsed
+   the mechanism; cite the underlying authorities (Ágoston,
+   Murphey, Aksan) for load-bearing Ottoman claims once retrieved,
+   using Sharman as the synthesis pointer. No contradiction
+   reaching a spine ruling; the Objection 7 engagement is at
+   ch10/ch06 critiques.

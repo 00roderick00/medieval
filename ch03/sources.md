@@ -130,3 +130,20 @@ gated interpretive spine (McFarlane, Hicks, Vaughan, Zmora, Contamine).
 extracted directly. Working copies of the four 10-Ks and the ODNI FY2019
 report are in the session scratchpad (not repo files). Update
 retrieval-master.md on any retrieval.*
+
+## Added 2026-09-13 — source intake (pointer entry)
+
+- **T2 — J. C. Sharman, *Empires of the Weak* (Princeton UP, 2019),
+  ch. 2 "Company Sovereigns"** — IN REPO (printed = PDF−15); read in
+  full this date (full entries at ch10/ch11). For this chapter's
+  market-in-force material: the chartered companies as sovereign
+  hybrids ("a state within a state," p. 70, quoting Stern/Wilson);
+  delegation as the crown's answer to fiscal incapacity (p. 65); his
+  insistence that absorption FOLLOWED hegemony (EIC subordinated
+  only from the late eighteenth century, pp. 82, 95); and his
+  Parrott-derived claim that military enterprise ended for
+  legitimacy reasons, "owed nothing to … effectiveness" (pp. 26–7)
+  — the rival account of the suppression step, engaged at ch10
+  critiques Revisions 2. Also usable: the VOC-demise concession he
+  raises and deflects (p. 81) and the EIC credit-drain explanation
+  (p. 94), which is a permanent-finance mechanism in all but name.
