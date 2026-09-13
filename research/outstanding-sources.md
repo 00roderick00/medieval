@@ -101,6 +101,18 @@ slides); Eisenstein + Johns; Keen review; Cazelles review; Green
 1875; MHLW; Jeddah; NM-OCD; Texas RRC/LRL; Cato Shughart; the
 mphil/ set; the mirrors and .txt twins of the above.
 
+## Inventory addendum — arrivals after the STEP 0 pass (later 2026-09-13)
+
+Seven files landed after the 130-file inventory. Identified from
+title pages and classified:
+
+| File | Work | Class | Action |
+|---|---|---|---|
+| Colin_Morris_The_Papal_Monarchy_….pdf | Colin Morris, *The Papal Monarchy: The Western Church 1050–1250* (Clarendon/OUP; Oxford History of the Christian Church; clean text) | (a) — ledger row existed at LOW | row flipped IN REPO; intake queued at LOW (ch01/ch02) |
+| DeVries-Guns-and-Men-100dpi.pdf | Kelly DeVries, *Guns and Men in Medieval Europe, 1200–1500* (Variorum) — image-only 100dpi scan, NO text layer | (a)+(d) — ledger row existed at MED | row flipped IN REPO, raised to HIGH (it now gates the ch06 gun-detail restaging after the Howard negative finding); OCR sidecar building this session — 100dpi quality caveat expected |
+| Nicholson_Love_War_and_the_Grail_….pdf | Helen Nicholson, *Love, War and the Grail* (Brill, History of Warfare 4) — the LITERARY study of the military orders | (c) — **not the ledger's wanted Nicholson** (*Templars, Hospitallers and Teutonic Knights*, the institutional survey, still wanted) | Unlisted-arrivals row created at LOW; wanted row stays open |
+| Tilly_…_726025e7….pdf / Zielonka_…_0c7bee4c….pdf / Sharman_…_e05630b3….pdf / Kafadar_…_770c2090….pdf | byte-identical duplicates of the already-inventoried copies (verified by `cmp`) | dupes | no rows; FLAGGED for Roderick to cull — nothing deleted per standing rule |
+
 ## Batch 1 result (this session, STEPS 1–3) and the next-session queue
 
 Six works intaken 2026-09-13, each read in full, each a committed

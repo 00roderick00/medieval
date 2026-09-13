@@ -36,7 +36,7 @@ freely with page refs) · **PARSE** (open but needs a reading pass).
 | Vaughan, *John the Fearless*; *Philip the Good* (Valois Burgundy vols.) | ch05 (assassinations; Anglo-Burgundian alliance); ch03, ch10 later | MED | **BORROW both** (dossier #16: verified controlled loans — https://archive.org/details/johnfearlessgrow0000rich; https://archive.org/details/philipgoodapogee0000vaug). *Charles the Bold* (ch10 Batch 3) outside dossier scope — route still to verify |
 | İnalcık, *The Ottoman Empire: The Classical Age* | ch05, ch11 (devşirme/kul as centralising solution; levy figures currently second-hand) | MED | **BORROW** (dossier #17: IA controlled loan — https://archive.org/details/ottomanempirecla0000inal; cite the borrowed scan's title page, not catalogue year) |
 | Kafadar, *Between Two Worlds* | ch05, ch11 (early-Ottoman state/legitimacy framing) | MED | **BUY** (dossier #18: IA preview only — https://archive.org/details/betweentwoworlds0000kafa; check library ebook platforms first) |
-| DeVries, *Guns and Men in Medieval Europe* (and DeVries & Smith) | ch06 (guns-overtake-walls chronology; iron-vs-stone; Formigny/Castillon gun details) | MED | **BORROW** (dossier #11: *Guns and Men* IA controlled loan — https://archive.org/details/gunsmeninmedieva0000devr; DeVries & Smith preview-only — https://archive.org/details/medievalmilitary0000devr). The 1998 *article* is IN REPO (`…/supplemental/`) and carries the Bureau confirmations (ch06), the England counter-case (ch10), and English private gunpowder war (ch08) |
+| DeVries, *Guns and Men in Medieval Europe* (and DeVries & Smith) | ch06 (guns-overtake-walls chronology; iron-vs-stone; Formigny/Castillon gun details — NOW GATES the ch06 gun-detail restaging after the Howard negative finding) | MED→**HIGH** | **IN REPO 2026-09-13** (`DeVries-Guns-and-Men-100dpi.pdf`, image-only 100dpi scan — OCR sidecar building; quality caveat expected at that resolution; intake queued). DeVries & Smith still preview-only. Prior route (dossier #11: *Guns and Men* IA controlled loan — https://archive.org/details/gunsmeninmedieva0000devr; DeVries & Smith preview-only — https://archive.org/details/medievalmilitary0000devr). The 1998 *article* is IN REPO (`…/supplemental/`) and carries the Bureau confirmations (ch06), the England counter-case (ch10), and English private gunpowder war (ch08) |
 | Hall, *Weapons and Warfare in Renaissance Europe* | ch06 (powder/trunnion/carriage chronology and attribution) | MED | **BUY** (dossier #24: MUSE result is the Henninger-Voss *review only*, not the book; UTP Distribution / WorldCat / HathiTrust) |
 | Vale, *War and Chivalry* | ch06 (chivalric obsolescence; Talbot's charge context) | MED | **BORROW** (dossier #8: IA controlled loan — https://archive.org/details/warchivalrywarfa0000vale). Keen's review IN REPO (`Keen-review-of-Vale-1983.pdf`) |
 | Curry, *The Hundred Years War* (book) | ch06 (campaign dates; Rouen 1418-vs-1449 contrast) | MED | **REQUEST** (dossier #10: IA preview only — https://archive.org/details/hundredyearswar0000curr_f3e0; multiple editions exist — pin the edition before page cites; the open "Guns and Goddams" article carries more weight meanwhile) |
@@ -47,9 +47,9 @@ freely with page refs) · **PARSE** (open but needs a reading pass).
 | Ayton & Price (eds.), *The Medieval Military Revolution* | ch06 | LOW | PENDING (outside dossier scope) |
 | Wight, *Systems of States* ("De Systematibus Civitatum") | ch01 (states-systems as settlement) | MED | **REQUEST** (dossier #6: IA locate record only, no borrowable scan; WorldCat/ILL or used copy) |
 | Strayer, *On the Medieval Origins of the Modern State* | ch01 (verbatim c. 1200 baseline; four components of the state) | MED | **BUY** (dossier #7: **JSTOR alumni access explicitly denied for this ebook**; IA preview only; JSTOR stable https://www.jstor.org/stable/j.ctt7t79c; Princeton/De Gruyter edition) |
-| Morris, *The Papal Monarchy* | ch01, ch02 (Innocent III as apex of papal-monarchy claim, scholarly) | LOW | **REQUEST** (dossier #19: no IA loan; HathiTrust/ACLS record https://hdl.handle.net/2027/heb.01523 entitlement unverified; OUP/library ebook) |
+| Morris, *The Papal Monarchy* | ch01, ch02 (Innocent III as apex of papal-monarchy claim, scholarly) | LOW | **IN REPO 2026-09-13** (`Colin_Morris_The_Papal_Monarchy_…pdf`, OUP/Clarendon, Oxford History of the Christian Church; clean text layer; intake queued at LOW) |
 | Jones, *The Italian City-State*; Wickham, *Sleepwalking into a New World* | ch01 (scholarly anchor for northern-Italian fragmentation / 1250–73 Interregnum) | LOW | PENDING |
-| Nicholson, *Templars, Hospitallers and Teutonic Knights* (military orders) | ch01 (orders as supranational actors), **ch02** (universalism's armed institutions) | MED (elevated) | **BORROW NOW** (dossier Part III: verified controlled loan — https://archive.org/details/templarshospital0000nich). Forey remains the broader survey: locate record only (https://openlibrary.org/books/OL1778961M) |
+| Nicholson, *Templars, Hospitallers and Teutonic Knights* (military orders) | ch01 (orders as supranational actors), **ch02** (universalism's armed institutions) | MED (elevated) | **STILL WANTED — NB a different Nicholson arrived 2026-09-13** (*Love, War and the Grail*, Brill — see Unlisted arrivals; it is the literary study, NOT this institutional survey; this row stays open). **BORROW NOW** (dossier Part III: verified controlled loan — https://archive.org/details/templarshospital0000nich). Forey remains the broader survey: locate record only (https://openlibrary.org/books/OL1778961M) |
 | Tierney, *Foundations of the Conciliar Theory* | ch02 (*Haec Sancta* 1415; conciliarism as constitutional precedent) | LOW | **BORROW** (dossier #20: IA controlled loan, 1998 enlarged ed. — https://archive.org/details/foundationsofcon0000tier_q5u7; distinguish original chapters from additions) |
 | A Avignon-papacy study (e.g. Rollo-Koster) | ch02 (capture-vs-polemic adjudication) | LOW | PENDING (outside dossier scope) |
 | Zielonka, *Europe as Empire* | ch01, ch02, ch11 (EU as canonical authority; chs. 1, 2, 11 needed) | LOW→MED | **BUY** (dossier #21: no IA loan; OUP; three non-contiguous chapters justify a full copy; framework predates Brexit/Ukraine — test against later developments) |
@@ -884,6 +884,17 @@ batch intakes below flip their own rows:
   and cull; no OCR spent.
 
 ### Unlisted arrivals (class (c) — rows created this date)
+
+**Addendum, later 2026-09-13 (post-inventory arrivals):**
+| Work | Bearing | Priority | Status |
+|---|---|---|---|
+| Helen Nicholson, *Love, War and the Grail: Templars, Hospitallers and Teutonic Knights in Medieval Epic and Romance, 1150–1500* (Brill, History of Warfare 4) | ch01/ch02 colour at most — the military orders as seen in LITERATURE; not the institutional survey the ledger wants (that Nicholson row stays open) | LOW | IN REPO 2026-09-13 (`Nicholson_Love_War_and_the_Grail_….pdf`, clean text) |
+
+Also arrived after the inventory: byte-identical duplicates (verified
+by `cmp`) of Tilly, Zielonka, Sharman, and Kafadar under
+UUID-suffixed names — no rows; FLAGGED for Roderick to cull (nothing
+deleted per standing rule).
+
 
 | Work | Needed for | Priority | Route / status |
 |---|---|---|---|
