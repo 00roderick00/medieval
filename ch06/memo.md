@@ -893,3 +893,19 @@ Drafting of ch06/draft.md may now proceed against this reviewed memo (§7).
 ---
 
 STATUS: REVIEWED (Roderick, 2026-07-22) — cleared for drafting
+
+17. **(2026-09-13 — Vale, *Charles VII*, read in full; intake note
+    for this chapter. PENDING HUMAN REVIEW.)** Master entry in
+    ch10/sources.md. For §VI's Cadillac flag (execution 17 Sept
+    per Vale TRHS vs Escouchy's storm 19 Sept, recorded
+    unresolved): the biography REPEATS 17 September and ADDS a
+    variant of the fall itself — "On his arrival at the place,
+    they surrendered. The captain was executed on his orders" (p.
+    140): surrender-on-arrival, not the storm Escouchy describes.
+    The discrepancy is now two-sided (date AND mode) and stays
+    recorded, unresolved; Escouchy remains the fuller
+    contemporary. NEGATIVE: Vale's biography carries no Formigny
+    or Castillon narrative and places no commander at either — do
+    not cite it for battle detail; the 1451 Bordeaux terms remain
+    with *English Gascony*/TRHS 1969 (his own deferral, pp. 121,
+    125 nn.).

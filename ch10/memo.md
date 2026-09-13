@@ -1093,3 +1093,71 @@ Drafting of ch10/draft.md may now proceed against this reviewed memo (§7).
 ---
 
 STATUS: REVIEWED (Roderick, 2026-07-23) — cleared for drafting
+
+19. **(2026-09-13 — Vale, *Charles VII* (California 1974), read in
+    full; intake. PENDING HUMAN REVIEW.)** T2; pagination caveat in
+    sources.md.
+    - CONFIRMS: the Praguerie as revolt against the 1439 military
+      reform, Feb–July 1440, pensions the settlement's currency,
+      nothing structural conceded (pp. 77–82; the king's terms
+      "restatement of the notions which had produced the military
+      ordonnance of 1439," p. 80); taxation without assemblies from
+      the 1440s (pp. 82, 225) — the settlement-as-practice reading
+      at T2; pensions assigned on the magnates' own aides (p. 226)
+      — the fisc co-opting the intermediate aristocracy.
+    - CORRECTS: (i) "outgeneraled by Richemont" (memo §2, T3) is
+      NOT Vale's account — he credits the king's own generalship
+      (pp. 79–82: "The king's promptitude and intransigence…");
+      the T3 sentence should not harden. (ii) CUSSET is absent from
+      Vale — his talks are at Montferrand (May 1440), the July
+      settlement unplaced; the Cusset pin stays T3 with its
+      existing hedge (Beaucourt is its likely carrier).
+    - ADDS (proposals): Alençon's fantasy artillery park, 1455 (p.
+      157) — the magnate who could only boast the train the crown
+      owned; Jacques Cœur as the reconquest's liquidity (70,680
+      l.t. for Guyenne 1451, then destroyed — "Foreclosure had
+      become the prerogative not of the creditor, but of the
+      debtor," p. 133); the king-as-financier timetable (pp.
+      137–42).
+    - CONTRADICTS (carried at strength, the sceptical control):
+      "Charles VII ruled over an essentially weak régime" (p.
+      230); the standing army "could promote, rather than reduce,
+      disorder" (p. 231); "the conventional picture of France as a
+      nation destined for 'centralisation'… is not a very
+      convincing one" (p. 18). None reaches a spine ruling: his
+      weakness thesis concerns governance depth, not the monopoly
+      of decisive force, and his own record (the trials, the
+      taxes without assemblies, Alençon's fantasy) supplies the
+      ratchet's components. NEGATIVE: no 1439 taille grant (a
+      third silence beside Contamine's), no Louppy, no 1446
+      formula, no Formigny/Castillon narrative.
+
+20. **(2026-09-13 — Howard, *War in European History* (OUP 1976),
+    read in full; intake. PENDING HUMAN REVIEW.)** T2 synthesis;
+    OCR sidecar in source-library; printed = PDF−6/−8.
+    - CONFIRMS at synthesis level: the taille/ordonnance paragraph
+      (p. 18) — and NOTE, against Contamine's and Vale's silence,
+      Howard STATES the tradition: "The original grant was made by
+      the Estates to Charles VII of France in 1439" — a T2 carrier
+      for the 1439-grant tradition, recorded for the §2 question,
+      not resolving it (he is synthesis over Oman/Lot/Contamine);
+      the price-of-independence passage (p. 22: artillery trains +
+      professional infantry + fortifications sorting "the men…
+      from the boys"); private war ended by consolidation (p. 23);
+      Charles VIII's train (p. 19); the Prussian
+      army-tax-bureaucracy spiral (p. 68).
+    - CORRECTS: he never uses "military revolution" or "trace
+      italienne" (his term "the bastioned trace," p. 35) — do not
+      cite him as a debate participant.
+    - CONTRADICTS (carried at strength for §VII's honesty): p. 62 —
+      "The really significant changes took place, not in the tools
+      with which the armies operated, but in the structure of the
+      armies themselves and of the states which employed them" —
+      Howard reverses the causal arrow for the 17th century; and
+      pp. 30–31 — field artillery's effectiveness "slight compared
+      with their heavy cost" through the 16th century. The
+      chapter's answer stands in its own terms (the threshold ran
+      through SIEGE trains and the fisc, which Howard's pp. 14, 18,
+      22 support); the p. 62 objection is the genuine Howard
+      dissent and belongs beside Curry's reversal in §VII at the
+      next renovation (proposal only).

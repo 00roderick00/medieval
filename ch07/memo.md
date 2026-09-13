@@ -351,3 +351,20 @@ as written.
 ---
 
 STATUS: REVIEWED (Roderick, 2026-07-22) — cleared for drafting
+
+- **(2026-09-13 — Vale, *Charles VII*, read in full; intake note
+  for this chapter. PENDING HUMAN REVIEW.)** Sources master entry
+  in ch10/sources.md. For §III's Praguerie: Vale CONFIRMS the
+  dates (outbreak February, put down April–July 1440, Table of
+  Events p. 238), the pension-detachment mechanics (Dauphiné + 800
+  l./month for Louis, p. 81; Bourbon and Alençon retiring
+  unpunished, p. 82), and "not one clause withdrawn" in substance
+  (the king's terms restating 1439, p. 80). CORRECTS the settling
+  scene: Vale has the peace talks at MONTFERRAND (May 1440), p.
+  80, and never names Cusset — the draft's "settled at Cusset in
+  July" keeps its existing [GAP: Contamine's chapters] hedge and
+  now awaits Beaucourt/Contamine, not Vale. His Praguerie
+  generalship is the king's, not Richemont's. The chapter's
+  "revolt of the over-mighty against the machinery being built to
+  end them" is Vale's own frame (p. 77: reform "to deprive the
+  potentially rebellious magnate of the means of revolt").

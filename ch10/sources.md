@@ -322,3 +322,51 @@ accordingly.*
   the taille, per spine §8(d). **Tier caveat: quality analysis at
   T3 — the argument is cited, its figures are NOT used** (each
   would need a primary; none carried).
+## Added 2026-09-13 — source intake (read in full)
+
+- **T2 — M. G. A. Vale, *Charles VII* (University of California
+  Press, 1974; ISBN 0-520-02787-6)** — IN REPO
+  (`corpus/retrieved/CharlesVII - Vale.pdf`). Read in full
+  2026-09-13. PAGINATION CAVEAT: printed→PDF offset drifts +12→+24
+  (plates interleave); cite by printed page verified from running
+  heads; OCR noisy — verify verbatim against page images before
+  print. USE: the Praguerie at chapter level (military reform "to
+  deprive the potentially rebellious magnate of the means of
+  revolt," p. 77; the Blois refusal of musters, p. 78; the king's
+  terms restating 1439, p. 80; the dauphin's Dauphiné + 800
+  l./month, p. 81); taxation-without-assemblies from the 1440s
+  ("the tailles and aides for the war were granted without their
+  convocation," p. 82; "the king's ability to take taxes without
+  the intervention of representative assemblies from the 1440s
+  onwards," p. 225); pensions assigned on the aides of the
+  magnates' own lordships (p. 226); Alençon's fantasy artillery
+  park (p. 157); Jacques Cœur financing the reconquest (pp.
+  128–30); the Bureau offices note (p. 188 n.). NEGATIVE FINDINGS
+  that discipline use: NO Cusset (talks at Montferrand, May 1440);
+  NO Louppy or lost-ordonnance treatment; NO 1439 taille grant
+  (significant silence, matching Contamine's); NO 1446 formula; NO
+  Formigny/Castillon narrative (Table-of-Events lines only); the
+  1451 Bordeaux terms deferred to his *English Gascony* and TRHS
+  1969. His deflationary thesis ("an essentially weak régime," p.
+  230; the standing army "could promote, rather than reduce,
+  disorder," p. 231) is carried as the sceptical control — memo
+  Revisions 19(d). Off the RETRIEVAL LIST this date.
+
+- **T2 — Michael Howard, *War in European History* (OUP, 1976; 1977
+  reprint)** — IN REPO (scan + OCR sidecar
+  `source-library/Howard-War-in-European-History-1976-ocr.txt`;
+  printed = PDF−6 early, −8 by the epilogue). Read in full
+  2026-09-13. USE HERE: the price-of-independence passage ("It was
+  not only the spectacular artillery trains which had to be paid
+  for…", p. 22); the taille/ordonnance paragraph (p. 18 — NOTE: he
+  states "The original grant was made by the Estates to Charles
+  VII of France in 1439," i.e. a T2-synthesis carrier for the
+  1439-grant TRADITION, against Contamine's and Vale's silence —
+  record, do not resolve); consolidation ending private war (p.
+  23); Prussia's army-tax-bureaucracy spiral (p. 68). CONTRADICTS,
+  carried at strength: his p. 62 reversal for the 17th century
+  ("The really significant changes took place, not in the tools…
+  but in the structure of the armies… and of the states") — memo
+  Revisions 19(d). He never uses "military revolution" or "trace
+  italienne" (his term: "the bastioned trace," p. 35). Off the
+  RETRIEVAL LIST this date.
