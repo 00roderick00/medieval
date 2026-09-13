@@ -363,3 +363,32 @@ STATUS: REVIEWED (Roderick, 2026-07-22) — cleared for drafting
   literature and the concentration literature agree only that the
   present order is transitional, which is this book's premise from
   the other side.
+
+## Revisions (2026-09-13 — integration run, PENDING HUMAN REVIEW)
+
+1. **(Strayer, Scheidel, Zielonka, Bobbitt; the dating
+   corrections.)** The chapter's baseline and close both change
+   register, not direction.
+   - CORRECTS: §II's Great Interregnum → 1254–73 (Scheidel
+     p. 166); the Teutonic Knights' "territorial state in the
+     making" is anachronistic at 1200 (Nicholson p. 26; re-date
+     or drop); §IV's "Since 2022" → "since 2017–20, and visibly
+     since 2022" (Brands p. 371; Miller chs. 49–51); the Bull
+     pagination note per Zielonka's 1977-edition citations.
+   - THE REGISTER ITEMS (ruling sheet §5(c), stated not
+     applied): §II and §VI stop saying the plural order was
+     ENDED in 1440–1500 and say the OVERLAPPING order was LOCKED
+     into units while inter-unit plurality hardened — Strayer's
+     1300 state was real and reversible and his account of the
+     turn is a confessed blank the mechanism fills; Scheidel's
+     Table 1.1 refutes "ended" as drafted; the trellis is
+     Strayer's, the ratchet is the book's.
+   - DISPUTES RECORDED: Strayer v. Morris (ch02); Strayer's
+     "still in its early stages in 1250" v. Morris's devolution
+     sentence — record both sides; Bobbitt's field v. the
+     ratchet, to be fought openly here and in ch10.
+   - ADDS: the Staufer count for §II; Bobbitt as the second
+     mis-tensed founder for §III; Zielonka's
+     regionally-vindicated Bull for §III's threshold claim
+     (with his global caution answered from ch03's industry and
+     the arbitral record, dated 2005).

@@ -198,3 +198,115 @@ quotation.*
   ("De iure the state system is alive and well," p. 193). Belongs
   in the pre-history of the neomedieval literature alongside Bull
   (whom he cites, p. 16).
+
+## Added 2026-09-13 — integration run (September-intake assessments; pins verified against sidecars)
+
+- **T2 — Joseph R. Strayer, *On the Medieval Origins of the Modern
+  State* (Princeton, 1970)** — IN REPO (sidecar
+  `text-2026-09-13/Strayer.txt`; printed = PDF−7; three chapter
+  openings dropped by OCR). USE-NOTE: THE RIVAL ON THE SUBSTRATE,
+  engaged BY NAME in §II and §VI — the strongest scholarly
+  statement that the c. 1200 "substrate" was already a state: the
+  four signs present in England and France by 1300; "Sovereignty
+  existed in fact long before it could be described in theory
+  (1300 AD as opposed to 1550)" (p. 9); "The two pillars of the
+  medieval state were the Treasury and the High Court" (p. 33,
+  sidecar verified); "in each country the theoretical supremacy of
+  the king became a little more real every decade" (p. 31) — §II's
+  "no internal tendency" must let its Capetian/Angevin parenthesis
+  govern the sentence. THE ANSWER'S ROUTE (ruling sheet §5(c)):
+  his 1300 state was real AND reversible by his own account
+  ("still not very strong," p. 57; no state could "impose
+  unpopular measures on opposition groups," p. 61), and his
+  explanation of the late-fifteenth-century turn is a CONFESSED
+  BLANK — "It is difficult to decide what factors changed the
+  behavior of the possessing classes… Some of them may have been
+  impressed by the failure of most late fifteenth-century
+  rebellions" (p. 91, sidecar verified) — the book's mechanism is
+  the content of that "may have been impressed." THE TRELLIS is
+  Strayer's (p. 8: institutions "may form a trellis on which the
+  idea of the state can grow"); the ratchet is the book's — say
+  so. "Neither administrative gimmicks nor military power explain
+  the success of the sixteenth-century state" (p. 92, sidecar
+  verified) is the England-limb objection, carried to ch11.
+  Corrections he supplies: the pre-1439 French tax doctrine was
+  consent WITH a defence-of-the-realm override recognised by 1300
+  (p. 54, citing Etsi de statu) — which HELPS §8(a); Louis XI
+  "first polity in this book's PERIOD," not story (p. 50). 1970;
+  his fifteenth century superseded by Contamine (1972) and
+  Henneman — and he never mentions artillery, which is the point
+  of citing him. DISPUTE RECORDED: Strayer v. Morris on the
+  Gregorian origin (ch02 critiques this date); Strayer v.
+  McFarlane on the disorder's cause (economic pressure v.
+  inadequate kingship).
+
+- **T2 — Walter Scheidel, *Escape from Rome* (Princeton, 2019)** —
+  IN REPO (sidecar `text-2026-09-13/Scheidel.txt`; printed =
+  PDF+21; CAUTION — his German-empire pages carry name/date slips
+  (Henry V for VI; Conrad II for IV): T2 for structure and
+  measurement, never a name-check source). USE-NOTE: rival frame
+  at the macro scale, ally at the domestic scale — BY NAME at
+  §VI's "episode" sentence. "A 20 percent ceiling became the norm
+  in post-Roman Europe" (p. 45, sidecar verified); polycentrism
+  "perennially robust" (p. 12, sidecar verified); "State
+  consolidation strengthened the polycentric state system…
+  consolidation within, plurality between" — the state system as
+  polycentrism's MATURE FORM, not a break in it. THE ANSWER
+  (ruling sheet §5(c)): unit of analysis — the book's plural
+  order is overlapping authority WITHIN a territory (which he
+  concedes was reversed, p. 340); his is the count of polities
+  ACROSS it (which the book predicts persists). §II/§VI must say
+  LOCKED, not ENDED. CORRECTION: the Great Interregnum is
+  1254–73, not "after Frederick II's death in 1250" (p. 166) —
+  count from the dynasty's collapse or re-date. ADDS: the
+  Staufer-era count (seventeen secular princes, forty-seven
+  prelates with ducal powers, p. 169) closing §II's c. 1200
+  caution; Table 1.1; "small wars that helped a weak state stay
+  alive" (p. 172, sidecar verified) — the Reich as the threshold
+  demonstration, and the EU's true failure mode (a framework its
+  members keep weak on purpose); "in concert with their peers"
+  (p. 214, sidecar verified) as why consolidation stops at the
+  bloc boundary; the Great Elector's "compel us to follow their
+  example" (p. 369) for ch12 §II. His account of 1250–1500 is
+  one sentence — the manuscript's opening, to be said by name.
+
+- **T2 — Jan Zielonka, *Europe as Empire* (OUP, 2006/2007)** — IN
+  REPO (sidecar `text-2026-09-13/Zielonka.txt`; printed = PDF−13
+  constant). USE-NOTE: the neomedieval literature's only
+  full-length application to a candidate consolidator — ally on
+  diagnosis, RIVAL ON PROGNOSIS, engaged by name in ch12 §IV;
+  here, §III's Bull footnote (Bull "regionally vindicated,
+  globally not," his p. 162) and the pagination correction (he
+  cites the 1977 Macmillan edition — n. 1-3's "matches the
+  earlier printings" should read "matches the 2002 printing; the
+  1977 first edition runs about nine pages later"). THE FISCAL
+  CONCESSION the book answers him with: the EU budget at "merely
+  1.27 per cent of its combined GDP" (p. 96, sidecar verified)
+  with his own n. 11 conceding extraction as "the crucial pillar
+  of any stateness" (sidecar verified). THE DEPRETER-LIMB FINDING
+  (ruling sheet §5(f)): canon alone DID consolidate a bloc-as-
+  jurisdiction ("This was power politics at its best, even though
+  the term 'power' was never mentioned," p. 55, sidecar verified)
+  — the Introduction's condition 4 must read "consolidate a
+  bloc's DECISIVE CAPABILITY," not "a bloc," or Zielonka has
+  already collected. "Empire without an emperor" (p. 59, sidecar
+  verified) as the EU statement of the two-variable Burgundy
+  reading; the stable-plural-bloc-under-guarantee third outcome
+  named for Appendix C; the Coal-and-Steel inversion (p. 152)
+  and the Bosnia VAT case (pp. 113–14) for ch12. Wæver 1997
+  ("Imperial Metaphors") to retrieval for the concentric-circles
+  pin; Appendix A §IV entry to be rewritten accordingly.
+
+- **Pointers:** Bobbitt enters §III–§VI beside Bull as the second
+  founder who named the condition and mistook its tense (full
+  entry at ch12 this date; the three paradoxes p. 234; "withering
+  away… highly implausible" p. xxx as ally). The Teutonic-Order
+  dating correction from the archived Nicholson (militarised
+  1198; no Prussian state in 1200 — Nicholson p. 26; Morris's
+  Golden Bull of Rimini 1226 and 1234 papal fief at ch02):
+  re-date §II's clause "by the mid-thirteenth century" or drop
+  the Knights from the c. 1200 list. The Brands/Miller dating
+  correction to §IV: "since 2022" → the doctrinal turn is 2017,
+  the first decisive-layer control 2019–20, visible since 2022.
+  Freedman's van Creveld/Jackson/Norton items for the §V
+  literature footnotes.
