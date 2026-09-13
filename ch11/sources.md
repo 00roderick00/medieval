@@ -234,3 +234,9 @@ the session research record. Update retrieval-master.md accordingly.*
   question (Conclusions) is also a register model for Part III.
   Caveat: war-frequency datasets "intentionally rudimentary"
   (Appendix 2) — never load-bearing.
+
+- **Bratton re-pin note (2026-09-13):** the §VII scan-pin caveat
+  resolves via the concordance at ch12/sources.md this date
+  (complete e-book copy read; index-anchored print pins,
+  citation-grade; Project MUSE chapter PDFs are the assembly-grade
+  route). Close at next renovation.

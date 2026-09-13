@@ -314,3 +314,34 @@ above (CLAUDE.md §4). URLs in the session research record.*
   control and micro-manage the market" (PDF 1231) — state
   strategic instruments plus market pricing is his considered dual
   position; carry it wherever the probe cites him.
+
+- **T2 — Bratton, *The Stack* (MIT Press, 2015) — the "[SOC BRA]"
+  copy, now read in full and CHARACTERISED (2026-09-13):** it is
+  the complete retail e-book (eISBN 978-0-262-33431-0) in a Calibre
+  conversion — textually excellent, but it carries NO printed
+  pagination (the inventory's "real printed pagination" claim was
+  wrong and is corrected on the ledger). Print pins are
+  nevertheless recoverable: the conversion preserves the print
+  edition's full index, whose locators are printed pages, and the
+  publisher record gives chapter ranges — pins anchored on index
+  entries are citation-grade; interpolated pins are ±1. A full
+  re-pin concordance for every passage draft §IV quotes is in the
+  intake record (memo Revisions 12), including: the TWO distinct
+  withering-away disclaimers (Introduction ~p. 11; Cloud p. 114 —
+  different lead-ins, do not conflate); the interlacing/absorbing
+  set (pp. 109–10, 114–15, 119, 121–2; Address p. 211
+  index-anchored); the tax-flows passage (Cloud §33, pp. 143–4 —
+  "the practical locus of governmental control is over the
+  capacity to structure, police, and, especially, tax flows,"
+  with the published oddity "unforceable identifications of
+  taxable flows" confirmed in two copies); "rapid centripetal
+  centralization" (pp. 115–16, index-anchored via "information:
+  centralization of, 116"); "end-to-end cyberinfrastructures"
+  (pp. 118–19 — NB a different "end-to-end networks … browser, to
+  fiber, to data center" sentence sits at pp. 117–18; match the
+  draft's quotation to the right one). Old-scan concordance: scan
+  p. 146 = print pp. 115–16; scan p. 148 = print pp. 118–19.
+  ASSEMBLY-GRADE pagination, if wanted, comes from the Project
+  MUSE chapter PDFs (true pagination) or the tenth-anniversary
+  print — both on the ledger; otherwise cite by chapter/section,
+  which is edition-stable.

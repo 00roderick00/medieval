@@ -853,3 +853,46 @@ STATUS: REVIEWED (Roderick, 2026-07-31 — read in full, nothing to add; no revi
       is reached; §8(c) already frames the instrument as
       regulation-of-switch rather than permanent administration,
       which is consistent with his arc.
+
+12. **(2026-09-13 — Bratton, *The Stack*, complete e-book copy read
+    in full; re-pin concordance established. PENDING HUMAN
+    REVIEW.)**
+    - CORRECTS (the acquisition record): the "[SOC BRA]" copy is
+      the complete retail e-book, not a print-paginated copy; and
+      the older `the stack .pdf` turns out to be phone photographs
+      of an e-reader session, not the printed book — NOTHING in
+      the repo shows true printed page images. Ledger corrected;
+      Project MUSE chapter PDFs added as the assembly-grade
+      pagination route.
+    - CLOSES (at next renovation): every draft §IV "[scan p.N —
+      re-pin]" flag can now be reset — index-anchored pins are
+      citation-grade, interpolated pins ±1 (full concordance in
+      sources.md this date). Two wording traps for the re-pin
+      pass: the two distinct withering-away sentences (Intro ~11
+      vs Cloud 114) and the two end-to-end sentences (117–18 vs
+      118–19) — the draft's quotations must be matched to the
+      right instance before any flag closes.
+    - CONFIRMS (against the council reading, again): Bratton's
+      position is explicitly BIDIRECTIONAL and unresolved — "the
+      ambiguities of the rotation in priority, and perhaps of
+      which institution finally underwrites which, persist"
+      (pp. 119–20); "The Stack does not necessarily privilege
+      either in favor of the other" (p. 316). DISCIPLINE FOR
+      DRAFTING: spine §8(b) declares the US verdict (the state
+      will absorb the stack); Bratton must be cited as leaving
+      open what this book resolves — he is the map of the fork,
+      not an authority for our branch of it.
+    - BOUNDS: the 2015 book contains NO hemispherical-partition
+      prediction — hemisphere vocabulary there is Schmitt/Monroe
+      analysis (pp. 25, 31–35); "Hemispherical Stacks" is the 2026
+      article's coinage only, as the ledger already records. The
+      book's closest bloc material: the Google/China modus-vivendi
+      passage (p. 145) and the "antagonistic fiefdoms and empires"
+      scenario (pp. 316–17) — both now pinned for §IV's use.
+    - ADDS: the energy-constraint set for the watts-are-powder
+      line at T2 — the Cloud as "the fifth largest consumer of
+      electricity" if a state (p. 93, Greenpeace figures), "it may
+      be too expensive for the Cloud to 'grow' beyond certain
+      thresholds" (p. 94), "perhaps the hungriest thing in the
+      world" (pp. 94–5), and the data-centre energy question at
+      p. 113 — all index-anchored or ±1.

@@ -795,7 +795,7 @@ opinions themselves — Paramount 1948–49 decrees, DuPont–GM 366 U.S.
 pattern probe" table above, with the Swift-via-276-U.S.-311 route,
 Bringhurst and Childs).
 
-| Bratton, *The Stack*, tenth-anniversary edition (MIT Press, 2026) | ch12 — the book-length statement of Hemispherical Stacks; printed pagination for every Bratton pin | **HIGH** | BUY |
+| Bratton, *The Stack*, tenth-anniversary edition (MIT Press, 2026) | ch12 — the book-length statement of Hemispherical Stacks; assembly-grade printed pagination (2015 pins now recoverable to ±1 from the e-book index — see 2026-09-13 concordance; MUSE chapter PDFs are the free alternative for true 2015 pagination) | **HIGH** | BUY |
 
 ## 2026-09-02 (second pass, small hours) — twelve more open-web pulls into corpus
 
@@ -861,11 +861,20 @@ batch intakes below flip their own rows:
   the gated edition of record, previously believed unobtained. The
   Castillon chapters are in Samaran's TOME II, still wanted; the
   Basin row is updated accordingly (T. I in repo; T. II wanted).
-- **Bratton, *The Stack* (MIT Press 2015) — a clean full copy with
-  text layer and printed pagination is IN CORPUS** (`[SOC BRA] the
-  stack - on software and sovereignty.pdf`, 727 pp.) — candidate to
-  close every "[scan p.N — re-pin to printed edition]" flag; queued
-  next session.
+- **Bratton, *The Stack* (MIT Press 2015) — the `[SOC BRA]` copy
+  READ IN FULL 2026-09-13:** it is the complete retail e-book
+  (Calibre conversion), textually excellent but with NO printed
+  pagination — the inventory's "printed pagination" claim was
+  wrong. Print pins recovered via the preserved print INDEX
+  (index-anchored = citation-grade; interpolated = ±1); full
+  re-pin concordance at ch12/sources.md + memo Revisions 12
+  (scan 146 = print 115–16; scan 148 = print 118–19; the two
+  withering sentences and two end-to-end sentences
+  disambiguated). The old `the stack .pdf` is phone photos of an
+  e-reader session, not the printed book. ASSEMBLY-GRADE
+  pagination route: Project MUSE chapter PDFs
+  (muse.jhu.edu/book/44835) or the tenth-anniversary print (both
+  effectively retrieval rows); otherwise cite by chapter/section.
 - **Howard 1976 had no text layer** — OCR sidecar built 2026-09-13
   (`source-library/Howard-War-in-European-History-1976-ocr.txt`,
   printed = PDF−6). **NEGATIVE FINDING, recorded ahead of the intake

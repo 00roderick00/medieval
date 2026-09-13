@@ -539,3 +539,13 @@ accordingly.*
   (XVIII, 470). (v) Cost texture: powder economics XI, 126–30;
   gunners paid above cavalry (XI, 122); the Byzantine
   cannot-afford counter-case (X, 351).
+
+- **Bratton re-pin note (2026-09-13):** this chapter's §VIII
+  concentration passages resolve to print pp. 115–16 ("rapid
+  centripetal centralization…," index-anchored) and pp. 118–19
+  ("end-to-end cyberinfrastructures," ±1) — old scan pp. 146/148
+  respectively. The scan-pin caveat in the 2026-09-02 entry above
+  can close at the next renovation using these; note the second,
+  different "end-to-end networks" sentence at pp. 117–18 and match
+  the draft's wording before closing. Full concordance and copy
+  characterisation at ch12/sources.md + memo Revisions 12.
