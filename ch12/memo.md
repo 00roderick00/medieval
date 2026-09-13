@@ -720,3 +720,55 @@ parse and may later sharpen §7's Castillon return.
 ---
 
 STATUS: REVIEWED (Roderick, 2026-07-31 — read in full, nothing to add; no revisions required)
+
+9. **(2026-09-13 — Chernow, *Titan* (Random House 1998), read in
+   full; intake. PENDING HUMAN REVIEW.)** The Standard Oil probe's
+   wealth-arc figures, now checked against the biography itself
+   (T3; ebook, no print pagination — cite by chapter + PDF index).
+   - (a) CONFIRMS: the probe's wealth/power decoupling datum is
+     Chernow's — Ch. 27 (PDF 621–2): c. $300m at the decree,
+     c. $900m by the 1913 peak as the successor shares tripled.
+     The probe's [UNVERIFIED — RETRIEVAL: Chernow] flag on the
+     tripling claim can close AT THE PROBE'S NEXT REVISION — with
+     the caveat carried visibly: Chernow's own paragraph is
+     unfootnoted, and Ch. 18 (PDF 390) floats "$1 billion"
+     loosely; Ch. 27 is the considered figure. The Cato 2025
+     carrier was leaning on Chernow all along; the lean is now
+     verified but the underlying numbers remain a trade
+     biographer's, so the memo keeps them corroborative, not
+     load-bearing.
+   - (b) CORRECTS: the successor-company denominator. Chernow's
+     count is 34 (33 companies spun + the parent); "37" — which
+     circulates widely and appeared in early probe notes — is the
+     count of defendants in the 1909 circuit-court case, not of
+     post-decree successors. Any ch12 text stating the breakup
+     number should say thirty-four or name the 1909 denominator
+     explicitly.
+   - (c) ADDS: Rockefeller had exercised no operational command
+     since 1897 — and was refused permission to resign the
+     presidency, holding the title through 1911 without the
+     function. This sharpens the probe's control-rights framing:
+     the decree severed an office already emptied of command,
+     which strengthens the argument that what the state took was
+     the RIGHT of recombination, not a working lever — exactly the
+     regulation-of-switch reading of spine §8(c).
+   - (d) CONTRADICTS (full strength): the probe's cleanest framing
+     — command severed at the decree stroke — is complicated by
+     Chernow's account of the successor companies' first decade:
+     shared offices at 26 Broadway, interlocking shareholdings,
+     coordinated behaviour that made the "breakup" look, for
+     years, like a sham; real divergence came only as
+     shareholdings dispersed and managements grew apart.
+     Steelman: if coordination persisted a decade, the off-switch
+     story is administrative theatre, and what actually dissolved
+     the trust was share-register drift, not the decree. The
+     book's answer, sketched: the decree changed the LEGAL
+     status of coordination — it converted a right into a
+     liability enforceable at the state's pleasure — and the
+     decade of decay is the lag the spine §8(c) ruling already
+     builds in (regulation-of-switch WITH LAG, Standard Oil as
+     the proof case with the lag). The contradiction is thus
+     absorbed by the ruling as stated, not by the probe's
+     shorthand; the probe's language should acquire the lag
+     explicitly at its next revision. No spine ruling is
+     reached — §8(c) anticipates this.

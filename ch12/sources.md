@@ -211,3 +211,27 @@ above (CLAUDE.md §4). URLs in the session research record.*
   release (docket pin owed); EO 14148 (28 Jan 2025); S.1671;
   California SB 53; Proclamations 11002 and 11052. All [RE-CHECK
   AT PRESS] as contemporary instruments.
+
+- **T3 — Ron Chernow, *Titan: The Life of John D. Rockefeller, Sr.*
+  (Random House, 1998)** — IN REPO (`Titan_ The Life of John D
+  Rockefeller, Sr - PDF Room.pdf`; text sidecar in
+  `source-library/text-2026-09-13/Titan.txt`). Read in full.
+  **Ebook conversion with NO print pagination — cite by chapter +
+  PDF index only, and re-pin against a printed edition at press if
+  any figure becomes load-bearing.** The probe's wealth-arc carrier:
+  Ch. 27 (PDF 621–2) has the considered figures — Rockefeller worth
+  c. $300m at the 1911 decree, c. $900m at the 1913 peak as the
+  successor shares tripled. CAVEAT ON TIER AND WEIGHT: Chernow's own
+  paragraph is unfootnoted at that point, and Ch. 18 (PDF 390)
+  floats a looser "$1 billion" — the Ch. 27 figures are his
+  considered ones, but a T3 trade biography's unfootnoted numbers
+  cannot be sole support for a structural claim; they corroborate
+  the Cato 2025 carrier rather than replace a T1/T2 anchor. Also
+  supplies: the 34-successor count (33 spun companies + the parent;
+  the "37" in circulation is the 1909 circuit-court defendant
+  count, a different denominator); Rockefeller's retirement from
+  active management in 1897 while being refused permission to
+  resign the presidency — the office survived the command; and the
+  decade-long decay of successor coordination through the 26
+  Broadway meetings (see memo Revisions 9(d) for the nuance this
+  puts on the probe's severance framing).
