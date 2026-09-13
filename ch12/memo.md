@@ -807,3 +807,49 @@ STATUS: REVIEWED (Roderick, 2026-07-31 — read in full, nothing to add; no revi
       settlement section at the next renovation; it does not reach
       a spine ruling, but it PRESSES §8(b)'s hybrid verdict and
       should be named when that section is next revised.
+
+11. **(2026-09-13 — Yergin, *The Prize* (1991), read in full;
+    intake. PENDING HUMAN REVIEW.)** The probe's second trade
+    carrier, now checked (T3 upper band; reflow ebook, cite by
+    chapter + PDF page).
+    - CONFIRMS: the probe's authority-migration story at narrative
+      length — the severed private switch re-formed as a STATE
+      instrument (Railroad Commission proration, disguised at
+      first, then federalised via the commerce power), and that
+      instrument became the West's strategic reserve until March
+      1971 (his "old warrior" passage, PDF 906–7). Also the
+      severance-enriched-the-holder point: the probe's
+      wealth/power decoupling gains his "$900 million" endpoint,
+      traceable one step to Nevins ii, 404–5 — the same underlying
+      authority Chernow leans on; both trade carriers now stand on
+      Nevins, which should be named when the figure is used.
+    - BOUNDS (what Yergin cannot carry): no pre-breakup wealth
+      figure, no successor-company count ("several separate
+      entities," seven lineages named — ch. 5, PDF 157–8), and the
+      statutes of the 1970s described by content, never by name —
+      EPCA and the allocation acts must cite the session laws
+      already in corpus.
+    - ADDS: (i) Anglo-Persian 1912–14 as the mechanism's cleanest
+      modern ancestor — capital-intensive naval technology forcing
+      the state from customer to majority owner, with the
+      "strategic commodity second to none" sentence as anchor and
+      the Disraeli/Suez precedent line (PDF 241); candidate for
+      the §IV framing at next renovation. (ii) The 1941
+      freeze-as-licensing-switch (Acheson, PDF 494) for the
+      revocation-authority genealogy. (iii) The Epilogue's
+      "attributes of sovereign states" passage on the majors (PDF
+      1232) — period evidence that private infrastructural power
+      reads as quasi-sovereignty, i.e. the platform bridge in 1991
+      dress.
+    - CONTRADICTS (carry as the probe's standing disanalogy): his
+      considered position is dual — the state holds the strategic
+      instruments (SPR, IEA) while price control fails ("an
+      awesome Rube Goldberg system," PDF 1054) and the commodity
+      ends on the Nymex. Applied here: state control instruments
+      can be superseded by markets, not only the reverse; the
+      probe's cycle claim must state the conditions under which
+      re-severance rather than re-commoditisation obtains (the
+      Appendix C energy row's directional wager). No spine ruling
+      is reached; §8(c) already frames the instrument as
+      regulation-of-switch rather than permanent administration,
+      which is consistent with his arc.

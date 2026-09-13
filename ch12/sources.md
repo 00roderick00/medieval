@@ -275,3 +275,42 @@ above (CLAUDE.md §4). URLs in the session research record.*
   Hansa in essence is," p. 170) — as the T2 template for how a
   state system treats illegible institutional universalisms: the
   platform-recognition question in fifteenth-century dress.
+
+- **T3 (upper band) — Daniel Yergin, *The Prize: The Epic Quest for
+  Oil, Money, and Power* (Simon & Schuster, 1991)** — IN REPO
+  (`_OceanofPDF.com_The_Prize_-_Daniel_Yergin.pdf`; pirate ebook
+  reflow: NO printed pagination survives, index absent, endnotes
+  intact but relocated to chapter ends — cite by chapter + PDF page
+  with the reflow named, and re-pin against a printed copy at press
+  if any claim becomes load-bearing). Read in full. Pulitzer trade
+  synthesis; his consolidated endnotes trace most claims one step
+  to T1/T2 (Nevins, Ferrier, Jones, Prindle, PRO files, Hansard) —
+  use him as corroboration and as a retrieval map, never as sole
+  support for a structural claim. THE PROBE MATERIAL: (i) the
+  post-breakup wealth endpoint — "his personal worth rose to $900
+  million" (ch. 5, PDF 161–2), traceable via his n. 13 to Nevins,
+  *Study in Power*, ii, 404–5; NO pre-breakup figure and NO
+  successor count anywhere (negative findings — Chernow/the decree
+  remain the only carriers of the $300m and the 34). (ii) The
+  migration of production control: the Texas Railroad Commission
+  acting first ultra vires "under a disguise" (ch. 13, PDF 383),
+  martial law in East Texas (PDF 385), federalisation through the
+  commerce power and the Connally Act (PDF 392–5), and the verdict
+  "the relationship between oil companies and the government had
+  been forever changed" (PDF 398); the system's afterlife as the
+  West's "surge capacity" ended March 1971 (ch. 28, PDF 906–7).
+  (iii) Churchill and Anglo-Persian 1912–14 as the
+  state-buys-the-decisive-input type-case: "the Admiralty should
+  become 'the owners or, at any rate, the controllers at the
+  source'" (PDF 237), the 51% purchase (PDF 238), and the anchor
+  generalisation "Oil, for the first time, but certainly not the
+  last, had become an instrument of national policy, a strategic
+  commodity second to none" (PDF 242). (iv) The 1941 freeze
+  operated as a licensing switch (Acheson converting freeze to
+  embargo administratively, ch. 16, PDF 494). CAUTION — the honest
+  counter-case is also his: the Nymex commoditisation arc ("just
+  another commodity," ch. 35, PDF 1150–56) and the Epilogue's
+  "governments do well to resist the immediate temptation to
+  control and micro-manage the market" (PDF 1231) — state
+  strategic instruments plus market pricing is his considered dual
+  position; carry it wherever the probe cites him.
