@@ -370,3 +370,38 @@ accordingly.*
   Revisions 19(d). He never uses "military revolution" or "trace
   italienne" (his term: "the bastioned trace," p. 35). Off the
   RETRIEVAL LIST this date.
+
+- **T2 — Charles Tilly, *Coercion, Capital, and European States, AD
+  990–1992* (Blackwell, 1990; rev. 1992)** — IN REPO (scan; OCR
+  sidecar `source-library/Tilly-Coercion-Capital-1990-ocr.txt`,
+  printed = PDF−10; OCR noisy — verify any verbatim quote against
+  the page image before press). Read in full. The critiques
+  Objection 6 anchor, now page-pinned. (a) **p. 76, the TRANSITIONS
+  paragraph — his ONLY sustained technology paragraph**: "The years
+  around 1500 were crucial … the invention and diffusion of firearms
+  had tipped the military advantage toward monarchs who could afford
+  to cast cannon and build the new kinds of fortresses that cannon
+  could not easily shatter" — the hinge asserted, never explained or
+  priced; this is the gap the chapter fills. (b) **p. 36, his own
+  legitimacy test for critics**: the missing-variable criticism
+  "only becomes legitimate when the critic shows that neglect of the
+  variable causes a false reading of relationships among variables
+  that do appear" — and he names "military technology" as such a
+  neglected variable; the chapter's timing/threshold argument is
+  built to meet exactly this test. (c) **p. 89, the "ratchet
+  effect"** (citing Peacock & Wiseman; Rasler & Thompson): "an
+  inflated wartime budget fails to return to its prewar level …
+  does not occur universally, but … quite often" — prior scholarship
+  for the budgetary half of the ratchet; the chapter's addition is
+  the CONSTITUTIONAL half (taxation without assemblies), which
+  Tilly's version does not contain. (d) **p. 25, the timing
+  correction**: "no European state (except, perhaps, Sweden) made a
+  serious attempt to institute direct rule from top to bottom until
+  the era of the French Revolution" — so the book's
+  "suppression of intermediate authorities" must be stated
+  precisely: what the fifteenth-century turn suppressed was the
+  ARMED/COERCIVE intermediary (the magnate retinue, the autonomous
+  company), not indirect rule as such, which persisted to c. 1789.
+  (e) Multi-path discipline (coercion-intensive /
+  capital-intensive / capitalized coercion) — the standing check on
+  any single-track reading of the mechanism.

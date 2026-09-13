@@ -329,3 +329,45 @@ list; steelmen provisional; do not caricature.
   summarising?
 
 *(Run pending; results to be pasted below with date.)*
+
+---
+
+## Revisions (post-review)
+
+1. **(2026-09-13 — Tilly read in full; Objection 6's deferred caveat
+   grounded at page level. PENDING HUMAN REVIEW.)** The Objection 6
+   engagement above was built from Tilly's standing argument with a
+   deferred caveat ("must be verified at page level before press").
+   Tilly is now in repo and read (T2; OCR sidecar, printed = PDF−10;
+   verify verbatim wording against page images at press — the OCR is
+   noisy). The verification lands as follows, and the caveat can
+   close on its Tilly limb.
+   - The steelman is CONFIRMED as written, and strengthened: Tilly's
+     technology moment is a single paragraph (p. 76 — firearms
+     "tipped the military advantage toward monarchs who could afford
+     to cast cannon and build the new kinds of fortresses that
+     cannon could not easily shatter"); affordability is the
+     asserted hinge and is nowhere priced or dated more finely than
+     "the years around 1500." The gap the answer claims is real and
+     is visible on his own page.
+   - The answer acquires Tilly's own licence: his p. 36 rules of
+     criticism make a missing-variable amendment legitimate exactly
+     when the neglect "causes a false reading of relationships among
+     variables that do appear" — and he names military technology as
+     a candidate neglected variable. The chapter's claim is
+     precisely that the unpriced hinge misdates his own cycle's
+     onset; the engagement should cite p. 36 so the objection is
+     answered inside Tilly's stated rules rather than around them.
+   - Two ABSORPTIONS the answer must carry (from ch10 memo
+     Revisions 22): the budgetary ratchet is prior art Tilly already
+     reports (p. 89, citing Peacock & Wiseman; Rasler & Thompson) —
+     the chapter's novelty claim is confined to the CONSTITUTIONAL
+     ratchet; and direct rule is post-1789 on his account (p. 25) —
+     the suppressed intermediaries are the ARMED ones. Both
+     absorptions sharpen rather than weaken the answer; both should
+     reach the Objection 6 text at the next critiques renovation.
+   - The Parrott limb of the same caveat closes per ch12 critiques
+     Revisions 5 (compagnies attribution not in Parrott; his p. 291
+     naval concession works FOR the mechanism). Brewer-beyond-the-
+     coinage remains the only unverified limb; his row stays on the
+     ledger at MED.

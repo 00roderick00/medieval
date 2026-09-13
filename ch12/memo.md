@@ -772,3 +772,38 @@ STATUS: REVIEWED (Roderick, 2026-07-31 — read in full, nothing to add; no revi
      shorthand; the probe's language should acquire the lag
      explicitly at its next revision. No spine ruling is
      reached — §8(c) anticipates this.
+
+10. **(2026-09-13 — Tilly read in full; two transfers to this
+    chapter. PENDING HUMAN REVIEW.)**
+    - ADDS (supporting): pp. 122–6 — the long civilianization of
+      European states (civilian shares of budgets and personnel
+      rising as the war-built apparatus turned to non-military
+      activity) is the T2 trajectory behind this chapter's claim
+      that the consolidating state outgrows its founding
+      instrument; usable when the settlement section needs the
+      after-history of consolidation.
+    - CONTRADICTS (new objection, full strength — not previously in
+      the file): pp. 207–8. Where rulers can draw revenue WITHOUT
+      bargaining with their populations — commodity exports,
+      great-power aid — "large state edifices have grown up in the
+      absence of significant consent or support from citizens,"
+      and those states are unstable and coup-prone. Applied to this
+      book: if the coming consolidation is funded by stack rents
+      (the state taxing or owning the platform layer) rather than
+      by broad-based taxation bargained through representative
+      institutions, Tilly's own mechanism predicts the result is
+      not a Tudor settlement but a rentier state — consolidation
+      WITHOUT the representation-and-rights by-products that made
+      the first run constitutive. The book's answer, sketched: the
+      Tudor settlement's constitutional content came from the
+      bargaining the taille bypassed being unavoidable elsewhere
+      (England's parliamentary route; even France's ratchet
+      required the 1439–46 settlement WITH the estates before the
+      bypass) — so the objection is really a fork the book already
+      owns at spine §8(b): WHICH settlement each bloc gets depends
+      on whether stack revenue is bargained or seized, and the
+      rentier outcome is one of the book's dark branches, not a
+      refutation. This deserves explicit treatment in the ch12
+      settlement section at the next renovation; it does not reach
+      a spine ruling, but it PRESSES §8(b)'s hybrid verdict and
+      should be named when that section is next revised.

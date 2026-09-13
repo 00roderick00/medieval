@@ -337,3 +337,13 @@ STATUS: REVIEWED (Roderick, 2026-07-22) — cleared for drafting
    - CONTRADICTS: nothing in this chapter. Parrott's system-level
      counter-thesis bears on ch10/ch12 and is engaged there
      (ch12 critiques Revisions 5).
+
+5. **(2026-09-13 — Tilly pointer; intake note. PENDING HUMAN
+   REVIEW.)** Tilly read in full this session (T2; entries at
+   ch10). For this chapter: the capital-intensive path
+   (city-states hiring force rather than building it — the
+   Italian world this chapter inhabits) is his named alternative
+   trajectory, and his account of why it stopped scaling (the
+   larger territorial states "had the scale to absorb the
+   increased costs," p. 76) is the T2 frame for the chapter's
+   close. Pointer only; no change to the chapter's argument.

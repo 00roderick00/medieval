@@ -1183,3 +1183,44 @@ STATUS: REVIEWED (Roderick, 2026-07-23) — cleared for drafting
     can close on its Parrott limb at the next critiques
     renovation; the Tilly limb closes with the Tilly intake this
     session.
+
+22. **(2026-09-13 — Tilly, *Coercion, Capital, and European States*
+    (1990), read in full; intake. PENDING HUMAN REVIEW.)** The
+    Objection 6 deferred caveat ("must be verified at page level
+    before press") can now close on its Tilly limb: the critiques
+    engagement is confirmed and sharpened by the text.
+    - CONFIRMS: the objection's premise and the answer's shape.
+      Tilly's technology moment is one paragraph (p. 76): firearms
+      "tipped the military advantage toward monarchs who could
+      afford to cast cannon" — affordability asserted as the hinge,
+      never priced, never dated beyond "the years around 1500."
+      The chapter's claim to supply the priced step stands; and by
+      Tilly's own p. 36 test (missing-variable criticism is
+      legitimate when the neglect causes "a false reading of
+      relationships among variables that do appear"), the argument
+      is a LEGITIMATE amendment on his own terms, since the missing
+      price variable is what turns his cycle's timing from
+      unexplained to predicted. He even lists "military technology"
+      among the neglected variables a critic might press.
+    - CORRECTS (the chapter must absorb two points): (i) p. 89 —
+      the budgetary ratchet is prior art (Peacock & Wiseman 1961;
+      Rasler & Thompson) and Tilly carries it; the chapter's
+      ratchet claim is distinct ONLY as the constitutional ratchet
+      — permanent taxation without assemblies, the settlement of
+      1439–46 per spine §8(a) — and the draft should not imply the
+      budgetary observation is novel. (ii) p. 25 — direct rule
+      arrives with the French Revolution; the mechanism's
+      "suppression of intermediate authorities" is therefore the
+      suppression of the ARMED intermediary specifically, not of
+      intermediary governance, and the chapter's language should
+      keep that edge (the Phase 4 terms check already leans this
+      way; verify at next renovation).
+    - ADDS: p. 207–8 hands ch12 a genuinely new objection (logged
+      there, memo Revisions 10); pp. 122–6 civilianization
+      trajectory supports the chapter's administrative-capacity
+      limb at T2.
+    - CONTRADICTS: nothing that reaches a spine ruling. His
+      multi-path typology constrains rhetoric (no single-track
+      teleology) but the mechanism claims a threshold, not a single
+      path — the coda's existing multi-path concession is the
+      right container.

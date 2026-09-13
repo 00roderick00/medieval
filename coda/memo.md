@@ -34,3 +34,18 @@ absorbed into its body or carried forward as Revisions 1.)*
 ---
 
 STATUS: REVIEWED (Roderick, 2026-09-02 — review pack)
+
+2. **(2026-09-13 — Tilly's last page, for the coda's shelf; intake
+   note. PENDING HUMAN REVIEW.)** Tilly ends (p. 225) by listing
+   the signs that "the era of formally autonomous states is
+   passing" — "durable military-economic blocs," "the rise of
+   corporations whose capital is everywhere and nowhere,"
+   sub-state nationalisms — and closes: "The state system
+   Europeans fashioned has not always existed. It will not endure
+   forever." Written in 1990, this is the bellicist tradition's
+   own anticipation of the neomedieval diagnosis AND of the
+   bloc-formation the book predicts — from the book's chief
+   methodological ancestor, on his final page. The coda's
+   multi-path concession can carry this as its T2 anchor: the
+   mechanism's ancestor himself expected the system to change
+   form. Holding note only; placement at coda drafting.
