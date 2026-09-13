@@ -126,3 +126,58 @@ fetch-blocked — confirm in a browser before quotation.*
   ecclesial half (jurisdiction, doctrine, universalism) is absent
   from his frame — a comparison this chapter can state. Ebook — cite
   by chapter.
+
+## Added 2026-09-13 — integration run (September-intake assessment; pins verified against the sidecar)
+
+- **T2 — Colin Morris, *The Papal Monarchy: The Western Church from
+  1050 to 1250* (Clarendon, 1989)** — IN REPO
+  (`Colin_Morris_The_Papal_Monarchy_….pdf`; sidecar
+  `text-2026-09-13b/Morris.txt`; printed = PDF−19; clean).
+  USE-NOTE (assessment): THE SCHOLARLY SPINE IN PLACE OF ULLMANN
+  for the Dictatus, Canossa and Worms — Ullmann's hierocratic
+  reading is the one the field has set aside (Morris p. 653: "Its
+  thesis has been widely criticized"); Ullmann footnoted as
+  superseded (DISPUTE RECORDED per CLAUDE.md §5). THE FRAME: "A
+  papal monarchy was in principle and in practice inconceivable in
+  medieval Europe" (p. 1, sidecar verified) — the medieval
+  universalism was a JURISDICTION, not a sovereignty. CORRECTIONS
+  the chapter must absorb (memo Revisions this date): the Dictatus
+  is undated ("perhaps spring 1076"), of uncertain authorship, and
+  "not… a blueprint for papal absolutism, but… the emergency
+  powers inherent in the Roman see" (p. 112, sidecar verified);
+  Worms partitioned the symbols IN GERMANY ONLY — elsewhere "far
+  more of the imperial rights were signed away" (p. 164), i.e.
+  jurisdiction-by-jurisdiction, the Epic–Apple shape; Canossa was
+  Henry's coup, not a measure of the claim's reach (pp. 116–17);
+  investiture became the central issue only after 1100 (p. 119);
+  Innocent III intervened *casualiter*, "by reason of sin" —
+  "forbids us to define Innocent's doctrine as a crudely
+  hierocratic or monarchical one" (p. 433, sidecar verified) —
+  and the apex of the claim is Innocent IV (p. 568). WHAT HE
+  SUPPLIES: the Innocent sentences closing the §II [GAP] ("who
+  judges all, and is judged by none," p. 431, sidecar verified);
+  RESCRIPT GOVERNMENT as the T2 account of how a universalism
+  acquires jurisdiction — "At the heart of what may seem a very
+  active administration the pope or king was passive" (p. 212);
+  "the litigants and the curia between them had conspired to
+  create a system of appeals of enormous range" (p. 575) — the
+  Oversight Board is a rescript tribunal; THE PAPAL FISC as the
+  disanalogy the chapter owes (Hadrian IV, "no one can make war
+  without pay," p. 214; the Liber Censuum's 1,214 gold ounces,
+  "less than 5 per cent of Richard I's annual income," p. 215;
+  the Papal State "created on the battlefields of Sicily and
+  Germany," pp. 421–2, sidecar verified) — a universalism that
+  could not pay for force; THE RATCHET IN THE ECCLESIASTICAL
+  REGISTER: "it was easier for the papacy to assume authority
+  than to restore it once regional powers had lost the directing
+  initiative" (p. 113, sidecar verified) — and it cuts both ways;
+  the territorial powers' switches (legate exclusion, suspended
+  appeals, Louis IX's enforcement condition, pp. 232–3, 557); the
+  military orders at T2-general (Pie postulatio 1113; "the
+  Templars were the first uniformed force in the new Europe,"
+  p. 280; the Golden Bull of Rimini 1226 and the 1234 papal
+  fief, p. 483 — Forey stays the specialist anchor, and the
+  Teutonic dating disciplines ch01's c. 1200 list). DISPUTE
+  RECORDED for critiques: Strayer/Berman ("the Gregorian concept
+  … almost demanded the invention of the state") v.
+  Morris/Tierney ("at best a half-truth," p. 553).

@@ -153,3 +153,38 @@ reserves the scholarly interpretive claims for the retrieval pass.
 - Is "three churches" presented as observed/modal, not derived from three popes?
 
 *(Run pending; results to be pasted below with date.)*
+
+## Revisions (2026-09-13 — integration run, PENDING HUMAN REVIEW)
+
+1. **Morris on jurisdiction, not sovereignty.** Steelman: "A papal
+   monarchy was in principle and in practice inconceivable"
+   (p. 1); the papacy had "no machinery for centralizing" the
+   bishops' powers (p. 112); absolutist claims were "rare,
+   unrealistic, and usually the polemical product of a critical
+   situation" (pp. 581–2); and the chapter's named spine
+   (Ullmann) is the reading the field has set aside. If the
+   medieval template is a sovereign monarchy, the chapter's
+   platform parallel inherits a construction the medievalists no
+   longer defend. Answer (assessment grade: GOOD, on condition):
+   the argument needs JURISDICTION over subjects also claimed by
+   territorial powers — which Morris confirms at full strength
+   ("Two coherent jurisdictions, temporal and spiritual, now
+   confronted one another," p. 555) — not sovereignty; and
+   Innocent's casualiter jurisdiction over sin fits the platforms
+   better than hierocracy would (they claim conduct, not
+   territory). Condition: ch02 drops Ullmann as spine and
+   restates Dictatus/Canossa/Worms per the memo. Diagnostic
+   claim 1 survives; its medieval warrant is restated.
+   Ruling-sheet §5(q).
+
+2. **Strayer/Berman v. Morris on the Church making the state.**
+   Recorded as contested interpretation (CLAUDE.md §4): Strayer's
+   "the Gregorian concept of the church almost demanded the
+   invention of the concept of the state" against Morris's "at
+   best a half-truth. The development of the state was primarily
+   a response to changing social, economic, and educational
+   conditions" (p. 553), with Morris's direction of copying
+   reversed (the papal household reorganised on the pattern of
+   the northern courts, p. 168). The book does not argue that
+   the Church made the state; Morris removes a rival mechanism.
+   No spine ruling reached.

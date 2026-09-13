@@ -326,3 +326,49 @@ STATUS: REVIEWED (Roderick, 2026-07-22) — cleared for drafting
   DSA-compelled process) is what the manorial frame cannot carry.
   CONTRADICTS: nothing in this chapter's claims; his state-position
   argument is engaged at ch12 critiques Revisions 4.
+
+## Revisions (2026-09-13 — integration run, PENDING HUMAN REVIEW)
+
+1. **(Morris read against the chapter — the template restated;
+   ruling sheet §5(q).)**
+   - CORRECTS (draft wordings; renovation items): "Gregory VII's
+     *Dictatus Papae* (1075)" → "1075 or 1076," authorship
+     uncertain, and its purpose "not… a blueprint for papal
+     absolutism" but a definition of EMERGENCY POWERS later read
+     as monarchic (pp. 112, 129) — cite Morris, not Ullmann;
+     Worms "partitioning the symbols" → true in Germany only,
+     the settlement already jurisdiction-by-jurisdiction
+     (p. 164); Canossa as a measure of the claim's reach →
+     Henry's coup, "he lost nothing further" (pp. 116–17) — say
+     "limits," or cut; Innocent III at the apex → occasional
+     intervention *casualiter*, by reason of sin, with the apex
+     in Innocent IV (pp. 433, 568). Ullmann demoted from
+     "scholarly spine" to superseded footnote.
+   - THE REFRAME (ruling sheet §5(q), stated not recommended):
+     restated in Morris's terms — emergency powers, casualiter,
+     jurisdiction over sin — the medieval template fits the
+     platforms BETTER than hierocracy did: they claim conduct,
+     not territory; the Oversight Board is a rescript tribunal;
+     and demand-pulled jurisdiction ("the apparatus… functioned
+     by response to appeals," p. 180) predicts the failure mode
+     — an institution that cannot form policy cannot resist a
+     state that can.
+   - ADDS: the papal fisc as the chapter's owed disanalogy (the
+     1,214 gold ounces; "no one can make war without pay"; the
+     Papal State as a by-product of imperial weakness) — the
+     universalism that could not pay for force, which sorts the
+     modern churches: the European platform-church stands where
+     the medieval one stood; the American one holds components
+     of the decisive stack the twelfth century never had; the
+     ratchet line (p. 113) for the close, cutting both ways —
+     the platforms' jurisdiction, once assumed by the state,
+     will not be restored to them either; the annexation argued
+     before it happened (the Berkshire rectors 1240; the 1247
+     protest that endowments "were the gift of kings and
+     princes," p. 559); Fourth Lateran c. 46's consult-the-
+     pontiff veto as the thing the Act of Supremacy removed.
+   - Varoufakis engagement note (per the rivals list): his
+     "why church and not fief" challenge is answered from
+     Morris's frame — the church is the institutionally
+     universal claimant with courts and canon; the fief is a
+     property relation. Cross-ref ch12 critiques Revisions 4.
