@@ -137,6 +137,40 @@ Bobbitt, Zielonka, Strayer, Elliott, İnalcık (OCR needed), Kafadar,
 Vaughan, Rogers ed., Miller, Brands, Gosztonyi & Gyetván. Loans
 stay unconverted per the standing rule — flagged for Roderick.
 
+## Batch 2 result (same date, second session) and the queue as it now stands
+
+Seven more works intaken 2026-09-13, each read in full, each a
+committed unit: **Sharman** (T2 — Obj. 7 Sharman limb closed by
+scope, his own p. 9; French 1440s wholly absent), **Spruyt** (T2 —
+arrow-reversal rival; "cannon"/"siege" zero occurrences; Hansa died
+without a battle), **Basin–Samaran T.I** (T1/T2 — Praguerie carries
+NO reform link in the contemporary witness, provenance corrected;
+taille denunciation is in Tome II, now a retrieval row), **Yergin**
+(T3 upper — $900m endpoint traces to Nevins; TRC migration
+narrative; Anglo-Persian type-case), **Andrade** (T2 — Obj. 7
+authority supplies the walls-conditionality answer verbatim; caveat
+fully closed with Sharman), **DeVries *Guns and Men*** (T2 — closes
+the Castillon-authority gap Howard left; Formigny tactical detail
+still open; 100dpi digit-corruption caveat), **Bratton complete
+e-book** (T2 — re-pin concordance from the print index; the
+"printed pagination" inventory claim corrected; MUSE chapter PDFs
+= assembly-grade route). Assembly re-run: flags unchanged at 111
+(no draft.md touched; closable flags close at renovation).
+
+Queue for the NEXT batch, in order: 1. **Hoffman** (the named open
+limb of Obj. 7 — his price-of-violence model is not in Andrade);
+2. **Hall** (ch06 tipping-point GAP; also holds the "modern
+ordnance synthesis" coinage Andrade attributes to him);
+3. **Rogers (ed.), The Military Revolution Debate** (carries
+Roberts 1956; Obj. 6/7 apparatus); 4. **Scheidel**; 5. **Strayer**
+(Spruyt leans on him — check the Tilly-flagged chronology);
+6. **Freedman** (ch06 §VI knock-out-blow GAP). Then: Miller,
+Bobbitt, Zielonka, Elliott, İnalcık (OCR), Kafadar, Vaughan,
+Morris (LOW), Nicholson arrival (LOW), Brands, Gosztonyi &
+Gyetván. New retrieval rows this session: Basin–Samaran Tome II
+(1944); Histoire de Louis XI (Samaran); Project MUSE Bratton
+chapter PDFs. Loans stay unconverted — flagged for Roderick.
+
 ---
 
 # Outstanding sources — the reconciled list, 2 September 2026 (updated after the second-pass pulls)
