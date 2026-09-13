@@ -49,3 +49,18 @@ STATUS: REVIEWED (Roderick, 2026-09-02 — review pack)
    multi-path concession can carry this as its T2 anchor: the
    mechanism's ancestor himself expected the system to change
    form. Holding note only; placement at coda drafting.
+
+3. **(2026-09-13 — integration run: the coda's shelf from the
+   September intake. PENDING HUMAN REVIEW.)** The tempo
+   correction is the load-bearing item: "ended within two
+   generations" → "became irreversible within two generations"
+   (Scheidel; ruling sheet §5(c) — the same locked-not-ended
+   register item as ch01 §VI). The rest are pointers entered in
+   sources.md this date: Hoffman's armed-peace precedent for the
+   confessed limit; Freedman's refusal-to-predict as the claimed
+   method, with Arendt's objection quoted and answered; Kafadar's
+   motive-force distinction under §8(a); Elliott's aeque
+   principaliter close as the failure's shape; Strayer's
+   exhausting-war sentence for the Tilly differentiation; and
+   the Tilly p. 225 blocs/corporations passage already held at
+   holding note 2. Proposals only; the coda remains undrafted.
