@@ -586,3 +586,75 @@ Drafting of ch08/draft.md may now proceed against this reviewed memo (§7).
 ---
 
 STATUS: REVIEWED (Roderick, 2026-07-23) — cleared for drafting
+
+6. **(2026-09-13 — integration run: the Paston re-pinning and the
+   1448–52 file. PENDING HUMAN REVIEW.)**
+   - THE RE-PIN (STEP 0 special case): the corpus Paston is
+     Gairdner 1872 vol. I, not the 1904 library edition. All four
+     §I–II citations re-set: petition = 1872 vol. I no. 77,
+     pp. 105–8; Chancellor bill = no. 107, pp. 143–45; Osbern =
+     no. 159, pp. 213–15; and the notes reading "vol. II" /
+     "no. 193" are wrong against this edition. Davis stays
+     citation of record when retrieved.
+   - TEXT CHECKS: three quotations verbatim; the Osbern line is
+     smoothed in the draft ("Also he seythe that…" v. the
+     edition's "Also, as he seyth, now late the Lord Molyns hath
+     sent hym a letter") — conform at renovation. DATING: Gairdner
+     1872 prints the eviction as 28 January 1450 against the
+     draft's 1449; his headnotes are internally inconsistent and
+     the petition's own chronology supports 1449, but the note
+     must acknowledge the discrepancy or cite Davis.
+   - ADDS (proposals, no draft text): Margaret's crossbow/hand-gun
+     letter (no. 67 — the loopholes "scarse kne hey fro the
+     plawncher," arms sourced from Fastolf's arsenal) beside the
+     DeVries private-gun catalogue in §II; the Nowell forslet
+     (no. 179) and Norfolk's county-rule proclamation (no. 173)
+     for §II's texture; Fastolf's 21,099-mark claim (no. 263) as
+     the arrears-economy footnote (ch10 cross-ref).
+   - CAUTION (from the file itself): the draft's "Recovery of the
+     manor … followed the fall and murder of Suffolk" is the
+     chapter's inference, not a letter's statement — the letters
+     show Paston still suing after May 1450 and Moleyns probably
+     acquitted (headnote to no. 159). Keep, but tag as inference.
+
+7. **(2026-09-13 — integration run: Payling, Baker, Dean — the
+   "outspent" verb and the sequencing corrected. PENDING HUMAN
+   REVIEW.)**
+   - CORRECTS (§I): the failure point of English royal justice
+     relocated from the sheriff to the King's PARDON (Payling
+     pp. 10, 15–16) — the draft's reading of "not abille to sue
+     the commone lawe" as court failure against might must carry
+     Payling's correction: the leak was the crown's own mercy.
+     (§II): "the plurality was the practice" leans on the
+     self-regulating-community school Payling attacks — the
+     draft must name the dispute and take a side. (§IV): Dean's
+     cases are Bolognese and Lucchese AGAINST the Florentine
+     picture; Dean and Zorzi disagree — record the two sides,
+     do not run them together; "feud" confined to the German
+     Fehde. (§V): the lex-mercatoria dismantling dates to Baker
+     1979, before Kadens — re-date; Admiralty was captured
+     business, not knife-fight (Baker p. 309).
+   - THE SEQUENCING FINDING (synthesis §5(o), ruling sheet):
+     "outspent" is the wrong verb for England's law. Payling's
+     Crown is unwilling, not weak ("a tolerance of violence on
+     the part of a martial aristocracy"); Baker's merchant-court
+     absorption is professional and procedural (assumpsit, writ
+     of error, 1477), nothing fiscal in sight, unfinished in
+     1700; Dean's Italy criminalises vendetta c. 1300, a century
+     before the fisc. The chapter's claim survives as SEQUENCE,
+     not payment: the settlement bought ENFORCEMENT, not law —
+     "the courts bit only when the exchequer paid the men who
+     staffed them" (Dean's Naples-1430s / Mantua-1446–47 /
+     Bologna-1450 salaried officers are the dated Italian
+     evidence); and the honest line for England is that
+     toleration was the price of a crown that could not pay for
+     the alternative, which stopped tolerating when it could
+     (Stourton, 1557) — graded PLAUSIBLE, UNPROVEN by the
+     assessment; carried as the book's argument, tagged (c).
+   - ADDS: Holt C.J. 1702 ("invented in Lombard-street …
+     attempted … to give laws to Westminster Hall") for §VI —
+     the terms-of-service objection stated at source; Baker's
+     dated instruments 1466–1520s for §VII; Dean's disarming
+     sentence (p. 170) and the licensed duel (pp. 178–81); the
+     Chaworth petition of 1465 (the community asking the state
+     for the deterrent it would not supply, Payling p. 13).

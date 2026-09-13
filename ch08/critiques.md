@@ -201,3 +201,50 @@ evidence first-hand where it is load-bearing.
   ch09 without summarising?
 
 *(Run pending; results to be pasted below with date.)*
+
+## Revisions (2026-09-13 — integration run, PENDING HUMAN REVIEW)
+
+1. **Payling and Baker — "outspent" is the wrong verb for
+   England.** Steelman: Payling's Crown was not priced out of
+   justice; it was UNWILLING — "royal justice was evenhanded in
+   its negligence" (p. 10); the deterrent that worked was
+   "private vengeance" (p. 16); and the pardon, the crown's own
+   instrument, was the leak. Baker: the merchant courts were
+   absorbed by PROCEDURE — assumpsit, writ of error, the 1477
+   statute — "no 'incorporation of the law merchant' into the
+   common law before the eighteenth century" (p. 320); nothing
+   fiscal or military anywhere in the story. If the plural legal
+   order was tolerated rather than unaffordable, and absorbed by
+   professionals rather than by money, §VII's "not argued out of
+   existence; it was outspent" fails for England. Answer (the
+   assessments' grading preserved): claim sequence, not payment —
+   the settlement bought enforcement, and the courts' reach
+   followed the fisc's (Baker's dates fall inside the window;
+   Payling's 1557 threshold follows the Tudor fisc) — with the
+   England line carried as the book's own argument at (c), graded
+   PLAUSIBLE, UNPROVEN: toleration was the price of a crown that
+   could not pay for the alternative; it stopped tolerating when
+   it could. State it so, or drop the verb.
+
+2. **Dean — the law came a century before the fisc.** Steelman:
+   the criminalisation of vendetta, the composition→punishment
+   turn, ex officio inquisition and the Bargello are communal
+   achievements of c. 1300–1340 ("from early in the fourteenth
+   century, legal vocabulary changes … 'pax non prosit'," p. 125;
+   Florence's Bargello 1315/1335); "the absence of linear
+   evolution" (p. 51) denies any single trajectory; none of it
+   waited on gunpowder or a permanent tax. Answer (graded
+   ADEQUATE, three moves): (i) Dean's own qualification — the
+   communal machine was "'fierce', but 'inefficient'" (p. 18),
+   assertion without enforcement, the same shape as the 1495
+   Landfriede control case; (ii) where enforcement hardens it is
+   princely, salaried and dated to the hinge decades (Naples
+   1430s; Mantua 1446–47; Bologna 1450); (iii) the communes are
+   the precocious small-scale case already conceded in ch04.
+   Reformulation for §I at renovation: the LEGISLATIVE claim to
+   monopoly long predates the settlement in Italy; what the
+   settlement supplied was enforcement. "The law did not tame
+   the sword until the exchequer could pay for both" survives;
+   "the courts followed the companies" does not, for Italy. And
+   the management-of-enmity sentence needs a tense: right for
+   the thirteenth century, increasingly wrong after 1300.

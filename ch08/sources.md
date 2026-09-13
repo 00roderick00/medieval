@@ -227,3 +227,140 @@ accordingly.*
   Paston's Caister 1469; Stanley's cannon "Mile End" at Hornby
   1471. Private artillery as the symptom of the suppression that
   did NOT happen in England.
+
+## Added 2026-09-13 — integration run (September-intake assessments; pins verified against sidecars)
+
+- **T1 — *The Paston Letters*, ed. James Gairdner, vol. I:
+  1422–1461 (Arber "Annotated Reprints," 1872)** — IN REPO (sidecar
+  `text-2026-09-13b/Paston-Arber.txt`; letters printed page =
+  PDF−154; the Introduction is roman-paginated). STEP 0 SPECIAL
+  CASE: this is the 1872 edition, NOT the 1904 library edition —
+  its letter numbering differs, so EVERY citation in this chapter
+  given as "vol. II" or by 1904 number must be re-pinned to THIS
+  edition (the four current pins re-set: the Gresham petition =
+  vol. I, no. 77, pp. 105–8; the Chancellor bill = no. 107,
+  pp. 143–45; the Osbern letter = no. 159, pp. 213–15); DAVIS
+  remains citation of record when retrieved — use this file to
+  verify text in the interim. TEXT CHECKS: three of the four §I–II
+  quotations match verbatim (sidecar verified: "gret myght and
+  alyaunce"); the Osbern quotation is smoothed — this edition
+  reads "Also, as he seyth, now late the Lord Molyns hath sent
+  hym a letter" — conform to whichever edition the note cites.
+  OCR TRAP: the petition's "humble liege man" scans as "horrible"
+  — never quote from the OCR unchecked. DATING CAUTION: Gairdner
+  1872 dates the Gresham eviction 28 January 1450 (headnotes to
+  nos. 62, 77), against the draft's 1449; his own headnotes are
+  inconsistent and the petition's internal chronology reads most
+  naturally as 1449 (the modern dating), but the draft must not
+  cite Gairdner 1872 for 1449 without noting he printed 1450.
+  WHAT THE FILE ADDS (all T1, pins verified): Margaret's Gresham
+  letter, c. 1449 (no. 67, pp. 82–3) — crossbows begged from
+  Fastolf because the house is too low for longbows, and Moleyns's
+  men cutting hand-gun loopholes "scarse kne hey fro the
+  plawncher" — gunpowder weapons in a gentry house-war a
+  generation before Caister; the Nowell "forslet" information of
+  1452 (no. 179, pp. 237–40) — a private fortress in Norfolk,
+  armed sorties, and victims who "darnot abyde in her howses …
+  wyth owte they take gretter people abowte hem then acordith to
+  her degre" (the arms-race logic of a plural order, stated by
+  its victims); Norfolk's proclamation of April 1452 (no. 173,
+  pp. 229–31) — "nexst the Kynge … we woll have the princypall
+  rewle and governance throwh all this schir … whyls that we be
+  lyvynge" (the keyring of jurisdictions in a duke's own voice —
+  also ch05); Payn's letter on Fastolf's Southwark garrison of
+  "the olde sawdyors of Normaundy" and Cade's herald blaming the
+  captains (no. 99, pp. 132–33 — for ch07); Fastolf's
+  21,099-mark claim against the Crown (no. 263, pp. 358–66 — the
+  arrears economy, for ch10); York's gun-train at Dartford 1452
+  (Appendix 4, p. cxlviii — chronicle figure, discount as such).
+  Gairdner's Introduction is T3 (Victorian narrative): the
+  Somerset-1449 summary at p. xli routes to Rolls of Parl. v.
+  147 (T1) — for ch06.
+
+- **T2 — S. J. Payling, "Murder, Motive and Punishment in
+  Fifteenth-Century England" (*EHR* 113, 1998)** — IN REPO
+  (sidecar `text-2026-09-13b/Payling.txt`; printed = PDF;
+  footnotes badly garbled, body clean). USE-NOTE: the corrective
+  to the §I Paston reading, BY NAME. The failure point of
+  fifteenth-century justice was not the sheriff but the King's
+  mercy: "the principal problem lay in the ease with which the
+  indictments were subverted by appeal to the King's mercy …
+  anyone of landed rank could rely on a pardon" (pp. 15–16);
+  "royal justice was evenhanded in its negligence" (p. 10,
+  sidecar verified); "the chief deterrent to murder among the
+  landed class lay not in fear of the courts but in the threat of
+  private vengeance" (p. 16). CONFIRMS §II's enlisted-justice
+  reading at T2 (Say trading pardons for Kentish manors via Queen
+  Margaret, p. 8 — also ch07: the Treasurer beheaded in 1450 had
+  been selling mercy two years earlier); and §VII's sequence (the
+  Stourton execution of 1557 as the threshold: "a far lower
+  tolerance of aristocratic crime by the mid-sixteenth century,"
+  p. 17). DISPUTE RECORDED: Payling v. the
+  self-regulating-community school he attacks by name (Maddern,
+  Powell, Carpenter, p. 1 n. 1) — the draft's "the plurality was
+  the practice" leans on the side Payling attacks and should say
+  which side it takes. His open question ("when and why the Crown
+  abandoned its indulgent attitude…") is the one the book
+  answers — say so. THE OBJECTION (critiques): the Crown was not
+  weak but UNWILLING — "a tolerance of violence on the part of a
+  martial aristocracy" — so "outspent" is the wrong verb for
+  England's law.
+
+- **T2 — J. H. Baker, "The Law Merchant and the Common Law before
+  1700" (*CLJ* 38, 1979)** — IN REPO (sidecar
+  `text-2026-09-13b/Baker.txt`; printed = PDF+292). USE-NOTE: the
+  founding demolition of the lex mercatoria myth, twenty-five
+  years before Kadens — §V should date the dismantling to Baker
+  1979 and cite him AHEAD of Kadens. The law merchant was "an
+  expeditious procedure especially adapted for the needs of men
+  who could not tarry for the common law" (p. 301, sidecar
+  verified), not a substantive code; "Mercantile customs were
+  either local facts or they were the common law of England"
+  (p. 321); the reviver of the romantic account named (Berman &
+  Kaufman 1978, p. 296 n. 5). THE ADDITION FOR §VI: Holt C.J. in
+  *Clarke v. Martin* (1702) on promissory notes — "invented in
+  Lombard-street, which attempted in these matters of bills of
+  exchange to give laws to Westminster Hall" (p. 299 n. 18) — the
+  platform terms-of-service objection stated in 1702. THE DATED
+  INSTRUMENTS for §VII: 1466 (error from a steward's court); 17
+  Edw. IV c. 2 (1477, feigned actions confessed); Dudley's
+  reading c. 1490 (forfeiture of the abused fair-court);
+  assumpsit reaching the piepowder courts by the 1520s — the
+  absorption BY PROCEDURE, inside the chapter's window. THE
+  OBJECTION (critiques): the driver is professional and
+  procedural, nothing fiscal or military in sight, and the
+  incorporation unfinished in 1700 — "outspent" gets no support
+  from the English law merchant.
+
+- **T2 — Trevor Dean, *Crime and Justice in Late Medieval Italy*
+  (Cambridge, 2007)** — IN REPO (sidecar
+  `text-2026-09-13b/Dean.txt`; printed = PDF−12; clean).
+  USE-NOTE: now the standard synthesis for §IV — displaces the
+  "scholarly apparatus" wording, BY NAME, with the DISPUTE
+  RECORDED: Dean v. Zorzi (the draft has them singing together;
+  Dean argues AGAINST Zorzi's "culture of vengeance," objects to
+  his *faida* vocabulary, and says he "misreads" the Parma
+  statutes, pp. 124–5 nn.). CORRECTIONS: his cases are Bolognese
+  and LUCCHESE set against the Florentine picture (not "Bolognese
+  and Florentine"); "there is no word corresponding to 'feud'" in
+  the Italian usage — confine "feud" to the German Fehde.
+  CONFIRMS at T2: vendetta law-entangled (secondary vendetta
+  penalised with death or multiplied penalties, p. 129; Palermo's
+  "in the ordinary courts," p. 130); the composition→punishment
+  turn c. 1300–1340 ("pax non prosit," p. 125, sidecar verified);
+  Bologna 1492–3 refusing to cancel trials lest subjects "set to
+  taking revenge … in place of that which belongs to the Podestà"
+  (p. 125). ADDS: the Italian sub-sequence for §VII — Naples from
+  the 1430s (Spanish-style police who try and execute), Mantua
+  1446–47 (hired ducal officials replacing unpaid local ones),
+  Bologna 1450 (Bargello; militarised enforcement), princely
+  severity 1450s–60s — salaried foreign executive officers in
+  the hinge decades, at city scale; "the militarisation of
+  political power seems to have been accompanied by a disarming
+  of the citizenry" (p. 170, sidecar verified) — the monopoly of
+  violence seen from the trial register; the licensed duel as
+  managed exit (pp. 178–81); "ne crimina remaneant impunita" as
+  the mobilising rationale (p. 87). THE OBJECTION (critiques):
+  the criminalisation of vendetta is a communal achievement of
+  c. 1300, a century before the fisc — the sequencing sentence
+  must be re-cut.
