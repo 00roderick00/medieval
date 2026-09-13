@@ -224,3 +224,17 @@ Belloc, *The Modern Traveller* (1898) — public domain, one click (ch06 §VI co
 ## Standing rule
 
 Nothing here may be cited as consulted until its PDF (or page images / verified text) is in `corpus/retrieved/` and the work is entered in the chapter's sources.md with page pins; Cambridge and Internet Archive loans are read and pinned during the loan, never converted to unrestricted files (CLAUDE.md §4).
+
+## Integration run 2026-09-13 — STEP 2 sync
+
+All forty-nine September intake works are IN REPO (retrieval-master
+STEP 0 section); three special cases executed (wrong-book Nicholson
+archived; Eisenstein = Chinese translation, pins only; Paston =
+Gairdner 1872 vol. I, re-pin ch08). Twenty-one retrieval rows added
+from synthesis §8 (retrieval-master STEP 2 section) — the critical
+path items: Samaran tome II (doubly mandatory — all
+Quicherat-carried Castillon pins re-read there); Henneman/Wolfe
+(the 1360s and the machinery); the English Eisenstein; Davis's
+Paston; Harvey/Bohna (the Cade re-sourcing); Chambers & Pullan
+(the bocche di leone); Hale 1965; Holman 2014; Nevins ii; Mueller
+vol. II + Luzzatto.

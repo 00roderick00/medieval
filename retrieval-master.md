@@ -706,7 +706,7 @@ session; the dependent claim is named in the draft flag.
 | Worcester, *The Boke of Noblesse* (ed. Nichols, Roxburghe Club 1860; Gutenberg #33953) | ch06 §VI / counter-argument section — the English finance-first post-mortem: Nichols p. 74 (wanhope / "no trust of hastie socoure"; "penurie of money, and lak of provision of artillerie"); pp. 29–30 ("defaute of exercising of armes… coloure of trewes"). CAUTION: the "Defectus pecuniae" rubric (pp. 33–34) glosses the King John 1203 exemplum, not 1449–50 | — | **IN REPO 2026-09-02** (`corpus/retrieved/Worcester-Boke-of-Noblesse-Gutenberg.txt`, Nichols pagination preserved as `{n}` markers; passages verified). Enter in ch06/sources.md at T1 on integration |
 | Michael Howard, *War in European History* (OUP 1976) | ch06 §V/§VI — the Castillon dissent; ch10 §VII | MED | **INTAKEN 2026-09-13** — read in full at T2 (1977 reprint scan; OCR sidecar in source-library; printed = PDF−6/−8). **THE ATTRIBUTED SENTENCE IS NOT IN THE BOOK — no Castillon, no Formigny, text or index.** The real Howard: p. 14 (the reconquest in aggregate, supporting the mechanism) and pp. 30–31 (field-vs-siege cost-effectiveness — the genuine dissent, to be restaged at renovation); p. 18 carries the 1439-grant tradition; p. 62 the structures-over-tools reversal (ch10 memo Revisions 20). Entries: ch06 sources + memo Revisions 18; ch10 sources + memo Revisions 20 |
 | Michaud-Fréjaville on the *Recouvrement* tradition's interdependence (exact article to identify); Contamine, "Un regard sur le Recouvrement de Normendie" | ch06 apparatus — the source-independence caution (Recouvrement/Chartier/Berry Herald/Escouchy as one victory tradition); attribution unverifiable until the article is in hand | MED | Persée / OpenEdition — route to verify; identify the exact reference first |
-| Basin, *Histoire de Charles VII* (ed. Samaran) | ch05/ch06/ch10 | MED→**HIGH** | **TOME I (1407–1444) INTAKEN 2026-09-13** — read in full (T1 in T2 edition; printed = PDF−50; hostile exile, composed 1471–2; never sole authority for dates — Samaran's own verdict p. xviii). Praguerie chapter has NO reform link (princely-ambition framing, Bourbon "principal auteur", pp. 256–9) — provenance correction at ch10 memo Revisions 23 / ch05 memo Revisions 8; écorcheur diagnosis pp. 236–7; Pontoise 1441 artillery set-piece pp. 262–75 with Samaran's bridging n. 1 p. 271 (ch06 sources + memo Revisions 19). **STILL WANTED: SAMARAN TOME II (Books IV–V, 1445–1461, Les Belles Lettres 1944)** — Castillon temerity/divine-vengeance at first hand, the taille denunciation, the 15-companies attribution; and the *Histoire de Louis XI* (Samaran, 3 vols, 1963–72) for the consent argument. Quicherat scans remain the open fallback |
+| Basin, *Histoire de Charles VII* (ed. Samaran) | ch05/ch06/ch10 | MED→**HIGH** | **TOME I (1407–1444) INTAKEN 2026-09-13** — read in full (T1 in T2 edition; printed = PDF−50; hostile exile, composed 1471–2; never sole authority for dates — Samaran's own verdict p. xviii). Praguerie chapter has NO reform link (princely-ambition framing, Bourbon "principal auteur", pp. 256–9) — provenance correction at ch10 memo Revisions 23 / ch05 memo Revisions 8; écorcheur diagnosis pp. 236–7; Pontoise 1441 artillery set-piece pp. 262–75 with Samaran's bridging n. 1 p. 271 (ch06 sources + memo Revisions 19). **STILL WANTED: SAMARAN TOME II (Books IV–V, 1445–1461, Les Belles Lettres 1944) — DOUBLY MANDATORY per the integration run: every Castillon, Bureau and quindecim pin currently carried under Quicherat (Samaran: "une copie postérieure de près d'un siècle … parfois assez corrompue") must be re-read in tome II before it stands, and Cosneau's Basin pins run through it too** — plus the taille denunciation and the 15-companies attribution; and the *Histoire de Louis XI* (Samaran, 3 vols, 1963–72) for the consent argument. Quicherat scans remain the open fallback |
 
 Also noted in ch06/normandy-council-assessment.md: ch06/sources.md
 lacks an entry for Stevenson's *Narratives of the Expulsion*
@@ -963,3 +963,35 @@ Cosneau's pièces LXXII–LXXXVII (OCR'd, partial).
    number must be re-pinned to THIS edition's letter number and
    page; Davis remains citation of record when retrieved; Gairdner
    vol. II (Caister 1469) still wanted.
+
+## 2026-09-13: integration run, STEP 2 — retrieval consequences of the September intake (synthesis §8, both paragraphs)
+
+Each row: work | why wanted | chapter blocked on it. (Belloc 1898,
+named in §8's first paragraph, arrived in the second batch and is
+IN REPO — no row. The Samaran tome II row created at the Basin flip
+above is AMENDED: doubly mandatory, since Cosneau's Basin pins for
+Castillon also run through it.)
+
+| Work | Reason wanted | Blocked |
+|---|---|---|
+| Henneman, *Royal Taxation in Fourteenth-Century France*, vols 1–2; Wolfe, *The Fiscal System of Renaissance France* | the 1360s first-making of permanence and the machinery — the critical path for ch10 §III's corrected consent sentence (Hoffman p. 135 carries Henneman at second hand; Hall p. 224 carries Wolfe 25–52) | ch10 |
+| Holman, *The Next War in the Air* (2014) | the knock-out-blow genealogy Freedman cites (his pp. 56–7) — the Belloc replacement anchor | ch06 §VI |
+| Nevins, *Study in Power*, ii. 404–05 | the ultimate carrier of the $900m figure both trade biographies lean on | ch12 probe |
+| Braudel, *The Perspective of the World*, p. 720 | the Italian revenue figures Bobbitt cites (Florence > England; Venice +60% over France) | ch04 §II |
+| Stern, *The Company-State* | the EIC as company sovereign at T2 (Sharman's own base) | ch03/ch12 |
+| Coville, *Les Cabochiens* | the ordonnance's text behind Vaughan's account | ch07 §III |
+| Zhang Wen on guns and the *tusi* | the Chinese suppression-of-intermediaries case Andrade reports at second hand | ch06/ch10 critiques |
+| Aksan (2011) | the EIC-versus-sultan spending comparison Sharman cites | ch11 |
+| Howard 1976, printed p. 14 — physical copy check | a block of lines lost to the scan; PENDING VERIFICATION before Howard is named either way | ch06 |
+| Mueller, *The Venetian Money Market* (vol. II, 1997); Luzzatto, *I prestiti* (PRV) | the actual carriers of the 1262/Monte Vecchio debt dependencies — Lane & Mueller vol. I does not contain them | ch04 §VI / ch10 |
+| Chambers & Pullan, *Venice: A Documentary History* | the bocche di leone — nowhere in Lane; RE-SOURCE OR CUT pends on this | ch04 §VI |
+| Nicholson, *Templars, Hospitallers and Teutonic Knights* (1993) OR Forey, *The Military Orders* (1992) | the institutional history the ch01 §II [GAP] needs — the arrived Nicholson is the wrong book (archived) | ch01 |
+| Eisenstein, *The Printing Press as an Agent of Change* — ENGLISH edition (1979, or 2005 abridgement) | the corpus file is the Chinese translation: pins usable, no quotation may be carried until the English text is in | ch11 §V / ch02 |
+| Davis (ed.), *Paston Letters and Papers*; Gairdner vol. II | Davis is citation of record for every Paston pin; vol. II carries Caister 1469 | ch08 |
+| Harvey, *Jack Cade's Rebellion* (1991); Bohna's fuller apparatus | the pardon-roll reply to Griffiths — the "gentry skeleton" must re-source here or be cut | ch07 §I |
+| Curry 1994 and 2010 | the Lancastrian establishment figures (3,500→2,100 v. "some 2,500") need reconciling at source | ch06 §V |
+| Hale, "Gunpowder and the Renaissance" (1965 essay) | DeVries writes in its defence; the Hale dissent is now load-bearing in two chapters' critiques | ch06/ch10 |
+| Zorzi on Florentine vendetta | Dean argues against Zorzi; both sides of the recorded dispute must be citable | ch08 §IV |
+| Ross 1974; Hoyle | the chamber-finance historiography around Grummitt | ch11 §II |
+| Franz, *Quellen* | the 1502 Bundschuh sentence Scott & Scribner do not carry | ch07 §V |
+| Wæver, "Imperial Metaphors," in Tunander et al. (1997) | the concentric-circles empire pin Zielonka actually cites (not the JCMS 1996 piece) | ch01/Appendix A |
