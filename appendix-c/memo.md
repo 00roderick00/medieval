@@ -853,3 +853,62 @@ job; assembly per the directive above.*
      passes.
 
 STATUS: PENDING HUMAN REVIEW (running file)
+
+## Revisions (2026-09-13 — integration run, per instruction STEP 2.3; PENDING HUMAN REVIEW)
+
+Candidate indicators from the September intake, each with its
+source; NO indicator is generated without a dated baseline —
+those lacking one are marked NEEDS BASELINE.
+
+1. **Hoffman's falsifier** (Hoffman p. 66: a hegemon ends
+   learning-by-doing). Candidate scored falsifier: a single bloc
+   achieving stack hegemony would, on the rival engine's own
+   model, end the innovation the stack runs on — the wager's
+   four-bloc geometry is load-bearing, and a single winner is a
+   named failure mode. NEEDS BASELINE (a dated measure of
+   inter-bloc frontier-model/foundry competition; candidates
+   exist in C10-2's series but none is yet designated).
+
+2. **Scheidel's capstone sub-wager** (Scheidel pp. 339, 479–81:
+   under monopoly "the government can flip the switch off";
+   maintenance-oriented consolidation loses the tournament).
+   Candidate: a bloc whose absorption of the stack closes the
+   switch on its own research base forfeits within the horizon.
+   NEEDS BASELINE (a dated openness measure for each bloc's
+   research frontier).
+
+3. **Andrade's breakable-defence condition** (Andrade ch. 6: the
+   ratchet needs a breakable defence — thin walls made guns pay;
+   Suzhou's did not). Candidate: score whether the present
+   defence is "thin" — whether the defensive stock (hardened
+   networks, dispersed manufacture, air defence) is outrunning
+   the offensive stack, which would idle the mechanism as
+   Chinese walls idled the bombard; the Arnold/Hall
+   trace-italienne reversal (ch06 critiques Revisions 7–8) is
+   the historical precedent that a defensive counter-technology
+   can re-open the gap for two generations, and the timetable
+   must allow for it. NEEDS BASELINE.
+
+4. **Johns's steam threshold** (Johns p. 629: capital intensity
+   in print arrived with steam). The capital-intensity test for
+   a MEDIUM: an information medium enters the mechanism's scope
+   only when its productive frontier is steam-priced (fabs,
+   frontier training runs), not hand-press-priced (posting,
+   fine-tuning, open weights). C11-1's fifth column should carry
+   the 1695 licensing-lapse precedent as a stated failure mode.
+   Baseline: the frontier-training-cost series already carried
+   in the C10 set (designate it); the hand-press end NEEDS
+   BASELINE if scored separately.
+
+5. **Baselines now available from the intake** (for existing
+   rows, not new indicators): Zielonka p. 96 as the EU fiscal
+   ZERO (1.27 per cent, 2005) with NGEU 2020 as the precedent
+   the own-resource proposals extend (Ferguson p. 498) — C11-1;
+   Hicks 2020 ("likely to decline," p. 419) and Schake 2020
+   (p. 399) as the defence-spending counter-baselines the Hague
+   pledge moved against — the context variable; the
+   2016–20 denial-regime series (ZTE/Jinhua/Huawei/FDPR — Miller;
+   Brands) re-dating C10-2's baseline; the "one integrator,
+   American-held nodes" correction so C10-2 scores the right
+   object; Bobbitt 2002 ("regulations will always come too
+   late") as a dated counter-prediction now scoreable.
