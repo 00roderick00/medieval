@@ -304,3 +304,16 @@ as written.
 ---
 
 STATUS: REVIEWED (Roderick, 2026-07-22) — cleared for drafting
+
+## Revisions (2026-09-13 — integration run, PENDING HUMAN REVIEW)
+
+1. **(Pointer intake.)** CORRECTS: the 1390 livery rule (peers
+   only; household exception; life indenture — Lander p. 33)
+   against §II's "livery restricted to household men in 1390";
+   the 1504-as-destination sentence gains its Lancastrian
+   ancestor (York's 1454–5 licence, Plummer p. 337). ADDS:
+   Calais/Staple as the contractor-state exhibit; the
+   fined-then-licensed Bergavenny pair as private force
+   switchable by the crown; Vaughan's clientage figures standing
+   in until *Philip the Good* arrives; the Cosneau destruction
+   commissions at T1. All proposals; no draft text.

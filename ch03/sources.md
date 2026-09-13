@@ -147,3 +147,51 @@ retrieval-master.md on any retrieval.*
   critiques Revisions 2. Also usable: the VOC-demise concession he
   raises and deflects (p. 81) and the EIC credit-drain explanation
   (p. 94), which is a permanent-finance mechanism in all but name.
+
+## Added 2026-09-13 — integration run (pointer entries; pins verified; full entries at the named chapters)
+
+- **Plummer (1885), T2-dated:** the coinage at source — "bastard
+  feudalism" is Plummer's, 1885 ("that bastard feudalism, which…
+  surrounded the great man with a horde of retainers," p. 15), and
+  a slur ("an ignoble caricature of the feudal system… a hierarchy
+  of corruption," p. 25); §II should date and characterise the
+  coinage. The 1390 livery rule corrected: only peers might give
+  liveries, household servants excepted, knights and esquires by
+  life indenture (Lander p. 33). And the 1504 licence's
+  Lancastrian ancestor: York as Protector, 1454–5, licensed to
+  give the king's livery to eighty gentlemen sworn "to be afeed
+  with no man but with the king withoute his speciall licence"
+  (Plummer p. 337, from P.P.C. vi. 209) — the paperwork is
+  Lancastrian; 1504 generalised it.
+- **Lander, T2 (full entry at ch11):** Calais as contractor state —
+  the act of retainer (1466/1473): the Staple took over Calais's
+  financial responsibility against a £32,861 debt, urged in 1464
+  to increase "their artillery and war stores" (pp. 166, 193–7) —
+  a fiscal-military function delegated to a private corporation,
+  "operative but never invested" in period form; the licence both
+  ways (Bergavenny fined for 471 retainers in 1507, licensed "to
+  retain as many men as he can get" for the 1512 invasion,
+  p. 290) — private force as a switchable state resource.
+- **Vaughan, T2 (full entries at ch05/ch07/ch10):** court
+  clientage one generation before the [GAP: Vaughan, Philip the
+  Good] — 315 gold planes given in 1406, 200 gold and 300 silver
+  in 1411; Lorraine's 2,000-franc fief-rent; court cost above a
+  quarter of ducal revenue (pp. 234, 257, 120).
+- **Cosneau pièces LXXXI–LXXXII, T1 (full entry at ch10):** the
+  destruction phase of the export–absorption–destruction sequence
+  — commissions to hunt soldiers living off the country "par voye
+  de fait et main armée," advance pardon for killings (pp.
+  605–09); the 1444 export "en maniére que la force et auctorité
+  nous demeure."
+- **Strayer, T2 (full entry at ch01):** the affinity feeds on the
+  state — "the purpose of the political game was not to create a
+  new government, but rather to get control of some part of the
+  existing government" (pp. 62–3); with the Strayer–McFarlane
+  disagreement on the disorder's cause recorded.
+- **Parker (in Rogers ed.), T2:** "in all Europe, only Oliver
+  Cromwell managed to… wrest political power from his civilian
+  employers"; "War departments proliferated in every country,
+  squeezing out military entrepreneurs" (p. 45) — the
+  domestication claim at its widest; Hoffman's Wallenstein datum
+  (a self-financing army of 50,000 feasible where 20,000 was not)
+  as the scale footnote.
