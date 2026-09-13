@@ -149,6 +149,31 @@ above (CLAUDE.md §4). URLs in the session research record.*
   the systems that China also relies on to control its nuclear
   forces"). Integration: memo Revisions 1 (post-review).
 
+## Added 2026-09-13 — source intake (read in full)
+
+- **T3 — Yanis Varoufakis, *Technofeudalism: What Killed Capitalism*
+  (The Bodley Head, 2023)** — IN REPO (ebook conversion, NO print
+  pagination: **every citation by chapter + PDF index; the print
+  edition's pages cannot be recovered from this file**). Read in
+  full 2026-09-13. **Tier: T3** — serious trade synthesis by a
+  credentialed economist; his own Appendix 1 disclaims "objective
+  science"; notes are largely journalism URLs; no engagement with
+  any medievalist or the neomedieval IR literature (he is NOT a
+  neomedievalist — a rival successionist; never group him with
+  Zuboff/Durand, whom he explicitly rejects, Influences, PDF ~215).
+  USE: the fully articulated rival mechanism for §IV/critiques (the
+  cloudalist succession; the state "too weak"; the two-super-cloud-
+  fief New Cold War, ch. 6); the QE-coup passage as convergent
+  hostile testimony that the state's fisc financed the stack (ch.
+  4, PDF 89: "It was nothing short of a coup… central bankers…
+  have been printing monies… In reality, they have been upending
+  [capitalism] by helping to finance the emergence of cloud
+  capital"); his Orwellian "continental superstates" line (ch. 6,
+  PDF 150) as the bloc geometry reached from the opposite premise.
+  Every load-bearing contemporary figure he carries must be
+  re-sourced to a primary. Integration: memo Revisions 8; critiques
+  Revisions 4.
+
 ## Added 2026-09-02 — Phase 3 renovation (the pattern's primaries, Bratton, the baselines)
 
 - **T1 — the American-pattern primaries** used by draft §IV via

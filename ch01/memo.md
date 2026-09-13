@@ -349,3 +349,17 @@ as written.
 ---
 
 STATUS: REVIEWED (Roderick, 2026-07-22) — cleared for drafting
+
+- **(2026-09-13 — Varoufakis read in full; intake note. PENDING
+  HUMAN REVIEW.)** Sources entry added this date. One correction
+  for this chapter's literature map: Technofeudalism is NOT part of
+  the neomedieval literature (no Bull/Cerny/Friedrichs/Kobrin; his
+  diagnosis is concentration — "power in the hands of even fewer
+  individuals," ch. 2, PDF 57) and must not be cited as convergent
+  diagnosis; he is a rival successionist whose full engagement is
+  ch12's (memo Revisions 8; critiques Revisions 4). ADDS (proposal
+  only): §VI's state-as-episode framing could note that even the
+  rival successionists now date capitalism's end — the dispersal
+  literature and the concentration literature agree only that the
+  present order is transitional, which is this book's premise from
+  the other side.

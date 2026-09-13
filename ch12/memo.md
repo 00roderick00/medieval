@@ -654,6 +654,69 @@ parse and may later sharpen §7's Castillon return.
      revocation rule, 90 FR (2 Sep 2025) — IN HAND; Section 232
      Proclamations 11002 and 11052 — IN HAND.
 
+8. **(2026-09-13 — Varoufakis, *Technofeudalism* (Bodley Head 2023),
+   read in full; intake. PENDING HUMAN REVIEW.)** T3; ebook — all
+   pins by chapter + PDF index. The four parts:
+   - **CONFIRMS.** (i) The bloc geometry, from the rival direction:
+     "the world is dividing into two, mutually antagonistic, super
+     cloud fiefs – one American, the other Chinese" (ch. 6, PDF
+     143) and "continental superstates, not unlike those clashing
+     permanently in George Orwell's Nineteen Eighty-Four" (PDF
+     150); the Global South "forced to choose which feudal lord to
+     submit to" (PDF 144) — two blocs plus disordered interstitium,
+     with Europe demoted to "geostrategically irrelevant" (~136):
+     the chapter's topology minus its third and fourth candidates.
+     (ii) The state's fisc as the stack's financier, stated
+     maximally: "It was nothing short of a coup. Imagine getting
+     the world's richest capitalist states to print the money that
+     allows you to build a new type of capital stock" (ch. 4, PDF
+     89) — convergent hostile testimony for the §IV fiscal reading,
+     with the opposite conclusion drawn. (iii) Platforms as command
+     structures, not markets: "Enter amazon.com and you have exited
+     capitalism… a realm which can't be thought of as a market"
+     (ch. 3, PDF 80) — the churches-not-markets amendment's
+     manorial cousin.
+   - **CORRECTS.** He must not be grouped with Zuboff/Durand (he
+     rejects both, Influences, PDF ~215) nor filed as a
+     neomedievalist: he cites none of Bull/Cerny/Friedrichs/Kobrin
+     and his diagnosis is CONCENTRATION ("power in the hands of
+     even fewer individuals," ch. 2, PDF 57), not dispersal — a
+     rival successionist, not a fellow-traveller. His vocabulary is
+     precise: cloudalists / vassal capitalists (firms only) / cloud
+     proles / cloud serfs; cloud rent defined against profit
+     ("profit is vulnerable to market competition, rent is not,"
+     ch. 5, PDF 108). Break-dates: 2008 (funding), pandemic
+     (arrival).
+   - **ADDS (proposals only).** The Apple Store as "the first cloud
+     fief" with its "30 per cent ground rent" and "vassal
+     capitalist class" (ch. 5, PDF 111–12) — a T3 mirror for §IV's
+     licence-fee passage; his War Economy aside ("American
+     capitalism was run according to Soviet planning principles,"
+     ch. 2, PDF 36–37) as hostile-witness precedent for
+     state-directed capitalism; the New Enclosures identity point
+     ("our digital identity belongs neither to us nor to the
+     state," ch. 3, PDF 72) beside ch11's legibility stack.
+   - **CONTRADICTS (full treatment in critiques Revisions 4).** His
+     verdict on the state runs directly against spine §8(b)/(c)'s
+     VERDICT (the state will absorb the stack): Western states
+     were "too weak… to prevent the cloud capital they birthed
+     from taking over" (ch. 6, PDF 151); breakup and regulation
+     are structurally impossible (ch. 7, ~157); the US state acts
+     for "naked technofeudal class interests" (ch. 6, PDF 137);
+     absent his cloud rebellion, a permanent "doom-loop" order
+     (App. 1, PDF 205). THE RULINGS HIS DENIAL REACHES ARE NAMED —
+     spine §8(b), §8(c) — AND NOT RELITIGATED HERE: the rulings
+     stand; the objection is engaged architecturally in
+     critiques.md. Note for the engagement: his own ch. 6 record
+     (reserve seizure; the 7 Oct 2022 chip ban as "total economic
+     war"; Huawei evicted by decree; Xi's platform discipline) is
+     the force channel operating — his China is the book's
+     prediction realised, which he concedes as "the only glimmer
+     of hope… under totalitarianism" (PDF 150–51).
+   - Draft integration: RECOMMENDED at the next renovation pass —
+     §IV's rival paragraph (beside Bratton) and the critiques
+     engagement; no draft text proposed here.
+
 ---
 
 STATUS: REVIEWED (Roderick, 2026-07-31 — read in full, nothing to add; no revisions required)

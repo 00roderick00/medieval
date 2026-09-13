@@ -278,6 +278,63 @@ precisely so that patience cannot be pleaded later.
      fails its test honestly. The objection is thereby answered
      architecturally — absorbed into the wager, not argued away.
 
+4. **(2026-09-13 — the technofeudal objection, from Varoufakis read
+   in full; intake. PENDING HUMAN REVIEW.)** The steelman first, in
+   his words (T3; ebook, pins by chapter + PDF index).
+   - **The objection at full strength.** The state cannot absorb the
+     stack because the state built it for its masters and is now
+     beneath them: central banks financed cloud capital's
+     accumulation — "It was nothing short of a coup" (ch. 4, PDF
+     89) — and Western states were "too weak… to prevent the cloud
+     capital they birthed from taking over, disestablishing
+     capitalism and facilitating technofeudalism" (ch. 6, PDF 151).
+     Breakup and regulation "make no sense… How does one break up
+     Amazon, Facebook, PayPal or, indeed, Tesla today?" — the
+     hostages are "our contacts, friends, chat histories, photos"
+     (ch. 7, ~157). The chip war is not state reconsolidation but
+     "naked technofeudal class interests" with national security
+     the "guise" (ch. 6, PDF 137, 141). Cloud rent "syphon[s]…
+     into China without relying on either America's trade deficit
+     or the dollar's supremacy" (ch. 6, ~135–36) — decisive
+     economic power now weightless, borderless, untaxable at the
+     port. Absent a cloud rebellion, the order is permanent and
+     worsening: "technofeudalism is condemned to exhibit a dynamic
+     doom-loop more volatile and explosive than even that of
+     capitalism" (App. 1, PDF 205). If he is right, spine
+     §8(b)/(c)'s declared verdict — the state will absorb the
+     stack — is wrong at the load-bearing joint, and Appendix C's
+     absorption indicators measure rentier housekeeping.
+   - **The book's answer (the book's own argument, sketched).**
+     (i) He measures state capacity on the antitrust and
+     social-democratic channels and ignores the force channel his
+     own chapter six documents: reserves seized, Huawei evicted by
+     decree, the 7 October 2022 controls he himself calls "total
+     economic war" — acts no cloudalist could perform or resist,
+     sustained and allied-coordinated in a way rentier errands are
+     not. (ii) His China is this book's prediction already
+     executing — "It was President Xi who placed strict limits on
+     Chinese cloudalists… within what the party considers to be
+     acceptable bounds – its own" (ch. 6, PDF 150) — which his
+     frame must treat as totalitarian exception and this book
+     treats as the leading case. (iii) His TikTok weightlessness
+     argument concedes in the same breath that a state decree can
+     evict a platform from a continent — the territorial force
+     link reasserting itself over the weightless rent. (iv) His
+     doom-loop has no terminus because his model has no mechanism
+     by which disorder reprices security; the volatility he
+     forecasts — payments weaponisation, chip blockades,
+     interstitial wars — is precisely what this book says compels
+     the fiscal-military response. His "condemned" is this book's
+     "transitional." (v) Where the two agree — two hemispheric
+     cloud blocs, "continental superstates" (ch. 6, PDF 150),
+     Europe lagging, the interstitium disordered — a rival
+     mechanism arrives at the book's map, which is worth more than
+     agreement from an ally.
+   - **Spine note:** the objection reaches spine §8(b) and §8(c);
+     the rulings stand and are not relitigated here — the
+     engagement is architectural, and the scoreable tests (CA-1..8;
+     C2-3) already discriminate between his future and the book's.
+
 3. **(2026-09-02, Phase 3 — where the renovation touches Revisions
    1 and 2. PENDING HUMAN REVIEW.)** Draft §IV now carries the
    pattern passage and the declared verdict (memo Revisions 7);

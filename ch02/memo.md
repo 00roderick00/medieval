@@ -313,3 +313,16 @@ as written.
 ---
 
 STATUS: REVIEWED (Roderick, 2026-07-22) — cleared for drafting
+
+- **(2026-09-13 — Varoufakis read in full; intake note. PENDING
+  HUMAN REVIEW.)** Sources entry added this date. ADDS (proposal
+  only, no draft text): §III's hyperscaler-church section could
+  carry one comparative sentence — the rival vocabulary (fief,
+  vassal, serf, ground rent) reaches command-structure-not-market
+  by the manorial route while this chapter reaches it by the
+  ecclesial one, and the difference is testable: fiefs extract,
+  churches also legislate, adjudicate and excommunicate — the
+  documented sanction apparatus (Oversight Board; deplatforming;
+  DSA-compelled process) is what the manorial frame cannot carry.
+  CONTRADICTS: nothing in this chapter's claims; his state-position
+  argument is engaged at ch12 critiques Revisions 4.

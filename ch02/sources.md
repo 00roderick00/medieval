@@ -113,3 +113,16 @@ texts, court filings, platform policy) and gated on the medieval side (Ullmann).
 primary (EUR-Lex, BIS, DPC, platform policy); medieval interpretive spine is
 gated (Ullmann) and on the RETRIEVAL LIST. Britannica and OpenAI pages were
 fetch-blocked — confirm in a browser before quotation.*
+
+## Added 2026-09-13 — source intake
+
+- **T3 — Varoufakis, *Technofeudalism* (Bodley Head 2023)** — read in
+  full; master entry in ch12/sources.md (2026-09-13). USE HERE: the
+  rival vocabulary for the platforms — fiefs and manor, not church
+  ("Enter amazon.com and you have exited capitalism… a realm which
+  can't be thought of as a market," ch. 3, PDF 80; the Apple Store as
+  "the first cloud fief" with a "30 per cent ground rent," ch. 5,
+  PDF 111–12). Convergent on command-structure-not-market; the
+  ecclesial half (jurisdiction, doctrine, universalism) is absent
+  from his frame — a comparison this chapter can state. Ebook — cite
+  by chapter.

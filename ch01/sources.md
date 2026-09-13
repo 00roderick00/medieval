@@ -171,3 +171,14 @@ quotation.*
   the §III [DELTA] flag. All former "via Baaz" citations in the draft
   are upgraded; Baaz remains listed as the verification intermediary
   of record for the memo stage.
+
+## Added 2026-09-13 — source intake
+
+- **T3 — Varoufakis, *Technofeudalism* (Bodley Head 2023)** — read in
+  full; the master entry with tier caveat and pins is in
+  ch12/sources.md (2026-09-13). USE HERE: the literature-positioning
+  point only — he is a RIVAL SUCCESSIONIST, not a neomedievalist
+  (cites none of Bull/Cerny/Friedrichs/Kobrin; diagnoses
+  concentration, not dispersal); this chapter's literature survey
+  should not group him with the dispersal writers. Ebook — cite by
+  chapter.
