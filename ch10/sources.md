@@ -679,3 +679,21 @@ accordingly.*
   spending is, and today that is the platforms; the draft has
   not yet answered this (critiques). Never cites Contamine,
   Curry, Vale or DeVries 1998.
+
+- **Residual pointers (2026-09-13, integration run):** Vaughan for
+  §VI's earlier half — the recette's antecedents (the 1414–15
+  Dijon artillery book; Germain de Givry as single maître; the 13
+  May 1415 arsenal order; twenty-three ducal castles gunned by
+  1419 — Vaughan pp. 150–51) against the CONTROL-PERIOD reading
+  his decade forces: Rougemont 1411's "rather motley collection…
+  privately owned pieces lent by" nobles (p. 179), the 1409 "
+  gunpowder is not to be had and, in any case, there is no money
+  to buy it" (p. 173, sidecar verified) — guns everywhere in the
+  1410s and decisive nowhere; the threshold is supply at campaign
+  tempo, dated to the 1440s, never read backward (the DEFEND-tier
+  wording consequence is ruling-sheet §5(a)). Miller for §VIII —
+  the GlobalFoundries 1442-test and Pentagon-cannot-afford-a-fab
+  passages entered at ch12 sources this date, recommended there
+  to replace Krejsa–Benich as the disanalogy's primary T3
+  support; Howard pp. 67–68 and Hoffman p. 136 for Brandenburg
+  1653 as the ratchet re-run (§III).
