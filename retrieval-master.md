@@ -910,3 +910,56 @@ deleted per standing rule).
 | Hal Brands & Francis J. Gavin (eds.), *COVID-19 and World Order* (Johns Hopkins UP, 2020) | ch01/ch12 context — the pandemic-era order debate as a dated waypoint between the neomedieval literature and the 2020s record; T3 for this book's purposes (edited essays; any load-bearing claim re-sourced) | LOW | **IN REPO 2026-09-13** (ebook conversion; cite by chapter) — intake in a later batch |
 | Yanis Varoufakis, *Technofeudalism: What Killed Capitalism* (Bodley Head, 2023) | RIVAL MECHANISM — cloud capital/technofeudal succession vs this book's platforms-as-churches and compelled reconsolidation; ch01 (the literature's tense), ch02 (fiefs vs churches), ch12 critiques | **HIGH** (class (ii)) | **INTAKEN 2026-09-13** — read in full (ebook, NO print pagination: all pins by chapter + PDF index). T3 (his Appendix 1 schema self-declared "not objective science"; endnotes overwhelmingly journalism URLs; no medievalist engagement). Entered: ch12/ch02/ch01 sources.md; ch12 memo Revisions 8 + critiques Revisions 4 (the steelmanned technofeudal objection); ch01/ch02 memo notes. Key yields: the QE-coup passage (state fisc built the stack — convergent, opposite conclusion); the two-super-cloud-fief map with Orwellian "continental superstates" (bloc geometry from the rival direction, Europe demoted); his China = the book's prediction realised; his denial that Western states can absorb the stack runs against spine §8(b)/(c) VERDICT and is engaged, not conceded |
 | Gosztonyi & Gyetván, "The applicability of neomedievalism, technofeudalism and sovereignty in contemporary internet governance," *Ethical Space* 22:1/2 (2025), CC-BY-NC-ND | ch01/Appendix A — the literature note connecting the two rival vocabularies; T3 | LOW | IN REPO (`ydgjxfcsysmb…pdf`) — intake in a later batch |
+
+## 2026-09-13: integration run, STEP 0 — the forty-nine September intake works
+
+Per research/claude-code-instruction (integration run) and the
+synthesis research/corpus-intake-assessment-2026-09-13.md §1. Every
+work below is IN REPO with intake date 2026-09-13; assessments (page-
+pinned) are in research/assessments-2026-09-13/; sidecars are
+gitignored under corpus/retrieved/source-library/text-2026-09-13/
+(first batch, 27) and …/text-2026-09-13b/ (second batch, 22). The
+assessments are the MAP, not the authority: every entry written from
+them cites the work itself at the pin, verified against the sidecar;
+quotations flagged for page-image re-verification are entered
+PENDING VERIFICATION.
+
+**First batch (27, all sidecars confirmed present):** Andrade
+(EPUB, chapter pins); Basin–Samaran t. I; Bobbitt; Brands & Gavin;
+Bratton (2015, 727-pp. file); Chernow; Elliott (*Imperial Spain*);
+Fortescue (Plummer); Freedman; Hall; Hoffman; Howard (OCR'd);
+İnalcık (OCR'd); Kafadar; Miller; Parrott; Rogers (ed.); Scheidel;
+Sharman; Spruyt (OCR'd); Strayer; Tilly (OCR'd); Vale (*Charles
+VII*); Varoufakis; Vaughan (*John the Fearless*); Yergin; Zielonka.
+Thirteen of these were also read cover to cover and entered by the
+2026-09-13 intake batches 1–2 above; the integration run adds the
+assessments' further findings to those entries rather than
+duplicating them.
+
+**Second batch (22, all sidecars confirmed present):** Griffiths;
+Lander; Depreter (monograph); Barker (*Conquest*, OCR'd); DeVries
+(*Guns and Men*); Lane (*Venice*); Lane & Mueller vol. I; Morris;
+Dean; Scott & Scribner; Eisenstein; Johns; the six articles
+(Ágoston 2014; İnalcık 1960 *Speculum*; Payling 1998; Grummitt
+1999; Elliott 1992; Baker 1979, OCR'd); Belloc (OCR'd); the Paston
+Letters, Gairdner 1872 vol. I (OCR'd); the Nicholson volume;
+Cosneau's pièces LXXII–LXXXVII (OCR'd, partial).
+
+**Three special cases (STEP 0 rulings of the instruction):**
+1. **Nicholson is the wrong book** — *Love, War and the Grail*
+   (Brill 2001), the orders in ROMANCE, not the institutional
+   history the ch01 gap needs. MOVED to `archive/` with a note;
+   the retrieval row for Nicholson 1993 / Forey 1992 stays OPEN;
+   the only finding carried is the ch01 dating correction
+   (Teutonic Order militarised 1198; no Prussian state in 1200 —
+   Nicholson p. 26).
+2. **The Eisenstein file is the Chinese translation.** Its rows
+   are annotated: PINS USABLE, QUOTATIONS MUST BE RE-QUOTED FROM
+   THE ENGLISH EDITION (1979 or 2005 abridgement — retrieval row).
+   No Eisenstein quotation enters any sources.md from this file.
+3. **The Paston file is Gairdner 1872 vol. I**, not the 1904
+   library edition (sidecar `Paston-Arber.txt`). Every existing
+   ch08 Paston citation given as "vol. II" or by 1904 letter
+   number must be re-pinned to THIS edition's letter number and
+   page; Davis remains citation of record when retrieved; Gairdner
+   vol. II (Caister 1469) still wanted.
