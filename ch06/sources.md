@@ -441,3 +441,158 @@ quotation in a browser before print.*
   ledger. Corning: "occurring c. 1407/1410 … seems to have had
   little effect" (XI, 122–3, 130–31; X, 349 n. 21) — his
   documented dissent from Rogers's 1420 dividing line (IX, 2 n. 2).
+
+## Added 2026-09-13 — integration run (from the September-intake assessments; every pin verified against the sidecar; quotations to be re-verified against page images before print where marked)
+
+- **T3 — Juliet Barker, *Conquest: The English Kingdom of France
+  1417–1450* (Little, Brown 2009; Harvard 2012 ed. in repo, OCR
+  sidecar `text-2026-09-13b/Barker.txt`; printed = PDF−21 to −13,
+  drifting by chapter)** — T3 narrative, but her notes cite the
+  administrative record (Parliament Rolls, Stevenson, CMSM,
+  Beaurepaire, Curry, Harriss): re-pin figures through her to
+  T1/T2. USE-NOTE (assessment): the deflationary narrator the
+  chapter must absorb, engaged BY NAME once at the
+  Cherbourg/Château Gaillard point. What she carries: the Somerset
+  dispatch's T1 pin (presented 12 Feb 1449 by Abbot Boulers, PR
+  xii, 54–5: "no place in the king's obedience there which is
+  provided for either in terms of repairs, equipment, or any kind
+  of artillery," p. 366); the priced-surrender reading from a
+  witness who does not share the thesis (Mantes, p. 385; "Most
+  walled towns … sensibly chose the former," p. 386); the sieges
+  ledger with dates and terms (Rouen under three weeks and the
+  castle never bombarded, p. 391; Harfleur seventeen days with
+  sixteen great cannon, p. 394; Bayeux's walls "to rubble" in
+  sixteen days, p. 396; Caen's mined tower, p. 397; Argentan — "a
+  cannon blew a hole large enough to admit a cart through the
+  walls," p. 389); and THE ENGLISH LEDGER the chapter lacked:
+  Talbot's Dieppe bastille with "two hundred cannon, bombards,
+  catapults and other artillery" (p. 302) lost with the bastille;
+  Somerset's 1443 train "later discovered where Somerset had left
+  it, with his lieutenant at Avranches" (p. 312); Kyriell landing
+  "2500 men and a great artillery train" (p. 394) — guns without
+  the institution, the control case. HER DEFLATIONS, entered at
+  full strength in critiques Revisions 6: Cherbourg "simply sold
+  to the French" (Gower "bribed to surrender," p. 399; "there was
+  nothing inevitable about Cherbourg's fall," p. 401); Verneuil's
+  Grey Tower a starvation ("through lack of food, only thirty men
+  were found inside," p. 383); Château Gaillard's five weeks read
+  as "proof, surely, of the lack of provisions" (p. 394).
+  CORRECTIONS she carries (memo Revisions 21): Rouen ransom
+  50,000 SALUTS not écus (p. 391); Talbot held because HARFLEUR
+  refused to submit — "Honfleur is sometimes mistaken for
+  Harfleur" (pp. 398, 437); Kyriell 2,500 not "some four
+  thousand"; Fougères "carefully planned in London at least
+  fifteen months earlier," Surienne a Garter knight (pp. 371–4);
+  Harcourt and Avranches carry two durations each; NO
+  twelve-thousand figure for Rouen 1418–19 (pp. 22–3). Also the
+  Caen plot at second carriage (p. 397, citing Vale 138).
+  Publication 2009; supersedes nothing standard — Curry and the
+  record remain the citation targets through her notes.
+
+- **T2 — Bert S. Hall, *Weapons and Warfare in Renaissance Europe*
+  (Johns Hopkins, 1997)** — IN REPO (sidecar
+  `text-2026-09-13/Hall.txt`; printed = PDF−18). USE-NOTE
+  (assessment): T2 ally on the payroll thesis, T2 rival on the
+  price aphorism — both by name. CONFIRMS at tier: "Better
+  management, organization, and logistics seem to have played more
+  of a role in most cases than did better ballistics" (p. 106);
+  "Nothing in the sources from either side suggests that the
+  French guns were qualitatively different or technologically
+  'advanced'" (p. 120); "Jean Bureau was the fiscal and
+  administrative genius, whereas Gaspard seemed to have been more
+  of a technical expert" (p. 120); Castillon — Bureau "may have
+  laid out the camp specifically to trap Talbot" (p. 117), the
+  guns "something like wall-defense weapons" (p. 131). CLOSES the
+  §II tipping-point [GAP] with the price series: powder to half
+  its 1380s price by the 1420s, "less than 20 percent of what they
+  had been a century earlier" by the last quarter of the century
+  (p. 58); the 1442 programme's 2.2 sous/lb sits on his curve.
+  REPLACES the English Heritage T3 line: "Treachery, especially
+  involving bribery… although simple starvation seems to have been
+  the strongest weapon" (p. 14, with n. 23's eight
+  thirteenth-century sieges of five months to a year via
+  Contamine). CORRECTIONS (memo Revisions 22): Bureau mayor of
+  Bordeaux from 30 JUNE 1451 (pp. 116–17); the trebuchet shot at
+  40–45 degrees — the FLAT trajectory is the gun's (p. 21); corned
+  powder "kept and burned better," uniform burn is
+  sixteenth-century (pp. 73, 86, 101–3); Bureau's "new type of
+  powder" and cast-iron shot date to 1453 (p. 119, citing Dubled);
+  Cadillac has a THIRD account — eight days' bombardment,
+  "complete capitulation on 27 September" (p. 118); Formigny's
+  culverins "probably heavier guns" (p. 116) — carry both
+  readings. RIVAL LIMBS (critiques Revisions 7): "There were
+  private siege trains … the dukes of Burgundy" (p. 120); the
+  military restoration — trace italienne as "a restoration of the
+  status quo ante" (p. 162) — answered from his own pp. 161–64
+  (Siena bankrupted on seventeen sites; "only for those able to
+  afford the protection it offered," p. 164). DISSENT LIST: Hall
+  sides with temerity — Talbot "unwisely attacked" (p. 117).
+  DISPUTE RECORDED (per CLAUDE.md §5): Hall/DeVries (the Hale
+  school — organisation over ballistics, evolution over
+  revolution) v. Rogers (punctuated revolutions); both sides now
+  in repo at first hand.
+
+- **T2 — Clifford J. Rogers (ed.), *The Military Revolution Debate*
+  (Westview, 1995)** — IN REPO (sidecar
+  `text-2026-09-13/Rogers_(ed).txt`; printed = PDF−13;
+  letter-spacing OCR artefacts, nothing load-bearing garbled).
+  USE-NOTE: the debate's anchor anthology; Roberts, Parker 1976,
+  Rogers 1993, Black, Thompson, Parker's rejoinder all at first
+  hand. FOR THIS CHAPTER: the 1442 sentence at first hand — "As
+  early as 1442, the French government was spending more than
+  twice as much on its artillery train as it spent on more
+  traditional war materiel" (Rogers, p. 74, n. 142 citing
+  Contamine 666) — note "MORE THAN twice": §VII's "cost more than
+  a government's entire traditional arsenal" understates the
+  citation and §III/§X's "twice" is the floor. Dubois, early
+  fourteenth century, T1 via Rogers n. 143: "A castle can hardly
+  be taken within a year… leaders are apt to come to agreements
+  which are unfavorable to the stronger party" (p. 74); the
+  pre-gun siege ledger (Rouen nearly six months; Cherbourg starved
+  in seven; Château Gaillard's water-cords, p. 66); the 1400–30
+  technical case (corned powder "in almost universal use by 1420,"
+  barrel ratios, hooped staves, prices down a third, pp. 68–73) —
+  with Hall, closes the §II tipping-point [GAP] at T2. CORRECTION
+  (memo Revisions 23, and the §VII restaging): Rogers does NOT
+  rank the infantry revolution above the artillery revolution —
+  each "truly deserves to be termed a 'military revolution' in
+  itself" (p. 56); he refuses a single hinge; the §VII contest as
+  staged is partly manufactured. Roberts's "great divide" pinned
+  first-hand (p. 13; cite as Roberts 1956 [1967] in Rogers ed.).
+  Rogers dates the artillery revolution "around the 1420–30s"
+  (p. 67) — the curve turned then; 1449–53 is the demonstration
+  at scale (aligns with spine §8(a)). DISPUTE RECORDED: Rogers v.
+  Parker on dating and mechanism; Black (post-1660, arrow
+  reversed) and Thompson (Spain: state=taxes=war) as the
+  non-conceding sceptics — Thompson's engagement is ch10's.
+
+- **T1 — Hilaire Belloc (with B. T. B.), *The Modern Traveller*
+  (Arnold, 1898)** — IN REPO (OCR sidecar
+  `text-2026-09-13b/Belloc.txt`; B. T. B. co-credit on the title
+  page verified). The couplet ("Whatever happens, we have got /
+  The Maxim Gun, and they have not") is section VI, printed p. 41;
+  its context is a PRIVATE COMPANY's expedition — the Maxim gun
+  holds a mutiny of the expedition's own porters for a page, and
+  the venture collapses for want of porters, ammunition,
+  legitimacy and a fisc. NOT a prophecy of the knock-out blow, and
+  NOT in Freedman (negative finding — the draft's attribution
+  chain is corrected at memo Revisions 26; the register decision
+  on how §VI uses it is ruling-sheet §5(r)).
+
+- **T2 — Lawrence Freedman, *The Future of War: A History*
+  (PublicAffairs, 2017)** — IN REPO (sidecar
+  `text-2026-09-13/Freedman.txt`). For this chapter: the Tokyo
+  exchange of September 1941 as the Belloc syndrome at the top of
+  a state (assessment pin; verify page at entry to draft — PENDING
+  VERIFICATION); the knock-out-blow genealogy runs through Holman
+  (retrieval row), not Belloc. Freedman's main engagement
+  (the "decisive" register; the Dorking genre) is the
+  Introduction's and ch12's.
+
+- **T2 — Gábor Ágoston, "Firearms and Military Adaptation: The
+  Ottomans and the European Military Revolution, 1450–1800," *JWH*
+  25:1 (2014)** — NOW IN REPO (sidecar
+  `text-2026-09-13b/Agoston-2014.txt`; the ledger row's
+  pins-to-verify now verifiable). For this chapter: Belgrade 1456
+  as the relief clock running from the Ottoman side. Full entry
+  and the devolution engagement at ch11.

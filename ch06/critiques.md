@@ -430,3 +430,104 @@ Priorities to stress-test on the draft:
      adjacent limb: Hoffman (his price-of-violence model is NOT in
      Andrade — must be answered from Hoffman's own book, on the
      ledger, in corpus, next batch).
+
+6. **(2026-09-13 — integration run: Barker's deflationary reading
+   of the Normandy sieges, entered as a named objection. PENDING
+   HUMAN REVIEW.)**
+   - **Steelman (at the assessment's strength).** The chapter's
+     census reads compression as repricing; Barker, holding the
+     administrative record, reads it as provisioning, leadership
+     and purchase. Cherbourg — the census's "longest resistance"
+     and the maximum-duration exhibit — was SOLD: "underpinning
+     the usual public treaty of capitulation was a private deal…
+     Gower had, in fact, been bribed to surrender… it was simply
+     sold to the French" (p. 399), and "there was nothing
+     inevitable about Cherbourg's fall… After all, Calais would
+     spend another century in English hands" (p. 401). Verneuil's
+     Grey Tower — §V's central exhibit, "impregnable so long as
+     there was food within" — STARVED: "when they finally
+     capitulated, through lack of food, only thirty men were found
+     inside" (p. 383). Château Gaillard's five weeks she reads as
+     "proof, surely, of the lack of provisions and munitions… about
+     which Beaufort had complained" (p. 394). Her epilogue ranks
+     demobilisation and leadership first; artillery is one of four
+     adopted methods (p. 402).
+   - **The chapter's answers, with the assessment's grading
+     preserved.** (i) Cherbourg: the bribe is the composition
+     market in cash — the train on the sands set the price at
+     which selling beat holding; her Calais counterfactual
+     concedes the point in the book's own terms (Calais survived
+     on a mercantile lobby's finance). Graded FAIR — but the
+     superlative must go: a purchased fall cannot carry "maximum
+     duration" as ballistic evidence. (ii) Verneuil: a
+     relief-clock case, not a repricing case — an unprovisioned
+     truce-era garrison surrendering when relief was shown
+     impossible; Somerset's dispatch made flesh. Graded GOOD ONLY
+     AFTER THE REWRITE — the Berry Herald sentence must be re-read
+     as explanation, not paradox. (iii) The compressions: already
+     §V's third counter-argument, conceded and claimed — but the
+     same-wall proofs must be RESTRICTED to walls where guns are
+     documented (Harfleur, Bayeux, Caen, Argentan), not extended
+     to every compression. (iv) Her causal ranking reaches no
+     spine ruling (§8(a)'s co-evolution admits a multi-causal
+     collapse), but §V's "the same English record never names the
+     machine" must narrow to "never names the coupling" — Beaufort
+     names the machine (p. 366).
+
+7. **(2026-09-13 — integration run: Hall's two rival limbs.
+   PENDING HUMAN REVIEW.)**
+   - **Steelman 1 — private siege trains.** "The king of France
+     did not enjoy a monopoly on artillery in this period. There
+     were private siege trains, some of sufficient size to
+     challenge the royal prerogatives Charles VII sought to
+     assert… the dukes of Burgundy" (p. 120); Dinant fell to
+     Burgundy's guns "after only a week's work" having "resisted
+     seventeen previous siege attempts" (p. 121); prices FELL
+     across the window — powder to a fifth, iron guns to a
+     quarter — while cities bought freely (Ghent's 200 carts,
+     1382). The 2:1 budget line is a unit-price argument in a
+     century of falling unit prices.
+   - **The chapter's answer, graded per the assessment.** The
+     threshold was scale, recurrence and organisation, not unit
+     price ("To make such tactics work required immense
+     administrative ability," p. 130); the 1442 ratio measures an
+     ESTABLISHMENT absorbing a budget. Graded GOOD — BUT IT
+     CONCEDES: Burgundy was a rival, yet Liège's princes and the
+     German cities were subjects; the mechanism survives at the
+     establishment grade, the aphorism ("above what any subject
+     could pay") does not. Register decision: ruling-sheet §5(a).
+   - **Steelman 2 — the military restoration.** "The tilt created
+     by successful siege artillery was quite short-lived"; the
+     trace italienne "represented a restoration of the status quo
+     ante" (pp. 161–62); the English were building boulevards in
+     1449 (p. 119). If walls regained their time value within two
+     generations, what did the guns make irreversible?
+   - **The answer — Hall supplies it, and the manuscript has not
+     yet made it (assessment: "a strong answer").** "The new
+     fortifications were fearsomely expensive… Siena bankrupted
+     itself on seventeen sites and fell in 1555; 'The trace
+     italienne could provide defense against conquest by cannon,
+     but only for those able to afford the protection it offered'"
+     (p. 164). The fiscal threshold MIGRATED to the defender; in
+     the restored equilibrium only a fisc can hold a wall — the
+     consolidation ratcheted a second time. The ratchet's object
+     (spine §8(a)) is untouched. Proposed for §VII/ch10 §IV at
+     renovation.
+
+8. **(2026-09-13 — integration run: Arnold and the
+   reversal-within-eighty-years limb (Rogers ed.). PENDING HUMAN
+   REVIEW.)** Steelman: the trace italienne "took a weakly held,
+   barely sovereign state—Gonzaga Montferrat—and made it
+   politically viable and nearly invulnerable militarily. That is
+   a revolution indeed" (Arnold, p. 220); the fortification race
+   "narrowed the power gaps" (p. 221); the Huguenot bastions "held
+   off the forces of the French crown for sixty years" (p. 221) —
+   a reversal INSIDE a kingdom. Answer (assessment grade: GOOD
+   ENOUGH ONLY IF STATED): the fortress restored small states and
+   confessional cities, not castle-holding magnates — it froze the
+   map between polities after consolidation inside them, and drove
+   costs and garrisons up (Parker: fortresses at 40 per cent of
+   Louis XIV's army, p. 353). But the lesson for Part III must be
+   stated: a defensive counter-technology can re-open the gap for
+   two generations, and Appendix C's timetable must allow for it
+   (candidate indicator noted at appendix-c memo).

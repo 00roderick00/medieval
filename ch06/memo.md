@@ -997,3 +997,187 @@ STATUS: REVIEWED (Roderick, 2026-07-22) — cleared for drafting
       candidate closers; supersession note per DeVries himself:
       XV (1990) first-ship-sunk claim corrected by his own XIV
       (1998).
+
+21. **(2026-09-13 — integration run: Barker, *Conquest*, from the
+    September-intake assessment; pins verified against the
+    sidecar. PENDING HUMAN REVIEW.)**
+    - CONFIRMS (T3, re-pin through her notes to PR/Stevenson/CMSM):
+      the priced-surrender reading (Mantes p. 385; p. 386); Rouen
+      under three weeks with the castle never bombarded (p. 391);
+      Harfleur seventeen days (p. 394); Bayeux sixteen days
+      (p. 396); the délai-de-secours pattern (Falaise deferred to
+      21 July "in case a relieving army came," p. 398); the
+      Somerset dispatch's T1 pin (PR xii, 54–5, at p. 366);
+      Formigny's grave-pit count and the archers seizing "two of
+      their small field guns" (pp. 395–6) — the two-culverins
+      [GAP] gains its second carrier; with Hall's "probably
+      heavier guns" (p. 116) the draft must carry both readings.
+    - CORRECTS (draft wordings quoted; NOT applied — renovation
+      items): §IV "50,000 écus" → "a ransom of 50,000 saluts"
+      (p. 391; verify against Stevenson ii, 609–17). §IV Talbot
+      forfeited over Honfleur → over HARFLEUR ("Honfleur is
+      sometimes mistaken for Harfleur," pp. 398, 437). §VI Kyriell
+      "some four thousand men" → "2500 men and a great artillery
+      train" + 1,800 joined at Valognes (pp. 394–5). §IV
+      Fauconberg "taken at breakfast" → "had unluckily chosen to
+      spend the night there," wounded refusing surrender (p. 375).
+      Harcourt: Somerset list "huit jours" v. Barker-from-Chartier
+      "fifteen days" (p. 388); Avranches draft "fifteen days" v.
+      "three weeks" (p. 396) — record both durations. Fougères
+      "seized by an English freebooter" → "carefully planned in
+      London at least fifteen months earlier," Surienne a Garter
+      knight on a royal pension (pp. 371–4; with Griffiths
+      concurring).
+    - RE-SOURCE OR CUT: the "twelve thousand expelled" figure for
+      Rouen 1418–19 is NOT in Barker (pp. 22–3 carry the expelled
+      dying in the ditch, no number). Recommendation per the
+      assessment: source it elsewhere or cut it.
+    - ADDS: the English ledger (Dieppe's two hundred guns lost
+      with the bastille, p. 302; Somerset's train abandoned at
+      Avranches, p. 312; Kyriell's train, p. 394) — proves the
+      institution-not-park claim from the losing side; the relief
+      clause as an ENGLISH employment term (Bourgchier's 1441
+      indemnity promise, p. 290); the 1439–41 curve-turning set
+      (Meaux, Avranches unscathed after three-four weeks, Creil's
+      fortnight breach, pp. 275–302); the Castillon park's
+      genealogy at Pontoise 1441 (the French "installing cannon
+      and artillery" behind palisades and refusing battle,
+      p. 291); Basin's pension (homage twelve days after Lisieux,
+      great-council seat, 1,000 l.t., p. 383) for the
+      source-independence note; the Caen plot at second carriage
+      (p. 397). Argentan joins Caen as the second documented
+      breach — §I/§V's "two documented artillery breaches" should
+      read "the two the list records" (p. 389).
+
+22. **(2026-09-13 — integration run: Hall, from the assessment;
+    pins verified. PENDING HUMAN REVIEW.)**
+    - CONFIRMS: the payroll thesis at T2 in the sceptic's words
+      (pp. 106, 120); Castillon's camp as Bureau's design
+      (pp. 117, 131); walls-and-minds (p. 66); Formigny drawn
+      small (p. 131).
+    - CORRECTS (renovation items, drafts frozen): §III "after
+      1453, mayor of Bordeaux" → mayor from 30 June 1451,
+      reverting to the train for 1452–53 (pp. 116–17). §II walls
+      "out-ranged the trebuchet's flat trajectories" → the
+      trebuchet's trajectory was HIGH (40–45°); the flat
+      trajectory is the gun's (p. 21) — the tall-thin contrast
+      survives, its premise is wrong. §III corned powder "burned
+      uniformly" → "kept and burned better"; uniform burn is
+      sixteenth-century controlled-grain corning (pp. 73, 86,
+      101–3). §III "their great guns threw stone" → true only to
+      1451–52; new powder and cast-iron shot from 1453 (p. 119).
+      §VI Cadillac: Hall's third account (eight days' bombardment,
+      capitulation 27 September, captain executed, p. 118) joins
+      Vale and Escouchy — the "only storming in the record"
+      sentence cannot stand until resolved at the sources
+      (RE-SOURCE OR CUT as drafted).
+    - ADDS: the tipping-point [GAP] CLOSABLE AT RENOVATION on his
+      price curve (p. 58) + strategic dating (pp. 64–66); p. 14
+      replaces the English Heritage T3 line; Cherbourg's
+      tidal-flat batteries with three bombards burst (p. 116);
+      Bordeaux 1453's two citadels with walls left intact
+      (p. 118); Berry Herald via Stevenson, "no one can remember a
+      Christian king ever having such great artillery" (p. 118 —
+      Stevenson in corpus, re-pin direct); pp. 210–11 as T2
+      ground under the Talbot conjecture (battle "a better option
+      than before"), with Hall himself in the dissent list
+      ("unwisely attacked," p. 117).
+
+23. **(2026-09-13 — integration run: Rogers (ed.), from the
+    assessment; pins verified, incl. the 1442 sentence first-hand.
+    PENDING HUMAN REVIEW.)**
+    - CONFIRMS: the 1442 ratio at first hand (p. 74 — and it reads
+      "MORE THAN twice"; §VII's "entire traditional arsenal"
+      understates the pin, §III's "twice" is the floor); the
+      Somerset hundred-strongpoints list with n. 110's
+      most-surrendered caveat (p. 67); "new orthodoxy" (p. 55);
+      Roberts's "great divide" first-hand (p. 13; cite Roberts
+      1956 [1967] in Rogers ed., with the caveat that his
+      chronology and mechanism are not this book's).
+    - CORRECTS: §VII (and Intro §IV) stage Rogers as "ranking the
+      infantry revolution above the artillery revolution" — he
+      does not; each revolution "truly deserves to be termed a
+      'military revolution' in itself" (p. 56) and his point is
+      sequence, not rank. The staged contest is partly
+      manufactured; restage §VII on what he refuses (a single
+      hinge), keeping his dispersive Infantry-Revolution reading
+      (pp. 61–2) which the answer already uses. §II: the curve
+      turned "around the 1420–30s" (p. 67) — the chapter's decade
+      is the demonstration at scale, not the turn (conforms to
+      spine §8(a)).
+    - ADDS: Dubois (T1 via n. 143) and the pre-gun ledger (p. 66)
+      for §II; the 1400–30 technical synergy case (pp. 68–73)
+      closing the tipping-point [GAP] with Hall — CLOSABLE AT
+      RENOVATION; the c. 1420 German treatise's relief-clock
+      sentence (p. 65).
+
+24. **(2026-09-13 — integration run: the Vale delta — synthesis
+    finding: the Talbot conjecture's missing document. PENDING
+    HUMAN REVIEW.)** Vale p. 138 (MS Dupuy 38; Charles VII to
+    James II at Stevenson i. 346–51, IN CORPUS — re-pin direct):
+    in June 1450 Somerset offered Scots of the bodyguard 4,000
+    écus to seize one of four men — Dunois, Villequier, Jacques
+    Coeur or "Jean Bureau, treasurer of France" — while a thousand
+    troops went among the king's artillery "putting torches into
+    the powder kegs and spiking the bombards" (sidecar verified;
+    Barker carries it hedged at p. 397). Three years before
+    Castillon the English command's one documented plan targets
+    the TRAIN AND ITS ACCOUNTANT. It does not prove Talbot's mind;
+    it removes the nobody-thought-that-way objection to the
+    conjecture ruled at spine §8(e)4. Also: Talbot at the Rouen
+    window, "very pensive and down at heart" (Vale p. 203,
+    sidecar verified) for §VI's protagonist paragraph.
+
+25. **(2026-09-13 — integration run: the Basin delta — synthesis
+    finding: Basin's Castillon is in a volume we do not have.
+    PENDING HUMAN REVIEW.)** Extends Revisions 19. (i) The
+    Castillon verdict, the Bureau portrait and the
+    fifteen-companies sentence the draft cites via Quicherat are
+    ALL in Samaran's tome II (1944) — printed from the Göttingen
+    autograph Quicherat never saw; Samaran calls Quicherat's base
+    text "une copie postérieure de près d'un siècle … parfois
+    assez corrompue." Every Castillon pin carried under Quicherat
+    must be re-read in tome II before print (retrieval row doubly
+    mandatory). (ii) Basin's "temerity" is a STOCK VERDICT he
+    applies to every commander who attacks an entrenched camp —
+    Clarence at Baugé, the Scots at Verneuil, René's Germans at
+    Bulgnéville — which lowers its independent weight against the
+    conjecture; record in the §VI dissent staging. (iii) The Caux
+    rising of 1435–36 (tome I): a whole province rising for the
+    French crown with no royal instrument behind it, cut to
+    pieces by three hundred horse — the third controlled case for
+    the morale argument, cleaner than the two the chapter uses.
+    (iv) Pontoise: Basin's "vires animosque" (sidecar verified)
+    joins the Revisions 19 set-piece.
+
+26. **(2026-09-13 — integration run: Belloc and Freedman —
+    attribution corrections. PENDING HUMAN REVIEW.)** The Belloc
+    couplet is NOT in Freedman (negative finding). It is *The
+    Modern Traveller* section VI, printed p. 41, co-credited to
+    B. T. B. — and its context is a private company's Maxim gun
+    holding a mutiny of the expedition's own porters, the venture
+    then collapsing for want of porters, ammunition, legitimacy
+    and a fisc: private asymmetric possession without an
+    institution, the thesis's negative case in verse. "Prophets
+    of the knock-out blow" cannot hang on the couplet; the
+    genealogy is Freedman-and-Holman (Holman on retrieval). How
+    §VI redeploys it is ruling-sheet §5(r). ADDS: Freedman's
+    Tokyo exchange of September 1941 as the Belloc syndrome at
+    the top of a state (PENDING VERIFICATION at page).
+
+27. **(2026-09-13 — integration run: Howard and DeVries deltas.
+    PENDING HUMAN REVIEW.)** Extends Revisions 18 and 20.
+    (i) Howard: the assessor's provenance guess for the phantom
+    sentence is a misremembered Bert Hall — plausible given
+    Hall's "unwisely attacked" (p. 117), now in repo; the
+    restaging (Revisions 18/20) stands. Howard p. 13 supplies
+    the gunners "who enjoyed no social status whatever" for the
+    §III texture; his printed p. 14 has a block of lines lost to
+    the scan — PENDING VERIFICATION against a printed copy
+    before Howard is named either way (retrieval note).
+    (ii) DeVries: Commynes's "so much shooting" is quoted at
+    DeVries p. 138, not 137 (citation correction); and his
+    Porter and Rogers quotations at p. 128 are quoted BY HIM IN
+    ORDER TO OPPOSE THEM, in support of Hale — any note citing
+    those passages must say so (the witness testifies against
+    his own frame; use-note to carry in every DeVries citation).
