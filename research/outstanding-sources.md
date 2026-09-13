@@ -101,6 +101,30 @@ slides); Eisenstein + Johns; Keen review; Cazelles review; Green
 1875; MHLW; Jeddah; NM-OCD; Texas RRC/LRL; Cato Shughart; the
 mphil/ set; the mirrors and .txt twins of the above.
 
+## Batch 1 result (this session, STEPS 1–3) and the next-session queue
+
+Six works intaken 2026-09-13, each read in full, each a committed
+unit (ledger flipped; sources/memo/critiques entries all PENDING
+HUMAN REVIEW): **Varoufakis** (T3, ch12 + ch01/ch02 pointers),
+**Vale** (T2, ch10/ch07/ch06), **Howard** (T2, ch06/ch10 — the
+attributed Castillon sentence is NOT in the book), **Chernow** (T3,
+ch12 — wealth arc confirmed but unfootnoted; 34 not 37), **Parrott**
+(T2, ch12/ch04/ch10 — compagnies/Charles VII nowhere in the book;
+p. 291 naval concession), **Tilly** (T2, ch10/ch12/ch04/coda —
+pp. 207–8 hand ch12 a new objection). Assembly re-run: flag counts
+unchanged at 111 (55 GAP, 29 TRANS. CLAUDE, 16 BRIDGE, 11 RE-CHECK
+AT PRESS) — expected, since no draft.md was touched; the closable
+flags close at the next renovation per the memo proposals.
+
+Next-session intake queue, in priority order (class (a) above, less
+the six done): 1. Basin-Samaran T.I (T1/T2, gates ch10 Praguerie
+sourcing); 2. Bratton clean MIT copy (closes the scan-page re-pin
+flags); 3. Yergin; 4. Spruyt (sidecar ready); 5. Sharman; 6. Andrade
+(EPUB — unzip+strip first). Then: Hoffman, Scheidel, Freedman, Hall,
+Bobbitt, Zielonka, Strayer, Elliott, İnalcık (OCR needed), Kafadar,
+Vaughan, Rogers ed., Miller, Brands, Gosztonyi & Gyetván. Loans
+stay unconverted per the standing rule — flagged for Roderick.
+
 ---
 
 # Outstanding sources — the reconciled list, 2 September 2026 (updated after the second-pass pulls)
