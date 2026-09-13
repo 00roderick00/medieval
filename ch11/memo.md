@@ -498,3 +498,212 @@ STATUS: REVIEWED (Roderick, 2026-07-31 — read in full, nothing to add; no revi
    using Sharman as the synthesis pointer. No contradiction
    reaching a spine ruling; the Objection 7 engagement is at
    ch10/ch06 critiques.
+
+3. **(2026-09-13 — integration run: Lander — the synthesis finding
+   that Henry VII cannot be the book's English consolidator.
+   PENDING HUMAN REVIEW.)**
+   - CONFIRMS: the §II tally at its source — 46–47 of 62 peerage
+     families at the king's mercy, 36 under bond, 16 free
+     (p. 292; cite this page, not his unreconciled pp. 281
+     variants); the 1504 licensing act (p. 34); the chamber
+     inherited-then-revived arc (p. 41).
+   - CORRECTS (draft wordings quoted; renovation items): §I
+     "paid two instalments" → "probably paid no more than
+     £1,000" (p. 289); §I "comparable to a year of the crown's
+     whole ordinary revenue" → about TWO-THIRDS of a year
+     (revenue £104–113,000, p. 42; the near-year figure is the
+     indenture's admitted £100,000 debt); §I "contrary to the
+     statute of 1504" → prosecuted under the RANK RULE OF 1390
+     (pp. 33–4); §II "retained, to the letter, his father's
+     machine" → Henry VIII cancelled at least 45 recognizances
+     in year one, 130 more in five years, "possibly nine peers
+     at the most remained bound" by mid-1510, landed income
+     falling £40,000→£25,000 by 1515 (pp. 298–9, 48).
+   - THE FINDING (synthesis §3b, its own statement): England
+     1461–1509 consolidated by AVOIDING war and taxation
+     (campaigning "little more than 12 or 13 weeks in 32
+     years," p. 62; direct taxation c. £10–13,000 a year,
+     pp. 39–40), kept no standing army "for they simply could
+     not afford one" (p. 13), and disciplined its nobles by a
+     legal terror its author's son dismantled within a year.
+     Henry VII is the PRE-SETTLEMENT case — monopoly-without-
+     fisc, governing by recognizance. Either the English Tudor
+     turn is dated to the 1530s with the dissolution named as
+     its fisc, or spine §3's "standing taxation established" is
+     rewritten for England — RULING-SHEET §5(k); this touches
+     the spine and is Roderick's. The §§I–II Henry VII passages
+     are wrong as written whichever way the ruling goes.
+   - ADDS: 1475 as the anti-France (the 1472 grants lodged with
+     St Paul's and provincial repositories, not the exchequer —
+     "They refused to trust the king with the money," pp.
+     231–3) — the paired case for ch10 §VI; Harrington's binary
+     ("a monarchy, divested of its nobility, has no refuge under
+     heaven but an army. Henry had no army," p. 296) for
+     §VII/ch12; the licence both ways (Bergavenny fined for 471
+     in 1507, licensed without limit in 1512, p. 290) — private
+     force as a switchable state resource; attainder reversal
+     rates (64 per cent overall, 84 per cent of peers, pp.
+     129–30).
+
+4. **(2026-09-13 — integration run: Grummitt — the chamber
+   corrected on both sides. PENDING HUMAN REVIEW.)**
+   - CORRECTS: §II "the machine was inherited and enlarged, not
+     invented" (Wolffe) → the Yorkist chamber "did not represent
+     a financial refoundation" and Henry's system "was not
+     simply a continuation" (pp. 242–3) — the [GAP: Chrimes]
+     closes on the revisionist side; §II "the sovereign as his
+     own comptroller … signing off payments weekly" → the
+     signing "does not represent Henry's daily supervision of
+     some kind of royal 'current' account" (p. 234); the money
+     sat in "a linked system of deposit treasuries" (p. 241) —
+     the clean "national treasury" line must be dirtied to an
+     informal, decentralised, hidden system; Wolffe's "all the
+     receipts were spent" is wrong (£36,807 to the Tower
+     coffers unentered, p. 235).
+   - CONFIRMS: receipts £105,163 average 1502–05 (p. 233); the
+     personalised-to-institutionalise paradox is his conclusion
+     (p. 241).
+   - ADDS: the 1497 reserve spent on the Cornish rebels BEFORE
+     the tax arrived (p. 240) — a standing cash reserve used
+     for coercion ahead of the assembly's grant, the chapter's
+     best English fiscal-military datum; £108,000 to the
+     Archduke as "almost one year's entire nominal income"
+     (p. 237); Hoyle's inference that the treasure was real and
+     "frittered away on his son's first war" (p. 239).
+
+5. **(2026-09-13 — integration run: Ágoston and İnalcık 1960 —
+   devolution dated, the execution re-dated. PENDING HUMAN
+   REVIEW.)**
+   - CORRECTS: §IV "on 1 June 1453, three days after
+     Constantinople fell, Mehmed executed his grand vizier" →
+     1 June is the Pera amān-nāme Zaganos signed; arrest within
+     three days, execution at Adrianople "in August or even
+     later in September" (İnalcık 1960, pp. 412–15; his vizier
+     list closes Çandarlı at 30 May). §IV janissary strength
+     "roughly five to ten thousand" → write the GROWTH: "from
+     four or five thousand to ten or twelve thousand by Mehmed
+     II" (İnalcık p. 426), with 7,841 on Ágoston's 1484 register
+     (Table 7, p. 113). The Ottoman fisc was not a cash
+     household from the start: gunners paid by TIMAR from the
+     1390s, salaried a generation later (Ágoston pp. 88, 93).
+   - ADDS: Mehmed's three fiscal measures after 1471 (recoinage
+     at one-sixth thrice, land review, tax-farming) and the 3.5
+     million ducats of ready money at his death (İnalcık p. 426,
+     Topkapı E. 9713); the Tophane as the first state foundry
+     (Ágoston p. 101); the janissary revolt at Mehmed's death
+     and the commissioned histories as the losers' record
+     (İnalcık p. 426, 410) — ch06 §VI's theme in Ottoman dress.
+   - THE OBJECTION (with Kafadar and İnalcık 1973): critiques
+     entry this date — "military devolution" (Ágoston p. 123)
+     as §IV's mandated ending and §V's mandated exemption.
+
+6. **(2026-09-13 — integration run: Kafadar and İnalcık 1973 —
+   the Ottoman comparator corrected and re-clocked. PENDING
+   HUMAN REVIEW.)**
+   - CORRECTS: §IV "the last of the old aristocratic vizieral
+     dynasty" → "ulema-origin vizierial dynasty" (Kafadar
+     p. 111; İnalcık pp. 21, 65, 95 concur); §IV "Mehmed II
+     manufactured his service class from raw material" → Mehmed
+     COMPLETED the kul system — corps and levy date to the
+     1370s–90s, ascendancy sealed 1481–82 when the janissaries
+     enthroned Bayezid and imposed the slave-vizierate condition
+     (Kafadar pp. 139, 148; İnalcık pp. 77–8); ch05's "weary of
+     the throne" → a father's insurance against the pretender
+     Orhan, captured by the war party (İnalcık p. 20; Kafadar
+     p. 146) — both motives, neither weariness; §I/§V's
+     1470–1530 window → the Ottoman case runs on its own clock
+     (decisive phase 1453–84, instruments fourteenth-century;
+     Kafadar p. 96, İnalcık p. 73) — state as comparator on a
+     different sequence; §IV "canonically one per forty
+     households" → NO ratio in İnalcık (p. 78: 1,000–3,000 boys
+     annually, levies every three-to-seven years) — RE-SOURCE OR
+     CUT the one-in-forty; the confiscation figures: İnalcık's
+     twenty thousand villages as the total, Kafadar's thousand
+     as the dervish subset, Özel's caveat against both (İnalcık
+     p. 30; Kafadar p. 97).
+   - ADDS: the pençik origin — the standing army built by a
+     fiscal claim on the gazis' booty (Kafadar pp. 112–13); "If
+     Belgrade is conquered … we will have to plow the land"
+     (p. 147) as the chapter's one primary line for what
+     consolidation meant to the suppressed; the fourth move
+     (Sunni canonical assertion — Seyyid Gazi, Ebüssuûd, vakıf
+     control: Kafadar pp. 92, 153–4; İnalcık pp. 150, 201) and
+     the fifth (the CADASTRE, print refused — İnalcık pp. 62,
+     102, 174) — the Ottoman fifth cell reads "cadastre; print
+     refused," a disanalogy §V must state; Knolles's Elizabethan
+     gloss on the kul meritocracy (Kafadar p. 31).
+
+7. **(2026-09-13 — integration run: Elliott, *Imperial Spain* —
+   the Spanish limb gains its fisc and loses its unity. PENDING
+   HUMAN REVIEW.)**
+   - CONFIRMS: the Hermandad stood up and wound down (PDF 92–3);
+     the Orders as "a State within the State," incorporated by
+     bull of 1523 (PDF 94, 205); church-silverware absorption
+     ("despoiling the Church … without going to the lengths of
+     rupture," PDF 205); "operative but never invested" in the
+     encomienda (PDF 82).
+   - CORRECTS: Alcántara vacant 1494 (not "under a bull of
+     1492"); Santiago — 1476 the precedent, 1499 the tenure;
+     the Hermandad-financed-Granada sentence is not Elliott's
+     (re-source to Ladero Quesada or cut); ch05 §VII "Aragon
+     expanding" → "a society in retreat" (PDF 51), civil war
+     1462–72, Roussillon annexed 1463 — Iberia belongs INSIDE
+     ch05's modal condition, Portugal alone stands; §V "the
+     Habsburg composite followed its own path a generation
+     later" → the composite was Ferdinand's (Council of Aragon
+     1494; the Habsburgs inherited it, PDF 89); ch08's
+     "audiencia of Valladolid … 1485" → chancillería, second
+     seat Ciudad Real 1494, moved to Granada 1505 (PDF 102).
+   - ADDS (the fiscal limb §III lacks): revenue 900,000 →
+     26,000,000 reales 1474–1504, outside Cortes control
+     (PDF 97–8); Granada as siege war → juros → the annexed
+     Orders pledged to bankers (PDF 54, 98, 205); the Act of
+     Resumption 1480 (PDF 95); the corregidor (PDF 100);
+     Nebrija's "language is the perfect instrument of empire"
+     (PDF 132) and Simancas (PDF 175–6) for move five; the
+     credit state (39 million ducats borrowed on Castile's
+     credit; 65 per cent of ordinary revenue to annuities by
+     1543; bankruptcies 1557/1575/1596 — PDF 210–14) for
+     ch10/ch12.
+   - The contradiction (plural monarchy; Nueva Planta 1716;
+     "precondition" narrowed to "condition of sustaining") is
+     the critiques entry this date; the register decision is
+     ruling-sheet §5(h) and (n).
+
+8. **(2026-09-13 — integration run: Eisenstein and Johns — the
+   print limb split in half. PENDING HUMAN REVIEW.)**
+   - THE EISENSTEIN FILE RULE (STEP 0): pins usable, no
+     quotations — every Eisenstein passage cited here awaits
+     re-quotation from the English edition. What she carries
+     for §V (pins only): the mandate side — authorised
+     vernacular Bible, Lily 1542, Grafton 1545, Cromwell as
+     operator, the England/France reversal, the Index dates.
+   - CORRECTS: §V "the Index … followed in 1559" as a
+     "mirror-move" → a PARALLEL move continuing a forty-year
+     sequence from 1520 (orig. 347); §V's 15–20 million
+     first-half-century output → her figure is Clapham's c. 8
+     million — cite Febvre & Martin for the range or widen it;
+     §V "delegated enforcement to a chartered guild" → Johns:
+     chartered a guild that became "a 'Petit State'" (p. 308);
+     §V standardisation → the state could MANDATE the canon,
+     not standardise the text (Luther piracies ninety-to-one,
+     Johns p. 31): say "mandated."
+   - THE FINDING (synthesis §5(p), for the ruling sheet): print
+     was NOT the second capital-intensive medium — the hand
+     press was cheap and everywhere (fifty-three houses against
+     a cap of twenty, Johns pp. 72–3); the licensing state ran
+     1538–1695 with interruptions and then ENDED; the crown's
+     one absorption attempt (quo warranto 1684) was reversed by
+     a change of dynasty; capital intensity in print arrives
+     with STEAM (Johns p. 629). The platform parallel is to
+     steam, not Gutenberg. §V must state the disanalogy: cannon
+     was the weapon the subjects could not replicate; the press
+     the one they always could.
+   - ADDS: the Corsellis forgery (Johns pp. 340–43) — Henry VI
+     retrofitted in 1664 as the royal founder of English
+     printing, the claim forged because the history did not
+     supply it — a paragraph in its own right; James II's
+     "Prerogative inseparable from the Soveraignty" (p. 319)
+     and the 1684–88 arc for ch12 §IV as the worked example of
+     absorption attempted and lost; the patentee caste (p. 250)
+     as the Stuart form of the licensing prediction.

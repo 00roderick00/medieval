@@ -275,3 +275,132 @@ survives its members losing cases, but not the court losing the cases.
      Venette, *Chronicle* (tr. Birdsall, ed. Newhall, Columbia
      1953); Lefèvre, "La déconfiture" (on Montebelluna's *Tragicum
      argumentum*). Nothing enters ch06/ch07 until those are in repo.
+
+2. **(2026-09-13 — integration run: the Ottoman devolution
+   objection — Ágoston with Kafadar and İnalcık. PENDING HUMAN
+   REVIEW.)**
+   - **Steelman (at the assessments' full strength).** The
+     Ottoman state was consolidated BEFORE the gun and dissolved
+     BY it. Every instrument in İnalcık's anatomy is
+     fourteenth-century — the kul corps (the "first standing
+     army in Europe," p. 11), the timar, the kanun; cannon
+     arrive as borrowed Balkan kit in the 1420s (p. 21); 1453
+     sealed centralism by prestige as much as breach (Kafadar
+     p. 18). And when the firearms-driven fiscal transition
+     finally ran, it DESTROYED the settlement: the timar army's
+     "day passed when it met the German infantry equipped with
+     firearms" (İnalcık p. 48); money taxes "revolutionized the
+     tax system" (p. 50); the product was sekban-raising
+     governors, celali wars, and provincial janissaries as "a
+     new upper class" (p. 51) — "the Ottoman experience was
+     military devolution" (Ágoston p. 123), with prebends
+     converted in deficit from the 1590s and governors' private
+     armies rising from a third to over half the muster (pp.
+     121–3). The chain weapon → cash → treasury → suppression
+     ran, and its output was a NEW stratum of intermediaries.
+     This reaches the DEFEND-tier mechanism wherever the
+     Ottomans are carried as its limit case, and refutes §V's
+     "none was executable without it" for the Ottoman member.
+   - **The chapter's answer (the assessments' answer, graded
+     ADEQUATE on three conditions).** The Ottoman case
+     demonstrates the REQUIREMENT twice over: a polity that had
+     built household, register and cash-paid core by
+     pre-artillery means was thereby the polity able to cast
+     and feed the guns of 1453 and use them to lock its
+     settlement (Çandarlı staked his position on the walls
+     holding and lost it; the Belgrade gazis knew what
+     consolidation meant); and the base beneath the guns was
+     revenue-assignment adopted because coin was short — when
+     firearm infantry had to be paid in coin at scale, the
+     settlement converted late, in crisis, and re-dispersed
+     power. Devolution is what happens when the cash settlement
+     of the 1439–46 kind is never made — the failure mode
+     appearing exactly where the condition fails. THE THREE
+     CONDITIONS: §IV stops calling the Ottoman case the
+     fifteenth century's "most complete answer to the
+     over-mighty subject" without adding pre-artillery, in-kind,
+     undone by the gun's fiscal demand; §V's closing sentence
+     EXEMPTS the Ottomans (ruling-sheet §5(g)/(m)); Appendix B's
+     Ottoman row carries a "conversion failed, 1580s–1600s"
+     cell pinned to Ágoston pp. 121–23 and İnalcık pp. 48–51.
+     Kept as drafted, the Ottoman variant is refuted by its own
+     standard authorities. The devolution is also the FIFTH
+     FAILURE MODE the platform chapters should fear: absorption
+     undone by the absorbed capability becoming an estate
+     (logged for ch12).
+
+3. **(2026-09-13 — integration run: Elliott's durable composite.
+   PENDING HUMAN REVIEW.)**
+   - **Steelman.** The 1992 essay runs the book's mechanism —
+     "war and economic depression appeared to strengthen the
+     case for the concentration of power … All this made a
+     higher degree of union the order of the day" (p. 63) — and
+     reports its FAILURE: the fiscally-driven unions of the
+     1620s produced 1640, not 1485; "only three successful
+     secessions from a composite monarchy" 1523–1707 (p. 68) —
+     the loose form was durable, not transitional; the
+     eighteenth-century fiscal-military state "remained
+     essentially composite" (p. 70). The book of 1963 says the
+     same at polity scale: Spain was "a plural, not a unitary,
+     state" (PDF 90); the greatest military power of the
+     sixteenth century fielded decisive force for 150 years on
+     Castile, credit and silver without completing the
+     settlement; Olivares's one deliberate attempt was refused;
+     the unitary state arrived by conquest in 1707–16, "too
+     late, and … in the wrong way."
+   - **The chapter's answer (graded: good, but it NARROWS the
+     claim).** The mechanism operates on the CORE — and
+     Elliott's Castile executes it cleanly (revenue up nearly
+     thirtyfold outside Cortes control; magnates broken; Orders
+     annexed; corregidor everywhere; his own boundary sentence
+     "in Castile at least," PDF 91). The composite is what the
+     core rules through — §8(b)'s hybrid, with Solórzano's two
+     legal forms as ch12 §IV's grammar (accessory union;
+     *aeque principaliter*). But the DEFEND-tier claim narrows:
+     the settlement subordinates the intermediaries OF THE CORE
+     and rules the periphery by contract; and Spain shows the
+     settlement is not a precondition of decisive force but a
+     condition of SUSTAINING it (his PDF 379: Spain lost after
+     1650 to states that had completed it). All four of §V's
+     consolidators were composites; ruling-sheet §5(n) — this
+     touches the spine and is Roderick's.
+
+4. **(2026-09-13 — integration run: the print objection —
+   Eisenstein and Johns against the second-medium sentence.
+   PENDING HUMAN REVIEW.)**
+   - **Steelman.** The hand press was cheap and everywhere; the
+     dispersed polity exploited it best (Eisenstein's Dutch
+     point, orig. 645 — pins only, re-quote from English); the
+     most consolidated states throttled their own print; the
+     English crown's absorption attempt (patentee caste, quo
+     warranto 1684, James II's "Prerogative inseparable from
+     the Soveraignty," Johns pp. 250, 318–19) won its cases and
+     LOST the medium in 1688–95 — the licensing state ended and
+     was never restored (p. 234); the medium that let Henry
+     mandate a canon let Luther and the pamphleteers of 1641
+     unmake crowns; and print's real capital-intensity arrives
+     with steam in the nineteenth century (p. 629). "Mandate
+     the canon, license the presses" is, on Johns's account,
+     the earliest documented case of a consolidator FAILING to
+     absorb a stack.
+   - **The chapter's answer (graded good, at a stated cost).**
+     Split the sentence: the MANDATE half endured (parish
+     Bible, primer, register — Eisenstein's own state pages);
+     the LICENSING half lasted 157 years and was surrendered by
+     a state that could not hold fifty-three printing houses to
+     twenty. The capital-intensity lay in the administration of
+     the canon at national scale, not the plant; the press was
+     longbow-priced, and the disanalogy must be stated in
+     CLAUDE.md §6 form: cannon was the weapon the subjects
+     could not replicate, the press the one they always could.
+     The platform parallel is to STEAM, not Gutenberg — which
+     strengthens, not weakens, ch12's claim (today's models and
+     fabs are steam-priced). And the 1684–88 arc becomes the
+     book's own precedent FOR §8(c)'s ruling: seizure failed;
+     what survived 1695 was regulation of the switch (deposit,
+     liability, copyright). Cost: §V's "sceptics concede"
+     sentence must be earned with Johns's numbers in the text,
+     and the "second capital-intensive medium" phrase goes to
+     the ruling sheet (§5(p)). Johns's constructed-revolution
+     warning (p. 625) is met by the book's dating method: siege
+     durations, not Victorian commemoration.
