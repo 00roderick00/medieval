@@ -378,3 +378,29 @@ STATUS: REVIEWED (Roderick, 2026-07-22) — cleared for drafting
    - Provenance note: his Hansa historiography rests principally
      on Dollinger and older German scholarship — date the entries
      accordingly.
+
+7. **(2026-09-13 — integration run: Lane — the Venice sections
+   corrected and re-registered. PENDING HUMAN REVIEW.)**
+   - RE-SOURCE OR CUT (two named items of the instruction):
+     (i) the BOCCHE DI LEONE and the destruction of anonymous
+     denunciations — nowhere in Lane (searched); the [GAP]
+     cannot close from him; re-point to Chambers & Pullan or
+     cut. (ii) The COLLEONI CAPTAINCY-for-life (1455) — not in
+     Lane; and "the loyal one" is wrong on his account (the 1467
+     Romagna adventure; the deathbed sequestration): rewrite as
+     Colleoni's bargain — contractual fidelity to the paymaster
+     plus licensed ambition elsewhere, ending in sequestration
+     and a statue; nearer the venture-defence case than "tenure
+     and bronze for the loyal."
+   - CORRECTS: Carmagnola "tried in secret" → formal hearing,
+     public execution (p. 232); §VI Arsenal figures (sixty
+     acres, 2,000/3,000 men; the galley-a-day parenthesis
+     replaced by the dated 1570 surge); the 1262 debt terms
+     (five per cent a year, half-yearly; "the propertied"); the
+     Ten's permanence undated in Lane.
+   - CONFIRMS: §II's most-institutionally-careful-buyer frame
+     (p. 232); the Sforza accumulation reading (p. 234); the
+     1463 cadaster and parish capi for §VI's legibility line
+     (pp. 99, 238).
+   - CONTRADICTS (critiques entry this date): "Venice became the
+     proto-state itself" (§VII).

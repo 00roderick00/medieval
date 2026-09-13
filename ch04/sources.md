@@ -193,3 +193,48 @@ retrieval-master.md accordingly.*
   due to the organizational flaws of the Hanseatic League" (p. 166)
   — the TYPE of war had changed; he does not ask why. Rival
   engagement at ch10 critiques Revisions 3.
+
+## Added 2026-09-13 — integration run (September-intake assessments; pins verified against sidecars)
+
+- **T2 — Frederic C. Lane, *Venice: A Maritime Republic* (Johns
+  Hopkins, 1973)** — IN REPO (sidecar
+  `text-2026-09-13b/Lane-Venice.txt`; printed = PDF−22; clean body
+  text). USE-NOTE (assessment): ALLY with the Colleoni correction;
+  RIVAL on "proto-state." What he carries for §§II–III and §V:
+  Venice "one of the most successful employers of condottieri"
+  (p. 232); Carmagnola's end corrected — arrest by deception, "a
+  formal hearing of evidence," execution "in a public ceremony
+  between the two columns of the Piazzetta" (p. 232) — NOT a
+  secret trial, and no 5 May in Lane; the Colleoni statue placed
+  at the Scuola, not the Piazza, because "such glorification of
+  any individual person was not permitted at the center of
+  government" (p. 233); Sforza using contracts "to accumulate
+  army, income, and lands so as to become himself a member of the
+  state system" (p. 234); the condottieri's own cartel logic —
+  the recorded conversation urging that they "avoid winning
+  victories for Venice because, if she became any stronger, she
+  would be able to impose peace on Italy and put them all out of
+  work" (p. 234). THE COLLEONI CORRECTION (RE-SOURCE OR CUT the
+  draft's "the loyal one" / captaincy-for-life): in 1467 Colleoni
+  was carving a Romagna principality with Florentine exiles until
+  bought off (p. 236); at his death the republic seized much of
+  his estate "as soon as he was dead and his army and skill was
+  no longer to be feared" (p. 233); his loyalty, in Lane's exact
+  phrase, was that he "had never treacherously broken a contract"
+  — contractual fidelity plus licensed freelance ambition, ending
+  in sequestration and a statue. No captaincy-for-life (1455) in
+  Lane — pin elsewhere or drop. §VI corrections: the Arsenal was
+  sixty acres (~24 ha), c. 2,000 men, 3,000 in emergencies (p.
+  362) — not forty-five hectares and sixteen thousand; the surge
+  datum is "100 galleys within two months in the spring of 1570"
+  (p. 364); the 1262 debt paid five per cent A YEAR, half-yearly,
+  forced loans on "the propertied" not "the wealthy" (pp. 150–51);
+  no date in Lane for the Ten's permanence; NO bocche di leone
+  anywhere (RE-SOURCE to Chambers & Pullan OR CUT). THE RIVAL
+  LIMB (critiques): "Venice became the proto-state itself" (§VII)
+  must go — Lane's Venice has the instruments and refuses the
+  form ("Administration by boards of elected officials limited
+  Venice's development of bureaucratic structures," p. 266;
+  "those most nearly successful were, except for Venice,
+  monarchies," p. 251). Retrieval: Mueller vol. II and Luzzatto
+  PRV for the §VI debt dependencies; Chambers & Pullan.

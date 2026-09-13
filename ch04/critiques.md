@@ -177,3 +177,27 @@ named, dated instances and stakes a conditional claim on its continuation.
   out of the mechanism?
 
 *(Run pending; results to be pasted below with date.)*
+
+## Revisions (2026-09-13 — integration run, PENDING HUMAN REVIEW)
+
+1. **Lane on "proto-state."** Steelman: Lane's Venice ran
+   surveillance, state manufacturing and funded debt — and
+   refused the form: "Administration by boards of elected
+   officials limited Venice's development of bureaucratic
+   structures like those employed by contemporary Renaissance
+   monarchs" (p. 266); the secretaries "were not under
+   centralized bureaucratic control"; "those most nearly
+   successful were, except for Venice, monarchies" (p. 251). The
+   §VII sentence "Venice became the proto-state itself" is denied
+   by the standard authority. Answer (assessment grade: GOOD —
+   and it improves the chapter, at the cost of the sentence):
+   drop "proto-state"; keep §VI's narrower claim (the instruments
+   arose in a republic out of commerce) and turn Lane against the
+   objection — Venice isolates the ADMINISTRATIVE leg of the
+   triad: capital, credit and an arsenal, and by Lane's verdict
+   "could not in the long run compete" because it "failed to make
+   the many institutional changes that were called for." The
+   mechanism confirmed by a polity that stopped two steps in.
+   Cross-ref: ch10 critiques Revisions 8 (the fisc-driven-by-war
+   disanalogy) and ch12's EU paragraph (Lane's sentences entered
+   at ch10/sources).
