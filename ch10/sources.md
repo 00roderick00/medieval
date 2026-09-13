@@ -549,3 +549,133 @@ accordingly.*
   different "end-to-end networks" sentence at pp. 117–18 and match
   the draft's wording before closing. Full concordance and copy
   characterisation at ch12/sources.md + memo Revisions 12.
+
+## Added 2026-09-13 — integration run (September-intake assessments; pins verified against sidecars)
+
+- **T1 — Cosneau, *Le connétable de Richemont* (1886), pièces
+  justificatives LXXII–LXXXVII** — IN REPO (sidecar
+  `text-2026-09-13b/Cosneau-partial.txt`; printed = PDF−24; OCR
+  digit corruption — verify numerals at page images; the narrative
+  chapters are NOT in the file). The pièces are T1 primary
+  documents in a T2 edition (AN K 68 for the 1445 material). THE
+  LOUPPY DOSSIER: pièce LXXXIV, "ORDONNANCE DE LUPPE-LE-CHASTEL
+  (1445, 26 mai)" (pp. 610–12; K 68 n° 14) — a royal COMMISSION to
+  five named commissioners for Poitou, not the founding ordonnance:
+  assigns 190 lances (100 seneschal, 60 Loheac, 30 Floquet), fixes
+  the lance of six ("ung paige, OU ung varlet de guerre"), taxes
+  the province in kind and money "exemps et non exemps,
+  privilégiez et non privilégiez" (p. 612, sidecar verified),
+  quarterly, sum left blank in the original, collected "par toutes
+  voies acoustumées a faire pour noz propres debtes." Its opening
+  shows the founding ordonnances ALREADY IN EXISTENCE; pièce
+  LXXXIII (Richemont's safe-conduct, La Marche, 20 April 1445)
+  proves the lost general act earlier than 20 April. It contains
+  NO total establishment, NO fifteen captains, NO money wage, NO
+  taille, NO word "permanent." SPELLING: Cosneau prints
+  "Luppé-le-Chastel" in heading and dating clause, "Louppy" in his
+  editorial voice; neither "-Château" nor "-Châtel" occurs. PIÈCE
+  LXXXVI, the "trois voyes" (pp. 614–16): the cashification of the
+  payroll — each pays choosing between kind and a money rate,
+  "xxxi l. t. a chacune lance fournie de six personnes et six
+  chevaulx" — matching Contamine's tariff exactly (15 + 2×7 l.
+  10 s. = 30). PIÈCE LXXXII (Orléans, 21 July 1444): the export of
+  the écorcheurs under the Dauphin "en maniére que la force et
+  auctorité nous demeure" (p. 608, sidecar verified) — a T1
+  sentence on the monopoly of force.
+
+- **T2 — Michaël Depreter, *De Gavre à Nancy (1453–1477):
+  l'artillerie bourguignonne sur la voie de la « modernité »*
+  (Brepols, Burgundica XVIII, 2011) — THE MONOGRAPH** — IN REPO
+  (sidecar `text-2026-09-13b/Depreter.txt`; printed = PDF−12).
+  Distinguish from the BCRH ARTICLE already cited as "Depreter
+  2011" — two entries, two pin-sets; the monograph cites the
+  article's pièces n° 1–17. CONFIRMS: the recette de l'artillerie
+  of 9 September 1458, audited at Lille (pp. 35, 38–9); the duke
+  as ordonnateur (p. 10); ducal independence from towns and nobles
+  in guns (pp. 169–79: Bruges lent nothing 1450–77; Namur borrowed
+  FROM the duke); the wheeled-carriage chronology (p. 90 n. 229;
+  the Lambillon trunnion contract of 9 January 1467, p. 11); the
+  319-cart état (Annexe 3, p. 213). CORRECTIONS (memo Revisions
+  26): the Revolution-cartridges anecdote is p. 2, not p. 83, and
+  "all but one destroyed" overstates; the Neuss-état signature is
+  not in the monograph — soften or pin to the article; "corrected
+  for lack of means" must come out of quotation marks; "better
+  than France" confined to the recette and wartime gunner pay
+  (peace pay ran BELOW the French, p. 72); "transferred the whole
+  apparatus intact — lands, revenues, recette and guns" CANNOT
+  STAND — losses at Grandson/Morat "sans doute catastrophiques"
+  (p. 183), arsenals "quasi vidés" (p. 184), what passed was the
+  OFFICE STRUCTURE. THE CONTRARY DIAGNOSIS (critiques Revisions
+  7): the Nancy failure sits in a contested charroi levy (Annexe
+  5), an embezzling receiver (Menostey, gaoled 15 January 1477,
+  dismissed with a fine, pp. 40–44) and unreplaceable losses —
+  the fisc and the administration, not only the dead duke. THE
+  1470 GUNNERS MEMORANDUM (pp. 69–70): "combien que ladite
+  artillerie soit bien et largement pourvueue de bons bastons,
+  touteffois sans avoir gens qui s'en sacent aidier, c'est tres
+  pou de chose" — the payroll thesis stated by a Burgundian clerk.
+  Cost curve: 9,000 lb. (1465) → 55,000 (1473) → 80,000 (Neuss)
+  (p. 40); gunners 40 (1453) → 86 (1473) → 102 (1476) (Tableau 1).
+
+- **T2 — Frederic C. Lane, *Venice: A Maritime Republic* (Johns
+  Hopkins, 1973), with Lane & Mueller, *Money and Banking in
+  Medieval and Renaissance Venice*, vol. I (1985)** — IN REPO
+  (sidecars `text-2026-09-13b/Lane-Venice.txt`, printed = PDF−22;
+  `Lane-Mueller.txt`, printed = PDF−20). USE-NOTE: Venice as the
+  FOURTH COUNTER-CASE (§VI, beside Burgundy, the Swiss, China),
+  with two disanalogies stated: the Venetian fisc was driven by
+  thirty years of Lombard war fought by hired companies, NOT by
+  cannon (the Monte Vecchio arc: 4 per cent at 66 in 1423 → "1
+  percent irregularly and selling at 13" by 1474; direct taxes
+  voted under the shock of 1453; cadaster 1463; Monte Nuovo 1482 —
+  p. 238); and Venetian decisive force was limited by MEN, not
+  capital (the Arsenal "produced more galleys than Venice could
+  find crews for," p. 364). Lane's verdict: larger states were
+  solidifying "with which a city-state such as Venice could not in
+  the long run compete" (p. 241, sidecar verified); "those most
+  nearly successful were, except for Venice, monarchies" (p. 251);
+  no bureaucracy — boards of short-term elected nobles (pp. 98,
+  266–7). The c. 1500 budget (receipts 1,150,000 ducats; interest
+  155,000; 620,000 available for war — p. 237) and Lane &
+  Mueller's 1469 breakdown (p. 187) → Appendix B row. NEGATIVE
+  FINDINGS: no bocche di leone; no date for the Ten's permanence;
+  no Carmagnola secret trial (formal hearing, public execution,
+  p. 232); no Colleoni captaincy-for-life — the ch04 items
+  RE-SOURCE OR CUT. The Mueller volume the ch04/ch10 [GAP]
+  actually needs is vol. II (*The Venetian Money Market*, 1997)
+  with Luzzatto's PRV — retrieval rows.
+
+- **T2 — Philip T. Hoffman, *Why Did Europe Conquer the World?*
+  (Princeton, 2015)** — IN REPO (sidecar
+  `text-2026-09-13/Hoffman.txt`; printed = PDF+9). USE-NOTE: THE
+  RIVAL ENGINE WITH PRICE SERIES — engaged BY NAME in §VII text,
+  not a footnote (critiques Revisions 5). The tournament model:
+  innovation "an inadvertent by-product of fighting wars"; the
+  gun decisive only because NEW; the fisc the output of war;
+  Europe "did get strong states, at just the moment when the
+  gunpowder technology had enormous potential for improvement"
+  (p. 131) — AT JUST THE MOMENT: coincidence, not coupling. THE
+  PRICE CORRECTION (§5(a) of the synthesis, ruling sheet):
+  English artillery prices relative to factor costs FELL 1.4 per
+  cent a year 1382–1439; Frankfurt handgun productivity rose 3
+  per cent a year (Tables 2.5–2.6, pp. 61–3) — wherever the draft
+  says "price of decisive force" unqualified, it means
+  ESTABLISHMENT or entry cost (the 1442 document measures the
+  right thing). THE 1360s (ruling sheet §5(j)): first permanent
+  French taxation is Charles V's, via Henneman (p. 135) —
+  reversed on the deathbed in 1380 — so 1439–46 is the SECOND
+  making of permanence, the strongest evidence that
+  irreversibility, not permanence, is the thing to explain; his
+  own assumption "political learning or financial innovation is
+  usually not forgotten" (p. 140, sidecar verified) is refuted by
+  his own French case. WHAT HE HANDS THE BOOK: the fixed cost *b*
+  as the ratchet at inter-state scale (p. 141); Brandenburg 1653
+  as the ratchet re-run (p. 136, sidecar verified: the enlarged
+  army "quashed resistance to making the tax increases
+  permanent"); the Tokugawa control case (pp. 82–4); the
+  janissary trap for ch11 (p. 148). WHERE HE BITES HARDEST: the
+  private-budget inversion (Dutch state outspending the VOC
+  16–50×, p. 160) — on his model the learning is where the
+  spending is, and today that is the platforms; the draft has
+  not yet answered this (critiques). Never cites Contamine,
+  Curry, Vale or DeVries 1998.

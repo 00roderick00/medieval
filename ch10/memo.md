@@ -1283,3 +1283,142 @@ STATUS: REVIEWED (Roderick, 2026-07-23) — cleared for drafting
     technology" claim (1998) is qualified by Gunn, Grummitt &
     Cools (2007) and Grummitt on Calais ordnance — record as
     contested; the Gunn volume is already a ledger row.
+
+25. **(2026-09-13 — integration run: Cosneau's pièces — the
+    synthesis finding that Louppy is not what the chapter says it
+    presupposes. PENDING HUMAN REVIEW.)**
+    - CORRECTS (draft wordings quoted; renovation items): §I "the
+      Louppy text presupposes … the retention, in permanent royal
+      pay, of some fifteen hundred lances … salaried by the
+      crown" → too strong: the document carries no total, no
+      "permanent," no crown salary, no companies; the 1,500-lance
+      figure and crown pay rest on Basin, Escouchy and
+      Contamine's other documents, and §I must say so. Spelling:
+      "Luppé-le-Chastel" when quoting the act, "Louppy" in the
+      text; never "-Château/-Châtel" (neither occurs in Cosneau).
+      Date: 26 May in heading and table; the OCR of the dating
+      clause is ambiguous (xxv*/xxvi) — carry 26 May, note the
+      discrepancy.
+    - CONFIRMS at T1: the lance of six with "ung paige, OU ung
+      varlet de guerre" (pp. 610–11); garrisoning in the bonnes
+      villes with accountable captains "qui ont que perdre en
+      nostre roiaume"; the 20 April terminus for the lost general
+      act (pièce LXXXIII); the export of the écorcheurs "en
+      maniére que la force et auctorité nous demeure" (LXXXII,
+      p. 608).
+    - ADDS: the trois voyes (LXXXVI, pp. 614–16) as the payroll's
+      cashification — the 31 l.t. cash rate per lance matching
+      Contamine's tariff exactly (state the match); the Nancy
+      sojourn fixed Nov 1444–Apr 1445 (LXXVIII bis, LXXXVII); the
+      destruction phase of the export–absorption–destruction
+      sequence (LXXXI–LXXXII, for ch03).
+    - PRESSURE POINT (answered): Louppy is a provincial
+      provisioning levy in kind saying nothing of the taille — a
+      critic could decouple army from tax in 1445. Answer (per
+      the assessment, graded GOOD): the §8(a) ruling already
+      states the hinge as the settlement of 1439–46 made in
+      practice; Louppy and the voyes ARE that practice, the money
+      following the men by months, collected "par toutes voies
+      acoustumées a faire pour noz propres debtes" — the
+      machinery of royal debt. The documents strengthen the
+      co-evolution ruling.
+
+26. **(2026-09-13 — integration run: Depreter's monograph — the
+    synthesis finding that "the Depreter refinement" is not
+    Depreter's. PENDING HUMAN REVIEW.)**
+    - THE ATTRIBUTION (CLAUDE.md §4: (c) must not masquerade as
+      (a)): the monograph never mentions a dynastic centre. The
+      two-variable reading — offices without fiscal permanence,
+      plus one mortal node — is THE BOOK'S OWN inference from
+      Depreter's evidence and must be relabelled as such in
+      ch10, ch11, ch12 and Appendix C (ruling sheet §5(l)).
+    - CORRECTS: §VI "transferred the whole apparatus intact —
+      lands, revenues, recette and guns" → the arsenals were
+      "quasi vidés" (p. 184), losses at Grandson and Morat "sans
+      doute catastrophiques" (p. 183); what passed to Mary and
+      Maximilian was the office structure (Jehan Charles and
+      Dommarien continuing in post). n. 10-30's cartridges
+      anecdote → monograph p. 2, "gargousses de poudre" only,
+      one account survives entire. n. 10-27's Neuss signature →
+      not in the monograph; soften or pin to the article's
+      edition. n. 10-29's "repeatedly corrected for lack of
+      means" → out of quotation marks (the financial reason is
+      posed as a question, p. 117). "Better than France" →
+      confined to the recette (1458 v. 1464) and wartime gunner
+      pay; peacetime ducal pay ran at half the French rate
+      (p. 72).
+    - ADDS: the 1470 gunners memorandum (pp. 69–70) — the
+      corps-not-metal thesis in a Burgundian clerk's hand; the
+      cost curve and Tableaux 1–3 (the only serial non-French
+      personnel/charroi data — Appendix B); the Nancy dossier
+      (Annexes 5–6: the Estates' appeal against the charroi;
+      Dommarien's "tout le monde prent du notre … par povretés");
+      the 1466 anti-fraud ordinance (pp. 11–12); Haynin's
+      Montlhéry "grant hideur et fureur" as counter-witness to
+      DeVries's ten salvos (§V n.).
+    - The contrary diagnosis and its consequences for the EU
+      test: critiques Revisions 7.
+
+27. **(2026-09-13 — integration run: Lane and Lane & Mueller —
+    Venice enters §VI as the fourth counter-case. PENDING HUMAN
+    REVIEW.)**
+    - THE COUNTER-CASE: Burgundy had the apparatus and one mortal
+      node; Venice had a centre nothing could kill (Foscari
+      deposed by vote, 1457, the system carried on, p. 267) plus
+      capital, credit and an arsenal — and, by Lane's flat
+      verdict, no bureaucracy and no executive ("those most
+      nearly successful were, except for Venice, monarchies,"
+      p. 251; "could not in the long run compete," p. 241).
+      Proof by variation completed: survivable centre without
+      apparatus; apparatus without survivable centre; neither
+      consolidated.
+    - DISANALOGIES TO STATE (the assessment's grading: good,
+      provided written into the text): (i) the Venetian fisc was
+      driven by the Lombard wars fought by hired companies, not
+      by cannon — the fisc without the ratchet (direct taxes
+      fell back to a tenth of income by 1600, p. 325); (ii)
+      decisive force limited by men, not capital (Lepanto crews,
+      p. 364) — price is not the only constraint, and §VIII
+      should say so.
+    - ADDS: the Monte Vecchio arc (66→13, 4%→1%, 1423–74) with
+      the 1453-shock direct levies, the 1463 cadaster and Monte
+      Nuovo 1482 (p. 238) — the chain run in a second polity
+      with the disanalogy stated; the c. 1500 budget and the
+      1469 breakdown for Appendix B; Mocenigo's warning against
+      Foscari (p. 229); the Fastolf-style arrears economy has
+      its Venetian mirror in Priuli's "paper and ink" (p. 325).
+    - RETRIEVAL: Mueller vol. II and Luzzatto PRV (the actual
+      carriers of the ch04 §VI debt dependencies); Chambers &
+      Pullan for the bocche di leone (RE-SOURCE OR CUT in ch04).
+
+28. **(2026-09-13 — integration run: Hoffman — the price
+    correction and the 1360s. PENDING HUMAN REVIEW.)**
+    - CORRECTS (ruling sheet §5(a)): wherever the draft says the
+      PRICE of decisive force rose in the window — "prices,
+      however, are facts" (§VII) — Hoffman's tables show unit
+      prices FALLING through 1382–1439 (artillery −1.4 per cent
+      a year against factor costs; handgun productivity +3 per
+      cent). What rose was the ESTABLISHMENT cost — the 1442
+      document measures the right thing; the vocabulary must
+      say establishment cost, entry cost, standing cost, never
+      unit price.
+    - CORRECTS (ruling sheet §5(j)): §III "The constitutional
+      theory of French taxation before 1439 was consent … the
+      grant lapsed" → imprecise: Charles V made the levies
+      permanent in the 1360s (Henneman via Hoffman p. 135) and
+      the permanence was REVERSED on his deathbed in 1380.
+      1439–46 is the second making — the strongest evidence the
+      book has that irreversibility, not permanence, is the
+      explanandum, and the thing Hoffman's own model assumes
+      (p. 140: learning "usually not forgotten") and his own
+      French case disproves. §III should carry it; §II's
+      Charles V army concession gains its fiscal twin.
+    - ADDS: Brandenburg 1653 as the ratchet re-run (p. 136 —
+      emergency grant, war, the enlarged army "quashed
+      resistance to making the tax increases permanent");
+      Koxinga's heirs forgetting siege works (p. 78) for the
+      train-as-career-service argument; the Silicon Valley
+      cluster line (p. 163) and the research/procurement split
+      (p. 201) for §VIII; the janissary trap (p. 148) for ch11.
+    - THE RIVAL ENGINE and where he bites hardest: critiques
+      Revisions 5.

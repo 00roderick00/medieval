@@ -525,3 +525,140 @@ list; steelmen provisional; do not caricature.
    state system: competition explains who wanted guns;
    capital-intensity explains who could field them and what
    happened to everyone in between.
+
+5. **(2026-09-13 — integration run: Hoffman's tournament — the
+   rival engine with price series, engaged by name. PENDING HUMAN
+   REVIEW.)**
+   - **Steelman.** Causation runs the other way: innovation is
+     "an inadvertent by-product of fighting wars"; the fisc is
+     the output of war, not the gun; the gun matters only
+     because it was NEW (high learning potential); and there is
+     no threshold, no minimum price of sovereignty, no
+     irreversibility point — France's permanent tax is a 1360s
+     political bargain six decades before a siege train
+     mattered, and Part II's whole story is his one sentence:
+     Europe "did get strong states, at just the moment when the
+     gunpowder technology had enormous potential for
+     improvement" (p. 131) — coincidence, not coupling. His
+     tables show unit prices falling through the book's window.
+     This reaches spine §8(a) and the DEFEND-tier mechanism —
+     it is the Tilly-general engine §8(a) differentiates from,
+     now with price series.
+   - **The chapter's answer (assessment grade: GOOD, and naming
+     him strengthens it).** What the book claims and Hoffman
+     lacks is a mechanism of IRREVERSIBILITY. He assumes it —
+     "political learning or financial innovation is usually not
+     forgotten: once the political costs fall, nothing short of
+     … cataclysm will raise them again" (p. 140) — and his own
+     French case refutes the assumption: the 1360s levies WERE
+     forgotten in 1380 and had to be remade in 1439–46. The
+     book supplies what he assumes; his fixed cost *b*, raised
+     for everyone else by the great powers' spending (p. 141),
+     is the ratchet at inter-state scale; and Brandenburg 1653
+     (p. 136) is the ratchet re-run on his own page.
+   - **Where he bites hardest (assessment grade: the draft has
+     NOT yet answered).** The private-budget inversion: learning
+     is where the spending is (the Dutch state outspent the VOC
+     16–50×, p. 160) — and §VIII concedes today's inversion
+     ($109.1bn private AI investment against the public lines).
+     On Hoffman's model the platforms are where the learning
+     lives and the state is the minor partner. The draft must
+     say WHY control migrates to the smaller spender — in the
+     fifteenth century it did not have to, because the crown was
+     the larger spender. Open item for the renovation; flagged,
+     not resolved.
+   - **The single-winner falsifier.** "if one of these monarchs
+     had somehow … become a European hegemon, then learning by
+     doing would have screeched to a stop" (p. 66). The wager is
+     for three or four blocs, so the tournament survives at bloc
+     scale — but a single winning bloc would, on Hoffman's
+     model, end the innovation the stack runs on. Candidate
+     scored falsifier for Appendix C (logged at appendix-c
+     memo). The EU's free-riding (p. 205) must be stated as
+     HIS prediction and the book's Depreter-test subject.
+
+6. **(2026-09-13 — integration run: Thompson's Spain — the
+   sceptic who does not concede. PENDING HUMAN REVIEW.)**
+   - **Steelman (Rogers ed., pp. 273–98).** After 1490 the
+     Castilian artillery account "hardly ever represented more
+     than about 4 or 5 percent" of the domestic military budget;
+     aristocratic arsenals survived into the seventeenth century
+     (Las Navas's fifty tons donated in lieu of taxes), declining
+     "not because they could not be afforded, but because they
+     were not needed"; "War … did not necessarily have a
+     centralizing effect" (p. 290); Spain ended in "the
+     devolution and privatization of coercive-extractive and
+     military-administrative functions" (p. 291). Reaches the
+     DEFEND-tier mechanism and §8(a).
+   - **The chapter's answer (assessment grading preserved: YES
+     on the threshold; NO on the deeper point — concede it).**
+     The mechanism claims an entry threshold in 1440–1500, not a
+     persistent budget share: Thompson's 4–5 per cent is a share
+     of a treasury whose spending multiplied twenty-fold — a
+     constant small share of a vastly larger budget is what a
+     capability looks like once routine; Rogers's 1442 ratio and
+     Thompson's post-1490 share measure different things; Las
+     Navas's park is fortress metal, not a train; and his "not
+     needed" is the suppression described. BUT the deeper point
+     stands and §VII must concede it: the chain's later links
+     (finance → administration → suppression) are not automatic
+     — Spain is a case where the first link fired and the chain
+     stalled for 150 years, in the most heavily armed monarchy
+     in Europe. To be conceded, not smoothed; the
+     "sceptics-concede" arc gains the sceptic who does not.
+
+7. **(2026-09-13 — integration run: Depreter's contrary
+   diagnosis of Nancy. PENDING HUMAN REVIEW.)**
+   - **Steelman.** The manuscript reads Burgundy as "apparatus
+     complete, centre missing." Depreter's own diagnosis of
+     1476–7 is the opposite: the charroi was delayed "pour des
+     questions d'ordre administratif et financier" (p. 182); the
+     Estates of Flanders and Brabant appealed the levy and
+     Flanders bought out a third of it (Annexe 5); the receiver
+     was an embezzler tolerated for five years; the duke's men
+     "l'aubandonnent par povretés" (Annexe 6); Morat's losses
+     were irreplaceable in a season. Burgundy failed where the
+     fisc met the Estates and the administration met its own
+     corruption — the mechanism, not an exception to it.
+   - **The chapter's answer (assessment grade: GOOD, at a stated
+     cost).** Concede the label and restate: Burgundy had the
+     OFFICES of the artillery state six years ahead of France,
+     but not the FISCAL PERMANENCE behind them — the charroi
+     rested on assessed corvée the Estates could appeal; the
+     ratchet of §8(a) had never locked. What killed Burgundy at
+     Nancy was a compound: one mortal duke AND a fisc not yet
+     irreversible. This keeps the survivable-centre point (the
+     offices outlived the duke) without claiming Depreter said
+     it. THE COST: the manuscript's cleanest sentence
+     ("apparatus without a centre") goes, and the EU test in
+     ch11/ch12/Appendix C carries TWO variables instead of one —
+     whether that sharpens or blurs the EU score is Roderick's
+     call (ruling sheet §5(l)). Also carried: Depreter's
+     anti-teleology — fifteen sieges won against four famous
+     failures; "It lost anyway" must not read as "its artillery
+     did not work."
+
+8. **(2026-09-13 — integration run: Lane's Venice — a fisc
+   driven by war, not cannon. PENDING HUMAN REVIEW.)**
+   - **Steelman.** Nowhere does Lane attribute Venice's fiscal
+     transformation of 1423–63 to artillery: the Monte Vecchio
+     was broken by "thirty years of almost constant warfare in
+     Lombardy" fought by hired companies; the direct tax was
+     voted under the shock of 1453; Mehmed "was ahead of the
+     Venetians in developing artillery" (p. 356). A polity ran
+     finance and industry without the administrative step and
+     consolidated nothing beyond its own class — and its
+     decisive force was limited by men, not money.
+   - **The chapter's answer (assessment grades: good / adequate
+     — both to be written into the text).** Venice is the Swiss
+     lesson from the other side: a permanent price paid for
+     force WITHOUT a technology that compelled
+     institution-building — the fisc without the ratchet, and
+     the taxes duly fell back in peacetime (a tenth of income
+     by 1600). §8(a) untouched, since Venice is not the French
+     case — but the chapter must not let Venice read as
+     artillery-driven. And the men-not-capital limit is
+     conceded at "adequate": the capital-intensive layer is
+     necessary; the labour and legitimacy layers can still fail
+     it — price is not the only constraint, and §VIII should
+     say so.
