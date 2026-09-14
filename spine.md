@@ -361,6 +361,66 @@ consolidate, or in an appendix, depending on flow — keep the research
 live and together in the whole area about American consolidation.
 Krejsa & Benich: per (d).
 
+### (g) The form of the settlement: consolidation is likely; its constitutional form is open — ruled 14 September 2026
+*Given by Roderick on 14 September 2026 in response to the second-reader
+review (research/second-reader-review-consolidation-vs-form-2026-09-14.md;
+decisions briefing, decision 0; rulings-sheet row (u)). His words, filed
+in-session.*
+
+Consolidation is likely, and the medieval record points to it. But the
+form of the consolidation can be novel — a kind of hollowed-out,
+ornamental democracy. The argument is still that the hyperscaler AI tech
+stack is decisive control, and that this in turn creates a consolidating
+political settlement. That settlement will look different in different
+blocs; but the democratic one can be ornamentally democratic as well as
+democratic, and that is beginning to look like now: a fusion of (tech)
+barons and government, versus government.
+
+What this rules, for the renovation:
+
+1. Claim 3 (Part III) is two claims, not one. (i) The barons are
+   subordinated — the mechanism, DEFEND tier, unchanged. (ii) The
+   constitutional form of the state that absorbs them is open, and
+   "ornamental democracy" — legitimating authority demonstrably
+   separated from effective control over the state's strategic
+   commitments — is one scoreable outcome for the democratic bloc, not
+   its only one. The book no longer lets (i) imply popular control of
+   the consolidated apparatus, and the ending (ch12 §VII, Coda) must
+   say so.
+2. "Ornamental" is a demonstrable separation, not a synonym for
+   bureaucracy, unpopular decisions or imperfect democracy. Its
+   falsifiers are stated with the wager: elections that redirect
+   strategic commitments; legislatures that enforce meaningful
+   conditions; courts whose remedies change operations; public
+   institutions capable of replacing essential suppliers. Democracy
+   and liberalism are scored separately.
+3. The present indicator of the ornamental route is the fusion of the
+   barons with the state against the state's own representative
+   institutions — absorption by alliance rather than by revocation.
+   §8(c)'s four American routes gain this as the form the "USA absorbs
+   the stack" verdict may take; Appendix C's American sub-wager scores
+   it.
+4. The fiscal mechanism moves into the main argument: where the
+   consolidating state is financed by stack rents rather than by
+   bargained broad taxation, Tilly's own mechanism predicts
+   consolidation without the representation-and-rights by-products
+   of the first run (ch12 memo Revisions 10, now to be carried in
+   text).
+5. Bagehot's dignified/efficient distinction is the bridge; the
+   disanalogy — the dignified parts were never decoration, and
+   sustained the whole — travels with it. Crouch and Wolin are
+   engaged by name as predecessors; the book's contribution is the
+   mechanism by which such a settlement emerges.
+6. Voice: "ornamental democracy" is a chapter-level coinage (ch12 or
+   ch09), not a book-level one; the ledger check against Crouch's
+   "post-democracy" and Wolin's "inverted totalitarianism" is made
+   before it is claimed.
+
+[GOVERNS: the renovation's treatment of ch09, ch11 §VII, ch12 §§IV and
+VII, the Coda, the Introduction's wager and Appendix C. Doctrine: the
+wording of CLAUDE.md §1 claim 3 remains as written until Roderick
+amends it; this ruling refines, and does not drift, that claim.]
+
 [GOVERNS: the Phase 3 renovation. Every PENDING entry the review pack
 of 2 September carried and I marked reviewed is now REVIEWED in its
 file; the rest stay PENDING.]

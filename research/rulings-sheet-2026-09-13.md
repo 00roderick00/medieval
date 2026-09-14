@@ -336,7 +336,7 @@ RULING: ____
 
 | Row | Decision (one sentence) | Draft sentences changed | Carriers | Touches spine/doctrine? | RULING |
 |---|---|---|---|---|---|
-| (u) [= briefing decision 0] | Split claim 3: the barons' subordination (mechanism) from the constitutional form of the consolidated state (open, scored); "ornamental democracy" as a scoreable outcome; Bagehot as bridge | ch12 §VII close; Coda §V; Introduction's wager; ch09's subject | Tilly pp. 207–8; Elliott 1992; Ágoston; Bagehot (to retrieve) | YES — CLAUDE.md §1 claim 3; new spine §8(g) | |
+| (u) [= briefing decision 0] | Split claim 3: the barons' subordination (mechanism) from the constitutional form of the consolidated state (open, scored); "ornamental democracy" as a scoreable outcome; Bagehot as bridge | ch12 §VII close; Coda §V; Introduction's wager; ch09's subject | Tilly pp. 207–8; Elliott 1992; Ágoston; Bagehot (to retrieve) | YES — CLAUDE.md §1 claim 3; new spine §8(g) | YES (Roderick, 2026-09-14) — filed as spine §8(g); CLAUDE.md §1 wording untouched pending his edit |
 | (v) [decision 1] | Itemise what the barons lose (refusal, infrastructure access, succession, operational knowledge, rule-setting) and keep (wealth, standing) | ch11 §VII; ch12 §§IV, VII | Lander; Fortescue; Lane; Chastellain t. III (UNVERIFIED) | No | |
 | (w) [decision 2 — rule with (n)] | American consolidation predicted as selective and plural, on the composite-monarchy form, disanalogy stated | ch11 §V; ch12 §IV | Elliott 1992, 1963 | No (refines §8(b)/(c)) | |
 | (x) [decision 3] | Distinguish command, dependence and capture; predict command-with-dependence for the platform settlement | ch10 §VIII; ch12 §IV | Johns; Lane; Miller; Farrell & Newman (unassessed); Chastellain t. III (UNVERIFIED) | No | |
