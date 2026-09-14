@@ -1155,3 +1155,23 @@ Goldsmith & Wu ahead of the two Tilly essays, Crouch and Bagehot.
 STEP 3 integration begins when the assessment corpus is complete,
 in the instructed order (ch12 first). Chastellain ×4 + Tilly-1975
 OCR sidecars still building at this entry.
+
+**STEP 0.3 completed (OCR sidecars built, 2026-09-14):** the four
+Chastellain files identified from their own title pages and content —
+"vol01" = Kervyn de Lettenhove TOME III (Chronique 1454–1458);
+"vol09" = TOME I (Notice + Chronique 1419–1422); "vol11" = TOME II
+(Chronique 1430–1431 and the 1452–1453 fragments); "vol15" = a
+SECOND SCAN OF TOME III (distinctive-phrase match against vol01 —
+duplicate content; flag for Roderick to cull, nothing deleted).
+**NEGATIVE FINDING, decisive for ch06:** Kervyn's editorial note at
+Tome II's close states the chronicle's July 1453–August 1454
+stretch IS A LACUNA IN THE MANUSCRIPT — "La fin du livre III
+manque … Là se trouvaient racontées … la bataille de Castillon et
+la mort de Talbot, la conquête de la Guyenne, la prise de
+Constantinople …" — so CHASTELLAIN CANNOT SUPPLY A BURGUNDIAN
+CASTILLON/TALBOT NARRATIVE; no volume of the edition contains it,
+and the row is NOT left open for one. What the corpus tomes DO
+cover: 1419–22, 1430–31, 1452–July 1453 (the Ghent war years),
+1454–58 (the Vœu du Faisan aftermath and Burgundian court) — the
+session-3 assessment scopes to those. Tilly-1975 OCR sidecar also
+built (198 KB, legible).
