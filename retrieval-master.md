@@ -1049,3 +1049,78 @@ Wu, *The Master Switch* — ARRIVED 2026-09-14 (EPUB, corpus/retrieved/Wu-The-Ma
 | Colin Crouch, *Post-Democracy* (Polity, 2004); *Coping with Post-Democracy* (Fabian, 2000) | predecessor to be engaged by name if "ornamental democracy" is adopted | ch12 §VII, Appendix A | WEB (Fabian PDF open) / BUY |
 | Sheldon Wolin, *Democracy Incorporated* (Princeton, 2008) | predecessor to be engaged by name — the corporate/state hybrid | ch12 §VII, Appendix A | CAM (JSTOR) / BUY |
 | Jill Lepore — the new book on Silicon Valley, technology and the state (title to identify) | the review engaged only interviews; the book is the outstanding research task | ch12 §VII | TO IDENTIFY, then BUY |
+
+## 2026-09-14: catch-up run, STEP 0 — the 14 September arrivals
+
+Per research/claude-code-instruction-source-intake-catchup-2026-09-14.md.
+Thirty-four files arrived after the 13 September STEP 0 inventory
+(mtime > 2026-09-13 18:00). Sidecars in gitignored
+`corpus/retrieved/source-library/text-2026-09-14/` (page-offset rules
+recorded at each sidecar's head as established during assessment).
+Duplicates archived per STEP 0.2: the underscore-named copies of the
+Farrell & Newman article and of Ruggie (byte-identical, cmp-verified;
+hyphen-named copies kept).
+
+**Class (a) — on ledger, now arrived (IN REPO 2026-09-14):**
+Farrell & Newman, "Weaponized Interdependence" (*IS* 2019) and
+*Underground Empire* (2023, EPUB→sidecar); Ruggie, "Territoriality
+and Beyond" (*IO* 1993); Scott, *Seeing Like a State* (1998);
+Wu, *The Master Switch* (2010, EPUB→sidecar); Schmitt, *The Nomos of
+the Earth* (2003 tr.); Krasner, *Sovereignty: Organized Hypocrisy*
+(1999); Ertman, *Birth of the Leviathan* (1997); Stasavage, *States
+of Credit* (2011, EPUB→sidecar); Cheung, *Innovate to Dominate*
+(2022); Glete, *War and the State in Early Modern Europe* (2002 —
+149 MB but HAS a text layer; extracted); the nine contemporary
+primaries (DMA Reg. 2022/1925; DSA Reg. 2022/2065; AI Act Reg.
+2024/1689; eIDAS 2.0 Reg. 2024/1183; EDIP proposal COM(2024) 150;
+CHIPS and Science Act Pub. L. 117-167; GENIUS Act Pub. L. 119-27;
+NDAA FY2026 S.1071 enrolled; NATO Hague Declaration 25 June 2025,
+.md). ALSO ARRIVED though STEP 4 expected them OPEN: **McNeill, *The
+Pursuit of Power* (1982); Goldsmith & Wu, *Who Controls the
+Internet?* (2006); Tilly 1975 ("Western State-Making," scan — OCR
+sidecar building) and Tilly 1985 ("War Making and State Making as
+Organized Crime," .doc→sidecar)** — their rows flip IN REPO.
+
+**Class (c) — unlisted arrivals (rows created this date):**
+| Work | Bearing | Priority |
+|---|---|---|
+| Mustafa Suleyman, *The Coming Wave* (2023) | T3 witness; the containment thesis as a scoreable prediction (per the instruction) | MED |
+| Colin Crouch, "Coping with Post-Democracy" (Fabian pamphlet, 2000) | ch01/Appendix A adjacency — the political-science twin of the undermighty-king diagnosis | LOW |
+| Walter Bagehot, *The English Constitution* (Gutenberg PDF) | T1 classic; dignified/efficient distinction — candidate ch09/ch12 apparatus | LOW |
+
+**Class (d) — unreadable as found, action taken:** the four
+Chastellain volumes (image-only; ocrmypdf -l fra sidecars building
+in background) and Tilly 1975 (scan; OCR building). Miller *Chip
+War* EPUB recorded as a SECOND COPY of the assessed PDF (sidecar
+made; per STEP 0.2 used only if its pagination proves better — it
+is a reflow with file-markers, so the assessed PDF's chapter pins
+stand; NOT re-assessed).
+
+**STEP 0.3 identifications (edition/volume checks):**
+- **Commynes (Calmette): the file is TOME III** (Livres VII–VIII,
+  1484–1498, with the Additions et corrections for tomes I–II) —
+  NOT the tome II (1474–83) the ledger wants for Louis XI's later
+  reign and the revenue figure. Per the Nicholson precedent, the
+  Commynes row stays **OPEN for Calmette tome II**; tome III is
+  recorded IN REPO (bears on ch10 §IV's 1494 and ch04's Italy; the
+  Additions correct tomes I–II readings). Sidecar:
+  `Commynes-tomeIII.txt`.
+- **Chastellain (Kervyn de Lettenhove): the filenames do NOT match
+  the tomes.** Title-page OCR: the file "vol01" is TOME TROISIÈME,
+  Chronique 1454–1458; "vol09" carries the Notice sur la vie
+  (Tome I signature); "vol11" opens at Chronique LIVRE II; "vol15"
+  is a further Chronique volume (printed p. 490 at PDF 200).
+  PROVISIONAL — exact tome identities and, decisively, WHETHER ANY
+  VOLUME COVERS 1449–53 (Kervyn's Tome II carries the 1452–53
+  fragments) to be settled from the OCR sidecars; if none does,
+  the row stays OPEN for the 1449–53 volume, exact tome named.
+- **Glete:** text layer confirmed (no OCR needed).
+
+**Session plan (STEP 1, six scholarly works per session):**
+Session 1: Wu; Farrell & Newman (book); Farrell & Newman (article);
+Scott; Schmitt; Commynes tome III (T1 verification per the
+instruction's Commynes brief). Session 2: Ruggie; Krasner; Ertman;
+Stasavage; Glete; Cheung. Session 3: Chastellain (post-OCR);
+Suleyman; plus the bonus arrivals (McNeill; Goldsmith & Wu; the two
+Tilly essays; Crouch; Bagehot) as capacity allows, McNeill and
+Goldsmith & Wu first.
