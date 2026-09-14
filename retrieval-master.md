@@ -995,3 +995,37 @@ Castillon also run through it.)
 | Ross 1974; Hoyle | the chamber-finance historiography around Grummitt | ch11 §II |
 | Franz, *Quellen* | the 1502 Bundschuh sentence Scott & Scribner do not carry | ch07 §V |
 | Wæver, "Imperial Metaphors," in Tunander et al. (1997) | the concentric-circles empire pin Zielonka actually cites (not the JCMS 1996 piece) | ch01/Appendix A |
+
+## 2026-09-14: post-integration additions — gaps the ledger did not yet cover (Claude/Cowork, at Roderick's request)
+
+Compiled by checking the corpus and both ledgers against what the
+assembled manuscript actually leans on. Three kinds of gap: concept-
+words whose source text is absent; rivals Part III must meet by name;
+contemporary primary documents cited in drafts without their texts in
+corpus (CLAUDE.md §4). Each row: work | why wanted | chapter blocked.
+Routes: BUY = trade/academic purchase; IA = Internet Archive loan;
+CAM = Cambridge alumni access; WEB = official text, human download.
+
+| Work | Reason wanted | Blocked | Route |
+|---|---|---|---|
+| James C. Scott, *Seeing Like a State* (Yale, 1998) | "legibility" is Scott's word and occurs 28 times in the manuscript; the identity-payments-legibility stack must be argued against his account of what legibility costs and who resists it | ch01, ch11, ch12, Appendix C | BUY / IA |
+| Tim Wu, *The Master Switch: The Rise and Fall of Information Empires* (Knopf, 2010) | the standard history of the open-medium → private consolidation → state acquisition cycle ch12's twelve American cases run through; "the switch" vocabulary must meet its namesake | ch12 §IV, spine §8(c) | BUY / IA |
+| Henry Farrell and Abraham L. Newman, *Underground Empire: How America Weaponized the World Economy* (Holt, 2023); and "Weaponized Interdependence," *International Security* 44:1 (2019) | the reigning account of chokepoint power over payments, compute and networks; the phrase occurs nowhere in the manuscript — a rival the compute/payments stack chapters must name | ch10 §VIII, ch12, critiques | BUY; CAM for the article |
+| John Gerard Ruggie, "Territoriality and Beyond: Problematizing Modernity in International Relations," *IO* 47:1 (1993) | the article the neomedievalism literature grew out of; Appendix A's lineage is incomplete without it | Appendix A, ch01 | CAM |
+| Stephen D. Krasner, *Sovereignty: Organized Hypocrisy* (Princeton, 1999) | the realist answer to Bull that ch01 should name — sovereignty as always-already violated, against "dispersal as new" | ch01, Appendix A | BUY / IA |
+| Carl Schmitt, *The Nomos of the Earth* (tr. Ulmen, Telos, 2003) | the source of Bratton's *Grossraum* reading, which ch12 now carries as "hemispherical" with Bratton's pedigree; the original must be citable | ch12 §IV | BUY / IA |
+| David Stasavage, *States of Credit: Size, Power, and the Development of European Polities* (Princeton, 2011) | the direct scholarly treatment of why city-states could borrow and territorial states could not — the Venice/France distinction Lane forced into ch04 and ch10 | ch04 §VI, ch10 §VI, Appendix B | BUY |
+| Jan Glete, *War and the State in Early Modern Europe* (Routledge, 2002) | comparative fiscal-military synthesis (Spain, Dutch Republic, Sweden) not yet named in any critiques file; the naval/army distinction Tilly's answer needs | ch10 §VII, ch12 §IV critiques | BUY / IA |
+| Thomas Ertman, *Birth of the Leviathan* (Cambridge, 1997) | the bureaucratic-v-patrimonial typology; the standard rival to Tilly on why fiscal-military states diverged in form | ch10 §VII, ch11 critiques | BUY / CAM |
+| Philippe de Commynes, *Mémoires*, vol. II (Calmette ed., or the English *Memoirs* vol. 2) | only vol. I is in corpus; Louis XI's later reign and the 4.7m revenue figure Vale carries from Commynes | ch10 §III, ch11 | IA / WEB (Gallica) |
+| Georges Chastellain, *Œuvres* (Kervyn de Lettenhove ed.) — the relevant books for 1449–53 and the Burgundian court | the Burgundian chronicle voice ch05/ch10 lack; pairs with Escouchy | ch05 §III, ch10 §VI | WEB (Gallica / IA) |
+| Tai Ming Cheung, *Innovate to Dominate: The Rise of the Chinese Techno-Security State* (Cornell, 2022) | the one scholarly account of the Chinese defence-industrial stack as a state project; the Chinese bloc is the thinnest of the four in the drafts | ch12 §IV, Appendix C | BUY |
+| NATO, The Hague Summit Declaration (25 June 2025) — official text | cited in ch12 as "the Hague pledge"; the primary is not in corpus | ch12, Appendix C | WEB |
+| GENIUS Act (Guiding and Establishing National Innovation for U.S. Stablecoins Act, 2025) — enrolled text | cited twice; the payments-stack claim rests on it | ch12, Appendix C | WEB (congress.gov — bot-blocked; human) |
+| Regulation (EU) 2022/1925 (Digital Markets Act) and Regulation (EU) 2022/2065 (Digital Services Act) — OJ texts | cited fourteen times between them; CLAUDE.md §4 requires the regulatory texts | ch01, ch11, ch12 | WEB (EUR-Lex) |
+| CHIPS and Science Act (Pub. L. 117–167, 2022) — enrolled text | cited six times; only the BIS export rule is in corpus | ch10 §VIII, ch12 | WEB (govinfo) |
+| Regulation (EU) 2024/1689 (AI Act) — OJ text | cited; the European stack's legibility instrument | ch12 | WEB (EUR-Lex) |
+| Regulation (EU) 2024/1183 (eIDAS 2.0 — European Digital Identity) — OJ text | the European identity stack's primary; not yet cited and should be | ch12 §IV, Appendix C | WEB (EUR-Lex) |
+| Regulation (EU) 2025/… (European Defence Industry Programme, EDIP) — OJ text once adopted; the 2024 proposal COM(2024) 150 meanwhile | the EU's fiscal-military instrument for the compute-munitions stack; the Depreter-limb indicator needs its baseline | ch12 §IV, Appendix C | WEB (EUR-Lex) |
+| National Defense Authorization Act for FY2026 — enrolled text | the American procurement primary for Appendix C's baselines (Replicator, CDAO, the drone provisions) | ch03 §III, Appendix C | WEB (congress.gov — human) |
+| Robert Douglas Smith and Kelly DeVries, *The Artillery of the Dukes of Burgundy, 1363–1477* (Boydell, 2005) | already on the BUY list (2026-08-04) — RAISED to HIGH: the English-language pair to Depreter, and the negative Contamine resolutions re-point here | ch10 §VI | BUY |

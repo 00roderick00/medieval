@@ -238,3 +238,18 @@ Quicherat-carried Castillon pins re-read there); Henneman/Wolfe
 Paston; Harvey/Bohna (the Cade re-sourcing); Chambers & Pullan
 (the bocche di leone); Hale 1965; Holman 2014; Nevins ii; Mueller
 vol. II + Luzzatto.
+
+## Post-integration additions (2026-09-14) — mirrors retrieval-master's "post-integration additions" section
+
+Twenty-one rows (one a raise, not a new row). Three groups. (i)
+Concept-words whose source text is absent: Scott, *Seeing Like a
+State* (legibility); Wu, *The Master Switch* (the switch). (ii)
+Rivals Part III must meet: Farrell & Newman (weaponised
+interdependence); Ruggie 1993; Krasner 1999; Schmitt, *Nomos*;
+Stasavage; Glete; Ertman; Cheung on the Chinese techno-security
+state; plus Commynes vol. II and Chastellain for the Burgundian
+side. (iii) Contemporary primaries cited without texts: the Hague
+Declaration 2025; the GENIUS Act; DMA and DSA; CHIPS Act; AI Act;
+eIDAS 2.0; EDIP; NDAA FY2026. Smith & DeVries raised to HIGH.
+Routes in the retrieval-master rows; the EU texts are one-click on
+EUR-Lex, the US statutes need human hands at congress.gov.
