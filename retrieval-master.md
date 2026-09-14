@@ -1124,3 +1124,34 @@ Stasavage; Glete; Cheung. Session 3: Chastellain (post-OCR);
 Suleyman; plus the bonus arrivals (McNeill; Goldsmith & Wu; the two
 Tilly essays; Crouch; Bagehot) as capacity allows, McNeill and
 Goldsmith & Wu first.
+
+**STEP 1, session 1 complete (2026-09-14):** six assessments
+written to research/assessments-2026-09-14/ and committed one per
+unit — Wu (ledger fact: "the master switch" is Fred Friendly's
+phrase, not Wu's; the book's "off-switch" safe, one endnote
+discharges the voice rule; the Bell-reconstitution counter-pattern
+to be carried by name), Farrell & Newman article (the
+scope-condition sentence as the mechanism in modern IR; the
+no-new-taxation concession — fiscal threshold defends on the
+military stack) and book (ally at instrument level, rival at
+mechanism level; payments stack as the compute stack's template,
+2001–12 → 2016–20; panopticon/chokepoint adopted: legibility =
+panopticon, compute = chokepoint), Scott (the unexploded objection
+on the title concept — "legibility" 28 uses, never named; fiscal
+chapters the best T2 warrant; Appendix C condition 1 = the Scott
+scenario), Schmitt (the three-possibilities fork at pp. 354–55;
+the Grossraum original behind Bratton; the provenance disanalogy
+mandatory; the spatial-legal "solely" rival for ch10 critiques),
+Commynes tome III (1494 as eyewitness T1 — with the Fornovo
+discipline: guns killed fewer than ten, decisiveness at the walls
+and the exchequer; NONE of the drafts' Commynes citations
+verifiable in t. III — Scoble pins stand; the p. 304 fiscal
+passage the one T1 revenue figure until tomes I–II arrive —
+Calmette t. I–II now a named OPEN row). STEP 2 primaries verified
+same session (see chapter entries). SESSION 2 QUEUE: Ruggie,
+Krasner, Ertman, Stasavage, Glete, Cheung. SESSION 3: Chastellain
+(post-OCR; identify tomes first), Suleyman, then McNeill and
+Goldsmith & Wu ahead of the two Tilly essays, Crouch and Bagehot.
+STEP 3 integration begins when the assessment corpus is complete,
+in the instructed order (ch12 first). Chastellain ×4 + Tilly-1975
+OCR sidecars still building at this entry.
