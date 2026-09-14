@@ -1029,3 +1029,13 @@ CAM = Cambridge alumni access; WEB = official text, human download.
 | Regulation (EU) 2025/… (European Defence Industry Programme, EDIP) — OJ text once adopted; the 2024 proposal COM(2024) 150 meanwhile | the EU's fiscal-military instrument for the compute-munitions stack; the Depreter-limb indicator needs its baseline | ch12 §IV, Appendix C | WEB (EUR-Lex) |
 | National Defense Authorization Act for FY2026 — enrolled text | the American procurement primary for Appendix C's baselines (Replicator, CDAO, the drone provisions) | ch03 §III, Appendix C | WEB (congress.gov — human) |
 | Robert Douglas Smith and Kelly DeVries, *The Artillery of the Dukes of Burgundy, 1363–1477* (Boydell, 2005) | already on the BUY list (2026-08-04) — RAISED to HIGH: the English-language pair to Depreter, and the negative Contamine resolutions re-point here | ch10 §VI | BUY |
+
+### 2026-09-14 (second entry): author check — Tilly, McNeill, Hoffman, Goldsmith & Wu
+
+| Work | Reason wanted | Blocked | Route |
+|---|---|---|---|
+| Charles Tilly, "War Making and State Making as Organized Crime," in Evans, Rueschemeyer and Skocpol (eds), *Bringing the State Back In* (Cambridge, 1985); and the introduction to Tilly (ed.), *The Formation of National States in Western Europe* (Princeton, 1975) | *Coercion, Capital* (1990) is IN REPO; but the slogan the book differentiates itself from ("war made the state, and the state made war") lives in the 1975 introduction, and the protection-racket frame ch03 §I already invokes is the 1985 essay — both must be citable at page level | ch03 §I, ch10 §VII critiques | CAM / IA |
+| William H. McNeill, *The Pursuit of Power: Technology, Armed Force, and Society since A.D. 1000* (Chicago, 1982) | the nearest predecessor to the book's mechanism — ch. 3 "The Business of War in Europe, 1000–1600" runs gunpowder → cost → bureaucratised finance and the "commercialisation of organised violence"; must be engaged as foundation, not left for a reviewer to supply | ch06 §VII, ch10 §VII, Appendix A | BUY / IA |
+| Jack Goldsmith and Tim Wu, *Who Controls the Internet? Illusions of a Borderless World* (OUP, 2006) | the earliest sustained argument that territorial states would reassert over the borderless network (Yahoo/France, China's bordered internet) — the "dispersal is transitional" diagnosis made in 2006, and a scoreable prediction for Appendix C | ch01 §V, Appendix A, Appendix C | BUY / IA |
+
+Wu, *The Master Switch* — ARRIVED 2026-09-14 (EPUB, corpus/retrieved/Wu-The-Master-Switch.epub); the row above flips IN REPO, intake pending. Hoffman (2015) IN REPO; his EHR 2011 price article is the data behind the tables and is optional.
