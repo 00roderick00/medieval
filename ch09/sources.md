@@ -187,3 +187,14 @@ Update retrieval-master.md accordingly.*
   body distinct in subjects' eyes; Louis XVI recognised at
   Varennes from the assignat portrait (orig. 84, 134). For the
   chapter that carries Kantorowicz; PENDING RE-QUOTATION.
+
+## Added 2026-09-14 — catch-up run STEP 2 (primary verified at the article)
+
+- **T1 — Reg. (EU) 2022/2065 (DSA), Art. 41, OJ text IN REPO.**
+  Draft §V claim checked: Art. 41 "Compliance function" requires
+  VLOPs to establish "a compliance function, which is independent
+  from their operational functions" (MATCH — the draft's
+  "internal check on founder power" is a GLOSS on the independent
+  compliance function; the note should quote the Article's own
+  words and keep the founder framing as the chapter's reading).
+  Cite as: Reg. (EU) 2022/2065, Art. 41(1).

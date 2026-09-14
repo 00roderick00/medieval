@@ -310,3 +310,14 @@ quotation.*
   the first decisive-layer control 2019–20, visible since 2022.
   Freedman's van Creveld/Jackson/Norton items for the §V
   literature footnotes.
+
+## Added 2026-09-14 — catch-up run STEP 2 (primary verified at the article)
+
+- **T1 — Regulation (EU) 2022/1925 (Digital Markets Act), OJ text
+  IN REPO** (sidecar `text-2026-09-14/DMA.txt`). Draft §V claim
+  checked: the "gatekeeper" designation mechanism is Art. 3
+  (MATCH); the 6 September 2023 designation of six firms is a
+  COMMISSION DECISION, not the Regulation — the draft's separate
+  "(EU DMA designations, primary)" citation is the right form;
+  keep the two instruments distinct in the note. Cite as: Reg.
+  (EU) 2022/1925, Art. 3.

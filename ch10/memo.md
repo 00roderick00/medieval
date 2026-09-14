@@ -1422,3 +1422,11 @@ STATUS: REVIEWED (Roderick, 2026-07-23) — cleared for drafting
       (p. 201) for §VIII; the janissary trap (p. 148) for ch11.
     - THE RIVAL ENGINE and where he bites hardest: critiques
       Revisions 5.
+
+29. **(2026-09-14 — catch-up run STEP 2: the CHIPS aggregate.
+    PENDING HUMAN REVIEW.)** §VIII's "$52.7 billion" is not a
+    line in Pub. L. 117-167 — the statute appropriates by
+    component. At renovation: either cite the components (div. A,
+    §102) or carry the aggregate via a named secondary (CRS
+    R47523-class summary; retrieval row if wanted). No other
+    CHIPS claim mismatches.

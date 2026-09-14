@@ -364,3 +364,15 @@ accordingly.*
   the criminalisation of vendetta is a communal achievement of
   c. 1300, a century before the fisc — the sequencing sentence
   must be re-cut.
+
+## Added 2026-09-14 — catch-up run STEP 2 (primary verified at the article)
+
+- **T1 — Reg. (EU) 2022/2065 (DSA), Art. 21, OJ text IN REPO.**
+  Draft §VII's quotation checked: the Regulation reads "The
+  certified out-of-court dispute settlement body shall not have
+  the power to impose a binding settlement of the dispute on the
+  parties" — the draft's elided quotation ("shall not have the
+  power to impose a binding settlement") is a MATCH; the
+  court-access proviso (Art. 21(1), third subpara.) supports the
+  bindingness-reserved-to-the-state reading. Cite as: Reg. (EU)
+  2022/2065, Art. 21(2).

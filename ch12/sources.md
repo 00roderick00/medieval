@@ -501,3 +501,35 @@ above (CLAUDE.md §4). URLs in the session research record.*
   not in the long run compete"; "playing the balance of power";
   the mainland's "complete lack of any national feeling") for
   the EU paragraph — entered at ch10 this date.
+
+## Added 2026-09-14 — catch-up run STEP 2 (primaries verified; two ADDS)
+
+- **T1 — NATO Hague Summit Declaration (25 June 2025), text IN
+  REPO** (`nato_hague_summit_declaration_….md`). Memo Revisions
+  quotation checked against para. 2: "Allies commit to invest 5%
+  of GDP annually on core defence requirements as well as
+  defence-and security-related spending by 2035" — MATCH
+  (verbatim; the source file's "defence-and" spacing is its own);
+  the 3.5% + 1.5% split is para. 3 (MATCH). Cite as: Hague Summit
+  Declaration, paras 2–3.
+- **T1 — GENIUS Act, Pub. L. 119-27** — as ch11 entry; §V/§VII
+  claims MATCH.
+- **T1 (ADDS) — NDAA FY2026, S.1071 enrolled text IN REPO**
+  (sidecar `NDAA-FY2026.txt`; 3.6 MB). No draft cites it yet —
+  recorded as available T1 for the defence-industrial baseline
+  rows (appendix-c memo).
+- **T1 (ADDS) — Reg. (EU) 2024/1183 (eIDAS 2.0), OJ text IN
+  REPO** (sidecar `eIDAS2.txt`). Not yet cited anywhere. What it
+  could carry (memo Revisions 14): the EUROPEAN IDENTITY STACK at
+  statute level — Art. 5a's European Digital Identity Wallet
+  obligation (every Member State to provide at least one wallet)
+  — the EU's legibility-stack move in a binding instrument; the
+  per-bloc mirror table's EU identity cell.
+- **T1 (ADDS) — COM(2024) 150 final (European Defence Industry
+  Programme proposal), text IN REPO** (sidecar `EDIP.txt`). Not
+  yet cited. What it could carry (memo Revisions 14): the
+  fiscal-military instrument's baseline — "The financial envelope
+  … shall be EUR 1 500 million in current prices" to 31/12/2027 —
+  the Depreter-test numerator in the Commission's own proposal;
+  NOTE it is a PROPOSAL — the adopted EUR-Lex regulation stays on
+  retrieval (per STEP 4's OPEN list).

@@ -941,3 +941,17 @@ STATUS: REVIEWED (Roderick, 2026-07-31 — read in full, nothing to add; no revi
       devolution fifth-failure-mode from ch11 (Ágoston) and
       Tilly's pp. 207–8 rentier warning (Revisions 10) stand
       beside them as this chapter's objection set.
+
+14. **(2026-09-14 — catch-up run STEP 2: primaries verified; eIDAS
+    and EDIP entered as ADDS. PENDING HUMAN REVIEW.)** All §II/§IV
+    primary citations checked at the article: Hague paras 2–3
+    MATCH verbatim; GENIUS number/date/core MATCH; the EU set
+    MATCHES per the ch02 entry. TWO ADDS, proposals only:
+    (i) eIDAS 2.0 (Reg. 2024/1183, Art. 5a) as the European
+    identity-stack instrument — the statute the §IV EU paragraph
+    can cite where it currently gestures; (ii) EDIP (COM(2024)
+    150, EUR 1,500 million envelope to 2027) as the EU
+    fiscal-military baseline — a proposal, not yet an adopted
+    regulation (the adopted text is a retrieval row), which is
+    itself the datum: the Depreter test's numerator at
+    proposal stage. Both to appendix-c as baselines.

@@ -472,3 +472,15 @@ the session research record. Update retrieval-master.md accordingly.*
   INTENSITY ARRIVES WITH STEAM (p. 629) — the platform parallel
   is to steam, not Gutenberg; §V's "second capital-intensive
   medium" cannot survive the pair (ruling-sheet §5(p)).
+
+## Added 2026-09-14 — catch-up run STEP 2 (primaries verified)
+
+- **T1 — GENIUS Act, Pub. L. 119-27 (July 18, 2025), enrolled text
+  IN REPO** (sidecar `text-2026-09-14/GENIUS.txt`). Draft §VI
+  claims checked: number and date MATCH ("Public Law 119–27…
+  July 18, 2025"); the "payment stablecoin" regulatory core
+  verified in the text (MATCH for "codifying dollar
+  stablecoin rails"). Cite as: Pub. L. 119-27, §2 (definitions)
+  and the operative sections at pin when quoted. The AI Act
+  dates in §VII (in force 1 Aug 2024; prohibitions 2 Feb 2025)
+  verified against Reg. 2024/1689 (MATCH — see ch02 entry).

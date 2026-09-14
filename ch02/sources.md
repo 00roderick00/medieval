@@ -181,3 +181,17 @@ fetch-blocked — confirm in a browser before quotation.*
   RECORDED for critiques: Strayer/Berman ("the Gregorian concept
   … almost demanded the invention of the state") v.
   Morris/Tierney ("at best a half-truth," p. 553).
+
+## Added 2026-09-14 — catch-up run STEP 2 (primaries verified at the article)
+
+- **T1 — the EU instrument set, OJ texts IN REPO** (sidecars
+  `text-2026-09-14/DMA.txt`, `DSA.txt`, `AI-Act.txt`). Draft §III
+  claims checked: DMA = Reg. (EU) 2022/1925 (MATCH); DSA = Reg.
+  (EU) 2022/2065 (MATCH); AI Act = Reg. (EU) 2024/1689, in force
+  1 August 2024 (twentieth day after publication — MATCH), with
+  the extraterritorial reach verified verbatim at Art. 2: "the
+  output produced by the AI system is used in the Union" (MATCH).
+  The April 2025 DMA fines and December 2025 DSA fine are
+  enforcement decisions, not the Regulations — their citations
+  stay separate (already so drafted). Citation forms: Reg. number,
+  Article and paragraph.

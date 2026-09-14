@@ -697,3 +697,16 @@ accordingly.*
   to replace Krejsa–Benich as the disanalogy's primary T3
   support; Howard pp. 67–68 and Hoffman p. 136 for Brandenburg
   1653 as the ratchet re-run (§III).
+
+## Added 2026-09-14 — catch-up run STEP 2 (primary verified at the section)
+
+- **T1 — CHIPS and Science Act, Pub. L. 117-167 (Aug. 9, 2022),
+  enrolled text IN REPO** (sidecar `text-2026-09-14/CHIPS.txt`).
+  Draft §VIII claims checked: number and date MATCH ("Public Law
+  117–167—AUG. 9, 2022"). MISMATCH OF FORM on the figure: "$52.7
+  billion" is an AGGREGATE not printed in the statute — the Act
+  appropriates by component ($24,000,000,000; $19,000,000,000;
+  etc., Division A); the draft's figure needs either a component
+  citation or a named secondary carrier (CRS/Commerce summary)
+  for the aggregate. Recorded as memo correction; cite the
+  statute as Pub. L. 117-167, div. A, §102.

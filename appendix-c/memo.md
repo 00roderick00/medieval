@@ -912,3 +912,15 @@ those lacking one are marked NEEDS BASELINE.
    American-held nodes" correction so C10-2 scores the right
    object; Bobbitt 2002 ("regulations will always come too
    late") as a dated counter-prediction now scoreable.
+
+## Revisions (2026-09-14 — catch-up run STEP 2; PENDING HUMAN REVIEW)
+
+Primary-instrument baselines now in corpus at T1: the NDAA FY2026
+enrolled text (S.1071 — available for the defence-industrial rows;
+no draft pin yet); eIDAS 2.0 (Reg. 2024/1183, Art. 5a — the EU
+identity-stack baseline for C11-1's legibility column); EDIP
+(COM(2024) 150 — EUR 1,500 million envelope to 31/12/2027, the EU
+fiscal-military instrument at PROPOSAL stage; the adopted
+regulation, if and when adopted, is the indicator's movement and
+stays on retrieval). The Hague Declaration paras 2–3 verified
+verbatim for the context variable's pledge row.
