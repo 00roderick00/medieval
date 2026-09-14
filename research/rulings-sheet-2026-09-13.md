@@ -331,3 +331,17 @@ RULING: ____
 Unsourced in Griffiths (contemporaries' 20,000–60,000 "notional").
 Source — or cut.
 RULING: ____
+
+## Appended 2026-09-14 — rows from the second-reader review (see research/decisions-briefing-second-reader-2026-09-14.md for the four-column statement of each)
+
+| Row | Decision (one sentence) | Draft sentences changed | Carriers | Touches spine/doctrine? | RULING |
+|---|---|---|---|---|---|
+| (u) [= briefing decision 0] | Split claim 3: the barons' subordination (mechanism) from the constitutional form of the consolidated state (open, scored); "ornamental democracy" as a scoreable outcome; Bagehot as bridge | ch12 §VII close; Coda §V; Introduction's wager; ch09's subject | Tilly pp. 207–8; Elliott 1992; Ágoston; Bagehot (to retrieve) | YES — CLAUDE.md §1 claim 3; new spine §8(g) | |
+| (v) [decision 1] | Itemise what the barons lose (refusal, infrastructure access, succession, operational knowledge, rule-setting) and keep (wealth, standing) | ch11 §VII; ch12 §§IV, VII | Lander; Fortescue; Lane; Chastellain t. III (UNVERIFIED) | No | |
+| (w) [decision 2 — rule with (n)] | American consolidation predicted as selective and plural, on the composite-monarchy form, disanalogy stated | ch11 §V; ch12 §IV | Elliott 1992, 1963 | No (refines §8(b)/(c)) | |
+| (x) [decision 3] | Distinguish command, dependence and capture; predict command-with-dependence for the platform settlement | ch10 §VIII; ch12 §IV | Johns; Lane; Miller; Farrell & Newman (unassessed); Chastellain t. III (UNVERIFIED) | No | |
+| (y) [decision 4] | Recast Talbot as the expert whose system stopped supplying the means; keep the plot/intention distinction visible | ch06 §VI | Barker (Dieppe); Vale (Caen plot) | No (within §8(e)/(f)) | |
+| (z) [decision 5] | Make "the walls and the minds of the besieged" the book's recurring image, with the dissent-is-not-siege discipline written in | ch06 §IV; ch09; ch12 | Blondel in Stevenson p. 152 (verify) | Voice only | |
+| (aa) [decision 6 — rule with (a)] | Drop "controlled comparisons"; restate the proof as an organised system making resistance unaffordable; establishment v. weapon, planned v. collected | ch06 §§I, VII; ch10 | Barker; Hall; Depreter; Cosneau; Grummitt | No | |
+| (bb) [decision 7] | Ch09 takes constitutional appearance v. effective power (minority v. incapacity); ch07 gives the commons consequences for the settlement | ch09 throughout; ch07 §§V, VII | Griffiths; Lander p. 76; Scott & Scribner; Payling; Lane | Outline conflict to check for ch09 — flag, not resolve | |
+| (cc) [decision 8] | Cut "critics can only refine"; score four blocs separately at four levels; a failed American prediction is a failure | ch12 l. 546; Introduction; Appendix C | Chastellain (predictions; UNVERIFIED) | Sharpens CLAUDE.md §2's falsifiability rule — inside doctrine | |

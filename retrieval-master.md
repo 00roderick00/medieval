@@ -1039,3 +1039,13 @@ CAM = Cambridge alumni access; WEB = official text, human download.
 | Jack Goldsmith and Tim Wu, *Who Controls the Internet? Illusions of a Borderless World* (OUP, 2006) | the earliest sustained argument that territorial states would reassert over the borderless network (Yahoo/France, China's bordered internet) — the "dispersal is transitional" diagnosis made in 2006, and a scoreable prediction for Appendix C | ch01 §V, Appendix A, Appendix C | BUY / IA |
 
 Wu, *The Master Switch* — ARRIVED 2026-09-14 (EPUB, corpus/retrieved/Wu-The-Master-Switch.epub); the row above flips IN REPO, intake pending. Hoffman (2015) IN REPO; his EHR 2011 price article is the data behind the tables and is optional.
+
+### 2026-09-14 (third entry): rows from the second-reader review (research/decisions-briefing-second-reader-2026-09-14.md)
+
+| Work | Reason wanted | Blocked | Route |
+|---|---|---|---|
+| Georges Chastellain, *Œuvres*, ed. Kervyn de Lettenhove, tome III — and the tome carrying his predictions of royal deaths (identify) | the review's Alençon scene (pp. 484–87: crown keeps artillery and fortifications, spares the rest) and the Lombard lenders (pp. 315–16: punished, restored as publicly necessary) — both UNVERIFIED until read; the failed-prediction passage for Appendix C | ch11 §VII, ch12 §IV, ch10 §VIII, Appendix C | WEB (Gallica / IA / Google Books — vols 1, 9, 11, 15 are IN REPO; III is not) |
+| Walter Bagehot, *The English Constitution* (1867) | the dignified/efficient distinction as the bridge for the consolidation-v-form split (decision 0) | ch09, ch12 §VII, Coda | WEB (Gutenberg 4351) |
+| Colin Crouch, *Post-Democracy* (Polity, 2004); *Coping with Post-Democracy* (Fabian, 2000) | predecessor to be engaged by name if "ornamental democracy" is adopted | ch12 §VII, Appendix A | WEB (Fabian PDF open) / BUY |
+| Sheldon Wolin, *Democracy Incorporated* (Princeton, 2008) | predecessor to be engaged by name — the corporate/state hybrid | ch12 §VII, Appendix A | CAM (JSTOR) / BUY |
+| Jill Lepore — the new book on Silicon Valley, technology and the state (title to identify) | the review engaged only interviews; the book is the outstanding research task | ch12 §VII | TO IDENTIFY, then BUY |
