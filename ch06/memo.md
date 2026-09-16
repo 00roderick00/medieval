@@ -1181,3 +1181,315 @@ STATUS: REVIEWED (Roderick, 2026-07-22) — cleared for drafting
     ORDER TO OPPOSE THEM, in support of Hale — any note citing
     those passages must say so (the witness testifies against
     his own frame; use-note to carry in every DeVries citation).
+
+28. **(2026-09-16 — Phase 5 renovation: rulings (a), (aa), (d), (r),
+    (s), (y); register (b), (c), (i); corrections R2, R4, R7; the
+    corrections of fact from research/corpus-intake-assessment
+    -2026-09-13.md §4 as pinned in Revisions 17–27. PENDING HUMAN
+    REVIEW.)** First pass to edit draft.md since the 3 September
+    assembly. Draft 13,734 → 16,594 words (footer included; the
+    growth is §VI's Talbot/Belloc recast, the §IV Barker
+    distinction and the §V Fortescue passage). Every change below
+    gives the old sentence, the new, and the pin; nothing entered
+    that is not in sources.md (pointer entries added this date for
+    Vale 1974, Fortescue and Escouchy tome II — see sources.md).
+    - **(aa) §I, the proof restated.** OLD: "a demonstration that
+      the first medieval dispersal was ended by an identifiable,
+      dateable, technology-specific change in the price of decisive
+      force". NEW: "locked into consolidated units by an
+      identifiable, dateable, technology-specific change in the cost
+      of decisive force — its establishment cost … rather than the
+      price of any gun" (also register (c)). ADDED after "willingness
+      of garrisons to sign": a paragraph stating the claim as an
+      organised system — guns, powder, gunners' pay, carriage, siege
+      pay — on permanent taxation, making continued resistance
+      unaffordable "whatever a garrison's own circumstances," and
+      naming Burgundy, Venice and the Ottomans as the polities the
+      mechanism must also explain (forward pointers to chs 10–11; no
+      new pins). §IV OLD: "The proof this chapter rests on is a pair
+      of controlled comparisons that the war itself was kind enough
+      to run … What changed is what the comparison isolates." NEW:
+      "The evidence begins with a pair of comparisons the war itself
+      happened to run … They are not controlled comparisons, and
+      this book does not call them so … The proof, when it comes,
+      will rest not on any pair of sieges but on the system." §V
+      OLD: "as close to a controlled experiment as the fifteenth
+      century offers" → "the nearest thing the record offers to a
+      test of the two variables apart — not an experiment, for
+      nothing in a war is controlled". §VII OLD: "two facts … that
+      the price of decisive siege capability moved sharply … and
+      that the price sat above what subjects could pay … a list with
+      one entry" → establishment cost; "money collected and spent,
+      not money planned"; "a list with one entry in Latin Europe,
+      and a near-second, Burgundy"; closing restatement "not a pair
+      of laboratory sieges but an organised system on permanent
+      taxation …" §III OLD: "it is those two walls that carry this
+      chapter's proof" → "the walls … carry the chapter's evidence,
+      though not, as will appear, its proof."
+    - **(a) vocabulary.** §III OLD: "No baron had this. No city had
+      this. No league of either could plausibly assemble it." NEW:
+      guns no monopoly — Ghent's two hundred carts of "canons et
+      d'artillerie" in 1382 and Nuremberg's calibre standardisation
+      of 1462 (Hall 1997: 49, 95; sidecar verified) — "What no baron,
+      no city and no league of either could sustain was the
+      establishment … at provincial scale and at campaign tempo." §VII
+      OLD: "put the price of decisive force above what any subject
+      could pay" → "put the establishment cost of decisive force
+      beyond what any subject could sustain as a standing,
+      provincial-scale instrument at campaign tempo"; "a first-rate
+      siege train cost more than a government's entire traditional
+      arsenal" → "more than twice" (Rogers 1995: 74, per Revisions
+      23); "Infantry was a capability; the train was an
+      *establishment*" extended "with an entry cost and a standing
+      cost"; the falling unit price conceded in a clause (Hoffman's
+      series is ch10 §VII's engagement); private siege trains named
+      (Hall 1997: 120). §VII close: "sovereignty had a minimum price"
+      → "a minimum standing cost"; "could not afford it; it
+      presupposed the *taille* levied on a kingdom" → "could not
+      sustain it; it presupposed the permanent taxation settled
+      between 1439 and 1446" (spine §8(a), 2 Sept ruling); §III "the
+      standing taxation to sustain it" → "the settlement of 1439 to
+      1446 that made the taxation sustaining it permanent in
+      practice."
+    - **Barker's distinction (§§I, IV, V).** §I: Harcourt's two
+      durations carried (Barker 2009: 388); "The two places whose
+      walls the guns demonstrably opened" → "The places whose walls
+      the list itself records as pierced by the guns." §IV new
+      sentences: Argentan's cart-sized hole (p. 389); Bayeux "to
+      rubble" (p. 396); Avranches fifteen days by the list, three
+      weeks by Barker (p. 396); Caen's tower "mined" (p. 397);
+      Cherbourg "simply sold" — Gower "bribed to surrender," "nothing
+      inevitable" (pp. 399, 401); the Grey Tower starved (p. 383);
+      Château Gaillard "proof, surely, of the lack of provisions"
+      (p. 394) — with the book's answer: "a garrison that sells at
+      five weeks has priced the alternative." §V: "The two documented
+      artillery breaches" → "The breaches — the two the list itself
+      records, and the two Barker documents at Argentan and Caen";
+      the Grey Tower passage carries Barker's gloss (p. 383) beside
+      the Herald.
+    - **The English ledger (§VI, Talbot).** ADDED: Dieppe's bastille
+      with "two hundred cannon, bombards, catapults and other
+      artillery, great and small" lost with it (Barker 2009: 302);
+      Somerset's 1443 train "discovered where Somerset had left it,
+      with his lieutenant at Avranches" (p. 312); Kyriell's "great
+      artillery train" (p. 394) — entered as "the proof, from the
+      losing side, that the decisive object was the institution and
+      not the park." All three sidecar-verified this date.
+    - **(d) §V, Fortescue.** OLD: "And yet the same English record
+      never names the machine … nowhere does an English writer
+      describe the thing this chapter has been describing." NEW: the
+      record "never names the machine as a machine … One English
+      writer did see the apparatus whole": Fortescue's description
+      of the taille and the standing companies; "almost distroied"
+      (the commons of France), "not goodly taken, and the myght of
+      his reaume is nerehande distroyed therby" (p. 117), England's
+      might "stondith most vppon archers, wich be no ryche men"
+      (p. 137); no line for guns, the words absent (verified zero,
+      ch12 sources entry); "Here is the longbow theorist in person:
+      the defeated side's most systematic analyst saw the fiscal
+      apparatus, named it tyranny, and did not see what it had just
+      bought." The misdiagnosis sentence now reads "Fortescue could
+      describe the taille — and cannot see the coupling … and
+      because, seen from the losing side, it looks like tyranny
+      rather than a weapon." Pins: Fortescue, ed. Plummer 1885, pp.
+      114–17, 137 (sidecar text-2026-09-13/Fortescue.txt; printed =
+      PDF−28; the p. 137 archers sentence located at the running
+      head this date). The [BRIDGE] on the modern asymmetry is
+      untouched.
+    - **(y) §VI, Talbot recast.** The [BOOK'S ARGUMENT] block is
+      rewritten in four paragraphs. (i) The man not settled: Pollard's
+      judgement as before; against it "the ledger of results: he
+      lost battles, and famously the last one"; beside it "the
+      ledger of reputation" — Escouchy's "vaillant chevallier et
+      sage en armes" (ii. 64, read this date in the SHF tome II
+      text), the French title, the fame "into the history play that
+      built its first part around him" (Pollard, ch. 1 — the
+      Shakespeare passage at the OCR sidecar); "Whether Talbot was a
+      good commander … the evidence leaves mixed … and this chapter
+      does not resolve it" — Roderick's ambivalence carried
+      verbatim in substance. (ii) "He was the expert whose system had
+      stopped supplying the means" — the English ledger above; the
+      Rouen hostageship and Formigny seizure reflex as before; the
+      Caen plot of June 1450 (Vale 1974: 138; Charles VII to James
+      II, Stevenson 1861: i, 346–51 — pin per Revisions 24) with the
+      distinction stated in text: "The plot proves that the train
+      and its accountant were an intelligible target … It does not
+      prove Talbot's intention; the two claims are kept apart here."
+      (iii) The conjecture as before (unchanged in substance). (iv)
+      The weapon/process close as before. OLD sentence cut: "Talbot
+      had watched the clock of warfare change under artillery — had
+      been processed through the new order's instruments as hostage
+      and clause — and it is reasonable to suppose the change had
+      entered his own calculus … He failed, and his thoughts died
+      with him" — its substance survives in (ii)–(iii) without the
+      repetition.
+    - **(r) §VI, Belloc.** OLD: "a later chapter meets the same
+      mistake with its sign reversed, in the prophets of the
+      knock-out blow, for whom the weapon was over- rather than
+      under-estimated — the satirist's Maxim-gun couplet and its
+      twentieth-century heirs [GAP: Freedman …; the Belloc 1898 text
+      is not in corpus]." NEW: the couplet quoted with attribution —
+      "Whatever happens, we have got / The Maxim Gun, and they have
+      not" (Belloc 1898: 41; B. T. B. named; sidecar verified) — for
+      the SYNDROME: "private possession of the instrument without any
+      of the process behind it … faith in the weapon detached from
+      the establishment that makes a weapon decisive," paired with
+      Talbot ("Talbot charged the guns as if the guns were the thing;
+      Belloc's captain owned the gun as if owning it were enough");
+      the knock-out-blow genealogy detached and carried by Freedman
+      through Holman (Freedman 2017: 55–57 — the Holman sentence
+      located in the sidecar; Holman on retrieval). The [GAP] closes.
+      Not entered: Freedman's Tokyo 1941 exchange (PENDING
+      VERIFICATION, Revisions 26).
+    - **R2 §VI, Howard.** OLD: "Michael Howard judged flatly that
+      Castillon was in no sense a victory for field artillery — a
+      sentence this book will argue with only when it can cite it at
+      page level [UNVERIFIED — RETRIEVAL]." NEW: the invented sentence
+      removed and its removal stated ("an earlier state of this draft
+      attributed such a sentence to Michael Howard, who wrote nothing
+      of the kind"); the dissent restaged on Howard 1976: 30–31
+      ("profound and lasting effects" in siege; "slight compared with
+      their heavy cost" — sidecar verified), DeVries 2002: X, 348
+      (Girault's "each ball hit five or six men") and XVI, 132–33
+      (the Bureau organisation), Hall 1997: 117, 131 ("unwisely
+      attacked"; "something like wall-defense weapons"). Howard's p.
+      14 scan-lost block remains PENDING VERIFICATION (Revisions 27)
+      and is not cited. ADDED after the Basin verdict: temerity as
+      Basin's stock verdict — Baugé "pro sua temeritate" (Samaran i.
+      76), Verneuil "temerarii nimium ac superbi" (i. 92),
+      Bulgnéville "ex sua temeritate devicti" (i. 176–78) — pins from
+      the Basin–Samaran assessment §(b); and the Quicherat/Samaran
+      caution with [RE-CHECK AT PRESS: Samaran tome II] (Revisions
+      25).
+    - **(s) §III, DeVries defused at first citation.** ADDED after
+      "It is a payroll": Hale's "can be explained without reference
+      to gunpowder weapons" as quoted by DeVries in support (XVI,
+      128–29; sidecar verified); the ratchet as Buchanan's
+      evolutionary image, approvingly (XVIII, 470; sidecar page
+      header verified) — "which is not what this book means by the
+      word"; the use-note "Every DeVries page cited here is cited as a
+      witness testifying against his own frame."
+    - **R4 §IV.** OLD: "the expelled *bouches inutiles*, perhaps twelve
+      thousand of them, dying in the ditch … [GAP …]". NEW: the number
+      cut; "(Barker 2009: 22–23; she gives no number, and neither does
+      this book)". [GAP] closed by cut.
+    - **R7 §VI, Cadillac — RESOLVED AT THE SOURCES, superlative
+      narrowed.** Escouchy's tome II (Beaucourt's SHF edition, in
+      corpus, text extracted this date) read at pp. 64–67: chapter
+      XCVII narrates the TOWN taken "d'assault" on "le xix jour de
+      septembre … par ung jour de merquedi" after battery (19
+      September 1453 was a Wednesday: 17 July 1453, a Tuesday, plus
+      sixty-four days); the English "se retrairrent au chasteau"; the
+      CASTLE, "moult fort et puissant," offered 10,000 écus and white
+      staves, was refused ("il avoit argent assez … les avoir à sa
+      volenté"), saw the heaviest guns brought up, and made terms —
+      the English to ransom, the Gascons "à son bon plaisir" (pp.
+      66–67); Beaucourt's note at p. 67 dates the Benauges
+      capitulation under the same treaty to 27 September 1453
+      (Ordonnances t. XIV, p. 262). This reconciles Hall's "complete
+      capitulation on 27 September" (p. 118: the castle's treaty) with
+      Escouchy's storm (the town, 19 September): two objects, two
+      dates, one place. Vale's 17 September (TRHS 1969; 1974: 140,
+      "On his arrival at the place, they surrendered. The captain was
+      executed," citing Escouchy ii. 56 and a payment record for
+      guiding the king "and a bombard" before Cadillac) is NOT
+      reconciled: it precedes the storm and reads as the payment
+      record's date. Draft: "Cadillac … is the only place in the
+      whole record taken by storm through a breach" → "The town of
+      Cadillac … is the one place in the record this book has read
+      that was taken by storm through a breach"; the castle's
+      composition added (ii. 66–67 [TRANS. CLAUDE]); the three
+      accounts set down in text; the execution pinned to Vale and
+      Hall; [RE-CHECK AT PRESS] on Vale's date. The [GAP-flag] closes.
+    - **Corrections of fact (Revisions 21–23).** §II trebuchet: "out-
+      ranged the trebuchet's flat trajectories" → the high arc, the
+      flat trajectory the gun's (Hall 1997: 21). §II English Heritage
+      [GAP] → Hall 1997: 14 (quoted with attribution). §II
+      tipping-point [GAP] closed: Rogers 1995: 67–73, Hall 1997: 58,
+      DeVries 2002: XI, 122–23. §III "after 1453, mayor of Bordeaux"
+      → "from the summer of 1451" (Hall 1997: 116–17). §III corned
+      powder "burned uniformly" → "kept and burned better," uniform
+      burn sixteenth-century (Hall 1997: 73, 86, 101–3). §III "their
+      great guns threw stone" → stone to 1452, new powder and
+      cast-iron shot 1453 (Hall 1997: 119). §IV Fauconberg "taken at
+      breakfast" → "had unluckily chosen to spend the night there,"
+      wounded refusing surrender (Barker 2009: 375). §IV "50,000 écus"
+      → "50,000 *saluts*" (Barker 2009: 391 [RE-CHECK AT PRESS
+      against Stevenson 1864: II.ii, 609–17]). §IV Fougères "seized
+      by an English freebooter" → planned in London fifteen months
+      ahead, Surienne a Garter knight on a royal pension (Barker
+      2009: 371–74; Griffiths not cited — not in this chapter's
+      sources). §VI Formigny: Kyriell "some four thousand men, nearly
+      three-quarters of them archers" → "2,500 men 'and a great
+      artillery train' … joined by some 1,800 more" (Barker 2009:
+      394–95); the culverins carry both readings — Barker's "small
+      field guns" (p. 395), Hall's "probably heavier guns" (p. 116);
+      "some 3,700 English dead and upwards of nine hundred prisoners"
+      → 3,774 buried in fourteen grave pits, Kyriell among the
+      prisoners (Barker 2009: 395–96). §VII Rogers: "does not think
+      the artillery revolution was the great rupture … the deeper
+      break came a century earlier" → "does not think there was one
+      great rupture … and he declines to rank the two he finds";
+      each "truly deserves to be termed a 'military revolution' in
+      itself" (Rogers 1995: 56); "The disagreement that remains is a
+      ranking of revolutions" → "whether there was a single hinge."
+    - **NOT APPLIED — Honfleur/Harfleur (Revisions 21).** Barker's
+      correction (Talbot forfeited over HARFLEUR, "Honfleur is
+      sometimes mistaken for Harfleur," pp. 398, 437) was checked
+      against the T1 text before application. Blondel, in Stevenson
+      1863: 141–42 (Narratives, text extracted this date), lists among
+      the places the Rouen treaty bound the English to deliver
+      "Arcarum, Monasterii-Villaris, Insulae-Bonae, Honnofluctus et
+      Tancarvillae," and then: "Solus magister Curson temerarius
+      promissionem irritat; nam capitaneus instanti praecepto
+      requisitus Honofluctum dedere contemnit, et pactione ex integro
+      non adimpleta, heros de Talbot obses, processu legitime confecto,
+      regi Karolo prisonarius adjudicatur" — Honfleur, distinguished
+      from "Harofluctum" (Harfleur) two lines above; Stevenson's index
+      has "Curson, Richard, captain of Honfleur, 142." Barker's own
+      note (p. 437 n., on Pollard's 'Talbot and the Wars of the
+      Roses', p. 302) concerns a different text. T1 read at the page
+      outranks T3: the draft keeps Honfleur, records Barker's reading
+      in the citation, and flags [RE-CHECK AT PRESS]. Roderick to
+      rule if he prefers Barker.
+    - **Register (b), (c), (i).** (b): the Rogers-cycle paraphrases
+      "suppressed regional powers" (§VII, twice) → "subordinated the
+      regional powers beneath them" (the quoted Rogers sentence is
+      untouched). (c): §I "ended" → "locked into consolidated units."
+      (i): §VII "Disciplined infantry could be raised by anybody with
+      a valley or a town: the Swiss cantons raised it, the English
+      indentured retinue packaged it" → "It was not the longbow:
+      'None but the king of England could seriously hope to employ
+      masses of archers in pitched battles' … 'depended on an entire
+      peasant culture to sustain it' (Hall 1997: 20, 38; sidecar
+      verified). The people's weapons … were the pike, the crossbow
+      and then the hand-gun — learned in weeks, raised by anybody
+      with a valley or a town"; the retinue now "packaged the
+      archer."
+    - **Ruling (z), for Part B.** The Blondel "walls and the minds"
+      sentence stays at §IV as the quotation at source (the Latin,
+      Stevenson 1863: 152). Roderick's caveat ("perhaps used once, in
+      the Introduction") is read as governing the IMAGE's deployment,
+      not the chapter's citation of its source; if he means the
+      quotation to leave ch06 as well, that is a one-line cut for
+      Part B (B3). Flagged, not done.
+    - **Flags.** Closed: the English Heritage [GAP]; the
+      tipping-point [GAP]; the Rouen 1418–19 [GAP]; the Howard
+      [UNVERIFIED — RETRIEVAL]; the Freedman/Belloc [GAP]; the
+      Cadillac [GAP-flag]. Opened: [RE-CHECK AT PRESS] ×4 (the 50,000
+      saluts; Honfleur/Harfleur; Basin's Castillon pins against
+      Samaran tome II; Vale's Cadillac date). [TRANS. CLAUDE] +1
+      (Escouchy ii. 66–67). No [BRIDGE] touched; no [BRIDGE —
+      PROPOSED] required (no ruling changes what §V's or §VII's bridge
+      carries — the Russian-troops joint under (d) is a rewording of
+      the FRAMING before the bridge, and the bridge itself is left
+      for Roderick). No [OUTLINE CONFLICT]: the outline's ch06 brief
+      asks for the same-wall comparisons and the Somerset census, both
+      retained; it does not use the word "controlled."
+    - **Voice ledger.** No new coinage (the "Belloc syndrome" is a
+      label for Belloc's own text, checked against the assessment's
+      wording and not claimed); no new image (the "mirror … is a
+      joke" is plain statement); the aphorism count stays at two, the
+      cut Roderick's. The Fortescue line "the longbow theorist in
+      person" is Roderick's phrase from the synthesis, not the
+      book's coinage.

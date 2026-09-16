@@ -596,3 +596,53 @@ quotation in a browser before print.*
   pins-to-verify now verifiable). For this chapter: Belgrade 1456
   as the relief clock running from the Ottoman side. Full entry
   and the devolution engagement at ch11.
+
+## Added 2026-09-16 — Phase 5 renovation (pointer entries; no new works)
+
+- **POINTER — M. G. A. Vale, *Charles VII* (California, 1974)** —
+  master entry in ch10/sources.md (IN REPO, `corpus/retrieved/
+  CharlesVII - Vale.pdf`; sidecar `text-2026-09-13/CharlesVII.txt`).
+  Pins used in this chapter: p. 138 (the Caen plot of June 1450 — the
+  4,000 écus, the four names, "putting torches into the powder kegs
+  and spiking the bombards"; MS Dupuy 38; Charles VII to James II at
+  Stevenson 1861: i, 346–51); p. 140 (Cadillac: "On 17 September the
+  penalties of resistance … On his arrival at the place, they
+  surrendered. The captain was executed on his orders," citing
+  Escouchy ii. 56 and a payment record — sidecar verified this date);
+  p. 203 (Talbot at the Rouen window, not yet used). Vale 1969 (TRHS,
+  *The Last Years of English Gascony*) remains the carrier for the
+  1451 Bordeaux terms and the Cadillac execution date.
+- **POINTER — Sir John Fortescue, *The Governance of England*, ed.
+  Plummer (Oxford, 1885)** — master entry in ch12/sources.md (IN
+  REPO; sidecar `text-2026-09-13/Fortescue.txt`; printed = PDF−28).
+  Pins used here (ruling (d)): pp. 114–17 — the French taille and
+  standing companies described, the commons "almost distroied,"
+  the revenues "not goodly taken, and the myght of his reaume is
+  nerehande distroyed therby" (p. 117); p. 137 — "the myght stondith
+  most vppon archers, wich be no ryche men" (located at the running
+  head this date); "gonnes"/"ordenaunce"/"artillery" absent from the
+  text (verified zero, per the ch12 entry).
+- **T1 — Mathieu d'Escouchy, *Chronique*, ed. G. du Fresne de
+  Beaucourt, tome II (Société de l'Histoire de France, 1863)** — IN
+  REPO (`corpus/retrieved/Chronique_de_Mathieu_d_Escouchy.pdf`,
+  Google scan with text layer; tome I is `chroniquedemathi01
+  escouoft.pdf`). The chapter's Escouchy ii pins were carried through
+  ch06/artillery-reconquest.md (REVIEWED); this entry records the
+  pages read at first hand this date for R7: ch. XCVII, pp. 64–67 —
+  Cadillac's TOWN "print d'assault … le xix jour de septembre … par
+  ung jour de merquedi" after battery "tous ensamble et à une fois";
+  the English "se retrairrent au chasteau"; the castle's offer of
+  10,000 écus refused ("il avoit argent assez … les avoir à sa
+  volenté"); the treaty (English to ransom, Gascons "à son bon
+  plaisir"); Beaucourt's n. 1 at p. 67 dating the Benauges
+  capitulation to 27 September 1453 (Ordonnances t. XIV, p. 262).
+  Also p. 64: Talbot "vaillant chevallier et sage en armes" (used in
+  §VI for the reputation ledger).
+- **Pins used this date from entries above:** Barker 2009: 22–23,
+  302, 312, 371–74, 375, 383, 388, 389, 391, 394–96, 397, 398, 399,
+  401, 437; Hall 1997: 14, 20, 21, 38, 49, 58, 73, 86, 95, 101–3,
+  116–17, 118, 119, 120, 131; Rogers (ed.) 1995: 56, 67–73, 74;
+  DeVries 2002: X, 348; XI, 122–23; XVI, 128–29, 132–33; XVIII, 470;
+  Howard 1976: 30–31; Belloc 1898: 41; Freedman 2017: 55–57; Basin,
+  ed. Samaran, i. 76, 92, 176–78 (the temerity topos — pins from the
+  assessment, page images to verify).
