@@ -26,8 +26,7 @@ Post-Democracy.pdf in corpus is the same pamphlet, not the 2004 book).
 
 Still wanted (new or unchanged): Chastellain, Kervyn tome IV/V
 (1461–70; the 1467 spider ballade); Crouch, *Post-Democracy* (2004);
-Wolin, *Democracy Incorporated* (2008); Tilly (ed.) 1975 ch. 1 (the
-"war made the state" page); Bean, *JEH* 1973; Major 1960 (the 1468
+Wolin, *Democracy Incorporated* (2008); Tilly (ed.) 1975 ch. 1 — ARRIVED 2026-09-16 as the full volume (row flipped; assessment this date); Bean, *JEH* 1973; Major 1960 (the 1468
 Estates check — spine §8(a), Roderick's); Strayer & Munro 1959 p. 115
 (the "patchwork" phrase); Commynes, Calmette tomes I–II; Samaran tome
 II; McNeill/Goldsmith & Wu now done; EUR-Lex EDIP regulation if
