@@ -404,3 +404,87 @@ STATUS: REVIEWED (Roderick, 2026-07-22) — cleared for drafting
      (pp. 99, 238).
    - CONTRADICTS (critiques entry this date): "Venice became the
      proto-state itself" (§VII).
+
+8. **(2026-09-16 — Phase 5 renovation: R3, R5; Lane's corrections;
+   ruling (l) Venice half; register (c). PENDING HUMAN REVIEW.)**
+   First pass since 3 September to edit draft.md; applies Revisions
+   7 and the rulings of 16 September. Pins re-verified against the
+   Lane sidecar (printed = PDF−22).
+   - **R5 (Colleoni's bargain), §II.** OLD: "Colleoni, the loyal one,
+     was made captain-general for life (1455), endowed with estates
+     and a castle, and stands now in Verrocchio's bronze … Execution
+     for the suspect; tenure and bronze for the loyal." NEW: Colleoni
+     "is the other bracket, and his case is less tidy than his statue
+     suggests" — contractual fidelity ("never treacherously broken a
+     contract," p. 233) joined to licensed ambition elsewhere (1467,
+     out of Venetian pay, the Romagna principality with Florentine
+     exiles, bought off, p. 236); estates kept to the end; much of
+     his wealth seized "as soon as he was dead and his army and
+     skill was no longer to be feared" (p. 233); the bronze at the
+     Scuola, not the Piazza, because individual glorification was
+     not permitted at the centre of government (p. 233). "Execution
+     for the suspect; a licensed career, a sequestration and a
+     statue for the faithful contractor." The captaincy-for-life
+     date (1454/1455, Wikipedia variants only — sources.md open
+     items) has no T2 carrier in the chapter and is DROPPED, not
+     re-pinned; the memo §2's "for life (1455)" is superseded by
+     this entry. §V "Colleoni's life-captaincy" → "Colleoni's
+     condotta"; "Colleoni's bargain, not Sforza's throne" glossed
+     ("the licensed career, the revocable favour, the estate
+     reviewed at the end").
+   - **Lane's corrections, §II (Carmagnola).** OLD: "summoned to the
+     city on a pretext, tried in secret, and beheaded … on 5 May
+     1432." NEW: invited in March 1432 to explain the campaign, the
+     door from the chamber leading to the prisons, "a month later,
+     after a formal hearing of evidence," beheaded in public between
+     the columns (p. 232). The "5 May" rested on T4 pointers only
+     and is replaced by Lane's relative dating. Lane's "one of the
+     most successful employers of condottieri" (p. 232) entered
+     with attribution.
+   - **Lane's corrections, §VI.** Arsenal: OLD "some forty-five
+     hectares, a workforce around sixteen thousand at peak …
+     (the famous galley-a-day is a surge anecdote …)"; NEW "the
+     biggest industrial establishment in all Christendom" (p. 362),
+     sixty acres, c. 2,000 men within the wall, 3,000 in
+     emergencies, features anticipating the assembly line and
+     interchangeable parts (p. 362); the galley-a-day parenthesis
+     replaced by the dated surge — 100 galleys in two months,
+     spring 1570 (p. 364). The Ten: OLD "permanent within a
+     generation"; NEW "almost lapsed … gradually built a permanent
+     place for itself" (p. 117), undated. The debt: OLD "forced
+     loans on the wealthy … paying five per cent semi-annually";
+     NEW "on the propertied, every Venetian with a minimal amount
+     of property subscribing in proportion," 1262 consolidation
+     "later called the Monte Vecchio," five per cent a year in
+     half-yearly instalments, unbroken for over a century, readily
+     bought and sold (p. 150). The [GAP] narrowed to the yield
+     series and the estimo (Mueller vol. II; Luzzatto PRV).
+   - **R3 (bocche di leone), §VI.** Lane attribution removed; the
+     sentence flagged "[GAP — Chambers & Pullan, retrieval: neither
+     the bocche di leone nor the destruction rule is in Lane; the
+     sentence stands on Chambers & Pullan or is cut]." Memo §6's
+     "[UNVERIFIED — RETRIEVAL: Lane; Chambers & Pullan]" is
+     superseded: Lane has been searched and does not carry it.
+   - **Ruling (l), Venice half, §§VI–VII.** §VI gains one paragraph-
+     close: "the instruments are not the form" — Lane's verdict
+     ("those most nearly successful were, except for Venice,
+     monarchies," p. 251); a centre nothing could kill (Foscari
+     deposed 1457 by vote, the system carried on, p. 267); "almost
+     no bureaucracy," the Arsenal, mint and taxes run by short-term
+     elected boards (p. 98); force limited by men not money (more
+     galleys than crews, p. 364); Venice "not the proto-state but a
+     control case — a polity that ran the mechanism two steps in
+     and stopped," handed to ch10 beside Burgundy. §VII: OLD "Venice
+     became the proto-state itself." NEW "Venice built the
+     instruments and, by Lane's verdict, refused the form." The
+     two disanalogies (fisc driven by war not cannon; men not
+     capital) are stated in ch10 §VI per the instruction; ch04
+     carries the second in one clause and leaves the first to
+     ch10.
+   - **Register (c), §VII.** OLD "how the first dispersal ended";
+     NEW "how the first dispersal was locked into consolidated
+     units." No "suppressing" occurs in the chapter.
+   - Draft word count 3,570 → 4,089 (the Colleoni and Venice
+     rewrites grew to what the correction needed; nothing
+     lengthened otherwise). Voice ledger unchanged. No new work
+     enters; Chambers & Pullan remains a RETRIEVAL row.

@@ -82,18 +82,35 @@ captains were integrated by marriage, land and honours; and the
 states began hiring men-at-arms as individuals — the *lanze
 spezzate*, "broken lances," under state-appointed commanders — a
 quiet step from renting companies toward owning soldiers. Venice,
-the most institutionally careful buyer, supplies the pair of
-exemplary cases that bracket the employment relation. Carmagnola,
-the celebrated captain suspected of a double game, was summoned
-to the city on a pretext, tried in secret, and beheaded between
-the Piazzetta's columns on 5 May 1432. Colleoni, the loyal one,
-was made captain-general for life (1455), endowed with estates
-and a castle, and stands now in Verrocchio's bronze — the statue
-Venice gave him being precisely the monument Florence had only
-painted. Execution for the suspect; tenure and bronze for the
-loyal: a market disciplining its contractors with instruments a
-modern procurement office would recognise, scaled to the
-fifteenth century's sanctions.
+the most institutionally careful buyer — "one of the most
+successful employers of condottieri," in Lane's judgement (Lane
+1973: 232) — supplies the pair of cases that bracket the
+employment relation. Carmagnola, the celebrated captain suspected
+of a double game, was invited to the city in March 1432 to
+explain his plans for the coming campaign, found that the door
+he was shown from the council chamber led to the prisons, and a
+month later, after a formal hearing of evidence, was beheaded in
+public between the Piazzetta's columns (Lane 1973: 232). Colleoni
+is the other bracket, and his case is less tidy than his statue
+suggests. His bargain with the republic was contractual fidelity
+— he had never, in Lane's phrase, "treacherously broken a
+contract" with Venice (Lane 1973: 233) — joined to a licensed
+ambition elsewhere: in 1467, out of Venetian pay, he was trying
+to carve a principality for himself in the Romagna with the help
+of Florentine exiles, and Venice declined to join the coalition
+formed to curb him until the old man had been bought off (Lane
+1973: 236). He kept his estates and his castle to the end; the
+republic seized much of his wealth as soon as he was dead "and
+his army and skill was no longer to be feared" (Lane 1973: 233);
+and it raised Verrocchio's bronze not in the Piazza but before
+the Scuola di San Marco, because the glorification of any
+individual was not permitted at the centre of government (Lane
+1973: 233) — the monument Florence had only painted, set where it
+could not be mistaken for a claim. Execution for the suspect; a
+licensed career, a sequestration and a statue for the faithful
+contractor: a market disciplining its contractors with
+instruments a modern procurement office would recognise, scaled
+to the fifteenth century's sanctions.
 
 ## III.
 
@@ -247,7 +264,7 @@ Army Reserve; reportedly without recusal from Pentagon
 business touching their companies (Military.com), and with
 the Army itself, per the defence press, not entirely certain
 what the unit was for (Defense One). The state conferring
-*rank* on the contractor class: Colleoni's life-captaincy,
+*rank* on the contractor class: Colleoni's condotta,
 re-run as a commissioning photograph.
 
 The structure of the American absorption deserves one more
@@ -264,8 +281,9 @@ state's terms and revocable — the blacklisting of a frontier
 lab within a year of the commissioning ceremonies (Chapter
 3's dated episode) showed the same hand that raises can
 strike — and what it confers is office, not sovereignty. The
-condottieri of the 2020s are being given Colleoni's bargain,
-not Sforza's throne. Whether any of them can convert office
+condottieri of the 2020s are being given Colleoni's bargain —
+the licensed career, the revocable favour, the estate reviewed at
+the end — not Sforza's throne. Whether any of them can convert office
 into something less revocable is precisely the question the
 functional-sovereignty thread exists to track.
 
@@ -327,29 +345,39 @@ inside. The republic developed, out of commercial necessity
 and three centuries before Louis XIV, every apparatus the
 modern literature treats as the signature of the
 twentieth-century state. Surveillance: the Council of Ten,
-created in 1310 after the Tiepolo conspiracy and permanent
-within a generation, with secret funds, informer networks
-and police powers, its lion-mouthed denunciation boxes — the
-*bocche di leone* — set into the city's walls; and the
-detail that redeems the institution from caricature:
+created in 1310 after the Tiepolo conspiracy, which almost
+lapsed once the danger had passed and then, in Lane's account,
+gradually built a permanent place for itself (Lane 1973: 117),
+with secret funds, informer networks and police powers, and
+with a first business of eliminating the exiles and any noble
+who acted as if above the law; its lion-mouthed denunciation
+boxes — the *bocche di leone* — set into the city's walls; and
+the detail that redeems the institution from caricature:
 anonymous denunciations were, as a rule, *destroyed* unless
 of special gravity — the state demanding attributable
 information, a procedural scruple many modern tip-lines do
-not match [GAP: the voting-threshold rule awaits Lane;
-Chambers & Pullan]. Manufacturing: the Arsenal, the largest
-industrial complex of pre-industrial Europe — some
-forty-five hectares, a workforce around sixteen thousand at
-peak, standardised assembly-line galley production (the
-famous galley-a-day is a surge anecdote from a state visit,
-and is cited as anecdote). Finance: the *prestiti* — forced
-loans on the wealthy, consolidated in 1262 into a single
-funded debt paying five per cent semi-annually, with an
-active secondary market: the first funded sovereign debt in
-European history, the state converting its richest citizens
-into its creditors and thereby into stakeholders in its
-survival [GAP: the consolidation's specifics await Lane &
-Mueller; the in-repo Pezzolo chapter proved adjacent, not
-on point]. To do any of this the state had first to *see* —
+not match [GAP — Chambers & Pullan, retrieval: neither the
+bocche di leone nor the destruction rule is in Lane; the
+sentence stands on Chambers & Pullan or is cut]. Manufacturing:
+the Arsenal, "the biggest industrial establishment in all
+Christendom" in Lane's phrase (Lane 1973: 362) — some sixty
+acres, about two thousand men within its wall on average and
+three thousand in emergencies, organised in ways that
+anticipated the assembly line and the interchangeable part
+(Lane 1973: 362); when the Turkish attack on Cyprus demanded
+the largest possible fleet at once, it turned out a hundred
+galleys in two months in the spring of 1570 (Lane 1973: 364).
+Finance: the *prestiti* — forced loans on the propertied,
+every Venetian with a minimal amount of property subscribing
+in proportion, consolidated in 1262 into a single funded debt,
+later called the Monte Vecchio, paying five per cent a year in
+half-yearly instalments, without a break for more than a
+century, and readily bought and sold (Lane 1973: 150): the
+first funded sovereign debt in European history, the state
+converting its propertied citizens into its creditors and
+thereby into stakeholders in its survival [GAP: the yield
+series and the estimo await Mueller vol. II and Luzzatto; the
+in-repo Pezzolo chapter proved adjacent, not on point]. To do any of this the state had first to *see* —
 to assess wealth, register persons, track obligation — and
 fiscal legibility of that kind is the precondition of
 consolidated finance everywhere this book looks; the
@@ -360,7 +388,23 @@ arose in a *republic*, out of commerce, inside the plural
 medieval order — they are not modern impositions on the
 neomedieval condition but state-form phenomena that emerge
 wherever scale, commerce and insecurity meet. The dispersal
-contains, everywhere, the seeds of its own consolidators.
+contains, everywhere, the seeds of its own consolidators. But
+the instruments are not the form, and Lane's verdict on the
+form is flat: no sixteenth-century government was efficient by
+a modern standard, but "those most nearly successful were,
+except for Venice, monarchies" (Lane 1973: 251). The republic
+had capital, credit and an arsenal, and a centre nothing could
+kill — Foscari was deposed in 1457 by vote of the councillors
+and the Ten, and the system carried on (Lane 1973: 267) — and it
+ran all of this with almost no bureaucracy, the Arsenal, the
+mint and the taxes managed by short-term boards of elected
+nobles who could not succeed themselves (Lane 1973: 98). Its
+decisive force was limited by men, not money: the Arsenal
+produced more galleys than Venice could find crews for (Lane
+1973: 364). Venice, then, is not the proto-state but a control
+case — a polity that ran the mechanism two steps in and
+stopped — and Chapter 10 sets it beside Burgundy on exactly
+those terms.
 
 ## VII.
 
@@ -377,14 +421,16 @@ unremarked by the literature that supplied the first. The
 condottiere was domesticated — by market competition, by
 integration, by the axe between the columns. The Hansa's
 enclaves were closed — by consolidating monarchies that
-finally could. Venice became the proto-state itself. The
+finally could. Venice built the instruments and, by Lane's
+verdict, refused the form. The
 platforms are designated, fined, licensed and commissioned by
 the polities they were said to have surpassed. The dispersal's
 most developed actors are being absorbed by fiscally capable
 centres — unevenly, and fastest where the fisc is deepest, but
 in every one of the four chapters — and the literature has no account
 of the force that does the absorbing, because it never asked
-how the first dispersal ended. That is the question Part II
+how the first dispersal was locked into consolidated units.
+That is the question Part II
 exists to answer, and it begins where consolidation was least
 in evidence: with the centres themselves failing. In the first
 days of August 1453, at a hunting lodge in Wiltshire, the
@@ -401,8 +447,8 @@ outline); vivid image — the Uccello fresco as the opening emblem
 (§I); aphoristic line — "Legitimacy followed force, and never
 quite caught up" (§III). [GAP] flags: Caferro's 1380 condotta;
 Mallett (condotta anatomy); Dollinger (Hansetag date; Stralsund
-wording); Lane/Chambers & Pullan (bocche threshold); Lane &
-Mueller (prestiti). Assessments attributed (US intel; WSJ;
+wording); Chambers & Pullan (bocche di leone and the destruction rule);
+Mueller vol. II/Luzzatto (prestiti yield series). Assessments attributed (US intel; WSJ;
 Military.com; Defense One); NGC2 attribution corrected; the
 no-equity absence stated; Stralsund as prior consent; galley-a-day
 as anecdote; Prigozhin variants flagged. Hands off to ch05's
@@ -422,6 +468,28 @@ Clarendon opening (§VII). No claim beyond the reviewed memo.*
    spine's judgment stated from the record and stands (audit:
    Chapter 4 — no conflicts found).
 
+2. **(2026-09-16 — Phase 5 renovation: R3, R5; Lane's corrections;
+   ruling (l), Venice half; register (c). PENDING HUMAN REVIEW.)**
+   §II: Carmagnola's end conformed to Lane (invitation, the door
+   to the prisons, formal hearing, public execution; the T4-only
+   "5 May" dropped for Lane's "a month later"); Colleoni rewritten
+   as Colleoni's bargain — contractual fidelity plus licensed
+   freelance ambition (the 1467 Romagna venture), sequestration at
+   death, the statue at the Scuola — "the loyal one" and the
+   unsourced captaincy-for-life (1455) cut. §V: "life-captaincy" →
+   "condotta"; the Colleoni's-bargain sentence glossed to match.
+   §VI: Arsenal figures corrected (sixty acres; 2,000/3,000; the
+   1570 surge for the galley-a-day anecdote); the Ten left undated;
+   the 1262 debt in Lane's terms (five per cent a year, half-
+   yearly; "the propertied"); the bocche di leone re-pointed to
+   Chambers & Pullan and flagged [GAP] (R3); Lane's verdict on the
+   form entered — instruments without bureaucracy or executive, a
+   centre nothing could kill, force limited by men not money —
+   Venice named a control case handed to Chapter 10. §VII: "Venice
+   became the proto-state itself" cut; "how the first dispersal
+   ended" → "was locked into consolidated units." Ledger unchanged
+   (no new coinage, image or aphorism). Word count 3,570 → 4,089.
+
 ---
 
-STATUS: REVIEWED (Roderick, 2026-08-02) — approved as drafted; Revisions 1 (Phase 4 Run A) PENDING HUMAN REVIEW
+STATUS: REVIEWED (Roderick, 2026-08-02) — approved as drafted; Revisions 1 (Phase 4 Run A) and 2 (Phase 5 renovation) PENDING HUMAN REVIEW

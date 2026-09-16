@@ -123,6 +123,9 @@ releases, ISW).
    consolidation and yield series.
 7. **Chambers & Pullan, *Venice: A Documentary History*.** NEEDED FOR: the
    bocche di leone anonymous-denunciation threshold rule (NOT FOUND openly).
+   *2026-09-16 (Phase 5, R3): Lane searched and does not carry the bocche
+   or the destruction rule; the whole §VI sentence now rests on this row
+   and is flagged [GAP] in draft.md until retrieved — else cut.*
 8. *(Verify, not gated)* **defense.gov / ai.mil primary digests** for IVAS
    novation, CCA selection, TITAN, NGC2; **Inside Defense** counter-UAS
    ceiling (~$1.9bn — single-outlet); the **"first software prime"**
@@ -238,3 +241,7 @@ retrieval-master.md accordingly.*
   "those most nearly successful were, except for Venice,
   monarchies," p. 251). Retrieval: Mueller vol. II and Luzzatto
   PRV for the §VI debt dependencies; Chambers & Pullan.
+  *APPLIED 2026-09-16 (Phase 5 renovation, memo Revisions 8): pins
+  used in draft.md — pp. 98, 117, 150, 232, 233, 236, 251, 267, 362,
+  364; the Colleoni captaincy-for-life date dropped (no T2 carrier
+  in this chapter); "proto-state" cut per ruling (l).*
