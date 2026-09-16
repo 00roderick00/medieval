@@ -214,3 +214,347 @@ primary tables before print. Consistency with ch06 verified.*
   "Portugal stable, Aragon expanding" must lose its second limb;
   Iberia belongs INSIDE the modal condition, Portugal alone
   stands.
+
+## Added 2026-09-16 — catch-up run STEP 3 (assessments of 14 September; pins verified against sidecars)
+
+Every pin below was opened in the sidecar named before entry. The
+assessments in research/assessments-2026-09-14/ are the map, never the
+authority. Nothing here is applied to draft.md; corrections go to
+memo.md Revisions 10 onward and to critiques.md.
+
+- **T1 — Georges Chastellain, *Œuvres*, ed. Kervyn de Lettenhove,
+  t. III, *Chronique 1454–1458* (Brussels, Heussner, 1863/1864)** —
+  IN REPO twice: `Chastellain-Oeuvres-vol01.pdf` (Google's "vol01" is
+  Kervyn's Tome III; DEFECTIVE — printed pp. 259, 386–387 and 416–417
+  absent; offset shrinks from PDF−8 to PDF−3) and
+  `Chastellain-Oeuvres-vol15.pdf` (the same tome complete; printed =
+  PDF+10 throughout — THE WORKING COPY; sidecar
+  `text-2026-09-14/Chastellain-vol15-ocr.txt`). OCR body text good;
+  running heads unreliable. Old French verbatim with [TRANS. CLAUDE]
+  in memo Revisions 10. Personal-names rule: "Chastellain" (ch10's
+  "Chastelain" to be regularised there).
+  FOR THIS CHAPTER (Charles VII's court; Burgundy; the arc of the
+  recovering France of §VII):
+  (a) *The dauphin Louis's flight, August 1456.* Ch. XXXVI, pp. 177–79
+  (vol15 PDF 187–89): the dauphin's fear of his father, "le roy son
+  père mesme venir tousjours file à file après, comme pour prendre la
+  souris en son trou" (p. 178); his letter from Saint-Claude "le
+  darrenier d'aoust" pleading the crusade and the Pope's request
+  (p. 179). *Charles VII's reaction.* Ch. XLII, "Comment le roy requist
+  le duc de Bourgongne de ne donner refuge, ne confort au dauphin",
+  pp. 199–201 (PDF 209–11): the king "se donnoit beaucoup de mal en sa
+  teste pour son fils" (p. 199); his letter to Philip describing Louis
+  as "un fils de perverse volenté, ingrat de tout bien et de toute
+  amour à luy monstrée et tout entièrement incorrigible envers luy"
+  and asking that the duke give him no "confort, refuge, ne support"
+  (p. 200); George de Bohec sent from Chastellar "le xii de septembre"
+  (p. 201). Ch. XLIV, pp. 215–17 (PDF 225–27): the king to his son —
+  "bien esmerveillés quant avons sçu vostre si soudain partement du
+  pays du Dauphiné" (p. 216); the summons "venir devers nous, comme bon
+  et obéissant fils doibt envers son seigneur et père" (p. 217). The
+  answer in force: men-at-arms moved to the Burgundian frontier, the
+  king at Lyon "pour mettre en son obéissance tout le pays du
+  Dauphiné", the governor yielding "considérant ledit pays non pouvoir
+  résister à l'encontre de sa puissance" (pp. 225–26 / PDF 235–36).
+  Kervyn's note at p. 199 (T2 apparatus, from another source) has the
+  dauphin at Brussels calling himself "le plus pauvre du royaulme de
+  France" — apparatus only, never text.
+  (b) *The Montargis summons, 1458.* Ch. LXXXI, p. 417 — page ABSENT
+  from vol01; pinned to vol15 PDF 427: the duke summoned in open court
+  at Ghent "comme doien des pairs et double pair de France" to the lit
+  de justice on Alençon, "prisonnier par l'espasce jà de trois ans";
+  "ce lui sembloit estre une manière d'argu et de despit, fait plus
+  par malice que par nécessité"; his person "par vertu de la paix
+  d'Arras … exempte à tousjours".
+  (c) *The Alençon prosecution read as aimed at Burgundy.* P. 422
+  (vol15 PDF 432; vol01 PDF 425): "en faisant courre sentence sur le
+  duc d'Alençon qui estoit son compère et son sang, pensoit et tendoit
+  à donner fréeur au duc de Bourgongne lequel il maintenoit à son
+  rebelle" (OCR "frégur"). The ban et arrière-ban cried "mesme au pays
+  et ès villes engagiées sur Somme" against the Arras transfer of "tous
+  les services des nobles et des peuples, avecques toutes juridictions
+  … réservé seulement la souveraineté" (p. 423 / PDF 433). The arrest
+  itself, "ès kalendes de juin" 1456, by Dunois at Paris (ch. XVII,
+  p. 100 / vol15 PDF 110).
+  (d) *The Burgundian court's fiscal condition, 1454–58 (§VI's
+  comparator).* Franche-Comté, 1454: the nobles "sont si francs que leur
+  prince ne peut tailler leurs subgès sinon de leur consentement, et
+  encore quant ils consentiront à lever tailles sur leurs hommes … sy
+  en tourne le tiers ou une grande portion devers eux, qui redonde en
+  leur bourse" (p. 13 / PDF 23; the sum left blank in the manuscript).
+  Brabant, 1458: the duke asked "point d'argent, ni finance, mais
+  service corporel … service de six sepmaines à leurs despens … les
+  bonnes villes … avecques leur artillerie, et les gens d'esglise …
+  en contribution de deniers pour payement des saudées, car touchoit
+  la chose à nécessité publique" (p. 451 / PDF 461).
+  (e) *NEGATIVE FINDING — no Castillon/Talbot narrative in any tome in
+  corpus.* Kervyn's note at the close of Tome II
+  (`Chastellain-vol11-ocr.txt`, PDF 394): "La fin du livre III manque
+  … du mois de juillet 1453 au mois d'août 1454. Là se trouvaient
+  racontées … la bataille de Castillon et la mort de Talbot, la
+  conquête de la Guyenne, la prise de Constantinople par Mahomet II,
+  la condamnation de Jacques Cœur, la fête de Lille…"; Tome III opens
+  after the gap (p. 7 n., vol15 PDF 17: "Nous n'avons plus la partie
+  de la chronique"). The lacuna is in the manuscript itself: §I's
+  three events of 1453 have no Burgundian-chronicle witness, and no
+  retrieval row is left open for one.
+  COVERAGE OF THE OTHER SCANS: vol09 = Tome I (1419–1422 — Montereau
+  and Troyes, §III's material; 49 hits for Montereau/Troyes;
+  NOT YET ASSESSED — T1 witness for the §III [GAP] pending the next
+  assessment session); vol11 = Tome II (1430–31, 1452–July 1453).
+  USE-NOTE: ally as archive, rival as interpreter — Burgundian
+  partisan, providential, pitying princes; his frame flagged wherever
+  his transcriptions serve the institutional argument. The ch07
+  Praguerie ("Alençon … unpunished", 1440) and the 1458 arrêt are the
+  two ends of one arc; this chapter holds the middle (1456). Edition
+  1863–64; Kervyn remains the only complete edition of the tome
+  (Delclos 1991 covers only the 1461–64 fragments).
+
+- **T2 — Walter Bagehot, *The English Constitution* (1867; 2nd edn
+  with Introduction, 1872)** — IN REPO (sidecar
+  `text-2026-09-14/Bagehot.txt`, Gutenberg #4351; NO printed
+  pagination — cite by chapter title, opening words and Gutenberg-PDF
+  page). CORRECTION CARRIED (memo Revisions 11): §VII's "the dignified
+  pretence" is Bagehot's vocabulary unattributed. Pins: "the DIGNIFIED
+  parts, if I may so call them; and next, the EFFICIENT parts — those
+  by which it, in fact, works and rules" (The Cabinet, PDF p. 21);
+  "The dignified parts of Government are those which bring it force —
+  which attract its motive power. The efficient parts only employ that
+  power … They raise the army, though they do not win the battle"
+  (PDF p. 21). THE GENEALOGY, this chapter's subject stated as the
+  origin of his distinction (Conclusion, "This polity is a good one",
+  PDF p. 103): "The reverential associations upon which the government
+  is built are transmitted according to one law, and the capacity
+  needful to work the government is transmitted according to another
+  law. The popular homage clings to the line of god-descended kings;
+  it is transmitted by inheritance. But very soon that line comes to a
+  child or an idiot, or one by some defect or other incapable." George
+  III, "the case of a meddling maniac" (The Monarchy II, PDF p. 46) —
+  the natural body that returns and governs. "It acts as a DISGUISE"
+  (The Monarchy I, PDF p. 36). CAVEATS: "I am not, of course, now
+  speaking of the middle ages: I am not dealing with the embryo or the
+  infant form of our Constitution" (Lords, PDF p. 48) — his separation
+  is designed, 1422–55's involuntary; his fifteenth century is
+  attritional ("ante-Tudor", Conclusion, PDF p. 104) — 1867, superseded,
+  never for the mechanism. Voice: "ornamental" occurs only of the
+  clock-wheels (Changes of Ministry, PDF p. 83), never of the
+  constitution; the ch09/ch12 coinage ledger is not this chapter's.
+  Publication 1867/1872.
+
+- **T2 — Stephen D. Krasner, *Sovereignty: Organized Hypocrisy*
+  (Princeton, 1999)** — IN REPO (sidecar `text-2026-09-14/Krasner.txt`;
+  printed = PDF−10). USE: §I footnote adopting the four-way vocabulary
+  — "domestic sovereignty, referring to the organization of public
+  authority within a state and to the level of effective control
+  exercised by those holding authority; interdependence sovereignty …;
+  international legal sovereignty …; and Westphalian sovereignty"
+  (p. 9 / PDF 19); "Domestic sovereignty is used in ways that refer to
+  both authority and control" (p. 10 / PDF 20); "the single most
+  important question for political analysis" (p. 12 / PDF 22). §V's
+  IR warrant: "A state can have international legal sovereignty, be
+  recognized by other states, but have only the most limited domestic
+  sovereignty … In the 1990s some failed states in Africa, such as
+  Somalia, served as unfortunate examples" (p. 4 / PDF 14). §IV
+  forward pointer (ch12 §II's business): the Ottoman Council of the
+  Public Debt, 1881 (p. 34 / PDF 44), "more than a quarter of the
+  empire's revenue" (p. 137 / PDF 147), Egypt "60 percent" (p. 138 /
+  PDF 148). His contradiction (Westphalian sovereignty never existed as
+  practice) is ch01's and spine §3's, not this chapter's; he concedes
+  domestic consolidation "reflected functional advantages" (p. 68 /
+  PDF 78). Publication 1999; pre-platform.
+
+- **T2 — Thomas Ertman, *Birth of the Leviathan* (Cambridge, 1997)** —
+  IN REPO (sidecar `text-2026-09-14/Ertman.txt`; PDF = printed+15).
+  FOR THIS CHAPTER: "the power of the great magnates with their
+  regional strongholds and private armies was broken during the Wars
+  of the Roses and their aftermath" (p. 179 / PDF 194); "England's
+  withdrawal from European politics after its defeat in France meant
+  that even when order was restored after 1485, there was little need
+  to call Parliament with any regularity" (p. 180 / PDF 195). DISPUTE
+  RECORDED: Ertman's "private armies" v. Lander's "completely
+  misleading" (p. 31) — the chapter follows Lander; Ertman is the
+  surviving T2 usage, citable as such. §VI's French remedy at T2: "by
+  an ordinance of 1439, the Estates outlawed the private recruitment
+  of troops and seigneurial tailles, in effect creating a royal
+  monopoly of both coercion and taxation" (pp. 86–87 / PDF 101–02).
+  RIVAL on §VI's "the problem ended" — France's precocity bought "a
+  substantial loss of effective control to proprietary officeholders,
+  tax farmers, and officeholder-financiers" (p. 28 / PDF 43); the
+  compagnies "controlled and commanded by the local royal governor,
+  almost always a member of a prominent magnate family" (p. 94 /
+  PDF 109) — critiques entry this date. The king legibus solutus
+  (p. 93 / PDF 108) is ch09's. Publication 1997; his England (1530s as
+  "Deepening Patrimonialism", pp. 178–87) disputes ruling (k) at ch11.
+
+- **T2 — Jan Glete, *War and the State in Early Modern Europe*
+  (Routledge, 2002)** — IN REPO (sidecar `text-2026-09-14/Glete.txt`;
+  PDF = printed+9). FOR THIS CHAPTER (§VI's remedy; §VII's Iberia,
+  with ruling (h)): the Granada war — "Much of the war effort was paid
+  for by taxes to the state, not by the participants"; "Private armies
+  as instruments of aristocratic factionalism ceased to be important
+  after this war, and the noblemen's castles had become vulnerable to
+  the rulers' new siege artillery" (p. 75 / PDF 84). England "sank
+  into a deep political crisis from the 1450s to the 1480s" (p. 20 /
+  PDF 29). RIVAL on the French answer's durability: the early French
+  permanent forces "practically disappeared in the long civil war
+  period (1562–98)" (p. 39 / PDF 48) — critiques entry with Ertman.
+  Constitutional form open (p. 212 / PDF 221) — ch12's. Publication
+  2002; his chronology (no fiscal-military state before 1560) is
+  ch10's quarrel.
+
+- **T2 — David Stasavage, *States of Credit* (Princeton, 2011)** — IN
+  REPO (sidecar `text-2026-09-14/Stasavage.txt`; EPUB conversion, NO
+  printed pagination — cite by chapter, section heading and file
+  marker; re-pin before print). FOR THIS CHAPTER, pointer-level (the
+  load-bearing use is ch10 §III and ch12): the assembly France
+  dispensed with cost money to convene — "the French crown spent
+  50,000 livres tournois indemnifying the deputies to the Estates
+  General of 1484" (ch. 3, 'Origins of Representative Assemblies',
+  part0010_split_001, on Major 1955); "At the conclusion to the 1468
+  meeting, the assembled Estates actually stated that they could not
+  meet as frequently as in the past" (ch. 7, part0014_split_004). THE
+  CORTES: "it may be possible to maintain the institution but without
+  it serving its intended purpose … Compare, for example, the Cortes
+  of Castile in the seventeenth century to the Ugandan Parliament in
+  the twenty-first century" (ch. 8, 'Information, Commitment, and
+  Democracy', part0015_split_002) — the assembly-side twin of §VII's
+  "dignified pretence"; Charles V's Cortes convened at Santiago and
+  moved "to the even more remote location of La Coruña" in 1520
+  (ch. 7, 'Explaining the Demise of the Cortes', part0014_split_009).
+  Publication 2011.
+
+- **T2 — William H. McNeill, *The Pursuit of Power* (Chicago, 1982)**
+  — IN REPO (sidecar `text-2026-09-14/McNeill.txt`; PDF = printed+9).
+  FOR THIS CHAPTER: §VI's remedy sentence at T2 — "The power of any
+  ruler who was able to afford the high cost of the new weapons was
+  therefore enhanced at the expense of neighbors and subjects who were
+  unable to avail themselves of the new technology of war" (p. 89 /
+  PDF 98) — VOCABULARY CAVEAT: "cost of the new weapons" is the
+  unit-cost reading ruling (aa) has set aside; cite for the direction
+  of the effect ("neighbors and subjects"), not the mechanism. §VII's
+  Kent: "until after the middle of the seventeenth century, even in
+  the best-governed states of western Europe, subjects retained the
+  option of armed revolt against royal tax collectors and could expect
+  to prevail if enough of their fellows felt the same way" (p. 105 /
+  PDF 114); Bean 1973 — central tax revenues "doubled in real, per
+  capita terms between 1450 and 1500" (p. 105 n. 35). The reconquest
+  "by bringing heavy artillery pieces to bear on castle walls, one
+  after another" (p. 83 / PDF 92) is ch06's. Publication 1982; his
+  technical chronology (1465–77 for corned powder and iron shot) is
+  superseded by Hall and must not enter §I.
+
+- **T2 — John Gerard Ruggie, "Territoriality and Beyond," *International
+  Organization* 47:1 (1993)** — IN REPO (sidecar
+  `text-2026-09-14/Ruggie.txt`; printed = PDF−137; OCR runs words
+  together, wording verbatim). FOR THIS CHAPTER: §VII's modal-condition
+  paragraph, from the IR canon with no fiscal-military thesis to
+  serve: "Let us return for a moment to the western European
+  monarchies around the middle of the fifteenth century. Their future
+  looked bleak. In Castile … the crown was among the weakest in all of
+  Europe; the towns were dominant. In Aragon, the towns were weak and
+  the nobility was in control … In France … the country lay in ruins.
+  England, already weak and divided, became further torn by the deadly
+  Wars of the Roses. And so it went. The turn came suddenly. By the
+  end of the century, strong centralized administration had 'almost
+  completely transformed the political life of western and
+  west-central Europe'" (p. 161 / PDF 24, quoting Johnson and Percy).
+  Corroborates Elliott against "Aragon expanding" (ruling (h)). His
+  anti-functionalist objection (p. 156) is ch01's and ch10's.
+  Publication 1993.
+
+- **T2 — Charles Tilly, "War Making and State Making as Organized
+  Crime" (1985)** — IN REPO (sidecar
+  `text-2026-09-14/Tilly-1985-WarMaking.txt`; printed pagination lost —
+  cite by section heading and paragraph). FOR THIS CHAPTER (§II, §VI):
+  "Many lords who did not pretend to be kings, furthermore,
+  successfully claimed the right to levy troops and maintain their own
+  armed retainers. Without calling on some of those lords to bring
+  their armies with them, no king could fight a war; yet the same
+  armed lords constituted the king's rivals and opponents, his enemies'
+  potential allies. For that reason, before the seventeenth century,
+  regencies for child sovereigns reliably produced civil wars. For the
+  same reason, disarming the great stood high on the agenda of every
+  would-be state maker" (Violence and Government, para 4; sidecar
+  l. 40). DISPUTE RECORDED with §II's scheduled/unscheduled vacancy —
+  critiques entry this date. Tilly 1975 ch. 9 (p. 601, the
+  relationships-among-variables method) is the Introduction's.
+  Publication 1985.
+
+- **T3 — Mustafa Suleyman with Michael Bhaskar, *The Coming Wave*
+  (Crown, 2023)** — IN REPO (sidecar `text-2026-09-14/Suleyman.txt`;
+  ebook-derived; printed ±1). Footnote colour only, never load-bearing:
+  §V beside the Lebanon exhibit — Hezbollah operating "in the manner of
+  a state"; "Hezbollahization," a splintered, tribalized world (PDF
+  p. 217 / ~197); "zombie government … functionally they are hollowed
+  out" (PDF p. 176 / ~158); "there is no functional 'we' here" (PDF
+  p. 294 / ~272). §VI beside Bremmer: "Companies already control the
+  largest clusters of AI processors, the best models…" (PDF p. 207 /
+  ~187), with his East India disanalogy — not "at the barrel of a
+  musket" (PDF p. 208 / ~188). His medieval sentences (Britain and
+  France in the Hundred Years' War; the stirrup) are excluded from the
+  provenance chain.
+
+- **T3 — Henry Farrell and Abraham Newman, *Underground Empire*
+  (2023)** — IN REPO (sidecar `text-2026-09-14/FN-UndergroundEmpire.txt`;
+  EPUB, cite by chapter, FILE marker and phrase). §V's EU exhibit,
+  colour beside the Draghi figure: Vestager — "[W]e have had a hard
+  awakening into the era of weaponized interdependence … we were just
+  greedy" (ch. 4, chapter4.xhtml, "hard awakening"); Macron — "day that
+  cooperation becomes dependence, you have become somebody's vassal
+  and you disappear" (Introduction, introduction.xhtml, "somebody's
+  vassal") — the undermighty king's complaint in a head of state's
+  mouth. The 2019 *International Security* article (T2) carries the
+  theory; not this chapter's.
+
+- **Pointer — Cheung, *Innovate to Dominate* (2022; T2; full entry at
+  ch12; sidecar `text-2026-09-14/Cheung.txt`, PDF = printed+15):** the
+  personalised summit for §II's forward reference — "hyperconcentrated
+  under Xi's authority" (p. 284 / PDF 299); "His current deputies lack
+  the political qualifications to take over in anything more than a
+  short-term acting capacity" (pp. 285–86 / PDF 300–01); "the gravest
+  risk" (p. 286 / PDF 301). Ch09's business; one footnote here at most.
+
+- **Not placed in this chapter by the 14 September assessments:**
+  Commynes t. III (1484–98: nothing for 1392–1456); Scott ("legible"
+  does not occur in this draft); Schmitt; Wu; Goldsmith & Wu; Farrell &
+  Newman 2019; Crouch (the "ornamental" ledger belongs to ch09/ch12).
+
+- **Pins for the three Phase 5 items owed to the next renovation pass
+  (Part A did not reach ch05), verified this date:** Elliott, *Imperial
+  Spain* — "Harnessed instead to Aragon – to a society in retreat –
+  Castile was free to seize the initiative" (`text-2026-09-13/
+  Elliott.txt` PDF 51; no printed pagination); Kafadar — the war
+  party "appeared to have won the upper hand with the abdication of
+  Murād II and the first enthronement of Mehmed II in 1444 — a
+  precarious victory that was reversed within two years by a
+  Çandarlı-instigated revolt of the kul army" (p. 146 / PDF 166,
+  `text-2026-09-13/Kafadar.txt`); İnalcık — "In 1444, while still in
+  good health, he abdicated in favour of his son Mehmed, hoping thus to
+  establish him securely on the throne" against the Byzantines
+  "sheltering Orhan, a grandson of Bayezid" (p. 20 / PDF 63) and
+  "Murad returned to the throne only when convinced that this was the
+  wish of the Janissaries" (p. 63 / PDF 149) — SIDECAR CAVEAT: the
+  İnalcık sidecar interleaves blank PDF slots (printed ≈ (PDF−23)/2 in
+  this stretch; printed numbers read from the OCR footers); ch11's
+  "p. 47 / PDF 59" for "two fundamental institutions" is at PDF 117 in
+  this file — verify against page images; Lander — "The overtones of
+  this phrase ['private army'] are completely misleading" (p. 31 / PDF
+  42), Buckingham's retinue "just over £900" (p. 31), "no single case
+  of the prosecution of a peer is known before that of Lord Burgavenny
+  in 1506, whose 471 retainers" violated "the act of 1390" (pp. 33–34 /
+  PDF 44–45; OCR "£7o,65o" for the fine — VERIFY figure), "£5,000
+  payable in instalments over ten years … cancelled during the first
+  year of Henry VIII's reign … Burgavenny probably paid no more than
+  £1,000" (p. 289 / PDF 300).
+
+- **§IV [GAP] closure found this date (not recorded on 13 September):**
+  the draft's "İnalcık's classic formulation — the kul system as the
+  most potent factor favouring Ottoman unity and centralised
+  administration" is İnalcık's own sentence: "There were, however,
+  powerful factors working in favour of Ottoman unity and the
+  centralized administration. The most potent factor was the Ottoman
+  kul — slave — system. In particular the Janissary corps, whose
+  numbers had risen to six or seven thousand, gave the Ottoman sultan
+  an undisputed superiority over his rivals" (p. 18 by OCR footer /
+  PDF 59, `text-2026-09-13/Inalcik.txt`; page number to be verified
+  against the image). CLOSABLE AT RENOVATION.

@@ -180,3 +180,148 @@ hinge framing should be cut rather than allowed to imply a hidden unity.
      personal and non-transferable," which is Lander's own. No
      spine ruling reached; the English limb's register changes
      (cross-ref ch11 critiques and ruling sheet §5(k)).
+
+## Revisions (2026-09-16 — catch-up run STEP 3, PENDING HUMAN REVIEW)
+
+Objections surfaced by the 14 September assessments that reach argument
+level in this chapter, steelmanned at the strength the assessments give
+them; the chapter's answer with the assessment's grade preserved. Pins
+verified against the sidecars (sources.md this date).
+
+2. **Tilly on regencies — "regencies for child sovereigns reliably
+   produced civil wars" (1985, Violence and Government, para 4).**
+   Steelman: §II rests its constitutional argument on a contrast — the
+   minority is a *scheduled* vacancy "everyone can price," and England
+   "had just run one for fifteen years, competently"; adult incapacity
+   is the unpriceable case. Tilly's generalisation denies the contrast:
+   because no king could fight without the armed lords, and the same
+   lords were his rivals, *any* vacancy at the top, scheduled or not,
+   released their rivalry; regencies were not the constitution's
+   working redundancy but its reliable failure. On that view the
+   difference between 1422 and 1453 is one of luck, not of kind, and
+   §II's engineer's distinction ("the predictable failure of its
+   single point of failure and not the unpredictable one") is a
+   flourish.
+   - Answer: England 1422–37 is itself the counter-instance Tilly's rule
+     has to absorb — a fifteen-year minority with the Gloucester–Beaufort
+     quarrel contained and no civil war — while Charles VI's minority
+     (1380–88, the uncles) runs Tilly's way; so his "reliably" is
+     overstated and the chapter's cases show both outcomes. What
+     survives is the distinction as a difference of *degree with a
+     mechanism*: a minority had an end-date, a precedent and a
+     vocabulary, and so a settlement the lords could price; incapacity
+     had none, and so no settlement at all. The chapter should cite
+     Tilly by name for the danger of every vacancy and claim only that
+     the unscheduled one was worse for a stated reason. Grade: ADEQUATE
+     — it costs "remarkably well" a hedge ("without civil war") and it
+     obliges §II to say that minorities were dangerous too. No spine
+     ruling reached.
+
+3. **Bagehot — the separation of authority from control is every
+   constitution's condition, not a pathology (The Cabinet, PDF pp. 21,
+   28; Prerequisites, PDF p. 101).** Steelman: §I defines hollow
+   sovereignty as "authority intact in law, in ceremony … and unable to
+   raise a tax, relieve a fortress or discipline a magnate." For
+   Bagehot that is a description of the normal working constitution:
+   the dignified part holds the reverence and does nothing; the
+   efficient part does everything and holds no reverence; "The
+   apparent rulers of the English nation are like the most imposing
+   personages of a splendid procession … The real rulers are secreted
+   in second-rate carriages." If the crown's incapacity to execute is
+   "hollow sovereignty," then every constitutional monarchy since 1688
+   is hollow, and the chapter's title condition names nothing.
+   - Answer: the chapter's predicate is not the *separation* of the two
+     parts but the *absence* of an efficient part — nobody executes,
+     not someone else — and Bagehot's own genealogy says so: the split
+     originates when the line "comes to a child or an idiot, or one by
+     some defect or other incapable" (Conclusion, PDF p. 103), i.e. the
+     hollow crown is the moment *before* the efficient part is built
+     elsewhere; Watts's "artificial royal will" (§II) is that part
+     under construction, and the lords' negative drafting of 1454 is
+     the refusal to make the split lawful. §V's predicate should be
+     tightened to say this in words: "cannot execute a function it
+     nominally holds" means the function goes unexecuted, not that it
+     is executed by a cabinet. Grade: GOOD — and it sharpens §V, since
+     the modern functional cases (GAO, Draghi) satisfy the tightened
+     predicate (the function is not performed by anyone) while a
+     constitutional monarchy does not. The valuation dispute (whether
+     the separation is a merit) is ch09's and ch12's under spine
+     §8(g)(5); this chapter takes the distinction and not the verdict.
+
+4. **Ertman and Glete — the French answer did not end the problem.**
+   Steelman: §VI says France "got a structural answer … and the
+   problem ended," and that the remedy that works "changes what the
+   centre can afford that its subjects cannot." Ertman: the price of
+   France's precocity was "a substantial loss of effective control to
+   proprietary officeholders, tax farmers, and officeholder-financiers"
+   (p. 28 / PDF 43); the compagnies d'ordonnance — the structural
+   answer itself — became magnate patronage, "controlled and commanded
+   by the local royal governor, almost always a member of a prominent
+   magnate family. The governor was free to fill the ranks of the
+   prestigious compagnies with representatives of the most important
+   local clans and factions" (p. 94 / PDF 109), with "ominous
+   consequences for France after 1559." Glete: the early French
+   permanent forces "practically disappeared in the long civil war
+   period (1562–98)" (p. 39 / PDF 48). On this evidence the artillery
+   state did not end the over-mighty subject; it re-housed him inside
+   the crown's own establishment and bred a second, unarmed stratum of
+   intermediaries the chapter never names — and within a century the
+   armed kind was back.
+   - Answer: the chapter's problem is the *armed* intermediary whose
+     capability rivals the crown's decisive force, and on that object
+     both rivals concede the point — Ertman's 1439 ordinance "in
+     effect creating a royal monopoly of both coercion and taxation"
+     (pp. 86–87 / PDF 101–02); Glete's Granada, where "the noblemen's
+     castles had become vulnerable to the rulers' new siege artillery"
+     (p. 75 / PDF 84). The venal officer was a rent-taker, not a rival
+     in arms, and the mechanism claims subordination of the second
+     kind, not Weberian purity (ch10 critiques carry this at length).
+     But "ended" overclaims: the answer bred its own intermediaries,
+     and the Wars of Religion show the armed kind returning when the
+     fisc's collection — not its permanence — failed (Parrott's League
+     collecting the taxes; ch10 §VII). The honest wording is "ended in
+     its armed form, for a century," with the governors' companies
+     named as the settlement's stated defect. Grade: GOOD on the
+     mechanism; the sentence must be narrowed. Cross-ref ruling row
+     (ff) proposed at memo Rev. 19; ch10 critiques Objection on
+     Ertman's third link.
+
+5. **Chastellain — the recovering France of §VII carried the disease
+   the chapter says it cured.** Steelman, from the T1 record now in
+   corpus: in the very years §VII calls France's recovery, the heir
+   fled the kingdom to a vassal (1456; t. III pp. 177–79), a duke and
+   peer was arrested for treating with the English and owned a train
+   "assés d'artillerie pour combattre" (Alençon, 1456; p. 100, and
+   Kervyn's transcript of the procès — vol15 PDF 489, printed p. 479 by
+   that scan's offset, p. 480 n. by the assessment's vol01 pin; the
+   footnote's pagination to be verified against the page image), and the greatest vassal in Christendom read a royal
+   summons as "fait plus par malice que par nécessité" and cried his
+   own arrière-ban to meet the king's (1458; pp. 417, 423). §VII's
+   "pivot" — the polity that "came out the other side transformed" —
+   looks, from Burgundy, like a court still governed by fear, spite
+   and armed peers.
+   - Answer: the objection confirms the chapter's direction of
+     causation (§VI) — the over-mighty subjects were there first, in
+     the recovering polity as in the failing one — and what the
+     Burgundian record shows differing is the remedy: the king moved
+     men-at-arms to the frontier and took the Dauphiné into obedience
+     because its governor judged the country "non pouvoir résister à
+     l'encontre de sa puissance" (p. 226); Alençon was tried, not
+     pardoned as in 1440 (ch07), and the crown's first reservation from
+     his estate was his artillery (ch11 §VII); Burgundy, in 1458,
+     could raise "service corporel" and communal guns, not a taille
+     (p. 451). Transformed does not mean pacified; it means the
+     asymmetry §VI describes had been rebuilt far enough that the
+     heir's flight was a police matter and the peer's train a
+     confiscable asset. Grade: GOOD, if §VII says "transformed" in
+     that sense and does not imply that the recovering France had no
+     over-mighty subjects left — the disanalogy the chapter should
+     carry is that the dauphin was heir, not baron, and that the
+     chronicler is a Burgundian partisan whose "malice" is a party's
+     word. Cross-ref ruling row (jj) at memo Rev. 19.
+
+*Krasner, Ruggie, McNeill and Stasavage contradict nothing at argument
+level in this chapter; their objections land on ch01 (the lock), ch10
+(the ratchet and the credit leg) and ch12 (the blocs), and are entered
+there. Lander (Rev. 1 above) stands; the Ertman "private armies"
+usage is recorded as the surviving counter-usage in sources.md.*
