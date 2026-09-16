@@ -14,6 +14,28 @@ when any item below lands; regenerate this file from it rather than
 editing the two separately.
 -->
 
+# Sync 2026-09-16 (catch-up run, sessions 2–3 closed; STEP 3–4)
+
+Landed and ASSESSED (rows flipped in retrieval-master.md this date):
+Ruggie 1993; Krasner 1999; Ertman 1997; Stasavage 2011; Glete 2002;
+Cheung 2022; Chastellain tome III (vol15 the working copy; vol01
+defective — five printed pages absent); Suleyman 2023; Tilly 1975
+(ch. 9 only) and 1985; McNeill 1982; Goldsmith & Wu 2006; Bagehot
+(Gutenberg); Crouch, *Coping with Post-Democracy* (2000 — the
+Post-Democracy.pdf in corpus is the same pamphlet, not the 2004 book).
+
+Still wanted (new or unchanged): Chastellain, Kervyn tome IV/V
+(1461–70; the 1467 spider ballade); Crouch, *Post-Democracy* (2004);
+Wolin, *Democracy Incorporated* (2008); Tilly (ed.) 1975 ch. 1 (the
+"war made the state" page); Bean, *JEH* 1973; Major 1960 (the 1468
+Estates check — spine §8(a), Roderick's); Strayer & Munro 1959 p. 115
+(the "patchwork" phrase); Commynes, Calmette tomes I–II; Samaran tome
+II; McNeill/Goldsmith & Wu now done; EUR-Lex EDIP regulation if
+adopted; Lepore (to identify); Harvey 1991 / Bohna 2003 (ch07 R1 —
+Bohna in corpus, Harvey gated); Chambers & Pullan (ch04 R3); Holman
+(ch06 knock-out-blow genealogy).
+
+
 # Inventory 2026-09-13 (source-intake discovery session, STEP 0)
 
 Corpus surveyed in full this date: 130 files in `corpus/retrieved/` +
