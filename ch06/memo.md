@@ -1493,3 +1493,277 @@ STATUS: REVIEWED (Roderick, 2026-07-22) — cleared for drafting
       cut Roderick's. The Fortescue line "the longbow theorist in
       person" is Roderick's phrase from the synthesis, not the
       book's coinage.
+
+29. **(2026-09-16 — catch-up run STEP 3: McNeill, *The Pursuit of
+    Power* (1982), from the assessment; every pin opened in the
+    sidecar this date (sources.md block of this date). PENDING
+    HUMAN REVIEW.)** Draft wordings quoted are the CURRENT draft's
+    after Revisions 28; nothing applied.
+    - **CONFIRMS (a — T2 consensus).** §I's restated proof — "an
+      organised system — guns, powder, gunners' pay, carriage, the
+      wages of a besieging army kept in the field — carried on
+      permanent taxation, and therefore able to make continued
+      resistance unaffordable whatever a garrison's own
+      circumstances happened to be" — has its world-historical
+      statement in the ruling's order: fisc first ("an expanded tax
+      base allowed the king to collect enough hard cash to support
+      an increasingly formidable armed force," p. 82), guns decisive
+      ("castle walls, one after another, whereupon previously
+      formidable defenses came tumbling down in a matter of hours,
+      if the garrison did not prefer to surrender," p. 83) — with
+      the surrender clause the (aa) claim needs. §VII's direction —
+      the establishment "beyond what any subject could sustain" —
+      is his "at the expense of neighbors and subjects who were
+      unable to avail themselves of the new technology of war"
+      (p. 89). §III's "the mobile carriage are French–Burgundian
+      developments of the century's last quarter" — his
+      "gunfounders of the Low Countries and France" (pp. 87–88),
+      unnamed.
+    - **CORRECTS.** (i) THIS MEMO, not the draft: Revisions l. 142
+      carried McNeill via Wikipedia (T4) for the negative finding
+      on the trunnion; the text read at first hand confirms the
+      negative (no Bureau, no name at pp. 87–88) and the T4
+      intermediary is now redundant — CLOSABLE at the memo level.
+      (ii) VOCABULARY, checked against ruling (a)/(aa) as the
+      tasking required: McNeill's words are "the high cost of the
+      new weapons" (p. 89) — cost, not price, but the WEAPON, not
+      the establishment. The draft's §VII sentence, "put the
+      establishment cost of decisive force beyond what any subject
+      could sustain as a standing, provincial-scale instrument at
+      campaign tempo," is NOT his formulation and may not be
+      attributed to him; he is cited for the direction and named as
+      sitting nearer the unit-cost reading the chapter has abandoned
+      (Hall 1997: 120 on private trains; Hoffman's series at ch10
+      §VII). (iii) CHRONOLOGY — no draft change: §III now reads, on
+      Hall, "stone to 1452, new powder and cast-iron shot 1453";
+      McNeill dates iron shot and corned powder together to "between
+      1465 and 1477" and calls the 1453 guns "clumsy bombards"
+      (pp. 87–89), on Cipolla 1965 and Duffy 1979. Hall is later and
+      closer to the accounts; the disagreement is recorded in
+      sources.md and Hall stays the citation. McNeill must not enter
+      §III.
+    - **ADDS.** (i) §VII gains McNeill BY NAME as the T2
+      world-historical statement of the affordability effect
+      (p. 89), placed beside Rogers's cycle and cited for
+      "neighbors and subjects." (ii) The fiscal series from the
+      sceptic's side: Bean's calculation, via McNeill, that central
+      revenues "doubled in real, per capita terms between 1450 and
+      1500" (p. 105 n. 35) — the one establishment-level number he
+      carries, second-hand; Bean to the RETRIEVAL LIST. (iii) THE
+      VENICE-FIRST OBJECTION, entered in critiques this date: civil
+      control of organised force was solved by Italian contract
+      administration "during the first half of the fifteenth
+      century" (p. 75), before the guns mattered; the transalpine
+      states caught up only at the Fronde (p. 125). The draft's own
+      §I sentence — "Venice had the money and the arsenal and no
+      executive to wield them" — is the place the concession
+      attaches. (iv) The trace italienne pages (pp. 90–91) as the
+      migration-of-threshold answer already staged at critiques
+      Revisions 7–8 (Hall, Arnold), now with a 1982 authority six
+      years before Parker: "Only the wealthiest states and cities
+      could afford" the new works; "Imperial consolidation halted
+      halfway" — ch10 §IV's placement, cross-referenced from §VII's
+      Hall limb. (v) For §VII's close and Part III (not this
+      chapter's text): the two-stage closure — the assemblies' and
+      magnates' ability to reverse the settlement closed in the
+      1450s (the 2 September ruling's object), the popular tax
+      revolt only after drill, "until after the middle of the
+      seventeenth century" (p. 105; p. 139) — ch10 §VII's matter;
+      cross-referenced because "irreversible" in this chapter's
+      register must not be read to imply both.
+
+30. **(2026-09-16 — catch-up run STEP 3: Tilly 1975 ch. 9 and Tilly
+    1985, from the assessment; Bean 1973 at second hand. PENDING
+    HUMAN REVIEW.)**
+    - **CONFIRMS (a).** §VII's turn from weapon price to
+      establishment — "Infantry was a capability; the train was an
+      *establishment*, with an entry cost and a standing cost, and it
+      is the standing cost that no subject could carry" — is
+      Tilly's own regularity for the period: "After 1400 the
+      European pursuit of larger, more permanent, and more costly
+      varieties of military organization did, in fact, drive
+      spectacular increases in princely budgets, taxes, and staffs"
+      (1985, History Talks, para 3). The 1975 method sentence — the
+      relationship "between the costliness of the armed forces and
+      the extent of the extractive apparatus" travels where
+      sequences do not (p. 601) — is the licence for §VII's bequest
+      to Part III.
+    - **CORRECTS (the chapter's framing of its sceptics; NOT
+      applied).** §VII opens: "A claim this load-bearing must now
+      face its strongest objection, and the objection comes,
+      inconveniently, from the historian this chapter has cited more
+      than any other" — Rogers; the sceptic set that follows is
+      Rogers, Curry, Hall, DeVries, Barker. It contains neither Bean
+      nor Tilly, and the book's standing account of Tilly
+      (ch10/critiques Objection 6: "deliberately technology-
+      agnostic") does not survive the text: Tilly read the artillery
+      thesis in Bean and REJECTED it, on chronology — "the shift to
+      infantry-backed artillery sieges of fortified cities occurred
+      only during the sixteenth and seventeenth centuries … The
+      arrival of effective artillery came too late" (History Talks,
+      paras 1–2). That sentence is what this chapter's census
+      exists to refute: §V's "From December the guns take over:
+      Harfleur, Honfleur, Bayeux, Avranches, Caen, Cherbourg — six of
+      the nine dated falls of the winter and the Cotentin endgame
+      are artillery falls" is an infantry-backed artillery siege
+      series of fortified places in 1449–50, and Tilly names neither
+      Normandy nor Guyenne. The chapter must answer a verdict, not
+      fill a silence.
+    - **ADDS.** §VII gains BEAN and TILLY BY NAME, on three limbs
+      the assessment grades: (i) the chronology limb — answered by
+      the census (GOOD); (ii) the trace italienne limb — absorbed:
+      Tilly's own parenthesis, "the increased cost of fortifications
+      to defend against artillery did give an advantage to states
+      enjoying larger fiscal bases," is the mechanism in miniature,
+      and is the migration-of-threshold answer §VII's Hall limb
+      already carries (GOOD); (iii) the EXPLANANDUM — Bean's claim
+      was the geographic SIZE of states and Tilly's refutation is
+      aimed there ("render ambiguous the claim of a significant
+      increase in geographic scale"); the book's claim is the
+      closure of the sub-state path to decisive force and the
+      permanence of the fisc, on which Tilly concedes (para 3). The
+      chapter must cite Bean (*JEcH* 33, 1973 — RETRIEVAL) and say
+      in one sentence that it is not Bean's claim (GOOD, but
+      obligatory). Left weak, as before: the NAVAL limb — "could
+      well have shifted the military advantage to small maritime
+      powers such as the Dutch Republic" (para 2) — the book has not
+      said whether the compute stack behaves like artillery or like
+      the navy that sustained the Dutch; Glete's naval/army
+      distinction (ch10) is the place to say it. Gerhard's "the
+      high cost of artillery … and the ensuing domestication of the
+      nobility" (Violence and Government, para 8) enters as a dated
+      footnote: the gun is in Tilly's disarmament story, two
+      centuries late. Spine §8(a)'s differentiation — "not
+      war-made-the-state in general" — understates the gap, which is
+      not "Tilly omits the gun" but "Tilly dates it after 1648 and
+      lets Gerhard carry it"; recorded, not resolved.
+
+31. **(2026-09-16 — catch-up run STEP 3: Chastellain, *Œuvres*, ed.
+    Kervyn — THE NEGATIVE ENTRY. PENDING HUMAN REVIEW.)**
+    - **What the draft says:** nothing. Ch06/draft.md contains no
+      Chastellain; §VI's witnesses are Escouchy, Basin, Chartier,
+      the Berry Herald and Blondel, with the Somerset list and the
+      English chronicles as the independent side (critiques
+      Revisions 1).
+    - **CONFIRMS / CORRECTS:** nothing; there is no text to test.
+    - **RECORDS, so that no one seeks it:** the July 1453–August
+      1454 stretch of the chronicle is a lacuna in the manuscript
+      tradition. Kervyn's note at the close of tome II (p. 390 /
+      vol11 PDF 394) lists what the lost pages narrated — "la
+      bataille de Castillon et la mort de Talbot, la conquête de la
+      Guyenne, la prise de Constantinople" — and tome III opens in
+      1454 with "Nous n'avons plus la partie de la chronique"
+      (p. 7 n. 1). "Talbot" occurs nowhere in tomes I–II but in that
+      note. No Burgundian court narrative of Castillon or of
+      Talbot's death exists in any tome, retrieved or not; the
+      reputation ledger of §VI ("clearly feared by contemporaries")
+      cannot draw on Chastellain for 1453; no row is left open. The
+      chronicle's covered years (1419–22, 1430–31, 1452–July 1453,
+      1454–58) serve ch10 (Burgundy's fisc), ch11 §VII (the Alençon
+      arrêt), ch12 — not this chapter.
+
+32. **(2026-09-16 — catch-up run STEP 3: Commynes, ed. Calmette,
+    tome III — the 1494 eyewitness, as this chapter's
+    back-reference. PENDING HUMAN REVIEW.)**
+    - **CONFIRMS (T1, at the page).** §V's two speeds — "Campaign
+      speed is politics moving at the speed of belief; siege speed
+      is ballistics … the guns set the price, and the politics paid
+      it — mostly before the guns arrived" — and §VI's field-battle
+      discipline (Formigny "provocative, not decisive"; the
+      Castillon guns "something like wall-defense weapons") are
+      corroborated from Italy by the one participant who wrote it
+      down. The siege clock: Mordano "ne fut batue que demy jour"
+      (p. 50); Monte San Giovanni "batue sept ou huyt heures et puis
+      prinse d'assault" (p. 92); "hors le chasteau de Napples, n'y
+      eut nul qui empeschast le roy ung jour naturel" (p. 81); and
+      the campaign clock, quantified by the witness — Asti to Naples
+      in "quatre moys, dix et neuf jours" (p. 82). The field: at
+      Fornovo "je ne croy point que l'artillerie des deux costéz
+      tuast dix hommes et ne dura point le combat ung quart
+      d'heure" (p. 192; Calmette n. 3: Mandrot's wet powder). The
+      first field trial of the train the draft calls decisive killed
+      fewer than ten men — decisive at the walls and the exchequer,
+      not on the field, which is the chapter's own architecture
+      (the *délai de secours*; Objection 3's Formigny discipline)
+      restated by a T1 witness in another theatre.
+    - **CORRECTS:** nothing in this chapter; the draft makes no
+      claim about 1494. Note for the record: the Commynes line this
+      memo already carries (Revisions l. 1178, "so much shooting,"
+      Montlhéry 1465) is Livre I = Calmette tome I, NOT in repo;
+      tome III cannot verify it and the DeVries/Scoble pin stands.
+    - **ADDS.** (i) A footnote at §V or §VII: the Italian
+      siege-clock as the mechanism's second demonstration, in the
+      witness's words, with the Fornovo line quoted as the
+      disanalogy the chapter carries proudly (CLAUDE.md §6). (ii)
+      The train as apparatus — fourteen great pieces over the
+      Apennines "et ne se perdit une seulle pierre ne une livre de
+      pouldre" (pp. 210–11) — pairs with §III's payroll and the 1477
+      Artois accounts (ch10). (iii) A caution the chapter should
+      carry if it uses him: the expedition's CASH was borrowed —
+      "cent mil francs du banc de Soly à Gennes, à quatorze pour
+      cent" (p. 3), jewels pawned (p. 37) — while the STANDING train
+      and the compagnies were the tax-financed product; the
+      distinction between campaign cash-flow and standing capability
+      is exactly §VII's "money collected and spent, not money
+      planned," and Commynes's own explanation is God, not the
+      généralités ("s'il ne fust venu de Dieu seul," p. 81) — say
+      so. Placement and the revenue figures (1.2M granted 1484; more
+      than 2.5M paid 1498, p. 304) are ch10's.
+
+33. **(2026-09-16 — catch-up run STEP 3: Glete at T2 for the (a)/(aa)
+    restatement; the works that place nothing here. PENDING HUMAN
+    REVIEW.)**
+    - **CONFIRMS (a).** §VII's "Infantry was a capability; the train
+      was an *establishment*" and §III's concession that guns were
+      no monopoly (Ghent's carts, Nuremberg's calibres) are both in
+      Glete at T2: "Heavy guns were capital goods, and mobile siege
+      artillery required a permanent organisation of skilled men"
+      (p. 65); "Artillery, especially the heavy siege guns, were
+      usually provided by the state, but primitive gunpowder weapons
+      were widely dispersed in late medieval society" (p. 11); and
+      the reconquest sentence at p. 19 ("Efficient siege artillery
+      was important in these victories"), which rests on Hall.
+    - **CORRECTS:** nothing here. CAUTION: Glete extends Brewer's
+      "fiscal-military state" to 1500 and denies it to the 1440s —
+      ch10 §III's engagement, not to be pre-empted in this chapter.
+    - **NOTHING PLACED in ch06 by their assessments** (said so;
+      nothing entered): Goldsmith & Wu; Krasner; Scott; Farrell &
+      Newman (both — "not ch06"); Stasavage; Schmitt; Wu; Cheung;
+      Suleyman; Ruggie; Bagehot; Crouch; Ertman.
+    - **FLAGS.** None of the chapter's open [GAP]s — the Castillon
+      false-report movers (§VI); the 1451 Bordeaux terms and the
+      Talbot jubilee stipulation (§VI, Vale/Pollard at page level);
+      the *De Reductione* print page (§V) — is closed by any of the
+      14 September works; Chastellain closes the Castillon movers
+      NEGATIVELY only in the sense that it cannot supply them (no
+      re-sourcing; the flag stays with Escouchy/Chartier). The
+      [RE-CHECK AT PRESS] set is untouched. RE-SOURCE OR CUT: none
+      from this batch. CLOSABLE (memo, not draft): Revisions
+      l. 142's Wikipedia intermediary for McNeill.
+
+    **Register decisions proposed for the rulings sheet** (stated,
+    not recommended; to be appended after (cc) at STEP 4):
+    - (i) §VII names Bean and Tilly: the artillery thesis was
+      adjudicated and rejected by Tilly in 1985 on chronology; the
+      chapter answers with the 1449–50 census and states the
+      explanandum distinction (Bean: the size of states; this book:
+      the closure of the sub-state path and the permanence of the
+      fisc) in one sentence.
+    - (ii) McNeill cited by name in §VII for the direction of the
+      affordability effect, not its vocabulary; the Venice-first
+      concession made by name — civil control of force was an
+      Italian and earlier achievement, the guns adding scale and the
+      end of the small sovereign, not the invention of civil
+      control — with the ratchet defined that narrowly.
+    - (iii) Commynes's Fornovo sentence quoted (English, [TRANS.
+      CLAUDE]) as the field disanalogy in §V or §VI, with the wet
+      powder note.
+    - (iv) The naval limb stated somewhere in the book (Tilly 1985
+      para 2; Glete's two navies): whether the compute stack
+      behaves like artillery or like the navy that sustained the
+      Dutch — not this chapter's text, but §VII's bequest should not
+      imply the question is closed.
+    - (v) Chastellain struck from any ch06 retrieval expectation.
+
+STATUS: Revisions 29–33 PENDING HUMAN REVIEW; Revisions 1–28 as
+before.

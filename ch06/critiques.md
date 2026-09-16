@@ -531,3 +531,148 @@ Priorities to stress-test on the draft:
    stated: a defensive counter-technology can re-open the gap for
    two generations, and Appendix C's timetable must allow for it
    (candidate indicator noted at appendix-c memo).
+
+9. **(2026-09-16 — catch-up run STEP 3: Tilly's Bean verdict,
+   entered as a named objection. PENDING HUMAN REVIEW.)**
+   - **Steelman (at the assessment's strength).** The founder of
+     the bellicist account did not ignore the artillery step; he
+     read it, in Bean 1973 — "the improvement of artillery in the
+     fifteenth century (cannon made small medieval forts much more
+     vulnerable to an organized force) shifted the curve of
+     economies and diseconomies to make larger armies, standing
+     armies, and centralized governments advantageous to their
+     masters" — and ruled: "Bean's summary does not stand up to
+     historical scrutiny. As a matter of practice, the shift to
+     infantry-backed artillery sieges of fortified cities occurred
+     only during the sixteenth and seventeenth centuries. Artillery
+     did improve during the fifteenth century, but the invention of
+     new fortifications, especially the trace italienne, rapidly
+     countered the advantage of artillery. The arrival of effective
+     artillery came too late to have caused the increase in the
+     viable size of states" (1985, History Talks, paras 1–2). And,
+     for good measure, the land war may not have mattered most:
+     "The increasing decisiveness of naval warfare, which occurred
+     simultaneously, could well have shifted the military advantage
+     to small maritime powers such as the Dutch Republic." Ch10's
+     Objection 6 called Tilly "deliberately technology-agnostic";
+     he was not — this is a verdict, and it reaches spine §8(a)
+     and the DEFEND-tier mechanism.
+   - **The chapter's answers, with the assessment's grading.**
+     (i) The chronology limb is what this chapter exists to refute:
+     the Normandy census (§§IV–V) is an infantry-backed artillery
+     siege series of fortified places in 1449–50 — six of the nine
+     dated winter falls artillery falls; Harfleur seventeen days
+     against six months in 1415; Bayeux "to rubble" in sixteen —
+     and Tilly names neither Normandy nor Guyenne. GOOD. (ii) The
+     trace italienne limb is absorbed, and Tilly absorbs it
+     himself: "(However, the increased cost of fortifications to
+     defend against artillery did give an advantage to states
+     enjoying larger fiscal bases.)" — the migration of the fiscal
+     threshold to the defender that Revisions 7–8 already carry
+     from Hall and Arnold, and that McNeill states for 1520 (p. 90:
+     "Only the wealthiest states and cities could afford"). GOOD.
+     (iii) The explanandum limb matters most: Bean's claim was the
+     geographic SIZE of states, and Tilly's refutation is aimed
+     there ("render ambiguous the claim of a significant increase
+     in geographic scale"). This book's claim is the closure of the
+     sub-state path to decisive force and the permanence of the
+     fisc — on which Tilly concedes: "After 1400 the European
+     pursuit of larger, more permanent, and more costly varieties
+     of military organization did, in fact, drive spectacular
+     increases in princely budgets, taxes, and staffs" (para 3).
+     GOOD — but it obliges the chapter to cite Bean and say in
+     text that it is not Bean's claim; the differentiation from
+     Tilly holds only by the explanandum. (iv) The naval limb is
+     the weakest point and stays so (as at the 13 September Tilly
+     assessment §5(v)): the book has not said whether the compute
+     stack behaves like artillery, which consolidated, or like the
+     navy, which sustained a small maritime republic against a
+     large monarchy — Glete's two-navies distinction (ch10) is
+     where it must be said. NOT YET ANSWERED. Register decision at
+     memo Revisions 33.
+
+10. **(2026-09-16 — catch-up run STEP 3: McNeill's Venice-first —
+    the consolidator is the market, and the ratchet is Venetian and
+    administrative, not French and ballistic. PENDING HUMAN
+    REVIEW.)**
+    - **Steelman.** "A regular standing army of known size and
+      capability emerged in the better-governed cities of Italy
+      during the first half of the fifteenth century" (p. 75) —
+      before the guns mattered; Venice kept its captains "by
+      dividing contracts among several different, mutually jealous
+      captains" (p. 76); and the suppression of the Fronde "marked
+      the time at which transalpine states finally caught up with
+      the level of administrative management and control over armed
+      force that had been attained in Venice and Milan two
+      centuries earlier" (p. 125). Civil control of organised force
+      was solved by contract administration in the Po valley
+      without a siege train; the northern monarchies took two
+      centuries to copy it; artillery is an episode inside a story
+      whose motor is credit and administration. If so, the
+      "ratchet" of spine §8(a) sits in the wrong polity and the
+      wrong century, and §I's "Venice had the money and the arsenal
+      and no executive to wield them" has the case backwards.
+    - **The chapter's answer — McNeill supplies it (assessment
+      grade: GOOD, with a concession to be made by name).** The
+      Italian solution was sovereign only until a polity with siege
+      guns arrived: "When newly consolidated monarchies, commanding
+      comparatively vast territories, chose to intervene in Italian
+      affairs, the sovereignty of mere city-states, however
+      skillfully managed, could not permanently be maintained"
+      (p. 79). Venice solved civil control of force; it did not
+      solve the minimum scale of a sovereign, which is what §VII's
+      closing sentence prices ("after 1450, sovereignty had a
+      minimum standing cost") and what ch10 §VI already carries as
+      "the fisc without the ratchet." The 2 September ruling
+      survives him because its object is narrow — what became
+      irreversible in 1449–53 was others' ability to reverse the
+      fiscal settlement, not the invention of civil control. THE
+      CONCESSION: the chapter must say plainly, naming McNeill,
+      that the administrative achievement was Italian and earlier,
+      and that the guns' contribution was scale and the end of the
+      small sovereign; and §I's Venice sentence should be read with
+      Stasavage's finding (ch10) that Venetian credit outlived
+      Venetian power — the fiscal leg fully present, consolidating
+      nothing — which strengthens the counter-case rather than
+      weakening it. A second McNeill limb — the artillery state
+      subordinated its barons and was itself held to ransom by its
+      bankers and gunmakers for two centuries (pp. 113–15) — is
+      ch12's timetable problem and ch02's Liège footnote, entered
+      there.
+
+11. **(2026-09-16 — catch-up run STEP 3: Commynes on Fornovo — the
+    guns did almost nothing. PENDING HUMAN REVIEW.)**
+    - **Steelman.** The first French field trial of the train the
+      chapter calls decisive, described by a participant: "je ne
+      croy point que l'artillerie des deux costéz tuast dix hommes
+      et ne dura point le combat ung quart d'heure" (tome III,
+      p. 192). Fewer than ten dead to the guns of both sides in a
+      quarter of an hour. Anyone who reads 1494 — or 1450 — as
+      artillery winning battles has the eyewitness against him, and
+      Commynes's own frame for the whole expedition is providence,
+      not the généralités: "toutes choses necessaires à une si
+      grand emprise failloient" (p. 3), financed on pawned jewels
+      and fourteen-per-cent Genoese credit.
+    - **The chapter's answer (assessment grade: GOOD; the second
+      limb ADEQUATE only if made honestly).** The claim was never
+      that cannon win field battles — that is Objection 3's ground,
+      already conceded for Formigny and staged for Castillon; §V's
+      two speeds locate decisiveness at the walls, and tome III
+      supplies the confirming series in the same voice: Mordano in
+      half a day, Monte San Giovanni in eight hours, nothing but
+      Naples's castle costing "ung jour naturel." Fornovo the field
+      battle was decided by lance and mêlée; Italy the campaign was
+      decided by what walls no longer did. Stated with the
+      wet-powder note and the fewer-than-ten line QUOTED, this is a
+      disanalogy the chapter carries proudly (CLAUDE.md §6). On the
+      second limb: the standing train — fourteen great pieces moved
+      "sans perdre une seulle pierre" — and the compagnies were the
+      machine's product; the expeditionary treasury's chaos shows
+      the difference between standing capability and campaign
+      cash-flow, and the crown's ability to borrow at all rested on
+      a taille that by 1498 exceeded 2.5 million francs (p. 304).
+      Honestly made: the witness's own explanation is God, and the
+      chapter must say the mechanism is the historian's frame
+      imposed on Commynes, not found in him. Neither limb reaches a
+      spine ruling; both discipline the register of any 1494
+      back-reference this chapter makes.

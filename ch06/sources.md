@@ -646,3 +646,270 @@ quotation in a browser before print.*
   Howard 1976: 30–31; Belloc 1898: 41; Freedman 2017: 55–57; Basin,
   ed. Samaran, i. 76, 92, 176–78 (the temerity topos — pins from the
   assessment, page images to verify).
+
+## Added 2026-09-16 — catch-up run STEP 3 (assessments of 14 September; pins verified against sidecars)
+
+*From research/assessments-2026-09-14/ (the map, not the authority);
+every pin opened in the named sidecar this date; quotations to be
+re-verified against page images before print where marked. No
+draft edited. No STEP 3 block yet exists in any other chapter, so
+pointers name the chapter whose block will hold the master entry.*
+
+- **T2 — William H. McNeill, *The Pursuit of Power: Technology, Armed
+  Force, and Society since A.D. 1000* (Chicago, 1982)** — IN REPO
+  (sidecar `text-2026-09-14/McNeill.txt`, 417 PDF pages; printed =
+  PDF+9, plates inside the pagination; OCR clean apart from
+  line-break hyphens and one "cos't"). MASTER ENTRY: this chapter
+  (assessment §6: "Ch. 6 §VII — T2 ally, by name"); ch10 §§IV, VI,
+  VII, ch04, ch02 and ch11 carry pointers. Publication 1982 —
+  pre-dates the fiscal-military-state vocabulary (Tilly is not
+  cited; his own coinage is the "military-commercial complex,"
+  p. 117) and Parker 1988; his authorities on ordnance are Cipolla
+  1965 and Duffy 1979 (p. 88 n. 21, p. 89 n. 22), which Hall 1997
+  (in repo) supersedes on chronology. USE-NOTE: the T2
+  world-historical statement of the affordability effect and of
+  the market-to-command return the book predicts — cited for the
+  DIRECTION of the effect, never for its vocabulary or its
+  technical chronology (below). WHAT HE CARRIES FOR §§IV–VII: the
+  co-evolution in the ruling's order (spine §8(a)) — "an expanded
+  tax base allowed the king to collect enough hard cash to support
+  an increasingly formidable armed force" (p. 82 / PDF 91, sidecar
+  verified); "The French army that drove the English out of
+  Normandy and Guienne, 1450–53, did so by bringing heavy artillery
+  pieces to bear on castle walls, one after another, whereupon
+  previously formidable defenses came tumbling down in a matter of
+  hours, if the garrison did not prefer to surrender" (p. 83 /
+  PDF 92, verified — with the surrender clause the (aa)
+  restatement needs); THE AFFORDABILITY STATEMENT, in his exact
+  words — "The clumsy bombards of 1453 had already altered the
+  balance between besieger and besieged … Wherever the new
+  artillery appeared, existing fortifications became useless. The
+  power of any ruler who was able to afford the high cost of the
+  new weapons was therefore enhanced at the expense of neighbors
+  and subjects who were unable to avail themselves of the new
+  technology of war. In Europe, the major effect of the new
+  weaponry was to dwarf the Italian city-states and to reduce
+  other small sovereignties to triviality" (p. 89 / PDF 98,
+  verified; the sidecar reads "cos't"). VOCABULARY CHECK AGAINST
+  RULING (a)/(aa): his word is "cost," his object is "the new
+  weapons" — the weapon, not the establishment; he sits nearer the
+  unit-cost reading that Hall and Hoffman have made untenable and
+  that the Phase 5 draft has abandoned. §VII's rewritten sentence
+  ("the establishment cost of decisive force beyond what any
+  subject could sustain as a standing, provincial-scale instrument
+  at campaign tempo") cannot be attributed to him; he is cited for
+  "neighbors and subjects" — the direction — and the establishment
+  vocabulary stays the book's, on Hall, Rogers and Contamine. His
+  one establishment-level datum is fiscal and second-hand: Bean
+  (1973) "calculated that central government tax revenues in
+  western Europe doubled in real, per capita terms between 1450
+  and 1500, but grew more slowly thereafter" (p. 105 n. 35 /
+  PDF 114, verified). NEGATIVE FINDINGS AT FIRST HAND: the Bureaux,
+  Formigny, Castillon and Charles VII are absent from the book; the
+  reconquest is the one sentence at p. 83; the mobile gun,
+  trunnions, trail and limber are credited to "the gunfounders of
+  the Low Countries and France" without names (pp. 87–88 /
+  PDF 96–97, verified) — this replaces the Wikipedia-mediated
+  McNeill at memo l. 142 (T4) with the text. CHRONOLOGY SUPERSEDED
+  (DISPUTE RECORDED per CLAUDE.md §5): iron shot and corned powder
+  arrive together "between 1465 and 1477" (pp. 87–88) against Hall
+  1997: 119, dating Bureau's new powder and cast-iron shot to 1453
+  (the draft's §III, on Hall); Hall is later and closer to the
+  accounts — cite Hall, record McNeill. THE VENICE-FIRST LIMB
+  (critiques Revisions this date): "a regular standing army of
+  known size and capability emerged in the better-governed cities
+  of Italy during the first half of the fifteenth century" (p. 75 /
+  PDF 84, verified); Venice escaped Sforza's fate "partly by
+  dividing contracts among several different, mutually jealous
+  captains" (p. 76 / PDF 85); the Fronde's suppression "marked the
+  time at which transalpine states finally caught up with the level
+  of administrative management and control over armed force that
+  had been attained in Venice and Milan two centuries earlier"
+  (p. 125 / PDF 134, verified) — and his own answer: "the
+  sovereignty of mere city-states, however skillfully managed,
+  could not permanently be maintained" once consolidated monarchies
+  intervened (p. 79 / PDF 88, verified). THE TRACE ITALIENNE (for
+  §VII's Hall/Arnold limb and ch10 §IV, six years before Parker):
+  "But their cost was enormous. Only the wealthiest states and
+  cities could afford the scores of cannon and the enormous labor
+  of construction required by the trace italienne" (p. 90 /
+  PDF 99, verified); "high technology once again favored local
+  defenses, at least in those regions where governments could
+  afford the cost of the new fortifications" and "Imperial
+  consolidation halted halfway" (p. 91 / PDF 100, verified). For
+  ch02/ch12: Liège (pp. 113–14 / PDF 122–23) — entered at
+  ch02/sources.md this date.
+
+- **T2 — Charles Tilly, "Western State-Making and Theories of
+  Political Transformation," in Tilly (ed.), *The Formation of
+  National States in Western Europe* (Princeton, 1975), ch. 9,
+  pp. 601–638; and "War Making and State Making as Organized
+  Crime," in Evans, Rueschemeyer and Skocpol (eds), *Bringing the
+  State Back In* (Cambridge, 1985), pp. 169–191** — IN REPO
+  (sidecars `text-2026-09-14/Tilly-1975-Western-State-Making-ocr
+  .txt`, printed = PDF−600, ch. 9 only — the "war made the state"
+  slogan is NOT in it (volume ch. 1, p. 42, uncited at page level
+  in the repo); and `Tilly-1985-WarMaking.txt`, from a .doc, NO
+  printed pagination — pins by section heading and paragraph; the
+  causal diagram after "the classic European state-making
+  experience followed this causal pattern" is blank in the sidecar
+  and must be read from the printed page). POINTER — master entries
+  to be written at ch10/sources.md (§VII, "BY NAME, RIVAL"); an
+  earlier untiered 1985 entry stands at ch03/sources.md l. 58. Pins
+  THIS chapter uses (§VII's sceptics): THE BEAN VERDICT — Tilly
+  summarises Richard Bean: "the improvement of artillery in the
+  fifteenth century (cannon made small medieval forts much more
+  vulnerable to an organized force) shifted the curve of economies
+  and diseconomies to make larger armies, standing armies, and
+  centralized governments advantageous to their masters"
+  (Protection as Business, para 11; sidecar l. 80, verified) — and
+  rejects it: "Bean's summary does not stand up to historical
+  scrutiny. As a matter of practice, the shift to infantry-backed
+  artillery sieges of fortified cities occurred only during the
+  sixteenth and seventeenth centuries. Artillery did improve during
+  the fifteenth century, but the invention of new fortifications,
+  especially the trace italienne, rapidly countered the advantage
+  of artillery. The arrival of effective artillery came too late to
+  have caused the increase in the viable size of states. (However,
+  the increased cost of fortifications to defend against artillery
+  did give an advantage to states enjoying larger fiscal bases.)"
+  (History Talks, paras 1–2; sidecar ll. 84–85, verified); the
+  naval limb — "The increasing decisiveness of naval warfare, which
+  occurred simultaneously, could well have shifted the military
+  advantage to small maritime powers such as the Dutch Republic"
+  (para 2; l. 86, verified); and the concession — "After 1400 the
+  European pursuit of larger, more permanent, and more costly
+  varieties of military organization did, in fact, drive
+  spectacular increases in princely budgets, taxes, and staffs"
+  (para 3; l. 89, verified). Gerhard, quoted by Tilly for the
+  Empire after 1648: "Everywhere the razing of castles, the high
+  cost of artillery, the attraction of court life, and the ensuing
+  domestication of the nobility had its share in this development"
+  (Violence and Government, para 8; l. 48, verified) — the gun in
+  Tilly's own disarmament story, two centuries late. The method
+  sentence, 1975: relevance lies in "the chance that the
+  relationships among variables—between the costliness of the armed
+  forces and the extent of the extractive apparatus, for
+  example—which held in European history will continue to hold in
+  our own time, although the specific sequences and forms in which
+  those relationships worked themselves out in Europe will not"
+  (p. 601 / PDF 1, verified; the OCR hyphenates "re- lationships").
+  "War makes states, I shall claim" (1985, Warning, para 8; l. 14,
+  verified) is the pinnable near-equivalent of the slogan. NEGATIVE
+  FINDING: neither essay names Normandy, Guyenne, Formigny,
+  Castillon, the Bureaux or Charles VII; no artillery, cannon,
+  gunpowder, siege, fortification or "fifteenth" occurs in 1975
+  ch. 9; the 1985 French series begin in 1515 and 1522.
+  USE-NOTE: RIVAL on the artillery step, by name — not neglect but
+  a verdict, and the explanandum differs (Bean's is the geographic
+  size of states; the book's is the closure of the sub-state path
+  to decisive force and the permanence of the fisc). DISPUTE
+  RECORDED: Tilly 1985 v. Bean 1973 (and, on the book's side,
+  Rogers 1993 and Hall 1997 dating the artillery sieges of
+  fortified places to 1449–53 — the census §§IV–V carry).
+
+- **RETRIEVAL LIST — add: Richard Bean, "War and the Birth of the
+  Nation State," *Journal of Economic History* 33:1 (1973), 203–221
+  (HIGH for §VII: the book must cite Bean and say it is not Bean's
+  claim; McNeill p. 105 n. 35 and Tilly 1985 both carry him at
+  second hand). Also on ch10's list.**
+
+- **T1 — Georges Chastellain, *Œuvres*, ed. Kervyn de Lettenhove
+  (Brussels, 1863–66) — NEGATIVE ENTRY for this chapter.** IN REPO
+  as four Google scans (sidecars `text-2026-09-14/Chastellain-vol09
+  -ocr.txt` = Kervyn TOME I; `-vol11-` = TOME II, "Chronique
+  1430–1431, 1452–1453"; `-vol01-` and `-vol15-` = TOME III,
+  "Chronique 1454–1458," vol15 the complete copy, printed =
+  PDF+10; vol01 lacks pp. 259, 386–87, 416–17). FINDING (STEP 0.3,
+  confirmed at the page this date): the stretch of the chronicle
+  from July 1453 to August 1454 is a lacuna in the manuscript
+  tradition itself. Kervyn's note at the close of tome II (printed
+  p. 390 — the OCR running head reads "590"; PDF 394): "La fin du
+  livre III manque. Cette lacune n'est pas très-considérable, car
+  elle ne s'étend que du mois de juillet 1453 au mois d'août 1454.
+  Là se trouvaient racontées l'expédition du sire de Croy dans le
+  Luxembourg, la bataille de Castillon et la mort de Talbot, la
+  conquête de la Guyenne, la prise de Constantinople par Mahomet
+  II, la condamnation de Jacques Cœur, la fête de Lille où furent
+  prononcés les vœux du Faisan" (sidecar ll. 14286–92; garbles
+  restored) — and tome III opens after it, its p. 7 n. 1 (vol15
+  PDF 17, verified) reading "Nous n'avons plus la partie de la
+  chronique, à laquelle renvoie ici Chastellain." Term search
+  across tomes I–II finds "Talbot" nowhere but in that note.
+  CONSEQUENCE: no Burgundian court narrative of Castillon, of
+  Talbot's death or of the conquest of Guyenne exists in any Kervyn
+  tome, in corpus or out of it; §VI's reputation ledger ("clearly
+  feared by contemporaries") cannot be supplemented from
+  Chastellain for 1453, and NO RETRIEVAL ROW is left open for one.
+  Recorded so that no one seeks it. Chastellain's positive uses are
+  ch11 §VII's (the Alençon arrêt), ch10's and ch12's — see the
+  Chastellain assessment and, when written, ch11/sources.md.
+
+- **T1 (Calmette's apparatus T2) — Philippe de Commynes, *Mémoires*,
+  ed. Joseph Calmette with G. Durville, tome III (1484–1498), Les
+  Classiques de l'histoire de France au Moyen Âge (Paris, 1925)**
+  — IN REPO (`corpus/retrieved/Commynes-Memoires-Calmette.pdf`;
+  sidecar `text-2026-09-14/Commynes-tomeIII.txt`; printed = PDF+6
+  throughout; OCR noisy on accents, pins exact). POINTER — master
+  entry to be written at ch10/sources.md (§IV, the 1494 close, BY
+  NAME); the existing Scoble entry at ch10/sources.md ll. 42–45
+  stands for Livres I–III (tomes I–II, NOT in repo — every Commynes
+  passage the drafts now cite, including the "so much shooting"
+  line noted at memo Revisions l. 1178, lies there and stays on its
+  Scoble/DeVries pin). Pins THIS chapter uses, back-reference only
+  (assessment §6: "ch06 (Normandy): … the Italian siege-clock as the
+  mechanism's second demonstration; footnote"): "ilz n'entendoient
+  point le faict de l'artillerie, et en France n'avoit jamais esté
+  si bien entendue" (p. 50 / PDF 56, verified); Mordano "ne fut
+  batue que demy jour" (p. 50 / PDF 56, verified); Monte San
+  Giovanni "fut batue sept ou huyt heures et puis prinse d'assault
+  et tout tué ce qui estoit dedans, ou la pluspart" (p. 92 /
+  PDF 98, verified — NOTE: the running head on p. 92 reads "LE PAS
+  DE SAN-GERMANO," the chapter's marginal title; the place battered
+  is Monte San Giovanni, named at p. 91 n. 11); "hors le chasteau
+  de Napples, n'y eut nul qui empeschast le roy ung jour naturel"
+  and the chalk line (pp. 81–82 / PDF 87–88, verified); "ne mist le
+  roy, depuis Ast à entrer dedans Napples, que quatre moys, dix et
+  neuf jours" (p. 82 / PDF 88, verified); the Apennine crossing —
+  "ne se perdit une seulle pierre ne une livre de pouldre"
+  (pp. 210–11 / PDF 216–17, verified); "nostre artillerie, qui, à
+  la verité, passe toutes les artilleries du monde" (p. 285 /
+  PDF 291, verified). THE DISCIPLINE, for §V's two speeds and
+  §VI's field-battle caution: Fornovo — "je ne croy point que
+  l'artillerie des deux costéz tuast dix hommes et ne dura point le
+  combat ung quart d'heure" (p. 192 / PDF 198, verified; Calmette's
+  n. 3 reports Mandrot's wet-powder explanation). All [TRANS.
+  CLAUDE] if quoted in English. USE-NOTE: ally whose providential
+  frame ("s'il ne fust venu de Dieu seul," p. 81) must be flagged
+  wherever his testimony serves the institutional argument; the
+  mechanism is the historian's frame imposed on, not found in,
+  Commynes.
+
+- **T2 — Jan Glete, *War and the State in Early Modern Europe:
+  Spain, the Dutch Republic and Sweden as Fiscal-Military States,
+  1500–1660* (Routledge, 2002)** — IN REPO (sidecar
+  `text-2026-09-14/Glete.txt`; printed = PDF+9). POINTER — master
+  entry to be written at ch10/sources.md (§§III, VII: BY NAME, the
+  authority who extends Brewer's term to 1500 and DENIES it to the
+  1440s — ch10's fight, not this chapter's). Pins this chapter
+  uses (assessment: "Ch. 6 and Ch. 10 §II"): "In the early 1450s,
+  the French kings had been able to conquer the large French
+  territories earlier controlled by the English kings: Normandy
+  and Guyenne. Efficient siege artillery was important in these
+  victories" (p. 19 / PDF 28, verified — resting on Hall, n. 10,
+  p. 221 / PDF 230: gunpowder weapons "were important in the French
+  victory in the Hundred Years War (1450–53)"); and, for the
+  (a)/(aa) restatement at T2 in transaction-cost form, "Heavy guns
+  were capital goods, and mobile siege artillery required a
+  permanent organisation of skilled men" (p. 65 / PDF 74,
+  verified), with the before-state the §III rewrite concedes —
+  "Artillery, especially the heavy siege guns, were usually
+  provided by the state, but primitive gunpowder weapons were
+  widely dispersed in late medieval society" (p. 11 / PDF 20,
+  verified). Publication 2002; supersedes nothing standard here.
+
+- **NOT PLACED IN THIS CHAPTER by their assessments (nothing
+  entered):** Goldsmith & Wu; Krasner; Scott; Farrell & Newman
+  (book and article — the book's assessment says "not ch06"
+  expressly); Stasavage (ch04, ch10, ch07); Schmitt ("NO to ch06 …
+  text"); Wu; Cheung; Suleyman; Ruggie; Bagehot; Crouch; Ertman.
