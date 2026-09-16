@@ -1175,3 +1175,53 @@ cover: 1419–22, 1430–31, 1452–July 1453 (the Ghent war years),
 1454–58 (the Vœu du Faisan aftermath and Burgundian court) — the
 session-3 assessment scopes to those. Tilly-1975 OCR sidecar also
 built (198 KB, legible).
+
+## 2026-09-16: catch-up run — STEP 1 sessions 2 and 3 complete; STEP 3–4 (Claude Code)
+
+**Sessions 2 and 3 complete (2026-09-16):** thirteen assessments
+written to research/assessments-2026-09-14/ and committed one per
+unit — session 2: Ruggie, Krasner, Ertman, Stasavage, Glete, Cheung;
+session 3: Chastellain tome III, Suleyman, Tilly 1975 + 1985 (one
+file), and the bonus arrivals McNeill, Goldsmith & Wu, Bagehot,
+Crouch. With session 1's six (Wu, F&N article, F&N book, Scott,
+Schmitt, Commynes t. III) the assessment corpus for the 14 September
+arrivals is complete: nineteen files. Rows for all thirteen flip to
+**IN REPO — ASSESSED 2026-09-16** (integration per STEP 3 below).
+
+**Edition/scan findings recorded this date:**
+- Chastellain: `Chastellain-Oeuvres-vol01.pdf` (= Kervyn TOME III) is
+  a DEFECTIVE SCAN — printed pp. 259, 386–387 and 416–417 absent, the
+  offset drifting −8 → −3 across the volume; `vol15` (the second scan
+  of tome III) is complete at a constant printed = PDF+10 and is the
+  WORKING COPY. Both kept; nothing deleted. The Alençon arrêt (pp.
+  478–488), the Lombard bankers (pp. 314–316) and the royal-death
+  predictions (pp. 444–450 — the astrologers' forecast of Charles
+  VII's death by March 1458, "furent trompés tous deux"; Chastellain's
+  own comet prognostic p. 117 / p. 387) all VERIFIED AT THE PAGE; the
+  manuscript's one existing Chastellain citation (the 1467 spider,
+  ch10) is in a later tome — row below.
+- `corpus/retrieved/Post-Democracy.pdf` is the Fabian Society's 2012
+  web PDF of Crouch's *Coping with Post-Democracy* typescript
+  (byte-identical text to the pamphlet sidecar), NOT the 2004 Polity
+  book — row below.
+- Tilly 1975: the corpus holds ch. 9 only ("Western State-Making");
+  the "war made the state" slogan (ch. 1, p. 42 of the 1975 volume)
+  is still uncited at page level — row below.
+- Bagehot: Gutenberg text; no print pagination — cite by chapter and
+  paragraph plus Gutenberg-PDF page.
+
+**New OPEN rows (from the assessments):**
+| Work | Reason | Chapters | Route |
+|---|---|---|---|
+| Chastellain, *Œuvres*, Kervyn tome IV or V (1461–1470) | the 1467 spider ballade ch10 cites; Charles VII's death 1461 | ch10 | WEB (Gallica / IA) |
+| Crouch, *Post-Democracy* (Polity, 2004) | the book, not the pamphlet; the parabola in its developed form for the ornamental-democracy ledger | ch12 §VII, Appendix A | BUY |
+| Wolin, *Democracy Incorporated* (Princeton, 2008) | predecessor to name; ledger check still owed | ch12 §VII, Appendix A | CAM / BUY |
+| Tilly (ed.), *The Formation of National States in Western Europe* (1975), ch. 1 | "war made the state, and the state made war" at page level | ch10 §VII, ch03 §I | CAM / IA |
+| Bean, "War and the Birth of the Nation State," *JEH* 33 (1973) | the artillery-thesis Tilly 1975 read and rejected on chronology — ch10 must cite it and say the book is not Bean | ch10 §VII, ch06 §VII | CAM (JSTOR) |
+| Major, *Representative Institutions in Renaissance France* (1960) | to check spine §8(a)'s "No Estates General met again until 1484" against an Estates of 1468 (Blockmans via Stasavage) | ch10 §III; spine §8(a) — Roderick's | CAM |
+| Strayer & Munro, *The Middle Ages, 395–1500* (4th ed., 1959), p. 115 | the "patchwork of overlapping and incomplete rights of government" phrase ch01 attributes to Anderson is theirs by Ruggie's n. 55 | ch01 | CAM / IA |
+| Commynes, *Mémoires*, Calmette tomes I–II | unchanged: still OPEN (tome III in repo) | ch10, ch04 | Gallica / IA |
+
+**STEP 3 (integration) and STEP 4:** run this date — see
+research/intake-catchup-report-2026-09-14.md for entries per
+chapter, rows flipped and anything not found at the pin.
