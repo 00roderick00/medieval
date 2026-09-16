@@ -203,3 +203,281 @@ fetch-blocked — confirm in a browser before quotation.*
   enforcement decisions, not the Regulations — their citations
   stay separate (already so drafted). Citation forms: Reg. number,
   Article and paragraph.
+
+## Added 2026-09-16 — catch-up run STEP 3 (assessments of 14 September; pins verified against sidecars)
+
+*Written from research/assessments-2026-09-14/ (the map, not the
+authority); every pin below was opened in the named sidecar this
+date. No draft edited. Where the assessment names a master chapter
+other than this one, the entry here is marked POINTER and carries
+only the pins this chapter uses; no STEP 3 block yet exists in any
+other chapter as of this date, so each pointer names the chapter
+whose block will hold the master entry.*
+
+- **T2 (argument; the ICANN/root narrative) / T3 (the China
+  reportage, resting on Zittrain–Edelman and Reporters Without
+  Borders — cite those direct if load-bearing) — Jack Goldsmith and
+  Tim Wu, *Who Controls the Internet? Illusions of a Borderless
+  World* (Oxford UP, 2006)** — IN REPO (sidecar
+  `text-2026-09-14/Goldsmith-Wu.txt`; printed = PDF−13 for the
+  arabic text; clean). MASTER ENTRY: this chapter (the assessment's
+  heaviest placement is ch02 §§II, III, V; Appendix A's lineage
+  entry and ch12 §III's ICANN use point here). USE-NOTE
+  (assessment): ALLY on the diagnosis and on ch11's Moves four and
+  five, RIVAL on mechanism — engaged BY NAME and absorbed. WHAT IT
+  SUPPLIES THIS CHAPTER: (i) the 2006 blind spot, §II — the
+  intermediaries pliant throughout: "Most of the time, they are
+  invisible, but they are there. And they can be controlled"
+  (p. 70 / PDF 83, sidecar verified); "Local intermediaries are a
+  defining, and therefore ineliminable, aspect of the Internet"
+  (p. 71 / PDF 84); Yahoo a "Chinese police auxiliary" (p. 10 /
+  PDF 23); the firms' universalism appearing only as lobbying,
+  "trying to build a legal wall that would separate and protect
+  the Internet from territorial government" (p. 19 / PDF 32);
+  Kazaa "designed to avoid government control but needed
+  government's help to succeed" (p. 118 / PDF 131) — nowhere is
+  the intermediary contemplated as a holder of decisive
+  capability: the void §II charges Kobrin with, reproduced eight
+  years later in the second-generation literature. (ii) Kobrin's
+  supranational terminus refuted, §II — "not a single treaty has
+  been drafted and ratified related to issues like defamation,
+  gambling, speech, privacy, and the like" (p. 167 / PDF 180); the
+  root fight "indisputably between national governments" (p. 171 /
+  PDF 184). (iii) The Brussels effect before Bradford named it,
+  §III — "For many purposes, the European Union is today the
+  effective sovereign of global privacy law" (p. 174 / PDF 187);
+  "the European market accounts for about a third of Microsoft's
+  sales" (p. 175 / PDF 188); "Unilateral global law of the sort
+  doled out by the EU in the privacy context depends on
+  significant market power" (p. 176 / PDF 189). (iv) The fusion
+  dating, §III — Yahoo "signed a document called the Public Pledge
+  on Self-Discipline for the Chinese Internet Industry" (p. 9 /
+  PDF 22); "major commercial operators like Yahoo agreed in 2002
+  to a binding 'self-discipline pact'" (p. 96 / PDF 109). (v) The
+  root contest as a completed investiture case, §V — Aiken's
+  question, "IS ISOC claiming that it has jurisdiction and overall
+  responsibility for the [Internet] top level address and name
+  space" (p. 37 / PDF 50); Cerf's "settle the responsibility on
+  the Internet Society as a non-governmental agent serving the
+  community" (p. 38 / PDF 51); the draft constitution's "We the
+  People of the Internet Community" (p. 39 / PDF 52); Postel's
+  split root "like watching a sailboat stare down a battleship"
+  (p. 45 / PDF 58); Magaziner's "Jon, you don't have the legal
+  right to conduct a test" (p. 46 / PDF 59); root authority
+  thereafter "without exception, in the hands of the U.S.
+  government" (p. 46 / PDF 59). (vi) ICANN as the Sforza form,
+  §VI and ch12 §III — the United States "never actually ceded
+  control over either ICANN or the root. Legally, ICANN remained
+  under contract to the U.S. Commerce Department" (p. 169 /
+  PDF 182); Commerce had "no plans to transfer to any entity its
+  policy authority to direct the authoritative root server"
+  (p. 170 / PDF 183) — function delegated, title and revocation
+  kept. (vii) The scale precondition, §IV — "The techniques of
+  intermediary control are generally less effective in small
+  nations" (pp. 81–82 / PDF 94–95); the EU "an emerging
+  territorial nation-state … out of smaller ones" (p. 154 /
+  PDF 167, pin from the assessment). THE RIVAL LIMB (critiques
+  Revisions, this date): "Government regulation works by cost and
+  bother, not by hermetic seal" (p. 68 / PDF 81); ISPs "already
+  some of the most regulated companies on earth" (p. 73 / PDF 86);
+  the ATF "simply ordered Visa, MasterCard, and AmEx to stop
+  taking online cigarette orders" (pp. 76–77 / PDF 89–90); "the
+  router itself has become the censor" (p. 94 / PDF 107); "a
+  failure of interest or will, not a failure of power" (p. 89 /
+  PDF 102). Publication 2006; extended, not superseded, by Farrell
+  & Newman 2019/2023 (below) and Bradford, *The Brussels Effect*
+  (2020), which names the effect they describe at pp. 174–76.
+  Primaries to retrieve if §V takes the root contest: the Green
+  Paper of 30 January 1998; Postel's e-mail of 28 January 1998
+  (reproduced at p. 44).
+
+- **T2 — Stephen D. Krasner, *Sovereignty: Organized Hypocrisy*
+  (Princeton, 1999)** — IN REPO (sidecar `text-2026-09-14/
+  Krasner.txt`; printed = PDF−10; clean). POINTER — master entry
+  to be written at ch01/sources.md (ch01 §VI is the load-bearing
+  placement) with the Appendix A entry under "The critics"; the
+  pins this chapter uses: the four sovereignties — "domestic
+  sovereignty, referring to the organization of public authority
+  within a state and to the level of effective control exercised
+  by those holding authority; interdependence sovereignty …
+  international legal sovereignty … and Westphalian sovereignty,
+  referring to the exclusion of external actors from domestic
+  authority configurations" (p. 9 / PDF 19, sidecar verified);
+  "Westphalian sovereignty and international legal sovereignty
+  exclusively refer to issues of authority … Interdependence
+  sovereignty exclusively refers to control" (p. 10 / PDF 20); the
+  AUTHORITY TEST the chapter's §I question ("by what right?")
+  needs — NGOs and "the Catholic Church" try to change government
+  practice, but "Such private actors are not violating Westphalian
+  autonomy; they make no claim to authoritative decision making"
+  (p. 119 / PDF 129, sidecar verified); what the state reasserts —
+  "the ability of public authorities to exercise effective control
+  within the borders of their own polity" (p. 4 / PDF 14); the two
+  cells kept apart — domestic control "not necessarily related to
+  international legal or Westphalian sovereignty" (p. 12 / PDF 22);
+  and the modality the ornamental route may take — strong states
+  lose autonomy only "unless they invite external authority
+  through conventions or contractual arrangements" (p. 29 /
+  PDF 39). USE-NOTE: T2 ally for the vocabulary; RIVAL at ch01 §VI
+  on "exclusive" and the pendulum (answered there). CAUTION per
+  CLAUDE.md §5: written before the platforms; his transnational
+  actors are flows or advocates without authority claims (p. 119)
+  — the chapter's burden is exactly the claim his evidence lacks.
+  DISPUTE RECORDED: Krasner v. Bull's English school on
+  sovereignty as constitutive norm (pp. 47–51); Krasner (1999)
+  concurs with, and antedates, Osiander (2001) on the Westphalian
+  myth (ch01's matter). Never mentions the neomedieval hypothesis.
+
+- **T2 — James C. Scott, *Seeing Like a State* (Yale, 1998)** — IN
+  REPO (`corpus/retrieved/Scott-Seeing-Like-a-State.pdf`; sidecar
+  `text-2026-09-14/Scott.txt`; printed = PDF+17). POINTER — master
+  entry to be written at ch12/sources.md (§§II–III, the
+  load-bearing engagement); the Coda's method note names him. Pins
+  this chapter uses, footnote-level, T2 ally for the
+  platforms-as-universalisms correction: "large-scale capitalism is
+  just as much an agency of homogenization, uniformity, grids, and
+  heroic simplification as the state is, with the difference being
+  that, for capitalists, simplification must pay" (p. 8 / PDF 25,
+  sidecar verified); "the monastery, the barracks, the factory
+  floor, and the administrative bureaucracy (private or public)
+  exercise many statelike functions and often mimic its information
+  structure as well" (p. 79 / PDF 96, sidecar verified). VOICE
+  NOTE (assessment §4(5)): "legibility" in its technical sense is
+  Scott's coinage, used 28 times in the manuscript and never
+  attributed; this chapter's §IV "the shape of the present becomes
+  legible" is a casual use that will read as an invocation once he
+  is in the apparatus — memo Revisions this date.
+
+- **T3 (the book) — Henry Farrell and Abraham Newman, *Underground
+  Empire: How America Weaponized the World Economy* (2023)** — IN
+  REPO (EPUB-derived sidecar `text-2026-09-14/FN-UndergroundEmpire
+  .txt`; NO printed pagination — pins are chapter + FILE marker +
+  sidecar line; every quotation must be re-pinned to a printed page
+  before it enters a chapter). POINTER — master entry at
+  ch12/sources.md (§IV, by name beside Bratton). Pins this chapter
+  uses, evidence at footnote level (assessment §2(e)): Brad
+  Smith's "trusted and neutral Digital Switzerland" and "If our
+  companies are like nations, then we can forge our own
+  international agreements" (ch. 5, FILE chapter5.xhtml, sidecar
+  ll. 849–50, verified) — the universalist claim in a sentence;
+  Microsoft in 2022 "playing the role that Ford Motor [Company] did
+  in World War II" (ch. 5, l. 855 region, verified) — neutrality
+  abandoned, function absorbed; Libra — Mnuchin's "I hate everything
+  about this" (ch. 5, l. 926, verified) — the suppressed coinage;
+  Tornado Cash — Circle, Alchemy and Infura "accepting that they
+  were vassals of the sovereign" (ch. 5, l. 945, verified);
+  Buterin's private actors "deputized into enforcing restrictions"
+  (ch. 5, l. 930, verified). THE TEMPLATE SENTENCE, assigned to
+  this chapter by the catch-up tasking though the assessment
+  places it at ch12 §IV: "For decades, the United States had
+  claimed jurisdiction over foreign banks that touched the U.S.
+  dollar and used its control of dollar clearing to discipline
+  them. Now, it claimed jurisdiction, too, over foreign-based
+  technology companies that significantly touched U.S.
+  intellectual property, even indirectly" (ch. 3, FILE
+  chapter3.xhtml, sidecar l. 647, verified) — the payments stack as
+  the compute stack's template; recorded here as the
+  cross-reference §III's American-church paragraph may carry.
+  USE-NOTE: ally at instrument level, rival at mechanism level
+  (the rival limb is ch12's; its ch02 face — the hub as
+  instrument, never rival — is entered in critiques this date).
+  Serious synthesis by scholars of standing, trade register.
+
+- **T2 — Henry Farrell and Abraham Newman, "Weaponized
+  Interdependence: How Global Economic Networks Shape State
+  Coercion," *International Security* 44:1 (2019), 42–79** — IN
+  REPO (sidecar `text-2026-09-14/FN-article.txt`; printed =
+  PDF+41; fi/fl ligatures garbled, quotations restored). POINTER —
+  master entry at ch12/sources.md; the terminology (panopticon /
+  chokepoint) is cited from here, never from the book. THE
+  ASSESSMENT PLACES NOTHING IN THIS CHAPTER; the entry exists so
+  that the book's ch02 material, if promoted, carries the T2
+  definitions: "By building centralized networks, market actors
+  inadvertently provide states … with the necessary levers to
+  extend their influence across borders" (p. 54 / PDF 13, sidecar
+  verified); "States that have jurisdictional control over network
+  hubs and enjoy sufficient institutional capacity will be able to
+  deploy both panopticon and chokepoint effects" (p. 58 / PDF 17,
+  verified).
+
+- **T2 — William H. McNeill, *The Pursuit of Power: Technology,
+  Armed Force, and Society since A.D. 1000* (Chicago, 1982)** — IN
+  REPO (sidecar `text-2026-09-14/McNeill.txt`; printed = PDF+9).
+  POINTER — master entry at ch06/sources.md (this date). Pins this
+  chapter uses (assessment §6: "Ch. 2; ch. 12 §III —
+  rival-turned-ally, by name"): Liège, 1492 — "Their very weakness
+  thus allowed the Liégeois to set their own prices. Even the
+  mightiest rulers had to pay what was asked, or do without"
+  (p. 113 / PDF 122, sidecar verified); the condition — "the
+  sovereignty of the market over even the greatest ruler of the
+  age remained an ultimate reality" (p. 114 / PDF 123, verified);
+  and the fused model — Sung officials "might prefer preemption,
+  and simply turn the business in question into a state monopoly"
+  (p. 49 / PDF 58, verified); "Uninhibited linkage between
+  military and commercial enterprise, such as was to take place in
+  fourteenth- to nineteenth-century Europe, would have seemed truly
+  disastrous to Chinese officials" (p. 40 / PDF 49, verified). The
+  Liège → foundry bridge is the book's own move (c), stated as
+  such. Publication 1982; the technical chronology superseded (ch06
+  entry); the institutional argument not.
+
+- **Footnote-grade supply for this chapter (assessments place each
+  at footnote level; pins verified):**
+  - **T2 — Carl Schmitt, *The Nomos of the Earth* (1950; Ulmen
+    tr., Telos 2003)** — sidecar `text-2026-09-14/Schmitt.txt`;
+    printed = PDF+2. POINTER to ch12/sources.md (master, §IV). For
+    §I/§IV: the antitheses of emperor and pope "were not absolute,
+    but rather diversi ordines [diverse orders], in which the order
+    of the respublica Christiana resided" (p. 61 / PDF 63,
+    verified); "Misfortune did not arise until the 13th century,
+    when the Aristotelian doctrine of the societas perfectae …"
+    (p. 61 / PDF 63, verified); the katechon — "the historical
+    power to restrain the appearance of the Antichrist and the end
+    of the present eon" (pp. 59–60 / PDF 62, verified) — COLOUR,
+    one clause at most, and only if Roderick wants it. Assessment:
+    "NO to ch06 and ch10 text."
+  - **T3 — Tim Wu, *The Master Switch* (2010)** — EPUB sidecar
+    `text-2026-09-14/Wu-MasterSwitch.txt`, no pagination; POINTER
+    to ch12/sources.md. For §III: Vail's slogan "was not
+    'universal' as in, say, universal health care, but more nearly
+    in the sense of the universal church … universal service as an
+    alternative to options" (ch. 3, FILE …c03_r1.htm, sidecar
+    l. 330, verified; Wu citing Milton Mueller, the T2 to retrieve
+    if promoted). A serious trade witness reaching the chapter's
+    ecclesiastical register independently.
+  - **T2 — Tai Ming Cheung, *Innovate to Dominate* (Cornell,
+    2022)** — sidecar `text-2026-09-14/Cheung.txt`; printed =
+    PDF−15; POINTER to appendix-c/ch09 master. For §III, T2 ally:
+    the legal base of "delegated, not owned" — with the National
+    Intelligence Law (2017), Counterespionage Law (2014),
+    Counterterrorism Law (2015), Cybersecurity Law (2016) and the
+    Foreign NGO law (2016), "the Chinese NSS has unassailable legal
+    authority to do anything it wants within its own borders and
+    increasingly beyond" (pp. 63–64 / PDF 78–79, sidecar verified).
+    TERM COLLISION (assessment §3(i)): "fusion" in Chinese usage is
+    military-civil fusion (军民融合), a national strategy since
+    2015 with its own commission (pp. 6–7, 89, 94; MCF at PDF 187
+    verified) which Cheung rates "early-stage" — memo Revisions
+    this date; register decision proposed.
+  - **T3 — Mustafa Suleyman, *The Coming Wave* (2023)** — sidecar
+    `text-2026-09-14/Suleyman.txt`; ebook-derived, printed pages
+    approximate. For §III, colour only: the platforms "are empires
+    of a sort" (PDF 205, verified; the assessment's "PDF 206–08" is
+    one page off for this phrase) and "Googlization" (PDF 206,
+    verified). A T3 witness; carries no claim.
+  - **T2 — John Gerard Ruggie, "Territoriality and Beyond,"
+    *International Organization* 47:1 (1993)** — sidecar
+    `text-2026-09-14/Ruggie.txt`; printed = PDF+137; master entry
+    exists at ch01/sources.md l. 44 (untiered — to be tiered at
+    ch01's STEP 3). For §II/§III: Mattingly's paradox — the new
+    states "found they could only communicate with one another by
+    tolerating within themselves little islands of alien
+    sovereignty" (p. 165 / PDF 28, sidecar verified; OCR runs the
+    words together) — a frame for GDPR Art. 3 and the DMA as the
+    state's own unbundling of its territoriality; and Kobrin's
+    debt to Ruggie, to be stated where §II opens with Kobrin.
+
+- **NOT PLACED IN THIS CHAPTER by their assessments (nothing
+  entered):** Tilly 1975/1985 (1975 p. 638 is ch01/Appendix A's);
+  Stasavage; Glete; Commynes tome III; Chastellain tome III;
+  Bagehot; Crouch; Ertman.

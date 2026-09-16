@@ -188,3 +188,113 @@ reserves the scholarly interpretive claims for the retrieval pass.
    the northern courts, p. 168). The book does not argue that
    the Church made the state; Morris removes a rival mechanism.
    No spine ruling reached.
+
+## Revisions (2026-09-16 — catch-up run STEP 3, PENDING HUMAN REVIEW)
+
+*Objections from the 14 September assessments that reach argument
+level in this chapter, steelmanned at the assessments' strength,
+with the assessments' answers and gradings preserved. Pins verified
+in the sidecars (sources.md block of this date).*
+
+3. **Goldsmith & Wu's cheap reassertion — the rival mechanism, at
+   full strength.** Between 2000 and 2006 the state took back the
+   network's legibility layer — content, commerce, payments,
+   identity — with no artillery-scale investment and no
+   fiscal-administrative construction. The instrument was law on
+   concentrated local chokepoints, and it was cheap: "Government
+   regulation works by cost and bother, not by hermetic seal"
+   (p. 68); ISPs "already some of the most regulated companies on
+   earth" (p. 73); the ATF "simply ordered Visa, MasterCard, and
+   AmEx to stop taking online cigarette orders … without ever
+   laying a finger on online sellers" (pp. 76–77); at wire speed
+   "the router itself has become the censor" (p. 94); physical
+   coercion "relatively cheap for the government" (p. 139). Read
+   straight: the identity-payments-legibility stack of CLAUDE.md §1
+   claim 3 was re-territorialised by ordinary coercion twenty years
+   before this book says the mechanism runs, and the mechanism is
+   superfluous to that half of the wager. This chapter's three
+   churches are, on their record, three sets of pliant local
+   intermediaries. Reaches spine §6's DEFEND-tier sentence as
+   applied to the legibility limb, and spine §7's tense.
+   **Answer** (assessment grades preserved): (i) Category — their
+   chokepoints are the canon-and-register layer, which the
+   manuscript already holds cheap: ch11's fifth move ("the harness
+   was the canon and the register, not the plant … The state could
+   mandate the canon"); access-control lists fed to routers are the
+   Index and the licensing proclamation on wire. Goldsmith and Wu
+   are not a rival to the mechanism but the fullest documentation
+   of Moves four and five on the network — GOOD. (ii) What cheap
+   coercion cannot do is the book's subject: it can order the
+   routers to drop packets; it cannot build the router, the fab,
+   the model or the constellation — "built with American bricks"
+   (p. 93) is dependence stated and not theorised; the mechanism
+   explains the compulsion to move from mandating the canon to
+   holding the plant, where the fiscal cost begins — GOOD. (iii)
+   Their scale limit (pp. 81–82, 153) is the mechanism's
+   precondition from the legal side: intermediary control works for
+   polities whose markets hold the intermediaries' assets and fails
+   for Fiji and Antigua — the blocs and the interstices — ADEQUATE.
+   THE CONCESSION the text must make: the legibility stack was
+   re-territorialised by law before the artillery mechanism ran;
+   the mechanism's claim over it is scale and fusion, not
+   existence — a layered tense (accomplished for canon and
+   register; compelled and unaccomplished for the decisive layer),
+   which is a register amendment to spine §7 and not a reversal.
+   Register decision proposed at memo Revisions this date.
+   Farrell & Newman's horizontal frame (the hub "instrument, not
+   over-mighty citizen") is the same objection restated in 2019 IR
+   and is answered the same way; its mechanism-level form
+   (deputisation sufficing, no consolidation required) is ch12's
+   and is entered there.
+
+4. **Krasner's organized hypocrisy, aimed at this chapter: the
+   churches make no authority claim.** On his 1999 evidence,
+   transnational actors are flows (interdependence sovereignty, a
+   matter of control) or advocates — NGOs "like Amnesty
+   International try to change the practices and policies of
+   governments as does the Catholic Church. Such private actors are
+   not violating Westphalian autonomy; they make no claim to
+   authoritative decision making" (p. 119). If the platforms are
+   his advocates writ large, the chapter's "new church" breaches
+   nothing, the Friedrichs correction is a category error in the
+   other direction, and what the state "reasserts" was never
+   ceded. **Answer** (assessment: GOOD, on condition): the grid is
+   the answer. The chapter's burden is that the Oversight Board,
+   the app-store tribunals and the terms-of-service canon ARE
+   claims to authoritative decision-making over the subjects of
+   territorial states — §I's Trump case is a constituted appellate
+   body publishing "reasoned decisions the secular power can read
+   but not reverse" — and stated in his terms the correction
+   becomes falsifiable: markets erode interdependence sovereignty;
+   churches breach Westphalian sovereignty; the state reasserts
+   domestic sovereignty in the control sense plus the fiscal
+   monopoly of decisive force (his grid has no cell for the last;
+   that is the book's contribution). Condition: the chapter runs
+   the p. 119 test by name rather than asserting the result, and
+   concedes that his evidence, being pre-platform, lacks the very
+   claim the chapter documents. Residue to carry: strong states
+   lose autonomy only "unless they invite external authority
+   through conventions or contractual arrangements" (p. 29) — the
+   ornamental route of spine §8(g)(3) reached from the other side;
+   ch12 §IV's matter.
+
+5. **Schmitt's diversi ordines — the two universalisms were orders
+   of one respublica.** Interpretive pressure rather than a full
+   objection: §IV's "none able to absorb the others" and §I's "Two
+   rival universalisms claiming the same subjects" describe the
+   medieval case as a contest; Schmitt holds the antitheses of
+   emperor and pope "were not absolute, but rather diversi ordines
+   … of the same encompassing unity" (p. 61), and dates the real
+   division to the thirteenth-century *societas perfecta* doctrine
+   ("Misfortune did not arise until the 13th century," same page).
+   If the medieval universalisms were not rivals but co-orders, the
+   three-body analogue of §IV rests on a contest that was not one.
+   **Answer** (assessment grade: ADEQUATE, footnote-level):
+   competition-within-unity is still competition — the Investiture
+   Contest was fought, Worms was signed — and Friedrichs's "held
+   together by" already concedes the unity; the chapter's §II
+   restatement per Morris (a jurisdiction, not a sovereignty) sits
+   comfortably inside Schmitt's reading. A footnote acknowledging
+   that the medieval rivals shared a respublica the modern three do
+   not — which is itself a disanalogy worth having — suffices. No
+   spine ruling reached.

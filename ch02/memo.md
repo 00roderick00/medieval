@@ -452,3 +452,268 @@ STATUS: REVIEWED (Roderick, 2026-07-22) — cleared for drafting
 
 STATUS: PENDING HUMAN REVIEW (this entry); the memo body REVIEWED
 as before.
+
+## Revisions (2026-09-16 — catch-up run STEP 3, PENDING HUMAN REVIEW)
+
+*From research/assessments-2026-09-14/, each pin opened in the
+sidecar this date (sources.md block of the same date). Draft
+wordings quoted are the CURRENT draft's (after the Phase 5
+renovation); nothing below is applied to draft.md. Tiering per
+CLAUDE.md §4: (a) consensus, (b) contested, (c) the book's own.*
+
+1. **(Goldsmith & Wu 2006 — the blind spot documented; the root
+   contest; ICANN.)**
+   - CONFIRMS (a): §II — "What Kobrin could not see from 1998 — and
+     what the literature after him never developed — is *which
+     institutions would fill the void*." Goldsmith and Wu, writing
+     eight years after Kobrin and with the platforms in view, model
+     the intermediary as pliant throughout: "Most of the time, they
+     are invisible, but they are there. And they can be controlled"
+     (p. 70). The chapter's charge against Kobrin is thereby shown
+     to hold against the second-generation literature too; the
+     sentence "what the literature after him never developed" now
+     has its exhibit. §III — "a church with no divisions whose writ
+     runs through every actor's need for access to its four hundred
+     and fifty million communicants": their pp. 174–76 state the
+     same effect in 2006 (EU "the effective sovereign of global
+     privacy law"; Microsoft unable to withdraw at a third of its
+     sales; "depends on significant market power") — the Brussels
+     effect before Bradford named it. §II — "He reasoned, plausibly,
+     toward re-centralisation in some supranational authority with
+     powers of taxation and enforcement": refuted on their record —
+     "not a single treaty has been drafted and ratified" (p. 167);
+     the root fight "indisputably between national governments"
+     (p. 171).
+   - CORRECTS (draft wording quoted; NOT applied): §III — "The
+     demonstration was the crackdown of 2020–21, best read … as
+     intra-church discipline." The first instrument of the fused
+     church's discipline is dated by Goldsmith and Wu to 2002 — the
+     "Public Pledge on Self-Discipline for the Chinese Internet
+     Industry" (p. 9); "major commercial operators like Yahoo agreed
+     in 2002 to a binding 'self-discipline pact'" (p. 96). The
+     foreign churches were subordinated by pact two decades before
+     the domestic orders were disciplined by fine; 2020–21 is the
+     Gregorian moment against DOMESTIC over-mighty subjects, and the
+     sentence should say which. Register decision proposed (below).
+   - ADDS: (i) §V — the root contest of 1995–98 as the first
+     completed investiture case, by name: Aiken's "IS ISOC claiming
+     that it has jurisdiction" is the canonist's *by what right?*
+     verbatim (p. 37); the Internet Society's claim to "settle the
+     responsibility … as a non-governmental agent serving the
+     community" (p. 38) and the draft constitution's "We the People
+     of the Internet Community" (p. 39) are the universalism stated;
+     Postel's split of the root and Magaziner's telephone call —
+     "Jon, you don't have the legal right to conduct a test"
+     (p. 46) — ended it in a week, and root authority has since
+     remained "without exception, in the hands of the U.S.
+     government" (p. 46). A universalism subordinated by a threat of
+     prosecution, predating every case §V now uses; the assessment's
+     phrase for it, "the first Henrician act of the digital age," is
+     the assessment's and not the book's coinage. (ii) §VI — ICANN
+     as the Sforza form: the state "never actually ceded control
+     over either ICANN or the root. Legally, ICANN remained under
+     contract to the U.S. Commerce Department" (p. 169); Commerce
+     had "no plans to transfer to any entity its policy authority"
+     (p. 170) — function delegated, title and revocation kept, for a
+     generation. The chapter's Henrician close ("regulating the
+     switches of its foundational infrastructure by licence and
+     condition") gains the documented 1998 instance; the Sforza
+     reading is the book's (c), not theirs. (iii) §IV — the scale
+     precondition from the legal side: intermediary control "less
+     effective in small nations" (pp. 81–82); the EU as a territorial
+     state made out of smaller ones (p. 154) — the three-body
+     geometry's mechanism stated by authors who did not theorise
+     it. (iv) Their normative case (decentralised rule by states as
+     representative, pp. 142, 152) is the assumption spine §8(g) now
+     scores separately — ch12 §VII's matter, cross-referenced.
+   - The rival limb (cheap reassertion of the legibility layer by
+     2006) is entered in critiques.md this date; it reaches spine
+     §6/§7 and is not resolved here.
+
+2. **(Krasner 1999 — the grid for what the churches breach and what
+   the state reasserts.)**
+   - CONFIRMS (a): §I's question — "by what right?" — is, in
+     Krasner's terms, the authority question, and his four
+     sovereignties separate it from control: "Westphalian
+     sovereignty and international legal sovereignty exclusively
+     refer to issues of authority … Interdependence sovereignty
+     exclusively refers to control" (p. 10).
+   - CORRECTS: nothing in this chapter. (His correction of
+     "exclusive" is ch01 §VI's and the Introduction's; recorded
+     there.)
+   - ADDS: the test that makes the Friedrichs correction
+     falsifiable. Private actors that only lobby "are not violating
+     Westphalian autonomy; they make no claim to authoritative
+     decision making" (p. 119). Markets, on his grid, erode
+     INTERDEPENDENCE sovereignty (control of flows); a church
+     breaches WESTPHALIAN sovereignty only if it claims authority
+     over the subjects of territorial states. The chapter's burden
+     is exactly that the Oversight Board, the app-store tribunals
+     and the terms-of-service canon ARE such claims — §I's "a
+     universal authority — self-constituted, non-territorial,
+     claiming rightful power over a domain of human conduct" is the
+     claim stated; §I or §III should name Krasner and run the test.
+     What the consolidating state then reasserts is nameable too:
+     not Westphalian purity but domestic sovereignty in the control
+     sense — "the ability of public authorities to exercise
+     effective control within the borders of their own polity"
+     (p. 4) — plus the fiscal monopoly of decisive force, for which
+     his grid has no cell (the book's contribution, (c)). Caution
+     (CLAUDE.md §5): Krasner's 1999 evidence has transnational
+     actors as flows or advocates only; the chapter is claiming what
+     his evidence lacks, and should say so rather than cite him as
+     if he had seen it.
+
+3. **(Scott 1998 — the platforms as legibility engines; the word.)**
+   - CONFIRMS (a): §I's "They are *institutions*: rule-making,
+     adjudicating, sanctioning, missionary bodies" and §III's
+     churches "functionally described" have a Scott warrant:
+     capitalism "just as much an agency of homogenization,
+     uniformity, grids, and heroic simplification as the state is,
+     with the difference being that, for capitalists, simplification
+     must pay" (p. 8); private bureaucracies "exercise many
+     statelike functions and often mimic its information structure
+     as well" (p. 79). Footnote-level, per the assessment.
+   - CORRECTS (register, not fact; NOT applied): §IV — "Set the
+     three beside each other and the shape of the present becomes
+     legible." Once Scott is in the apparatus (the Introduction's
+     unacknowledged debt, assessment §3(i)), this casual use will
+     read as an invocation of his concept; the assessment's fix is
+     "visible/plain" for the casual instances so the term of art
+     stays one. Recorded here as this chapter's instance of a
+     book-level decision.
+   - ADDS: nothing further for this chapter.
+
+4. **(Farrell & Newman 2023 (T3) with the 2019 article (T2) — the
+   universalist claim in a sentence; the template.)**
+   - CONFIRMS (a, at reportage grade): §III's American church and
+     §VI's Henrician lean. Brad Smith's "trusted and neutral Digital
+     Switzerland" and "If our companies are like nations, then we
+     can forge our own international agreements" (ch. 5) is the
+     universalist claim stated by its claimant; the arc ends with
+     Microsoft in 2022 "playing the role that Ford Motor [Company]
+     did in World War II" — neutrality abandoned, function absorbed,
+     which is §VI's absorption verb at instrument level. Libra as
+     the suppressed coinage (Mnuchin: "I hate everything about
+     this"); Tornado Cash's intermediaries "accepting that they were
+     vassals of the sovereign"; Buterin's "deputized" (ch. 5).
+   - CORRECTS: nothing in this chapter.
+   - ADDS: the tasking assigns to this chapter the sentence the
+     assessment places at ch12 §IV — dollar-clearing jurisdiction
+     transposed onto intellectual property: "Now, it claimed
+     jurisdiction, too, over foreign-based technology companies that
+     significantly touched U.S. intellectual property, even
+     indirectly" (ch. 3) — the payments stack as the compute stack's
+     template. For this chapter it bears on §III's closing sentence
+     ("a universalism holding, in its foundries, its constellations
+     and its models, components of the very instrument by which
+     force is now made decisive"): the instrument the state used to
+     reach those components was the one it had already built for
+     payments. Recorded as a cross-reference; the placement is
+     ch12's. DISANALOGY the chapter must carry if it uses them:
+     their coercion is horizontal (state against state through a
+     compliant hub); the hub "is instrument, not over-mighty
+     citizen" (assessment, article §4(1)) — their model of the
+     intermediary is Goldsmith and Wu's, and Kobrin's, restated in
+     2019 IR; the chapter's question (who owns the switch) is
+     vertical and is not theirs.
+
+5. **(McNeill 1982 — Liège and the Sung, for §III.)**
+   - CONFIRMS: nothing directly; the chapter has no medieval
+     foundry.
+   - CORRECTS: nothing.
+   - ADDS (the assessment's ch. 2 placement, "rival-turned-ally, by
+     name"): the foundry in the neutral jurisdiction — Liège, 1492:
+     "Their very weakness thus allowed the Liégeois to set their own
+     prices. Even the mightiest rulers had to pay what was asked, or
+     do without" (p. 113); and the condition — "As long as no single
+     political command structure could reach out to every corner of
+     Latin Christendom … the sovereignty of the market over even the
+     greatest ruler of the age remained an ultimate reality"
+     (p. 114). Against §III's American church, which holds
+     "components of the very instrument," this is the medieval
+     instance of a supplier the state could not command; the
+     assessment's gloss (the sixteenth century's Hsinchu) and the
+     bridge to the bloc settlement as the closure of refuge are the
+     book's own (c). For the Chinese church: the Sung preference for
+     "preemption, and simply turn the business in question into a
+     state monopoly" (p. 49) and the officials' horror at
+     "uninhibited linkage between military and commercial
+     enterprise" (p. 40) — a T2 instance of the fused model with a
+     thousand-year pedigree, to be used with Andrade (ch06/ch10) and
+     not alone.
+
+6. **(Footnote-grade set — Schmitt, Wu, Cheung, Suleyman, Ruggie.)**
+   - Schmitt — interpretive pressure, not a correction: §IV's
+     three universalisms "none able to absorb the others," and §I's
+     "Two rival universalisms claiming the same subjects," meet his
+     stronger reading of the medieval case — emperor and pope "were
+     not absolute, but rather diversi ordines … of the same
+     encompassing unity" (p. 61): the two were not trying to absorb
+     each other, because both were orders of one respublica.
+     Competition-within-unity is still competition and Friedrichs's
+     "held together by" concedes the unity; a footnote acknowledging
+     the reading suffices. Critiques this date.
+   - Wu — a T3 witness reaching the chapter's register on its own:
+     Vail's universal service "in the sense of the universal church"
+     (ch. 3), with Mueller behind it; footnote to §III's first
+     church.
+   - Cheung — CONFIRMS §III's "the party-state asserted — with
+     fines, delistings and disappeared founders — that the
+     platforms' authority was delegated, not owned": the legal base
+     is the NSL family, "unassailable legal authority to do anything
+     it wants within its own borders and increasingly beyond"
+     (pp. 63–64). CORRECTS (register; NOT applied): §III "its
+     defining property is fusion," "fusion asserted by discipline,"
+     "the fused church," "has been fused into a state that can pay";
+     §IV "a Chinese church fused with its state." In Chinese usage
+     "fusion" is military-civil fusion (军民融合), a named strategy
+     with its own commission, which Cheung rates early-stage; a
+     China-literate reviewer will read the manuscript's word as MCF.
+     The assessment's proposed rename: "ruled as departments" /
+     "absorption by discipline." Register decision proposed (below);
+     the same collision is C4-1's and ch11 §VI's.
+   - Suleyman — colour only: the platforms "are empires of a sort"
+     (PDF 205). No claim carried.
+   - Ruggie — for §II's opening on Kobrin: Kobrin's unbundling
+     argument descends from Ruggie 1993, whose Mattingly paradox —
+     states tolerating "within themselves little islands of alien
+     sovereignty" (p. 165) — frames GDPR Art. 3 and the DMA as the
+     state's own unbundling of territoriality to reach a
+     non-territorial subject. Footnote; Kobrin's debt stated.
+
+7. **(Nothing placed in this chapter, and said so.)** Tilly 1975
+   (p. 638's proto-neomedievalism is ch01/Appendix A's); Tilly 1985;
+   Stasavage; Glete; Commynes tome III; Chastellain tome III;
+   Bagehot; Crouch; Ertman — their assessments assign nothing to
+   ch02; nothing entered.
+
+8. **(Flags.)** The chapter's one open [GAP] — Tierney / *Haec
+   Sancta* (§II) — is closed by none of the 14 September works; it
+   stays a retrieval item. No RE-SOURCE OR CUT arises from this
+   batch.
+
+**Register decisions proposed for the rulings sheet** (stated, not
+recommended; to be appended after (cc) at STEP 4):
+- (i) A layered tense for spine §7 as it bears on §III/§VI: the
+  canon-and-register layer of the network was re-territorialised by
+  cheap legal coercion of local intermediaries by 2006 (Goldsmith &
+  Wu pp. 68–77, 94); the mechanism's claim over the
+  identity-payments-legibility stack is confined to scale and to
+  its fusion with the chokepoint layer, not to its existence; the
+  decisive stack remains "compelled and unaccomplished."
+- (ii) §III's fusion dating: the 2002 self-discipline pact as the
+  first instrument, 2020–23 as the Gregorian moment against the
+  domestic orders.
+- (iii) "Fusion"/"fused" for the Chinese church renamed to avoid
+  the MCF collision (Cheung) — "ruled as departments" or
+  "absorption by discipline"; applies also to C4-1 and ch11 §VI.
+- (iv) Scott named at the book's first use of "legibility"
+  (Introduction) and this chapter's §IV casual use reworded.
+- (v) The root contest of 1998 enters §V by name as the first
+  completed investiture case; ICANN enters §VI (or ch12 §III) as
+  the Sforza form on the record.
+- (vi) Krasner's authority test run once, in §I or §III, by name.
+
+STATUS: PENDING HUMAN REVIEW (this entry); the memo body REVIEWED
+as before.
