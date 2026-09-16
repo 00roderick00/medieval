@@ -1626,3 +1626,747 @@ STATUS: REVIEWED (Roderick, 2026-07-23) — cleared for drafting
       bridge must carry (the composite-monarchy and print
       disanalogies belong to ch11/ch12).
 
+
+31. **(2026-09-16 — catch-up run STEP 3: Ertman, *Birth of the
+    Leviathan* (1997), from the assessment; every pin opened in the
+    sidecar this date (sources.md block of this date). PENDING HUMAN
+    REVIEW.)** Draft wordings quoted are the CURRENT draft's after
+    Revisions 30; nothing applied.
+    - **CONFIRMS (a — T2).** §III's dated sequence — "1439 the claim
+      to the monopoly of force" — is his p. 86–87 (the Estates
+      "outlawed the private recruitment of troops and seigneurial
+      tailles, in effect creating a royal monopoly of both coercion
+      and taxation"). §III's first, reversed, making — "Charles V had
+      done it in the 1360s … the levies were abolished on his deathbed
+      in 1380" — is carried by Ertman from Henneman DIRECT (p. 73),
+      where the draft carries it "through Hoffman (Hoffman 2015: 135)":
+      the Henneman limb of the draft's dependence on Hoffman can be
+      re-pinned to Ertman at renovation. §III's "It was simply not
+      consulted, year after year, until non-consultation was the
+      constitution" is his p. 96 ("de facto right to alter the level
+      of taxation without consulting either the Estates General or any
+      other national representative body") and p. 92 (Major on
+      Commynes: the king "after 1440 to abandon his policy of frequent
+      convocations"). §III's "no Estates General met again until 1560"
+      is his pp. 92–93 verbatim. §I's "subordinating, not eliminating"
+      gains p. 92 (the landscape "riddled by seigneurial and
+      ecclesiastical jurisdictions, a legacy of precocious state
+      formation").
+    - **CORRECTS (draft wordings quoted; not applied).** (i) §III: "The
+      tradition that Orléans also granted the king a permanent taille
+      — the familiar textbook sentence — is carried here as … a
+      tradition, held at tertiary strength until the text and the
+      fiscal historians are in [GAP: Wolfe; Henneman; Major]." Ertman
+      p. 73, citing Henneman 1976: 309–10, carries a ONE-YEAR grant
+      "to support a standing army", continued because the army
+      continued. This neither restores the textbook permanent taille
+      nor sustains the negative as the draft phrases it: granted once,
+      for a year, never asked for again. "Collected forever, granted
+      never quite at all" needs "granted once, for a year" beside it.
+      The Henneman limb of the flag is PART-CLOSABLE AT RENOVATION at
+      T2 one remove; the ruling's "settlement of 1439 to 1446" is
+      strengthened, not touched. (ii) §III: "The crown inherited from
+      the 1350s a lattice of *élus* sitting in *élections*" — the
+      élus "were initially named by the Estates General, but by 1360
+      had come under royal control" (p. 76): the lattice was the
+      Estates' instrument, captured. Sharper, not weaker; one clause.
+      (iii) §VII: "the success became the template Europe copied for
+      three centuries" — what the latecomers copied was the offices;
+      the venality they refused by name (p. 244). "Template" must be
+      narrowed.
+    - **ADDS (the largest gap in Part II, and a stated defect of the
+      settlement for §III).** The manuscript never uses "venal",
+      "proprietary office" or "sale of office" for France. Ertman: the
+      fifteenth-century administration "dotted with clans and dynasties
+      of officials who treated their offices as their own property"
+      (p. 81); the crown's lenders "these and other officials, rather
+      than … bankers or large-scale tax farmers" (p. 76); "the price
+      that they paid for this precocity was a substantial loss of
+      effective control to proprietary officeholders, tax farmers, and
+      officeholder-financiers" (p. 28); the compagnies as magnate
+      patronage under the governors (p. 94). To §III–IV by name: the
+      artillery state's revenue administration was proprietary from the
+      start. Also: the Recess of 1653 with figures (p. 246) as the
+      footnote the Hoffman entry (Revisions 28) wanted; Matyas Hunyadi
+      (p. 31) as a candidate fifth counter-case for §VI — apparatus
+      without an irreversible fisc, reversed by the Diet on the king's
+      death — offered, not adopted: the outline's four are the
+      chapter's and a fifth is Roderick's.
+    - **CONTRADICTS (the third link): critiques Revisions 11.** Ertman
+      concedes the gun and the fisc and takes the administrative link:
+      his France consolidated its magnates and lost its apparatus to
+      an intermediary stratum of officeholders. The answer — the
+      mechanism claims COLLECTING capacity and the subordination of
+      ARMED intermediaries, not Weberian rationality — is good only
+      once written down; it costs the concession that the settlement
+      bred a new rent-taking stratum, and that the officeholder-financier
+      lending the crown its own revenue is the nearest fifteenth-century
+      form to the platform that licenses its stack to the state.
+      DOCTRINE NOTE for Roderick (assessment §6): CLAUDE.md §2's
+      "administrative capacity" wants a gloss — capacity to assess,
+      collect and pay at campaign tempo — against p. 154. Recorded, not
+      resolved.
+    - **For Part B.** The venality limb is the Part B draw for §VIII's
+      platform application of command / dependence / capture: the
+      officeholder-financier is capture's fifteenth-century form.
+
+32. **(2026-09-16 — catch-up run STEP 3: Glete, *War and the State in
+    Early Modern Europe* (2002), from the assessment; pins opened.
+    PENDING HUMAN REVIEW.)**
+    - **CONFIRMS (a).** §III's vocabulary paragraph — "'Fiscal-military
+      state' is John Brewer's coinage, made for eighteenth-century
+      Britain and extended backward by later scholarship to about 1500;
+      no scholarly authority applies it to Charles VII's France" — is
+      exactly right, and Glete is that scholarship (pp. 21, 41). §VII's
+      establishment-cost answer to Hoffman is carried at T2 in
+      transaction-cost form: "Heavy guns were capital goods, and mobile
+      siege artillery required a permanent organisation of skilled men
+      … This gave the state a comparative advantage in violence
+      control" (p. 65); §IV's before-state — guns "widely dispersed in
+      late medieval society", the heavy ones "usually provided by the
+      state" (p. 11); the reconquest "Efficient siege artillery was
+      important in these victories" (p. 19). §I's "subordinating, not
+      eliminating" is his "transformed rather than suppressed" (p. 7).
+      Objection 6 gains his own verdict on Tilly (n. 28, p. 227; p. 49).
+    - **CORRECTS (not applied).** (i) §II: "the tradition's figure of
+      fifty-eight companies and some 24,000 men by 1483 is carried here
+      at tertiary level, flagged" — Glete p. 32: "Its nominal size
+      varied from 14,000 to 17,000 men. Temporary war efforts in that
+      century brought the force up to 40,000 to 45,000 men." With
+      Parrott p. 30 (Revisions 21), two T2 authorities now stand
+      against the figure: RE-SOURCE OR CUT. (ii) §VI: "Venice had the
+      centre and the capital without the apparatus, and a navy that ran
+      out of men before it ran out of money" — Glete p. 13: Venice "had
+      a large permanent and state-administered navy and may in terms of
+      permanent armed force have ranked number one in Europe in 1500."
+      Lane's "almost no bureaucracy" is not "no apparatus": Venice had
+      the permanent naval organisation and lacked the fiscal-
+      administrative penetration. One clause.
+    - **THE CLOCK, to be met by name (critiques Revisions 10).** §III
+      calls the French 1440s "the coupling's first full demonstration";
+      Glete dates the type to 1560–1660, "practically unknown in 1500"
+      (p. 41), 1480–1560 "largely an embryo" (p. 21), France's "early
+      but very limited permanent French forces practically disappeared
+      in the long civil war period (1562–98)" (p. 39), Colbert the
+      architect (p. 28). His yardstick is for ARMIES retained at peace
+      (p. 39); the chapter's ratchet is fiscal and constitutional — the
+      assemblies' and magnates' power to reverse the settlement (§8(a),
+      2 September). The Wars of Religion hollowed the crown's collection
+      without restoring the Estates' consent, which is the ratchet's
+      object. The chapter cannot use his word without meeting his clock
+      in text: proposal, §III's vocabulary paragraph gains two
+      sentences naming Glete and stating the army/fisc distinction, and
+      "first full demonstration" is qualified to "the coupling's first
+      complete run — not, on Glete's yardstick for standing armies, the
+      first fiscal-military state".
+    - **ADDS.** The navy as the ratchet's second element (p. 65: the
+      heavier ordnance "could only be carried by special warships … less
+      economic as merchantmen" — artillery afloat made the warship
+      non-dual-use as it made the wall obsolete) and as the objection
+      Tilly's naval limb raised (Revisions 34): the earliest permanent
+      forces arose "for imperial defence (outside the metropolitan
+      territory) in the Mediterranean" and the earliest navies "on the
+      European periphery" (p. 39) — the state-owned decisive
+      organisation appearing first where no wall was broken. The
+      chapter's Tilly answer must say whether the compute stack behaves
+      like artillery or like the navy that sustained the Dutch; §VIII
+      is the place, and the Coda's method note should read spine
+      §8(a)'s "the ratchet" as its French form. Recorded for Roderick —
+      it reaches the wording of §8(a), not its substance.
+    - **For Part B.** "core or system competencies … highly specific for
+      such a complex and policy-determined military system" against
+      what "is easier to specify in a formal contract with an
+      entrepreneur" (p. 131) is the T2 vocabulary for dependence — what
+      a state may license out and what it cannot.
+
+33. **(2026-09-16 — catch-up run STEP 3: Stasavage, *States of Credit*
+    (2011), from the assessment; pins opened in the EPUB sidecar (no
+    printed pagination — every quotation to be re-pinned before it
+    enters a draft). PENDING HUMAN REVIEW.)**
+    - **CONFIRMS (a).** §III's "It was simply not consulted" has its
+      credit-side twin: the crown "spent 50,000 livres tournois
+      indemnifying the deputies to the Estates General of 1484" (ch. 3,
+      part0010_split_001, on Major 1955) — the assembly the crown had to
+      pay to convene; and the assemblies France dispensed with were, on
+      his evidence, useless for credit — a veto assembly did nothing
+      for borrowing in his regressions, the control-right assemblies
+      being "Holland, Great Britain after 1688, and Württemberg" only
+      (ch. 3, part0010_split_002), and the Estates of 1576 proposed
+      default and the sale of church lands (ch. 7, part0014_split_004).
+      §VI gains the defender's ledger — Ehrenberg's cities forced by
+      fire-arms into fortification and credit (ch. 2, part0009_split_001)
+      and Cologne borrowing against Neuss "more in two years than it
+      had borrowed in the preceding half-century" (ch. 6,
+      part0013_split_002).
+    - **CORRECTS (not applied).** §III implies, without saying, that
+      the settlement of 1439–46 was a fiscal state in the full sense.
+      Stasavage: "no territorial states had yet created long-term
+      debts" before 1500 (ch. 2, part0009_split_003); France's first
+      long-term loan is 1522 (Table 2.1); "territorial rulers did not
+      establish a long-term debt earlier because no one was willing to
+      lend to them on such terms" (ch. 1, part0008_split_002). The
+      artillery state ran seventy-six years without a funded debt and
+      acquired one by the Paris route, as far as the bureau de ville
+      could see. The chain is weapon → PERMANENT TAXATION →
+      administration → subordination; §I locates the state "in the
+      recurring transaction", and the transaction was the taille
+      collected, not a bond sold. One honest sentence is owed in §III:
+      the train was financed on tax and short-term merchant credit; the
+      funded debt came two generations later by a different route.
+      Krasner p. 221 (sources) carries the same caution from the IR
+      side. §VI: Venetian credit outlived Venetian power ("into the
+      eighteenth century", ch. 2, part0009_split_004) — the fiscal leg
+      fully present, consolidating nothing — strengthens the
+      counter-case and should be said.
+    - **THE SPINE-TOUCHING CHECK — recorded, not resolved; Roderick's.**
+      Spine §8(a) (2 September ruling): "No Estates General met again
+      until 1484, and when it did the machine survived it." Draft §III:
+      "At the Estates of Tours in 1484 — the first Estates General in
+      decades" and "the assemblies', not summoned again for nearly
+      forty years, their one reassertion absorbed." Stasavage, ch. 7
+      ('National Institutions for Creditor Representation',
+      part0014_split_004), on Blockmans 1998 (his n. 14): "At the
+      conclusion to the 1468 meeting, the assembled Estates actually
+      stated that they could not meet as frequently as in the past."
+      Ertman p. 92 says the king abandoned "his policy of frequent
+      convocations" after 1440 — abandoned, not ended — and his n. 137
+      sends to Major 1960: 151 for the count of meetings of the Estates
+      General and of Languedoïl. If a general Estates met at Tours in
+      1468 (the Public Weal's aftermath), the draft's "first Estates
+      General in decades" survives (sixteen years) and "nearly forty
+      years" does not; the ruling's sentence would need "no Estates
+      General with a fiscal grant" or a similar narrowing. To be
+      verified in Major 1960 (RETRIEVAL) before any wording moves;
+      nothing here touches the ratchet's substance — a 1468 assembly
+      that granted nothing is the ratchet demonstrated, not reversed.
+    - **ADDS.** The "muted" thesis and the scale argument as the third
+      rival frame for §VII beside Tilly and Hoffman (critiques
+      Revisions 12); the modern-communications sentence (ch. 1,
+      'Introduction': scale "no longer as much of an obstacle") for
+      §VIII — the legibility stack abolishes the distance that beat the
+      bureau de ville, but the information flows to the centre. Bean
+      (1973) named in his ch. 1 n. 3 as "the clearest exposition" of
+      the scale-and-technology argument — a second pointer to the
+      RETRIEVAL row.
+
+34. **(2026-09-16 — catch-up run STEP 3: Tilly 1975 ch. 9 and Tilly
+    1985, from the assessment; Bean 1973 at second hand. The
+    Normandy-census half of this entry is ch06 memo Revisions 30 —
+    cross-referenced, not duplicated. PENDING HUMAN REVIEW.)**
+    - **CONFIRMS (a).** §I's "subordinating, not eliminating: no
+      European state, on Tilly's reckoning, seriously attempted direct
+      rule from top to bottom before the Revolution (Tilly 1990: 25)"
+      gains a second pin — "every European government before the
+      French Revolution relied on indirect rule via local magnates"
+      (1985, Violence and Government, para 10). §III's cost-drives-
+      apparatus is his: "The more costly the activity, all other things
+      being equal, the greater was the organizational residue" (What Do
+      States Do?, para 5). The chain's second and third links are
+      Tilly's sentences; only the first is not. The 1975 method
+      sentence — relationships among variables travel, sequences do not
+      (p. 601) — is the licence for §VIII's bequest to Part III.
+    - **CORRECTS THIS CHAPTER'S APPARATUS (critiques Objection 6, quoted;
+      not applied).** "And Tilly was deliberately technology-agnostic —
+      his cycle runs on war-making in general, and he distrusted
+      technological determinism; narrowing the engine to one gun train
+      is precisely the move his framework warns against." Neither limb
+      survives the text. Tilly read the artillery thesis in Bean and
+      REJECTED it, on chronology: "Bean's summary does not stand up to
+      historical scrutiny. As a matter of practice, the shift to
+      infantry-backed artillery sieges of fortified cities occurred only
+      during the sixteenth and seventeenth centuries … The arrival of
+      effective artillery came too late to have caused the increase in
+      the viable size of states" (History Talks, paras 1–2). And the
+      slogan Objection 6 cites from the 1990 book is not in the
+      retrieved chapter (it is the 1975 volume's ch. 1, p. 42, uncited
+      at page); the pinnable near-equivalent is "War makes states, I
+      shall claim" (1985, Warning, para 8). §VII currently names Rogers,
+      DeVries, Curry, Hoffman, Cerny; it names neither Bean nor Tilly.
+      The chapter must answer a verdict, not fill a silence.
+    - **THE REBUILT ANSWER (critiques Revisions 9; three limbs, graded
+      there).** (i) Chronology — answered by ch06's 1449–50 census of
+      infantry-backed artillery sieges of fortified places, which Tilly
+      does not name (cross-reference, not restatement). (ii) The trace
+      italienne — absorbed: his own parenthesis, "the increased cost of
+      fortifications to defend against artillery did give an advantage
+      to states enjoying larger fiscal bases", is the mechanism in
+      miniature, and McNeill pp. 90–91 (Revisions 35) carry the
+      two-sided answer. (iii) THE EXPLANANDUM — Bean's claim was the
+      geographic SIZE of states and Tilly's refutation is aimed there
+      ("render ambiguous the claim of a significant increase in
+      geographic scale"); this book's claim is the closure of the
+      sub-state path to decisive force and the permanence of the fisc,
+      on which Tilly concedes: "After 1400 the European pursuit of
+      larger, more permanent, and more costly varieties of military
+      organization did, in fact, drive spectacular increases in
+      princely budgets, taxes, and staffs" (para 3). Obligation: §VII
+      cites Bean (*JEcH* 33, 1973 — RETRIEVAL) and says in one sentence
+      that it is not Bean's claim. Left weak, as in ch06: the NAVAL
+      limb ("could well have shifted the military advantage to small
+      maritime powers such as the Dutch Republic") — Glete's navies
+      (Revisions 32) are where the book must say whether the compute
+      stack behaves like artillery or like the navy.
+    - **ADDS.** Gerhard's "the high cost of artillery … and the ensuing
+      domestication of the nobility" (Violence and Government, para 8)
+      as a dated footnote: the gun is in Tilly's disarmament story, two
+      centuries late. SPINE NOTE for Roderick, as ch06 recorded it:
+      §8(a)'s "not war-made-the-state in general" understates the gap
+      — not "Tilly omits the gun" but "Tilly dates it after 1648 and
+      lets Gerhard carry it, having rejected Bean's fifteenth century".
+      Recorded, not resolved.
+    - **For Part B.** Tilly 1985's protection-racket vocabulary is not
+      the (x) triad's; no collision.
+
+35. **(2026-09-16 — catch-up run STEP 3: McNeill, *The Pursuit of
+    Power* (1982), from the assessment; ch06 memo Revisions 29 holds
+    the Normandy uses and the vocabulary caution — cross-referenced.
+    PENDING HUMAN REVIEW.)**
+    - **CONFIRMS (a).** §VII's turn from weapon price to establishment
+      has McNeill's direction — the ruler "able to afford" enhanced "at
+      the expense of neighbors and subjects" (p. 89) — with the caution
+      ch06 entered: his words are "the high cost of the new weapons",
+      the unit-cost reading this chapter has abandoned; cite for the
+      direction, never the vocabulary, and never attribute to him the
+      draft's "establishment cost of decisive force" sentence. §VI's
+      Swiss counter-case gains p. 118 n. 1 ("If Charles the Bold had
+      been able to bring his artillery to bear against the Swiss in
+      1476–77, the history of Europe might have taken a very different
+      turn").
+    - **CORRECTS (not applied).** §VI: "the first formal Franco-Swiss
+      troop convention following in 1521" — McNeill p. 136 n. 18: "In
+      1479 Louis XI of France disbanded his French infantry forces and
+      made a contract with the Swiss instead", citing Contamine,
+      *Guerre*, p. 284 — which is Contamine 1972, IN REPO: verify at
+      p. 284 and carry 1479 as the first contract, 1521 as the formal
+      convention if Contamine so distinguishes. CLOSABLE AT RENOVATION
+      from a work already in the chapter's sources.
+    - **ADDS (the answer the chapter has not yet given).** (i) THE
+      TRACE ITALIENNE, for §IV's close (which stops at 1494) and for
+      §VIII: "Only the wealthiest states and cities could afford the
+      scores of cannon and the enormous labor of construction required
+      by the trace italienne" (p. 90); "high technology once again
+      favored local defenses, at least in those regions where
+      governments could afford the cost of the new fortifications …
+      This put a very effective obstacle in the way of the political
+      consolidation of Europe into a single imperial unity"; "Imperial
+      consolidation halted halfway" (p. 91). The guns consolidated
+      inside the polities that could pay; the bastion froze the map
+      between them — "three or four blocs" as sixteenth-century
+      mechanism, and the migration-of-threshold answer to Tilly's
+      second limb (Revisions 34), by name. (ii) THE VENICE-FIRST
+      OBJECTION (critiques Revisions 14): civil control of organised
+      force was solved by Italian contract administration "during the
+      first half of the fifteenth century" (p. 75), the transalpine
+      states catching up at the Fronde (p. 125). The concession
+      attaches to §VI's Venice paragraph and §VII's "one success": the
+      administrative achievement was Italian and earlier; the guns added
+      scale and the end of the small sovereign — "the sovereignty of
+      mere city-states, however skillfully managed, could not
+      permanently be maintained" (p. 79) — not the invention of civil
+      control; the ratchet defined that narrowly survives him. (iii)
+      THE TWO-STAGE CLOSURE, for §VII's "irreversible": the assemblies'
+      and magnates' power closed in the 1450s (the ruling's object);
+      the popular tax revolt "until after the middle of the seventeenth
+      century" (p. 105) and after drill (p. 139) — §VII must not let
+      "irreversible" imply both. (iv) LIÈGE, for §VIII's Part B and
+      ch12: the gunmakers "set their own prices. Even the mightiest
+      rulers had to pay what was asked, or do without" (p. 113); "the
+      sovereignty of the market over even the greatest ruler of the age
+      remained an ultimate reality" so long as refuges existed (p. 114).
+      The barons went first and the gunmakers held their price for two
+      centuries: the lag the platform settlement must carry as a stated
+      risk — the foundry layer keeps its price after the private-force
+      layer is commissioned. (v) Bean's revenue doubling 1450–1500 at
+      second hand (p. 105 n. 35) — the one establishment-level number
+      he carries; Bean to RETRIEVAL.
+    - **For Part B.** Liège and the refuges (pp. 113–14): dependence
+      with jurisdictional exit as its condition; the bloc settlement as
+      the closure of exit inside the bloc.
+
+36. **(2026-09-16 — catch-up run STEP 3: Chastellain, *Œuvres*, ed.
+    Kervyn, tome III (1454–58), from the assessment; pins opened in
+    the vol15 OCR sidecar (page-image re-verification before print).
+    PENDING HUMAN REVIEW.)**
+    - **THE ONE EXISTING CITATION — NOT VERIFIED, AND CANNOT BE FROM
+      THIS TOME.** §V: "The image of the king as spider … is Burgundian
+      propaganda: Chastelain's image, in a ballade of 1467, generalised
+      by Molinet as 'l'universelle aragne'." Tome III runs 1454–58; no
+      form of the word occurs in it (full-text search this run). The
+      pin stands as [PIN PENDING — Kervyn tome to identify] (RETRIEVAL
+      row 20); the spelling "Chastelain" → "Chastellain" per CLAUDE.md
+      §8 (Kervyn's edition and every entry in this repo). Not a
+      closure; a flag to be added at renovation.
+    - **CONFIRMS (T1, at the page).** §VI's "Burgundy instituted a
+      dedicated *recette de l'artillerie* in 1458, its accounts
+      auditable at the Chambre des comptes of Lille" is not contradicted
+      and gains its context: Chastellain places the new financial
+      officers inside a general reform after chancellor Rolin's fall —
+      "créèrent six souverains gouverneurs sur le fait des finances …
+      mirent sus réformateurs sur tous les pays et sur toutes gens
+      officiers … là où de tous lez on tiroit argent" (p. 335 / PDF
+      345) — which the draft should carry as the setting of the office
+      it cites.
+    - **ADDS (three T1 passages for §VI's two-variable finding, fourteen
+      years before the ordinances the draft cites).** (a) Franche-Comté,
+      1454: the nobles "si francs que leur prince ne peut tailler leurs
+      subgès sinon de leur consentement, et encore quant ils
+      consentiront … sy en tourne le tiers ou une grande portion devers
+      eux, qui redonde en leur bourse" (p. 13 / PDF 23); the grant
+      conditional on the crusade sailing, the sum blank. (b) The 1457
+      reform, above. (c) The 1458 mobilisation against the king: the
+      duke asked Brabant for "point d'argent, ni finance, mais service
+      corporel … de six sepmaines à leurs despens … les bonnes villes …
+      avecques leur artillerie, et les gens d'esglise … en contribution
+      de deniers pour payement des saudées, car touchoit la chose à
+      nécessité publique" (p. 451 / PDF 461). The richest prince in the
+      north defended himself by service and communal guns, not a
+      taille-paid standing force: "offices without a permanent fisc" at
+      T1. One sentence in text, the rest in notes.
+    - **ADDS (for §VIII — the dependence term's T1 anchor).** Ch. LXI:
+      the duke seized the Lombard banks after the Bruges flight,
+      confiscated, fined and put every bank in his lands to composition
+      — and then "tous les pays et les bonnes villes furent longuement
+      sans avoir nuls Lombars pour prester, là où le peuple toutevoies
+      … se peut mal passer de eux. Et par ainsi, le duc enfin estoit
+      constraint de les y remettre par la nécessité publique" (p. 316 /
+      PDF 326). Coercive superiority without a substitute for the
+      function, in the century's own word, *constraint* — two centuries
+      before the Stationers and the Arsenal. Two precisions travel with
+      it: the punishment was for a failure and a flight, not for
+      lending; and the state profited from the seizure before
+      dependence forced the restoration — extraction as a third motive,
+      which strengthens §8(g)(4) and must be carried or the passage
+      flatters the state.
+    - **CORRECTS:** nothing else; no Burgundian date or sequence in the
+      draft is contradicted. The Alençon reservation (p. 486) is
+      ch11 §VII's; here one clause at most.
+    - **For Part B.** "Nécessité publique" (p. 316) with the extraction
+      that preceded it: dependence's anchor, and the reminder that the
+      dependent state takes its cut before it restores the supplier.
+
+37. **(2026-09-16 — catch-up run STEP 3: Commynes, ed. Calmette, tome
+    III (1484–98), from the assessment; pins opened; the citation
+    audit. PENDING HUMAN REVIEW.)**
+    - **AUDIT.** Not one of the draft's Commynes pins falls in this
+      tome: the Montlhéry superlative (§V, DeVries 1998: 137–38), the
+      Louis XI judgement (§V, Scoble I.x) and the Burgundian artillery
+      (§VI, DeVries 1998: 138) are Livres I–III = Calmette tomes I–II,
+      not in repo — the Scoble and DeVries pins stand, legitimately,
+      until the tomes arrive (RETRIEVAL row 18). The revenue arc §III
+      carries from Vale ("Commynes, ed. Calmette, ii. 220") is tome II
+      and waits with them. Calmette's Additions (p. 318) locate the
+      Montlhéry artillery discussion at tome I p. 46 n. 1 and add
+      Perroy 1925 (RETRIEVAL row 19) — a dedicated T2 article on the
+      royal artillery at Montlhéry for §V.
+    - **CORRECTS (not applied).** §III: "the taille was granted for two
+      years only and cut to some 1.5 million" (tertiary, flagged
+      inline). The participant states the Tours grant as "douze cens
+      mil frans et par forme de taille, oultre son domayne" (p. 304 /
+      PDF 310). Not a flat contradiction — the draft's figure may
+      include the additional grant above the taille proper — but the T1
+      witness says 1.2 million *par forme de taille*; reconcile at
+      renovation and pin the primary. RE-SOURCE.
+    - **CONFIRMS / ADDS (the 1484 test at T1; the 1494 close at T1).**
+      §III's "The machine absorbed the cut, outlived the assertion" is
+      proven from the primary at p. 304: 1.2 million granted in 1484;
+      the domain "passe ung milion de francs"; "le peuple, qui paie au
+      jour d'uy plus de deux milions et demy de francs de taille" in
+      1498. The taille's own line (the [GAP: Wolfe] at §III) gains its
+      two later endpoints at T1 — PART-CLOSABLE for 1484 and 1498; the
+      arc under Charles VII and Louis XI still awaits tome II and
+      Wolfe. §IV's close ("On the night of 31 December 1494, Charles
+      VIII's artillery entered Rome … Giovio, via Contamine 1964: 221")
+      rests entirely on Contamine carrying Giovio; tome III supplies
+      the eyewitness layer: "ilz n'entendoient point le faict de
+      l'artillerie, et en France n'avoit jamais esté si bien entendue"
+      and Mordano "batue que demy jour" (p. 50); Monte San Giovanni
+      "sept ou huyt heures" (p. 92); "hors le chasteau de Napples, n'y
+      eut nul qui empeschast le roy ung jour naturel" and the chalk in
+      the quartermasters' hands (p. 81); Asti to Naples in "quatre
+      moys, dix et neuf jours" (p. 82); fourteen great pieces over the
+      Apennines and "ne se perdit une seulle pierre ne une livre de
+      pouldre" (pp. 161, 210–11) — the train as apparatus, pairing with
+      §IV's 1477 Artois accounts; "nostre artillerie, qui, à la verité,
+      passe toutes les artilleries du monde" (p. 285). Commynes BY NAME
+      in §IV's prose: the book's one resident eyewitness of both courts.
+    - **THE DISANALOGY, carried proudly (CLAUDE.md §6; critiques
+      Revisions 17).** Fornovo: "je ne croy point que l'artillerie des
+      deux costéz tuast dix hommes et ne dura point le combat ung quart
+      d'heure" (p. 192). The first field trial of the train killed
+      fewer than ten men — decisive at the walls and the exchequer, not
+      on the field, which is ch06's architecture restated by a T1
+      witness. And the caution: the expedition's CASH was borrowed —
+      "cent mil francs du banc de Soly à Gennes, à quatorze pour cent"
+      (p. 3), jewels pawned (p. 37) — while the standing train and the
+      compagnies were the tax-financed product; campaign cash-flow v.
+      standing capability is exactly ruling (aa)'s "money collected, not
+      money planned", and Commynes's own explanation is God, not the
+      généralités ("s'il ne fust venu de Dieu seul", p. 81). §IV must
+      say the mechanism is the historian's frame, not the witness's.
+
+38. **(2026-09-16 — catch-up run STEP 3: Scott, Krasner and Schmitt —
+    the period cautions and the rival cause that enters critiques
+    only. PENDING HUMAN REVIEW.)**
+    - **Scott (T2; §III and §VIII footnotes).** CONFIRMS the legibility
+      limb of the chain at T2 (pp. 2, 44, 65) and the surname/catasto
+      cases in the chapter's period (pp. 66, 68). CORRECTS nothing
+      factual. THE PERIOD CAUTION: his fiscal matter is
+      seventeenth–eighteenth-century (the taille "frequently not paid at
+      all" is Collins on absolutism, p. 23); he is authority for the
+      legibility MECHANISM, not for 1439–46 — and his own chronology
+      supports the spine's sequence: the crown taxed permanently for
+      three centuries before it could see, the premodern fisc "all
+      thumbs and no fingers" (pp. 23–24). Extraction preceded
+      legibility; legibility perfected it. Stated so, Scott strengthens
+      §III's before-state rather than complicating it. VOICE: the
+      acknowledgement of his coinage belongs at the Introduction's
+      first use; this chapter's casual "legible" (§V, "the test's
+      result is legible") should be reworded so the term of art stays
+      one.
+    - **Krasner (T2; §III footnote).** "It was only in the nineteenth
+      century that the major European governments developed
+      sophisticated national systems of finance including revenue
+      collection" (p. 221, citing Tilly): §III claims permanence and
+      collection, not sophistication — with Stasavage (Revisions 33) the
+      second caution that the settlement of 1439–46 is a tax state, not
+      a finance state, and should be called one.
+    - **Schmitt (T2; critiques only — Revisions 13).** His account of
+      where the state came from has no cannon and no fisc: the
+      bracketing of war "arose solely from the emergence of a new
+      spatial order" (p. 140) plus detheologisation. NOT to enter §VII
+      text; the critiques carry him as the named spatial-legal rival
+      cause, answered — his agents ("unified central governments and
+      administrations", p. 140) presupposed and never explained, his
+      epoch beginning after the 1440–1500 consolidation. The Großraum
+      fork and the provenance disanalogy are ch12's.
+
+39. **(2026-09-16 — catch-up run STEP 3: Farrell and Newman (article
+    and book), Goldsmith and Wu, Crouch — the (x) vocabulary check and
+    the Part B draw. PENDING HUMAN REVIEW.)**
+    - **THE CHECK THE DRAFT LEFT OPEN.** §VIII's marker: "[PART B — (x)
+      platform application pending: command-with-dependence as the
+      predicted form of the platform settlement, capture as its named
+      risk, Farrell and Newman once assessed; the three terms are not
+      claimed as the chapter's coinage until checked against their
+      vocabulary.]" Checked this run against both texts: Farrell and
+      Newman's terms are weaponized interdependence, hub, the
+      "panopticon effect" and the "chokepoint effect" (2019: 55–56);
+      none of command, dependence or capture is theirs; the book does
+      not contain "panopticon". The triad does not collide with them.
+      It DOES have a partial pedigree in Crouch, *Post-Democracy*:
+      dependence (the state "forced to sub-contract further and then
+      buy consultancy services", assessment p. 17) and capture
+      ("policy-making machinery has itself become endogenous to the
+      problem of the power of the corporate elite", p. 34); command is
+      not his. LEDGER VERDICT (voice rule, CLAUDE.md §8): the triad may
+      be claimed as this chapter's ONE coined concept only with
+      Crouch's two terms acknowledged and the third stated as the
+      book's; the draft's ledger currently reads "coined concept — none
+      coined" and would have to change. Register decision 10-j.
+    - **CONFIRMS (T2; §VIII).** Bratton's "few, ruinously expensive
+      chokepoints" has its peer-reviewed twin — "key global economic
+      networks have converged toward 'hub and spoke' systems" (2019:
+      49) — and "chokepoint" is, since 2019, their term of art;
+      unattributed use beside Bratton risks a reviewer's marginal note:
+      footnote at renovation. Their scope condition — "States need both
+      leverage over network hubs and appropriate institutions" (p. 75;
+      the "central expectation" at p. 58) — is the chain's
+      administrative link restated in modern IR: position without
+      apparatus is impotent.
+    - **THE CONCESSION §VIII OWES (not yet in the draft).** "The
+      asymmetric networks … were not constructed as tools of
+      statecraft" (2019: 54): the panopticon and chokepoint powers
+      accrued to the state by jurisdictional inheritance, without new
+      taxation. Goldsmith and Wu (2006) show the same for the
+      legibility layer — re-territorialised by cheap coercion of local
+      intermediaries ("cost and bother, not … hermetic seal", p. 68;
+      "threats directed at ISPs themselves", p. 97) by 2006, before the
+      artillery mechanism ran. The fiscal threshold is therefore
+      defended on the DECISIVE stack, not on the coercion channels, and
+      §VIII's tense must be LAYERED: accomplished for canon and
+      register, compelled and unaccomplished for the decisive layer — a
+      register amendment to spine §7's tense rule, recorded for
+      Roderick (it is ch12's to carry; this chapter's §VIII must not
+      contradict it).
+    - **ADDS — the first platform instance of command with dependence
+      (Part B).** China's command rested on foreign supply: "the modern
+      'Great Wall of China' is, in effect, built with American bricks"
+      (Goldsmith and Wu 2006: 93); Microsoft and Yahoo running "an even
+      more sophisticated program of internal information control within
+      China" (p. 95). Command with dependence on a rival bloc's
+      suppliers, 2005 — the configuration §VIII predicts for the
+      platform settlement, already run once; its reversal is §VIII's
+      export-control record. Deputisation as the informal phase of
+      regulation-of-the-switch — Circle, Alchemy and Infura "vassals of
+      the sovereign", Buterin's "deputized" (Underground Empire, ch. 5)
+      — is the evidence base for command; the panopticon/chokepoint
+      pair maps onto legibility/revocation, and their map-then-cut
+      sequence supplies the ordering §VIII's argument already implies.
+    - **For Part B.** The Hoffman private-budget inversion (critiques
+      Revisions 5, still open) and Farrell and Newman's "free power"
+      are the same objection from two sides; the Part B paragraph must
+      answer both with the category distinction (economic coercion v.
+      decisive force) and the layered tense.
+
+40. **(2026-09-16 — catch-up run STEP 3: Cheung, *Innovate to
+    Dominate* (2022), from the assessment; pins opened (three PENDING
+    VERIFICATION at sources). PENDING HUMAN REVIEW.)**
+    - **CONFIRMS (T2; §VIII).** The foundry line inside the security
+      perimeter — the Big Fund of October 2014, "RMB 139 Bn (US$22.6
+      Bn)" raised, an MCF-lite fund with CETC and China Mobile among
+      its holders (p. 130); the denial regime's Chinese reception — Liu
+      He on "the threat of having its neck choked (卡脖子, qiabozi)"
+      (p. 301). The American diagnosis from a China specialist: the top
+      five technology firms "spent ten times more annually on R&D than
+      the top five US defense prime contractors" (p. 291) — the
+      frontier-lab anomaly §VIII states from SIA/BCG, now with a series
+      behind it.
+    - **CORRECTS (for the ranking §VIII carries — "Two polities clearly
+      carry all four lines: the United States and China"; not
+      applied).** Cheung's verdict on the move that puts private
+      capability into the decisive stack is the reverse of "clearly":
+      private firms enter only by licence, the state monopolies keep
+      "an iron grip" on category-1 licences (pp. 114–15), and "the
+      approximately three thousand firms that have been signed up into
+      the defense acquisition system represent a participation rate of
+      just 2.3 percent … an underwhelming achievement for twenty years
+      of effort" (p. 116). The answer (assessment, graded real): China's
+      consolidation is LAYER-SPECIFIC — complete at canon,
+      subordination and legibility; inherited at foundry-munitions-orbit,
+      where the state's own monopolies are the over-mighty subjects;
+      unexecuted at the private-tech-to-defence seam. §VIII's sentence
+      needs that qualifier; ch12 §IV carries the full rewrite.
+    - **CONTRADICTS (critiques Revisions 15).** The consolidator
+      consolidated before the price moved: "The concrete security
+      environment that China faced in the early 2010s had not radically
+      deteriorated, but the way its new leaders perceived the situation
+      had significantly altered" (p. 56) — the state built 2013–17 for
+      regime security, re-tasked by the chokepoint from 2018. Concede
+      and split: the mechanism explains the stack's direction from
+      2018, not the state's origin in 2013; it costs China its status as
+      the clean instance.
+    - **For Part B.** The Chinese case for the triad: command over
+      domestic firms by statute; dependence on foreign chokepoints
+      (Table C.5, PENDING VERIFICATION at page); and a form of capture
+      the triad does not yet name — capture of the consolidator's
+      policy by its own state-owned monopolies, the great officers of
+      the household rather than any private baron.
+
+41. **(2026-09-16 — catch-up run STEP 3: flags in ch10/draft.md checked
+    against the 14 September works; the works that place nothing here.
+    PENDING HUMAN REVIEW.)** Nothing edited in the draft.
+    - **[GAP: Wolfe; Henneman; Major] (§III, the Orléans taille):**
+      Henneman limb PART-CLOSABLE AT RENOVATION via Ertman p. 73 (T2 at
+      one remove; the one-year grant); Major limb PENDING RETRIEVAL
+      (row 16 — Ertman n. 137 and Stasavage n. 13 both send there);
+      Wolfe limb OPEN.
+    - **[GAP: the ordonnance's own text — Gallica pull] (§III):** OPEN;
+      untouched by this batch.
+    - **[GAP: the administrative detail … awaits Wolfe] (§III, the
+      élus):** OPEN; Ertman pp. 76, 85 supply the capture of the élus
+      at T2 one remove — a sharpening, not a closure.
+    - **[GAP: the taille's own line awaits the fiscal historians —
+      Wolfe] (§III):** PART-CLOSABLE for the 1484 and 1498 endpoints at
+      T1 (Commynes t. III p. 304); the arc under Charles VII and Louis
+      XI OPEN (tome II; Wolfe).
+    - **"cut to some 1.5 million" (§III, 1484, tertiary flagged
+      inline):** RE-SOURCE — the T1 witness says 1,200,000 *par forme
+      de taille* (p. 304); reconcile or carry the primary's figure.
+    - **"58 companies … 24,000 men by 1483" (§II, tertiary flagged
+      inline):** RE-SOURCE OR CUT — Glete p. 32 and Parrott p. 30
+      against it.
+    - **"1521" (§VI, the Franco-Swiss convention):** CLOSABLE AT
+      RENOVATION from Contamine 1972: 284 (in repo) via McNeill p. 136
+      n. 18 — verify at Contamine.
+    - **"Chastelain's image, in a ballade of 1467" (§V):** NEW FLAG to
+      be added — [PIN PENDING — tome to identify]; spelling to
+      "Chastellain".
+    - **[GAP: pin to a Louis XI biography — Maine date] (§V):** OPEN.
+    - **[PART B — (x) platform application pending] (§VIII):** the
+      vocabulary check is DONE (Revisions 39); the marker stays until
+      Part B writes the paragraph.
+    - **Bratton scan-page pins (§VIII):** unchanged; outside this batch.
+    - **NOTHING PLACED in ch10 by their assessments** (said so; nothing
+      entered): Bagehot; Wu, *The Master Switch*. Suleyman: one
+      sentence at §IV or §VIII at most, T3 (sources pointer). Ruggie:
+      the assessment places p. 156 in §I, answered by name — entered
+      as a sources pointer; the engagement is ch01's and ch12's.
+    - **CLOSABLE (memo, not draft):** none this run.
+
+    **Register decisions proposed for the rulings sheet** (stated, not
+    recommended; the sheet's consolidated lettering is assigned at
+    STEP 4):
+    - **10-a.** §VII names Bean and Tilly: the artillery thesis was
+      adjudicated and rejected by Tilly in 1985 on chronology; the
+      chapter answers with the ch06 census by cross-reference, absorbs
+      the trace italienne parenthesis, and states the explanandum
+      distinction (Bean: the size of states; this book: the closure of
+      the sub-state path and the permanence of the fisc) in one
+      sentence. Critiques Objection 6's "deliberately
+      technology-agnostic" sentence is replaced.
+    - **10-b.** §III meets Glete's clock by name: the army yardstick
+      against the fiscal-constitutional ratchet; 1562–98 conceded as
+      the standing army's disappearance, not the consent's return;
+      "first full demonstration" qualified to "first complete run of
+      the coupling, not the first fiscal-military state on Glete's
+      yardstick".
+    - **10-c.** Venality enters §III by name (Ertman pp. 28, 76, 81)
+      as a stated defect of the settlement; "administrative capacity"
+      glossed as collecting capacity; §VII's "template Europe copied
+      for three centuries" narrowed to the offices copied and the
+      venality refused (p. 244).
+    - **10-d.** §III states the settlement as a tax settlement, not a
+      credit one (Stasavage; Krasner p. 221): one sentence on the
+      seventy-six years without a funded debt and the 1522 Paris route;
+      the assemblies dispensed with stated as useless for credit on his
+      evidence.
+    - **10-e.** §III's 1484 figures re-based to Commynes t. III p. 304
+      (1.2 million taille granted; more than 2.5 million paid by 1498);
+      "no Estates General met again until 1560" retained (Ertman
+      pp. 92–93); "the first Estates General in decades" and "not
+      summoned again for nearly forty years" held pending the 1468
+      check in Major 1960 — the spine sentence is Roderick's.
+    - **10-f.** §IV's 1494 close gains Commynes by name at T1 (the
+      chalk, half a day, eight hours, four months and nineteen days,
+      the Apennine crossing) with the Fornovo sentence quoted as the
+      field disanalogy, the campaign-cash v. standing-capability
+      distinction stated, and the witness's providential frame
+      declared.
+    - **10-g.** McNeill enters §IV/§VII by name for the trace italienne
+      answer to the fortress objection (pp. 90–91: consolidation inside
+      the polities that could pay, the map frozen between them) and for
+      the Venice-first concession (pp. 75, 79, 125), with the ratchet
+      defined narrowly (scale and the end of the small sovereign) and
+      the two-stage closure (pp. 105, 139) attached to "irreversible".
+    - **10-h.** §VI corrections and additions: the recette of 1458 set
+      in the 1457 reform (Chastellain p. 335); Franche-Comté 1454 and
+      the 1458 service mobilisation as T1 for "offices without a
+      permanent fisc" (pp. 13, 451); the Swiss contract dated 1479
+      (Contamine 1972: 284, verify); the "24,000" figure cut; Venice
+      "without the apparatus" → "without the fiscal-administrative
+      penetration", its permanent navy conceded (Glete p. 13) and its
+      credit outliving its power (Stasavage); Matyas offered as a fifth
+      counter-case (Ertman p. 31) — adopted or not, Roderick's.
+    - **10-i.** §V: "Chastelain" → "Chastellain"; the 1467 spider
+      ballade carried as [PIN PENDING] or the epithet rested on Molinet
+      alone until the tome is identified.
+    - **10-j.** §VIII Part B: the command / dependence / capture triad
+      claimed as the chapter's one coined concept with Crouch's
+      pedigree for two of the three stated and Farrell and Newman's
+      vocabulary cleared; "chokepoint" attributed to Farrell and Newman
+      2019; the panopticon/chokepoint effects mapped onto
+      legibility/revocation; the layered tense (Goldsmith and Wu)
+      carried; Chastellain's "nécessité publique" as the T1 anchor for
+      dependence with the extraction carried; Cheung's Chinese case
+      with capture-by-SOE named; the naval question (Tilly 1985 para 2;
+      Glete pp. 39, 65) answered — whether the compute stack behaves
+      like artillery or like the navy that sustained the Dutch; the
+      Liège lag (McNeill pp. 113–14) stated as a risk.
+    - **10-k.** Schmitt enters this chapter's critiques only, never its
+      text; the Großraum engagement is ch12's.
+    - **10-l.** Voice: the casual "legible" in §V reworded; Scott
+      acknowledged at the Introduction, not here; §VIII's "chokepoints"
+      footnoted.
+
+STATUS: Revisions 31–41 PENDING HUMAN REVIEW; Revisions 1–30 as
+before.

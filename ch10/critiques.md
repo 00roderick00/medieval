@@ -662,3 +662,470 @@ list; steelmen provisional; do not caricature.
      necessary; the labour and legitimacy layers can still fail
      it — price is not the only constraint, and §VIII should
      say so.
+
+9. **(2026-09-16 — catch-up run STEP 3: Tilly 1975 and 1985 read at
+   the page; Objection 6 must be rebuilt as an objection Tilly
+   actually made. PENDING HUMAN REVIEW.)**
+   - **What Objection 6 says and cannot keep saying.** "And Tilly was
+     deliberately technology-agnostic — his cycle runs on war-making
+     in general, and he distrusted technological determinism;
+     narrowing the engine to one gun train is precisely the move his
+     framework warns against." Neither limb survives the 1985 essay
+     (ch10 memo Revisions 34; ch06 memo Revisions 30). Tilly
+     summarised Richard Bean's thesis — that fifteenth-century
+     artillery "shifted the curve of economies and diseconomies to
+     make larger armies, standing armies, and centralized governments
+     advantageous to their masters" (Protection as Business, para 11)
+     — and rejected it: "Bean's summary does not stand up to
+     historical scrutiny. As a matter of practice, the shift to
+     infantry-backed artillery sieges of fortified cities occurred
+     only during the sixteenth and seventeenth centuries. Artillery
+     did improve during the fifteenth century, but the invention of
+     new fortifications, especially the trace italienne, rapidly
+     countered the advantage of artillery. The arrival of effective
+     artillery came too late to have caused the increase in the
+     viable size of states" (History Talks, paras 1–2). The slogan the
+     objection quotes is not in the retrieved chapter of 1975 (it is
+     the volume's ch. 1, p. 42, uncited at page); "War makes states,
+     I shall claim" (1985, Warning, para 8) is the pinnable form.
+   - **Steelman, at the strength the text gives it.** The founder of
+     the bellicist literature considered the book's thesis under its
+     author's name and dismissed it on three grounds: the artillery
+     siege of fortified places is a sixteenth- and seventeenth-century
+     practice; the bastion cancelled the gun's advantage; and naval
+     decisiveness, arriving at the same time, "could well have
+     shifted the military advantage to small maritime powers such as
+     the Dutch Republic" (para 2). Worse than neglect: a verdict, from
+     the authority the chapter claims as its ancestor.
+   - **The chapter's answer, in three limbs (assessment grades
+     preserved).** (i) Chronology — GOOD: the 1449–50 Normandy census
+     of ch06 §V (Harfleur, Honfleur, Bayeux, Avranches, Caen,
+     Cherbourg) is an infantry-backed artillery siege series of
+     fortified places, and Tilly names neither Normandy nor Guyenne;
+     this chapter answers by cross-reference, not restatement. (ii)
+     The trace italienne — GOOD, absorbed: Tilly's own parenthesis,
+     "the increased cost of fortifications to defend against
+     artillery did give an advantage to states enjoying larger fiscal
+     bases", is the mechanism in miniature, the defensive face of the
+     price shock Mangini and Petroff already carry here, and McNeill
+     pp. 90–91 give the two-sided form (guns consolidated inside the
+     polities that could pay; the bastion froze the map between them).
+     (iii) THE EXPLANANDUM — GOOD, but obligatory: Bean's claim was the
+     geographic SIZE of states and Tilly's refutation is aimed there
+     (Poland and Russia "render ambiguous the claim of a significant
+     increase in geographic scale", para 2); this book's claim is the
+     closure of the sub-state path to decisive force and the
+     permanence of the fisc, on which Tilly concedes in the next
+     paragraph: "After 1400 the European pursuit of larger, more
+     permanent, and more costly varieties of military organization
+     did, in fact, drive spectacular increases in princely budgets,
+     taxes, and staffs" (para 3). The chapter must cite Bean (*JEcH*
+     33, 1973 — RETRIEVAL) and say in one sentence that it is not
+     Bean's claim. LEFT WEAK, as before: the naval limb — see
+     Revisions 10.
+   - **What the rebuild keeps from the original.** The descent owned;
+     the timing-and-threshold gap (now visible as a verdict wrongly
+     dated rather than a silence); the p. 36 licence from the 1990
+     book (Revisions 1); the two absorptions (the budgetary ratchet as
+     prior art, direct rule as post-1789). Brewer-beyond-the-coinage
+     remains the only unverified limb of the original caveat.
+
+10. **(2026-09-16 — catch-up run STEP 3: Glete — the clock, Spain and
+    the navies. PENDING HUMAN REVIEW.)**
+    - **Steelman.** The authority for the very term §III retrojects
+      dates the fiscal-military state to 1560–1660 and denies it to
+      the 1440s: "practically unknown in 1500" (p. 41); 1480–1560
+      "largely an embryo" (p. 21); "the early but very limited
+      permanent French forces practically disappeared in the long
+      civil war period (1562–98)" (p. 39), Colbert "the architect"
+      (p. 28). The motor is bargaining, not the gun — "the 'motor of
+      change' is the bargaining process about political and
+      organisational innovations to enforce a monopoly of violence"
+      (p. 8); the technological explanation "has been challenged by
+      specialists in Renaissance warfare" and heavy guns "may thus
+      have created a window of opportunity" (pp. 18–19); Thompson
+      endorsed: "the Military Revolution was a redeployment of the
+      costs of war between society and state" (p. 47). His pioneer,
+      Spain, is his one absolute reversal (p. 139), and its core fisc
+      was never permanent — the millones of 1590 raised by the Cortes
+      cities "on their own", permanence "denied" in the 1620s
+      (p. 122). And his most capital-intensive, most state-monopolised
+      organisations are navies whose origin is not a siege story: the
+      earliest permanent forces "created for imperial defence (outside
+      the metropolitan territory) in the Mediterranean" and the
+      earliest navies "on the European periphery" (p. 39). The
+      state-owned decisive organisation appears first where no wall
+      was broken. Reaches §8(a) and the DEFEND-tier mechanism.
+    - **The chapter's answer (assessment grades: GOOD on the clock;
+      GOOD on Spain at a stated cost; the navy answered at the price
+      of a wording).** On the clock: Glete measures a different
+      object — his yardstick is armies and taxes "retained when the
+      state is at peace" (p. 39), a yardstick for standing forces;
+      the chapter's ratchet is fiscal and constitutional, the
+      assemblies' and magnates' power to reverse the settlement of
+      1439–46. He concedes the permanent army of 14,000–17,000
+      (p. 32) and never examines the taille, the élus or the Estates;
+      the Wars of Religion hollowed the crown's collection without
+      restoring the Estates' consent. §III should say this against
+      him by name, and his p. 18 concession (the decades when guns
+      beat walls "were – and this is important in an explanation –
+      the same as those when state monopolies of violence became
+      common") should be quoted with his "may". The dispute is
+      "window" against "lock", and §8(a) already forbids the gun as
+      motor. On Spain: the reversal happened in a core whose fisc was
+      never made permanent — the Burgundy finding of §VI (offices
+      without an irreversible fisc) at imperial scale, and ruling
+      (aa)'s "money collected, not money planned"; Spain is evidence
+      FOR the two-variable finding. The cost is a sentence ch11 must
+      carry: Castile subordinated its military intermediaries and not
+      its fiscal ones. On the navies: the same mechanism in a second
+      element — "the heavier types of ordnance … could only be
+      carried by special warships of a size and construction that
+      made them less economic as merchantmen" (p. 65); artillery
+      afloat made the warship non-dual-use as it made the wall
+      obsolete, and Parrott's p. 291 naval concession is Glete's
+      premise. But artillery-against-walls is then one form of the
+      capital-intensity ratchet, not its only one, and the spine's
+      "the ratchet" is its French form. Recorded for Roderick; it
+      touches the wording of §8(a), not its substance. The naval
+      question Tilly's limb raised (Revisions 9) is answered only
+      when §VIII says whether the compute stack behaves like artillery
+      or like the navy.
+
+11. **(2026-09-16 — catch-up run STEP 3: Ertman — the third link
+    taken. PENDING HUMAN REVIEW.)**
+    - **Steelman.** The fourth rival concedes the gun and the fisc and
+      attacks the link none of the others attacked. The 1450 divide is
+      the book's date reached without the gun: "the supply of trained
+      personnel and short-term funds increased substantially after
+      1450, thanks to the growth of universities and financial
+      markets" (p. 318); his one artillery sentence is the bastion
+      (p. 95). France, the book's model consolidator, is his exemplar
+      of the state that consolidated its magnates and lost its
+      apparatus: "the price that they paid for this precocity was a
+      substantial loss of effective control to proprietary
+      officeholders, tax farmers, and officeholder-financiers"
+      (p. 28); after 1494 "a massive increase in the role played by
+      private finance, proprietary officeholding, and military
+      entrepreneurship" (p. 91); war "certainly encouraged neither
+      rationalization in the Weberian sense nor the creation of
+      proto-modern institutions" (p. 154); the compagnies themselves
+      became magnate patronage under the governors (p. 94). CLAUDE.md
+      §2's chain ends in administrative capacity subordinating the
+      intermediaries; Ertman's ends in administrative capacity
+      appropriated by a new intermediary stratum. And form is not
+      open but fixed by tenth-century local government (pp. 24–25)
+      against ruling (g). Reaches §8(a) and the third link.
+    - **The chapter's answer (assessment grades: GOOD on the 1450;
+      GOOD on the mechanism, WEAK on "template"; ruling (g) already
+      answers the fourth).** On the 1450: Ertman never asks the book's
+      question — he states the ratchet's outcome, the taille
+      "continued to be collected" because the army "remained in
+      existence" (p. 73), and gives no account of why the peace of
+      1453 did not do what the deathbed of 1380 did; a 1450 reached
+      from the personnel side with no artillery in view is independent
+      corroboration that something changed at the date the book
+      names. On the third link: concede, and gain by it.
+      "Administrative capacity" in the chain is capacity to assess,
+      collect and pay at campaign tempo — the account books of §IV —
+      not Weberian rationality; and the mechanism claims the
+      subordination of ARMED intermediaries, where Ertman's officiers
+      were unarmed. The concession's cost is real and must be
+      written: the settlement bred a new rent-taking stratum, and the
+      officeholder-financier lending the crown its own revenue (p. 76)
+      is the nearest fifteenth-century form to the platform that
+      licenses its stack to the state and lends against the contract;
+      ch12's hybrid should expect it. WEAK on "template": §VII's "the
+      template Europe copied for three centuries" cannot stand as
+      written — the latecomers copied the offices and refused the
+      venality (p. 244). On form: ruling (g) has already opened the
+      constitutional form, and Ertman is its best T2 warrant — his
+      patrimonial absolutism separates the king *legibus solutus*
+      (p. 93) from effective control of the apparatus; cite him for the
+      split, decline the determinism. DOCTRINE NOTE recorded for
+      Roderick (memo Revisions 31): the gloss on "administrative
+      capacity" in CLAUDE.md §2.
+
+12. **(2026-09-16 — catch-up run STEP 3: Stasavage — taxation without
+    assemblies is not a fiscal state; scale is the disability.
+    PENDING HUMAN REVIEW.)**
+    - **Steelman.** Ch. 10 §III finds that France consolidated by not
+      consulting its Estates. Stasavage's five centuries of data say
+      that an executive without an assembly holding a control right
+      cannot borrow: "territorial rulers did not establish a long-term
+      debt earlier because no one was willing to lend to them on such
+      terms" (ch. 1); "no territorial states had yet created long-term
+      debts" before 1500 (ch. 2); France's first funded debt is 1522
+      (Table 2.1), and the polities that mastered credit kept
+      assemblies with control rights — "Holland, Great Britain after
+      1688, and Württemberg" (ch. 3). The "first full demonstration"
+      was a tax state without the second leg of public finance, and
+      its route led to the default cycle of 1561–88. And scale, the
+      possession the spine's cannon requires, was the DISABILITY: "the
+      effect of changes in military technology on the distribution and
+      organization of European states was more muted than is commonly
+      believed" (ch. 1); the Dutch Republic is Tilly's
+      capital-intensive survivor with a mechanism. Reaches the
+      DEFEND-tier mechanism and the four-polity casting.
+    - **The chapter's answer (assessment grades: GOOD on the credit
+      objection at the cost of one sentence; PARTLY GOOD, PARTLY A
+      CONCESSION on scale).** The mechanism was never a credit
+      mechanism, and §III must say so rather than imply it: the chain
+      runs weapon → permanent taxation → administration →
+      subordination; the transaction the state lives in (§I) is the
+      taille collected, not a bond sold. His own material supports the
+      ordering — even Holland's revolution "was first and foremost a
+      tax revolution … it was only after this point that borrowing
+      became a major source of war finance" (ch. 7, on Fritschy) — and
+      the assemblies France dispensed with were, on his evidence,
+      useless for credit anyway: a veto assembly did nothing for
+      borrowing in his regressions, and the Estates of 1576 proposed
+      default (ch. 7). The ratchet cost the crown nothing it could
+      have used. One honest sentence: the train was financed on tax
+      and short-term merchant credit; the funded debt came two
+      generations later by a different route. On scale: his
+      attrition data are the mechanism from the city's side — credit
+      bought survival, not scale; Mainz lost its status in 1462, Ghent
+      was "forcibly absorbed by a territorial state" (ch. 2) — and the
+      Tilly concession applies: the mechanism explains the first
+      consolidators, not why every polity became like them. THE
+      CONCESSION, owed to ruling (g): a consolidator financing the
+      stack by taxation without a control-right assembly, or by rents
+      from the stack itself, is on his evidence a polity that can tax
+      and cannot be trusted; the French and Castilian default cycles
+      are the price. His own twist — scale "no longer as much of an
+      obstacle" today, but "for representative government to function
+      effectively individuals need access to information" (ch. 1) —
+      the legibility stack abolishes the distance that beat the bureau
+      de ville, and the information flows to the centre. §VIII's
+      matter; ch12 scores it.
+
+13. **(2026-09-16 — catch-up run STEP 3: Schmitt's "solely" — the
+    spatial-legal rival cause, carried here and answered; not in the
+    text. PENDING HUMAN REVIEW.)**
+    - **Steelman.** The century's most influential jurist of spatial
+      order has no cannon and no fisc in his account of where the
+      state and its bracketed war came from: "It arose solely from the
+      emergence of a new spatial order — a balance of territorial
+      states on the European continent in relation to the maritime
+      British Empire and against the background of vast free spaces"
+      (p. 140), plus detheologisation — "The first effective
+      rationalization of the spatial form 'state' … was achieved by
+      the detheologization of public life" (p. 140). The constitutive
+      event is the land-appropriation of the New World and the
+      overcoming of the creedal wars, not the capital-intensification
+      of decisive force. If so, the mechanism is at best a subordinate
+      cause of the consolidation it claims to explain.
+    - **The chapter's answer (assessment grade: GOOD, provided the
+      contradiction is stated).** Three moves. Schmitt answers a
+      different question — the EXTERNAL legal form of the interstate
+      order, its law of war and soil statuses, not the internal contest
+      that decided which unit survived; his own agents presuppose the
+      book's mechanism — "independent powers, with unified central
+      governments and administrations, and well-defined borders had
+      arisen on European soil" (p. 140) — and he never asks how they
+      got them, which is Part II's question. His chronology helps: the
+      bracketed-war epoch begins in the sixteenth century, after the
+      1440–1500 consolidation; the artillery state is the precondition
+      of his story, not its competitor. And "solely" overclaims on his
+      own terms: the New World's free spaces explain where European
+      violence was exported, not why the exporters were centralised
+      monarchies rather than leagues, cities or the Church. A chapter
+      that cited his geometry while suppressing his causal account
+      would be rightly savaged; this file carries him so that §VII
+      need not. The Großraum fork and the provenance disanalogy are
+      ch12's.
+
+14. **(2026-09-16 — catch-up run STEP 3: McNeill — Venice first; the
+    bankers' two centuries; irreversibility dated to drill. PENDING
+    HUMAN REVIEW.)**
+    - **Steelman (three cuts).** (i) The consolidator is the market
+      and the ratchet is Venetian and administrative, not French and
+      ballistic: "a regular standing army of known size and capability
+      emerged in the better-governed cities of Italy during the first
+      half of the fifteenth century" (p. 75) — before the guns
+      mattered; the Fronde "marked the time at which transalpine
+      states finally caught up with the level of administrative
+      management and control over armed force that had been attained
+      in Venice and Milan two centuries earlier" (p. 125). Civil
+      control of force was solved by contract administration in the
+      Po valley without a siege train; artillery is an episode inside
+      a story whose motor is credit. (ii) The state did not absorb the
+      stack; the stack held the state to ransom for two centuries:
+      Liège "set their own prices. Even the mightiest rulers had to pay
+      what was asked, or do without" (p. 113); "the sovereignty of the
+      market over even the greatest ruler of the age remained an
+      ultimate reality" (p. 114). (iii) Irreversibility is dated to
+      drill, not guns: "until after the middle of the seventeenth
+      century, even in the best-governed states of western Europe,
+      subjects retained the option of armed revolt against royal tax
+      collectors" (p. 105); only after Maurice did aristocratic and
+      popular challenge lose "the slightest chance of success"
+      (p. 139). Reaches §8(a) and CLAUDE.md §1 claim 3(i).
+    - **The chapter's answer (assessment grades: GOOD on (i), by name;
+      GOOD on direction and EXPOSED on timetable for (ii); ADEQUATE on
+      (iii) only if the two-stage closure is stated).** On (i): McNeill
+      supplies it — the Italian solution was sovereign only until a
+      polity with siege guns arrived: "When newly consolidated
+      monarchies, commanding comparatively vast territories, chose to
+      intervene in Italian affairs, the sovereignty of mere
+      city-states, however skillfully managed, could not permanently
+      be maintained" (p. 79). Venice solved civil control of force;
+      it did not solve the minimum scale of a sovereign, which is what
+      the chapter prices, and §VI already carries Venice as the fisc
+      without the ratchet. The concession must be made by name: the
+      administrative achievement was Italian and earlier; the guns
+      added scale and the end of the small sovereign, not the
+      invention of civil control — and the ratchet defined that
+      narrowly survives him. This is the same concession Depreter's
+      and Lane's entries (Revisions 7–8) began; it now has its T2
+      world-historical statement. On (ii): the dependence ran on
+      jurisdictional refuge — "Dozens of other refuges for
+      entrepreneurs were scattered across the face of Europe, thanks
+      to its peculiarly fragmented political geography" (p. 114) — and
+      the bloc settlement is the closure of refuge inside the bloc;
+      McNeill concedes the hybrid (states "strengthened by their
+      involvement in the fiscal web spun by international bankers and
+      suppliers", p. 114); his long arc ends where the book's does
+      (p. 116). But the barons went first and the gunmakers held out
+      for two hundred years: if the analogy is exact, the
+      compute-foundry layer keeps its price long after the
+      private-force layer has been commissioned. §VIII's Part B and
+      ch12's per-bloc verdicts must carry that lag as a stated risk.
+      On (iii): the ruling's object is narrow — what became
+      irreversible in 1449–53 was the assemblies' and magnates' power
+      to reverse the fiscal settlement; McNeill's residual is the
+      popular tax revolt, ch07's matter. Adequate if §VII states the
+      two-stage closure — the top of the polity in the 1450s, the
+      bottom after 1650 — and names McNeill for the second; not
+      adequate if "irreversible" is left to imply both.
+
+15. **(2026-09-16 — catch-up run STEP 3: Cheung — the consolidator
+    that consolidated before the price moved. PENDING HUMAN REVIEW.)**
+    - **Steelman.** The polity the spine ranks first did not
+      consolidate because decisive force was repriced. "The concrete
+      security environment that China faced in the early 2010s had not
+      radically deteriorated, but the way its new leaders perceived
+      the situation had significantly altered" (p. 56); the national
+      security state was built 2013–17 for regime security — the
+      Soviet collapse, the colour revolutions, Document No. 9 — and
+      the chokepoint entered only in 2018. And the move that puts
+      private capability into the decisive stack is, on his verdict,
+      "an underwhelming achievement for twenty years of effort"
+      (p. 116): a participation rate of 2.3 per cent, licences held
+      in "an iron grip" by the state monopolies (pp. 114–15). Reaches
+      the DEFEND-tier mechanism as applied to the first-ranked polity,
+      and §VIII's "Two polities clearly carry all four lines".
+    - **The chapter's answer (assessment grades: GOOD on the driver,
+      at the cost of the clean instance; REAL on the ranking, at the
+      cost of a rewritten qualifier).** Concede, then split: the
+      mechanism claims what a polity must do to field decisive force,
+      not why a consolidator consolidates; Cheung's own periodisation
+      gives the second phase in the book's terms — economic
+      securitisation from December 2017, dual circulation, the 14th
+      Plan, "forced … into concerted action to prevent technological
+      'strangulation'" by the export controls (p. 306 per the
+      assessment — not opened this run, PENDING VERIFICATION). Xi's
+      state was built for political security and re-tasked by the
+      chokepoint; the mechanism explains the stack's direction from
+      2018, not the state's origin in 2013. On the ranking: the
+      "clearly" rests on the 2020–23 platform discipline and the
+      legibility instruments, which Cheung does not cover; his verdict
+      concerns the defence-industrial stack, which the state never
+      lost to private hands. China's consolidation is layer-specific —
+      complete at canon, subordination and legibility; inherited at
+      foundry-munitions-orbit, where the state's own monopolies are the
+      over-mighty subjects; unexecuted at the seam between them. The
+      Chinese over-mighty subjects the mechanism has not subordinated
+      are not Huawei or Alibaba but the state's defence monopolies —
+      to be said before a reviewer who has read Cheung says it first.
+      The rewrite is ch12 §IV's; §VIII's sentence takes the qualifier.
+
+16. **(2026-09-16 — catch-up run STEP 3: Farrell and Newman, Goldsmith
+    and Wu — the power the state got for free; this chapter's share
+    of an objection ch12 carries in full. PENDING HUMAN REVIEW.)**
+    - **Steelman.** "The asymmetric networks that make up much of the
+      structure of a globalized world were not constructed as tools of
+      statecraft" (2019: 54): the most consequential coercive
+      capability of the era was built by private actors pursuing
+      efficiency and inherited by the state through jurisdiction —
+      no taille, no permanent finance, no fiscal threshold; and its
+      exercise "not simply coterminous with United States market size
+      or military power" (p. 46). Goldsmith and Wu show the legibility
+      layer re-territorialised by 2006 through cheap coercion of local
+      intermediaries — "Government regulation works by cost and
+      bother, not by hermetic seal" (p. 68) — before the artillery
+      mechanism is said to run. Read together with Hoffman's
+      private-budget inversion (Revisions 5, still open): the learning
+      and the levers are where the state is not paying.
+    - **The chapter's answer (assessment grades: GOOD but PARTIAL on
+      the article; GOOD on (i) and (ii), ADEQUATE on (iii) for
+      Goldsmith and Wu).** The article's own scope condition does half
+      the work — the levers are free but the hand is not: "States need
+      both leverage over network hubs and appropriate institutions"
+      (p. 75), and institutions "cannot costlessly be transformed"
+      (pp. 57–58) — which is the chain's administrative link restated.
+      The other half is category: panopticon and chokepoint sanction
+      and observe; they do not take and hold; the priced-force chain
+      concerns the decisive military stack, which is not free, and
+      the legibility stack's cheapness relative to the compute stack
+      should be conceded openly as what the article really proves.
+      For Goldsmith and Wu: their chokepoints are the canon-and-register
+      layer, which the manuscript already holds cheap (ch11's fifth
+      move) — access-control lists fed to routers are the Index on
+      wire; what cheap coercion cannot do is build the router, the fab,
+      the model or the constellation, and "built with American bricks"
+      (p. 93) is dependence stated and not theorised; their scale
+      limit (control works for polities whose markets hold the
+      intermediaries' assets) is the bloc geometry from the legal
+      side. The concession must be made in text: the legibility stack
+      was re-territorialised by law before the artillery mechanism
+      ran, and the mechanism's claim over it is confined to scale and
+      to its fusion with the chokepoint layer — a layered tense
+      (accomplished for canon and register; compelled and
+      unaccomplished for the decisive layer), a register amendment to
+      spine §7 recorded for Roderick. The Hoffman inversion is
+      answered by the same category move — in the fifteenth century
+      control did not have to migrate to the smaller spender because
+      the crown was the larger spender; now the state's contribution is
+      the veto and the licence — and remains flagged, not resolved,
+      until Part B writes it.
+
+17. **(2026-09-16 — catch-up run STEP 3: Commynes on 1494 — the guns
+    did almost nothing at Fornovo; the expedition was improvisation.
+    PENDING HUMAN REVIEW.)**
+    - **Steelman.** The one participant who wrote it down says of the
+      invincible train's first field trial: "je ne croy point que
+      l'artillerie des deux costéz tuast dix hommes et ne dura point
+      le combat ung quart d'heure" (p. 192). And the enterprise was
+      cash-starved, borrowed at fourteen per cent from the Sauli
+      (p. 3), its jewels pawned (p. 37), "toutes choses necessaires à
+      une si grand emprise failloient" (p. 3, per the assessment),
+      explicable to its witness only as God's punishment of the
+      Aragonese ("s'il ne fust venu de Dieu seul", p. 81). He nowhere
+      credits the fiscal-administrative apparatus the mechanism runs
+      on. Reaches the register of §IV's close, not a ruling.
+    - **The chapter's answer (assessment grades: GOOD on Fornovo;
+      ADEQUATE on improvisation, if made honestly).** The claim was
+      never that cannon win field battles — ch06's architecture (siege
+      speed against campaign speed; the délai de secours) locates
+      decisiveness at the walls, and the same tome supplies the
+      confirming series: Mordano in half a day (p. 50), Monte San
+      Giovanni in eight hours (p. 92), nothing but the castle of Naples
+      costing "ung jour naturel" (p. 81). Fornovo the field battle was
+      decided by lance and mêlée; Italy the campaign was decided by
+      what walls no longer did. Quoted with the wet-powder note, the
+      fewer-than-ten-dead line becomes a disanalogy the chapter
+      carries proudly (CLAUDE.md §6). On improvisation: the standing
+      train — fourteen great pieces moved without losing "une seulle
+      pierre ne une livre de pouldre" (pp. 210–11) — and the compagnies
+      were the machine's product; the expeditionary treasury's chaos
+      is the difference between standing capability and campaign
+      cash-flow, and the crown's ability to borrow at all rested on a
+      taille the same witness puts at more than 2.5 million francs
+      (p. 304). But the mechanism is the historian's frame imposed on,
+      not found in, Commynes, and §IV must say so.
+
+STATUS: Revisions 9–17 PENDING HUMAN REVIEW; Revisions 1–8 as before.
+The register decisions these entries imply are listed at ch10/memo.md
+Revisions 41 (10-a to 10-l), stated not recommended.
