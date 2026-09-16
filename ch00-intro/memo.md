@@ -281,3 +281,148 @@ Part B (B3) and wait on the catch-up STEP 3.
   words unchanged).
 Word count: 3,331 → see the Part A report. Footer unchanged (no
 quotable line touched).
+
+## Revisions (2026-09-16 — Phase 5 renovation, Part B3: rulings (u), (z), (cc); spine §8(g). PENDING HUMAN REVIEW.)
+
+*Executed against research/claude-code-instruction-phase5-renovation-2026-09-16.md
+Part B3; spine §7 (the tense), §8(g) items 1–3, 6 and §8(h)(z), (u);
+CLAUDE.md §1 claim 3 as reworded and §2 (the failure conditions
+sharpened, none softened); brief NOTE of 2026-08-01 (the Castillon
+opening's single seize-the-train clause is untouched — the new
+paragraph is a Normandy paragraph, not a second Talbot clause). Part
+A's applications of (a), (b), (c), (f) confirmed standing and not
+redone: §I "locked … establishment cost … sustain"; §II
+"subordination"; §III condition 4 "a bloc's decisive capability"; §IV
+"locking". Pins: every work cited is entered in ch00-intro/sources.md
+this date as a POINTER to its master (ch06, ch11, ch10, ch12). Blondel
+verified at the page this date (corpus/retrieved/narrativesofexpu00stev.pdf,
+pdftotext, print p. 152: "crebris fulminibus repetita tormentorum
+improbitas fortalitii moenia et clausorum animos a pede in verticem
+labefactat"; "mille et quingenti"; "frigore Decembris saeviente";
+"Harofluctum aperiunt; et retenta rerum facultate et corporibus a
+captivitate exemptis") — the Latin is carried in ch06 §IV, the
+Introduction carries the English with [TRANS. CLAUDE] and the pointer.*
+
+**§I — NEW paragraph (ruling (z)), placed at the section's close so
+that it opens onto §II's present-day scene.** Sentences and pins:
+1. "The record also preserves what the guns did to the people inside
+   the walls, in a sentence from the reconquest's own chronicler that
+   Chapter 6 quotes in its Latin." (Blondel, *De Reductione
+   Normanniae*, in Stevenson 1863 — ch06 sources master, T1.)
+2. "At Harfleur, in the December cold of 1449, seventeen days of
+   battery shook, in Robert Blondel's phrase, *the walls and the minds
+   of the besieged* from foot to summit, and fifteen hundred defenders
+   whose wall had not been breached opened the gates on terms that let
+   them keep their goods and their liberty [TRANS. CLAUDE] (Blondel, in
+   Stevenson 1863: 152; the Latin at Chapter 6, §IV)." — December: the
+   text's "frigore Decembris" (p. 152); seventeen days: Barker 2009:
+   394 via ch06 §IV; the fifteen hundred, the terms: p. 152 verified;
+   "not breached": ch06 §IV's reading of "obsidionis acerbitate victi"
+   (T1 at p. 152).
+3. "The sentence names what the mechanism works on besides masonry: a
+   technology that changes the price of holding out changes the
+   reckoning of those who must decide whether to hold." — the book's
+   gloss (c), consistent with ch06 §IV's "Walls and minds in a single
+   clause".
+4. [BRIDGE — PROPOSED] "It may be that rapid or vast technological
+   change besieges the mind in the same way — that a society watching
+   the price of its own defences move faster than it can reckon feels
+   itself invested from foot to summit, and that in that state it
+   surrenders quickly." — Roderick's thought (spine §8(h)(z): "rapid
+   or vast technological change makes our minds feel besieged, and in
+   that state we surrender quickly"), drafted as ONE sentence, hedged
+   ("It may be"), flagged for his rewrite or cut. No source; it is his.
+5. "The discipline that travels with the image is that dissent is not
+   siege." — the second-reader discipline as ruled with (z) (decisions
+   briefing, decision 5).
+6. "Cherbourg, the last English place in Normandy, was not shaken into
+   surrender but sold, its captain bribed (Barker 2009: 399, 401;
+   Chapter 6)" — Barker T3 via ch06 §IV, where the draft already
+   carries "bribed to surrender" and "nothing inevitable about
+   Cherbourg's fall" at those pages.
+7. "the Stationers, whose charter the crown revoked by *quo warranto*
+   in 1684, had it back within four years and kept their court (Johns
+   1998: 317–20; Chapters 10 and 11)" — Johns T2 via ch11 sources
+   master (pp. 318–19: the charter revoked and reincorporated with
+   crown say, reversed by 1688) and ch10 §VIII's sentence (Johns 1998:
+   317–20: "reincorporated on terms that gave the crown a say in who
+   sat in its court … lost the whole prerogative system … four years
+   later"). "Kept their court" is the Court of Assistants surviving the
+   episode, as ch10 states it.
+8. "A defender who negotiates intelligently is not a mind besieged,
+   and this book does not read every refusal to resist as collapse." —
+   the discipline, the book's (c).
+
+**§II — sentence changed (ruling (u)).** OLD: "… persisting in the
+interstitial spaces (Part III). The book never argues that the present
+resembles the Middle Ages." NEW: "… (Part III). That third claim is two
+claims, and the book scores them separately. The first is that the
+independent technological powers are subordinated to the state — the
+mechanism. The second concerns the constitutional form of the state
+that absorbs them, and that form the book holds open: in the
+democratic bloc the absorbing state may be democratic, or it may be
+what Chapter 12 will call *ornamentally democratic* — its legitimating
+authority demonstrably separated from effective control over its
+strategic commitments — and the barons' loss of independence and the
+people's acquisition of control are not assumed to be the same event.
+The book never argues …" Carrier: CLAUDE.md §1 claim 3 as reworded;
+spine §8(g)(1); the term ch12's (ch12 memo (mm); spine §8(g)(6)),
+pointed forward, defined once, not claimed.
+
+**§III — the wager (rulings (u), (cc); spine §8(g)(2)–(3)).** The
+block-quoted passage gains, after "The book stakes itself on the
+opposite reading.", a second block in the same form: the framing
+sentence (the form held open; the ornamental reading judged "on
+present evidence" the one taking shape in the democratic bloc — spine
+§8(g) "that is beginning to look like now"; its present indicator the
+fusion of barons and executive against the representative institutions
+— §8(g)(3)); conditions **5.**–**8.** (elections redirecting a
+strategic commitment; legislatures enforcing conditions complied with;
+courts' remedies changing operations; public institutions replacing an
+essential supplier without consent) — the four falsifiers of
+§8(g)(2) in the falsifiable form of 1–4, bracketed to "[Appendix C,
+the democratic-control sub-wager]" (Appendix C's IDs are B4's to
+assign; none invented); the consequence stated ("then the ornamental
+reading fails … control, and not only consent"); democracy and
+liberalism scored separately (§8(g)(2); Crouch's distinction, credited
+in the Coda §V and ch12, not re-cited here); the scoring rule per (cc)
+— bloc by bloc, four levels (enacted authority, demonstrated
+compliance, operating capacity, democratic accountability), a failed
+American prediction a failure whatever the other blocs show. NUMBERING
+NOTE for Roderick: the sub-wager's conditions are numbered 5–8 so that
+reviewers can quote them as the passage's; the Coda §IV and §V still
+refer to "the four conditions" and "condition four" of the first
+wager, which remain correct. "Two notes on the passage's construction"
+→ "Three notes", with the NEW third note: "The second wager was added,
+not narrowed: it entered late, on a distinction the research forced —
+the record documents the barons' subordination in every polity that
+consolidated, and is silent, or various, on who held the apparatus
+afterwards — and it is stated in the same form as the four conditions
+so that it can fail in the same way." Conditions 1–4, every date and
+the fifteen-year horizon untouched. The passage therefore no longer
+matches memo §3 verbatim: §3 is left as reviewed; the divergence is an
+ADDITION recorded here and goes back through review.
+
+**Consensus / contested / book.** The Harfleur facts are T1 at the
+page; Cherbourg-as-sale is Barker's T3 deflation, which ch06 carries
+at full strength; the quo warranto arc is Johns's T2. The two-claim
+form, the ornamental reading's present indicator, the four falsifiers
+and the scoring rule are the book's (c) as ruled. The bridge sentence
+is Roderick's and is not the book's argument until he adopts it.
+
+**Not done, and why.** The Chastellain prophecy specimen (ch12 (uu);
+coda-i) is NOT placed in the wager — a PROPOSED row, unruled. Scott is
+NOT named at the Introduction's first use of "legibility" (row (rr),
+PROPOSED). The "exclusive" wording of §I (row (vv), PROPOSED) is
+untouched. Whether the Blondel quotation also leaves ch06 §IV is not
+this unit's to decide (ch06 memo Revisions 28 carries the flag); the
+Introduction reads Roderick's "once" as governing the image, and cites
+the sentence as a quotation. Word count: 3,339 → see the Part B3
+report.
+
+**Voice ledger.** Recorded in the draft footer's addendum: coinages
+unchanged; the vivid-image slot's conflict recorded (the §II scene
+against the bridge sentence's figure), the cut candidate named as the
+bridge sentence, not the cited quotation; aphorism unchanged.
+
+STATUS: PENDING HUMAN REVIEW.

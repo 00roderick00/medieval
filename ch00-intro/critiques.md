@@ -131,6 +131,25 @@ prefers any original clause, the review is the place to restore it.
 
 ---
 
+## Note on Objection 4 (2026-09-16 — Phase 5 Part B3, PENDING HUMAN REVIEW)
+
+The wager now carries a second, separately scored sub-wager on the
+settlement's constitutional form (§III, conditions 5–8: elections,
+legislatures, courts, public capacity), per ruling (u) and spine
+§8(g)(2). The steelman of Objection 4 gains a limb — a book that adds a
+wager late is hedging its first one — and the answer is the one the
+draft states in its third construction note: the sub-wager was added,
+not narrowed; it does not soften conditions 1–4 (untouched, dates and
+horizon included); it is stated in the same falsifiable form; and it
+can fail while the first wager stands, or the reverse, which is the
+opposite of insulation. A second new exposure: the [BRIDGE — PROPOSED]
+sentence in §I (technological change besieging the mind) is an
+analogy, not a mechanism, and is flagged for Roderick precisely so
+that it does not enter the book's argument on the pipeline's
+authority; the dissent-is-not-siege discipline beside it (Cherbourg
+sold; the Stationers' court kept) is the guard against reading every
+surrender as a mind besieged.
+
 ## For the Perplexity second-opinion run (log after the draft)
 
 - Is the falsifiability passage present as a discrete numbered block,

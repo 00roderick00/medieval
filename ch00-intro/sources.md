@@ -121,6 +121,45 @@ sources above (CLAUDE.md §4). URLs in the session research record.*
   adjacent "give place" chapter-verdict sentence). Bibliography cites
   the 4th ed.
 
+## Added 2026-09-16 — Phase 5 Part B3 (POINTER entries; masters at the named chapters; works in corpus; pins re-opened this date)
+
+- **T1 — Robert Blondel, *De Reductione Normanniae*, in J. Stevenson
+  (ed.), *Narratives of the Expulsion of the English from Normandy,
+  MCCCCXLIX–MCCCCL* (Rolls Series, 1863)** — POINTER to the ch06
+  sources master (entry of 2026-09-02; IN REPO,
+  `corpus/retrieved/narrativesofexpu00stev.pdf`). Intro pin: p. 152 —
+  Harfleur, "crebris fulminibus repetita tormentorum improbitas
+  fortalitii moenia et clausorum animos a pede in verticem labefactat";
+  "mille et quingenti"; "frigore Decembris"; the terms ("retenta rerum
+  facultate et corporibus a captivitate exemptis") — verified at the
+  page this date by pdftotext. The Latin is carried at ch06 §IV; the
+  Introduction carries the English rendering with [TRANS. CLAUDE]. The
+  single use of the image in the book (spine §8(h)(z)). Tradition
+  caution as at ch06: Blondel is the victory tradition.
+- **T3 — Juliet Barker, *Conquest* (2009)** — POINTER to the ch06
+  sources master (the 2026-09-13 assessment entry; printed pagination
+  per that entry). Intro pin: pp. 399, 401 (Cherbourg "simply sold";
+  Gower "bribed to surrender"; "nothing inevitable about Cherbourg's
+  fall") — as ch06 §IV carries them. Supporting colour for the
+  dissent-is-not-siege discipline; not load-bearing.
+- **T2 — Adrian Johns, *The Nature of the Book* (Chicago, 1998)** —
+  POINTER to the ch11 sources master (sidecar
+  `text-2026-09-13b/Johns.txt`, printed = PDF−23). Intro pin: pp.
+  317–20 (the *quo warranto* of 1684; the Company reincorporated with
+  crown say in its court; the prerogative system lost in 1688) — the
+  pins ch10 §VIII carries. "Kept their court" = the Court of
+  Assistants surviving the episode.
+- **"Ornamental democracy" / "ornamentally democratic"** — Chapter 12's
+  chapter-level term (ch12 memo "For Part B2", (mm); spine §8(g)(6)),
+  introduced there as a special case of Crouch's post-democracy (Crouch
+  2000 — ch12 sources master). The Introduction uses the term in §II
+  and §III with a forward pointer and the one-sentence definition; it
+  cites no Crouch, Bagehot or Stasavage pin directly (those are the
+  Coda's and ch12's).
+- **The four falsifiers and the scoring rule** — spine §8(g)(2)–(3);
+  rulings-sheet rows (u), (cc); Appendix C's IDs to be assigned at
+  Part B4 (none cited by number in the Introduction).
+
 ## Added 2026-08-04 — Pollard, partial delivery
 
 - **T2 — Pollard, *John Talbot*, 2nd ed. (2005), ch. 1 + front matter

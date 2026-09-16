@@ -76,6 +76,33 @@ literature's tense. The dispersal is real; it is also, on the
 evidence assembled here, the middle of an arc whose ending has
 happened once before, on the record, with account books.
 
+The record also preserves what the guns did to the people inside the
+walls, in a sentence from the reconquest's own chronicler that
+Chapter 6 quotes in its Latin. At Harfleur, in the December cold of
+1449, seventeen days of battery shook, in Robert Blondel's phrase,
+*the walls and the minds of the besieged* from foot to summit, and
+fifteen hundred defenders whose wall had not been breached opened
+the gates on terms that let them keep their goods and their liberty
+[TRANS. CLAUDE] (Blondel, in Stevenson 1863: 152; the Latin at
+Chapter 6, §IV). The sentence names what the mechanism works on
+besides masonry: a technology that changes the price of holding out
+changes the reckoning of those who must decide whether to hold.
+[BRIDGE — PROPOSED: Roderick's thought (spine §8(h)(z)), drafted as
+one sentence for his rewrite or cut; subject to the Introduction's
+metaphor budget — see the footer ledger.] It may be that rapid or
+vast technological change besieges the mind in the same way — that a
+society watching the price of its own defences move faster than it
+can reckon feels itself invested from foot to summit, and that in
+that state it surrenders quickly. [END BRIDGE — PROPOSED] The
+discipline that travels with the image is that dissent is not siege.
+Cherbourg, the last English place in Normandy, was not shaken into
+surrender but sold, its captain bribed (Barker 2009: 399, 401;
+Chapter 6); the Stationers, whose charter the crown revoked by *quo
+warranto* in 1684, had it back within four years and kept their
+court (Johns 1998: 317–20; Chapters 10 and 11). A defender who
+negotiates intelligently is not a mind besieged, and this book does
+not read every refusal to resist as collapse.
+
 ## II.
 
 Somewhere in the American Southwest this year, a fabrication plant
@@ -119,7 +146,17 @@ mechanism, running now through the compute-foundry-satellite-
 munitions stack and the identity-payments-legibility stack, predicts
 parallel Tudor settlements inside three or four blocs, with durable
 neomedieval disorder persisting in the interstitial spaces (Part
-III). The book never argues that the present resembles the Middle
+III). That third claim is two claims, and the book scores them
+separately. The first is that the independent technological powers
+are subordinated to the state — the mechanism. The second concerns
+the constitutional form of the state that absorbs them, and that
+form the book holds open: in the democratic bloc the absorbing state
+may be democratic, or it may be what Chapter 12 will call
+*ornamentally democratic* — its legitimating authority demonstrably
+separated from effective control over its strategic commitments —
+and the barons' loss of independence and the people's acquisition of
+control are not assumed to be the same event. The book never argues
+that the present resembles the Middle
 Ages. Resemblance is cheap, and the genre it produces deserves its
 reputation. The book argues a causal chain — weapon capital-intensity
 to permanent finance to administrative capacity to the subordination
@@ -170,9 +207,47 @@ C's).
 > — then the thesis fails, and the neomedievalists were right that
 > the dispersal is stable. The book stakes itself on the opposite
 > reading.
+>
+> A second wager rides on the first and is scored apart from it, so
+> that the book can be wrong about the barons and about the people
+> separately. The constitutional form of the consolidating state is
+> held open; in the democratic bloc the book judges the form now
+> taking shape to be, on present evidence, the ornamental one —
+> legitimating authority demonstrably separated from effective
+> control over the state's strategic commitments, its present
+> indicator the fusion of the barons with the executive against the
+> state's own representative institutions (Chapter 12 defines the
+> term and owns it). If, over the same fifteen years, in the
+> democratic bloc:
+>
+> **5.** elections redirect a strategic commitment of the decisive
+> stack — a contested vote changes what is licensed, built, bought
+> or withheld, and the change holds;
+>
+> **6.** legislatures enforce meaningful conditions on the stack's
+> suppliers, and the conditions are complied with rather than
+> waived;
+>
+> **7.** courts issue remedies that change the stack's operations
+> and not only its paperwork;
+>
+> **8.** public institutions prove capable of replacing an
+> essential supplier without that supplier's consent
+>
+> [Appendix C, the democratic-control sub-wager] — then the
+> ornamental reading fails, and the democratic bloc's settlement is
+> democratic in the sense the book means: control, and not only
+> consent. Democracy and liberalism are scored separately: a bloc
+> may remain liberal — its courts open, its speech free, its
+> associations unhindered — while failing all four, and that
+> combination is the condition being scored, not its refutation.
+> Both wagers are scored bloc by bloc, each indicator at four levels
+> — enacted authority, demonstrated compliance, operating capacity,
+> democratic accountability — and a failed American prediction
+> counts as a failure whatever the other blocs show.
 
-Two notes on the passage's construction, so the reader knows it was
-built and not decorated. Each condition is the *narrowed* form of a
+Three notes on the passage's construction, so the reader knows it
+was built and not decorated. Each condition is the *narrowed* form of a
 broader condition the research forced tighter: the drone condition
 acquired its without-patron-scaffolding clause from the Ukraine
 record (Chapter 12); the platform condition acquired its
@@ -180,9 +255,14 @@ forum-migration limb from the legal history (Chapters 8 and 11);
 the fourth condition's final limb cuts against the book in both
 directions by design — a European bloc consolidated by canon alone,
 without a fisc, would falsify the mechanism even while producing a
-settlement look-alike. And the fifteen-year horizon is kept from
-the book's first outline: long enough for the moves to run,
-short enough that the author expects to be marked.
+settlement look-alike. The second wager was added, not narrowed: it
+entered late, on a distinction the research forced — the record
+documents the barons' subordination in every polity that
+consolidated, and is silent, or various, on who held the apparatus
+afterwards — and it is stated in the same form as the four
+conditions so that it can fail in the same way. And the fifteen-year
+horizon is kept from the book's first outline: long enough for the
+moves to run, short enough that the author expects to be marked.
 
 ## IV.
 
@@ -314,6 +394,29 @@ Holsinger re-verify (the Bull way/place [GAP] closed 2026-08-03,
 Revisions 2). No claim beyond
 the reviewed record.*
 
+*Ledger addendum (2026-09-16, Part B3): word count ~3,440 in the body
+after the two-claim form, the sub-wager and the walls-and-minds
+paragraph (4,577 with footer and Revisions; 3,339 before).
+Coined concepts — unchanged (the artillery state; the Tudor turn);
+"ornamentally democratic" is used in §II and §III as Chapter 12's
+term, pointed forward, not claimed. Vivid image — LEDGER CONFLICT
+RECORDED FOR RODERICK: the slot above is held by the §II
+construction-site scene, which the ledger itself counts as scene and
+not figure; §I now carries Blondel's* walls and the minds of the
+besieged *as a cited quotation (Blondel's, not the book's — spine
+§8(h)(z), the single use), and the [BRIDGE — PROPOSED] sentence that
+extends it ("besieges the mind … invested from foot to summit") is
+the Introduction's first figure proper. If Roderick counts the §II
+scene as the image, the bridge sentence is the cut candidate; the
+cited sentence and the dissent-is-not-siege discipline stand either
+way. Aphoristic line — unchanged ("History does not repeat here; it
+reprices"); "dissent is not siege" is a discipline stated flat, not
+offered as the line. The falsifiability passage is no longer
+verbatim the reviewed memo §3: conditions 1–4 are unchanged save
+condition 4's Part A narrowing; the sub-wager (5–8) is an ADDITION
+under ruling (u)/(cc), recorded in Revisions 5 and PENDING HUMAN
+REVIEW.*
+
 ## Revisions (post-review, 2026-08-02)
 
 1. **Header section reference corrected** (the falsifiability passage
@@ -379,7 +482,40 @@ the reviewed record.*
 
 ---
 
+5. **(2026-09-16 — Phase 5 renovation, Part B3: rulings (u), (z),
+   (cc); spine §8(g). PENDING HUMAN REVIEW.)** Four changes; the
+   full old/new record is in memo.md's entry of the same title.
+   - §I (ruling (z)): NEW closing paragraph — Blondel's Harfleur
+     sentence cited (Blondel, in Stevenson 1863: 152; Latin at ch06
+     §IV; [TRANS. CLAUDE]), the book's gloss (a technology that
+     changes the price of holding out changes the reckoning of those
+     who must decide whether to hold), the ONE [BRIDGE — PROPOSED]
+     sentence carrying Roderick's thought, and the dissent-is-not-
+     siege discipline (Cherbourg sold — Barker 2009: 399, 401 via
+     ch06; the Stationers' court kept — Johns 1998: 317–20 via
+     ch10/ch11).
+   - §II (ruling (u); CLAUDE.md §1 claim 3 as reworded): claim 3
+     stated as two claims scored separately; "ornamentally
+     democratic" used as Chapter 12's term with the one-sentence
+     definition; the barons/people sentence carried in the book's
+     voice.
+   - §III (rulings (u), (cc); spine §8(g)(2)): the sub-wager added
+     to the block-quoted passage in the same numbered form
+     (conditions 5–8: elections, legislatures, courts, public
+     capacity), democracy and liberalism scored separately, four-
+     level scoring named, the American rule stated; "Two notes" →
+     "Three notes" with the addition-not-narrowing note. Conditions
+     1–4, the dates and the fifteen-year horizon untouched; condition
+     4's Part A narrowing ("a bloc's decisive capability") confirmed
+     standing.
+   - The closing page (§V's final paragraph) untouched, reserved per
+     spine §7. No existing [BRIDGE] touched.
+
+---
+
 STATUS: REVIEWED (Roderick, 2026-08-02) — approved with revision
 applied; falsifiability passage confirmed verbatim. Revisions 2
 (Bull direct quotes) and Revisions 3 (Pollard ch. 1) PENDING HUMAN
-REVIEW; Revisions 4 (Phase 4 Run A) PENDING HUMAN REVIEW.
+REVIEW; Revisions 4 (Phase 4 Run A) PENDING HUMAN REVIEW; Revisions
+5 (Phase 5 Part B3 — the sub-wager is an addition to the reviewed
+passage and goes back through review) PENDING HUMAN REVIEW.
