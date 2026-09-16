@@ -404,3 +404,264 @@ survives its members losing cases, but not the court losing the cases.
      the ruling sheet (§5(p)). Johns's constructed-revolution
      warning (p. 625) is met by the book's dating method: siege
      durations, not Victorian commemoration.
+
+5. **(2026-09-16 — catch-up run STEP 3: Chastellain's own objection —
+   the Alençon settlement was judicial, negotiated and reversible, not
+   an artillery-state act; and the Lombards show extraction, not only
+   dependence. PENDING HUMAN REVIEW.)** Pins to Kervyn tome III, vol15
+   scan (printed = PDF+10); memo Revisions 10.
+   - **Steelman.** The instrument that itemised what a peer lost in
+     1458 was the lit de justice, not the fisc: the charge was
+     lèse-majesté, the court "garnie de pairs" (p. 479), the
+     "modération" was obtained by the duke of Brittany's petition
+     (p. 486), and the frame is pity — "un si haut et si noble prince,
+     de la vraye estraction des fleurs de lis" (p. 488) — and the king's
+     malice, the sentence run on the lesser peer "pour donner fréeur au
+     duc de Bourgongne" (p. 422). Execution was deferred "jusques à son
+     bon plaisir" (p. 484); the duke "de cinc ans après … ne vuida de
+     prison" (pp. 100–101), which implies release under the next reign.
+     A consolidation a succession can undo is weaker than §VII's
+     itemised "transfers" suggest, and the guns were reserved by a
+     judgment, not priced out of private hands. On the Lombards: the
+     duke confiscated depositors' money, fined them and put every bank
+     in his lands to composition before "nécessité publique" forced
+     their restoration (pp. 315–316) — extraction was the motive and
+     dependence the constraint, and a use of the chapter for the
+     dependence term alone flatters the state.
+   - **The chapter's answer (graded GOOD, if made honestly).** The
+     arrêt's reservations are the mechanism's content whatever the
+     frame: the crown named the guns, the walls and the appanage, and
+     the chronicler's pity does not alter what the document keeps. The
+     reversibility is real and is the disanalogy CLAUDE.md §6 requires
+     — a Tudor-style settlement is one a succession does not undo, and
+     1458 was not yet that; the paragraph says so in the text, and the
+     1440 impunity (ch07) and the 1458 sentence bracket the eighteen
+     years in which the instrument changed from calibrated pardon to
+     judgment. On the guns, the answer is the confession Kervyn
+     transcribes: a peer with "assés d'artillerie pour combattre x mil
+     hommes aux champs pour ung jour" (p. 479 n.) was still, in 1456, a
+     private owner of decisive force, and the reservation of 1458 is
+     the crown pricing that out by law before it could price it out by
+     cost — the mechanism's claim is not that judgments stopped, but
+     that after the 1440s the crown alone could sustain what it
+     reserved. On the Lombards: extraction as a third motive
+     strengthens spine §8(g)(4) — stack rents, not bargained taxation,
+     financing the consolidating state — and the clause, if it enters
+     this chapter at all, carries confiscation and fine with the
+     restoration. Neither limb reaches a spine ruling or the
+     DEFEND-tier mechanism; the first disciplines decision (v) and §VII.
+
+6. **(2026-09-16 — catch-up run STEP 3: Ertman on England — the 1530s
+   as "deepening patrimonialism", not a Tudor turn; a contradiction
+   reaching ruling (k). PENDING HUMAN REVIEW.)** Pins printed = PDF+15;
+   memo Revisions 11. Recorded at full strength and stopped: the ruling
+   is Roderick's.
+   - **Steelman.** Ertman's England from 1453 to 1659 is titled
+     "Deepening Patrimonialism and Its Temporary Demise" (p. 178). The
+     magnates were broken and Parliament fell silent (pp. 179–80) —
+     the book's pre-settlement case, conceded — but what followed was
+     not a fisc. The 1530s produced "a whole series of new revenue
+     boards staffed by nonproprietary officials", "a serious challenge
+     to the Exchequer, that bastion of proprietary officeholding. Yet
+     by 1554 the most important of these bodies, the Court of
+     Augmentation, the Court of First Fruits and Tenths, and the Office
+     of General Surveyors, had all been incorporated into the
+     Exchequer", and the cause is the book's own variable inverted:
+     "due to the absence of war and thus of the incentives it would
+     have created for military effectiveness, none of these attempts
+     was sustained" (p. 181). "If one looks only at central government,
+     England fares worse than Castile" (p. 181); the 1552 statute
+     against traffic in offices shows Parliament, not the crown,
+     fighting the apparatus (p. 182); "By the reign of Charles I, the
+     English state had become a kind of parasite" (p. 184); the
+     English fiscal-military state is 1660–1714, made by an assembly
+     sitting almost annually under war pressure (pp. 30, 187). The
+     dissolution of the monasteries does not appear in his England at
+     all. On this account §II's renovated sentences — "the English
+     Tudor turn is dated, in this book, to the 1530s"; "The settlement
+     arrived when the crown found a fisc that no assembly had to
+     grant"; "The dissolution is the English fisc of the settlement" —
+     name as a settlement what the standard comparative account calls
+     the deepening of the disease, and spine §3's "standing taxation
+     established" cannot be read for England at the dissolution: a
+     capital receipt spent within a decade is not standing taxation.
+   - **The chapter's answer (three limbs; graded ADEQUATE on the first
+     two, WEAK on the third as ruling (k) stands — Roderick's).** First,
+     Ertman's "absence of war" elides the 1540s, which cost the crown
+     more than the dissolution yielded — but that limb needs the
+     receipts figure the chapter does not have ([GAP: Youings/Hoyle],
+     now load-bearing). Second, his variable is proprietary office; a
+     permanent confiscation that ended a universalist rival inside the
+     realm is invisible to his test by construction, and (k) rests the
+     turn on the canonical-fiscal act, not on Cromwell's boards — the
+     [BOOK'S ARGUMENT] tag already on the dissolution paragraph marks
+     that as the book's claim, and Ertman does not contradict it, he
+     does not measure it. Third, and the weak point: the claim that
+     standing taxation was established in England in the 1530s cannot
+     be carried on Ertman or on anything now in the corpus. The honest
+     forms the answer can take are two, and neither is taken here: (k)
+     reads "fisc without permanence" — the dissolution as the
+     irreversible confiscation that made the crown's universalism, the
+     English ratchet as Brewer's and Ertman's 1690s — or §II states the
+     disanalogy by name in the text: England subordinated its barons
+     and swallowed its church without the permanent fisc the French
+     case ran on, and paid for it in the 1640s. Either form keeps the
+     mechanism (the dissolution is still the artillery-state move in
+     canonical dress); neither is free. Register decision proposed at
+     memo (ee). Separately, Ertman's determinism — form fixed by
+     tenth-century local government (pp. 24–25) — is answered by
+     ruling (g) already, and he is (g)'s best T2 warrant for the split
+     itself: the king *legibus solutus* (p. 93) is legitimating
+     authority separated from effective control, stated for the
+     fifteenth century. Cite him for the split; decline the
+     determinism.
+
+7. **(2026-09-16 — catch-up run STEP 3: Glete on Spain's absolute
+   reversal — the core's fisc never permanent while its armed
+   intermediaries were subordinated; threatens and rescues ruling (n).
+   PENDING HUMAN REVIEW.)** Pins printed = PDF+9; memo Revisions 12.
+   - **Steelman.** Glete's pioneer fiscal-military state is his one
+     absolute failure: "The Spanish military and naval decline was
+     absolute, not relative, and there is no comparable case among
+     other early modern fiscal-military states" (p. 139). And it
+     reversed in the core. The *millones* of 1590 were raised by "the
+     cities represented in the Cortes … on their own", so that "the
+     local elites took control of essential parts of the tax
+     administration" (p. 122); the crown's attempt in the 1620s to make
+     the tax "a permanent obligation to maintain 30,000 soldiers …
+     was denied" (p. 122); "few signs of deep penetration of a royal
+     bureaucracy into local communities" (p. 138); Castile in the 1660s
+     "had no important infrastructure of permanent domestic military
+     units" (p. 94); the elites "had gained the power to dismantle
+     large parts of the Spanish fiscal-military state" (p. 126). The
+     monarchy was "a purely dynastic union … Essentially, it was a
+     military alliance" (p. 117), "never subordinated to the interests
+     of the Castilian elite groups" (p. 117), and the "Castilian"
+     reading itself is a simplification — Naples, Portugal and the
+     loyal Netherlands "shared much of the economic burdens of war"
+     (p. 24). Ruling (n) says the settlement "subordinates the
+     intermediaries of the core polity"; Glete's Castile shows a core
+     whose intermediaries kept the tax administration, refused the
+     standing army, and dismantled the state — the ratchet reversed
+     where the book says it locks.
+   - **The chapter's answer (graded GOOD, at the cost of a sentence the
+     chapter lacks).** Glete measures a different object: his
+     yardstick is forces and taxes "retained when the state is at
+     peace" (p. 39), a yardstick for armies; the book's ratchet is
+     fiscal and constitutional — the assemblies' and magnates' power to
+     reverse the settlement — and on Spain the answer is better than
+     it is on France. The reversal happened in a core whose fisc was
+     never made permanent: the *millones* time-limited, city-collected,
+     permanence "denied" — which is the Burgundy finding of ch10 §VI
+     (offices without an irreversible fisc) at imperial scale, and
+     ruling (aa)'s "money collected, not money planned". Spain is
+     evidence FOR the two-variable finding, not against it. The cost:
+     Castile subordinated its *military* intermediaries — orders,
+     castles, private armies, all three confirmed by Glete himself
+     (pp. 75–76: "Private armies as instruments of aristocratic
+     factionalism ceased to be important after this war, and the
+     noblemen's castles had become vulnerable to the rulers' new siege
+     artillery"; the orders "permanently incorporated … a change that
+     eliminated autonomous military structures") — and not its
+     *fiscal* ones, the Cortes cities; that is why it could field
+     decisive force for a century and a half and could not sustain it,
+     the narrowing already ruled at (h). So (n)'s "intermediaries of
+     the core polity" is true of Castile's armed intermediaries and
+     false of its fiscal ones, and §III must say which (memo (dd)).
+     Two residues to carry rather than answer: Glete's chronology
+     (the type "practically unknown in 1500", p. 41; the gun "may …
+     have created a window", p. 19) is ch10's quarrel and is fought
+     there, with his own p. 65 quoted as the ratchet in his
+     vocabulary; and his Spain is spine §8(g)(4)'s dark branch made a
+     case — consolidation financed by silver, Church taxes and
+     contractor credit rather than bargained taxation, de-articulated
+     within a generation into "a new aristocracy" of the state's own
+     financiers (p. 125) — which ch12 must expect, not deny.
+
+8. **(2026-09-16 — catch-up run STEP 3: Stasavage — credit without
+   assemblies; scale as the disability. PENDING HUMAN REVIEW.)** EPUB
+   pins by chapter and section; memo Revisions 13.
+   - **Steelman.** The book's chain runs weapon → permanent taxation →
+     administration → subordination, and ch10 finds that France
+     consolidated by not consulting its Estates. Stasavage's five
+     centuries of data say that an executive without an assembly
+     holding a control right over spending could tax and could not
+     borrow: "territorial rulers did not establish a long-term debt
+     earlier because no one was willing to lend to them on such terms"
+     (ch. 2); "Prior to 1500 … no territorial states had yet created
+     long-term debts" (ch. 2); Castile's came in 1489 (Table 2.1) and
+     France's in 1522, and the Castilian crown, with juros limited by
+     the Cortes and asientos at Genoese rates, was "forced to conclude
+     a truce, which lasted twelve years" after the bankruptcy of 1607
+     (ch. 7). The polities that mastered credit were the smallest and
+     kept assemblies with control rights; the consolidators that
+     dispensed with theirs bought taxation and not trust, and paid for
+     it in the default cycles. Worse for the bloc casting, scale was
+     the disability throughout: the city-state advantage in borrowing
+     "remain[ed] very sizeable through the seventeenth century" (ch.
+     4). And his Cortes of Castile — "extensive formal powers with
+     regard to public finance" but no control of spending, the cities
+     losing "control over their representatives", the institution
+     "did away with … entirely" after 1665 under "one of the weakest of
+     Habsburg monarchs" (ch. 7) — is not the settlement's triumph but
+     its hollowing.
+   - **The chapter's answer (graded GOOD on the mechanism; a CONCESSION
+     owed on trust).** The mechanism was never a credit mechanism, and
+     the chapters must now say so in words rather than imply the
+     contrary: the transaction that made the state was the taille
+     collected, not a bond sold, and Stasavage's own Holland was
+     "first and foremost a tax revolution" before borrowing became war
+     finance (ch. 7). The tax base of 1439–46 and of Castile's
+     *alcabala* is what the rentes of 1522 and the juros of 1489 were
+     sold against — precondition, not substitute — and the assemblies
+     France dispensed with were, on his regressions, useless for credit
+     in any case (a veto assembly did nothing for borrowing; the
+     Estates of 1576 proposed default and the sale of church lands).
+     §III's Castile gains a datum from him — the first funded
+     territorial debt in Europe, 1489, raised for a siege war — and
+     loses nothing. The concession, owed to ruling (g): scale without
+     intensive representation buys taxation and not trust, and a
+     consolidator financing the stack by taxation without a
+     control-right assembly, or by rents from the stack itself, is on
+     his evidence a polity that can tax and cannot be trusted; the
+     French and Castilian default cycles are the price, and ch12's
+     per-bloc fiscal verdicts should carry it. His Cortes is the
+     portrait of the ornamental settlement §8(g) now scores —
+     prerogatives kept, control lost, abolished by a weak king — and
+     the book takes it as such (ch12's, by name); his own twist, that
+     modern communications abolish the distance that beat the Cortes
+     but that the information flows to the centre and not to the
+     constituents, is the form question stated from the creditor's
+     side, and the vocabulary for scoring it.
+
+9. **(2026-09-16 — catch-up run STEP 3: McNeill — the stack held the
+   state to ransom for two centuries; a lag §VII's prediction must
+   carry. PENDING HUMAN REVIEW.)** Pins printed = PDF+9; memo Revisions
+   14. Brief, because the full engagement is ch10's and ch12's; entered
+   here because it reaches §VII's prediction directly.
+   - **Steelman.** The artillery state subordinated its barons and was
+     itself subordinated by its gunmakers and bankers: the Liégeois
+     "set their own prices. Even the mightiest rulers had to pay what
+     was asked, or do without" (p. 113); "the sovereignty of the market
+     over even the greatest ruler of the age remained an ultimate
+     reality" (p. 114); Spain's 40 per cent of income to old debts by
+     1600 (p. 110). If §VII's platforms are the barons, the foundry and
+     the lender are a second stratum the fifteenth century never
+     absorbed — and the prediction that the state "will nationalise
+     their functions" has, on its own precedent, a two-hundred-year
+     exception at the decisive layer.
+   - **The chapter's answer (graded GOOD on direction, EXPOSED on
+     timetable).** The dependence ran on jurisdictional refuge —
+     Liège's "very weakness" in a fragmented map — and the bloc
+     settlement is the closure of refuge inside the bloc, the
+     interstices being where Liège survives; McNeill concedes the
+     hybrid (states "strengthened by their involvement in the fiscal
+     web", p. 114) and ends where the book does (p. 116). But the lag
+     is real: the barons went first and the foundry held its price for
+     two centuries, and §VII should state it as a risk — the
+     compute-foundry layer keeping its price long after the
+     private-force layer is commissioned — with Appendix C scoring the
+     foundry's pricing power separately from the contractors'
+     subordination (memo (jj)). The prediction survives as a direction;
+     it does not survive as a date, and the chapter should not let it
+     read as one.

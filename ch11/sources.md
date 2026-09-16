@@ -530,3 +530,502 @@ the session research record. Update retrieval-master.md accordingly.*
   the Hermandad's Granada finance — gates the clause cut from §III;
   Chastellain, *Œuvres*, ed. Kervyn, t. III (Alençon) — Part B, row
   already on retrieval-master.
+
+## Added 2026-09-16 — catch-up run STEP 3 (assessments of 14 September; pins verified against sidecars)
+
+*Every pin below was opened in the named sidecar this run. Page-image
+re-verification before print wherever the sidecar is OCR (Chastellain).
+The assessments in research/assessments-2026-09-14/ were the map, never
+the authority; three of their Chastellain pins are corrected by a page
+below. No draft text changed.*
+
+- **T1 — Georges Chastellain, *Œuvres*, ed. Kervyn de Lettenhove, tome
+  III: *Chronique 1454–1458* (Brussels: F. Heussner, 1863)** — IN REPO
+  as TWO SCANS of the same tome. `corpus/retrieved/Chastellain-Oeuvres-
+  vol01.pdf` (Google's "vol01", NOT Kervyn's numbering; title page PDF
+  11; 505 PDF pages) is DEFECTIVE: printed pp. 259, 386–387 and 416–417
+  are absent, so its offset drifts — printed = PDF−8 for pp. 1–258, −7
+  for 260–385, −5 for 388–415, −3 for 418–489 (checked this run: "bon
+  plaisir" at vol01 PDF 487 = p. 484; "l'artillerie" at PDF 489 =
+  p. 486; "nécessité publique" at PDF 323 = p. 316). `corpus/retrieved/
+  Chastellain-Oeuvres-vol15.pdf` (title page PDF 13; 516 PDF pages) is
+  complete, printed = PDF+10 throughout — THE WORKING COPY AND THE PIN
+  OF RECORD. Sidecars: `text-2026-09-14/Chastellain-vol01-ocr.txt`,
+  `text-2026-09-14/Chastellain-vol15-ocr.txt` (ocrmypdf, French).
+  SCAN CAVEAT: OCR body text good and quotable; running heads misread
+  (vol15 PDF 432 carries the head "429" for printed 422; PDF 326 "346"
+  for 316; PDF 325 "919" for 315); Kervyn's footnote transcribing the
+  Alençon *procès* (BN mss 1278, 4930, 5738, 10319, per his note at
+  p. 488) runs beneath the arrêt across pp. 479–487 and the OCR
+  interleaves note and text — the arrêt is the guillemet-marked text,
+  the note the unmarked; obvious garbles are restored by context and so
+  marked; every quotation to be re-verified against the page image
+  before print; every translation [TRANS. CLAUDE]. The duplicate scan
+  was flagged for cull at STEP 0.3 — vol01 stays in the ledger marked
+  defective until the cull is ruled. TIER: T1 for the arrêt — a crown
+  document transcribed "en le propre et mesme forme comme il la
+  pronunça" (p. 478 / vol15 PDF 488; the assessment's p. 479 is one page
+  late) — and for the chronicle as contemporary witness; Kervyn's 1863
+  apparatus T2; Chastellain's interpretive frame (dynastic pity,
+  providence, Burgundian grievance) is the witness's own and is flagged
+  wherever his transcriptions serve the institutional argument. No
+  later critical edition of these years is in the corpus; cite Kervyn.
+  PINS VERIFIED THIS RUN (printed page / vol15 PDF page):
+  - The arrest, June 1456: "fut pris dedens la ville de Paris, Jehan,
+    duc d'Alençon et conte du Perche, par commandement du roy … car
+    avoit conspiré avecques les Anglès, ce disoit-on, et tenu paroles
+    de leur baillier aucunes de ses places en Normandie" (p. 100 / PDF
+    110); "de cinc ans après il ne vuida de prison" straddles pp.
+    100–101 (PDF 110–111).
+  - Chastellain's reading of the king's purpose: "en faisant courre
+    sentence sur le duc d'Alençon qui estoit son compère et son sang,
+    pensoit et tendoit à donner fréeur au duc de Bourgongne lequel il
+    maintenoit à son rebelle" (p. 422 / PDF 432; OCR "frégur"; Kervyn's
+    note on the same page records lacunae in the chapter).
+  - The chancellor's reply to Burgundy's plea for mercy: "par justice
+    règnent les roys … car, n'estoit le bonne justice des roys et des
+    princes, les royaumes et seigneuries ne seroient que laronnières"
+    (p. 475 / PDF 485; OCR "daronnières").
+  - Kervyn's *procès* note: Alençon told the English "il leur aideroit
+    de pla[c]hes, d'artillerie et de tout son povoir, et qu'il avoit
+    assés d'artillerie pour combattre x mil hommes aux champs pour ung
+    jour" (p. 479 n. / PDF 489 — the assessment's "p. 480 n." is one
+    page late); the twenty thousand écus asked of them "pour luy aidier
+    à paier ungne partie de ses gens qu'il metteroit en ses plaches et
+    pour faire son artillerie" (p. 480 n. / PDF 490); "leur aideroit de
+    ses plaches, de son artillerie et de tout che qu'au monde leur
+    seroit possible" (p. 483 n. / PDF 493).
+  - The arrêt: "crimineux de crisme de lèse-majesté, et comme tel,
+    l'avons privé et débouté, privons et déboutons de l'honneur et
+    dignité de parrie de France et autres ses dignités et prérogatives"
+    (p. 481 / PDF 491); "l'avons condempné et condempnons à recepvoir
+    mort et estre exécuté par justice, et avecques ce avons déclaré et
+    déclarons tous et chascuns les biens dudit d'Alençon estre
+    confisqués et à nous compéter et appartenir" (pp. 482–483 / PDF
+    492–493); "sauf toutevoies réservé à nous de faire et ordonner sur
+    le tout ainsi que bon nous samblera" (p. 483 / PDF 493).
+  - The king's pleasure: "que au regard de la personne de messire Jehan
+    d'Alençon il plaist au roy que l'exécution d'icelle soit différée,
+    et la diffère le roy jusques à son bon plaisir" (p. 484 / PDF 494).
+  - The children, who by "droit, raison et les usages gardés en tel
+    cas, dussent estre privés et déboutés de tous biens, honneurs et
+    prérogatives et vivre en tel povreté et mendicité que ce fust
+    exemple aux autres", spared "en ramembrance des services des
+    prédécesseurs dudit d'Alençon faits aux prédécesseurs du roy et à
+    la chose publique du royaume" (p. 485 / PDF 495) and "en faveur et
+    contemplation des requestes sur ce faites au roy par monseigneur le
+    duc de Bretagne, oncle dudit d'Alençon" (p. 486 / PDF 496).
+  - THE CLAUSE (p. 486 / PDF 496): "le roi de sa grâce, en modérant la
+    confiscation et forfaiture dessus déclarées, veut, déclare et lui
+    plaist que en tant qu'il touche les biens meubles qui furent audit
+    d'Alençon, ils soient et demeurent à la femme et enfans d'icelui,
+    réservé au roy l'artillerie, harnois et autres habillemens de
+    guerre. Et au regard des terres, seigneuries et biens immeubles, le
+    roy, en modérant comme dessus, retient à lui les villes, chastel,
+    chastellenie et viconté d'Alençon, les ville, chastel, chastellenie
+    de Donfront et aussi ceux de Verneuil tant deçà que delà la rivière
+    d'Orne, avecques les appartenances, appendances et dépendances
+    desdites villes, chasteaux et chastellenies et vicontés, lesquels
+    dès à présent le roy unist et adjoint et incorpore au patrimoine et
+    au domaine de son royaume, et avecques ce le roy a retenu et retient
+    à lui le surplus des chasteaux et chastellenies, terres, vicontés et
+    seigneuries, rentes, revenues, possessions et biens immeubles qui
+    furent du ducié d'Alençon … et tous autres droits et seigneuries qui
+    font partie de la couronne et appanage de France où qu'ils soyent,
+    réservé la conté du Perche dont cy-après sera faite mention, pour en
+    faire et ordonner par le roy à son bon plaisir"; Saint-Blanchay in
+    Touraine and the Tours tolls follow (pp. 486–487 / PDF 496–497).
+  - Perche and the residue (p. 487 / PDF 497): the county "pour en joyr
+    à un seul fils dudit messire Jehan d'Alençon et par ses hoirs
+    masles, descendans de son corps et de loyal mariage, sans toutevoies
+    aucune dignité ou prérogative de parrie"; the other lands to the
+    children "soubs la main du roy, jusques à ce que eux et chacun de
+    eux soient en eage".
+  - Place and date: "Ceste très-amère sentence … fut donnée … à
+    Vendomme, le . . . ." with Kervyn's note "Ajoutez : le 10 octobre
+    1458"; Chastellain's "un si haut et si noble prince, de la vraye
+    estraction des fleurs de lis et de la royale sève si prochain"
+    (p. 488 / PDF 498).
+  - The Lombards, ch. LXI "Comment le duc mist sa main sur les bancs
+    des usuriers" (pp. 314–316 / PDF 324–326; Bruges, end of May, the
+    chronicle's 1457 sequence): the three Piedmontese tables fled by
+    night; the duke inventoried the houses and found that burgesses
+    "avoient mis argent à usure avecques eux, ce que point ne devoient,
+    par quoy le prince confisqua tout à luy, et en furent encore à grand
+    amende" (p. 315); the ringleader's case "trop touchoit au grief de
+    la chose publique" (p. 316); "tous les bancs des usuriers des pays
+    du duc rompirent, et y mist le duc sa main sus comme forfais et les
+    composa, car tous contribuoient ensemble avecques les dessusdits en
+    la faute commise. Par quoy tous les pays et les bonnes villes furent
+    longuement sans avoir nuls Lombars pour prester, là où le peuple
+    toutevoies, selon la nature de luy ancienne, se peut mal passer de
+    eux. Et par ainsi, le duc enfin estoit constraint de les y remettre
+    par la nécessité publique, et retournèrent partout comme devant"
+    (p. 316 / PDF 326). Kervyn's note (p. 314): the duke had confirmed
+    the Lombards' privileges at Bruges on 9 September 1445.
+  - Dauphiné, 1456: the governor yielding "considérant ledit pays non
+    pouvoir résister à l'encontre de sa puissance" (p. 226 / PDF 236).
+  - The lacuna: Kervyn at p. 7 n. (PDF 17), "Nous n'avons plus la partie
+    de la chronique, à laquelle renvoie ici Chastellain"; at p. 490 n.
+    (PDF 500), livre V "totalement perdu", October 1458 to July 1461 —
+    so the Alençon release and Louis XI's accession are not in any
+    corpus tome and cannot be.
+  USE-NOTE: §VII (Part B), BY NAME — the arrêt's reservations in the
+  crown's words; the appanage/patrimony line (the crown resumed the
+  appanage duchy entire and left the family what was its own, with one
+  exception, the guns); the 1440 impunity (ch07's Praguerie paragraph)
+  and the 1458 sentence as the two ends of one arc; the reversibility
+  (execution deferred at pleasure; release outside the corpus tomes —
+  UNVERIFIED) stated as the CLAUDE.md §6 disanalogy. The Lombards are
+  ch10 §VIII's and ch12 §IV's anchor for dependence and enter this
+  chapter by one sentence at most. NOT IN THIS TOME: the 1467 spider
+  ballade ch10 §VI cites (later tomes; [PIN PENDING — tome to
+  identify]); the draft's "Chastelain" there to be regularised to
+  "Chastellain" per CLAUDE.md §8. Retrieval ladder from Kervyn's notes:
+  Jean Chartier t. III pp. 80, 91; Duclercq III 37; Escouchy chs
+  CXIX–CXXI; Plancher IV 286; the BN manuscripts of the *procès*.
+
+- **T2 — Thomas Ertman, *Birth of the Leviathan: Building States and
+  Regimes in Medieval and Early Modern Europe* (CUP, 1997)** — IN REPO
+  (sidecar `text-2026-09-14/Ertman.txt`; printed = PDF+15; clean, minor
+  ligature loss). USE-NOTE: RIVAL on the English dating, BY NAME in
+  §II; corrects §II's French limb ("completed"). Pins verified: the
+  section title "Deepening Patrimonialism and Its Temporary Demise,
+  1453–1659" (p. 178 / PDF 193); "the power of the great magnates with
+  their regional strongholds and private armies was broken during the
+  Wars of the Roses and their aftermath. From the time of Henry VII
+  onward, the country's nobles made the court the focus of their
+  political activity" (p. 179 / PDF 194); "England's withdrawal from
+  European politics after its defeat in France meant that even when
+  order was restored after 1485, there was little need to call
+  Parliament with any regularity … in the first 20 years of his reign,
+  Henry VIII called only four Parliaments. When the assembly did begin
+  to meet with greater frequency from 1529 onward, it was occupied
+  mainly with weighty religious issues" (p. 180 / PDF 195); "if one
+  looks only at central government, England fares worse than Castile,
+  most of whose leading officials still held at-pleasure tenure"; "The
+  Crown had made various attempts during the 1500s to alter the
+  prevailing pattern of administrative development, though again due
+  to the absence of war and thus of the incentives it would have
+  created for military effectiveness, none of these attempts was
+  sustained. The creation during the 1530s by Henry VIII and his
+  minister Thomas Cromwell of a whole series of new revenue boards
+  staffed by nonproprietary officials did represent a serious
+  challenge to the Exchequer, that bastion of proprietary
+  officeholding. Yet by 1554 the most important of these bodies, the
+  Court of Augmentation, the Court of First Fruits and Tenths, and the
+  Office of General Surveyors, had all been incorporated into the
+  Exchequer" (p. 181 / PDF 196); the 1552 statute "expressly
+  forbidding the traffic in offices" (p. 182 / PDF 197); "By the reign
+  of Charles I, the English state had become a kind of parasite"
+  (p. 184 / PDF 199); the non-proprietary fiscal-military bureaucracy
+  made only when "a return to regular, nearly annual meetings of
+  Parliament after 1660" allowed it (p. 30 / PDF 45; pp. 187–88 / PDF
+  202–03). The 1494 army "numbered no more than 20,000 combatants, and
+  was thus smaller than many of the armies assembled during the
+  Hundred Years War" (p. 95 / PDF 110); the *compagnies* "controlled
+  and commanded by the local royal governor, almost always a member of
+  a prominent magnate family. The governor was free to fill the ranks
+  of the prestigious compagnies with representatives of the most
+  important local clans and factions" (p. 94 / PDF 109); Swiss and
+  German infantry "21,000 men out of a total infantry contingent of
+  about 40,000" in 1558 (p. 95 / PDF 110). "the price that they paid
+  for this precocity was a substantial loss of effective control to
+  proprietary officeholders, tax farmers, and officeholder-financiers"
+  (p. 28 / PDF 43); the king *legibus solutus* (p. 93 / PDF 108); war
+  "certainly encouraged neither rationalization in the Weberian sense
+  nor the creation of proto-modern institutions" (p. 154 / PDF 169).
+  NEGATIVE FINDING (full-text grep this run): the dissolution of the
+  monasteries does not appear in his England — "monaster" and
+  "dissolution" occur only in Carolingian, Roman and Scandinavian
+  contexts. DISPUTE RECORDED: his n. 69 (p. 181) sets Elton, *The
+  Tudor Revolution in Government* (1953) against Coleman and Starkey
+  (eds), *Revolution Reassessed* (1986) — the Elton-revision debate
+  CLAUDE.md §3 names, at its source; Ertman sides with the revisionists
+  on the boards and adds the 1554 reincorporation as the test. His
+  English chapter rests on Sainty, Aylmer, Alsop and Penry Williams;
+  the fiscal literature on the dissolution's receipts (Youings; Hoyle)
+  is on this chapter's RETRIEVAL LIST and is the literature he does not
+  use — it does not supersede him, it is what his test omits.
+  Publication 1997.
+
+- **T2 — Jan Glete, *War and the State in Early Modern Europe: Spain,
+  the Dutch Republic and Sweden as fiscal-military states, 1500–1660*
+  (Routledge, 2002)** — IN REPO (sidecar `text-2026-09-14/Glete.txt`;
+  printed = PDF+9, notes included; text clean; the four tables
+  scrambled — nothing quoted from them). USE-NOTE: ALLY on Castile's
+  five moves, RIVAL on the core's fisc and on the chronology; BY NAME
+  in §III; supplies the "which intermediaries" sentence ruling (n)
+  needs. Pins verified — Granada: "Except for the royal artillery and a
+  royal guard of Castilian cavalry, no new military structures
+  developed during the war. But important changes in the power
+  structure took place. Much of the war effort was paid for by taxes
+  to the state, not by the participants … This was the basic feature
+  of the fiscal-military state"; "Private armies as instruments of
+  aristocratic factionalism ceased to be important after this war, and
+  the noblemen's castles had become vulnerable to the rulers' new
+  siege artillery"; "The armed forces of the hermandades were
+  abolished in 1498" (all p. 75 / PDF 84); the orders "brought under
+  royal control when King Ferdinand was appointed Grand Master of all
+  three orders. They were permanently incorporated into the crown in
+  1523, a change that eliminated autonomous military structures";
+  bishops "recruited from educated men of middle-class origin rather
+  than from aristocratic families" (p. 76 / PDF 85). The monarchy
+  "usually regarded as a Castilian fiscal-military state in which the
+  other parts contributed little to the war effort, but actually
+  Habsburg Italy, Portugal and the Habsburg-controlled parts of the
+  Netherlands shared much of the economic burdens of war" (p. 24 / PDF
+  33); the peacetime tercios in Italy "paid for by the local
+  tax-payers, who in this form bought protection from Spain" (p. 79 /
+  PDF 88); "one of the marked features of the future Spanish
+  fiscal-military state remained the low level of permanent forces on
+  the Iberian peninsula. In Iberia, the Spanish monarchy was
+  essentially based on its power to co-ordinate civil society" (p. 101
+  / PDF 110); "a purely dynastic union of several sovereign kingdoms
+  and principalities. Essentially, it was a military alliance with
+  highly integrated operational forces under the command of the king";
+  "the monarchy was never subordinated to the interests of the
+  Castilian elite groups" (p. 117 / PDF 126); the *millones* of 1590 —
+  "the cities represented in the Cortes raised this tax on their own
+  and controlled how the money was managed … In practice, it meant that
+  the local elites took control of essential parts of the tax
+  administration"; "In the early 1620s, the crown tried to change the
+  tax into a permanent obligation to maintain 30,000 soldiers, but that
+  was denied"; "From the 1660s, the crown ceased to summon the Cortes,
+  not because it had become more powerful or 'absolute' but because it
+  found it more convenient to negotiate directly with the city elites
+  who actually controlled this assembly" (all p. 122 / PDF 131);
+  Naples, "It was partly the state's own financial apparatus that had
+  become a new aristocracy" (p. 125 / PDF 134); resources "increasingly
+  used to pay interest on debts to those who extracted the resources";
+  the elites "had gained the power to dismantle large parts of the
+  Spanish fiscal-military state. This state had failed to create an
+  autonomous elite of administrators and officers who were dependent on
+  this state and strong enough to preserve it in their own interests"
+  (p. 126 / PDF 135); "few signs of deep penetration of a royal
+  bureaucracy into local communities" (p. 138 / PDF 147); Castile in
+  the 1660s "had no important infrastructure of permanent domestic
+  military units" (p. 94 / PDF 103); "The Spanish military and naval
+  decline was absolute, not relative, and there is no comparable case
+  among other early modern fiscal-military states" (p. 139 / PDF 148).
+  For the register: "transformed rather than suppressed" (p. 7 / PDF
+  16; ruling (b)); "Strong organisational structures may be compatible
+  with highly authoritarian, constitutional and in the end also
+  democratic political systems" (p. 212 / PDF 221; spine §8(g)); Karl
+  XI "could use these resentments to create absolutist rule (without
+  abolishing the parliament) with the consent of the peasants" (p. 195
+  / PDF 204). The fifth move at its purest: Swedish bailiffs "compiled
+  registers of all farms in their districts and the taxes they should
+  pay" and, from the 1620s, "about 2,000 local priests" kept the lists
+  (pp. 189–90 / PDF 198–99). Command and dependence: "core or system
+  competencies" (p. 131 / PDF 140); from 1633 "practically making the
+  entire Spanish weapon industry private" (p. 135 / PDF 144). The
+  chronology he holds against this book: the type "practically unknown
+  in 1500" (p. 41 / PDF 50); heavy guns "may thus have created a window
+  of opportunity for centralising rulers" (p. 19 / PDF 28); the
+  yardstick — forces and taxes "retained when the state is at peace"
+  (p. 39 / PDF 48). DISPUTE RECORDED: Glete (with Thompson's
+  "redeployment of the costs of war", p. 47) v. Parker and Roberts on
+  the military revolution; Glete's 1560–1660 v. this book's 1440s
+  (ch10's quarrel, fought there); on the Cortes he and Stasavage
+  converge, both resting on I. A. A. Thompson (1982). Publication 2002;
+  nothing in corpus supersedes him on Spain.
+
+- **T2 — David Stasavage, *States of Credit: Size, Power, and the
+  Development of European Polities* (Princeton UP, 2011)** — IN REPO
+  (sidecar `text-2026-09-14/Stasavage.txt` — an EPUB conversion with
+  "===== FILE: partNNNN.html =====" markers and NO printed pagination;
+  pins are chapter, section heading and file marker; EVERY QUOTATION
+  MUST BE RE-PINNED TO A PRINTED PAGE before it enters a draft; tables
+  other than 2.1–2.2 survive as captions only). USE-NOTE: T2 for §III's
+  fisc from the credit side, and for the Cortes of Castile as the
+  portrait of the ornamental settlement — RESERVED for ch12 §IV/§VII by
+  name, here a forward pointer. Pins verified: Table 2.1, first
+  observed long-term loans — "Castile (1489–1598)" against Arras 1241
+  and Venice 1262 (ch. 2, 'When Did States First Borrow Long-Term?',
+  part0009_split_002); "Prior to 1500, we cannot directly compare
+  city-states and territorial states, because no territorial states had
+  yet created long-term debts" (ch. 2, 'The Cost of Borrowing',
+  part0009_split_003); the crown's borrowing "based on two pillars:
+  asiento contracts, which most closely resembled short-term debt, and
+  juro contracts, which represented perpetual or term annuities …
+  Issuance of juro contracts was subject to legal limits imposed by the
+  Cortes", and "the bankruptcy of 1607 when the Spanish Crown was
+  forced to conclude a truce, which lasted twelve years (Ehrenberg
+  1928: 335)" (ch. 7, 'Castilian Public Credit', part0014_split_007);
+  the Cortes "able to establish extensive formal powers with regard to
+  public finance … consent for taxation and the administration of tax
+  collection", yet it "never succeeded in establishing a high degree of
+  control over royal spending decisions", and "the individual
+  Castilian cities gradually lost control over their representatives to
+  the Cortes. As a consequence, the representatives failed to
+  effectively use even those formal powers that they did have at their
+  disposal" (ch. 7, 'Control of Public Finances by the Cortes',
+  part0014_split_008); "after 1665 the monarchy did away with the
+  institution entirely. It instead chose to bargain on an individual
+  basis with Castilian cities" — Thompson (1982): "the final decision
+  of 1665 not to reconvene the Cortes occurred under one of the
+  weakest of Habsburg monarchs"; procuradores chosen by lot in all but
+  one of the eighteen towns; Charles V in 1520 "convened a meeting of
+  the Cortes in the remote location of Santiago de Compostela. Before
+  the proceedings began, he then transferred the meeting to the even
+  more remote location of La Coruña, motivated by a desire to increase
+  his leverage over the procuradores" (ch. 7, 'Explaining the Demise of
+  the Cortes', part0014_split_009); "it may be possible to maintain the
+  institution but without it serving its intended purpose … Compare,
+  for example, the Cortes of Castile in the seventeenth century to the
+  Ugandan Parliament in the twenty-first century"; after 1688 "the
+  invention of modern political party organizations" and "a very active
+  print news culture … helped ensure that the British Parliament did
+  not follow the same course as the Cortes of Castile" (ch. 8,
+  'Information, Commitment, and Democracy', part0015_split_002); the
+  Estates General of 1576 — the king "could tax the financiers who have
+  lent to him, or he could sell off church lands" (ch. 7, 'National
+  Institutions for Creditor Representation', part0014_split_004);
+  city-states surviving "as rentier republics" (ch. 1, part0008_split_
+  000). NEGATIVE FINDING (grep this run): no Henry VIII, no dissolution
+  of the monasteries. DISPUTE RECORDED: Stasavage v. Tilly, Hintze and
+  Downing on scale and war; on the Cortes he follows Thompson (1982)
+  against the "victim of rising absolutism" reading. Publication 2011.
+
+- **T2 — William H. McNeill, *The Pursuit of Power: Technology, Armed
+  Force, and Society since A.D. 1000* (Chicago, 1982)** — IN REPO
+  (sidecar `text-2026-09-14/McNeill.txt`; printed = PDF+9; clean).
+  USE-NOTE: footnote-level in §IV and §VII; the full entries belong to
+  ch06 and ch10. Pins verified for this chapter: western battlefield
+  superiority "became apparent to the Ottoman Turks in the war of
+  1593–1606, when, for the first time, Turkish cavalry met disciplined
+  infantry gunfire", and "once a decisive advantage accrued to central
+  authorities through the use and monopolization of heavy guns, further
+  spontaneous improvements in gunpowder weapons ceased" (both p. 98 /
+  PDF 107); "the Italian riposte to cannon fire was not forthcoming"
+  outside Europe (p. 95 / PDF 104 — the "imperial gun parks" sentence
+  the assessment quotes from the same page was not matched at the line
+  this run: PENDING VERIFICATION); the janissary mutiny of 1730 and the
+  corps destroyed in 1826 (p. 135 / PDF 144); Venice escaping Sforza's
+  fate "partly by dividing contracts among several different, mutually
+  jealous captains, and partly by bestowing civic honors and gifts upon
+  loyal and successful condottieri and arranging suitable marriages"
+  (p. 76 / PDF 85 — Colleoni's bargain at T2, beside Lane in §VII);
+  Liège — "allowed the Liégeois to set their own prices. Even the
+  mightiest rulers had to pay what was asked, or do without" (p. 113 /
+  PDF 122) and "the sovereignty of the market over even the greatest
+  ruler of the age remained an ultimate reality" (p. 114 / PDF 123);
+  "By 1600 no less than 40 percent of the Spanish government's income
+  was earmarked for the service of old debts" (p. 110 / PDF 119); Bean
+  (1973): central tax revenues "doubled in real, per capita terms
+  between 1450 and 1500" (p. 105 n. 35 / PDF 114). CAVEAT: his
+  affordability vocabulary is "the high cost of the new weapons" — the
+  unit-cost reading Hall has made untenable; cite him for the direction
+  of the effect, never the vocabulary. Publication 1982; technical
+  chronology superseded by Hall 1997 (in corpus); Tilly not cited.
+
+- **T2 — James C. Scott, *Seeing Like a State* (Yale, 1998)** — IN REPO
+  (sidecar `text-2026-09-14/Scott.txt`; printed = PDF+17). USE-NOTE: BY
+  NAME at §VI Move one (Vauban) and Move five (the catasto, surnames).
+  Pins verified: Vauban to Louis XIV, 1686, the epigraph to his ch. 1 —
+  "Would it not be a great satisfaction to the king to know at a
+  designated moment every year the number of his subjects, in total and
+  by region, with all the resources, wealth & poverty of each place"
+  (p. 11 / PDF 28); "The premodern state was, in many crucial respects,
+  partially blind; it knew precious little about its subjects, their
+  wealth, their landholdings and yields, their location, their very
+  identity" (p. 2 / PDF 19); permanent patronyms "the last step in
+  establishing the necessary preconditions of modern statecraft. In
+  almost every case it was a state project" (p. 65 / PDF 82); the
+  Florentine catasto of 1427, "an audacious attempt to rationalize the
+  state's revenues and military strength", defeated by "Popular
+  resistance, the noncompliance of many local elites, and the
+  arduousness and cost of the census exercise" (p. 66 / PDF 83);
+  fourteenth-century English surnames "clearly nothing more than
+  administrative fictions designed to make a population fiscally
+  legible" (p. 68 / PDF 85). PERIOD CAUTION: his fiscal matter is
+  seventeenth- and eighteenth-century; he is authority for the
+  legibility mechanism, not for 1439–46. VOICE: "legibility" in the
+  technical sense is his coinage; all nine uses in this chapter's draft
+  are the term-of-art sense (checked this run) — the acknowledgement
+  belongs at first use in the Introduction. Publication 1998.
+
+- **T2 — Stephen D. Krasner, *Sovereignty: Organized Hypocrisy*
+  (Princeton UP, 1999)** — IN REPO (sidecar `text-2026-09-14/
+  Krasner.txt`; printed = PDF+10). USE-NOTE: footnote in §VII —
+  "invitation" as the canonical name for absorption by alliance (spine
+  §8(g)(3)); his four-way vocabulary for the operative-but-never-
+  invested thread. Pins verified: rulers "can extend invitations,
+  sometimes inadvertent, that result in compromises of their own
+  Westphalian sovereignty" (p. 20 / PDF 30); "more powerful states are
+  unlikely to lose their Westphalian sovereignty unless they invite
+  external authority through conventions or contractual arrangements.
+  Only weaker states have been the targets of intervention through
+  coercion or imposition" (p. 29 / PDF 39); "Such private actors are
+  not violating Westphalian autonomy; they make no claim to
+  authoritative decision making" (p. 119 / PDF 129). The full
+  engagement is ch01's, ch12's and Appendix A's. Publication 1999;
+  pre-platform.
+
+- **T2 — Walter Bagehot, *The English Constitution* (1867; 2nd edn with
+  Introduction, 1872)** — IN REPO (sidecar `text-2026-09-14/Bagehot.txt`,
+  Project Gutenberg #4351; NO printed pagination — cite by chapter
+  title, the paragraph's opening words and Gutenberg-PDF page). ONE pin
+  for this chapter, verified: Conclusion, "The consultative government"
+  (PDF p. 104) — "It would not have suited the ante-Tudor kings to have
+  had a fictitious assembly; they would have lost their sole FEELER,
+  their only instrument for discovering national opinion. Nor could
+  they have manufactured such an assembly if they wished. The
+  instrument in that behalf is the centralised executive, and there was
+  then no 'prefet' by whom the opinion of a rural locality could be
+  made to order". CAUTION on the same page: "The restless, aspiring,
+  rich barons, who made the civil war, were broken by it. Henry VII.
+  attained a kingdom in which there was a Parliament to advise, but
+  scarcely a Parliament to control" — an 1867 attritional account,
+  superseded (Lander), NEVER to be cited for the mechanism. USE-NOTE:
+  if placed in this chapter at all, one footnote at §VII beside
+  Krasner; the bridge is ch09's and ch12's. Ledger: "ornamental" is not
+  his word for the constitution (his are "disguised republic",
+  "theatrical show", "sham"). 1867/1872.
+
+- **Pointer entries (footnote or evidence level in this chapter; full
+  graded entries at ch12 and Appendix A):**
+  - **T2 — Goldsmith and Wu, *Who Controls the Internet?* (OUP, 2006)**
+    — sidecar `text-2026-09-14/Goldsmith-Wu.txt`; printed = PDF+13.
+    Verified: China Telecom deploying Cisco's equipment "as a
+    checkpoint" and the firewall "built with American bricks" (p. 93 /
+    PDF 106). The assessment's p. 73 (the network demonstration of
+    canon-and-register control) NOT opened this run — PENDING. §VI Move
+    five, beside Johns: the Index and the 1538 proclamation on wire.
+  - **T3/T2 — Farrell and Newman, *Underground Empire* (2023)** — EPUB
+    sidecar `text-2026-09-14/FN-UndergroundEmpire.txt`, cite by chapter
+    and phrase. Verified at ch. 5: "trusted and neutral Digital
+    Switzerland"; Microsoft "had begun playing the role that Ford Motor
+    [Company] did in World War II"; Mnuchin, "I hate everything about
+    this"; Circle, Alchemy and Infura "accepting that they were vassals
+    of the sovereign"; Buterin, private actors "get deputized into
+    enforcing restrictions". §VI Moves two and five, evidence only; the
+    engagement is ch12's.
+  - **T2 — Carl Schmitt, *The Nomos of the Earth* (1950; tr. Ulmen,
+    2003)** — sidecar `text-2026-09-14/Schmitt.txt`; printed = PDF+4.
+    Verified: the modern form of control's "first characteristic is
+    renunciation of open territorial annexation of the controlled
+    state" (p. 252 / PDF 256); *cujus regio, ejus economia* and its
+    reversal *cujus economia, ejus regio* (pp. 256, 258 / PDF 260, 262).
+    §VII's operative-but-never-invested thread — one sentence at most,
+    with the disanalogy ch12 states (his subject is client states, not
+    firms).
+  - **T3 — Mustafa Suleyman, *The Coming Wave* (2023)** — sidecar
+    `text-2026-09-14/Suleyman.txt` (printed ≈ PDF−22). Verified: "a
+    more licensed environment" (PDF 283); "a genuine AGI cannot be
+    privately owned" (PDF 284). A practitioner's dated prescription of
+    the five moves, written as their opposite; T3, never load-bearing;
+    §VI/§VII at most a clause.
+
+- **RETRIEVAL LIST consequences (2026-09-16, STEP 3):** the Chastellain
+  t. III row CLOSES (in repo, two scans; vol15 the copy of record). New
+  rows wanted: the Kervyn tome carrying the 1467 spider ballade (ch10's
+  citation; not t. III); Jean Chartier t. III and Escouchy for the
+  Alençon release and the sequel (the chronicle's own livre V is lost —
+  no Chastellain row can close it); I. A. A. Thompson, "Crown and
+  Cortes in Castile, 1590–1665" (1982), the authority beneath both
+  Glete p. 122 and Stasavage's ch. 7, wanted if either chapter states
+  the 1665 case in text. The Youings/Hoyle row is now LOAD-BEARING (see
+  memo Revisions 11: Ertman's contradiction turns on whether the
+  dissolution's receipt was capital or income).
