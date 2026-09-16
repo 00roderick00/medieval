@@ -707,3 +707,192 @@ STATUS: REVIEWED (Roderick, 2026-07-31 — read in full, nothing to add; no revi
      and the 1684–88 arc for ch12 §IV as the worked example of
      absorption attempted and lost; the patentee caste (p. 250)
      as the Stuart form of the licensing prediction.
+
+9. **(2026-09-16 — Phase 5 renovation: rulings (k), (g), (m), (h),
+   (n), (p), (v); correction R8; the A8 register pass. PENDING HUMAN
+   REVIEW.)** First pass to touch draft.md since the 3 September
+   assembly. Applied per research/claude-code-instruction-phase5-
+   renovation-2026-09-16.md A2; pins from Revisions 3–8 above and
+   sources.md (2026-09-13 entries), re-verified against the sidecars
+   this date. Word count 4,667 → 7,930. §VI's [BRIDGE] untouched.
+   - **Ruling (k) — England re-dated to the 1530s; Henry VII the
+     pre-settlement case.** §I: "contrary to the statute of 1504" →
+     prosecuted under the rank rule of 1390 (Lander pp. 33–4, 289);
+     "comparable to a year of the crown's whole ordinary revenue" →
+     "about two-thirds of a year" (p. 42 revenue; p. 289 the
+     £100,000 indenture); "He paid two instalments" → "He probably
+     paid no more than a thousand pounds" (p. 289); the bargaining
+     sequence (26 recognitors; £5,000; the county ban) added from
+     pp. 289–90. §I "between roughly 1470 and 1530" → "1470 and
+     1540 — the English case … arriving last, in the 1530s." §II
+     opening: "he is not the English consolidator at all. He is the
+     case that precedes the settlement: a crown with a monopoly of
+     force and no fisc to sustain it, governing by bond." §II
+     chamber: the Tudor Chamber Books "national treasury"/weekly
+     sign-manual comptroller image → Grummitt's deposit treasuries
+     and "does not represent Henry's daily supervision of some kind
+     of royal 'current' account" (pp. 234, 241); "the machine was
+     inherited and enlarged, not invented [GAP: Chrimes]" → "was
+     not simply a continuation" (p. 243), dispute recorded, GAP
+     closed; the 1497 Cornish reserve entered (p. 240); the fisc's
+     limits entered (Lander pp. 13, 39–40, 62, 72–3; Strayer p. 90;
+     DeVries XVI 130 — the "dark ages"). §II subordination: the
+     tally re-pinned to p. 292 (46–47 of 62; 36 bonds; 16 free);
+     "the successor sacrificing his father's instruments while
+     retaining, to the letter, his father's machine" → the
+     cancellations of 1509–10 (at least 45 in year one, 130 in five,
+     51 stated unjustly extorted, "possibly nine peers at the most
+     remained bound," pp. 298–9), Northumberland's £10,000 (p. 299),
+     Bergavenny licensed 1512 (p. 290), landed income £40,000 →
+     £25,000 by 1515 (p. 48); "keeping the enforcement" → "bought
+     legitimacy with the enforcement, not while keeping it." NEW
+     PARAGRAPH: the dating — monopoly without a fisc (Lander pp. 16,
+     31; Fortescue's "live of his own" programme, Plummer pp. 38–9,
+     Fortescue p. 133); the Act of Supremacy (T1, in sources); the
+     1536 act and "a squalid financial scramble rather than of
+     religious disapproval" (Lander p. 7, sidecar verified); the
+     dissolution named as the fisc; Roderick's "it contains a
+     universalist power" carried as the book's argument (c) —
+     fiscal and canonical moves as one act — and flagged [BOOK'S
+     ARGUMENT]; [GAP: the dissolution's receipts — Youings/Hoyle;
+     no figure carried].
+   - **Rulings (g)/(m) — the Ottoman variant.** §IV rewritten
+     entire. Label: "administrative state before artillery,
+     artillery locking it, devolution as its ending." "the most
+     complete answer to the over-mighty subject the fifteenth
+     century produced anywhere" → "the limit case in a sense the
+     chapter's first draft did not see." "canonically one per forty
+     households" CUT (R8), replaced by "every three to seven years
+     according to need … a thousand to three thousand boys a year"
+     (İnalcık 1973 p. 78). "its strength under Mehmed II roughly
+     five to ten thousand" → "'from four or five thousand to ten or
+     twelve thousand' (İnalcık 1960 p. 426), 7,841 … 1484 (Ágoston
+     p. 113)." "Mehmed II manufactured his service class from raw
+     material" → "did not create this system; he completed it"
+     (Kafadar pp. 139, 148; İnalcık 1973 pp. 77–8), with the pençik
+     origin (Kafadar pp. 112–13). "on 1 June 1453, three days after
+     Constantinople fell, Mehmed executed" → arrested within three
+     days; 1 June the Pera amān-nāme; executed at Adrianople "in
+     August or later in September" (İnalcık 1960 pp. 412–15). "the
+     last of the old aristocratic vizieral dynasty" → "of ulema
+     background" (Kafadar p. 111); the peace-party/war-party frame
+     (pp. 18–19). Mehmed's three fiscal measures and the 3.5m ducats
+     (İnalcık 1960 p. 426); the twenty thousand villages (İnalcık
+     1973 p. 30); the Belgrade gazis' line (Kafadar p. 147). NEW
+     PARAGRAPH: artillery's place — Tophane, the 1390s corps, the
+     eight cannon, gunners on timar (Ágoston pp. 88, 89 n. 13, 93,
+     101); causation denied (Ágoston p. 109; Kafadar p. 18); the
+     book's answer (requirement met twice, sequence reversed). NEW
+     ENDING: devolution (İnalcık 1973 pp. 48–51; Ágoston pp. 121–3
+     with the shares and the certificates, sidecar verified); the
+     fifth failure mode named and handed to ch12. The old
+     disanalogy sentence retained inside the artillery paragraph.
+     [GAP: İnalcık framing/per-levy] CLOSED.
+   - **Ruling (g) — §V's exemption.** "none was executable without
+     it" → "in the three Latin cases none was executable without
+     it. The Ottoman member is exempted from that sentence by its
+     own authorities …" The Ottoman fifth cell (cadastre; print
+     refused — İnalcık pp. 62, 102, 174) stated as a disanalogy.
+   - **Rulings (h)/(n) — Spain and the composite.** §III opening
+     gains the boundary sentence. NEW PARAGRAPH (the fiscal limb):
+     900,000 → 26,000,000 reales, "entirely independent of Cortes
+     control" (Elliott 1963 PDF 97–8); the siege war (PDF 54);
+     juros and the Orders' income "assigned to the bankers as
+     security" (PDF 205); the corregidor (PDF 100); "in Castile at
+     least" (PDF 91); "a plural, not a unitary, state" (PDF 90);
+     Habsburgs inherited (PDF 89); lost after 1650 to states that
+     had completed it (PDF 379); the narrowing stated — "not the
+     precondition of decisive force but the condition of sustaining
+     it, and what it subordinates are the intermediaries of the
+     core." Hermandad: "and, not incidentally, financed the Granada
+     war" CUT (not Elliott's; re-source to Ladero or leave out).
+     Orders: "Alcántara under a bull of 1492" → "in 1494"; "Santiago
+     in 1499 (the date this book carries against the older 1476
+     tradition)" → "1476 the precedent, 1499 the tenure"; "a State
+     within the State" (PDF 94) added. §I and §V: "four polities …
+     executed documentable variants of the same five moves" →
+     rewritten: every one a composite (France's pays d'élections/
+     pays d'états, Elliott 1992 p. 51; Wales an accessory union,
+     pp. 51–2; Spain plural, Elliott 1963 PDF 89–90; the Ottoman
+     vassal princes — İnalcık 1973 [PIN PENDING], page to be fixed
+     against the image), the settlement subordinating the
+     intermediaries of the core and ruling the rest aeque
+     principaliter (Elliott 1992 p. 53, Solórzano's two forms, the
+     sidecar verified); §V "the Habsburg composite followed its own
+     path a generation later" → "the Spanish composite Ferdinand's
+     own, inherited by the Habsburgs rather than built by them."
+     The Solórzano forms applied to America and China are RESERVED
+     for ch12 §IV (Part B); the composite disanalogy bridge is
+     ch12's.
+   - **Ruling (p) — print.** §V: "print did for the sixteenth-
+     century state what artillery had done for the fifteenth … only
+     polities that could license, mandate and administer the new
+     medium at national scale could exploit it" → "something of
+     what artillery had done … the harness was the canon and the
+     register, not the plant"; "the Stationers' charter (1557) then
+     delegated enforcement to a chartered guild" → "chartered a
+     guild that took enforcement, and much else, into its own hands
+     — a 'Petit State' … 'inconsistent with Monarchy' (Atkyns 1664,
+     in Johns p. 308)"; "Rome's mirror-move, the Index" → "a
+     parallel move, continuing a sequence … from 1520" (Eisenstein
+     orig. 347, pin only); "standardised" → "mandate the canon; it
+     could not standardise the text" (Johns p. 31); the fifty-three
+     houses against a cap of twenty, sixty-two by 1705 (pp. 72–3);
+     1538–1695 and "never again restored" (p. 234); the disanalogy
+     in CLAUDE.md §6 form — "Cannon was the weapon the subjects
+     could not replicate; the press was the one they always could"
+     — stated as one the mechanism survives; steam (p. 629) and the
+     quo warranto RESERVED for ch12 by forward pointer only; "The
+     sceptics concede again" → "where they agree, that the state
+     could mandate and could not hold, it takes the finding." The
+     output figure widened to "between eight and twenty million"
+     (Clapham via Eisenstein, pin only; Febvre & Martin [GAP]).
+     "second capital-intensive medium" did not occur verbatim in
+     the draft; the sentence carrying its sense is the one
+     rewritten. §VI Move five left as drafted inside the [BRIDGE];
+     a [BRIDGE — PROPOSED] block added beneath it carrying the
+     steam-not-Gutenberg disanalogy for Roderick.
+   - **Ruling (v) — §VII itemisation.** NEW PARAGRAPH after
+     "functions that matter": the five discretions (refusal;
+     infrastructure; succession; operational knowledge;
+     rule-setting) with Fortescue's instruments (Plummer pp. 133–4,
+     150–53 — the officers line at pp. 150–51 and the oath at
+     p. 153 sidecar verified; thorns modernised, so stated),
+     Lander's Bergavenny (pp. 289–90), Lane's Colleoni (p. 233,
+     sidecar verified: 231,983 ducats; "as soon as he was dead and
+     his army and skill was no longer to be feared"; the Scuola
+     placement). [GAP — Part B: Chastellain t. III, Alençon] placed
+     and not drafted.
+   - **R8.** The one-in-forty cut (above).
+   - **A8 register pass.** Searched: no "suppressing" in the
+     chain's sense ("suppressing the Cornish rebels" is a rising
+     put down, not the chain's last link, and stands); no "ended";
+     no "severs"; no Standard Oil in this chapter. Nothing to
+     change.
+   - **Sources consequences.** Pointer entries added to sources.md
+     this date for works already in the corpus and pinned in other
+     chapters' sources.md and now used here: Fortescue/Plummer
+     (ch12 entry), Lane (ch04/ch10 entry), DeVries *Guns and Men*
+     (ch06 entry; XVI 130), Strayer (ch01 entry; p. 90). No new
+     work enters.
+   - **Not done at the pin, and why.** (1) The Ottoman "composite"
+     is asserted on İnalcık's vassal-prince passage without a page
+     — the sidecar's page mapping could not be resolved from the
+     text; [PIN PENDING] in the draft. (2) The dissolution's
+     receipts are not in any chapter's sources.md; the fisc is
+     named without a figure, [GAP: Youings/Hoyle]. (3) The
+     Hermandad's Granada finance is cut rather than re-sourced
+     (Ladero Quesada not in corpus). (4) Elliott 1963 PDF 379 (Spain
+     lost after 1650 to states that had completed the settlement)
+     is carried on critiques Revisions 3's reading; re-verify the
+     PDF page against the file before print. (5) Eisenstein remains
+     pins-only per the STEP 0 rule; two pins used, no quotation.
+   - **[OUTLINE CONFLICT — flagged, not resolved.]** The outline's
+     ch11 brief casts Henry VII as "the technician of consolidation"
+     and dates the window "roughly 1470 and 1530"; ruling (k) dates
+     the English turn to the 1530s and makes Henry VII the pre-
+     settlement case. The draft follows the ruling; the outline's
+     §1 and §4 ("the most successful solution to the over-mighty-
+     subject problem in the fifteenth century" for the devşirme,
+     now labelled pre-artillery and ending in devolution per (g)/
+     (m)) are in conflict with it and are left to Roderick.

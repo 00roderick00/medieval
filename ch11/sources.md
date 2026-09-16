@@ -484,3 +484,49 @@ the session research record. Update retrieval-master.md accordingly.*
   and the operative sections at pin when quoted. The AI Act
   dates in §VII (in force 1 Aug 2024; prohibitions 2 Feb 2025)
   verified against Reg. 2024/1689 (MATCH — see ch02 entry).
+
+## Added 2026-09-16 — Phase 5 renovation (pointer entries; no new work enters)
+
+- **T1/T2-dated — Fortescue, *The Governance of England*, ed.
+  Plummer (1885)** — IN REPO; full entry at ch12/sources.md
+  (2026-09-13). USED HERE: §II — the "live of his own" programme
+  (Fortescue p. 133; Plummer's gloss pp. 38–9) as the pre-settlement
+  case's own prescription; §VII — the instruments per ruling (v):
+  "the myght off þe lande … stondith most in þe kynges officers"
+  (pp. 150–51, sidecar verified), the office oath "sworne that he is
+  seruant to non oþer man" (p. 153, sidecar verified), the licence
+  over alienation and marriage (pp. 133–4). Thorns modernised in the
+  draft, so stated inline.
+- **T2 — Lane, *Venice: A Maritime Republic* (1973)** — IN REPO;
+  full entry at ch04/sources.md and ch10/sources.md (2026-09-13).
+  USED HERE: §VII — Colleoni's bargain (p. 233, sidecar verified:
+  231,983 ducats; sequestration "as soon as he was dead and his army
+  and skill was no longer to be feared"; the Scuola placement;
+  "had never treacherously broken a contract"); the 1467 Romagna
+  adventure (p. 236) not used in this chapter.
+- **T2 — DeVries, *Guns and Men in Medieval Europe* (Variorum
+  2002)** — IN REPO; full entry at ch06/sources.md. USED HERE: §II —
+  Article XVI p. 130 (sidecar `text-2026-09-13b/DeVries-GunsMen.txt`
+  verified): the English crown "effecting a virtual 'dark ages' of
+  military technology which would last for more than a century" after
+  the Wars of the Roses. (The rulings sheet's "XVI 142–45" locates
+  the argument's development; the sentence itself is at p. 130.)
+  Cited per ruling (s) as a witness whose own frame (Hale's) denies
+  the mechanism — the ch06 defusing sentence governs.
+- **T2 — Strayer, *On the Medieval Origins of the Modern State*
+  (1970)** — IN REPO; full entry at ch01/sources.md. USED HERE: §II —
+  England "avoided any serious war for over a century" (p. 90,
+  sidecar verified).
+- **Lander (entry above) — additional pins used 2026-09-16:** the
+  1536 act and "a squalid financial scramble rather than of religious
+  disapproval" (p. 7, sidecar verified); the nobility "possessed no
+  fortresses" (p. 16); campaigning "12 or 13 weeks in 32 years"
+  (p. 62, sidecar verified); the 1512 licence (p. 290); landed income
+  £40,000 → £25,000 by 1515 (p. 48 — OCR numerals, VERIFY against the
+  page image); Northumberland's £10,000 cancelled (p. 299).
+- **RETRIEVAL LIST additions (2026-09-16):** Youings, *The
+  Dissolution of the Monasteries* (1971) and Hoyle on the receipts —
+  gates the [GAP] in §II's dissolution paragraph; Ladero Quesada on
+  the Hermandad's Granada finance — gates the clause cut from §III;
+  Chastellain, *Œuvres*, ed. Kervyn, t. III (Alençon) — Part B, row
+  already on retrieval-master.
