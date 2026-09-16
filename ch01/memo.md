@@ -468,5 +468,377 @@ STATUS: REVIEWED (Roderick, 2026-07-22) — cleared for drafting
      Roderick.
    - No outline conflict.
 
-STATUS: PENDING HUMAN REVIEW (this entry); the memo body REVIEWED
+## Revisions (2026-09-16 — catch-up run STEP 3, PENDING HUMAN REVIEW)
+
+The 14 September assessments (research/assessments-2026-09-14/, nineteen
+files) place nine works in this chapter; every pin below was opened in the
+sidecar this date (sources.md, block of the same date) and the draft
+sentences quoted are from the CURRENT draft (edited 2026-09-16, Phase 5
+Part A). Nothing here is applied to the draft. Tagging as before:
+[CONSENSUS] / [CONTESTED] / [BOOK'S ARGUMENT]. Works assessed and NOT
+placed here — Wu, Stasavage, Ertman, Cheung, McNeill, Bagehot, Crouch,
+Commynes, Chastellain — are recorded in sources.md so the question is
+closed.
+
+1. **(Ruggie 1993 — the attribution, the decades, the form objection.)**
+   - CONFIRMS: §II's "authority was real, dense, law-governed — and
+     nowhere exclusive" is Ruggie p. 150 at T2 ("authority was both
+     personalized and parcelized within and across territorial
+     formations"). §VI's "It is a settlement, not a default" and "the
+     exclusive territorial state was *made*, under pressure, out of
+     something else" — p. 166: the modern state "was invented by the early
+     modern Europeans. Indeed, it was invented by them twice." §VI's
+     "Something locked the first medieval order shut: some force,
+     operating in identifiable decades" — p. 161, from a writer with no
+     fiscal-military thesis to serve: "Let us return for a moment to the
+     western European monarchies around the middle of the fifteenth
+     century. Their future looked bleak … The turn came suddenly. By the
+     end of the century, strong centralized administration had 'almost
+     completely transformed the political life of western and
+     west-central Europe' … In France, moreover, a weak central monarchy
+     ended up absorbing a stronger duchy of Burgundy in the process." The
+     IR canon's own dating of the turn to 1450–1500 [CONSENSUS], and the
+     best disinterested T2 warrant the chapter now holds for Part II's
+     decades. Ruling (c) confirmed from outside: "Once the system of
+     modern states was consolidated, however, the process of fundamental
+     transformation ceased" (p. 167); and the consolidation described as
+     subordination, per §8(h)(b) — "the consolidation of all parcelized
+     and personalized authority into one public realm" (p. 151).
+   - CORRECTS (fact; the draft's one citation of him hangs on it). §II
+     currently reads: "Perry Anderson's description remains the standard
+     one: a 'patchwork of overlapping and incomplete rights of government…
+     inextricably superimposed and tangled,' in which 'plural allegiances,
+     asymmetrical suzerainties and anomalous enclaves abounded' (Anderson
+     1974: 37–38; canonised for the international-relations literature by
+     Ruggie 1993)." By Ruggie's own notes the sentence has two sources:
+     n. 55 gives "patchwork of overlapping and incomplete rights of
+     government" to Strayer and Munro, *The Middle Ages* (1959), p. 115;
+     n. 56 gives the two remaining phrases to Anderson pp. 37 and 37–38.
+     The first phrase is therefore not Anderson's unless he himself quotes
+     Strayer and Munro at p. 37 — PENDING VERIFICATION, the ISEG PDF not
+     being in corpus. And n. 57 shows the canonising was done in Ruggie
+     1983 (*World Politics* 35), which Kobrin and Zielonka both cite; 1993
+     is the reconstruction. Correction stated, not applied: the sentence
+     carries both attributions (Strayer and Munro 1959: 115, quoted in
+     Ruggie 1993: 149; Anderson 1974: 37–38), "canonised … by Ruggie 1983,
+     reconstructed at 1993: 149–51," and the Anderson page is checked
+     before commit. A second, smaller precision: §II's "no internal
+     tendency was visibly carrying it toward the exclusive territorial
+     state — a point on which the neomedieval theorists and this book
+     agree" — Ruggie holds that thirteenth- and fourteenth-century change
+     was already undermining "the personalistic ties and the modes of
+     reasoning on which feudal authority rested" (p. 155) while "mutually
+     exclusive state formations did not emerge at this point. It was not
+     that simple" (p. 153); read "toward the exclusive territorial state
+     *in particular*," which is also what the Strayer parenthesis now in
+     the paragraph already concedes.
+   - ADDS (proposal only): (i) §VI, by name, p. 161 as the IR canon's
+     statement of the decades, in the sentence that now runs "The
+     literature's founder pointed at the period and moved on; its
+     systematiser named the pressure in a footnoted aside" — Ruggie is a
+     third figure, the lexicographer who dated the turn and explained it
+     by legitimation ("legitimate power became fused with the provision of
+     public order," p. 161), a layer the book can carry, not a rival
+     cause; (ii) §VI's "episode" paragraph gains "invented twice"
+     (p. 166) and the 1806 line (p. 167: the Empire's demise "closer in
+     time to the birth of the European Community (EC) than to the Peace of
+     Westphalia"); (iii) p. 153 as a T2 statement that the military driver
+     was acknowledged in the IR canon and then set aside — "changes in
+     military technology and in the relations of force are widely
+     acknowledged to have been driving factors of political
+     transformation throughout human history" (p. 143), with Herz 1957 as
+     the last epochal thought in security studies — the invitation Part II
+     accepts; (iv) for the §III [DELTA]: Ruggie's p. 143 and p. 155 deny
+     that substitutability is the right test at all (the fairs
+     "substituted for nothing" and undid feudal authority anyway), which
+     bears on how the [DELTA]'s reproduce-or-replace question is finally
+     resolved — the test the book applies is subordination (§8(h)(b)), and
+     the "new units" limb is the book's, not Bull's; the [DELTA] stays
+     open and gains this note. [BOOK'S ARGUMENT] throughout (iv). The
+     form objection (p. 156) and the "none of it" objection (p. 169) go to
+     critiques.md this date (Objections 7 and 8).
+
+2. **(Krasner 1999 — "exclusive"; the four sovereignties; organized
+   hypocrisy against the lock.)**
+   - CONFIRMS: §VI's Westphalian-myth paragraph — "Osiander's demolition
+     of the 'Westphalian myth' shows the 1648 treaties concerned
+     overwhelmingly with the Holy Roman Empire's internal constitution —
+     the sovereign-state reading is a nineteenth- and twentieth-century
+     retrojection (Osiander 2001)" — has an IR predecessor two years
+     earlier: "The norm of nonintervention in internal affairs had
+     virtually nothing to do with the Peace of Westphalia, which was
+     signed in 1648. It was not clearly articulated until the end of the
+     eighteenth century" (p. 20); Westphalia "accomplished this by
+     violating the principle of autonomy" (p. 82); the emperor "invited
+     French and Swedish oversight of constitutional practices in the
+     empire" (p. 81). [CONSENSUS on Westphalia, now three-deep: Krasner,
+     Osiander, Teschke.] §I's opening structure — a sovereign and a
+     chartered polity "nested one inside the other" — is not anomalous in
+     the system's grammar: the colonial powers "'resuscitated
+     pre-Westphalian forms of divided sovereignty'" (p. 6).
+   - CORRECTS (precision, not fact — and it is the register item of this
+     run). The draft claims exclusivity in three places. §I: "by what
+     specific mechanism Europe's overlapping authorities were, over one
+     long century, hammered into the exclusive territorial states we
+     mistake for nature." §VI: "made the overlapping authorities of 1200
+     into the exclusive sovereignties of 1700 — annexed the universalisms,
+     disarmed the lords, subordinated the cities, and paradoxically
+     produced, out of the densest plurality in European history, the most
+     exclusive form of political authority ever devised." §VI again: "that
+     the exclusive territorial state was *made*, under pressure, out of
+     something else." Krasner: "There has never been some ideal time
+     during which all, or even most, political entities conformed with all
+     of the characteristics that have been associated with
+     sovereignty—territory, control, recognition, and autonomy" (p. 238);
+     "The right, or ability, of the state apparatus to exercise full
+     authority within its own territorial borders has never been
+     consistently established in practice" (p. 51); "perhaps half of the
+     countries of Europe have never enjoyed Westphalian sovereignty for a
+     single moment of their existence" (p. 29). The exclusion of external
+     authority was never any period's practice, and "exclusive" is the
+     adjective a Krasner-reading reviewer strikes. What the paragraphs
+     need is only that the state was *made* and that the lock was real;
+     Krasner's own grid supplies the wording — the lock is internal
+     subordination (domestic sovereignty in his control sense, p. 4: "the
+     ability of public authorities to exercise effective control within
+     the borders of their own polity") plus the fiscal monopoly of
+     decisive force, for which his grid has no cell. Stated, not applied;
+     the register decision is at the foot of this entry.
+   - ADDS (proposal only): (i) §VI, one sentence by name conceding p. 24
+     ("the principles associated with both Westphalian and international
+     legal sovereignty have always been violated") and saying why the
+     book's lock is a different cell — he brackets the internal
+     consolidation ("I offer no explanation for the displacement of other
+     institutional forms, such as the Holy Roman Empire, the Chinese
+     tributary system, or the Hanseatic League," p. 5) and then concedes
+     it as fact with a functional cause ("functional advantages enjoyed by
+     states over other structures such as feudalism, the Catholic Church,
+     or city-states," p. 68); (ii) §III footnote: the critic of Bull's
+     English school (pp. 47–51) who never addresses the neomedieval
+     hypothesis, and whose 1999 interdependence scepticism ("these
+     challenges are not new," p. 223) treats transnational actors as flows
+     or advocates "without authority claims" (p. 119) — the gap ch02 works
+     in; (iii) the four-way vocabulary as the chapter's own precision
+     instrument: markets erode interdependence sovereignty, churches
+     breach Westphalian sovereignty, and the reassertion the book predicts
+     is domestic sovereignty in the control sense — which makes the
+     Friedrichs correction of §III falsifiable in Krasner's terms
+     [BOOK'S ARGUMENT]. The residue — invitation as the ornamental route
+     — is ch12's and Appendix C's. The objection at full strength is
+     critiques.md Objection 6.
+
+3. **(Goldsmith and Wu 2006, with Farrell and Newman 2019 and 2023 — §V's
+   Slaughter verdict confirmed; the cheap reassertion.)**
+   - CONFIRMS: §V's "important, and wrong … tissue is not skeleton. The
+     networks she identified coordinate; they do not command, tax, or
+     compel" and its test, "follow the capacity," were run on the
+     internationalists by two legal scholars in 2006 — "not a single
+     treaty has been drafted and ratified related to issues like
+     defamation, gambling, speech, privacy, and the like. For the
+     Internet, unilateral action, conflict, and ad hoc accommodation are
+     often the best the nations of the world can do" (Goldsmith and Wu
+     p. 167); the root fight "is not between governments and private
+     cybercommunities, as many once envisioned. Rather, it is indisputably
+     between national governments" (p. 171) — and by the peer-reviewed IR
+     article on Slaughter's own formulation: "liberals such as Slaughter
+     argue, power is 'power with,' rather than 'power over'" (Farrell and
+     Newman 2019: 49), answered with SWIFT — "It demonstrates how
+     globalized networks can indeed be used to exercise 'power over'"
+     (p. 70). The 2023 book supplies the exhibit: "We don't do subpoena"
+     collapsing after September 11 into "SWIFT quickly discovered that it
+     absolutely did 'do subpoena' when it had no other choice"; the era's
+     premier private transgovernmental network "an all-seeing servant of
+     the U.S. state" (ch. 2). §V's "The consequential decisions of the
+     period … were taken by states and blocs, transmitted *through* the
+     networks, and resisted by none of them" has, in these three, a
+     canonical ally that predates it [CONSENSUS in the second-generation
+     literature]. And CLAUDE.md §1 claim 1 ("treating dispersal as stable
+     rather than transitional") was diagnosed at T2 in 2006: "Today,
+     notions of a self-governing cyberspace are largely discredited"
+     (p. 14).
+   - CORRECTS (register, reaching spine §7 rather than any ch01 sentence
+     of fact). Goldsmith and Wu show the network's legibility layer —
+     content, commerce, payments, identity — re-territorialised between
+     2000 and 2006 by ordinary coercion of local intermediaries, with no
+     artillery-scale investment and no fiscal construction: "Government
+     regulation works by cost and bother, not by hermetic seal" (p. 68);
+     "without ever laying a finger on online sellers, the government can
+     impose its power" (p. 77). Farrell and Newman add that the levers
+     were free — the networks "were not constructed as tools of statecraft
+     … By building centralized networks, market actors inadvertently
+     provide states … with the necessary levers" (2019: 54). No ch01
+     sentence is contradicted; what is touched is the tense the chapter
+     inherits from spine §7 ("the reassertion is NOT accomplished") and
+     §V's "The disaggregated state was not the destination. It was the
+     condition on which the next consolidation will operate." The
+     correction, stated: the chapter's tense must be layered — the
+     reassertion over canon and register is accomplished and was cheap;
+     the reassertion over the decisive stack is compelled and
+     unaccomplished — and the artillery mechanism's claim over the
+     identity-payments-legibility stack is confined to scale and to its
+     fusion with the chokepoint layer, not to its existence. The answer
+     and its grades are critiques.md Objection 9.
+   - ADDS (proposal only): §V, by name beside Slaughter — Goldsmith and
+     Wu as the earliest canonical reassertion argument and Wriston's
+     *Twilight of Sovereignty* (1992), via Farrell and Newman ch. 1, as the
+     dispersal literature's business wing ("The sovereign power of states,
+     which had grown since the waning of the Middle Ages, was now in
+     decline"); the 2006 forecast — "the beginning of a technological
+     version of the cold war" (p. 184), "a collection of nation-state
+     networks" (p. 149), the EU "an emerging territorial nation-state
+     created (like Italy and Germany in the nineteenth century) out of
+     smaller ones" (p. 154) — as the bloc geometry stated from the legal
+     side; and their scale limit ("less effective in small nations,"
+     pp. 81–82) as the interstices named in 2006. Wriston 1992 to
+     retrieval if made load-bearing. The Farrell and Newman book also
+     confirms independently (ch. 6, "a fundamental shift in the use of
+     export controls," October 2022) the 2016–20 dating that the
+     13 September entry raised against §IV's "Since 2022 that species of
+     pressure has visibly begun returning" — still NOT applied, still
+     flagged for Roderick.
+
+4. **(Schmitt 1950 — footnote-grade supply; one precision for the
+   duality.)**
+   - CONFIRMS: §II's "the plurality was not chaos. It was law-dense …
+     What the order lacked was not law but *hierarchy among laws*" — "the
+     European medieval order certainly was very anarchistic in terms of a
+     smoothly functioning modern factory, but it was not nihilistic,
+     despite all the wars and feuds, as long as it retained the
+     fundamental unity of order and orientation" (p. 57): the canonical
+     legal-theory statement, from the century's most influential jurist of
+     spatial order. §VI's episode — "Only a completely different spatial
+     order ended medieval international law in Europe. It arose with the
+     centralized, spatially self-contained, continental European state
+     that faced emperor and pope" (p. 66). §II's two universalisms above
+     the lattice — the order survived the emperor's impotence "as long as
+     the auctoritas of the pope sufficed to issue mandates for missions
+     and crusades" (p. 66).
+   - CORRECTS (interpretive pressure, not fact). §III renders the
+     Friedrichs duality as "the standing competition of two universalisms
+     — Empire and Church, each claiming the whole world in a different
+     register, neither able to absorb the other." Schmitt: the antitheses
+     of emperor and pope "were not absolute, but rather diversi ordines …
+     of the same encompassing unity," resting on "the distinction between
+     potestas [power] and auctoritas [authority] as two distinct lines of
+     order" (p. 61), and the real division is dated to the thirteenth-
+     century *societas perfecta* doctrine ("Misfortune did not arise until
+     the 13th century"). This does not correct Friedrichs — "held together
+     by" already concedes the unity — but "neither able to absorb the
+     other" could carry a footnote acknowledging the stronger reading:
+     they were not trying to, being orders of one *respublica*
+     [CONTESTED — Schmitt v. Friedrichs, recorded]. Stated, not applied.
+   - ADDS: nothing further here; the fork of 1950 (pp. 354–55), the
+     *Großraum*, and the rival cause ("solely," p. 140) are ch12's and
+     ch10's. Wherever he is cited, even in a note, the 1939 provenance of
+     the *Großraum* doctrine is named (sources.md).
+
+5. **(Tilly 1975 and Suleyman 2023 — the intuition's lineage, before and
+   after the literature.)**
+   - CONFIRMS: nothing in the draft is contradicted.
+   - CORRECTS: none of fact. One precision to §I's "It has a founding
+     text, a careful literature, and a name: the new medievalism" and
+     §III's "in order of their arrival … the founder first": the name is
+     Bull's, but the intuition, with technology as the disperser, was in
+     print two years earlier from the founder of bellicism — "At the same
+     time as the state system absorbs the entire world, the individual
+     state may be losing part of its significance … Perhaps control of a
+     contiguous territory was peculiarly advantageous to the land- and
+     water-bound technologies of the European state-making eras, but an
+     obstacle to full exploitation of technologies of flight, electric
+     power and electronic information-handling … Perhaps, unknowing, we
+     are writing obituaries for the state" (Tilly 1975: 638); Herz 1957
+     (via Ruggie n. 23) earlier still, with the nuclear weapon as the
+     disperser. "Founding text" survives as the text that named the
+     condition; the draft should not imply Bull had the intuition first.
+   - ADDS (proposal only): (i) §III, a sentence or a note by name — Tilly
+     as neomedievalist before Bull, and the point of citing him: the
+     technologies he named as the state's obstacle in 1975 are the ones
+     this book argues now re-concentrate decisive force [BOOK'S
+     ARGUMENT]; the same page lists the defining features the trends
+     threaten — "the monopoly of coercion, the exclusiveness of control
+     within the territory" — which is the lock in Krasner's internal
+     sense, named by Tilly as what was at risk; (ii) one line, §III or
+     §VI, that a 2023 trade bestseller still reaches for the word —
+     "Something more like the pre-nation-state world emerges in this
+     scenario, neo-medieval, smaller, more local, and constitutionally
+     diverse, a complex, unstable patchwork of polities. Only this time
+     with hugely powerful technology" (Suleyman, PDF 221 / ~201) — T3
+     witness, never load-bearing, and his own book's reconciliation of
+     that sentence with its "colossal transfer of power away from
+     traditional states" is ch12's business.
+
+6. **(Scott 1998 and Glete 2002 — negative and pointer findings.)**
+   - Scott: the assessment's placement is "name Scott at first use of
+     'legibility'" in the Introduction and ch. 1. ch01/draft.md does not
+     use the word in any form (search this date, zero hits); the debt is
+     the Introduction's (l. 95, 117 of the assembly) and no ch01 sentence
+     is owed. Recorded so the renovation does not add a Scott sentence
+     here without the word to hang it on; if §IV or §VI acquires the word,
+     the acknowledging clause is owed at that point (pins in sources.md).
+   - Glete: ADDS (proposal only), §II footnote on the substrate's
+     incapacity — "The situation of medieval states varied between that
+     of the United Nations and NATO in the late twentieth century" (p. 12)
+     — a fiscal-military historian's T2 statement that the plural order
+     lacked operational military capability, beside the durability
+     sentence; and the "double contractual relationship" (p. 4) as the
+     form the later settlement took, for the trailhead to Part II. Nothing
+     corrected.
+
+7. **Flags (STEP 1.4).** The draft's open flags are the §II [GAP]s
+   (Morris on Innocent III; Forey or Nicholson's history of the orders;
+   Jones on northern Italy), the Próspera GDP [GAP], and the §III
+   [DELTA]. None of the 14 September assessments closes any of them —
+   NO FLAG IS CLOSABLE AT RENOVATION from this run and none is RE-SOURCE
+   OR CUT. One item that is not a flag in the draft but functions as one
+   is entered here: the §II Anderson attribution (Revisions 1 above) —
+   CORRECTION, APPLY AT RENOVATION, PENDING VERIFICATION against Anderson
+   1974: 37 (RE-SOURCE the first phrase to Strayer and Munro 1959: 115 via
+   Ruggie 1993: 149 n. 55 if Anderson does not carry it). The §III [DELTA]
+   gains Ruggie's substitutability point (Revisions 1(iv)) and stays open
+   for Roderick.
+
+**Register decisions proposed for the rulings sheet** (stated, not
+recommended; continuing the sheet's lettering after (cc)):
+
+- **"Exclusive" → internal subordination and the fiscal monopoly of
+  decisive force (per Krasner).** Draft sentences: §I "hammered into the
+  exclusive territorial states we mistake for nature"; §VI "the exclusive
+  sovereignties of 1700 … the most exclusive form of political authority
+  ever devised"; §VI "that the exclusive territorial state was *made*."
+  Carriers: Krasner 1999: 4, 12, 24, 29, 51, 238; Ruggie 1993: 151.
+  Touches spine §3's pendulum wording ("undermighty kings … over-mighty
+  subjects" survives; any "exclusive sovereignty" phrasing in the
+  Introduction, l. 55 of the assembly, is the same row).
+- **The layered tense (per Goldsmith and Wu, with Farrell and Newman).**
+  Draft sentence: §V "The disaggregated state was not the destination. It
+  was the condition on which the next consolidation will operate."
+  Decision: the chapter states the reassertion over canon and register as
+  accomplished and cheap (2000–06, by coercion of local intermediaries)
+  and the reassertion over the decisive stack as compelled and
+  unaccomplished; the mechanism's claim over the
+  identity-payments-legibility stack is confined to scale and fusion.
+  Carriers: Goldsmith and Wu 2006: 68, 77, 149, 167, 184; Farrell and
+  Newman 2019: 54, 58. Touches spine §7 (a register amendment, not a
+  reversal).
+- **The Anderson sentence carries two attributions and Ruggie 1983 (per
+  Ruggie 1993 nn. 55–57).** Draft sentence: §II "Perry Anderson's
+  description remains the standard one … (Anderson 1974: 37–38; canonised
+  for the international-relations literature by Ruggie 1993)." Carriers:
+  Ruggie 1993: 149 nn. 55–57; Anderson 1974: 37 (to verify). A correction
+  of fact, entered on the sheet only because it changes a sentence in a
+  reviewed draft.
+- **Bull as the text that named the condition, not the first to have the
+  intuition (per Tilly 1975; Herz 1957 via Ruggie).** Draft sentences: §I
+  "It has a founding text, a careful literature, and a name"; §III "the
+  founder first, doubting his own hypothesis." Carriers: Tilly 1975: 638,
+  630; Ruggie 1993: 143 n. 23. Touches nothing in spine or doctrine.
+- **The [DELTA]'s test is subordination, not substitutability (per
+  Ruggie).** Draft passage: the §III [DELTA] as flagged 2026-08-03.
+  Carriers: Ruggie 1993: 143, 155; spine §8(h)(b). Touches spine §7's
+  casting of Bull's test ("does the trend replace sovereignty, or
+  reproduce it in new units?") — the "new units" limb to be marked as the
+  book's own.
+
+STATUS: PENDING HUMAN REVIEW (this entry); the entries of 2026-09-13 and
+the Phase 5 entry of 2026-09-16 PENDING as before; the memo body REVIEWED
 as before.
