@@ -2124,3 +2124,356 @@ or §VII — is Roderick's.
   (ch11 (dd)); ruling (k) against Ertman (ch11 (ee)).
 
 STATUS (Revisions 16–27 and the Part B2 section): PENDING HUMAN REVIEW.
+
+
+## Revisions (continued) — Phase 5 renovation
+
+28. **(2026-09-16 — Phase 5 renovation, Part B2: rulings (u), (w)/(n),
+    (x), (v), (cc); spine §8(g) items 1–6. PENDING HUMAN REVIEW.)**
+    Executed against research/claude-code-instruction-phase5-renovation-
+    2026-09-16.md Part B2 and its general rules; the "For Part B2"
+    section above was the map, the sidecars in
+    corpus/retrieved/source-library/text-2026-09-14/ (and text-2026-09-13/
+    for Tilly 1990; text-2026-09-13b/ for Elliott 1992 and Johns) the
+    authority — every quotation below was opened at the page before it
+    entered the draft. No new work enters; two POINTER entries
+    (Elliott 1992; Johns) and the pins used are recorded in sources.md
+    this date. Nothing in the asset ledger (now §VIII) or the Castillon
+    return (now §IX) was touched; the oil passages of Part A (Revisions
+    15) were not redone. Word count: draft.md 6,763 → 11,885 (footer
+    included; the footer entry is c. 700 of the growth).
+
+    **A. Sentences changed (old → new).**
+    - Header, l. 8: "The §9 boundary governs §VII: asset-class direction
+      permitted, actionable guidance prohibited." → "The §9 boundary
+      governs the asset ledger (§VII at first draft; §VIII from the Phase
+      5 renovation of 2026-09-16, when the two-claim close entered as
+      §VII): asset-class direction permitted, actionable guidance
+      prohibited." (Conforming note only.)
+    - §VI, ll. 549–552 (the rulings sheet's "l. 546"), per (cc): "The
+      sceptics-concede thread is the book's evidentiary signature, and it
+      is offered as method, not as trick: an argument assembled from its
+      critics' concessions is an argument its critics can only refine." →
+      "The sceptics-concede thread is the book's evidentiary signature,
+      and it is offered as method, not as immunity. An argument assembled
+      from its critics' concessions can still be wrong, and the book's own
+      rule for how it would be found wrong is stated here so that the
+      reader does not have to supply one. The four blocs are scored
+      separately — the United States, China, Europe, India — and a
+      prediction that fails for the United States is a failure, whatever
+      the record elsewhere; each indicator is read at four levels, enacted
+      authority, demonstrated compliance, operating capacity and
+      democratic accountability, so that a statute is never counted as a
+      settlement; and a prediction that survives only by changing its
+      referent is counted as failed." — followed by the Chastellain
+      specimen (B.6 below).
+    - "## VII." (the asset ledger) → "## VIII."; "## VIII." (the Castillon
+      return) → "## IX."; a new "## VII." inserted before the ledger
+      (placement, E below).
+    - Footer: a Phase 5 Part B2 Revisions entry and an updated
+      voice-discipline ledger appended (the August ledger left standing,
+      superseded on the coinage count only); STATUS line extended.
+    - No other sentence of the REVIEWED draft was altered.
+
+    **B. New paragraphs, with pins.**
+    1. *§IV, the composite form — rulings (w)/(n), spine §8(h)(n).*
+       Inserted after "…is what C11-1 scores, year by year." Solórzano's
+       two forms from Elliott 1992: accessory union — "regarded
+       juridically as part and parcel" (p. 52); *aeque principaliter* —
+       "must be ruled and governed as if the king who holds them all
+       together were king only of each one of them" (p. 53); "the very
+       looseness of the association was in a sense its greatest strength"
+       (p. 69); "only three successful secessions" 1523–1707 (p. 68); the
+       eighteenth-century fiscal-military state "remained essentially
+       composite" (p. 70) — all opened at Elliott-Composite.txt PDF 6, 7,
+       22, 23, 24 (printed = PDF+46). The American reading stated as
+       selective and plural on the composite form: federal command in
+       named strategic domains (foundry, constellation, frontier compute,
+       munitions base, payment rails), private ownership beneath, the
+       states resisting the inward turn of the canon (the existing
+       draft's own sentence), judicial boundaries (*Moody*, already
+       cited), sectoral variation (carriage/licence/firebreak, the
+       existing draft's instrument list). The Chinese reading in the
+       accessory column, on the licence as the instrument of
+       incorporation — Cheung pp. 114–16 / PDF 129–31 (verified 16
+       September, Revisions 25); "the discipline of 2020–23" carried in
+       the draft's existing words, NOT re-dated to the 2002 pact (that is
+       unruled row (yy)) and NOT relabelled layer-specific (unruled row
+       (kk)). Consensus / contested / book: Solórzano's forms and
+       Elliott's counts are T2; the mapping of the two forms onto the
+       American and Chinese readings is the book's (c), as ruling (n)
+       requires.
+    2. *§IV, [BRIDGE — PROPOSED] beneath it — the disanalogy per (w),
+       "institutional, not America-is-Spain".* The chapter carried no
+       [BRIDGE] paragraph in its body (the only "[BRIDGE]" string was the
+       footer's reference to Roderick's passes), so the block sits beneath
+       the new composite paragraph rather than beneath an existing bridge;
+       both are left for Roderick. Pins: Elliott 1992 p. 64 ("could only
+       hope to survive if systems of patronage were maintained in careful
+       working order") and p. 69 ("The forces of one kingdom could be used
+       to put down trouble in another") — PDF 18, 23.
+    3. *§IV, the five transfers — ruling (v).* The five discretions as
+       ch11 §VII itemises them (refusal; infrastructure; succession;
+       operational knowledge; rule-setting), wealth and standing kept; the
+       Alençon arrêt VERIFIED at Chastellain-vol15-ocr.txt (printed =
+       PDF−10): "en le propre et mesme forme comme il la pronunça" (p. 478
+       / PDF 488, per sources.md); "jusques à son bon plaisir" (p. 484 /
+       PDF 494 — read); "réservé au roy l'artillerie, harnois et autres
+       habillemens de guerre" (p. 486 / PDF 496 — read; the castellanies
+       "unist et adjoint et incorpore au patrimoine et au domaine de son
+       royaume" and the appanage residue retained on the same page); "sans
+       toutevoies aucune dignité ou prérogative de parrie" (p. 487 / PDF
+       497 — read). Old French verbatim in text, each with its translation
+       and [TRANS. CLAUDE]; author–date "Chastellain, ed. Kervyn 1863: iii.
+       page". Four of five transfers at T1, the fifth silent and pointed
+       to Fortescue via ch11 (ch11 memo Revisions 10's mapping adopted).
+       The disanalogy carried in text per CLAUDE.md §6 and critiques
+       Revisions 9: judicial, negotiated, moderated on Brittany's petition
+       (p. 486), reversible by a succession. The place of the judgment is
+       NOT named (no carrier in this chapter's sources); "1458" as
+       sources.md and critiques carry it. The American licence's
+       transfer-by-transfer mapping (fee/clearance/revocation → refusal,
+       infrastructure, rule-setting; merger review → succession; programme
+       of record → knowledge) is the book's (c), scored at C11-1.
+    4. *§IV, command, dependence, capture — ruling (x).* The triad as
+       ch10 §VIII introduced it (by pointer); Farrell and Newman adopted
+       BY NAME with the attribution — "panopticon effect" and "capacity to
+       tap into the information-gathering and information-generating
+       activities of networks of private actors" (2019: 55 / FN-article
+       PDF 14 — read); "chokepoint effect", "capacity to limit or penalize
+       use of hubs by third parties" (pp. 55–56 / PDF 14–15 — read); the
+       scope condition "States that have jurisdictional control over
+       network hubs and enjoy sufficient institutional capacity" (p. 58 /
+       PDF 17 — read); the deputised private hand from the book — BNP
+       Paribas's office "under the direct oversight of U.S. regulators",
+       the cable subsidiary's board "dominated by U.S. citizens with
+       security clearances" (2023: chapter2.xhtml — read); the
+       horizontal/vertical disanalogy and the licence-has-no-counterpart
+       point as the book's. The Lombards of Bruges VERIFIED: "se peut mal
+       passer de eux" and "le duc enfin estoit constraint de les y remettre
+       par la nécessité publique, et retournèrent partout comme devant"
+       (pp. 315–16 / PDF 325–26 — read; the confiscation, "grand amende"
+       and composition carried with the dependence, per sources.md's
+       caution that the extraction travels with it). Johns's quo warranto
+       VERIFIED at Johns.txt PDF 340–343 (printed = PDF−23): proceedings
+       begun 1670 (p. 317), "Temporarily suspended … returned in 1684 …
+       Now the Company at last lost its charter … immediately
+       reincorporated … allowing the crown a more direct say in who got
+       elected to the court … the first London company to get such a new
+       charter" (p. 319); James II's "a Prerogative inseparable from the
+       Soveraignty of our Imperiall Crowne" and "for once this was true in
+       practice" (p. 319); "In his final panic James restored the pre-1684
+       charter. The invasion of William of Orange finally removed the
+       prospect of a comprehensive system of prerogative press regulation"
+       (p. 320) — entered as absorption attempted and reversed, 1670–88,
+       beside Standard Oil, per ruling (p)'s "goes to ch12". Miller for
+       the fab/aircraft-carrier and the c. 2 per cent federal share (ch.
+       48 ≈289; Conclusion ≈346–47 — sources.md 2026-09-13). The
+       prediction stated as command with dependence; capture named as the
+       risk and handed to Appendix C. Krasner's grid is NOT used in this
+       paragraph (kept for B.5).
+    5. *§IV, the present indicator — spine §8(g) item 3.* The fusion of
+       barons and government against the government's own representative
+       institutions, absorption by alliance rather than revocation; Tilly
+       1985's "the obvious fourth category of owner: a dominant class" and
+       "a subordinate government would tend to maximize monopoly profits"
+       (Protection as Business — read in Tilly-1985-WarMaking.txt);
+       Crouch's "a new dominant, combined political and economic class"
+       and "the growing dependence of government on the knowledge and
+       expertise of corporate executives" (PDF 20 — read); Krasner's
+       invitation — "can extend invitations, sometimes inadvertent, that
+       result in compromises of their own Westphalian sovereignty" (p. 20
+       / PDF 30 — read) and "more powerful states are unlikely to lose
+       their Westphalian sovereignty unless they invite external authority
+       through conventions or contractual arrangements" (p. 29 / PDF 39 —
+       read) — cited AS HIS TERM for a different object and explicitly
+       not adopted as the book's word (unruled row (ii)); the
+       coercion/contract distinction handed to the American sub-wager
+       (CC-10).
+    6. *§VI, the specimen at the (cc) cut.* Chastellain VERIFIED: the
+       astrologers whom the king "de tout temps avoit esté sorty et les
+       créoit fort" (p. 446 / PDF 456 — read); "par jugement d'astronomie
+       il devoit mourir et ne passeroit point le mois de mars" (p. 444 /
+       PDF 454 — read); "furent trompés tous deux, car vesqui le roy
+       encore longs jours depuis en haut règne" (p. 446 / PDF 456 — read);
+       "cestes manières de gens qui présument des secrets de Dieu qui
+       desvoient les princes" (p. 449 / PDF 459 — read); the comet hedged
+       "posé que elles ne soient approuvées, ne tenues à nécessaires" (p.
+       117 / PDF 127 — read) and cashed "ne fut mie sans mistère que la
+       très-triste et sombre commette s'estoit monstrée en la saison
+       devant" (p. 387 / PDF 397 — read; the two princes named there only
+       as of Cyprus and of Hungary, and so named in the draft). Attributed
+       to the astrologers and the princes, never to the chronicler, per
+       Revisions 16's correction; the comet as the forecast that survives
+       by changing its referent; Appendix C's rule stated against it
+       (CC-15). Placement at §VI beside the four-bloc frame, as the
+       instruction directs; the Introduction's wager is B3's.
+    7. *New §VII, the two-claim close — ruling (u), spine §8(g) items
+       1–6.* Six paragraphs. (i) The split: claim (i) the barons
+       subordinated, DEFEND; claim (ii) the people's control of the
+       consolidated state open — CLAUDE.md §1 claim 3's own sentence
+       ("The barons' loss of independence and the people's acquisition of
+       control are not the same event") carried into text; 1458 as the
+       instance; the form open at T2 — Glete "Strong organisational
+       structures may be compatible with highly authoritarian,
+       constitutional and in the end also democratic political systems"
+       (p. 212 / PDF 221 — read), the Riksdag's "more resources from free
+       peasants with parliamentary representation than contemporary
+       European states could extract from unrepresented and often unfree
+       peasants" (p. 194 / PDF 203 — read), Karl XI "without abolishing
+       the parliament" with the peasants' consent (p. 195 / PDF 204 —
+       read). (ii) The ornamental route defined in text as a demonstrable
+       separation of legitimating authority from effective control over
+       the state's strategic commitments (item 2's wording); the four
+       falsifiers stated with the wager; democracy and liberalism scored
+       separately, credited to Crouch (PDF 5–6 — read); Crouch's
+       post-democracy at PDF 2, 8, 14, 32 (all read); Bagehot's "sole
+       charge of one secret committee" and "it may not be a remedy at all;
+       it may be only a punishment" (Introduction, PDF 11 — read) as the
+       1872 form of "strategic commitments" and the remedy/punishment
+       design rule; Wolin NAMED with [GAP: Wolin, Democracy Incorporated
+       (2008) — retrieval; not in corpus] and cited from nothing;
+       Stasavage's Cortes as the T2 portrait (part0014_split_008,
+       part0014_split_009, part0015_split_002 — read); the book's
+       contribution stated as the mechanism (the state compelled to absorb
+       a firm it cannot replace, possibly by alliance) against Crouch's
+       exit-drains-the-state story. (iii) The fiscal mechanism in text —
+       item 4: Tilly 1990 pp. 207–8 verbatim ("Where the ability of rulers
+       to draw revenues from commodity exports or from great-power
+       military aid has allowed them to bypass bargaining with their
+       subject populations, large state edifices have grown up in the
+       absence of significant consent or support from citizens" —
+       Tilly.txt, form-feed pages 434–35, read); Tilly 1985's "When
+       ordinary people resisted vigorously, authorities made concessions:
+       guarantees of rights, representative institutions, courts of
+       appeal" (How States Formed) and the externally-armed exception
+       "acquired their military organization from outside, without the
+       same internal forging of mutual constraints between rulers and
+       ruled" (War as International Relations) — both read; the
+       domestic-rent inference (licence fee, revenue cut, equity stake,
+       securitised loan) MARKED as the book's; Glete's Spain (pp. 122,
+       125, 126, 139 / PDF 131, 134, 135, 148 — all read) and Sweden as
+       the two branches; Bagehot's "a result, not a basis—an example, not
+       a cause" (Conclusion, PDF 105 — read) as the converse. (iv) The
+       Bagehot bridge — item 5: the distinction and warrant (The Cabinet,
+       PDF 21 — read: "the DIGNIFIED parts", "the EFFICIENT parts", "bring
+       it force—which attract its motive power. The efficient parts only
+       employ that power"); the genealogy (Conclusion, PDF 103 — read:
+       "a child or an idiot, or one by some defect or other incapable";
+       "not so much to suggest as to inculcate, not so much to advise as
+       to enjoin"), pointed to ch09 for the fifteenth-century instance;
+       the disanalogy — "the preliminaries, the needful prerequisites of
+       ALL work. They raise the army, though they do not win the battle"
+       (PDF 21 — read; the sources.md pin confirmed at the foot of the
+       page); his valuation refused — "The real rulers are secreted in
+       second-rate carriages" (Prerequisites, PDF 101 — read); the
+       inversion stated with "A Republic has insinuated itself beneath the
+       folds of a Monarchy" cited with its context (of society; The
+       Monarchy I, PDF 35 — read); "unstable equilibrium" (PDF 102 — read)
+       and "Its mystery is its life. We must not let in daylight upon
+       magic" (The Monarchy II, PDF 37 — read) conceded as predictions;
+       the *prefet* (Conclusion, PDF 104 — read) and the Second Empire's
+       chambers (Commons, PDF 71 — read), the stack-as-*prefet* reading
+       flagged as the book's inference. His "Henry VII. attained a kingdom
+       …" (PDF 104) NOT cited, per sources.md. (v) The two-handed close,
+       forward-leaning into §VIII and the Coda; no summary. Consensus /
+       contested / book: the distinction is a classic and the condition
+       is Crouch's and Stasavage's; the special-case relation, the
+       falsifiers, the domestic-rent inference and the stack-as-*prefet*
+       reading are the book's (c).
+
+    **C. The coinage ledger check (spine §8(g)(6)), as the instruction
+    requires it stated before the claim.** (i) Crouch: "post-democracy" is
+    the condition — "the forms of democracy remain fully in place … slipping
+    back into the control of privileged elites" (PDF 2); zero occurrences
+    of "ornament", "ornamental", "façade", "hollow", "husk" or "veneer" in
+    Crouch-PostDemocracy.txt (grep this run, confirming sources.md's
+    check). "Ornamental democracy" is therefore a SPECIAL CASE of his
+    concept — object restricted to the state's strategic commitments and
+    the decisive stack; falsifiers given where his pole is "an
+    exaggeration"; the mechanism reversed — and the draft introduces it AS
+    a special case of post-democracy at first use, the adjective free and
+    the noun his. (ii) Bagehot: "ornamental" occurs only of "the
+    additional and solely-ornamental wheels introduced into the clocks of
+    the Middle Ages" (PDF 83 — read this run); his words for the
+    constitution are "disguise", "theatrical show", "sham" — not the
+    phrase, and the draft says so. (iii) Wolin: NOT IN CORPUS; "inverted
+    totalitarianism" is not checked and is not characterised from memory;
+    the draft names him, flags [GAP], and the coinage claim is PROVISIONAL
+    until his text is opened. (iv) Stasavage and Suleyman are predecessors
+    on the condition, not the phrase (Revisions 23, 26); Stasavage is in
+    the draft, Suleyman is not (T3; not needed). CONSEQUENCE: the footer
+    now counts "ornamental democracy" as the chapter's one coined concept.
+    The August footer claimed "the over-mighty citizen" (§IV) as the one;
+    the chapter may carry one. Because §8(g)(6) rules "ornamental
+    democracy" a chapter-level coinage and ch09's ledger (9-e) leaves it to
+    this chapter, the ledger makes it the one and FLAGS "the over-mighty
+    citizen" FOR RODERICK: cut it, or reclassify it as an adapted borrowing
+    (Fortescue's "ovur mighty subgiettes" inverted for a republic, lineage
+    already credited in text), which takes it out of the count without
+    touching the sentence.
+
+    **D. Voice ledger (counted as produced).** Coined concept — ONE
+    (provisional, C above). Vivid image — the chapter's §I image stands;
+    the new text quotes Bagehot's images as his ("raise the army",
+    "daylight upon magic", "second-rate carriages", the clock-wheels) and
+    adds none of the book's; the [BRIDGE — PROPOSED]'s "not how Washington
+    holds Texas" is a plain statement, not an image, but is Roderick's to
+    judge. Aphoristic line — the §V line stands. Six new quotable lines
+    listed in the footer for his ration (above the ration; the cuts are
+    his; the first of them is the doctrine's own sentence).
+
+    **E. Placement (register decision (nn)).** §VII as drafted was the
+    asset ledger under CLAUDE.md §9 and could not carry the two-claim
+    close; the close is entered as a NEW §VII, the ledger renumbered §VIII
+    and the Castillon return §IX, so that "ch12 §VII close" in the rulings
+    sheet, spine §8(g) and the Part B instruction now names the passage
+    it was written for. Alternative, if Roderick prefers the old numbers:
+    the close at the head of §VII with the §9 margin note moved beneath
+    it. Documents that cite "§VIII" for the Castillon return (this memo's
+    §7 header; earlier Revisions) are reflective and were not altered.
+    The ledger itself is untouched and remains within CLAUDE.md §9.
+
+    **F. Outline check.** outline.md's ch12 Structure 1–7 read this run.
+    No [OUTLINE CONFLICT]: Structure 1's "structural resemblance to
+    sixteenth-century composite monarchies" anticipates (w); Structure 2's
+    "delivery-and-spectacle legitimacy in place of representative
+    accountability" is consistent with §8(g)'s form-open ruling and does
+    not assume popular control; Structure 6–7's order (implications, then
+    Castillon) is preserved behind the new close. The outline has no
+    two-claim close; the addition is an expansion the rulings order, not
+    a contradiction.
+
+    **G. Unruled rows NOT applied, where the new text would otherwise
+    want them.** (kk) the Chinese verdict layer-specific and "fused"
+    relabelled — the new composite paragraph says "the discipline of
+    2020–23" in the draft's existing words and the China paragraph
+    beneath it is untouched; (ll) the layered tense — the new text keeps
+    spine §7's single tense; (oo) Kingsbury 1913 and the 2008
+    reconstitution beside "and keeps it" — the quo warranto is entered as
+    ruled by (p), the American reversal is not; (rr) Scott named at
+    "legibility" — the new §VII uses "identity–payments–legibility stack"
+    without naming him; (ii) Krasner's word as the book's — cited as his;
+    (jj) McNeill's lag as a scored risk — not entered; (pp)/(ss)/(tt)
+    Schmitt, the EU refinements and Ruggie — not entered; (mm) is
+    executed as ruled by §8(g)(5)–(6) (the special-case introduction is
+    the instruction's own requirement), and (uu)'s placement question is
+    answered by the instruction (§VI).
+
+    **H. What a ruling asked for that could not be done at the pin.**
+    Wolin: named, not cited (not in corpus) — the coinage stays
+    provisional. The fifth transfer (operational knowledge) is silent in
+    the Alençon instance and is carried by pointer to Fortescue, as ch11
+    memo Revisions 10 maps it. Tilly 1975 p. 625 ("a widespread
+    suppression of political rights") was NOT found at the sidecar page
+    this run (PDF 25) and is not used; p. 613's "abridgements of political
+    rights" was found but the close does not need it. The place of the
+    Alençon judgment is not named (no carrier here). A draft clause "and
+    sometimes winning" (the states against federal preemption) was
+    removed before commit as unsourced. Spine §8(c)(ii)'s "title left,
+    discretion severed" remains the spine's wording (Revisions 15's
+    note). Critiques.md not edited: its Revisions 9, 10, 15, 16, 17 and 19
+    already carry the objections the new text answers; the Perplexity
+    run remains pending.
+
+STATUS (Revisions 28): PENDING HUMAN REVIEW.

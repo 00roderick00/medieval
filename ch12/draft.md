@@ -5,7 +5,9 @@
 synthesis chapter, inheriting its historical claims from the reviewed
 memos and drafts of chs. 1–11 without re-arguing them. One memo-level
 update: ch09, cited there as pending review, was reviewed 2026-07-31 and
-is cited here accordingly. The §9 boundary governs §VII: asset-class
+is cited here accordingly. The §9 boundary governs the asset ledger
+(§VII at first draft; §VIII from the Phase 5 renovation of
+2026-09-16, when the two-claim close entered as §VII): asset-class
 direction permitted, actionable guidance prohibited. The US–Iran
 exclusion was REVERSED on Roderick's synthesis-memo review (2026-08-02):
 CRS R48887 ("U.S. Conflict with Iran," 26 March 2026) is integrated in
@@ -287,6 +289,199 @@ Whether the American system can run that pattern against its own
 constitutional grain, at the stack's tempo, is what C11-1 scores,
 year by year.
 
+Absorb it into what, is the question the verdict leaves open, and
+the fifteenth century supplies the grammar for answering it. Every
+consolidator Chapter 11 examined was a composite — a core polity
+whose intermediaries the settlement subordinated, ruling the rest
+by contract — and the Spanish jurist Solórzano, writing in the
+seventeenth century, distinguished the two legal forms such a
+union could take: the accessory union, in which the acquired
+territory was "regarded juridically as part and parcel" of the
+crown that took it, its inhabitants under the same laws; and the
+union *aeque principaliter*, in which the constituent kingdoms
+"must be ruled and governed as if the king who holds them all
+together were king only of each one of them" (Solórzano, quoted in
+Elliott 1992: 52–53). The American consolidation, if it comes,
+will be of the second kind, and the book predicts it in that form
+rather than as a delay before uniformity: federal command asserted
+in named strategic domains — the foundry, the constellation,
+frontier compute, the munitions base, the payment rails — with
+private ownership left standing beneath it; the states resisting
+the inward turn of the canon noted above;
+the courts drawing the boundaries, as they drew them in *Moody*;
+and the settlement varying sector by sector — carriage here,
+licence there, a firebreak elsewhere, whichever instrument fits
+the dependency. That plurality is not the consolidation failing to
+arrive. It is what consolidation looks like in a polity of this
+constitutional kind, as Elliott's composites — in which "the very
+looseness of the association was in a sense its greatest strength"
+(1992: 69), and from which only three members seceded between 1523
+and 1707 (p. 68) — were not failed unitary states but a durable
+form of their own, one the eighteenth-century fiscal-military
+state "remained essentially" (p. 70). The Chinese reading runs in
+Solórzano's other column. The platform orders there are
+incorporated as accessory territory is incorporated — juridically
+part and parcel of the party-state, their functions delegated by
+licence and their ownership retained, the licence itself the
+instrument of incorporation (Cheung 2022: 114–16) — and the
+discipline of 2020–23 the moment the incorporation was made to
+bite. Which column a bloc falls into is therefore not a measure of
+how far its consolidation has gone but of the constitutional
+material it has to work with, and Appendix C scores the two forms
+by different indicators.
+
+[BRIDGE — PROPOSED: The comparison is institutional, and the
+disanalogy should be stated before the reader supplies a worse
+one. America is not Spain. The American composite is a federation
+of law, not a dynastic accumulation of kingdoms; its units were
+never separate crowns and its core is a constitution rather than a
+Castile; the courts that bound the union are its own, not a
+foreign ruler's promise to keep the *fueros*; and Elliott's
+composites were held together by patronage kept "in careful
+working order" and by the deterrent of one kingdom's forces used
+against another (1992: 64, 69), which is not how Washington holds
+Texas. What travels is narrower and holds: that a consolidation
+which subordinates the intermediaries of the core while ruling the
+rest by contract is a settlement and not a way-station, and that
+the plural form is the one a polity of this constitutional kind
+can actually execute. Roderick to rewrite.]
+
+What the licence transfers can be itemised, and Chapter 11
+itemised it, because the fifteenth century did so first. The
+settlement's instruments did not take the barons' wealth; they
+took five discretions — the power to refuse the crown's strategic
+demands; control of the infrastructure the crown could not do
+without; the succession; operational knowledge; and the making of
+rules for one's own domain — and left the estate and the standing
+intact. The clearest document of the transfer the corpus holds is
+French, and it is a crown text, which the chronicler says he gives
+"en le propre et mesme forme comme il la pronunça" — in the very
+form in which the king pronounced it [TRANS. CLAUDE] (Chastellain,
+ed. Kervyn 1863: iii. 478). When the peers condemned the duke of
+Alençon in 1458, Charles VII deferred the execution "jusques à son
+bon plaisir" — until his good pleasure [TRANS. CLAUDE] (p. 484);
+left the duke's movables to his wife and children "réservé au roy
+l'artillerie, harnois et autres habillemens de guerre" — reserving
+to the king the artillery, harness and other habiliments of war
+[TRANS. CLAUDE] (p. 486); incorporated the three castellanies into
+the domain of the crown and retained the residue of the appanage
+(p. 486); and passed the county of Perche to one son "sans
+toutevoies aucune dignité ou prérogative de parrie" — without,
+however, any dignity or prerogative of peerage [TRANS. CLAUDE] (p.
+487). Read as an instrument rather than as the chronicler's
+tragedy, the arrêt keeps the one strategic movable and the named
+walls, resumes the appanage, strips the peerage from the
+succession, and leaves the family its patrimony: four of the five
+discretions taken at the page, the fifth — operational knowledge —
+silent in that instance and carried in Chapter 11 by Fortescue's
+officers. The reading of the reservation order as the mechanism's
+content is this book's, not Chastellain's, whose frame is pity for
+the blood royal; and the disanalogy travels with every use. The
+settlement of 1458 was judicial, negotiated, moderated on a
+kinsman's petition and reversible by a succession, and a
+Tudor-style settlement is precisely one a succession does not
+undo. The American licence, scored transfer by transfer at C11-1,
+is predicted to run along the same five lines — the fee, the
+clearance and the revocation condition taking refusal,
+infrastructure and rule-setting; merger review taking the
+succession; the programme of record taking the knowledge — while
+the equity, the returns and the standing stay where they are.
+
+Three things can be true of such a settlement at once, and Chapter
+10 introduced them from the historical side: command, the legal
+power to coerce the intermediary; dependence, the state's
+operational need of a function it cannot perform itself; and
+capture, the dependent state's policy being made by its supplier.
+The chokepoint literature has described the first two with
+precision, and the book adopts its terms with the attribution.
+Farrell and Newman's "panopticon effect" — a state's "capacity to
+tap into the information-gathering and information-generating
+activities of networks of private actors" — and "chokepoint
+effect" — its "capacity to limit or penalize use of hubs by third
+parties" (2019: 55–56) — are regulation of the switch stated from
+the network side, and their record of its exercise is the
+deputised private hand: a French bank made to run a compliance
+office "under the direct oversight of U.S. regulators", the board
+of the company that took over a bankrupt operator's undersea
+cables "dominated by U.S. citizens with security clearances"
+(2023: ch. 2) — title, membership and domicile untouched,
+discretion taken. Their scope condition is this book's
+administrative gate in modern dress: only "states that have
+jurisdictional control over network hubs and enjoy sufficient
+institutional capacity" can do it (2019: 58). The disanalogy is
+that their coercion is horizontal — state against state, through a
+compliant hub that is instrument and never rival — where this
+book's contest is vertical, over who owns the switch; and licence
+as a revenue has no counterpart in their frame. What their account
+shows in passing, and the fifteenth century shows plainly, is that
+command does not abolish dependence. When the Lombard bankers of
+Bruges fled in 1457 with their depositors' money, the duke of
+Burgundy confiscated what they left, fined the burgesses who had
+lent at usury, and broke and put to composition every bank in his
+lands; and then, because the people "se peut mal passer de eux" —
+can ill do without them [TRANS. CLAUDE] — and the towns were long without anyone
+to lend, "le duc enfin estoit constraint de les y remettre par la
+nécessité publique, et retournèrent partout comme devant" — the
+duke in the end was constrained to restore them by public
+necessity, and they returned everywhere as before [TRANS. CLAUDE]
+(Chastellain, ed. Kervyn 1863: iii. 315–16). Extraction and
+dependence in one episode: the state could punish, seize and
+compose, and could not perform the function. The English crown
+learned the same lesson over eighteen years, with a medium rather
+than a bank. The Privy Council began quo warranto proceedings
+against the Stationers' Company in 1670 and suspended them; in
+1684 the Company lost its charter and was at once reincorporated
+with a crown say in the election of its court, the first London
+company so remodelled; James II reminded it a year later that the
+press was "a Prerogative inseparable from the Soveraignty of our
+Imperiall Crowne", and for a time it was; and in the last days of
+his reign he restored the pre-1684 charter, William's landing
+having "finally removed the prospect of a comprehensive system of
+prerogative press regulation" (Johns 1998: 317–20). Absorption
+attempted and reversed, by the state's own hand, inside a
+generation: the precedent that sits beside Standard Oil with the
+opposite outcome, and one reason the wager is scored rather than
+assumed. What the mechanism predicts for the platform settlement
+is therefore command with dependence — the state holding the
+licence, the revocation and the clearance over a layer it cannot
+build, run or replace, the leading fab costing twice an aircraft
+carrier and the federal share of the chip market about two per cent
+(Miller 2022: ch. 48, ≈289; Conclusion, ≈346–47) — with capture named as the
+risk the settlement runs: the risk that the dependent state's
+strategic policy comes to be written by its indispensable
+suppliers, which Appendix C scores as failure when it appears.
+
+There is a fourth configuration the triad does not name, and the
+book enters it here as the present indicator of where the American
+route may be tending. It is the fusion of the barons with the
+government against the government's own representative
+institutions — absorption by alliance rather than by revocation,
+the switch acquired not by the state severing the baron's
+discretion but by the baron and the executive holding it together,
+above the legislature and the courts that would otherwise bound
+it. Tilly, extending Lane's owners of a protection-selling
+government, added "the obvious fourth category of owner: a
+dominant class", under which "a subordinate government would tend
+to maximize monopoly profits" (1985: "Protection as Business");
+Crouch, from the other side, saw "a new dominant, combined
+political and economic class" forming through "the growing
+dependence of government on the knowledge and expertise of
+corporate executives" (2000: PDF 20). Krasner has a name for the
+way a strong state's sovereignty is compromised: not by
+intervention, which only weaker states suffer, but by invitation —
+rulers "can extend invitations, sometimes inadvertent, that result
+in compromises of their own Westphalian sovereignty" (1999: 20),
+and "more powerful states are unlikely to lose their Westphalian
+sovereignty unless they invite external authority through
+conventions or contractual arrangements" (p. 29). His object is
+external authority and the term is his; the book borrows the
+distinction rather than the word, to mark what Appendix C's
+American sub-wager must be able to tell apart: consolidation by
+coercion — licence, off-switch, structural separation — from
+consolidation by contract, the barons invited in. Both subordinate
+the baron. Only one of them leaves the state that does it
+answerable, and that is the question the chapter's close takes up.
+
 China is the furthest along — probably closest to Tudor norms, as
 this book holds on balance, the settlement more nearly executed
 there than anywhere — the
@@ -547,11 +742,258 @@ resists; Curry conceding the state-only provider inside her
 reversal of the arrow; Cerny locating the first consolidation
 in the very warfare this book's Part II reconstructs. The
 sceptics-concede thread is the book's evidentiary signature,
-and it is offered as method, not as trick: an argument
-assembled from its critics' concessions is an argument its
-critics can only refine.
+and it is offered as method, not as immunity. An argument
+assembled from its critics' concessions can still be wrong, and
+the book's own rule for how it would be found wrong is stated here
+so that the reader does not have to supply one. The four blocs are
+scored separately — the United States, China, Europe, India — and
+a prediction that fails for the United States is a failure,
+whatever the record elsewhere; each indicator is read at four
+levels, enacted authority, demonstrated compliance, operating
+capacity and democratic accountability, so that a statute is never
+counted as a settlement; and a prediction that survives only by
+changing its referent is counted as failed. The fifteenth century
+supplies the specimen of the discipline the book refuses. The
+chronicle records a winter in which the astrologers about Charles
+VII's court, whom the king "de tout temps avoit esté sorty et les
+créoit fort" — had always frequented and believed strongly [TRANS.
+CLAUDE] — gave him a fixed term: "par jugement d'astronomie il
+devoit mourir et ne passeroit point le mois de mars" — by
+judgement of astronomy he was to die and would not outlast the
+month of March [TRANS. CLAUDE] — and the dauphin and the duke of
+Burgundy, who had each rejoiced, "furent trompés tous deux, car
+vesqui le roy encore longs jours depuis en haut règne" — were both
+deceived, for the king lived on many days after in high reign
+[TRANS. CLAUDE] (Chastellain, ed. Kervyn 1863: iii. 444, 446). The
+chronicler's verdict falls on "cestes manières de gens qui
+présument des secrets de Dieu qui desvoient les princes" — those
+manner of people who presume upon the secrets of God and lead
+princes astray [TRANS. CLAUDE] (p. 449). His own forecast was of
+the other kind. The comet of 1456 portended, he wrote, war,
+tribulation and the death of high princes — things which, "posé
+que elles ne soient approuvées, ne tenues à nécessaires" — granted
+they are neither proven nor held to be necessary [TRANS. CLAUDE] —
+had nonetheless been seen to come true (p. 117); and when two
+princes, in Cyprus and in Hungary, died in one season two years
+later, it "ne fut mie sans mistère que la très-triste et sombre
+commette s'estoit monstrée en la saison devant" — was not without
+mystery that the very sad and sombre comet had shown itself the
+season before [TRANS. CLAUDE] (p. 387). The astrologers' term
+expired with March and the king lived; the chronicler's comet was
+never falsified at all, because it was cashed against whichever
+princes happened to die. Appendix C is built to be the
+astrologers' kind of forecast and not the chronicler's: dated,
+indexed to named blocs, and re-dated only in writing.
 
 ## VII.
+
+The prediction the chapter has made is two claims, and the book
+scores them separately because the fifteenth century did not
+deliver them together.
+
+The first is the mechanism's: that the independent technological
+powers are subordinated to the state — the five discretions
+transferred, the switch acquired and kept, in whichever of
+Solórzano's forms the bloc's constitution allows. That claim the
+book defends. The second is the one the first is usually assumed
+to carry, and does not: that the people of the consolidating
+polity acquire control of the apparatus that has absorbed the
+barons. The barons' loss of independence and the people's
+acquisition of control are not the same event. They were not the
+same event in 1458, when the crown reserved the artillery by a
+judgment of the peers; and the comparative record says they are
+separable in principle. "Strong organisational structures may be
+compatible with highly authoritarian, constitutional and in the
+end also democratic political systems", Glete concludes of the
+Baltic states that took the Swedish model (2002: 212), and his
+Sweden shows both branches in one polity: a Riksdag through which
+the crown "could extract more resources from free peasants with
+parliamentary representation than contemporary European states
+could extract from unrepresented and often unfree peasants" (p.
+194), and, from 1680, an absolutism made "without abolishing the
+parliament" and with the peasants' consent (p. 195). The
+constitutional form of the state that absorbs the stack is open.
+The book predicts the absorption; it does not predict who will
+hold what is absorbed, and it declines to let the reader assume.
+
+For the democratic bloc, one of the outcomes on that open register
+can be stated precisely enough to be scored, and the chapter gives
+it a name, with the ledger stated first. Crouch called the
+condition post-democracy: a polity in which "the forms of
+democracy remain fully in place — and today in some respects are
+actually strengthened" while "politics and government are
+increasingly slipping back into the control of privileged elites"
+(2000: PDF 2), in which "virtually all the formal components of
+democracy survive" and yet "it is difficult to dignify it as
+democracy itself" (PDF 8). The condition is his. The adjective the
+book adds is free — it occurs nowhere in his text, and Bagehot,
+who supplies the bridge below, used it only of the
+"solely-ornamental wheels" of medieval clocks (1867/1872: Changes of
+Ministry [PDF 83]), never of a constitution — and the term
+*ornamental democracy* is introduced as a special case of
+post-democracy, not as his concept renamed. The special case is
+defined by its object and its test. Its object is not the quality
+of public debate or the fate of egalitarian policy but the state's
+strategic commitments — the decisive stack and what is done with
+it — the matter Bagehot already found lodged, in 1872, in "the
+sole charge of one secret committee" (Introduction [PDF 11]). Its
+test is a demonstrable separation of legitimating authority from
+effective control over those commitments: not bureaucracy, not
+unpopular decisions, not the ordinary imperfection of
+representative government, but a separation that can be shown. It
+is shown, or refuted, by four things, and the book publishes them
+as falsifiers with the wager: elections that redirect strategic
+commitments; legislatures that enforce meaningful conditions on
+the licensed layer; courts whose remedies change operations rather
+than punish them afterwards — Bagehot's own distinction, "it may
+not be a remedy at all; it may be only a punishment" (Introduction
+[PDF 11]); and public institutions capable of replacing an
+essential supplier. Where those four are absent and the licence,
+the clearance and the fee are present, the settlement is
+ornamentally democratic; where they are present, it is democratic;
+Appendix C carries the indicators. Crouch's own instance is the
+tax-cutting auction whose electorate "had voted for it; the policy
+had democratic legitimacy" (PDF 14), and his one sentence on force
+states the principle the falsifiers operationalise: democracy "has
+depended on the capacity of politicians to reduce the political
+power of the military while at the same time sustaining its
+effectiveness as a fighting force" (PDF 32). Two disciplines
+follow. Democracy and liberalism are scored separately, which is
+Crouch's distinction and is credited to him — a strong liberal
+society, with its lobbies and causes, "is not the same as a strong
+democracy" (PDF 5–6) — so that a bloc rich in litigation and poor
+in redirection is not mistaken for the second. And the
+predecessors are named. Crouch is one, at the pins above. Wolin's
+*Democracy Incorporated* (2008) is the other, named here and not
+cited, because it is not in the corpus [GAP: Wolin, *Democracy
+Incorporated* (2008) — retrieval; not in corpus; the coinage claim
+is provisional until the check against his "inverted
+totalitarianism" is made at the page]. Stasavage's Cortes of
+Castile is the portrait at the second tier: an assembly that won
+the administration of the *millones* and their audit and then
+found that its cities "gradually lost control over their
+representatives", so that "the representatives failed to
+effectively use even those formal powers that they did have",
+until "after 1665 the monarchy did away with the institution
+entirely" — a decision taken, he notes, under one of the weakest
+of the Habsburg kings (2011: ch. 7); the general form is that "it
+may be possible to maintain the institution but without it serving
+its intended purpose" (ch. 8). What the book adds to those
+predecessors is not the condition but the mechanism by which it
+emerges: not the firm's exit option draining the state, which is
+Crouch's story, but the state compelled to absorb a firm it cannot
+replace, and absorbing it, in the democratic case, possibly by
+alliance.
+
+The mechanism has a fiscal half, and the book carries it in the
+argument rather than in a note, because it is the half that
+decides which of the two claims a bloc gets. Tilly's own finding
+is the warrant. Where "the ability of rulers to draw revenues from
+commodity exports or from great-power military aid has allowed
+them to bypass bargaining with their subject populations, large
+state edifices have grown up in the absence of significant consent
+or support from citizens" (Tilly 1990: 207–8); and in the earlier
+statement the constraints that became rights were the price of the
+means of war — "when ordinary people resisted vigorously,
+authorities made concessions: guarantees of rights, representative
+institutions, courts of appeal" — with the exception stated for
+states that "have acquired their military organization from
+outside, without the same internal forging of mutual constraints
+between rulers and ruled" (Tilly 1985: "How States Formed"; "War
+as International Relations"). The inference is the book's and is
+marked as such: a consolidating state financed by rents from the
+stack itself — the licence fee, the revenue cut, the equity stake,
+the securitised loan — rather than by broad taxation bargained
+through representative institutions is, on Tilly's own mechanism,
+a state that has acquired its means without the struggle that
+produced the by-products, and it should be expected to consolidate
+without them. The first run supplies both branches. Glete's Spain,
+financed by silver, Church taxes and contractors' credit, was
+de-articulated within a generation: the mobilised resources
+"increasingly used to pay interest on debts to those who extracted
+the resources" (2002: 126), "the state's own financial apparatus"
+become "a new aristocracy" (p. 125), the decline "absolute, not
+relative" (p. 139) — and the *millones* of 1590 raised by the
+Cortes cities "on their own", the crown's attempt in the 1620s to
+make them permanent "denied" (p. 122). His Sweden, taxing
+represented peasants, kept its parliament through its absolutism.
+The French settlement itself, the reader will recall, was made
+with the Estates before it was made without them; and Bagehot, who
+thought Magna Carta's right of self-taxation "a result, not a
+basis — an example, not a cause" (1867/1872: Conclusion [PDF 105]),
+stands for the converse — the assembly as the residue of a
+struggle, not its guarantee. Which branch each bloc takes depends
+on whether the stack's revenue is bargained or taken, and that is
+scoreable: Appendix C asks it of each.
+
+Bagehot is the bridge to the present, and his distinction is
+borrowed with the disanalogy that makes it safe to borrow. Every
+old constitution, he wrote, divides into "the DIGNIFIED parts" —
+"those which excite and preserve the reverence of the population"
+— and "the EFFICIENT parts — those by which it, in fact, works and
+rules"; "the dignified parts of Government are those which bring
+it force — which attract its motive power. The efficient parts
+only employ that power" (1867/1872: The Cabinet [PDF 21]). Chapter 9
+carries the fifteenth-century instance, the separation in its
+involuntary form, and Bagehot's own genealogy of the divided
+constitution runs from exactly that case — the line of reverence
+comes "to a child or an idiot, or one by some defect or other
+incapable", and the council "begins not so much to suggest as to
+inculcate, not so much to advise as to enjoin" (Conclusion [PDF
+103]). The present instance is the one the ornamental route
+describes: the efficient part of the strategic state migrating
+into the executive–baronial fusion, the elected institutions
+remaining as the dignified part, raising the legitimacy the fusion
+employs. The disanalogy is that the dignified parts were never
+decoration, and Bagehot said so in the passage that makes the
+distinction: "they are the preliminaries, the needful
+prerequisites of ALL work. They raise the army, though they do not
+win the battle" (The Cabinet [PDF 21]). A legislature that votes
+the appropriation and confers the licence is raising the army; an
+ornamental settlement is one in which it does that and can do
+nothing else. The book takes his distinction and refuses his
+valuation — for him the separation of reverence from rule was
+every constitution's condition and England's particular merit,
+"the real rulers ... secreted in second-rate carriages"
+(Prerequisites [PDF 101]) — and it states the inversion: his
+republic had "insinuated itself beneath the folds of a Monarchy",
+a sentence he wrote of society and offered as analogy (The
+Monarchy I [PDF 35]); the ornamental route hides an
+executive–baronial fusion beneath a democracy. Two of his
+observations are conceded whole and carried as predictions. A
+deferential settlement is in "unstable equilibrium" (Prerequisites
+[PDF 102]); and its mystery "is its life. We must not let in
+daylight upon magic" (The Monarchy II [PDF 37]) — so an ornamental
+settlement is stable only while undemonstrated, a positive reading
+on the indicator is itself a destabiliser, and the route is for
+that reason one scoreable outcome and not the settlement. His
+fifteenth century supplies the last term. The ante-Tudor kings
+could not have manufactured a compliant assembly had they wished:
+"the instrument in that behalf is the centralised executive, and
+there was then no 'prefet' by whom the opinion of a rural locality
+could be made to order" (Conclusion [PDF 104]), whereas the Second
+Empire's chambers were "suitable appendages to an Empire which
+desires the power of despotism without its shame" (Commons [PDF
+71]). The reading of the identity–payments–legibility stack as the
+*prefet* — the instrument that lets a centralised executive make
+opinion to order — is the book's inference, flagged as such, and
+it is the reason the democratic-control sub-wager watches the
+legibility layer as closely as the military one.
+
+So the close is two-handed, and the reader is asked to hold both
+hands. If the stacks continue to concentrate, the barons will be
+subordinated, inside blocs, on the composite form — that the book
+defends. Whether the polity that subordinates them is governed by
+the people whose legitimacy it employs, or only dignified by them,
+is open; for the democratic bloc the ornamental route is one of
+the outcomes on the table, its indicator already visible wherever
+barons and executive stand together against the institutions that
+would bound them. What the last Tudor settlement did to wealth and
+position is the reference class the next section states, within
+the boundary this book keeps; what it did to the assembly is the
+question the Coda inherits.
+
+## VIII.
 
 *(The CLAUDE.md §9 boundary governs this section: comparative
 historical analysis and asset-class direction; no actionable
@@ -580,7 +1022,7 @@ the fifteenth century's ledger is offered as the reference
 class. Nothing more specific is offered, because nothing more
 specific would be honest.
 
-## VIII.
+## IX.
 
 Return, last, to the field where the book began, better armed
 now than at the first telling.
@@ -769,9 +1211,80 @@ register sits in ch12 §§II–IV").
   the sentence-level fixes above conform the text, but that voice
   decision is his and would finish the job.
 
+**(2026-09-16 — Phase 5 renovation, Part B2: rulings (u), (w)/(n),
+(x), (v), (cc); spine §8(g) items 1–6. PENDING HUMAN REVIEW.)** Full
+record with every old/new sentence and every pin at ch12/memo.md
+Revisions 28. In brief: (i) §IV gains, after the American verdict
+paragraph, five blocks — the composite form per (w)/(n) in
+Solórzano's two forms (Elliott 1992: 52–53, 68–70; Cheung 2022:
+114–16), with one [BRIDGE — PROPOSED] beneath it (the chapter carried
+no [BRIDGE] paragraph in its body; the disanalogy is written as the
+instruction requires and left for Roderick); the five transfers per
+(v) with the Alençon arrêt verified at the page (Chastellain iii.
+478, 484, 486, 487, Old French verbatim, [TRANS. CLAUDE]); command,
+dependence and capture per (x) with Farrell and Newman (2019: 55–58;
+2023: ch. 2), the Lombards of Bruges (iii. 315–16) and Johns's quo
+warranto of 1670–88 (1998: 317–20), the prediction stated as command
+with dependence and capture named as the risk; the fusion of barons
+and government against government as the present indicator per
+§8(g)(3), Krasner's "invitation" cited as his term (1999: 20, 29) and
+not adopted. (ii) §VI: "an argument its critics can only refine" CUT
+per (cc) and replaced by the four-bloc, four-level scoring statement
+with Chastellain's astrologers and comet (iii. 117, 387, 444, 446,
+449) as the specimen of a forecast that survives by changing its
+referent. (iii) A new §VII, the two-claim close per (u) and §8(g)
+items 1–6; the asset ledger renumbered §VIII and the Castillon return
+§IX — the placement is register decision (nn) and is Roderick's;
+the header note conformed. Nothing in the asset ledger or the
+Castillon return was touched. Unruled rows NOT applied, where the new
+text would otherwise want them: (kk) the layer-specific Chinese
+verdict; (ll) the layered tense; (oo) Kingsbury and the 2008
+reconstitution beside "and keeps it"; (rr) Scott named at
+"legibility"; (ii) Krasner's word as the book's; (jj) McNeill's lag
+as a scored risk; (pp)/(ss)/(tt) Schmitt, Ruggie and the EU refinements.
+
+*Voice-discipline ledger, updated 2026-09-16 (supersedes the coinage
+count above; the image and aphorism counts stand). Coined concept —
+ONE, "ornamental democracy" (§VII), claimed PROVISIONALLY after the
+ledger check recorded in memo Revisions 28: a special case of
+Crouch's post-democracy, so introduced at first use (the condition
+his, the adjective free; zero occurrences in his text); not
+Bagehot's, whose only "ornamental" is the clock-wheels; the Wolin
+half of the check ("inverted totalitarianism") OWED — Wolin is not in
+corpus and is cited from nothing. CONSEQUENCE FOR RODERICK: the
+footer above claims "the over-mighty citizen" (§IV) as the chapter's
+coinage; the chapter may carry one. The ledger now counts
+"ornamental democracy" as the one, because spine §8(g)(6) rules it a
+chapter-level coinage and ch09's ledger has left it to ch12; "the
+over-mighty citizen" is flagged for his cut, or for reclassification
+as an adapted borrowing (Fortescue's "over-mighty subject" inverted
+for a republic), which would take it out of the coinage count. Vivid
+image — the §I image stands as the chapter's one; the new sections
+quote Bagehot's images ("raise the army", "daylight upon magic",
+"second-rate carriages") as his, and add none of the book's.
+Aphoristic line — the §V line stands as the chapter's one. QUOTABLE
+LINES THE RENOVATION PRODUCED, counted for his ration: "The barons'
+loss of independence and the people's acquisition of control are not
+the same event" (§VII — the doctrine's own sentence, CLAUDE.md §1,
+carried into text); "The book predicts the absorption; it does not
+predict who will hold what is absorbed" (§VII); "an ornamental
+settlement is one in which it does that and can do nothing else"
+(§VII); "Absorption attempted and reversed, by the state's own hand,
+inside a generation" (§IV); "the chronicler's comet was never
+falsified at all, because it was cashed against whichever princes
+happened to die" (§VI); "Both subordinate the baron. Only one of them
+leaves the state that does it answerable" (§IV). Six is above the
+ration; the cuts are his. Flags this pass: [BRIDGE — PROPOSED] ×1
+(§IV); [GAP: Wolin] ×1 (§VII); [TRANS. CLAUDE] ×12 (§IV ×6, §VI ×6);
+no [OUTLINE CONFLICT] found (the outline's ch12 brief was not
+re-read this pass — see memo). Word count: 6,763 before, 11,885 after
+(footer included).*
+
 ---
 
 STATUS: REVIEWED (Roderick, 2026-08-02) — approved with revisions
 applied. The SPINE-directed insertions (Revisions 3) and the
 Revisions 5 pin corrections are REVIEWED (Roderick, 2026-09-02 — review pack); the remainder
 of the draft is reviewed. Phase 4 Run A entry PENDING HUMAN REVIEW.
+Phase 5 Part B2 entry (2026-09-16) and every passage it added or
+changed in §§IV, VI and VII: PENDING HUMAN REVIEW.

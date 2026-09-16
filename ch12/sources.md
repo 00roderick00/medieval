@@ -1480,3 +1480,82 @@ pins this chapter uses are repeated here.*
   "invitation" as the book's word is ch11's proposed row (ii); McNeill's
   lag as a scored risk is ch11's (jj); the Castile military/fiscal
   intermediary sentence is ch11's (dd).
+
+
+## Added 2026-09-16 — Phase 5 renovation, Part B2 (pointer entries; pins used; no new work enters)
+
+*Filed at the Part B2 renovation (memo Revisions 28). Every pin below
+was opened in the named sidecar this run before the quotation entered
+draft.md; where the sidecar is OCR (Chastellain, Tilly 1975) the
+page-image check before print stands. Two POINTER entries for works in
+corpus whose master entries are ch11's; otherwise only the pins this
+chapter now uses are listed, against the entries above.*
+
+- **POINTER — T2 — J. H. Elliott, "A Europe of Composite Monarchies"
+  (*Past & Present* 137, 1992)** — master entry at ch11/sources.md
+  (2026-09-13 integration block); sidecar
+  `text-2026-09-13b/Elliott-Composite.txt`, printed = PDF+46. USED HERE
+  (§IV, the composite form per rulings (w)/(n); the [BRIDGE —
+  PROPOSED]): Solórzano's accessory union — "regarded juridically as
+  part and parcel of it" (p. 52 / PDF 6); *aeque principaliter* — "must
+  be ruled and governed as if the king who holds them all together were
+  king only of each one of them" (p. 53 / PDF 7); Castile "the core
+  state" and patronage "in careful working order" (p. 64 / PDF 18);
+  "only three successful secessions" 1523–1707 (p. 68 / PDF 22); "The
+  very looseness of the association was in a sense its greatest
+  strength" and "The forces of one kingdom could be used to put down
+  trouble in another" (p. 69 / PDF 23); the eighteenth-century
+  fiscal-military state "remained essentially composite" (p. 70 / PDF
+  24). All read at the page this run.
+- **POINTER — T2 — Adrian Johns, *The Nature of the Book* (Chicago,
+  1998)** — master entry at ch11/sources.md (2026-09-13); sidecar
+  `text-2026-09-13b/Johns.txt`, printed = PDF−23. USED HERE (§IV, the
+  quo warranto of 1670–88 as absorption attempted and reversed, per
+  ruling (p)'s "goes to ch12"): proceedings begun 1670 (p. 317 / PDF
+  340); "Temporarily suspended, the quo warranto issue returned in 1684
+  … Now the Company at last lost its charter … immediately
+  reincorporated, with new assistants and new bylaws allowing the crown
+  a more direct say in who got elected to the court … the first London
+  company to get such a new charter"; James II — "a Prerogative
+  inseparable from the Soveraignty of our Imperiall Crowne", "and for
+  once this was true in practice" (p. 319 / PDF 342); "In his final
+  panic James restored the pre-1684 charter. The invasion of William of
+  Orange finally removed the prospect of a comprehensive system of
+  prerogative press regulation" (p. 320 / PDF 343). All read at the page
+  this run.
+- **Pins used from the entries above (all re-opened this run):**
+  Chastellain t. III — pp. 478 (per the 2026-09-16 entry), 484, 486,
+  487 (the arrêt; §IV), 315–16 (the Lombards; §IV), 117, 387, 444, 446,
+  449 (the astrologers and the comet; §VI) — vol15 PDF = printed+10;
+  Old French verbatim in text, every translation [TRANS. CLAUDE].
+  Bagehot — The Cabinet PDF 21 (the distinction; "They raise the army,
+  though they do not win the battle" confirmed at the foot of PDF 21);
+  Introduction PDF 11 ("the sole charge of one secret committee"; "it
+  may not be a remedy at all; it may be only a punishment"); The
+  Monarchy I PDF 35 ("A Republic has insinuated itself beneath the folds
+  of a Monarchy" — of society, cited with that context); The Monarchy
+  II PDF 37 ("daylight upon magic"); Commons PDF 71 (the Second Empire);
+  Changes of Ministry PDF 83 (the clock-wheels — the ledger); Prerequisites
+  PDF 101, 102; Conclusion PDF 103, 104 (the *prefet*), 105 (Magna
+  Carta). Cited as Bagehot 1867/1872 with chapter title and PDF page.
+  Crouch — PDF 2, 5–6, 8, 14, 20, 32; grep this run confirms zero hits
+  for ornament/ornamental/façade/hollow/husk/veneer. Farrell & Newman
+  2019 — pp. 55–56, 58 (PDF 14–15, 17); 2023 — chapter2.xhtml (BNP
+  Paribas; the cable subsidiary's board). Krasner — pp. 20, 29 (PDF 30,
+  39), cited as his term. Tilly 1990 — pp. 207–8 (Tilly.txt form-feed
+  pages 434–35, the sentence straddling the page break). Tilly 1985 —
+  "Protection as Business" (Lane's fourth owner), "How States Formed",
+  "War as International Relations". Glete — pp. 122, 125, 126, 139,
+  194, 195, 212 (PDF 131, 134, 135, 148, 203, 204, 221). Stasavage —
+  part0014_split_008, part0014_split_009, part0015_split_002 (EPUB
+  markers; re-pin to a printed page before press). Cheung — pp. 114–16
+  (the licence as the Chinese instrument of incorporation). Miller —
+  ch. 48 ≈289; Conclusion ≈346–47. Tilly 1975 p. 625 was NOT found at
+  the sidecar page this run and is not cited.
+- **[GAP — retrieval] Sheldon Wolin, *Democracy Incorporated: Managed
+  Democracy and the Specter of Inverted Totalitarianism* (Princeton,
+  2008)** — NOT IN CORPUS; already a retrieval row (retrieval-master,
+  2026-09-14 third entry). Named in §VII as a predecessor and cited
+  from nothing; the "ornamental democracy" coinage is provisional until
+  "inverted totalitarianism" is checked at the page. No entry is made
+  for the work itself.
