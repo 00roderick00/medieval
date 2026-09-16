@@ -372,3 +372,83 @@ STATUS: REVIEWED (Roderick, 2026-07-22) — cleared for drafting
      Morris's frame — the church is the institutionally
      universal claimant with courts and canon; the fief is a
      property relation. Cross-ref ch12 critiques Revisions 4.
+
+## Revisions (2026-09-16 — Phase 5 renovation, PENDING HUMAN REVIEW)
+
+1. **(Ruling (q) applied to draft.md; register rows (b)/(c) checked.
+   Pins: Morris, sources.md entry of 2026-09-13, each re-located in
+   the sidecar this date.)** The first draft edit since the
+   3 September assembly. Word count 3,328 → c. 4,220 (§II grows by
+   the restatement; nothing lengthened for length's sake).
+   - §II, the Investiture paragraph — OLD: "Gregory VII's *Dictatus
+     Papae* (1075) asserted the monarchic answer — a papacy that may
+     depose emperors and is judged by no one; Henry IV's winter
+     penance at Canossa (1077) measured the claim's reach; and the
+     Concordat of Worms (1122) ended the open war by *partitioning
+     the symbols*: the emperor renounced investiture with ring and
+     crozier… and retained investiture with the sceptre [GAP:
+     … awaits Ullmann, the chapter's scholarly spine]." NEW: the
+     Dictatus undated, "most probably of the spring of 1076," of
+     uncertain authorship, its purpose "not to provide a blueprint
+     for papal absolutism, but to define the emergency powers
+     inherent in the Roman see" — a declaration of emergency, not
+     a programme (Morris 1989: 112, 129); the papacy's claim "a
+     jurisdiction, not a sovereignty," with p. 1 quoted; Ullmann
+     named as the superseded reading (via Morris p. 653) and no
+     longer the spine; Canossa "measures its limits," Henry's coup,
+     "he lost nothing further" (pp. 116–17); Worms partitioned
+     "unevenly" — ring and staff renounced and the sceptre kept in
+     Germany only, "far more of the imperial rights were signed
+     away" elsewhere (p. 164), with the territory-by-territory
+     shape tied forward to §V's app-store litigation; the
+     investiture-only-after-1100 caution (p. 119) entered as a
+     one-clause qualification of the name. The Ullmann [GAP] is
+     CLOSED.
+   - §II, new paragraph — Innocent III's intervention *casualiter*,
+     by reason of sin, "the king judges of the fief, the Church
+     decrees about sin," the apex carried to Innocent IV "so that
+     the apex is the thirteenth century rather than the man"
+     (pp. 433, 568); demand-pulled jurisdiction ("at the heart of
+     what may seem a very active administration the pope or king
+     was passive," p. 212); and the reframe — the template restated
+     as jurisdiction over conduct, entered by emergency, exercised
+     occasionally, grown by demand, fits the §III institutions
+     better than hierocracy would — stated "as its own inference
+     and not Morris's" (tier (c) of CLAUDE.md §4, not (a)).
+   - §III, new closing paragraph — the papal fisc as the owed
+     disanalogy (CLAUDE.md §6): Hadrian IV's "no one can make war
+     without pay" (p. 214); the 1192 census at some 1,214 gold
+     ounces, "less than a twentieth" of Richard I's English income
+     (p. 215 — Morris: "less than 5 per cent"); the Papal State
+     "more of a tribute to temporary imperial weakness…" and
+     "created on the battlefields of Sicily and Germany"
+     (pp. 421–22). The disanalogy sorts the three churches: the
+     European church where the medieval one stood; the Chinese
+     fused into a state that can pay; the American holding
+     components of the decisive instrument — "that difference, not
+     the resemblance," makes Part III's question live. No new
+     contemporary material; the stack components named are those
+     §VI already carries.
+   - §VI — after the aphorism, Morris p. 113 quoted with
+     attribution ("it was easier for the papacy to assume authority
+     than to restore it once regional powers had lost the directing
+     initiative"), and the both-ways reading — a jurisdiction the
+     territorial power has once taken back is not restored to the
+     universalism either — entered as "the book's inference — its
+     own, and stated as such." "Hold that sentence" → "hold both
+     sentences."
+   - Footer: word count and [GAP] list updated; draft Revisions 2
+     added; STATUS line carries the new PENDING entry.
+   - Register pass (A8): "suppressing" — no occurrence; "ended" —
+     only "ended the open war" (Worms, factual), which stands.
+   - NOT DONE at the pin: the legate-exclusion / suspended-appeals /
+     Louis IX switches (pp. 232–3, 557), the 1240/1247 protests
+     (p. 559) and Fourth Lateran c. 46 (p. 551 n. 701) — ADDS in the
+     13 September entry, not reached by ruling (q); left for the
+     upgrade pass. Tierney/Haec Sancta [GAP] stands (retrieval).
+   - No outline conflict: the outline's ch02 template (Investiture,
+     Avignon, Schism) is unchanged in structure; only its scholarly
+     register moves from Ullmann to Morris.
+
+STATUS: PENDING HUMAN REVIEW (this entry); the memo body REVIEWED
+as before.

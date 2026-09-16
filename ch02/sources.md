@@ -80,10 +80,13 @@ texts, court filings, platform policy) and gated on the medieval side (Ullmann).
 ## RETRIEVAL LIST (gated — do NOT cite until in the repo)
 
 1. **Walter Ullmann, *The Growth of Papal Government in the Middle Ages*.**
-   NEEDED FOR: the interpretive spine — the *Dictatus Papae* as a claim of
-   monarchic papal sovereignty; the Concordat of Worms as an unresolved
-   structural stalemate between two universalisms. The chapter's medieval
-   backbone; encyclopedic sources give facts, not this framing.
+   RE-GRADED 2026-09-16 (Phase 5 renovation, ruling (q)): NO LONGER the
+   interpretive spine. The hierocratic reading (the *Dictatus Papae* as
+   monarchic sovereignty) is the one the field has set aside (Morris
+   p. 653: "Its thesis has been widely criticized"); the draft now cites
+   Ullmann only as the superseded reading, characterised through Morris,
+   and builds on Morris. Retrieval no longer gates §II; retained on the
+   list at low priority for the historiographical footnote only.
 2. **Brian Tierney, *Foundations of the Conciliar Theory*.** NEEDED FOR:
    conciliarism and *Haec Sancta* (1415) as constitutional precedent — the
    "representative institution constraining a universal authority" claim.
@@ -181,6 +184,11 @@ fetch-blocked — confirm in a browser before quotation.*
   RECORDED for critiques: Strayer/Berman ("the Gregorian concept
   … almost demanded the invention of the state") v.
   Morris/Tierney ("at best a half-truth," p. 553).
+  PINS USED IN DRAFT (Phase 5 renovation, 2026-09-16, ruling (q)):
+  pp. 1, 112, 113, 116–17, 119, 129, 164, 212, 214, 215, 421–22,
+  433, 568, 653 — each re-checked against the sidecar this date
+  (p. 113 ratchet line; p. 164 "signed away"; pp. 421–22 Papal
+  State; p. 568 Innocent IV all located).
 
 ## Added 2026-09-14 — catch-up run STEP 2 (primaries verified at the article)
 

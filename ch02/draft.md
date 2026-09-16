@@ -88,25 +88,67 @@ simultaneously spiritual officers of a universal Church and
 temporal vassals of territorial lords; subjects, in other words,
 claimed whole by two masters.
 
-The first is the Investiture Contest, and it is the deep template.
-The question it litigated — *who invests an officeholder with
+The first is the Investiture Contest, and it is the deep template —
+though the name misleads a little, since the royal right of
+investiture became the central and intractable issue only after
+1100, and what was fought over before that was the larger question
+of whose officer a bishop was (Morris 1989: 119). The question,
+once litigated in those terms — *who invests an officeholder with
 legitimacy* — sounds procedural and is constitutional: whoever
-confers the office defines the institution. Gregory VII's *Dictatus
-Papae* (1075) asserted the monarchic answer — a papacy that may
-depose emperors and is judged by no one; Henry IV's winter penance
-at Canossa (1077) measured the claim's reach; and the Concordat of
-Worms (1122) ended the open war by *partitioning the symbols*: the
-emperor renounced investiture with ring and crozier, the spiritual
-instruments, and retained investiture with the sceptre, the
-temporal ones [GAP: the interpretive framing — Worms as structural
-stalemate, the Dictatus as monarchic sovereignty — awaits Ullmann,
-the chapter's scholarly spine, on the acquisition list]. Note what
-Worms did not do: it did not decide which universalism was
-ultimately superior. It stabilised the question by splitting the
-regalia — and the question, unresolved, resurfaced for four
-centuries. Worms is what a *truce* between universalisms looks
-like. This book will need the distinction between a truce and a
-settlement before the chapter ends.
+confers the office defines the institution. It is worth being
+precise about what the papacy claimed, because the chapter's use of
+the template depends on the precision. The *Dictatus Papae* —
+undated, most probably of the spring of 1076, and of uncertain
+authorship — asserted that the pope may depose emperors and is
+judged by no one; but on the reading the field now accepts, its
+purpose "was not to provide a blueprint for papal absolutism, but
+to define the emergency powers inherent in the Roman see" — a
+declaration of a state of emergency, not a programme of government
+(Morris 1989: 112, 129). The older reading, in which the sentences
+announce a monarchic papal sovereignty, was Walter Ullmann's; it is
+the reading the field has set aside, and this book cites it as
+superseded rather than building on it (Ullmann, *The Growth of
+Papal Government*, as characterised in Morris 1989: 653). What the papacy claimed was a
+jurisdiction, not a sovereignty: "a papal monarchy was in principle
+and in practice inconceivable in medieval Europe" (Morris 1989: 1).
+Henry IV's winter penance at Canossa (1077) is usually taken to
+measure the claim's reach; it measures its limits, for the penance
+was Henry's coup — kings had done public penance before, and "he
+lost nothing further by his reconciliation with Gregory" (Morris
+1989: 116–17). The Concordat of Worms (1122) ended the open war by
+*partitioning the symbols*, and partitioned them unevenly: in
+Germany the emperor renounced investiture with ring and staff, the
+spiritual instruments, and kept the grant of the regalia by the
+sceptre; elsewhere in the empire "far more of the imperial rights
+were signed away" (Morris 1989: 164). Note what Worms did not do: it
+did not decide which universalism was ultimately superior. It
+stabilised the question by splitting the regalia — differently in
+each jurisdiction, a settlement made territory by territory, which
+is the shape §V will find again in the app-store litigation — and
+the question, unresolved, resurfaced for four centuries. Worms is
+what a *truce* between universalisms looks like. This book will need
+the distinction between a truce and a settlement before the chapter
+ends.
+
+Where the claim reached its height it kept the same shape. Innocent
+III, whom the textbooks place at the apex, held that the pope did
+not normally exercise authority in secular affairs but could
+intervene on occasion, *casualiter*, by reason of sin — the king
+judges of the fief, the Church decrees about sin — and the claim
+went further still under Innocent IV, so that the apex is the
+thirteenth century rather than the man (Morris 1989: 433, 568). Nor
+was the jurisdiction pushed outward by design: it was pulled, by
+appeals and petitions from below, so that "at the heart of what may
+seem a very active administration the pope or king was passive"
+(Morris 1989: 212). That is the template restated in the terms the
+scholarship now uses — not a rival sovereign over territory but a
+jurisdiction over conduct, entered by emergency, exercised
+occasionally, grown by demand — and the book records, as its own
+inference and not Morris's, that the template so restated fits the
+institutions of §III better than the hierocratic version ever would
+have. They claim conduct, not territory; they legislate by
+responding to what is brought before them; and their tribunal, like
+the curia's, hears appeals.
 
 The second template is Avignon (1309–1377): the universal authority
 perceived as captured by a particular polity. The perception is the
@@ -218,6 +260,29 @@ through every actor's need for access to its four hundred and
 fifty million communicants. Whether canonical authority without
 material capability can survive the consolidation era is one of
 Part III's sharpest questions, and this chapter only files it.
+
+It files, beside it, the disanalogy the comparison owes. The
+medieval universalism whose structural position the three churches
+now occupy could not pay for force. Hadrian IV's curia knew that "no
+one can make war without pay" (Morris 1989: 214), and the papacy's
+own census of its revenues in 1192 has been reckoned at some 1,214
+gold ounces — less than a twentieth of what Richard I drew each year
+from England alone (Morris 1989: 215). The territorial state the
+popes did acquire was, on the standard account, "more of a tribute
+to temporary imperial weakness than to the strength of the apostolic
+see": "the Papal State was created on the battlefields of Sicily and
+Germany" (Morris 1989: 421–22) — its existence a function of the
+balance among the territorial powers, not of anything the
+universalism could field. The disanalogy sorts the modern churches
+rather than dissolving the comparison. The European church stands
+almost exactly where the medieval one stood: all canon, no
+divisions, its reach a function of others' need for access. The
+Chinese church has been fused into a state that can pay. The
+American church is the case the twelfth century never saw — a
+universalism holding, in its foundries, its constellations and its
+models, components of the very instrument by which force is now made
+decisive; and that difference, not the resemblance, is what makes
+Part III's question about it a live one.
 
 ## IV.
 
@@ -335,8 +400,14 @@ primary). The universalism was not defeated, disestablished or
 out-argued. Its functions — its courts, its revenues, its
 legitimating apparatus — were taken into the state, which
 thereafter performed them. The decisive settlements did not
-defeat the universal authority; they annexed it. The reader is
-asked to hold that sentence against Part III's argument about
+defeat the universal authority; they annexed it. Morris, writing of
+the eleventh century, observed that "it was easier for the papacy to
+assume authority than to restore it once regional powers had lost
+the directing initiative" (Morris 1989: 113); the book's inference —
+its own, and stated as such — is that the sentence runs in both
+directions, and that a jurisdiction the territorial power has once
+taken back is not restored to the universalism either. The reader is
+asked to hold both sentences against Part III's argument about
 what the consolidating blocs will do with their churches —
 because the pattern of the 2020s leans Henrician: the American
 state regulating the switches of its foundational
@@ -351,9 +422,9 @@ are the next chapter's business.
 
 ---
 
-*Draft ends. Word count ~3,100 (memo-limited; Ullmann and Tierney
-will thicken §II at the upgrade pass; Zielonka the EU-church
-section). Voice-discipline ledger (counted as produced, checked
+*Draft ends. Word count ~3,900 (§II restated per Morris at the Phase 5
+renovation, 2026-09-16; Tierney will thicken the conciliar passage at
+the upgrade pass; Zielonka the EU-church section). Voice-discipline ledger (counted as produced, checked
 against scholarship): coined concept —* three-body sovereignty
 *(§IV; the celestial-mechanics riff is the book's own via the
 outline; "new medievalism," "Brussels effect" etc. credited to
@@ -361,8 +432,8 @@ their owners); vivid image — the map "drawn not in borders but in
 obediences" (§IV); aphoristic line — "The decisive settlements did
 not defeat the universal authority; they annexed it" (§VI).
 [ANALOGY-ONLY] flags: demonetisation/demotion extensions (§III);
-the "Gregorian moment" label (§III). [GAP] flags: Ullmann;
-Tierney/Haec Sancta. Sanction evidence led by deplatforming per
+the "Gregorian moment" label (§III). [GAP] flags: Tierney/Haec Sancta (the Ullmann [GAP] closed
+from Morris, 2026-09-16, with Ullmann cited as superseded). Sanction evidence led by deplatforming per
 the reviewed rule; Chinese penalties in RMB; Ant IPO figure marked
 as projection; chip controls anchored to ECCN 3A090 + NVIDIA 8-K;
 Avignon capture presented as polemic; every export-control claim
@@ -399,7 +470,23 @@ correction.
      bloc-level achieved noun replaced by the documented act plus
      continuing enforcement.
 
+2. **(2026-09-16 — Phase 5 renovation: ruling (q); register (b).
+   PENDING HUMAN REVIEW.)** §II restated in Morris's terms
+   (jurisdiction, not sovereignty; the Dictatus as emergency
+   powers; Canossa as Henry's coup; Worms partitioned unevenly;
+   Innocent III *casualiter*, apex under Innocent IV; demand-pulled
+   jurisdiction) with Ullmann demoted to a superseded citation and
+   the Ullmann [GAP] closed; §III gains the papal-fisc disanalogy
+   (Morris pp. 214–15, 421–22) sorting the three churches; §VI
+   carries Morris p. 113 with the book's both-ways inference
+   flagged as its own. Full old/new record in ch02/memo.md
+   Revisions (2026-09-16). Register pass (b)/(c): no instance in
+   this chapter. Ledger unchanged (coined concept, image and
+   aphorism as before; the Morris p. 113 line is quoted, not
+   coined).
+
 ---
 
 STATUS: REVIEWED (Roderick, 2026-08-02) — approved with revision
-applied; Revisions 1 (Phase 4 Run A) PENDING HUMAN REVIEW
+applied; Revisions 1 (Phase 4 Run A) and 2 (Phase 5 renovation)
+PENDING HUMAN REVIEW
