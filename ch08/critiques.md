@@ -248,3 +248,152 @@ evidence first-hand where it is load-bearing.
    "the courts followed the companies" does not, for Italy. And
    the management-of-enmity sentence needs a tense: right for
    the thirteenth century, increasingly wrong after 1300.
+
+## Revisions (2026-09-16 — catch-up run STEP 3, PENDING HUMAN REVIEW)
+
+*Objections from the 14 September assessments that reach argument
+level in this chapter, steelmanned at the assessments' strength,
+with the assessments' answers and gradings preserved; where the
+assessment placed the work elsewhere and named no objection for
+this chapter, the objection below is the one its material raises
+against the chapter's argument, and is graded here. Pins verified
+in the sidecars (sources.md block of this date). Numbering
+continues Revisions 1–2 above.*
+
+3. **Tilly — the disarmament came two centuries after the courts,
+   and the control case is where he puts the gun.** Steelman: §VII
+   dates the subordination of the plural legal order to "the two
+   generations after — 1470s to 1540s — precisely where the
+   fiscal-military consolidation had laid the substrate, and
+   nowhere else." Tilly's dates for the subordination of private
+   force are the Tudors', Richelieu's ("in the 1620s … another
+   half-century to become effective") and the Empire's after 1648;
+   France's *grands* assembled armies in the Fronde a full two
+   centuries after the parlement of Toulouse; and the single
+   sentence in either essay that names artillery — Gerhard's "the
+   razing of castles, the high cost of artillery, the attraction of
+   court life, and the ensuing domestication of the nobility" —
+   describes the Empire after the Thirty Years' War, the chapter's
+   "assertion without substrate." If the mechanism's own vocabulary
+   fits the control case two centuries late, the chapter's sequence
+   is a sequence of paper — courts planted, fora ranked — and the
+   thing the chapter's title names, private war, ended on Tilly's
+   clock, not the chapter's. **Answer** (graded ADEQUATE): (i) the
+   chapter's object after ruling (o) is jurisdiction, not arms —
+   the courts' *reach*, the ranking of fora — and the draft already
+   separates "the law had claimed the sword long before" from "did
+   not tame it until the exchequer could pay for both"; what the
+   objection forces is that "nowhere else" be confined in terms to
+   the ranking and that the disarmament be dated separately, later
+   and by Tilly; (ii) the Empire is not a counter-example but the
+   mechanism at a different scale: Gerhard's domestication came
+   when "only the territorial princes had the right of levying
+   troops," that is, when the substrate arrived at the level of
+   the princes and not the Emperor — which is what "without
+   substrate" means for the imperial level, and the draft should
+   say so; (iii) Tilly's fifteenth century is absent from both
+   essays, so he neither states nor denies the chapter's sequence
+   — the quarrel about the artillery step is ch10 §VII's (Bean).
+   No spine ruling reached; ruling (o)'s register survives with the
+   two clauses.
+
+4. **Chastellain — Burgundy 1457: a prince without a permanent
+   fisc enforced his justice over a town's franchise and the
+   licensed bankers.** Steelman: the chapter's finding is that the
+   settlement supplied *enforcement* and the courts bit "once the
+   exchequer could pay the men who did the ranking." In May 1457
+   Philip the Good — ch10 §VI's case of offices without an
+   irreversible fisc — inventoried the fled Lombards' houses,
+   confiscated the burgesses' usurious deposits "tout à luy," fined
+   them, took Masset out of Valenciennes' franchise over the town's
+   privilege because the case "trop touchoit au grief de la chose
+   publique," held him "par longs ans," and put every bank in his
+   lands to composition (Chastellain III, pp. 315–16). Enforcement
+   did not wait on the permanent tax; it paid for itself from the
+   seizure. **Answer** (graded ADEQUATE): (i) one case, against a
+   fugitive bankrupt whose crime the plural order itself excepted
+   from refuge ("larrecin non rémissible") — a prince's reach, not
+   a system; the chapter's evidence for systematic enforcement is
+   salaried men in office (Dean's Naples, Mantua, Bologna), and
+   Burgundy's instrument here was seizure, which is Tilly's racket
+   in one chapter (the state producing the shield and the danger,
+   and taking a price for both); (ii) the limit of the reach is in
+   the same chapter: "le duc enfin estoit constraint de les y
+   remettre par la nécessité publique" — the prince's justice ran
+   over the persons and stopped at the function, which is the
+   dependence term ch10 §VIII carries and the reason the assessment
+   places the passage there; (iii) the extraction motive
+   (assessment §5(2)) must travel with any use here, or the passage
+   flatters the state. If the Lombards enter this chapter (8-b),
+   they enter with the caution in the same sentence. No spine
+   ruling reached.
+
+5. **Ertman — the men who did the ranking bought the right to do
+   it.** Steelman: §VII's closing line — "It was outranked — once
+   the exchequer could pay the men who did the ranking" — assumes
+   the exchequer paid them. For France, Ertman's finding is the
+   reverse: the fifteenth-century administration, "judicial or
+   financial," was "dotted with clans and dynasties of officials
+   who treated their offices as their own property" (p. 81), and it
+   was "primarily to these and other officials, rather than to
+   bankers or large-scale tax farmers, that the French governments
+   of the late middle ages turned for loans and advances" (p. 76).
+   The parlements planted at Toulouse, Grenoble, Bordeaux and Dijon
+   were royal in name and proprietary in staffing; the ranking was
+   done by a new intermediary stratum that lent the crown its own
+   revenue, and the local landscape stayed "riddled by seigneurial
+   and ecclesiastical jurisdictions" (p. 92). The line is true of
+   Dean's salaried Italians and false of the chapter's France.
+   **Answer** (graded, on the assessment's pattern for the Ertman
+   objection, GOOD on the mechanism and WEAK on the line): (i) the
+   mechanism's claim is subordination, not Weberian rationality —
+   ruling (b) — and p. 92 confirms it in the chapter's own register:
+   the jurisdictions survived, ranked; (ii) the chapter's France is
+   the courts' *reach*, and a venal parlement reached — the crown
+   sold the office and kept the appeal; (iii) but the closing line
+   cannot stand unqualified for France: the sentence before it must
+   concede that the crown paid Italy's rankers and sold France's,
+   and that the settlement's administrative capacity was, in
+   Ertman's words, appropriated by the stratum it created — which
+   is ch10 §III's venality limb and ch12's hybrid, entered there.
+   No spine ruling reached from this chapter; the doctrine gloss
+   (administrative capacity as collecting capacity) is Roderick's
+   at ch10.
+
+6. **Goldsmith & Wu — the modern re-assertion is not early; it was
+   done by 2006, cheaply, by coercion of intermediaries.** Steelman:
+   §VII's bridge calls the re-assertion "observable, dateable, and
+   early in its arc" and dates it 2018–25. Goldsmith and Wu date it
+   2000–06: Yahoo before the Paris court, the 2002 self-discipline
+   pact, "notions of a self-governing cyberspace are largely
+   discredited" (p. 14) — and the instrument was not a fisc but
+   law on local chokepoints: "the Internet has made the network
+   itself the intermediary" (p. 70); "Local intermediaries are a
+   defining, and therefore ineliminable, aspect" (p. 71); the ATF
+   "simply ordered Visa, MasterCard, and AmEx to stop taking online
+   cigarette orders … without ever laying a finger on online
+   sellers" (pp. 76–77). Read straight, the platform courts of §VI
+   were subordinate from the day they opened, the "hierarchical
+   plurality" of §VII existed before the DSA named it, and the
+   chapter's modern half describes as an arc beginning what was a
+   condition accomplished — with no artillery-scale investment
+   behind it. **Answer** (graded, per the assessment, GOOD on (i)
+   and (ii), ADEQUATE on (iii)): (i) category — their chokepoints
+   are the canon-and-register layer, which the manuscript already
+   holds cheap (ch11's fifth move: "the harness was the canon and
+   the register, not the plant"); the DSA's Art. 21 cap is that
+   move in statute, and §VII's arc is the *ranking of fora* —
+   arbitration precluded, platform process capped, the chain
+   codified — which is later and distinct from the coercion of
+   intermediaries; the sentence should say so in a layered tense
+   (8-e); (ii) what cheap coercion cannot do is the book's subject —
+   it can order the router and cannot build it — and §VI's
+   disanalogies already state that the modern fora are "parasitic
+   on state law," which is Goldsmith and Wu's thesis conceded in
+   advance; (iii) their scale limit ("less effective in small
+   nations," pp. 81–82) is the bloc geometry from the legal side,
+   and confines §VII's "hierarchical plurality" to polities whose
+   markets hold the intermediaries' assets — a concession the
+   modern bridge should make in a clause. The spine §7 amendment
+   (a layered tense) is book-level and ch12 §IV's; this chapter
+   takes its instance. No spine ruling reached here.

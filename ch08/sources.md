@@ -385,3 +385,233 @@ accordingly.*
 - Payling 1998: pp. 2, 10, 15–16, 16, 17 (§§I, II, VII).
 - Baker 1979: pp. 301 (§V), 306–7, 320 (§VII).
 - Dean 2007: pp. 12, 40, 49, 124–25, 125, 129–30 (§§IV, VII).
+
+## Added 2026-09-16 — catch-up run STEP 3 (assessments of 14 September; pins verified against sidecars)
+
+*From research/assessments-2026-09-14/ (the map, not the authority);
+every pin opened in the named sidecar this date. No draft edited;
+draft wordings quoted in memo Revisions 9–12 are the CURRENT
+draft's after Revisions 2 (Phase 5, ruling (o)). Master entries for
+the September-14 works sit in the chapters their assessments place
+first; this chapter takes POINTER entries with the pins it uses.
+Register decisions proposed for the rulings sheet are lettered
+"8-a", "8-b" … at the foot of memo.md's Revisions block of this
+date; consolidated lettering at STEP 4.*
+
+- **T2 — Charles Tilly, "War Making and State Making as Organized
+  Crime," in Evans, Rueschemeyer and Skocpol (eds), *Bringing the
+  State Back In* (Cambridge, 1985), pp. 169–191; with "Western
+  State-Making and Theories of Political Transformation" (1975),
+  ch. 9** — IN REPO (sidecar `text-2026-09-14/Tilly-1985-
+  WarMaking.txt`, from a .doc, NO printed pagination — pins by
+  section heading, paragraph and sidecar line; the 1975 chapter is
+  not used here). POINTER — full entries at ch06/sources.md
+  (l. 743, the Bean verdict), ch12/sources.md (l. 1300, Lane's
+  owners) and ch03/sources.md (STEP 3 block, the racket frame at
+  its fullest); master entry at ch10/sources.md (STEP 3 block of
+  this date, l. c. 1003, written by the ch10 pass while this block
+  was in progress).
+  Pins THIS chapter uses (assessment §6: "Ch. 8 §VII, ch. 11 §II —
+  the four Tudor campaigns in text with Stone; Gerhard's 'high cost
+  of artillery… domestication' as a dated footnote"): THE TUDOR
+  MONOPOLY, on Stone — "'The greatest triumph of the Tudors,'
+  writes Lawrence Stone, was the ultimately successful assertion of
+  a royal monopoly of violence both public and private, an
+  achievement which profoundly altered not only the nature of
+  politics but also the quality of daily life" (Violence and
+  Government, para 5; l. 42, verified; Tilly's n. 3 = Stone, *The
+  Crisis of the Aristocracy* (Oxford, 1965), p. 200, l. 149). THE
+  FOUR CAMPAIGNS — "Tudor demilitarization of the great lords
+  entailed four complementary campaigns: eliminating their great
+  personal bands of armed retainers, razing their fortresses,
+  taming their habitual resort to violence for the settlement of
+  disputes, and discouraging the cooperation of their dependents
+  and tenants" (para 6; l. 43, verified) — the third campaign is
+  this chapter's subject stated at T2; the delicate case — "the
+  Percys and Dacres, who kept armies and castles along the border,
+  threatened the Crown but also provided a buffer against Scottish
+  invaders. Yet they, too, eventually fell into line" (para 7;
+  ll. 44–45, verified). FRANCE — "Richelieu began the great
+  disarmament in the 1620s … By the later 1620s, Richelieu was
+  declaring the royal monopoly of force as doctrine. The doctrine
+  took another half-century to become effective" (para 8; l. 47,
+  verified). THE EMPIRE, Gerhard as quoted — "in the Empire after
+  the Thirty Years' War only the territorial princes had the right
+  of levying troops and of maintaining fortresses. . . . Everywhere
+  the razing of castles, the high cost of artillery, the attraction
+  of court life, and the ensuing domestication of the nobility had
+  its share in this development" (para 8; l. 48, verified; Tilly's
+  n. 4 = Gerhard, *Old Europe: A Study of Continuity, 1000–1800*
+  (New York, 1981), pp. 124–25, l. 150). ADJACENT (placed by the
+  assessment at ch10 §III and ch03 §I; verified, cross-referenced
+  here): the four activities' second — "State making: Eliminating
+  or neutralizing their rivals inside those territories" (What Do
+  States Do?, para 1; l. 105) — as the T2 name for §VII's
+  subordination; the continuum — "Banditry, piracy, gangland
+  rivalry, policing, and war making all belong on the same
+  continuum" (Warning, para 8; l. 14) — beside §III's "nobody's
+  feud was the war of all against all." NEGATIVE FINDING
+  (assessment §5(ii), confirmed by search): no fifteenth century,
+  no feud, no *Landfriede*, no Star Chamber, no parlement in either
+  essay; Tilly's disarmament is Tudor (undated within the dynasty),
+  Richelieu's and the post-1648 Empire's. USE-NOTE: T2 ally for
+  §VII's England, in text with Stone; RIVAL on the sequence's
+  "nowhere else" and on the Empire — his one artillery sentence
+  (Gerhard's) sits in the control case, after 1648, at the
+  territorial-prince level (critiques Revisions 3; memo Revisions
+  9). Publication 1985; *Coercion, Capital, and European States*
+  (1990) restates the disarmament without the four campaigns.
+
+- **T1 — Georges Chastellain, *Œuvres*, ed. Kervyn de Lettenhove,
+  tome III: *Chronique 1454–1458* (Brussels, 1863)** — IN REPO
+  (working copy and pin of record `corpus/retrieved/Chastellain-
+  Oeuvres-vol15.pdf`, printed = PDF−10; sidecar `text-2026-09-14/
+  Chastellain-vol15-ocr.txt`; the `vol01` scan is defective).
+  POINTER — master entry at ch11/sources.md (l. 542, with the scan
+  caveats, the tier ruling and the lacuna); further entries at
+  ch12/sources.md (l. 552) and ch07/sources.md. Pins verified THIS
+  DATE at vol15 PDF 324–326 (running heads misread "814", "919",
+  "346" for printed 314–316) and PDF 422–423 (printed 412–413):
+  ch. LXI, "Comment le duc mist sa main sur les bancs des usuriers"
+  — Bruges, "sur la fin du mois de may" in the 1457 sequence; the
+  three Piedmontese tables "s'en fuirent par nuyt … en divers lieux
+  en franchise" (p. 315); Kervyn's note: the duke had confirmed the
+  Lombards' privileges at Bruges on 9 September 1445 (p. 314 n.);
+  the duke's inventory "afin de faire recouvrer à chascun ce qui
+  estoit sien. Mais en ce faisant fut trouvé que plusieurs riches
+  bourgeois de la ville et marchans avoient mis argent à usure
+  avecques eux, ce que point ne devoient, par quoy le prince
+  confisqua tout à luy, et en furent encore à grand amende" —
+  found that several rich burgesses and merchants had put money out
+  at usury with them, which they ought not, wherefore the prince
+  confiscated the whole to himself, and they were fined heavily
+  besides [TRANS. CLAUDE] (p. 315); THE FRANCHISE OVERRIDDEN —
+  Masset "s'enfuy à Valencines, cuidant y avoir sauveté, mais le
+  duc sachant ce, le fit prendre et mettre en main seure en la
+  prison de la ville, disant qu'il ne devoit joir de nul privilége
+  de ladite ville, car son cas n'estoit que vray larrecin non
+  rémissible, ne deffensable à nulles bonnes gens, car trop
+  touchoit au grief de la chose publique" — fled to Valenciennes,
+  thinking to find safety there, but the duke, learning of it, had
+  him taken and held in the town prison, saying that he should
+  enjoy no privilege of that town, for his case was nothing but
+  plain theft, unpardonable and indefensible by any good people,
+  for it touched too nearly the injury of the commonwealth [TRANS.
+  CLAUDE] (pp. 315–316); "demora par longs ans jusques à la
+  satisfaction du tout à aucuns par deniers, à autres par
+  appointement" (p. 316); THE COMPOSITION AND THE RESTORATION —
+  "tous les bancs des usuriers des pays du duc rompirent, et y mist
+  le duc sa main sus comme forfais et les composa … Par quoy tous
+  les pays et les bonnes villes furent longuement sans avoir nuls
+  Lombars pour prester, là où le peuple toutevoies, selon la nature
+  de luy ancienne, se peut mal passer de eux. Et par ainsi, le duc
+  enfin estoit constraint de les y remettre par la nécessité
+  publique, et retournèrent partout comme devant" — all the
+  usurers' banks in the duke's lands broke, and the duke laid his
+  hand on them as forfeit and put them to composition … whereby all
+  the lands and good towns were long without any Lombards to lend,
+  where the people nevertheless, by its ancient nature, can ill do
+  without them. And so the duke in the end was constrained to
+  restore them by public necessity, and they returned everywhere as
+  before [TRANS. CLAUDE] (p. 316). GHENT, 1458 (ch. LXXX): the
+  town's notables "tous vestus de noir comme gens eux humilians et
+  recognoissans leurs fautes passées … la présentation des clefs de
+  toutes leurs portes" (p. 413), the streets hung "Veni nobis,
+  pacificus dominus; utere servitio nostro, sicut placuerit tibi,"
+  rendered by Chastellain "Viens devers nous, paisible seigneur, et
+  comme il te plaira, use de nous et de notre service" (p. 413 /
+  PDF 423, verified). PLACEMENT, stated exactly: the assessment
+  places the Lombards at ch10 §VIII and ch12 §IV ("nécessité
+  publique" as the anchor for the dependence term, extraction
+  carried with it) and Ghent as "colour, footnote level" WITHOUT a
+  chapter; it places NOTHING in this chapter. The run instruction
+  of this date names ch08 §IV or §VII as candidate seats for the
+  Lombards; the pins are entered as a POINTER so that Roderick can
+  rule (memo 8-b), and what they touch here is recorded, not
+  claimed: §V — a franchise of the chapter's kind (a town's
+  privilege of refuge; the bankers' own confirmed privileges)
+  overridden by the prince's justice for a case "non rémissible,"
+  the plural order's own exception exercised from above; §VII — a
+  prince processing financiers through his own justice, profiting
+  by confiscation and fine, and restoring them from necessity —
+  beside the modern §VII's Binance resolution as the fifteenth-
+  century twin, with the disanalogy that the Lombards were restored
+  and nothing restores Binance. Ghent is not this chapter's (ch07
+  holds it for Roderick). TIER: T1 for the chronicle as
+  contemporary witness; Chastellain's frame (dynastic pity,
+  Burgundian grievance) flagged per the master entry; every
+  translation [TRANS. CLAUDE]; re-verify at the page image before
+  print. CAUTION for the sequence claim: Burgundy 1457 is ch10
+  §VI's counter-case (offices without an irreversible fisc), and
+  the duke enforced — critiques Revisions 4.
+
+- **RETRIEVAL LIST — add:** Lawrence Stone, *The Crisis of the
+  Aristocracy, 1558–1641* (Oxford, 1965), p. 200 and ch. 5 —
+  MEDIUM for §VII (Tilly's four campaigns rest on him; ch11 §II
+  shares the want). Dietrich Gerhard, *Old Europe: A Study of
+  Continuity, 1000–1800* (New York, 1981), pp. 124–25 — LOW (the
+  Empire's post-1648 domestication at second hand until then).
+
+- **NOT PLACED IN THIS CHAPTER by their assessments (nothing
+  entered; adjacencies recorded for Roderick, each pin opened this
+  date):** Ertman — placed ch10 §§III/VII, ch11 §§I–II, ch12
+  §§IV–V (entries at ch11/sources.md l. 688; ch12/sources.md
+  l. 1115); his p. 81 / PDF 96 ("the administration of 15th-century
+  France, whether central or local, judicial or financial, was
+  dotted with clans and dynasties of officials who treated their
+  offices as their own property"), p. 76 / PDF 91 ("It was
+  primarily to these and other officials, rather than to bankers or
+  large-scale tax farmers, that the French governments of the late
+  middle ages turned for loans and advances") and p. 92 / PDF 107
+  (the landscape "remained, even after the incorporation of the
+  great fiefs, riddled by seigneurial and ecclesiastical
+  jurisdictions, a legacy of precocious state formation") touch
+  §VII's parlements and its closing line — the objection his
+  material raises is entered at critiques Revisions 5. Goldsmith &
+  Wu — placed ch1 §V, ch2, ch10 §VIII, ch11 Move five, ch12 §§II–IV
+  (entries at ch11/sources.md l. 989; ch12/sources.md l. 878;
+  ch02/sources.md l. 219); pp. 70–71 / PDF 83–84 ("the Internet has
+  made the network itself the intermediary"; "Local intermediaries
+  are a defining, and therefore ineliminable, aspect"), pp. 76–77
+  / PDF 89–90 (the ATF "simply ordered Visa, MasterCard, and AmEx
+  to stop taking online cigarette orders … without ever laying a
+  finger on online sellers"), p. 10 / PDF 23 (Yahoo, "from a
+  technology that resists territorial law to one that facilitates
+  its enforcement"; "Chinese police auxiliary"), p. 14 / PDF 27
+  ("largely discredited"), p. 180 / PDF 193 ("physical coercion by
+  government … remains far more important than anyone expected")
+  touch §VI's disanalogies and §VII's "early in its arc" — the
+  objection is entered at critiques Revisions 6. Glete — placed
+  ch11 §III; p. 75 / PDF 84 ("Private armies as instruments of
+  aristocratic factionalism ceased to be important after this war
+  [Granada], and the noblemen's castles had become vulnerable to
+  the rulers' new siege artillery. The armed forces of the
+  hermandades were abolished in 1498 after having served as an
+  instrument for concentrating local militia forces into a
+  centrally controlled army") bears on §VII's Spain — memo
+  Revisions 11. Schmitt — placed ch1–2 footnote, ch12 §IV; p. 58 /
+  PDF 60 ("wars among Christian princes were bracketed wars … They
+  were feuds in the sense of assertions of right, realizations of
+  right, or confirmations of a right of resistance, and they
+  occurred within the framework of one and the same total order")
+  is §III's Fehde reading in the canonical jurist's words, from the
+  same 1930s–40s milieu as Brunner — an adjacency that doubles the
+  provenance caution §III already carries (8-f). Krasner — placed
+  ch12 §IV; p. 29 / PDF 39 ("more powerful states are unlikely to
+  lose their Westphalian sovereignty unless they invite external
+  authority through conventions or contractual arrangements") names
+  §VI's ISDS tier as invitation and §VII's *Achmea*/ECT withdrawal
+  as its revocation — ch12's vocabulary, not entered. Scott —
+  placed ch12 §II; p. 54 / PDF 71 (illegibility "has been and
+  remains a reliable resource for political autonomy") beside §VI's
+  offshore legibility sentence. Ruggie — p. 155 / PDF 18 (the lord
+  "could have closed down a fair in their domain … though other
+  lords in other places probably would have been only too pleased
+  to provide alternative sites") beside §V's fair courts — ch12
+  §II's. McNeill — p. 69 / PDF 78 (commercialisation of organised
+  violence) is ch04's; p. 105 (subjects retaining "the option of
+  armed revolt against royal tax collectors" until after 1650) is
+  ch10 §VII's; nothing in this draft touches the market for
+  military services. Stasavage, Wu, Bagehot, Crouch, Cheung,
+  Suleyman, Farrell & Newman (both) and Commynes tome III place
+  nothing here and touch nothing here.

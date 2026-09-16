@@ -764,3 +764,240 @@ STATUS: REVIEWED (Roderick, 2026-07-23) — cleared for drafting
      concept and vivid image unchanged; the keyring image is
      called back once in the new §II material, not re-deployed.
 
+
+## Revisions (2026-09-16 — catch-up run STEP 3, PENDING HUMAN REVIEW)
+
+*From research/assessments-2026-09-14/, each pin opened in the
+sidecar this date (sources.md block of the same date). Draft
+wordings quoted are the CURRENT draft's after Revisions 8 (Phase
+5, ruling (o)); nothing applied to draft.md. Tiering per CLAUDE.md
+§4. Where an assessment places a work elsewhere and its material
+nonetheless touches this chapter, the entry says so and enters
+nothing in sources.md beyond the adjacency.*
+
+9. **(Tilly 1985 — the four Tudor campaigns; the disarmament
+   chronology against §VII's sequence; the control case.)**
+   - CONFIRMS (a, T2, by name in text with Stone): §VII's England
+     — Star Chamber, the Councils of the North and of Wales, the
+     Court of Requests, the sanctuary and clergy sequence 1489–1540
+     — has its summary judgement at T2 in Stone as Tilly carries
+     him: "the ultimately successful assertion of a royal monopoly
+     of violence both public and private" (Violence and Government,
+     para 5); and the chapter's object — private justice — is the
+     third of the four campaigns: "taming their habitual resort to
+     violence for the settlement of disputes" (para 6), with the
+     first ("eliminating their great personal bands of armed
+     retainers") ch03's and the second ("razing their fortresses")
+     ch11's. The Percys and Dacres (para 7) are the Marches'
+     version of §II's Norfolk — a private jurisdiction tolerated
+     because it was useful. §III's "nobody's feud was the war of
+     all against all. It was jurisdiction, claimed and exercised
+     privately" has Tilly's continuum behind it ("Banditry, piracy,
+     gangland rivalry, policing, and war making all belong on the
+     same continuum," Warning, para 8) — footnote.
+   - CORRECTS (register; NOT applied): §VII — "the courts,
+     councils, constabularies and abolitions arrive in the two
+     generations *after* — 1470s to 1540s — precisely where the
+     fiscal-military consolidation had laid the substrate, and
+     nowhere else." Two of Tilly's three dates fall outside that
+     window and outside that reading. France: "Richelieu began the
+     great disarmament in the 1620s … By the later 1620s, Richelieu
+     was declaring the royal monopoly of force as doctrine. The
+     doctrine took another half-century to become effective"
+     (para 8) — where the draft's France is the parlements of
+     1443–1477. Not a contradiction: the parlements are
+     jurisdiction ranked, Tilly's disarmament is arms removed; but
+     "nowhere else," read as the subordination of private force,
+     claims for the 1470s–1540s what Tilly dates to the 1620s–70s.
+     The Empire: Gerhard as quoted — "after the Thirty Years' War
+     only the territorial princes had the right of levying troops
+     and of maintaining fortresses … the razing of castles, the
+     high cost of artillery, the attraction of court life, and the
+     ensuing domestication of the nobility" (para 8) — puts Tilly's
+     one artillery sentence in the chapter's control case, two
+     centuries on and at the territorial-prince level. Proposed
+     wording: the sequence claim confined in terms to jurisdiction
+     (the courts ranked, the fora subordinated) with the
+     disarmament stated as a later and separately dated sequence
+     (Tudor; Richelieu; post-1648), and the Empire's "proclaimed
+     again and again" given its terminus — the monopoly took
+     effect when the substrate arrived, at the princes' level and
+     not the Emperor's, which is the mechanism at a different scale
+     and confirms the "without substrate" reading only if the draft
+     says so. Critiques Revisions 3.
+   - ADDS: the T2 name for §VII's subordination — "State making:
+     Eliminating or neutralizing their rivals inside those
+     territories" (What Do States Do?, para 1) — beside ruling (b)'s
+     "subordinating"; Stone 1965 and Gerhard 1981 to the RETRIEVAL
+     LIST (sources.md this date). The (a)/(b)/(c) line: the four
+     campaigns are Tilly's summary of Stone, (a) for England; the
+     chapter's sequence (courts after fisc) is the book's (c) and
+     Tilly neither states nor denies it, since his fifteenth
+     century is absent.
+
+10. **(Chastellain tome III — the Lombards of Bruges, 1457; Ghent
+   1458; placement proposed, not claimed.)**
+   - CONFIRMS: nothing in the draft directly — no date, name or
+     sequence in §§III–VII is touched. At argument level, §VII's
+     "hierarchical plurality … state courts above platform process
+     above private ordering … it did not close the church courts or
+     the manorial courts; it ranked them" has a 1457 Burgundian
+     instance at T1: the Lombards' privileges (confirmed 9
+     September 1445, Kervyn's note at p. 314) suspended by seizure
+     and composition; Valenciennes' franchise refused to Masset
+     because his case was "vray larrecin non rémissible …
+     trop touchoit au grief de la chose publique" (pp. 315–16); the
+     banks restored "par la nécessité publique" (p. 316) — the
+     prince's justice ranking a town's privilege and a licensed
+     foreign jurisdiction beneath itself, and stopping at the
+     function it could not replace.
+   - CORRECTS: nothing. One CAUTION against §VII's sequence
+     sentence ("nowhere else"): the duke who enforced in 1457 is
+     ch10 §VI's counter-case — the richest prince in the north,
+     with offices and without an irreversible fisc — and the
+     enforcement was financed by the seizure itself ("le prince
+     confisqua tout à luy, et en furent encore à grand amende").
+     One case, against a fugitive bankrupt, is a prince's reach and
+     not a system; but it must be stated as such if the Lombards
+     enter, or the sequence claim is exposed (critiques Revisions
+     4).
+   - ADDS (all conditional on 8-b): §V — the Lombard table as a
+     franchise of the chapter's kind, and Masset's Valenciennes
+     claim as the refuge privilege refused for the excepted crime
+     (the sanctuary logic of §V, exercised from above); §VII — the
+     prince's justice over financiers as the fifteenth-century twin
+     of the modern §VII's Binance resolution, with extraction
+     carried as a motive beside dependence (assessment §5(2)) and
+     the disanalogy stated: the duke restored the Lombards because
+     "le peuple … se peut mal passer de eux," and nothing restores
+     Binance. Placement: the assessment puts the Lombards at ch10
+     §VIII and ch12 §IV and Ghent nowhere; this chapter's use is
+     the run instruction's proposal and Roderick's ruling. Ghent
+     1458 (pp. 412–13) verified and not this chapter's — ch07
+     holds it. The (a)/(b)/(c) line: the passage is T1 witness; the
+     reading that it instances hierarchical plurality is (c).
+
+11. **(Glete 2002, p. 75 — placed at ch11 §III; touches §VII's
+   Spain.)**
+   - CONFIRMS (a, T2): §VII — "Spain: the audiencia of Valladolid
+     reorganised by the Catholic Monarchs in 1485 … the Santa
+     Hermandad — a royal constabulary — instituted at the Cortes of
+     Madrigal in 1476." Glete dates the Spanish subordination of
+     private force to the Granada war and by the mechanism:
+     "Private armies as instruments of aristocratic factionalism
+     ceased to be important after this war, and the noblemen's
+     castles had become vulnerable to the rulers' new siege
+     artillery" (p. 75) — inside §VII's window, and the one
+     national case in the section where the T2 authority names the
+     guns.
+   - CORRECTS (precision; NOT applied): the constabulary the draft
+     lists among the instruments of subordination was, in its armed
+     form, transitional: "The armed forces of the hermandades were
+     abolished in 1498 after having served as an instrument for
+     concentrating local militia forces into a centrally controlled
+     army" (p. 75). The 1476 institution stands; the implication
+     that it persisted as part of the settlement does not.
+     Proposed: one clause — instituted 1476, its armed forces
+     dissolved 1498 once the royal army existed. Nothing entered in
+     sources.md (the assessment places the page at ch11 §III);
+     ch11's entry carries the pin.
+   - ADDS: nothing further here.
+
+12. **(Ertman 1997 and Goldsmith & Wu 2006 — not placed here;
+   the two adjacencies that reach argument level.)**
+   - ERTMAN (placed ch10 §§III/VII, ch11, ch12). CONFIRMS ruling
+     (b)'s register in §VII — "it did not close the church courts
+     or the manorial courts; it ranked them": France's local
+     landscape "remained, even after the incorporation of the great
+     fiefs, riddled by seigneurial and ecclesiastical
+     jurisdictions, a legacy of precocious state formation"
+     (p. 92). CORRECTS (register; NOT applied): §VII's closing line
+     — "It was outranked — once the exchequer could pay the men who
+     did the ranking" — against p. 81 (the fifteenth-century
+     administration "judicial or financial … dotted with clans and
+     dynasties of officials who treated their offices as their own
+     property") and p. 76 (the crown borrowed "primarily" from
+     "these and other officials, rather than to bankers or
+     large-scale tax farmers"): the men who did the ranking bought
+     their places and lent the crown its revenue; "pay the men" is
+     right for Dean's salaried Italian officers and exposed for the
+     parlements. The line can stand if the sentence before it
+     concedes venality for France (critiques Revisions 5).
+   - GOLDSMITH & WU (placed ch1, ch2, ch10, ch11, ch12, Appendix C,
+     Coda). CONFIRMS §VI's disanalogies at T2: "Its fora are
+     parasitic on state law, not rivals to it" — "physical coercion
+     by government—the hallmark of a traditional legal system—
+     remains far more important than anyone expected" (p. 180);
+     "Local intermediaries are a defining, and therefore
+     ineliminable, aspect of the Internet" (p. 71). CORRECTS
+     (register; NOT applied): §VII's bridge — "The modern
+     re-assertion is observable, dateable, and early in its arc" —
+     dated by the draft to *Achmea* (2018), the DSA, MiCA (2024)
+     and the Binance resolution (2023). Goldsmith and Wu's record
+     begins in 2000 (Yahoo before the Paris court) and 2002 (the
+     Chinese self-discipline pact, p. 9), and by 2006 "notions of a
+     self-governing cyberspace are largely discredited" (p. 14):
+     for the intermediary-coercion layer — content, commerce,
+     payments (the ATF ordering "Visa, MasterCard, and AmEx,"
+     pp. 76–77) — the reassertion was accomplished twenty years
+     before the draft's dates. The assessment's layered tense
+     (§5(1)) is this chapter's instance: accomplished for the
+     coercion of intermediaries by 2006; the hierarchical ranking
+     of *fora* — arbitration precluded, platform process capped,
+     the crypto experiment codified — is the arc that is "early,"
+     and the sentence should say which (critiques Revisions 6;
+     8-e). Nothing entered in sources.md; entries at ch11 and ch12
+     carry the pins.
+
+13. **(Not placed and not touching — nothing entered.)** Krasner
+   (invitation, p. 29 — ch12 §IV's name for §VI's ISDS tier and
+   §VII's *Achmea* revocation; adjacency only), Scott (p. 54,
+   illegibility as resource, beside §VI's offshore sentence — ch12
+   §II's), Schmitt (p. 58, feuds as "assertions of right … within
+   the framework of one and the same total order" — §III's reading
+   in the jurist's words; 8-f), Ruggie (p. 155, the fairs — ch12
+   §II's), McNeill (nothing in this draft touches the market for
+   military services; p. 69 is ch04's, p. 105 ch10 §VII's),
+   Stasavage, Wu, Bagehot, Crouch, Cheung, Suleyman, Farrell &
+   Newman (both), Commynes tome III.
+
+14. **(Flags — STEP 1.4.)** No [GAP] in draft.md is closed by the
+   14 September assessments, positively or negatively: [GAP:
+   Brunner, Algazi and both Zmora monographs], [GAP: Muir's *Mad
+   Blood Stirring*], [GAP: Jansen's dataset at page level] and the
+   footer's Dean/Jansen item all stand; the two [BRIDGE] passages
+   stay Roderick's. Nothing marked CLOSABLE AT RENOVATION; nothing
+   marked RE-SOURCE OR CUT.
+
+**Register decisions proposed for the rulings sheet** (stated, not
+recommended; lettered for STEP 4's consolidation):
+- **8-a.** §VII: the sequence claim confined in terms to
+  jurisdiction (courts ranked, fora subordinated, 1470s–1540s),
+  with Tilly's disarmament chronology (Tudor; Richelieu 1620s; the
+  Empire after 1648 on Gerhard) stated separately and the control
+  case given its territorial-prince terminus.
+- **8-b.** Chastellain III, pp. 314–316 (the Lombards of Bruges,
+  1457): placed at §V (the franchise overridden), at §VII (the
+  prince's justice over financiers, beside Binance, extraction
+  carried with dependence, the restoration as the disanalogy), or
+  left to ch10 §VIII and ch12 §IV as the assessment places it —
+  Roderick's; if placed here, the Burgundy caution (enforcement
+  without a permanent fisc, financed by the seizure) is stated in
+  the same sentence.
+- **8-c.** §VII Spain: Glete's Granada dating and the hermandad's
+  1498 dissolution entered in one clause.
+- **8-d.** §VII's closing line kept, with the sentence before it
+  conceding venality for France (Ertman pp. 76, 81): the men who
+  did the ranking bought their places; the exchequer paid Dean's
+  Italians.
+- **8-e.** §VII's modern bridge adopts the layered tense —
+  intermediary coercion accomplished by 2006 (Goldsmith & Wu), the
+  hierarchical ranking of fora 2018–25 as the arc that is "early"
+  — as this chapter's instance of the book-level decision the
+  ch12 §IV assessment proposes.
+- **8-f.** §III: Schmitt p. 58 entered as a footnote beside
+  Brunner with the shared provenance stated, or omitted —
+  Roderick's.
+
+STATUS: Revisions 9–14 PENDING HUMAN REVIEW; Revisions 6–8 as
+before.
