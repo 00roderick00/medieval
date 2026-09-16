@@ -1651,3 +1651,214 @@ No Indian baseline was found in any of the nineteen works; the Indian
 bloc's rows remain wholly NEEDS BASELINE.
 
 STATUS: PENDING HUMAN REVIEW (running file)
+
+## Revisions (2026-09-16 — Phase 5 renovation, Part B4: ruling (cc); spine §8(g) item 2. PENDING HUMAN REVIEW)
+
+appendix-c/appendix.md rebuilt in full. The first assembly of 2 August
+2026 (fifteen indicators, two framing devices, 1,409 words) is superseded
+in place; its text survives in the git history and its rows are all
+accounted for below. Every figure carried into the appendix was opened at
+the pin this run — the primaries at the sidecars in
+corpus/retrieved/source-library/text-2026-09-14/ (eIDAS2, EDIP,
+NDAA-FY2026, Hague-Declaration, CHIPS, GENIUS, DMA, DSA, AI-Act) and the
+American primaries in american-primaries-2026-09-02/ and
+open-web-pulls-2026-09-02b/; the intake quotations (Suleyman, Goldsmith &
+Wu, Crouch, Bagehot, Tilly 1975, McNeill, Ruggie, Cheung, Krasner,
+Stasavage, Glete, Farrell & Newman) spot-checked at the sidecar page the
+Revisions of 16 September (catch-up STEP 3) record; the chapter-record
+figures (SIA/BCG, GAO, OBR, EU Tax Observatory, the 10-Ks, the dockets,
+the Commission decisions, the Ukraine figures) confirmed present in the
+chapter sources.md that holds each, and cited to it. Nothing from
+workshop/ or research/ is cited.
+
+**1. The appendix's new structure.** Head note (date; supersession;
+STATUS PENDING HUMAN REVIEW). §I How to score this book: the two claims
+stated once; seven scoring rules — (1) four blocs, India's empty column
+explained; (2) four levels, defined, China's fourth n/a; (3) the American
+rule; (4) the re-dating rule with the Chastellain specimen (t. III pp.
+117, 387, 444, 446) and Tilly 1975 p. 635; (5) the three coding rules —
+will/incapacity (Goldsmith & Wu p. 89), coercion/contract (Krasner p. 29),
+client-not-sovereign and consolidation-by-licence v. capture-by-licence
+(Wu ch. 9, ch. 18); (6) democracy and liberalism separately (Crouch PDF
+5–6); (7) baseline notation and the list of primaries opened; the
+conditions→instruments table extended with claim 3(ii) and the American
+verdict. §II the context variable and C11-1. §III thirteen indicators of
+claim 3(i). §IV the democratic-control sub-wager DC-1..6. §V the American
+sub-wager CA-1..8, together. §VI dated priors (a table of nine). §VII
+concordance, withdrawals, and the NEEDS VERIFICATION / UNVERIFIED lists.
+The Introduction's conditions 1–4 and the fifteen-year horizon are
+cross-referenced, never restated.
+
+**2. Indicators kept and re-expressed (per-bloc baseline status; level
+of baseline).**
+- CV (ex C1-1): US and Europe DATED (Hague paras 2–3, verbatim at the
+  sidecar; ReArm per ch12 sources); China DATED (15th FYP, gov.cn); India
+  NO BASELINE. Level: enacted authority.
+- C11-1: US DATED (ch11 §VI record); China DATED 2017–18 with the row
+  re-expressed layer by layer per Revisions 2026-09-16 (d)1 (Cheung pp.
+  102, 115–16; the canon row from 2002 per Goldsmith & Wu pp. 9, 96);
+  Europe DATED (DMA Art. 54 application 2 May 2023; AI Act Art. 113;
+  eIDAS 2.0 Art. 5a; Zielonka p. 96 fiscal zero); India NO BASELINE — the
+  "2/5" cell WITHDRAWN. Levels: enacted authority / demonstrated
+  compliance.
+- C10-2: US DATED (SIA/BCG; SDA Tranche 3; NDAA Sec. 1604 — Tranches 4–6
+  added to the middle-tier authority, verified); China DATED (Cheung p.
+  282, Entity List 24.25%); Europe DATED at supplier level (ESMC
+  IP/24/4287; Magdeburg NEEDS VERIFICATION); India NO BASELINE. Level:
+  operating capacity. McNeill's lag (p. 113) stated; pricing series NEEDS
+  BASELINE.
+- C10-1: US DATED — CHIPS Sec. 102(a)(2) verified at the statute: $24.0bn
+  + $7.0bn + $6.3bn + $6.1bn + $6.6bn = $50.0bn to the CHIPS for America
+  Fund, $39.0bn of it for §9902 (the $52.7bn headline is ch10's, adding
+  the other funds); NDAA Secs. 867 (new 10 U.S.C. §4817(g) eligible uses)
+  and 804(b) (multiyear munitions "beginning in fiscal year 2026")
+  verified; Intel stake per ch10 sources; China DATED (Big Fund NEEDS
+  VERIFICATION at Bloomberg; Cheung pp. 123, 127, 277–79 for
+  securitisation and GDP shares); Europe DATED at proposal (EDIP COM(2024)
+  150 §4, "EUR 1 500 million" to 31/12/2027, verified at EDIP.txt l. 714;
+  Chips JU; ASAP IP/24/1495; IRIS²); India NO BASELINE. Levels: enacted
+  authority / operating capacity.
+- C10-3: US — 155mm figure NEEDS VERIFICATION at the IG report (T1 anchor
+  on retrieval); GAO DATED; NDIS page pin owed; NDAA Sec. 364(a)(2)(B),
+  (D) verified as the next datum; China target DATED (Cheung p. 308),
+  actual NO BASELINE; Europe DATED at claim level (ASAP), audited series
+  NEEDS BASELINE; India NO BASELINE. Level: operating capacity.
+- C12-1: US DATED (March 2025 week; NDAA Sec. 1603 = new 10 U.S.C.
+  §2275d(a)–(c) verified — commercial systems "under the direction of a
+  member of the armed forces", ten-day waiver notification); China,
+  Europe, India NO BASELINE as patron. Levels: operating capacity /
+  enacted authority.
+- C12-2: scored on the Ukrainian/Russian record (ch12 sources); US
+  programme baseline DATED (NDAA Sec. 867(g)(1)(H) "single use, and
+  attritable unmanned vehicles"); China, Europe, India NO BASELINE.
+- C2-1/C4-1 (merged; both IDs kept): US DATED (GSA $1 deals, USAi.gov,
+  Detachment 201, Intel; Starshield NEEDS VERIFICATION at canonical);
+  China DATED (2002 pact; MCF dates; ECC/WERPL counts) with e-CNY, PEPL
+  and WAICO NEEDS VERIFICATION; Europe DATED (DMA Art. 3(2) thresholds;
+  eIDAS 2.0 Art. 5a(1) verified verbatim); India NO BASELINE. "Fused"
+  label withdrawn; "ruled as departments" adopted per (d)1.
+- C2-3 (with C3-2, C3-1, C4-2): US DATED (Anthropic episode per ch11
+  sources; 10-Ks per ch03; Cheung p. 290 for the R&D inversion); China
+  DATED (Cheung p. 115); Europe NEEDS VERIFICATION (Mistral–ASML T4);
+  India NO BASELINE. Level: demonstrated compliance.
+- C7-1: Europe DATED (OBR March 2024 — the UK instance, flagged as the
+  non-Union member); continental series NEEDS BASELINE; US, China, India
+  NO BASELINE. Level: operating capacity.
+- C8-2: Europe DATED (Achmea/Komstroy/ECT per ch08; DSA Art. 21(2)
+  verified verbatim; DMA/DSA decisions per ch11); US DATED (Binance;
+  Google remedies; GENIUS Sec. 4(a)(1)(A) 1:1 reserves and Sec. 20
+  effective date, verified); China 2002 DATED, 2020–23 NEEDS
+  VERIFICATION; India NO BASELINE.
+- C8-3: global DATED (EU Tax Observatory 2024); per-bloc decomposition
+  NEEDS BASELINE — no bloc column scored; Scott p. 54 caveat carried.
+- C11-2: Europe DATED (Directive 2022/2523) with AEOI figures NEEDS
+  VERIFICATION at oecd.org; US DATED (Side-by-Side; G7 statement); China
+  NEEDS VERIFICATION (CIPS/SWIFT via F&N ch. 6); India NO BASELINE; exit
+  series NEEDS BASELINE.
+- C11-3: US DATED (dockets per ch11); Europe NEEDS VERIFICATION (GC
+  judgment number); China NO BASELINE; India NO BASELINE.
+- C6-3: Europe DATED (IRIS²); US DATED (BIS VEU rule 90 FR 2025-16735,
+  in corpus); China via CV; India NO BASELINE.
+
+**3. Added — the democratic-control sub-wager (DC-1..6).** Design rules
+from Bagehot (PDF 58, 11, 71), principle from Crouch (PDF 32), the
+Cortes portrait from Stasavage (chs. 7–8), all at the pins the STEP 3
+entry verified.
+- DC-1 elections: US and Europe DATED at enacted authority on the Hague
+  pledge alone (paras 2–3; the 2029 review named as the scoring point);
+  the fuller register NEEDS BASELINE — not scored beyond the pledge;
+  India NO BASELINE; China n/a.
+- DC-2 legislatures: US DATED at enacted authority — NDAA FY2026 Secs.
+  1532(a)(3), (b); 1533(a); 1603; 804(a); 364, and GENIUS Sec. 4(a)(1)(A),
+  all opened at the sidecar; enforcement/waiver limb NEEDS BASELINE;
+  Europe DATED at enacted authority (the co-decided regulations) and at
+  proposal (EDIP — the one live European fourth-level datum); India NO
+  BASELINE; China n/a.
+- DC-3 courts: baseline = C11-3 re-coded; one US remedy instance (the
+  Anthropic injunction and the 3 April 2026 restoration); Europe the GC
+  judgment (number to pin); India NO BASELINE; China n/a.
+- DC-4 public capacity: US DATED (Intel stake; NDAA Secs. 225(a), 867;
+  Ruggie pp. 172–73 as the 1993 zero); Europe DATED at enacted authority
+  (eIDAS 2.0 Art. 5a(1); EDIP at proposal; IRIS²); China the inverse case
+  (Cheung p. 115); India NO BASELINE; inventory NEEDS BASELINE.
+- DC-5 the fusion (§8(g) item 3): US DATED starting points (Intel,
+  Detachment 201, $1 deals; H200 NEEDS VERIFICATION); series NEEDS
+  BASELINE; Europe, India NO BASELINE; China n/a. Predecessors named
+  (Crouch PDF 20; Lane's fourth owner via Tilly 1985; Suleyman PDF 211).
+- DC-6 fiscal mode (§8(g) item 4): the Tilly direction with the book's
+  inference marked as (c); US (H200 NEEDS VERIFICATION; Intel DATED;
+  receipts series NEEDS BASELINE); China DATED inverse (Cheung Table 2.1
+  p. 73, 122.2%; p. 278, 41%); Europe DATED (Zielonka p. 96; EDIP
+  proposal); India NO BASELINE; Glete's Spain (pp. 125–26) and Sweden
+  (p. 195) as the two sides.
+
+**4. The American sub-wager CA-1..8 — entered into appendix.md for the
+first time, together, under rule 3.** CA-1 baseline the absence in US
+law plus the CMA final decision (31 July 2025, in corpus). CA-2 gains an
+enacted-authority baseline from NDAA Sec. 1603; the shutdown-order
+investigation stays UNVERIFIED and is not carried. CA-3: EO 14148 (ch11
+sources), SB 53 (chaptered text in corpus), NDAA Secs. 1532–1533 as the
+antechamber; rule 5(c) attached. CA-4: the Google and Meta instruments in
+corpus. CA-5: baseline now S. 1671 (Digital Platform Commission Act of
+2023, as introduced — in corpus, american-primaries INDEX l. 33),
+replacing the unsourced "proposed, not enacted". CA-6: licence side DATED
+(BIS Dec 2025 policy; Nvidia 8-K; BIS 13 May 2025 rescission release in
+corpus); the 15 per cent arrangement NEEDS VERIFICATION — carried, not
+scored. CA-7: baseline now the DOJ release 22-1222 (19 Oct 2022, in
+corpus), replacing "[RE-CHECK; pin DOJ release]". CA-8: outward half
+DATED (VEU rule); ASML servicing denial UNVERIFIED; inward half an
+absence. The draft scoring rule of 2 September kept, with the
+reconstitution outcome added as a named failure mode.
+
+**5. Counter-predictions entered as dated priors, not indicators (§VI):**
+Suleyman 2023 (PDF 258, 273, 176); Goldsmith & Wu 2006 (pp. 184, 149);
+Farrell & Newman 2019/2023; Wu 2010 ch. 18; Crouch 2000 (PDF 8–9); Tilly
+1975 p. 638; McNeill 1982 p. 386; Ruggie 1993 p. 172; Hicks and Schake in
+Brands & Gavin (eds) 2020, PDF 419 and 399 — corrected from the 13
+September entry's implicit T2 to T3, the volume's tier in ch12
+sources.md; Bobbitt 2002 (13 September entry, item 5) NOT carried — no
+page pin.
+
+**6. Demoted or withdrawn to this memo's candidate list.** The "India
+2/5" cell (rule 1). The "fused ownership" label. CC-7, CC-8 (pricing
+series), CC-11, CC-12 (exit series) — NEEDS BASELINE, not scored. The
+Section 232 proclamations of 2026 (in corpus as PDFs, not opened) — not
+cited. Bobbitt 2002 — no pin. The C1-2, C5-3, C3-3 retirements stand.
+
+**7. What a ruling asked for that could not be done at the pin.**
+(a) India: no sourced baseline at any level in any verified work; every
+Indian cell is NO BASELINE — not scored. The route is ch11's browser-pin
+list (UIDAI dashboard; NPCI monthly UPI; PIB IndiaAI) — T1 once pulled.
+(b) The NDAA FY2026 enactment date is not in the enrolled-text sidecar;
+pinned at press. (c) The four falsifiers' series baselines — the
+strategic-commitments register (DC-1), the waiver/enforcement series
+(DC-2), the public-capacity inventory (DC-4), the fusion series (DC-5) —
+do not exist in any source; each falsifier is scored only on the enacted
+texts named. (d) The H200 revenue instrument, the Starlink shutdown-order
+investigation and the ASML servicing denial remain unpinned. (e) The
+DoD IG 155mm report, the OECD AEOI primary, Starshield's canonical
+release, Big Fund III's Bloomberg canonical, Intel's Magdeburg release,
+the GC's Apple judgment number, the CIPS/SWIFT annual figures, WAICO,
+the Private Economy Promotion Law and the e-CNY centre — all carried
+NEEDS VERIFICATION and not scored. (f) Wolin is not in corpus; the
+ornamental-democracy ledger check against him is still owed (this
+appendix uses the term as spine §8(g) defines it and claims no coinage).
+(g) The per-bloc decomposition of the offshore series (C8-3) and the
+continental populist series (C7-1) are NEEDS BASELINE. (h) The 2026-09-16
+append rows of the rulings sheet ((ii), (jj), (uu), (cccc), (ffff)) are
+PROPOSED, not ruled, and were not applied; their carriers were used only
+where they support ruled item (cc) or §8(g) items 2–4 (Krasner's
+invitation as the coding vocabulary; McNeill's lag as a stated risk in
+C10-2, not a separate indicator).
+
+**8. Conformance notes.** Bagehot cited by Gutenberg PDF page (no
+printed pagination survives); Crouch and Suleyman by PDF page; Cheung by
+printed page (PDF−15); Tilly 1985 by paragraph (unpaginated sidecar);
+Stasavage by chapter. Author–date inline per the drafting format; the
+years taken from the sources.md headings (Krasner 1999; Cheung 2022;
+Glete 2002; Stasavage 2011; McNeill 1982; Scott 1998; Zielonka 2006).
+British English throughout; no bullets in the appendix's prose
+paragraphs (the tables and the concordance are apparatus). Word count:
+1,409 → 9,289 (wc -w).
+
+STATUS: PENDING HUMAN REVIEW (running file)
