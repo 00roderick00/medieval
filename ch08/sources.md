@@ -376,3 +376,12 @@ accordingly.*
   court-access proviso (Art. 21(1), third subpara.) supports the
   bindingness-reserved-to-the-state reading. Cite as: Reg. (EU)
   2022/2065, Art. 21(2).
+
+## Pins used 2026-09-16 — Phase 5 renovation (ruling (o); the Paston re-pinning)
+- Gairdner 1872 vol. I: no. 67, pp. 82–3; no. 77, pp. 106–8; no. 107,
+  p. 145; no. 159, pp. 213–14; no. 173, pp. 229–31; no. 179,
+  pp. 237–40 — all re-verified against the sidecar at the line
+  before entry (§§I–II).
+- Payling 1998: pp. 2, 10, 15–16, 16, 17 (§§I, II, VII).
+- Baker 1979: pp. 301 (§V), 306–7, 320 (§VII).
+- Dean 2007: pp. 12, 40, 49, 124–25, 125, 129–30 (§§IV, VII).

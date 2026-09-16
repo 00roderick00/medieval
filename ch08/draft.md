@@ -23,7 +23,10 @@ the nombre of a thowsand persones… with curesse, brigaunders, jakks…
 gonnes… long cromes to drawe doun howsis… with which thei myned down
 the walles… and so came in to the seid mansion, the wiff of your
 besecher at that tyme beyng ther in, and xij. persones with her; the
-which persones thei dreve oute" (Gairdner, vol. II). The thousand is
+which persones thei dreve oute" (Gairdner 1872: I, no. 77, pp. 106–7;
+Gairdner's headnote prints the eviction as 1450, but the petition's own
+chronology and the modern dating give 1449, and this book follows
+them). The thousand is
 the plaintiff's number — a partisan figure in a pleading, and this
 book cites it as such — but the guns, the wall-mining and the eviction
 are the uncontested core, and so is what the petition says next, which
@@ -31,10 +34,17 @@ is the fifteenth century explaining its own legal system in one
 clause. Paston tells the crown plainly why he has not simply gone to
 law: "your seid besecher is not abille to sue the commone lawe in
 redressyng of this heynos wrong, for the gret myght and alyaunce of
-the seid Lord" (Gairdner, vol. II). The courts existed. The writs
-ran. And against a lord of sufficient might and alliance, they did
-not work — a fact Paston states without outrage, as a competent man
-states the weather.
+the seid Lord" (Gairdner 1872: I, no. 77, p. 108). The courts existed.
+The writs ran. And against a lord of sufficient might and alliance,
+they did not work — a fact Paston states without outrage, as a
+competent man states the weather. Where exactly they did not work is
+a question the file cannot answer and the historians can, and the
+chapter adopts Payling's correction at the outset: the commissions
+of the peace indicted well enough; what undid the indictments was
+the crown's own mercy, since "anyone of landed rank could rely on a
+pardon" for anything short of treason, so that "royal justice was
+evenhanded in its negligence" (Payling 1998: 10, 15–16). The leak
+was not the sheriff's fear. It was the king's pardon.
 
 Chapter 7 closed with the consolidating state facing the old law's
 many houses, and this chapter walks through them. Its subject is the
@@ -45,11 +55,15 @@ argument has two edges. The first: this plurality was the *operative*
 law of the dispersal period, not its breakdown — a system with rules,
 instruments and professionals, which contemporaries navigated as a
 repertoire. The second, which Part II exists to establish: the
-settlement that ended it — the sixteenth century's assertion of royal
-justice as monopolist — was a *consequence* of the fiscal-military
-consolidation, not its precondition. The courts followed the
-companies and the taille; the law did not tame the sword until the
-exchequer could pay for both. And the chapter carries Cerny's sixth
+settlement that subordinated it — the sixteenth century's ranking of
+every other jurisdiction beneath royal justice — was a *consequence*
+of the fiscal-military consolidation, not its precondition; and the
+claim is one of sequence, not of purchase. The legislative claim to
+a monopoly of punishment was, in most of Europe, older than the
+settlement; what the settlement supplied was the enforcement. The
+courts' reach followed the companies and the settlement of 1439 to
+1446; the law had claimed the sword long before, and did not tame it
+until the exchequer could pay for both. And the chapter carries Cerny's sixth
 characteristic — the *zones grises*, the grey zones and the black
 economy — from Part I's diagnosis into Part II's mechanism, because
 the modern half of the story is running now, at a scale the reader
@@ -64,27 +78,43 @@ their coping was not exceptional but exemplary.
 The family's response to Gresham was not to choose between law and
 politics but to work both as one system, and their correspondence
 shows the system's gears. Recovery of the manor followed no verdict;
-it followed a political event — the fall and murder of the Duke of
-Suffolk in 1450, which stripped Moleyns of the protection that had
-made him lawsuit-proof. And when the Pastons pressed indictments
+on this book's reading of the file it followed a political event —
+the fall and murder of the Duke of Suffolk in 1450, which stripped
+Moleyns of the protection that had made him lawsuit-proof — though
+the reading is an inference, since the letters show Paston still
+suing after May 1450 and Moleyns himself probably acquitted
+(Gairdner 1872: I, headnote to no. 159, p. 213). And when the
+Pastons pressed indictments
 afterward, their agent John Osbern reported back, in May 1451, a
 sentence that deserves a place in every constitutional history of
 England: the sheriff of Norfolk "wold do for yow that he may, excepte
 for the aquitell of the Lord Molyns men, in so meche as the Kyng hath
 wrete to hym for to shewe favour to the Lord Moleyns and hese men…
-Also he seythe that the Lord Molyns hath sent hym a letter, and my
-Lord of Norffolk anoder, for to shew favour in these indytements, he
-darnot abide the joporte of that, that he shuld offende the Kinges
-commaundment" (Gairdner, vol. II, no. 193). The king's writ, the
+Also, as he seyth, now late the Lord Molyns hath sent hym a letter,
+and my Lord of Norffolk anoder, for to shew favour in these
+indytements, he darnot abide the joporte of that, that he shuld
+offende the Kinges commaundment" (Gairdner 1872: I, no. 159,
+p. 214). The king's writ, the
 magnate's letter and the sheriff's fear, operating as one machine:
 royal justice was not absent from this world — it was *enlisted*, a
 factional resource like any other, and the Pastons' own bill to the
 Chancellor names the enlistment's legal arts in the statute's
-vocabulary: "mayntenaunces, champerties, embraceries" (Gairdner) —
+vocabulary: "mayntenaunces, champerties, embraceries" (Gairdner 1872:
+I, no. 107, p. 145) —
 the judicial face, as Chapter 3 observed, of the same affinity
 system that retained the armed men.
 
-The file's second act escalates from lawfare to siege. Sir John
+The guns were in the file from its first act. Margaret Paston,
+holding Gresham before the eviction, begged crossbows and windlasses
+from her husband because "zour hwsis her ben so low that ther may
+non man schet owt with no long bowe," suggested he get them from Sir
+John Fastolf, and reported that Moleyns's men holding the manor house
+had "made wykets on every quarter of the hwse to schote owte atte,
+bothe with bowys and with hand gunnys," the loopholes for the
+hand-guns "scarse kne hey fro the plawncher" — barely knee-high from
+the floor (Gairdner 1872: I, no. 67, pp. 82–3). Gunpowder weapons in
+a gentry house-war, a generation before Caister. The file's second
+act escalates from lawfare to siege. Sir John
 Fastolf died in November 1459 leaving a contested deathbed will and
 the Pastons claiming his Norfolk and Suffolk lands; a decade of
 litigation across king's bench, chancery and the church courts (the
@@ -115,7 +145,30 @@ church courts, the county sessions, the magnate's good lordship,
 the petition, the marriage, and at the limit the garrison: the
 family worked them as alternative instruments in a single
 repertoire — a keyring of jurisdictions, no single key of which
-could be relied on to turn. That is what a plural legal
+could be relied on to turn. The same file shows the plurality from
+its other two ends. An information of outrages laid in 1452
+describes Charles Nowell and his fellowship keeping "a frunture and a
+forslet" — a front and a fortlet — at Robert Ledeham's house in
+Norfolk, issuing out "sumtyme vj., sumtyme xij., sumtyme xxx and mo,
+armed, jakked, and salattyd," so that men round about "darnot abyde
+in her howses, ne ride, ne walke abowte ther ocupacions, wyth owte
+they take gretter people abowte hem then acordith to her degre"
+(Gairdner 1872: I, no. 179, pp. 237–40): the arms race of a plural
+order, stated by its victims. And in April of the same year the Duke
+of Norfolk, come into the county to hold sessions, proclaimed that
+"nexst the Kynge our soverayn Lord, be his good grace and lycence, we
+woll have the princypall rewle and governance throwh all this schir,
+of whishe we ber our name, whyls that we be lyvynge" (no. 173,
+pp. 229–31) — a duke stating, in his own voice, which jurisdiction he
+took himself to be. The historians divide over what to call the
+result. One school reads the fifteenth-century county as a
+self-regulating community in which gentry violence was more apparent
+than real and punishment inexpedient; Payling answers that this
+confuses disorder with crime, and that the machinery of indictment
+worked until the pardon undid it (Payling 1998: 2, 15–16). This
+chapter takes Payling's side: the plurality was the practice not
+because the county governed itself, but because the crown tolerated
+what its own courts had found. That is what a plural legal
 environment looks like from inside, and it is the condition
 against which everything in this chapter's second half must be
 measured.
@@ -185,21 +238,30 @@ border, under Venetian and Habsburg jurisdictions at once,
 vendetta answered through vendetta in the seams between
 sovereignties. But the vendetta's ordinary life, the scholarship
 insists, was less cinematic and more contractual: Dean's reading
-of Bolognese and Florentine cases finds the practice
-law-entangled and restrained beside its literary image; Zorzi
-treats it as a practice *regulated within* communal legal
-culture — timing, targets and settlement all rule-bound; and the
+of Bolognese and Lucchese cases, set deliberately against the
+Florentine picture, finds the practice law-entangled and
+restrained beside its literary image — secondary vendetta against
+the aggressor's kin penalised with death or multiplied fines,
+Palermo's custom sending the injured party to "the ordinary
+courts" (Dean 2007: 129–30); Zorzi, whom Dean argues against
+rather than with, reads the same material as a "culture of
+vengeance" in which revenge kept a positive value in law and
+letters (Dean 2007: 124–25); and the
 institutional counterpart was a mass documentary form, the
 notarised *instrumentum pacis* — the peace instrument — of which
 the Florentine notarial registers alone preserve five hundred
 and twenty-six between 1257 and 1343 [GAP: Jansen's dataset at
 page level]. Enmity, in the Italian cities, was something the
 legal order *managed* — priced, timed, settled, notarised — as
-much as something it forbade. The draft states the Italian
-finding in exactly that calibrated form, and no further: the
-communes and the princely regimes that followed them governed
-through the management of enmity as much as through its
-abolition.
+much as something it forbade; and the finding carries a tense.
+It is right for the thirteenth century, whose criminal law was a
+law of composition and whose executions were "public revenge";
+from early in the fourteenth the vocabulary turned, the offender
+now "to be punished," the private peace declared "of no avail" —
+*pax non prosit* (Dean 2007: 125). The communes claimed punishment
+as their own a century before any of them could pay for it, and
+the princely regimes that followed them governed through the
+management of enmity as much as through its abolition.
 
 ## V.
 
@@ -230,8 +292,13 @@ mercatoria*, administered by merchants in their own piepowder
 and fair courts, ancestor of modern arbitration — is the story
 the modern private-ordering literature tells about its own
 pedigree (Berman; Benson; Trakman; the economists' celebrated
-Champagne-fairs model). The medievalists have dismantled it.
-Kadens: "The law merchant myth is false on many levels… the
+Champagne-fairs model). The medievalists have dismantled it —
+Baker first, in 1979 and from the plea rolls: the medieval law
+merchant "was not so much a corpus of mercantile practice or
+commercial law as an expeditious procedure especially adapted for
+the needs of men who could not tarry for the common law" (Baker
+1979: 301). Kadens, a generation on: "The law merchant myth is
+false on many levels… the
 most widespread aspects of commercial law arose from contract
 and statute rather than custom" (Kadens 2012); Sachs, from the
 fullest surviving fair-court records, shows the merchants of St
@@ -370,8 +437,9 @@ the enforcement business migrating to fora the parties choose.
 
 ## VII.
 
-How did the first plural legal order end? Not by argument — and
-the sequence is the chapter's finding, so it is given with dates.
+How was the first plural legal order subordinated? Not by
+argument — and the sequence is the chapter's finding, so it is
+given with dates.
 
 England: Star Chamber evolved out of the council's judicial
 business across the later fifteenth century (the 1487 act, this
@@ -416,8 +484,47 @@ constabularies and abolitions arrive in the two generations
 *after* — 1470s to 1540s — precisely where the fiscal-military
 consolidation had laid the substrate, and nowhere else. The
 Empire ran the counterfactual: assertion without substrate,
-supremacy on paper. The plural legal environment was not argued
-out of existence; it was outspent.
+supremacy on paper.
+
+What the sequence proves needs stating with care, because the
+evidence in this book's hands will not carry the stronger claim,
+and the chapter does not make it. It does not show that the plural
+legal order was bought out of existence. The legislative claim to
+a monopoly of punishment was older than the settlement almost
+everywhere. Dean dates the Italian communes' turn from composition
+to punishment to the early fourteenth century, a hundred years
+before any permanent tax (Dean 2007: 125); and the English
+merchant courts, on Baker's account, were absorbed not by money
+but by procedure — the writ of error carrying their records into
+King's Bench, the statute of 1477 confessing that "feigned actions
+and embracery of jurors were rife" in the fair courts, actions of
+assumpsit "following exactly the formulae of Westminster Hall"
+reaching the courts of piepowder by early Tudor times — with
+nothing fiscal or military anywhere in the story, and the
+incorporation unfinished in 1700 (Baker 1979: 306–7, 320). What
+the settlement bought was enforcement. The Italian record shows
+the purchase at city scale and in the hinge decades: Spanish-style
+police officers at Naples from the 1430s who could try and execute
+as well as arrest; Mantua's unpaid local denouncers replaced in
+1446–47 by hired ducal officers recruited from outside; Bologna's
+Bargello and militarised enforcement from 1450 (Dean 2007: 12,
+40, 49) — salaried men where there had been statute. For England,
+the failure point of the old order was never the sheriff's fear
+that the Paston agent reported; it was, as §I conceded, the king's
+own mercy, and Payling's crown was not weak but unwilling — its
+indulgence "a tolerance of violence on the part of a martial
+aristocracy" (Payling 1998: 16). He leaves open when and why the
+crown stopped, noting only that the execution of Lord Stourton in
+1557 for murdering his father's steward "suggests a far lower
+tolerance of aristocratic crime by the mid-sixteenth century"
+(p. 17). This book's answer to his question is an inference, and
+it is offered as one: toleration was the price of a crown that
+could not pay for the alternative, and the crown stopped
+tolerating when it could. That is plausible on the dates and
+unproven on the documents, and the chapter grades it so. The
+plural legal environment was not argued out of existence; nor, on
+this evidence, was it outspent. It was outranked — once the
+exchequer could pay the men who did the ranking.
 
 [BRIDGE — the modern translation of the sequence claim, to the
 section's end.] The modern re-assertion is observable, dateable,
@@ -471,10 +578,10 @@ thicken §§III–VI at the upgrade pass). Voice-discipline ledger
 *(§VII; the book's own term for the settlement's legal form,
 carried forward to ch12); vivid image — the Paston repertoire as
 "a keyring of jurisdictions, no single key of which could be
-relied on to turn" (§II); aphoristic line — "The plural legal
-environment was not argued out of existence; it was outspent"
-(§VII; the memo's rival candidate is recast as plain description
-in §VI). Two [BRIDGE] passages (§VI joint; §VII modern
+relied on to turn" (§II); aphoristic line — "It was outranked — once the exchequer could
+pay the men who did the ranking" (§VII; recut 2026-09-16 under
+ruling (o) from "…it was outspent"; the memo's rival candidate is
+recast as plain description in §VI). Two [BRIDGE] passages (§VI joint; §VII modern
 translation). [GAP] flags: Brunner/Algazi/Zmora; Muir; Jansen;
 Dean. Partisan Paston numbers attributed; Kadens/Sachs adopted
 per the reviewed rule with the traditional side named; the 1487
@@ -493,6 +600,23 @@ No claim beyond the reviewed memo.*
    term; the sequence's argumentative work (fiscal-military
    substrate before the courts) unchanged.
 
+2. **(2026-09-16 — Phase 5 renovation: ruling (o); the Paston
+   re-pinning. PENDING HUMAN REVIEW.)** §VII's "it was outspent"
+   recut to sequence, not payment — the settlement bought
+   enforcement, not law (Payling's pardon; Baker's absorption by
+   procedure; Dean's c. 1300 criminalisation), the England line
+   carried as this book's inference, graded plausible-unproven in
+   the text; §I's sequence sentence conformed ("subordinated";
+   "the settlement of 1439 to 1446"); every Paston citation
+   re-pinned to Gairdner 1872 vol. I by letter and page, the
+   Osbern wording conformed, the 1449/1450 dating caution
+   carried; the hand-gun loopholes (no. 67), the Nowell forslet
+   (no. 179) and Norfolk's proclamation (no. 173) added; the
+   Payling dispute named and a side taken; §IV's Dean corrections
+   of fact (Lucchese, not Florentine; Dean against Zorzi; the
+   composition→punishment tense); §V dates the dismantling to
+   Baker 1979. Full old/new in memo Revisions 8.
+
 ---
 
-STATUS: REVIEWED (Roderick, 2026-08-02) — approved as drafted; Revisions 1 (Phase 4 Run A) PENDING HUMAN REVIEW
+STATUS: REVIEWED (Roderick, 2026-08-02) — approved as drafted; Revisions 1 (Phase 4 Run A) and 2 (Phase 5 renovation) PENDING HUMAN REVIEW

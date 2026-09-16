@@ -585,6 +585,7 @@ Drafting of ch08/draft.md may now proceed against this reviewed memo (§7).
 
 ---
 
+
 STATUS: REVIEWED (Roderick, 2026-07-23) — cleared for drafting
 
 6. **(2026-09-13 — integration run: the Paston re-pinning and the
@@ -658,3 +659,108 @@ STATUS: REVIEWED (Roderick, 2026-07-23) — cleared for drafting
      sentence (p. 170) and the licensed duel (pp. 178–81); the
      Chaworth petition of 1465 (the community asking the state
      for the deterrent it would not supply, Payling p. 13).
+
+8. **(2026-09-16 — Phase 5 renovation: ruling (o); the Paston
+   re-pinning. PENDING HUMAN REVIEW.)** First pass to touch
+   draft.md since the 3 September assembly. Word count 4,398 →
+   5,687 (the §VII recut and the three Paston additions account
+   for the growth; nothing lengthened for its own sake). Pins
+   verified against the sidecars (Paston-Arber, Payling, Baker,
+   Dean) at the page before entry.
+   - RULING (o), §VII — OLD: "The Empire ran the counterfactual:
+     assertion without substrate, supremacy on paper. The plural
+     legal environment was not argued out of existence; it was
+     outspent." NEW: a paragraph stating that the evidence will
+     not carry the purchase claim and the chapter does not make
+     it — the legislative claim to a monopoly of punishment older
+     than the settlement almost everywhere (Dean 2007: 125, the
+     composition→punishment turn of the early fourteenth century,
+     "pax non prosit"); the English merchant courts absorbed by
+     procedure, not money (Baker 1979: 306–7 — writ of error, the
+     1477 statute's "feigned actions and embracery of jurors were
+     rife," assumpsit "following exactly the formulae of
+     Westminster Hall" in the piepowder courts; p. 320, no
+     incorporation before the eighteenth century); what the
+     settlement bought was ENFORCEMENT (Dean 2007: 12, 40, 49 —
+     Naples 1430s, Mantua 1446–47, Bologna 1450, salaried men
+     where there had been statute); Payling's crown unwilling, not
+     weak ("a tolerance of violence on the part of a martial
+     aristocracy," p. 16; Stourton 1557, p. 17); the England line
+     — toleration the price of a crown that could not pay for the
+     alternative, which stopped tolerating when it could — carried
+     as this book's inference and graded "plausible on the dates
+     and unproven on the documents" in the text. Closing line
+     recut: "The plural legal environment was not argued out of
+     existence; nor, on this evidence, was it outspent. It was
+     outranked — once the exchequer could pay the men who did the
+     ranking." Section opener: "How did the first plural legal
+     order end?" → "How was the first plural legal order
+     subordinated?" (rulings (b)/(c) register).
+   - RULING (o), §I — OLD: "the settlement that ended it — the
+     sixteenth century's assertion of royal justice as monopolist
+     — was a consequence… The courts followed the companies and
+     the taille; the law did not tame the sword until the
+     exchequer could pay for both." NEW: "the settlement that
+     subordinated it — the sixteenth century's ranking of every
+     other jurisdiction beneath royal justice — … and the claim is
+     one of sequence, not of purchase. The legislative claim to a
+     monopoly of punishment was, in most of Europe, older than
+     the settlement; what the settlement supplied was the
+     enforcement. The courts' reach followed the companies and
+     the settlement of 1439 to 1446; the law had claimed the
+     sword long before, and did not tame it until the exchequer
+     could pay for both." ("the taille" → "the settlement of 1439
+     to 1446" per spine §8(a).) Payling's correction entered at
+     §I's close (the leak was the king's pardon, not the sheriff's
+     fear — Payling 1998: 10, 15–16), so that §VII can refer back.
+   - THE PASTON RE-PINNING, §§I–II — all citations now Gairdner
+     1872 vol. I by letter and page: petition = no. 77, pp. 106–7
+     (the eviction) and p. 108 ("not abille to sue"); Chancellor
+     bill = no. 107, p. 145; Osbern = no. 159, p. 214, wording
+     conformed ("Also, as he seyth, now late the Lord Molyns hath
+     sent hym a letter" for the draft's smoothed "Also he seythe
+     that…"); "(Gairdner, vol. II)" and "no. 193" removed. Dating
+     caution carried in the first citation (Gairdner's headnote
+     prints 1450; the petition's chronology and the modern dating
+     give 1449). The Suffolk-fall recovery tagged as this book's
+     inference, with the headnote to no. 159 (p. 213: Moleyns
+     probably acquitted; Paston still suing) cited against it.
+   - ADDED from Revisions 6, §II: Margaret's crossbow/hand-gun
+     letter (no. 67, pp. 82–3 — "zour hwsis her ben so low…";
+     "wykets… bothe with bowys and with hand gunnys"; "scarse kne
+     hey fro the plawncher"; Fastolf as the source) placed before
+     the Caister/DeVries paragraph; the Nowell forslet (no. 179,
+     pp. 237–40 — "a frunture and a forslet"; the sorties by
+     sixes, dozens and thirties; "darnot abyde in her howses…
+     gretter people abowte hem then acordith to her degre") and
+     Norfolk's proclamation (no. 173, pp. 229–31 — "nexst the
+     Kynge… the princypall rewle and governance throwh all this
+     schir… whyls that we be lyvynge") placed in the keyring
+     paragraph. The Payling dispute (v. the self-regulating-
+     community school, p. 2, 15–16) named and a side taken: "the
+     plurality was the practice not because the county governed
+     itself, but because the crown tolerated what its own courts
+     had found." Fastolf's 21,099-mark claim (no. 263) NOT entered
+     — ch10's material.
+   - CORRECTIONS OF FACT carried from Revisions 7 (within this
+     run's remit; noted for Roderick): §IV "Bolognese and
+     Florentine" → "Bolognese and Lucchese cases, set deliberately
+     against the Florentine picture" (Dean 2007: 129–30); Zorzi
+     recorded as the position Dean argues AGAINST (pp. 124–25),
+     not as concordant; the management-of-enmity sentence given
+     its tense (right for the thirteenth century; the turn from
+     early in the fourteenth, p. 125). §V: the dismantling of the
+     lex mercatoria dated to Baker 1979 (p. 301, "could not tarry
+     for the common law") ahead of Kadens. NOT applied: the
+     Admiralty "captured business" recast (Baker p. 309) and the
+     Holt C.J. 1702 addition for §VI — outside A4's remit; left
+     for the upgrade pass. "Feud" already confined to the German
+     Fehde in §IV's usage; no change needed.
+   - FLAGS: none opened, none closed ([GAP] Brunner/Algazi/Zmora,
+     Muir, Jansen and Dean's Jansen stand; the "Dean" [GAP] in the
+     footer is now partly met by Dean 2007 at T2 but the Jansen
+     dataset it covers is still outstanding — left as is). Voice
+     ledger: the aphoristic line recut (footer updated); coined
+     concept and vivid image unchanged; the keyring image is
+     called back once in the new §II material, not re-deployed.
+
