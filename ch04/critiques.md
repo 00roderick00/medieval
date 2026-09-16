@@ -201,3 +201,140 @@ named, dated instances and stakes a conditional claim on its continuation.
    Cross-ref: ch10 critiques Revisions 8 (the fisc-driven-by-war
    disanalogy) and ch12's EU paragraph (Lane's sentences entered
    at ch10/sources).
+
+## Revisions (2026-09-16 — catch-up run STEP 3, PENDING HUMAN REVIEW)
+
+*Objections from the assessments of 14 September that reach argument
+level in this chapter, steelmanned at the strength the assessment
+gives them; the chapter's answer is the assessment's best answer, with
+its grade preserved. Pins verified against the sidecars (memo
+Revisions 9–14).*
+
+2. **McNeill — the ratchet is Venetian and administrative, not French
+   and ballistic.** Steelman (full strength). This chapter says the
+   condottiere was domesticated "by market competition, by
+   integration, by the axe between the columns", and hands Part II a
+   mechanism in which artillery's price makes the fisc and the fisc
+   makes the apparatus. McNeill's fifteenth century says civil control
+   of organised force was solved first, and without a siege train, by
+   Italian contract administration: "a regular standing army of known
+   size and capability emerged in the better-governed cities of Italy
+   during the first half of the fifteenth century" (p. 75) — muster,
+   review, "contractual definition" of terms, pay from tax revenue —
+   and the transalpine monarchies took two centuries to copy it: the
+   suppression of the Fronde "marked the time at which transalpine
+   states finally caught up with the level of administrative
+   management and control over armed force that had been attained in
+   Venice and Milan two centuries earlier" (p. 125). If the
+   administrative achievement the book attributes to the artillery
+   state was Italian, earlier and unarmed with cannon, then the guns
+   are an episode inside a story whose motor is credit and contract,
+   and this chapter's Venice — "a polity that ran the mechanism two
+   steps in and stopped" — in fact ran the decisive step first.
+
+   The chapter's answer (assessment grade: GOOD, with an obligation).
+   McNeill supplies it on the next page: "When newly consolidated
+   monarchies, commanding comparatively vast territories, chose to
+   intervene in Italian affairs, the sovereignty of mere city-states,
+   however skillfully managed, could not permanently be maintained"
+   (p. 79). Venice solved civil control of contracted force; it did
+   not solve the minimum scale of a sovereign, and that scale is what
+   the guns repriced. The ratchet's object, as spine §8(a) defines it,
+   is the ability of others to reverse the fiscal settlement — not the
+   invention of civil control. The obligation: the chapter must say
+   by name, with McNeill, that the administrative achievement was
+   Italian and earlier, and that artillery's contribution was scale
+   and the end of the small sovereign. Stated so, §VI's control case
+   is strengthened (Venice held the instruments McNeill prizes and
+   still could not be sovereign at the new scale) and Objection 4's
+   answer above is corrected in one respect: Venice survived into the
+   sixteenth century as a power among the intervening monarchies, not
+   as one that "could pay the new price" on equal terms. Touches
+   spine §8(a) — ⚑SPINE.
+
+3. **Stasavage — size, credit and the bloc thesis, as they touch this
+   chapter.** Steelman (full strength). §VII's verdict is that the
+   dispersal's actors "are being absorbed by fiscally capable centres
+   — unevenly, and fastest where the fisc is deepest", and Objection 4
+   is answered by saying Venice, "already fiscally legible", was
+   "among the few that could pay the new price". Five centuries of
+   Stasavage's data say the fiscally capable polities were the
+   smallest: "no territorial states had yet created long-term debts"
+   before 1500 (ch. 2, 'The Cost of Borrowing'); a city-state had "a
+   43% chance" per half-century of creating a debt, a territorial
+   state "only a 5% chance", and the city-state borrowed two points
+   cheaper (ch. 1, 'Broad Sample Evidence'); the advantage "continued
+   to be very sizeable through the seventeenth century" (ch. 4,
+   'Regression Results'). "It was arguably their better access to
+   credit that allowed many city-states to survive far longer than we
+   would expect, given the conventional 'war and state formation'
+   explanation" (ch. 1, 'Introduction'); "war actually had
+   considerably more ambiguous effects on state formation in Europe
+   than is commonly believed" (ch. 8). And his Venice decouples the
+   fiscal leg from consolidation altogether: it "continued to borrow
+   at very low interest rates into the eighteenth century, long after
+   its period as an innovator in industrial production, or as a
+   principal hub of commerce, had ended" (ch. 2, 'Economic
+   Explanations'). If "fiscally capable" means what it meant in
+   1250–1500, the chapter's verdict points the wrong way, and the
+   book's casting of three or four continental blocs as the polities
+   that can pay is built on the disability.
+
+   The chapter's answer (assessment grade: GOOD on the mechanism;
+   PARTLY A CONCESSION on the casting). The mechanism was never a
+   credit mechanism, and this chapter must stop implying it: the chain
+   runs weapon → permanent taxation → administration → subordination,
+   and the transaction Part II locates the state in is the taille
+   collected, not the bond sold. Stasavage's own attrition data are the
+   mechanism from the city's side — Mainz "lost its status in 1462 as
+   a free imperial city" in "internal conflict and fiscal crisis",
+   Ghent was "forcibly absorbed by a territorial state" (ch. 2) —
+   credit bought survival, not scale; and his Venice, borrowing
+   cheaply into the eighteenth century while consolidating nothing,
+   is the control case §VI already states, made sharper. The cost is
+   one honest sentence in §VII: the centres that absorbed were the
+   centres that could tax at scale, and the polities that could
+   borrow were the ones being absorbed. The concession, owed to spine
+   §8(g): a consolidator financing its stack by taxation without an
+   assembly holding a control right, or by rents from the stack, is on
+   his evidence a polity that can tax and cannot be trusted; the
+   French and Castilian default cycles are the price, and the bloc
+   casting remains a wager his book makes dearer. That is ch12's to
+   carry; this chapter states the tax/credit distinction and hands it
+   on. Touches spine §5 (the casting) and §8(b) — ⚑SPINE.
+
+4. **Ruggie — two centuries is no mere time lag.** Steelman (full
+   strength). "The Italian city-states and the Hanse, in fact were
+   viable political alternatives to the territorial state, fully able
+   to levy taxes and raise armies, for the better part of two
+   centuries. In social life, two centuries is no mere time lag"
+   (p. 156). A functional pressure that takes two hundred years to
+   select is not a mechanism; and this chapter's own evidence — the
+   Hansa breaking kings at Stralsund, the condottieri system
+   stabilising into standing armies — is Ruggie's evidence for the
+   alternatives' viability, not for their doom.
+
+   The chapter's answer (assessment grade: GOOD on the two limbs that
+   touch this chapter). First, Ruggie's two centuries are the two
+   centuries before the ratchet: his counter-examples run 1300–1500,
+   the mechanism 1440–1500, and this chapter's closing evidence is the
+   end of exactly those alternatives — the Peterhof closed in 1494,
+   the Steelyard in 1598, the Hansa's "silent" disintegration on
+   Spruyt's account, and McNeill's monarchies intervening in Italy
+   from 1494 (p. 79). Spruyt's selection event has no date in Ruggie;
+   the book supplies it. Second, Ruggie attacks a claim the chapter
+   does not make — that weapons determined the form; §8(g) has ruled
+   the form open, and §VII's verdict is absorption, not a shape.
+   Where the answer is weaker, and the chapter should not pretend
+   otherwise: it has no account of why the idea of exclusive
+   territorial sovereignty formed, and Mattingly's "islands of alien
+   sovereignty" (p. 165) — the Kontors tolerated inside the new
+   states — is a reminder that the consolidators themselves kept
+   enclaves. The book-level anti-functionalist objection ("there are
+   none of it", p. 169) is carried at ch01 critiques and the Coda.
+
+*Cross-references: Revisions 1 (Lane on "proto-state") stands as
+answered in the draft of 2026-09-16 (memo Revisions 8); Revisions 2
+here qualifies Objection 4's answer as noted. Commynes tome III, Glete,
+Scott, Krasner and Cheung reach no contradiction at argument level in
+this chapter (memo Revisions 11–14).*

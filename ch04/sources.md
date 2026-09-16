@@ -245,3 +245,301 @@ retrieval-master.md accordingly.*
   used in draft.md — pp. 98, 117, 150, 232, 233, 236, 251, 267, 362,
   364; the Colleoni captaincy-for-life date dropped (no T2 carrier
   in this chapter); "proto-state" cut per ruling (l).*
+
+## Added 2026-09-16 — catch-up run STEP 3 (assessments of 14 September; pins verified against sidecars)
+
+*Every pin below was opened in the sidecar before entry. Sidecars in
+`corpus/retrieved/source-library/text-2026-09-14/`. Assessments
+(research/assessments-2026-09-14/) are the map, not the authority, and
+are not cited. Placement notes follow the assessments' own wording.*
+
+- **T2 — David Stasavage, *States of Credit: Size, Power, and the
+  Development of European Polities* (Princeton UP, 2011; Princeton
+  Economic History of the Western World)** — IN REPO as an EPUB;
+  sidecar `Stasavage.txt`, an EPUB conversion with `===== FILE:
+  partNNNN.html =====` markers and NO printed pagination. Pinning
+  rule: chapter + section heading + file marker; **every quotation
+  must be re-pinned to a printed page of the Princeton edition before
+  it enters a chapter** (PENDING VERIFICATION as to page, verified as
+  to text). Tables other than 2.1–2.2, the figures and ch. 4's
+  equations survive as captions only. USE-NOTE (assessment): ALLY for
+  §VI, by name — city-state credit; the Genoa/Arras precedence; the
+  rente as template; "smallness of scale"; merchant oligarchy as
+  consensus; Hansetag absenteeism via Dollinger at one remove. RIVAL
+  at book level on size (critiques Revisions 3). Pins:
+  - ch. 1 'Introduction' (part0008_split_000): the thesis — access to
+    credit turned on "an assembly that could monitor and modify
+    expenditures", sustainable "only in polities of limited geographic
+    scale", and "having a merchant oligarchy was the best recipe for
+    obtaining access to credit"; "In the territorial states of Europe,
+    in strong contrast, geographic scale often proved to be a
+    fundamental obstacle"; the effect of military technology on the
+    distribution of states "more muted than is commonly believed";
+    city-states surviving "as rentier republics".
+  - ch. 1 'Broad Sample Evidence' (part0008_split_005): in any
+    half-century a city-state without a debt had "a 43% chance" of
+    creating one, a territorial state "only a 5% chance"; city-states
+    borrowed "two percentage points lower".
+  - ch. 2 'When Did States First Borrow Long-Term?' (part0009_split_002):
+    Table 2.1 (Arras 1241; Venice 1262–1785; Castile 1489–1598 …);
+    "it was actually the system of municipal debt developed in northern
+    Europe that would set the model for long-term government borrowing
+    in Europe until the end of the nineteenth century"; thirteenth-
+    century Italian convergence on forced loans (*prestanza*) paying
+    interest with "an active secondary market", and Kirshner (2006)'s
+    doubt whether forced loans are public debts at all; attrition —
+    Mainz "lost its status in 1462 as a free imperial city" in
+    "internal conflict and fiscal crisis", Ghent "forcibly absorbed by
+    a territorial state".
+  - ch. 2 'The Cost of Borrowing' (part0009_split_003): "Prior to 1500,
+    we cannot directly compare city-states and territorial states,
+    because no territorial states had yet created long-term debts."
+  - ch. 2 'Economic Explanations' (part0009_split_004): "Venice
+    continued to borrow at very low interest rates into the eighteenth
+    century, long after its period as an innovator in industrial
+    production, or as a principal hub of commerce, had ended."
+  - ch. 2 n. 17 (part0009_split_005): "Throughout the first half of the
+    fourteenth century, the prestiti in Venice traded at an average of
+    85% of par, and interest payments were regularly respected"; sharp
+    fall in the War of Chioggia.
+  - ch. 3 'Origins of Representative Assemblies' (part0010_split_001):
+    the Hansa "a far-flung entity that, because of its geographic
+    dispersion, faced difficulties in maintaining a central
+    representative assembly"; Dollinger (1971: 94) on the Hansetag's
+    "chronic absenteeism" from "the desire to avoid the cost of
+    sending a representative".
+  - ch. 3 Table 3.1 (part0010_split_002): Venice — source Lane (1973)
+    only. *On Venice, Stasavage and Lane are one witness, not two.*
+  - ch. 3 'Who Was Represented?' (part0010_split_003): Derycke (2003)
+    on Bruges; van der Heijden (2003) — "34% of town magistrates and
+    their family members were registered as public annuity
+    purchasers" in Dordrecht.
+  - ch. 4 'Regression Results' (part0011_split_007): the city-state
+    advantage "continued to be very sizeable through the seventeenth
+    century" (against Epstein 2000's convergence).
+  - ch. 6 'Development of Public Credit in Genoa' (part0013_split_007):
+    "In 1259 a reform was implemented to consolidate Genoa's existing
+    debt. Existing holders of debt were given shares in a new compera
+    that paid a nominal rate of 8%. In addition, they also had the
+    right to sell these shares, which created a secondary market"
+    (his n. 13; the note's citation — the assessment gives Epstein
+    1996b — not opened here).
+  - ch. 8 'The Debate on War and State Formation' (part0015_split_001):
+    "war actually had considerably more ambiguous effects on state
+    formation in Europe than is commonly believed."
+  - Bibliography (part0016): Lane, "The Funded Debt of the Venetian
+    Republic, 1262–1482", in *Venice and History* (1966) — the route
+    to §VI's yield series.
+  Publication/supersession: 2011; the dataset has not been superseded;
+  his own *The Decline and Rise of Democracy* (2020) restates the
+  scale argument. DISPUTES recorded: (i) Stasavage v. Epstein 2000 on
+  whether the city-state rate advantage converged after 1500 (he
+  tests and denies it); (ii) Kirshner 2006 v. the field on whether
+  forced loans are debts; (iii) Stasavage v. the war-and-state-
+  formation school (Bean, Tilly, Downing) on size — the "muted"
+  thesis; (iv) **Stasavage v. Lane on what made Venetian credit
+  possible: not a dispute of fact (his Venice is Lane's), but of
+  explanation — Lane's Monte Vecchio rests on commercial wealth and
+  a century of unbroken payment (Lane 1973: 150); Stasavage's on the
+  control right of a merchant oligarchy in a polity small enough to
+  be governed by its creditors. The chapter may carry both; it may
+  not present either as the consensus cause.** The estimo does not
+  occur in Stasavage (searched).
+
+- **T2 — William H. McNeill, *The Pursuit of Power: Technology, Armed
+  Force, and Society since A.D. 1000* (University of Chicago Press,
+  1982)** — IN REPO; sidecar `McNeill.txt` (417 PDF pp.); printed
+  p. N = PDF p. N + 9; OCR clean apart from line-break hyphens.
+  USE-NOTE (assessment): T2 ALLY by name for §§II–V; RIVAL on where
+  the ratchet sits (critiques Revisions 2). Pins:
+  - p. 69 / PDF 78: "Commercialization of organized violence came
+    vigorously to the fore in the fourteenth century when mercenary
+    armies became standard in Italy."
+  - p. 73 / PDF 82: by c. 1350 the civic militias "archaic holdovers";
+    "organized violence came to be exercised mainly by professional
+    troops, commanded by captains who negotiated contracts with
+    appropriate city officials for specified services and time
+    periods."
+  - p. 75 / PDF 84: regular muster and review; "terms of service
+    achieved contractual definition. In this way a regular standing
+    army of known size and capability emerged in the better-governed
+    cities of Italy during the first half of the fifteenth century."
+  - p. 76 / PDF 85: Milan "became a military despotism after 1450,
+    when Francesco Sforza took power and began to use the resources
+    of the city to support his military following on a permanent
+    basis"; Venice escaped "partly by careful supervision of potential
+    usurpers, partly by dividing contracts among several different,
+    mutually jealous captains, and partly by bestowing civic honors
+    and gifts upon loyal and successful condottieri and arranging
+    suitable marriages for them with members of the Venetian
+    aristocracy."
+  - p. 77 / PDF 86: "from a nearly free market … towards oligopoly …
+    followed by quasi-monopoly within each of the larger and better-
+    administered states into which Italy divided."
+  - p. 79 / PDF 88: "When newly consolidated monarchies, commanding
+    comparatively vast territories, chose to intervene in Italian
+    affairs, the sovereignty of mere city-states, however skillfully
+    managed, could not permanently be maintained" — signalled by the
+    Ottoman (1480) and French (1494) expeditions.
+  - p. 116 / PDF 125: the market's sovereignty over force as "an
+    eccentric departure from the human norm of command behavior".
+  - p. 121 / PDF 130: Wallenstein — "The logic of his position perhaps
+    required him to imitate the usurpation that Sforza had carried
+    through in Milan in 1450"; assassinated 1634, "The emperor
+    endorsed the act only subsequently."
+  - p. 125 / PDF 134: the suppression of the Fronde "marked the time
+    at which transalpine states finally caught up with the level of
+    administrative management and control over armed force that had
+    been attained in Venice and Milan two centuries earlier."
+  Publication/supersession: 1982; his artillery chronology (iron shot
+  and corned powder 1465–77) is superseded by Hall 1997 and is not to
+  be cited from him (ch06 rule); his condottieri pages predate Mallett
+  & Hale 1984 and Caferro 2006 and stand as synthesis — the
+  authorities beneath pp. 73–79 were not verified here. Vocabulary
+  caveat: his affordability sentence (p. 89) prices "the new
+  weapons", not the establishment — cite him for the direction of the
+  effect, never for the book's cost vocabulary.
+
+- **T1 — Philippe de Commynes, *Mémoires*, ed. Joseph Calmette with
+  G. Durville, Tome III (1484–1498), Les Classiques de l'histoire de
+  France au Moyen Âge 6 (Paris: Champion, 1925)** — IN REPO
+  (`Commynes-Memoires-Calmette.pdf`); sidecar `Commynes-tomeIII.txt`;
+  printed p. N = PDF p. N + 6; OCR serviceable, accents and ligatures
+  unreliable. Tomes I–II (Livres I–VI) NOT in repo — ch10 carries the
+  retrieval row. USE-NOTE (assessment): footnote-level colour for why
+  the Italian system could not answer the French state; ally whose
+  providential frame is flagged whenever his testimony serves the
+  institutional argument. Pins:
+  - p. 3 / PDF 9: "Nul argent content : car, avant que partir,
+    empruntérent cent mil francs du banc de Soly à Gennes, à quatorze
+    pour cent d'interest de foyre en foyre" — the descent on Italy
+    financed by a Genoese bank at fourteen per cent, fair to fair.
+  - p. 50 / PDF 56: "ilz n'entendoient point le faict de l'artillerie,
+    et en France n'avoit jamais esté si bien entendue."
+  - **p. 71 / PDF 77 (CORRECTED PIN — the assessment gives p. 76 /
+    PDF 82; the page header at PDF 76 reads "70 — CHARLES VIII A
+    BRACCIANO" and the passage falls on the following page, the
+    "OCCUPATION D'OSTIE" chapter):** the Papal States "la plus heureuse
+    habitation pour les subjectz qui soit en tout le monde, car ilz ne
+    paient ne tailles ne guéres aultres chouses".
+  - p. 192 / PDF 198 (Fornovo; placed by the assessment at ch10 §IV,
+    cross-referenced here): "je ne croy point que l'artillerie des
+    deux costéz tuast dix hommes et ne dura point le combat ung quart
+    d'heure"; and the Italian custom — "Leurs batailles d'Ytallie
+    n'ont point de coustume d'estre telles ; car, ilz combatent
+    escadre aprés escadre, et dure quelque foiz tout le jour".
+  Translations, where the draft needs them, are Claude's and are to be
+  marked [TRANS. CLAUDE] until Roderick's. Calmette's apparatus (T2)
+  collates Dupont, Sauvage, Lenglet and Mandrot.
+
+- **T2 — Stephen D. Krasner, *Sovereignty: Organized Hypocrisy*
+  (Princeton UP, 1999)** — IN REPO; sidecar `Krasner.txt`; printed
+  p. N = PDF p. N + 10. USE-NOTE (assessment): §III/§V footnote
+  adopting the four-way vocabulary for the functional/formal thread.
+  Pins: p. 4 / PDF 14 — "A state such as Taiwan can have Westphalian
+  sovereignty, but not international legal sovereignty. A state can
+  have international legal sovereignty, be recognized by other
+  states, but have only the most limited domestic sovereignty"; p. 5 /
+  PDF 15 — "I offer no explanation for the displacement of other
+  institutional forms, such as the Holy Roman Empire, the Chinese
+  tributary system, or the Hanseatic League by an international system
+  in which states are the most prevalent organizational unit"; p. 12 /
+  PDF 22 — "the organization of authority within a state and the level
+  of control enjoyed by the state are not necessarily related to
+  international legal or Westphalian sovereignty." Publication: 1999;
+  pre-platform; his globalisation scepticism (p. 119) predates actors
+  claiming authority. Not superseded on the vocabulary.
+
+- **T2 — John Gerard Ruggie, "Territoriality and Beyond:
+  Problematizing Modernity in International Relations", *International
+  Organization* 47:1 (1993), 139–174** — IN REPO (JSTOR scan);
+  sidecar `Ruggie.txt`; printed p. N = PDF p. N − 137; OCR runs words
+  together (quotations verbatim as to wording, spacing restored).
+  USE-NOTE (assessment): footnotes at §VI — Mattingly's "islands of
+  alien sovereignty" for the Kontors and the Steelyard; the "two
+  centuries" conceded and dated; RIVAL at book level on the mechanism
+  (ch01 critiques; Coda), entered here for the limb that names this
+  chapter's actors (critiques Revisions 4). Pins: p. 156 / PDF 19 —
+  "the Italian city-states and the Hanse, in fact were viable
+  political alternatives to the territorial state, fully able to levy
+  taxes and raise armies, for the better part of two centuries. In
+  social life, two centuries is no mere time lag"; p. 163 / PDF 26 —
+  "when the concept of state sovereignty expanded to become the
+  concept of national sovereignty, the use of mercenaries in warfare
+  declined and ultimately was eliminated altogether" (citing Thomson;
+  the chapter does not cite Thomson — retrieval below); p. 165 /
+  PDF 28 — Mattingly: the new states "found they could only
+  communicate with one another by tolerating within themselves little
+  islands of alien sovereignty." Publication: 1993; his Hansa rests on
+  Spruyt (then forthcoming) — date accordingly.
+
+- **T2 — Jan Glete, *War and the State in Early Modern Europe: Spain,
+  the Dutch Republic and Sweden as Fiscal-Military States, 1500–1660*
+  (Routledge, 2002)** — IN REPO; sidecar `Glete.txt`; printed p. N =
+  PDF p. N + 9. USE-NOTE (assessment): footnotes at §IV (the double
+  contract; forces as entrenched interest groups) and, for §VI's
+  control case, the permanent navy. Pins: p. 4 / PDF 13 — the
+  fiscal-military state "based on a double contractual relationship,
+  one between rulers and the society and another between rulers and
+  their armed forces"; p. 13 / PDF 22 — the north-Italian states
+  "often had contracts with mercenary entrepreneurs, which provided
+  them with at least a nucleus of a professional army. Venice also
+  had a large permanent and state-administered navy and may in terms
+  of permanent armed force have ranked number one in Europe in 1500";
+  p. 23 / PDF 32 — in the Ottoman Empire and Russia "the armed forces
+  often acted as entrenched interest groups of their own, only
+  conditionally controlled by the tsars and sultans … They might
+  equally well start rebellions"; p. 116 / PDF 125 — Philip IV, 1664,
+  the Dutch fleet on Spanish coasts "in the interest of universal
+  commerce". Publication: 2002; not superseded; his Tilly critique is
+  engaged at ch10.
+
+- **T2 — James C. Scott, *Seeing Like a State* (Yale UP, 1998)** — IN
+  REPO; sidecar `Scott.txt`; printed p. N = PDF p. N + 17. USE-NOTE
+  (assessment): T2 carrier for §VI's legibility sentence. Pins:
+  p. 35 / PDF 52 — "the very concept of the modern state presupposes a
+  vastly simplified and uniform property regime that is legible and
+  hence manipulable from the center"; p. 44 / PDF 61 — the cadastral
+  survey "is the precondition of a tax regimen that comprehensively
+  links every patch of land with its owner—the taxpayer." Publication:
+  1998; standard; the chapter's "legibility" is checked against his
+  sense at ch12 (assessment §2), not here.
+
+- **T2 — Tai Ming Cheung, *Innovate to Dominate: The Rise of the
+  Chinese Techno-Security State* (Cornell UP, 2022; to press late
+  2021)** — IN REPO; sidecar `Cheung.txt`; printed p. N = PDF p. N +
+  15. USE-NOTE (assessment): "the licence as the Chinese Sforza
+  thread" — §V's contrast term. Pins: pp. 114–15 / PDF 129–30 —
+  private entry into procurement "is through the issuance of weapons
+  and equipment research and production licenses (WERPL) and
+  equipment contractor certificates (ECC)"; "The licensing system is
+  jointly administered by SASTIND and the PLA armaments bureaucracy";
+  at category 1 "The big state-owned defense firms have maintained an
+  iron grip on licenses in this domain." Date caveat: carries the 14th
+  Five-Year Plan, not the 2020–23 platform discipline.
+
+**Assessed works NOT placed in this chapter by their assessments
+(recorded so the placement is traceable; no entry made):**
+Chastellain, *Œuvres* t. III (Kervyn) — the Lombard bankers of Bruges,
+1457 (ch. LXI, pp. 314–316 / vol01 PDF 321–323, "constraint de les y
+remettre par la nécessité publique", verified) is placed at ch10 §VIII
+and ch12 §IV as the dependence term's T1 anchor, not here; Tilly 1975
+and 1985 — the protection-racket frame is re-pinned at ch03 §I, and
+the 1985 "Protection as Business" section (Lane's protection-rent
+model, Venice's historian read by Tilly) is placed at ch12 §VII / §8(g),
+not at the condottieri; Wu, *The Master Switch*; Farrell & Newman
+(article and book) — no Hansa or proto-platform placement in either
+assessment; Goldsmith & Wu — ICANN as "operative but never invested"
+is placed at ch12 §III beside Sforza (pointer in memo Revisions 15);
+Ertman — Venice excluded from his sample (p. 5), no ch04 placement;
+Bagehot, Crouch, Schmitt, Suleyman — no ch04 content.
+
+**Retrieval additions arising (for retrieval-master.md; not gated
+works cited here):** Lane, "The Funded Debt of the Venetian Republic,
+1262–1482" (1966) — the §VI yield series, a Lane route beside Mueller
+vol. II; Janice Thomson, *Mercenaries, Pirates, and Sovereigns*
+(Princeton 1994) — the mercenary taboo's genealogy Ruggie cites;
+Epstein, "Genoa and Genoese" (the 1259 compera — Stasavage's n. 13, to
+be identified); Kirshner 2006 on forced loans as debts. Chambers &
+Pullan (row 7) stands: no work of this intake carries the bocche di
+leone (all sidecars searched).

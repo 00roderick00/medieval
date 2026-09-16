@@ -488,3 +488,400 @@ STATUS: REVIEWED (Roderick, 2026-07-22) — cleared for drafting
      rewrites grew to what the correction needed; nothing
      lengthened otherwise). Voice ledger unchanged. No new work
      enters; Chambers & Pullan remains a RETRIEVAL row.
+
+9. **(2026-09-16 — catch-up run STEP 3: Stasavage, *States of Credit*
+   (2011), read in full at assessment; pins verified in the EPUB
+   sidecar (chapter/section/file marker — printed pages PENDING
+   VERIFICATION). PENDING HUMAN REVIEW.)**
+   - CONFIRMS: (i) §VI's "surveillance, state manufacturing and
+     funded debt arose in a *republic*, out of commerce, inside the
+     plural medieval order" — thirteenth-century Italian convergence
+     on interest-bearing forced loans with "an active secondary
+     market" (ch. 2, 'When Did States First Borrow Long-Term?',
+     part0009_split_002); the Venetian prestiti "traded at an average
+     of 85% of par" through the first half of the fourteenth century
+     (ch. 2 n. 17, part0009_split_005). Caveat: on Venice his only
+     source is Lane 1973 (Table 3.1) — one witness. (ii) §VI's "the
+     state converting its propertied citizens into its creditors and
+     thereby into stakeholders in its survival" — the book's
+     (c)-grade inference is his headline finding, with prosopography
+     (Dordrecht, "34% of town magistrates and their family members"
+     as annuity purchasers; Derycke on Bruges — ch. 3, 'Who Was
+     Represented?', part0010_split_003). Upgradeable from (c) to (a)
+     for the Low Countries; for Venice it remains Lane's. (iii) §VI's
+     Hansa "all network and no institution" — "a far-flung entity
+     that, because of its geographic dispersion, faced difficulties in
+     maintaining a central representative assembly"; Dollinger (1971:
+     94) on the Hansetag's "chronic absenteeism" (ch. 3, 'Origins',
+     part0010_split_001). A Dollinger pin at one remove; the [GAP:
+     Dollinger] flags do not close from it.
+   - CORRECTS (current draft wording quoted; not applied):
+     (i) §VI — "consolidated in 1262 into a single funded debt, later
+     called the Monte Vecchio, paying five per cent a year in
+     half-yearly instalments, without a break for more than a century,
+     and readily bought and sold (Lane 1973: 150): **the first funded
+     sovereign debt in European history**". Genoa consolidated its
+     debt in 1259 into a compera paying 8 per cent with transferable
+     shares and "a secondary market" (ch. 6, 'Development of Public
+     Credit in Genoa', part0013_split_007); Arras sold annuities from
+     1241 (Table 2.1). Lane's own claim is narrower and survives: "Venice
+     was the first European state to fund its debt so that interest
+     was regularly paid from one fund to all bondholders equally"
+     (Lane 1973: 150 / PDF 172 — verified). Correction: write Lane's
+     sentence, not "first funded sovereign debt". (ii) §VI — "they are
+     not modern impositions on the neomedieval condition but
+     state-form phenomena that emerge wherever **scale**, commerce and
+     insecurity meet." On his whole argument scale prevented them:
+     "In the territorial states of Europe, in strong contrast,
+     geographic scale often proved to be a fundamental obstacle"
+     (ch. 1, 'Introduction', part0008_split_000). Correction:
+     "smallness of scale", or drop the word. (iii) §VI, by
+     implication — the paragraph reads as if the Venetian form
+     fathered public debt. "It was actually the system of municipal
+     debt developed in northern Europe that would set the model for
+     long-term government borrowing in Europe until the end of the
+     nineteenth century" (ch. 2, part0009_split_002) — the rente, not
+     the prestito. Correction: one clause conceding the northern
+     template. (iv) §VII — "The dispersal's most developed actors are
+     being absorbed by **fiscally capable** centres — unevenly, and
+     fastest where the fisc is deepest". In the credit sense the
+     fiscally capable polities of 1250–1500 were the smallest: "no
+     territorial states had yet created long-term debts" before 1500
+     (ch. 2, 'The Cost of Borrowing', part0009_split_003); a
+     city-state had "a 43% chance" per half-century of creating a
+     debt, a territorial state "only a 5% chance" (ch. 1, 'Broad
+     Sample Evidence', part0008_split_005). Correction (register): the
+     capacity that absorbed was taxation at scale — the taille, not the
+     bond; say "centres that could tax at scale". This is the
+     chapter's end of the assessment's finding that the mechanism is
+     a tax mechanism, stated in words at ch10 §III.
+   - ADDS: (i) the attrition data as the mechanism seen from the
+     city's side — Mainz "lost its status in 1462 as a free imperial
+     city" in "internal conflict and fiscal crisis"; Ghent "forcibly
+     absorbed by a territorial state" under Burgundy and the
+     Habsburgs (ch. 2, part0009_split_002): credit bought survival,
+     not scale (§VII, one clause). (ii) For §VI's control case: "Venice
+     continued to borrow at very low interest rates into the
+     eighteenth century, long after its period as an innovator in
+     industrial production, or as a principal hub of commerce, had
+     ended" (ch. 2, 'Economic Explanations', part0009_split_004) — the
+     fiscal leg fully present and consolidating nothing, which
+     strengthens "a polity that ran the mechanism two steps in and
+     stopped". (iii) Kirshner (2006)'s doubt whether forced loans are
+     public debts at all (ch. 2, part0009_split_002) — a (b) the
+     paragraph should acknowledge in a note. (iv) "rentier republics"
+     (ch. 1, 'Introduction') as a second T2 route to ch12's rentier
+     warning — pointer only.
+   - Tagging: (a) the dates in Table 2.1 and the Genoa 1259 reform;
+     (b) the explanation of city-state credit (Stasavage's control
+     right v. Lane's fidelity and wealth v. Epstein's convergence);
+     (c) the chapter's use of any of it for the absorption verdict.
+   - CONTRADICTS: entered at critiques Revisions 3 (size and credit
+     against the bloc thesis as it touches §§VI–VII and Objection 4's
+     answer).
+   - FLAG STATUS (STEP 1.4): §VI "[GAP: the yield series and the
+     estimo await Mueller vol. II and Luzzatto …]" — NARROWED, NOT
+     CLOSABLE. Stasavage supplies one secondary-market price datum
+     (85 per cent of par, first half of the fourteenth century, n. 17)
+     and a route (Lane, "The Funded Debt of the Venetian Republic,
+     1262–1482", 1966, in his bibliography); he does not carry the
+     series and does not mention the estimo (searched). The flag
+     stays open on Mueller vol. II / Luzzatto, with Lane 1966 added to
+     the retrieval row.
+
+10. **(2026-09-16 — catch-up run STEP 3: McNeill, *The Pursuit of
+    Power* (1982); pins verified in the sidecar, printed = PDF−9.
+    PENDING HUMAN REVIEW.)**
+    - CONFIRMS: (i) §II — "Italy domesticated its mercenaries not by
+      royal monopoly, as France would (Chapter 10's story), but by
+      *market competition among solvent buyers*": the whole evolution
+      "from a nearly free market … towards oligopoly … followed by
+      quasi-monopoly within each of the larger and better-administered
+      states into which Italy divided" (p. 77). (ii) §II's Venetian
+      pair, at T2: Venice escaped Sforza's fate "partly by careful
+      supervision of potential usurpers, partly by dividing contracts
+      among several different, mutually jealous captains, and partly
+      by bestowing civic honors and gifts upon loyal and successful
+      condottieri and arranging suitable marriages" (p. 76) —
+      Colleoni's bargain in the world historian's summary. (iii) §III
+      — Milan "became a military despotism after 1450, when Francesco
+      Sforza took power and began to use the resources of the city to
+      support his military following on a permanent basis" (p. 76).
+      (iv) §II's "lanze spezzate … a quiet step from renting companies
+      toward owning soldiers": regular muster and review, "terms of
+      service achieved contractual definition", and "a regular
+      standing army of known size and capability" in the
+      better-governed cities "during the first half of the fifteenth
+      century" (p. 75). (v) The memo's §1 framing of the market's
+      origin: "Commercialization of organized violence came vigorously
+      to the fore in the fourteenth century when mercenary armies
+      became standard in Italy" (p. 69); by c. 1350 the militias were
+      "archaic holdovers" and force was exercised by "professional
+      troops, commanded by captains who negotiated contracts with
+      appropriate city officials for specified services and time
+      periods" (p. 73).
+    - CORRECTS: nothing in the chapter's dates or names. Prophylactic:
+      the manuscript has never cited McNeill and the phrases sometimes
+      remembered as his are not in the text (assessment §3(i)); cite
+      only the words above. His artillery chronology is not to be
+      carried into any chapter (ch06 rule).
+    - ADDS: (i) §IV, beside Prigozhin — Wallenstein: "The logic of his
+      position perhaps required him to imitate the usurpation that
+      Sforza had carried through in Milan in 1450"; assassinated 1634
+      by a court faction, "The emperor endorsed the act only
+      subsequently" (p. 121). The seventeenth century's failed
+      Sforza-from-below, between Sforza and Prigozhin; one sentence
+      if wanted. The parallel in the manner of death is the book's
+      observation, not McNeill's, and the Prigozhin attribution
+      discipline (§IV) governs it. (ii) §VII — the market's
+      sovereignty over force as "an eccentric departure from the human
+      norm of command behavior" (p. 116): a 1982 T2 statement of the
+      book's return-to-command wager, for the chapter's close or the
+      Coda. (iii) §VII's "consolidating monarchies that finally could"
+      — "When newly consolidated monarchies, commanding comparatively
+      vast territories, chose to intervene in Italian affairs, the
+      sovereignty of mere city-states, however skillfully managed,
+      could not permanently be maintained" (p. 79): the T2 sentence
+      for Part I's verdict, and the answer to his own objection.
+    - CONTRADICTS: entered at critiques Revisions 2 — the ratchet as
+      Venetian and administrative (p. 75; p. 125), not French and
+      ballistic.
+    - FLAG STATUS: §II "[GAP: Mallett; Mallett & Hale]" (the condotta's
+      anatomy) — NARROWED, NOT CLOSABLE: McNeill p. 75 carries muster,
+      review and "contractual definition" of terms at synthesis level;
+      the ferma/aspetto structure is not in him. Mallett stays on the
+      row.
+
+11. **(2026-09-16 — catch-up run STEP 3: Commynes, *Mémoires* tome III
+    (Calmette 1925), T1; pins verified, printed = PDF+6, with one
+    correction to the assessment's pin. PENDING HUMAN REVIEW.)**
+    - CITATION AUDIT: the chapter cites no Commynes passage; nothing to
+      verify here. Tomes I–II remain on ch10's retrieval row.
+    - CONFIRMS (colour, footnote level per the assessment): why the
+      Italian system could not answer the French state — "ilz
+      n'entendoient point le faict de l'artillerie, et en France
+      n'avoit jamais esté si bien entendue" (p. 50 / PDF 56); the Papal
+      States "la plus heureuse habitation pour les subjectz qui soit en
+      tout le monde, car ilz ne paient ne tailles ne guéres aultres
+      chouses" (**p. 71 / PDF 77 — the assessment's p. 76 / PDF 82 is
+      wrong: the page headed 70 is "CHARLES VIII A BRACCIANO" and the
+      passage falls on the next page, the "OCCUPATION D'OSTIE"
+      chapter**). A T1 witness that the fiscal difference the chapter
+      argues from was visible to a contemporary: the polity without a
+      taille was the happiest to live in and the one the train walked
+      through.
+    - ADDS: (i) §VI or §VII, one clause — the descent on Italy was
+      itself financed from the condottieri's world: "Nul argent content
+      : car, avant que partir, empruntérent cent mil francs du banc de
+      Soly à Gennes, à quatorze pour cent d'interest de foyre en foyre"
+      (p. 3 / PDF 9). The Genoese bank lending to the monarchy that
+      ended Italian sovereignty is the chapter's finance disanalogy in
+      one line: Italian credit outlived Italian force. (ii) §II,
+      footnote — Commynes on Italian battle custom at Fornovo (placed
+      by the assessment at ch10 §IV; cross-referenced here): "Leurs
+      batailles d'Ytallie n'ont point de coustume d'estre telles ;
+      car, ilz combatent escadre aprés escadre, et dure quelque foiz
+      tout le jour", and "je ne croy point que l'artillerie des deux
+      costéz tuast dix hommes" (p. 192 / PDF 198). The eyewitness
+      description of condottieri warfare's tempo against the French
+      mêlée, and the disanalogy ch10 carries (guns did not win the
+      field). Translations, if used, marked [TRANS. CLAUDE].
+    - Frame caveat (assessment): Commynes explains 1494 by God, not by
+      the généralités; wherever his testimony serves the institutional
+      argument the chapter says the frame is the historian's.
+    - Tagging: (a) the text; (c) every use above.
+
+12. **(2026-09-16 — catch-up run STEP 3: Krasner, *Sovereignty:
+    Organized Hypocrisy* (1999), and Ruggie, "Territoriality and
+    Beyond" (1993); pins verified (Krasner printed = PDF+10; Ruggie
+    printed = PDF−137). PENDING HUMAN REVIEW.)**
+    - CONFIRMS (Krasner): §III — "functional sovereignty and formal
+      sovereignty are separable, and the functional kind can run a
+      great polity for generations without the formal kind ever
+      arriving." Krasner: "A state such as Taiwan can have Westphalian
+      sovereignty, but not international legal sovereignty" (p. 4 /
+      PDF 14); "the organization of authority within a state and the
+      level of control enjoyed by the state are not necessarily
+      related to international legal or Westphalian sovereignty"
+      (p. 12 / PDF 22). Sforza's Milan is domestic sovereignty
+      (control) without international legal sovereignty (recognition);
+      the vocabulary exists and the §III/§V thread should borrow it in
+      a note rather than coin. Krasner brackets exactly what the
+      chapter explains — "I offer no explanation for the displacement
+      of other institutional forms, such as … the Hanseatic League"
+      (p. 5 / PDF 15) — a (c) the chapter may say by name.
+    - ADDS (Ruggie): (i) §VI, footnote — Mattingly's paradox: the new
+      states "found they could only communicate with one another by
+      tolerating within themselves little islands of alien
+      sovereignty" (p. 165 / PDF 28) — a period name for the Kontors
+      and the Steelyard; the analogy to the DMA is the book's and
+      belongs to ch12. (ii) §II/§IV, footnote — "when the concept of
+      state sovereignty expanded to become the concept of national
+      sovereignty, the use of mercenaries in warfare declined and
+      ultimately was eliminated altogether" (p. 163 / PDF 26, citing
+      Thomson); the chapter does not cite Thomson (retrieval row
+      added at sources).
+    - CORRECTS: nothing in the chapter's facts.
+    - CONTRADICTS (Ruggie, at full strength; entered at critiques
+      Revisions 4): "the Italian city-states and the Hanse, in fact
+      were viable political alternatives to the territorial state,
+      fully able to levy taxes and raise armies, for the better part
+      of two centuries. In social life, two centuries is no mere time
+      lag" (p. 156 / PDF 19). The limb that names this chapter's
+      actors; the book-level anti-functionalist objection is carried
+      at ch01 critiques and the Coda.
+    - Tagging: (a) Krasner's four-way grid is standard IR; (b) Ruggie's
+      anti-functionalism is one side of a live dispute (against
+      Spruyt's selection account, which the chapter already carries);
+      (c) the dating of the two centuries to before the ratchet.
+
+13. **(2026-09-16 — catch-up run STEP 3: Glete, *War and the State in
+    Early Modern Europe* (2002), and Scott, *Seeing Like a State*
+    (1998); pins verified (Glete printed = PDF+9; Scott printed =
+    PDF+17). PENDING HUMAN REVIEW.)**
+    - CONFIRMS (Scott, at T2): §VI — "To do any of this the state had
+      first to *see* — to assess wealth, register persons, track
+      obligation — and fiscal legibility of that kind is the
+      precondition of consolidated finance everywhere this book
+      looks." Scott: the cadastral survey "is the precondition of a tax
+      regimen that comprehensively links every patch of land with its
+      owner—the taxpayer" (p. 44 / PDF 61); "the very concept of the
+      modern state presupposes a vastly simplified and uniform property
+      regime that is legible and hence manipulable from the center"
+      (p. 35 / PDF 52). The sentence's T2 anchor; the India Stack line
+      stays in Part III as the memo §6 already rules.
+    - CONFIRMS (Glete): §IV's structural reading of the Prigozhin case
+      — "the modern strong state holds the market for force too
+      completely — it is the paymaster, the arsenal, the recruiter and
+      the court". Glete's "double contractual relationship, one between
+      rulers and the society and another between rulers and their
+      armed forces" (p. 4 / PDF 13) is the T2 frame; and his eastern
+      contrast — forces that "acted as entrenched interest groups of
+      their own, only conditionally controlled by the tsars and
+      sultans … They might equally well start rebellions" (p. 23 /
+      PDF 32) — is the shape of a force outside the second contract.
+      That Wagner in 2023 was such a group inside a state that had
+      not completed the second contract is the book's inference (c),
+      not Glete's, and is flagged as such.
+    - CORRECTS (Glete, a precision aimed by the assessment at ch10 §VI
+      and touching §VI here): "it ran all of this with almost no
+      bureaucracy, the Arsenal, the mint and the taxes managed by
+      short-term boards of elected nobles who could not succeed
+      themselves (Lane 1973: 98). Its decisive force was limited by
+      men, not money". Glete: "Venice also had a large permanent and
+      state-administered navy and may in terms of permanent armed
+      force have ranked number one in Europe in 1500" (p. 13 /
+      PDF 22). Lane's "almost no bureaucracy" is not "no apparatus":
+      the correction is to say Venice had the permanent naval
+      organisation and lacked the fiscal-administrative penetration
+      of a territory — which sharpens, not weakens, the control case.
+    - ADDS (Glete): Philip IV, 1664, declaring the Dutch fleet on
+      Spanish coasts "in the interest of universal commerce" (p. 116 /
+      PDF 125) — a footnote for the Hansa/Venice register if the
+      chapter wants a sovereign conceding a commercial actor's
+      protection; otherwise ch12.
+    - Tagging: (a) Glete's Venice sentence and Scott's cadastre; (c)
+      the Wagner inference.
+
+14. **(2026-09-16 — catch-up run STEP 3: Cheung, *Innovate to
+    Dominate* (2022); pins verified, printed = PDF+15. PENDING HUMAN
+    REVIEW.)**
+    - CORRECTS (register, current wording quoted; not applied): §V —
+      "There is no federal equity stake, no golden share, in Palantir
+      or Anduril — the absence was checked, and it distinguishes these
+      cases both from the Intel conversion Chapter 10 documented and
+      from **the Chinese fused model of Chapter 2**." Cheung: private
+      firms enter the acquisition system only through WERPL and ECC
+      licences "jointly administered by SASTIND and the PLA armaments
+      bureaucracy", and at category 1 "The big state-owned defense
+      firms have maintained an iron grip on licenses in this domain"
+      (pp. 114–15 / PDF 129–30). Function delegated by licence,
+      ownership retained — the Chinese settlement with its tech barons
+      is, in the defence-industrial base, a licensing settlement
+      "closer to the American form than 'fused' allows" (assessment).
+      Correction: qualify "fused" — the fusion is ownership of the
+      primes and licence over the entrants — or name the licence.
+      The ch02 characterisation is ch02's to settle; this chapter's
+      contrast sentence should not outrun it.
+    - ADDS: the licence as the Chinese Sforza-from-above instrument
+      beside the American commission and clearance (§V, one clause);
+      date caveat — to press late 2021, before the 2020–23 platform
+      discipline.
+    - Tagging: (a) the licensing structure; (c) the "closer to the
+      American form" reading.
+
+15. **(2026-09-16 — catch-up run STEP 3: works assessed and NOT
+    placed here — the placement recorded. PENDING HUMAN REVIEW.)**
+    Chastellain t. III: the Lombard bankers of Bruges, 1457 (ch. LXI,
+    pp. 314–316 / vol01 PDF 321–323 — verified: the duke "estoit
+    constraint de les y remettre par la nécessité publique") is placed
+    at ch10 §VIII and ch12 §IV as the T1 anchor of the dependence
+    term; the northern financier-intermediary is not this chapter's
+    subject and no entry is made. Tilly 1975/1985: the protection-
+    racket frame is re-pinned at ch03 §I; the 1985 "Protection as
+    Business" section (Lane's protection-rent model, with Tilly's
+    "fourth owner" — a dominant class) goes to ch12 §VII / §8(g); the
+    memo's existing Tilly pointer (Revisions 5) stands. Wu, Farrell &
+    Newman (article and book): no Hansa or proto-platform placement
+    in either assessment; the memo §5 Hansa-as-proto-platform line
+    remains on Spruyt, Stasavage (Revisions 9) and Ruggie (Revisions
+    12). Goldsmith & Wu: ICANN as "operative but never invested" is
+    placed at ch12 §III beside Sforza — the chapter's functional/
+    formal thread (§III) gains a documented modern instance there;
+    pointer only. Ertman: Venice excluded from his sample (p. 5); no
+    placement. Bagehot, Crouch, Schmitt, Suleyman: no ch04 content.
+
+**Flags after STEP 3 (STEP 1.4 summary; nothing edited in draft.md):**
+- §II [GAP: Caferro's 1380 condotta] — untouched.
+- §II [GAP: Mallett; Mallett & Hale] — narrowed by McNeill p. 75; not
+  closable.
+- §VI [GAP: Dollinger] (Hansetag date) and [GAP: Dollinger for the
+  clause wording] — untouched; Stasavage carries Dollinger 1971: 94 at
+  one remove on absenteeism only.
+- §VI [GAP — Chambers & Pullan] (bocche di leone; destruction rule) —
+  untouched; no work of this intake carries it (all sidecars
+  searched). Remains RE-SOURCE OR CUT per Revisions 7.
+- §VI [GAP: yield series and estimo — Mueller vol. II / Luzzatto] —
+  narrowed (Stasavage n. 17's 85-per-cent-of-par datum; Lane 1966 as a
+  route); not closable.
+
+**Register decisions proposed for the rulings sheet (stated, not
+recommended; lettering continues the sheet's):**
+- §VI: "the first funded sovereign debt in European history" replaced
+  by Lane's formulation ("the first European state to fund its debt so
+  that interest was regularly paid from one fund to all bondholders
+  equally", Lane 1973: 150), with Genoa 1259 and Arras 1241 named.
+  Carriers: Stasavage ch. 6 (part0013_split_007), Table 2.1; Lane
+  p. 150.
+- §VI: "wherever scale, commerce and insecurity meet" → "wherever
+  commerce, insecurity and a scale small enough to be governed by its
+  creditors meet", or "scale" dropped; one clause conceding the
+  northern rente as the template of public debt. Carriers: Stasavage
+  ch. 1 Introduction; ch. 2 part0009_split_002.
+- §VII: "fiscally capable centres … fastest where the fisc is deepest"
+  → "centres that could tax at scale"; the credit/tax distinction
+  stated once, with Mainz 1462 and Ghent as the attrition cases.
+  Carriers: Stasavage ch. 2 parts 002–003; ch. 1 part0008_split_005.
+  Touches ch10 §III's parallel decision (the settlement as tax
+  settlement) — one ruling for both.
+- §II/§VII: McNeill named; civil control of contracted force stated
+  as an Italian achievement of the first half of the fifteenth
+  century, and what the guns added stated as the minimum scale of a
+  sovereign — the ratchet defined narrowly. Carriers: McNeill pp. 75,
+  77, 79, 125. Touches spine §8(a)'s ratchet definition — mark ⚑SPINE.
+- §VI (control case): "almost no bureaucracy" qualified by Glete's
+  permanent navy — naval organisation present, fiscal-administrative
+  penetration absent; Stasavage's eighteenth-century credit added as
+  the fiscal leg consolidating nothing. Carriers: Glete p. 13;
+  Stasavage ch. 2 part0009_split_004. Joint with ch10 §VI.
+- §V: "the Chinese fused model of Chapter 2" qualified — ownership of
+  the primes, licence over the entrants. Carrier: Cheung pp. 114–15.
+  Depends on ch02's ruling on "fused".
+- §III/§V: Krasner's vocabulary (domestic control v. international
+  legal sovereignty) adopted in a note for the functional/formal
+  thread. Carrier: Krasner pp. 4, 12.
+- §VI (Hansa): Mattingly's "islands of alien sovereignty" in a note
+  for the Kontors; §VII concedes Ruggie's two centuries and dates
+  them before the ratchet. Carriers: Ruggie pp. 156, 165.
+- §IV: Wallenstein beside Prigozhin, one sentence, optional. Carrier:
+  McNeill p. 121.
