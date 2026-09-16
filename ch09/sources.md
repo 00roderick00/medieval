@@ -529,3 +529,77 @@ stated; every pin below was opened this run except where marked
     apparatus (Vickers 1907 / the rolls); Griffiths p. 22 paraphrases
     ("claims based on his birth … were found wanting") and does not
     supply the quotation. PIN TO BE CONFIRMED.
+
+## Pins used in draft.md — Phase 5 renovation, Part B1 (2026-09-16; no new works)
+
+*Every pin below was re-opened at its sidecar this run before entering
+the draft; the draft's citations use the forms given here. Entries
+above are unchanged.*
+
+- **Bagehot — USED (§VI, §VIII, §IX):** Lords PDF p. 48 (scope caveat,
+  quoted first); The Cabinet PDF p. 21 (the distinction; "GAIN … USE";
+  "bring it force … They raise the army, though they do not win the
+  battle"); Conclusion PDF p. 103 (the genealogy, in full); Conclusion
+  PDF p. 104 ("some monarchs were imbecile"; "an EXPRESSIVE body"; "a
+  ruling body"; the *prefet* sentence — quoted as his observation, the
+  stack-as-*prefet* inference NOT made here); The Monarchy I PDF p. 36
+  ("It acts as a DISGUISE…"); Conclusion PDF p. 106 ("keep the ancient
+  show…"); The Monarchy II PDF p. 37 (George III "was the Government";
+  "daylight upon magic"); On Changes of Ministry PDF p. 83 ("retained,
+  not for intrinsic use … solely-ornamental wheels … friction and
+  error"; "imaginative attraction" again at §IX); The Monarchy I PDF p.
+  30 ("The use of the Queen…"); The Cabinet PDF p. 28 ("a CHOSEN
+  people…"); Prerequisites PDF p. 101 ("splendid procession …
+  second-rate carriages"); Prerequisites PDF p. 102 ("unstable
+  equilibrium"). NOT USED: PDF p. 23 (Queen/Prime Minister heads),
+  p. 46 ("meddling maniac"), p. 105 (Magna Carta), p. 108, p. 35, p. 71,
+  p. 58, p. 11 — available; George III at §IX's OpenAI paragraph (9-f)
+  not applied. Citation form in draft: (Bagehot 1867, "Essay title,"
+  PDF p. N) — re-pin to a printed edition at assembly (RETRIEVAL item
+  10).
+- **Griffiths 1981 — USED (§III, §IV, §V):** p. 22 (5 December 1422;
+  "found wanting"; the title; the 1428 gloss; "as long as it liked the
+  Kyng"); p. 32 (the council of twelve to eighteen; the three officers);
+  p. 34 ("that crucial element of continuity and stability which made
+  the transition to a minority régime a peaceful one" — the STEP 3
+  paraphrase "of service" corrected to the sidecar's words); p. 36
+  (Beaufort chancellor 16 July 1424; "seriously endangered … major
+  political explosion … April 1425"; "the most severe domestic crisis
+  of the protectorate"; the Leicester parliament of 1426); p. 73 ("the
+  most serious domestic threat to the stability of Henry VI's
+  government" — sidecar line-break inside the phrase; confirmed); p. 38
+  (6 November 1429; the 1430 regulations); p. 238 (Sheen, 21 October
+  1437); p. 240 ("vulnerable to the exhortations and solicitations");
+  p. 717 (the five physicians' "experiments"; the recovery at Christmas
+  1454 — same page); p. 722 (the queen's bill, "the hole reule of this
+  land"); p. 724 (the fines, "for the first and only time in medieval
+  England"); chronology p. xxi ("1422 31 August Henry V died"). NOT
+  USED: p. 725 (the protestation spelling — draft left as drafted
+  pending RP V 242; [RE-CHECK AT PRESS]).
+- **Lander 1976 — USED (§III, §IV, §V):** p. 75 (the eight months; "The
+  court refused to admit that the king was ill"; Reading; the queen's
+  plans); p. 76 (the roll's negative definition, "printed in full");
+  p. 90 ("suffered no second breakdown … comparable to his complete
+  mental and physical collapse of 1453–5"); p. 99 ("an attempted palace
+  revolution which failed miserably for lack of support"). Lander 1960
+  (BJRL) cited for the 1455–56 terms as before. The 13 September phrase
+  "identical with those of the first protectorate (p. 84)" still NOT
+  located — not used.
+- **Tilly 1985 — USED (§IV, §IX):** "Violence and Government," para. 4
+  ("before the seventeenth century, regencies for child sovereigns
+  reliably produced civil wars"; "disarming the great stood high on the
+  agenda of every would-be state maker").
+- **Crouch 2000 — USED (§VI):** PDF p. 2 ("while the forms of democracy
+  remain fully in place … slipping back into the control of privileged
+  elites"); PDF p. 8 ("it is difficult to dignify it as democracy
+  itself"). The term "post-democracy" and ch12's term are NOT used in
+  ch09.
+- **Watts** ch. 5 p. 127 — as before (§III, §VI).
+- **NOT USED this run (available; proposed rows, Roderick's):** Krasner
+  pp. 4, 10, 20, 29; Stasavage (the Cortes; the Uganda passage);
+  Chastellain t. III (Charles VII's court); Cheung pp. 67, 284–86;
+  Suleyman PDF 176, 294; Ertman p. 93; Glete pp. 195, 212.
+- **RETRIEVAL item 13 (the 1422 "priority of blood" quotation):** the
+  quotation is OUT of the draft as of this run, replaced by Griffiths
+  p. 22's verified account; restore at the sentence in §IV paragraph 1
+  when the Vickers/rolls pin is confirmed.

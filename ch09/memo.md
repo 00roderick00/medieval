@@ -861,4 +861,256 @@ exclamation.
   (ii).
 
 STATUS (Revisions 2–10, the Part B1 section and the register decisions):
-PENDING HUMAN REVIEW. Draft unchanged this run.
+PENDING HUMAN REVIEW. Draft unchanged that run; changed at Revisions 11
+below.
+
+## Revisions (2026-09-16 — Phase 5 renovation, Part B1: ruling (bb), spine §8(g), (u). PENDING HUMAN REVIEW.)
+
+11. **(The first draft edit since 3 September. Rulings applied: (bb)
+    — the chapter takes constitutional appearance against effective
+    power as its subject, the minority of 1422–37 distinguished from
+    the incapacity of 1453–55; spine §8(g)(5) — Bagehot's dignified and
+    efficient parts as the bridge with the disanalogy that the
+    dignified parts were never decoration, his valuation refused;
+    §8(g)(6) and (u) — no coinage claimed, ch12's term not used, Crouch
+    cited beside Bagehot at the bridge; ruling (z) — "the walls and the
+    minds of the besieged" not used. The 2026-09-16 PROPOSED rows
+    (gggg)–(kkkk) were applied ONLY where they restate the ruling
+    (9-a = §8(g)(5)'s correction; 9-b = the bridge as Part B1
+    instructs; 9-c = the minority/incapacity hedge Part B1 instructs;
+    9-e = the coinage's home per §8(g)(6)); 9-d (Charles VII's court),
+    9-f (George III at the OpenAI paragraph), 9-g (Krasner footnote),
+    9-h (Cheung footnote), and 9-j's Stasavage and Krasner sentences
+    were NOT applied — Roderick's. Every pin below was re-opened at the
+    sidecar this run (Bagehot.txt; text-2026-09-13b/Griffiths.txt and
+    Lander.txt; Tilly-1985-WarMaking.txt; Crouch-PostDemocracy.txt).
+    Word count: 3,316 → 7,472 (wc -w, footer included); body
+    ~3,200 → ~6,700. Sections renumbered I–IX.)**
+
+    **§I — the subject stated.** ADDED after "…the load under which it
+    broke.": "Its subject, stated at the outset because the rest of
+    Part II has been preparing it, is the distance that opened in these
+    years between what the constitution appeared to be and what it
+    could effectively do — between a crown whose authority the lords
+    would not touch and a government that had to be carried on around
+    it — and the two occasions on which England measured that distance
+    within a single reign: a minority, which was designed and which
+    worked, and an incapacity, for which no office could be designed at
+    all." Book's argument; no pin needed beyond §§III–IV's.
+
+    **§III — the incapacity, an office that could not be filled.** NEW
+    second paragraph: the eight months' delay and "The court refused to
+    admit that the king was ill" (Lander 1976: 75); the Reading
+    prorogation (Lander 1976: 75); the queen's bill, "that she desireth
+    to have the hole reule of this land" (Griffiths 1981: 722); the
+    peers fined "for the first and only time in medieval England"
+    (Griffiths 1981: 724); the five physicians' formal authority for
+    their "experiments" under twenty-eight lords' signatures (Griffiths
+    1981: 717); the book's reading — "the delay is the measure of an
+    office that could not be filled, because the office was the person,
+    and the person was present, and alive, and — in the doctrine's own
+    terms — of full age and void of defect" (c). CHANGED: "(Rot. Parl.
+    v. 242; Lander)" → "(Rot. Parl. v. 242; printed in full at Lander
+    1976: 76)". CHANGED: the paragraph's closing sentences "…operating
+    as a constraint on constitutional invention. Watts's verified
+    formulations…" split: NEW paragraph "It was, accordingly, improvised
+    and dissolved." — the recovery at Christmas 1454 (Griffiths 1981:
+    717); the second protectorate's dates and terms (Lander 1960);
+    LANDER'S DISSENT NAMED IN TEXT: "suffered no second breakdown during
+    the later part of 1455 comparable to his complete mental and
+    physical collapse of 1453–5" (Lander 1976: 90); "an attempted
+    palace revolution which failed miserably for lack of support"
+    (Lander 1976: 99); the chapter's answer that its claim survives
+    either reading (c). The Watts sentences then follow unchanged and
+    close §III.
+
+    **§IV — NEW SECTION, the minority designed, and it worked.**
+    Paragraph 1 (Griffiths 1981: 22, 32): Henry V's death at the end of
+    August 1422 (Griffiths chronology p. xxi, "1422 31 August Henry V
+    died"); "a long discussion among the lords and careful investigation
+    of law and precedent"; the regent's powers "rejected on 5 December:
+    claims based on his birth, the will, and on precedents quoted by him
+    were found wanting"; "Defensor of this Reme and chief counseiller of
+    the kyng"; the 1428 gloss "name of Tutour, Lieutinent, Governour,
+    nor of Regent, nor no name that shuld emporte auctorite of
+    governaunce of the lond"; "as long as it liked the Kyng"; the
+    council "never less than twelve in number" rising to eighteen, the
+    protector chief councillor and probable president, the three
+    principal officers of state (p. 32). The book's observation, marked
+    (c): the 1454 formula was the 1422/1428 formula re-used, and the
+    difference lay in whether the person had a will and when it would
+    return. REPLACES the old §III sentence "In 1422 the lords rejected
+    Gloucester's claim to a regency by blood ('no justification… of
+    priority of blood'), styled Bedford and Gloucester
+    protector-and-defender with patronage capped at minor offices and
+    real control vested in a quorate council, commissions running
+    'during the King's pleasure.'" — the unconfirmed quotation removed
+    (sources RETRIEVAL item 13), the substance re-based on Griffiths.
+    Paragraph 2 (the hedge, against Tilly by name): "before the
+    seventeenth century, regencies for child sovereigns reliably
+    produced civil wars" (Tilly 1985, "Violence and Government," para.
+    4); Beaufort's appointment as chancellor, 16 July 1424 (Griffiths
+    1981: 36 — verified at the sidecar, the appointment on the same
+    page); "seriously endangered the stability of the council and led
+    to a major political explosion when Gloucester returned from the
+    Low Countries in April 1425"; "the most severe domestic crisis of
+    the protectorate" (p. 36); "the most serious domestic threat to the
+    stability of Henry VI's government" (p. 73); "drastic changes within
+    the council" at the Leicester parliament of 1426 (p. 36); "that
+    crucial element of continuity and stability which made the
+    transition to a minority régime a peaceful one" (p. 34 — NOTE: the
+    STEP 3 entry's paraphrase "continuity and stability of service" is
+    corrected to the sidecar's words); the title lost "once Henry VI had
+    taken his coronation oath on 6 November" 1429 and the February 1430
+    regulations "primarily a reiteration of the principles underpinning
+    the government since 1422" (p. 38); Sheen, 21 October 1437 (p. 238);
+    "vulnerable to the exhortations and solicitations of those about
+    him" (p. 240). The book's inference for the escape from Tilly's rule
+    (settled succession, certain horizon, the war abroad under Bedford's
+    regency of France) marked (c) — per critiques Objection 8.
+    Paragraph 3: the distinction stated flatly — designed against
+    unfillable; "the minority did not produce the civil war; the
+    incapacity did," with Lander's hedge. All (c) on the pins above.
+
+    **§V — France and the record.** The France paragraph UNCHANGED (old
+    §III's). The record paragraph CHANGED: "The century's full
+    experimental record confirms the pattern across every variant tried.
+    In 1422 the lords rejected Gloucester's claim…" → "…confirms the
+    pattern in its form and, read with the previous section in mind,
+    denies it in its results. In 1422, the negative title, the capped
+    patronage, the quorate council, commissions running 'as long as it
+    liked the Kyng.'" (Griffiths 1981: 22); "…and every run returned the
+    same result." → "…and every run returned the same *form*. It did not
+    return the same result. The minority's run held for fifteen years
+    and ended on schedule; the incapacity's runs lasted months and ended
+    at the king's pleasure or, on Lander's reading, at the failure of a
+    manoeuvre; the French runs were overturned at every lucid interval.
+    The form was the constant. The variable was whether the person at
+    the centre of the form had a will, and when it would return…"; the
+    (c) marker reworded to match.
+
+    **§VI — NEW SECTION, the Bagehot bridge.** Four paragraphs, every
+    quotation verified at Bagehot.txt this run and cited by essay and
+    Gutenberg-PDF page per sources.md's citation form. (1) The scope
+    caveat FIRST (Lords, PDF p. 48); the distinction and "GAIN … USE"
+    (The Cabinet, PDF p. 21); the correspondence with the Roll stated as
+    the book's (c); Watts p. 127 as the efficient part manufactured. (2)
+    The genealogy quoted in full (Conclusion, PDF p. 103) — "a child or
+    an idiot, or one by some defect or other incapable" mapped to 1422,
+    1453, 1392, "the word for the second of them is his and not this
+    book's"; "some monarchs were imbecile" and "an EXPRESSIVE body"
+    (PDF p. 104); the disguise (The Monarchy I, PDF p. 36) and "keep the
+    ancient show while we secretly interpolate the new reality"
+    (Conclusion, PDF p. 106); George III "was the Government. Lord North
+    was not only his appointee, but his agent" (The Monarchy II, PDF p.
+    37) as the scope caveat's substance. (3) THE DISANALOGY in his own
+    terms, both halves: "retained, not for intrinsic use…
+    solely-ornamental wheels… a source of friction and error" (On
+    Changes of Ministry, PDF p. 83) AND "bring it force… the needful
+    prerequisites of ALL work. They raise the army, though they do not
+    win the battle" (The Cabinet, PDF p. 21) AND "The use of the Queen,
+    in a dignified capacity, is incalculable. Without her in England,
+    the present English Government would fail and pass away" (The
+    Monarchy I, PDF p. 30); "ornamental as administration, indispensable
+    as authority" (from critiques Objection 6); the application to 1454
+    (the king's body the only thing that could raise York's army) is
+    the book's (c). (4) HIS VALUATION REFUSED: "a CHOSEN people, a picked
+    and selected people" (The Cabinet, PDF p. 28); "splendid
+    procession… second-rate carriages" (Prerequisites, PDF p. 101);
+    "daylight upon magic" (The Monarchy II, PDF p. 37); the book's
+    stance — distance as a quantity, not a virtue (c); "unstable
+    equilibrium… no tendency to return to it" (Prerequisites, PDF p.
+    102) conceded and turned; the *prefet* (Conclusion, PDF p. 104)
+    quoted as his observation with the inference explicitly left to
+    Part III (the stack-as-*prefet* reading is ch12's and is NOT made
+    here); Crouch: "while the forms of democracy remain fully in place …
+    politics and government are increasingly slipping back into the
+    control of privileged elites" (PDF p. 2) and "it is difficult to
+    dignify it as democracy itself" (PDF p. 8) — the echo "noticed here
+    and not pursued"; the term not used. No new image of the book's;
+    Bagehot's images are quotations.
+
+    **§VII (old §IV) — Elton.** CHANGED opening: "What finally answered
+    the broken fiction was not a better regency ordinance, and the
+    chapter must now engage…" → "What finally relieved the broken
+    fiction — and made the separation of 1454 lawful, then ordinary,
+    then invisible — was not a better regency ordinance, and the chapter
+    must now engage…". CHANGED close: "…an executive that was not a
+    body at all." → "…an executive that was not a body at all — and with
+    it the beginning of the arrangement Bagehot would describe in its
+    adult form, in which the part that gains authority and the part
+    that uses it are separated not by the accident of a king's health
+    but by design." (Book's; the scope caveat respected — "beginning
+    of", not the adult form itself.)
+
+    **§VIII (old §V) — the ceremony clause (9-a; §8(g)(5)).** CHANGED:
+    "Five centuries after the relief, the personal constitution has
+    returned — not in the residual monarchies, where the two bodies
+    survive as ceremony, but in the charters of the new continental
+    institutions, where it is load-bearing and growing." → "…not in the
+    residual monarchies, where the two bodies were separated by design
+    and the dignified one, on Bagehot's account, still raises the army
+    the efficient one commands, but in the charters of the new
+    continental institutions, where the two bodies are one again, and
+    load-bearing, and growing." (Bagehot PDF pp. 21, 23, 30.) Rest of
+    the section unchanged.
+
+    **§IX (old §VI) — the close.** First three paragraphs unchanged
+    (the third is draft Revisions 1's). NEW fourth paragraph plants
+    Part III's question: the substitutes of §IX asked which part they
+    are — "parts that rule, or parts that are retained, in Bagehot's
+    phrase, for their 'imaginative attraction' while the work is done in
+    another room" (PDF p. 83) — declared unscoreable at chapter level
+    (critiques Objection 10); the question "what happens to a
+    constitution when its efficient part migrates — out of the office,
+    out of the assembly, into the stack and the persons who hold it —
+    and its dignified part stays, gaining an authority it no longer
+    uses, raising an army it no longer commands" (on PDF p. 21);
+    Bagehot's 1867 answer the disguise (PDF p. 36); the three questions
+    handed to ch12 and Appendix C "under a name this chapter has
+    deliberately not used." Final paragraph CHANGED: "…his minority, or
+    his grief. The reader has already seen…" → "…his minority, or his
+    grief, and which put, in Tilly's words, 'disarming the great' high
+    'on the agenda of every would-be state maker' (Tilly 1985, 'Violence
+    and Government,' para. 4). The reader has already seen the machine
+    at work; the next chapter opens its account books." Forward close
+    kept; no summary.
+
+    **Not done at the pin, and why.** (i) The 1422 "no justification…
+    of priority of blood" quotation is OUT of the draft (pin
+    unconfirmed; RETRIEVAL item 13) — restorable. (ii) York's
+    protestation spelling ("resteth th'exercice") not conformed: no RP V
+    scan in corpus; Griffiths p. 725 reads "restethe thexcercice" —
+    [RE-CHECK AT PRESS] recorded in the draft footer. (iii) Griffiths
+    p. 73's "most serious domestic threat" is used on the STEP 3
+    entry's verified pin (the sidecar's OCR breaks the phrase across a
+    line; "domestic threat to the stability of Henry VI's government"
+    confirmed at the sidecar). (iv) The Bagehot PDF pages are the
+    Gutenberg print's; re-pin at assembly (RETRIEVAL item 10). (v)
+    Stasavage's Cortes, Krasner's "invitation," Glete p. 212, the
+    Chastellain converse case, George III at the OpenAI paragraph and
+    the Cheung/Krasner/Ertman footnotes are available at their pins and
+    NOT used — proposed rows, Roderick's. (vi) No [BRIDGE] exists in
+    this chapter and none was written; the analogy joint to the
+    platforms is Roderick's — the ruled close asks a question of the
+    substitutes and asserts no analogy, so no [BRIDGE — PROPOSED] block
+    was needed; if Roderick wants the platform application of the
+    dignified/efficient split asserted rather than asked in §IX, that
+    is the [BRIDGE — PROPOSED] to write. (vii) The [OUTLINE CONFLICT]
+    (Revisions 10) STANDS: the draft now follows the ruled subject
+    (appearance against power; the close plants the migration
+    question) while retaining the outline's Structure 6–7 material in
+    §§VIII–IX as the evidence the question is asked of; not resolved.
+    (viii) Ruling (z): the image is not in ch09 and was not introduced.
+
+    **Voice ledger** (draft footer updated): no coinage; the image
+    unchanged (the scaffolding); the aphorism unchanged; five quotable
+    lines produced or newly counted are listed in the footer for the
+    ration with the §V and §IX lines named as the candidates for
+    flattening. Personal names verified against sources.md: Bagehot,
+    Crouch, Griffiths, Lander, Tilly, Watts, Gloucester, Bedford,
+    Beaufort, York, George III, Lord North (the last two at the Bagehot
+    entry's pins).
+
+STATUS: Revisions 11 PENDING HUMAN REVIEW (Phase 5 renovation, Part B1,
+2026-09-16). Draft changed this run — see ch09/draft.md Revisions 2.

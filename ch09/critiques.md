@@ -349,6 +349,19 @@ CORRECT AT RENOVATION: §V "survive as ceremony" (memo Revisions 2(i);
 be confirmed (memo Revisions 7(i); sources RETRIEVAL item 13). The §II
 Kantorowicz, §III Famiglietti/Autrand and §IV Elton-debate [GAP]s stand.
 
+*(Phase 5 Part B1, 2026-09-16 — PENDING HUMAN REVIEW.)* The "survive as
+ceremony" clause is CORRECTED in the draft (now §VIII). The "priority of
+blood" quotation is OUT of the draft pending its pin (§IV now carries
+Griffiths p. 22's account). Sections renumbered I–IX: Objections 3 and
+8 now bear on §§III–IV; Objections 6 and 7 on the new §VI (the scope
+caveat is quoted where Bagehot is first cited, as Objection 7's grade
+required; both halves of the disanalogy and the refusal of his
+valuation are in the text, as Objection 6's answer required);
+Objection 9's placement is still Roderick's (not applied); Objection
+10's fork is planted at §IX's close as the answer said it would be,
+and not scored. The [GAP]s stand. One [RE-CHECK AT PRESS] added (York's
+protestation spelling against RP V 242).
+
 ---
 
 ## For the Perplexity second-opinion run (log after the draft)
