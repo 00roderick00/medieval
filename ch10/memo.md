@@ -1430,3 +1430,199 @@ STATUS: REVIEWED (Roderick, 2026-07-23) — cleared for drafting
     §102) or carry the aggregate via a named secondary (CRS
     R47523-class summary; retrieval row if wanted). No other
     CHIPS claim mismatches.
+
+30. **(2026-09-16 — Phase 5 renovation: rulings (a), (aa), (l), (j),
+    (x) historical half; Cosneau/Depreter/Lane/Vale corrections; R6;
+    register (b). PENDING HUMAN REVIEW.)** First pass to edit
+    draft.md since the 3 September assembly. Word count 8,559 →
+    11,080. Every change below is a ruling, a correction of fact, or
+    a re-source-or-cut; nothing enters that is not pinned in
+    sources.md (three pointer entries added there for works held in
+    other chapters' files: Hall 1997, Strayer 1970, Johns 1998).
+    - **§I, Louppy (Cosneau corrections; Revisions 25).** OLD: "the
+      surviving text of Louppy-le-Château of 26 May 1445 … the
+      Louppy text presupposes it: the retention, in permanent royal
+      pay, of some fifteen hundred lances." NEW: Louppy stated as
+      what pièce LXXXIV is — a royal commission to five named
+      commissioners for Poitou assigning 190 lances (100 seneschal,
+      60 Loheac, 30 Floquet), fixing the lance of six, taxing the
+      province in kind and money "exemps et non exemps, privilégiez
+      et non privilégiez," quarterly, sum left blank, collected "par
+      toutes voies acoustumées a faire pour noz propres debtes"
+      (Cosneau 1886, pièce LXXXIV, pp. 610–12; both clauses [TRANS.
+      CLAUDE]); its opening clauses showing the founding ordonnances
+      already in force; no total, no fifteen captains, no money
+      wage, no taille, no "permanent"; the 20 April terminus from
+      Richemont's safe-conduct (pièce LXXXIII). The 1,500 lances /
+      fifteen companies / crown pay re-based on Basin, Escouchy and
+      Contamine's other documents (Contamine 1972: 281–82); the
+      Poitou 190 matched to Contamine's district table (ch. X n.
+      31; fiscal-settlement.md §3). Spelling per Cosneau: "Louppy"
+      in the text, "Luppé-le-Chastel" as his heading; "-Château"
+      and "-Châtel" gone.
+    - **§II, the trois voyes (Cosneau ADDS).** NEW sentence: pièce
+      LXXXVI's choice among "trois voyes" with the cash rate "xxxi
+      l. t. a chacune lance fournie de six personnes et six
+      chevaulx" (pp. 614–16, [TRANS. CLAUDE]), matched to
+      Contamine's Annexe IX all-cash option for Auvergne (31 francs;
+      fiscal-settlement.md §3) — the payroll's cashification stated
+      from both sides. NOTE for review: the tariff of §II (15 + 2 ×
+      7 l. 10 s.) accounts for 30 of the 31; the draft says so and
+      does not explain the balance.
+    - **§II, pièce LXXXII.** NEW: the 21 July 1444 export of the
+      écorcheurs "en maniére que la force et auctorité nous demeure"
+      (p. 608, [TRANS. CLAUDE]) as the crown's T1 statement of the
+      monopoly of force, placed beside the écorcheur before-state.
+    - **§III, ruling (j).** OLD: "The constitutional theory of
+      French taxation before 1439 was consent: the Estates granted,
+      for a purpose and a term, and the grant lapsed." NEW: consent
+      with the defence-of-the-realm override recognised by 1300
+      (Strayer 1970: 54 and n. 48 — Pierre Jame; *Etsi de statu*
+      1297); Charles V's permanence of the 1360s (Henneman via
+      Hoffman 2015: 135) reversed on the deathbed in 1380; 1439–46
+      stated as the SECOND making, irreversibility not permanence
+      the explanandum; Hoffman p. 140's "usually not forgotten"
+      named as the assumption his own case refutes. §II's Charles V
+      army concession gains its fiscal twin in a clause.
+    - **§III, the Praguerie (Vale corrections; Revisions 19, 23).**
+      OLD: "broken in five months, settled at Cusset with pensions
+      and nothing structural conceded." NEW: raised in the rebels'
+      pretext against the aides; negotiated at Montferrand in May
+      1440, closed by July (Dauphiné + pension for the dauphin;
+      pardons for most; La Trémoille, Chaumont and Prie banished
+      from court; Dunois among the rebels); the king's terms
+      restating the ordonnance's claim (Vale 1974: 76–82); the
+      claim "a dead letter" until 1445 (pp. 78–79); the 1442
+      Languedoc statement and taxes without convocation (p. 82).
+      The dated sequence now reads "1439 the claim to the monopoly
+      of force, 1445 its enforcement, the 1440s the practice, 1446
+      the formula, c. 1450 the institution." Basin's silence on any
+      fiscal motive (Revisions 23) is respected: the reform-revolt
+      link is carried on Vale, not on the contemporary witness.
+    - **§III, the revenue arc (Vale correction 3).** OLD: the 1911
+      Britannica 1.8m/4.6m "taille alone" sentence. NEW: Commynes
+      via Vale — c. 1,800,000 francs a year under Charles VII,
+      4,700,000 by Louis XI's death, the whole levy (Vale 1974: 231,
+      citing Commynes ed. Calmette ii. 220); [GAP: Wolfe] kept for
+      the taille's own line. §V's "the tripled taille" → "the
+      near-tripled levy." "control experiment" (the 1484 Estates) →
+      "test," per (aa)'s discipline.
+    - **§V, DeVries page (correction).** The Commynes "so much
+      shooting" pin → 137–38 (sidecar verified: the ten salvos and
+      "most fearsome" at 137, Commynes at 138).
+    - **§VI, Depreter (ruling (l); Revisions 26).** OLD: "the état
+      for the Neuss campaign of November 1474 bears Charles's own
+      signature" → softened to the duke as *ordonnateur* (Depreter
+      2011b: 10); the signature claim dropped (not in the
+      monograph). OLD: "running parts of it better than France" →
+      confined to the recette and wartime gunner pay, peacetime
+      gunners at half the French rate (p. 72). OLD: "repeatedly
+      corrected for lack of means" (in quotation marks) → the July
+      1476 état's recapitulation, the borrowed serpentines, the
+      downward revisions (four bombards to two, 400 pioneers to 30),
+      the financial reason posed as a question (pp. 99, 116–17,
+      135, 171). OLD: "transferred the whole apparatus intact —
+      lands, revenues, recette and guns … What Burgundy lacked …
+      was not administrative capacity — Depreter's work shows the
+      capacity in detail — but a survivable dynastic centre." NEW:
+      lands and revenues passed; the OFFICES passed (Jehan Charles
+      in post, Dommarien master again 1478 — pp. 33, 22 n. 94);
+      the guns largely gone ("sans doute catastrophiques," "quasi
+      vidés," pp. 183–84, [TRANS. CLAUDE]); the fisc failure stated
+      — the charroi levy appealed by Flanders and Brabant, Flanders
+      buying out a third; Menostey embezzling from 1472, gaoled 15
+      January 1477, dismissed with a fine (pp. 40–44); Dommarien's
+      "par povretés" and the idle bombards (Annexes 5–6, pp.
+      215–17); not in strength before Nancy by mid-December (p.
+      151). The two-variable reading — offices without fiscal
+      permanence, plus one mortal node — stated as THE BOOK'S OWN
+      inference, with Depreter's refusals recorded in text (no
+      dynastic centre; fifteen sieges won; no verdict of necessity,
+      pp. 88, 183). The carry-forward sentence rewritten so the EU
+      test carries two variables. Cartridges anecdote: OLD "all but
+      one … destroyed … made into cartridges for the revolutionary
+      army (Depreter 2011: 83)" → "gargousses de poudre," one
+      account surviving entire, moved to Brussels 1769 (Depreter
+      2011b: 2). Epic Fury clause conformed ("offices without a
+      permanent fisc or a survivable centre").
+    - **§VI, Venice (ruling (l); Revisions 27).** NEW paragraph:
+      the fourth counter-case — Foscari deposed by vote 1457 and the
+      system carrying on (Lane 1973: 267); the Monte Vecchio arc,
+      the 1453-shock direct levies, cadaster 1463, Monte Nuovo 1482
+      (p. 238); no bureaucracy, elected boards (pp. 98, 266–67);
+      "those most nearly successful were, except for Venice,
+      monarchies" (p. 251); "could not in the long run compete"
+      (p. 241); BOTH disanalogies in text — the fisc driven by
+      thirty years of Lombard war fought by hired companies, not
+      cannon (p. 229); force limited by men not capital, "more
+      galleys than Venice could find crews for," Lepanto (p. 364).
+      §VI's opening "three" → "four"; the closing tally rewritten to
+      four failure modes; §VII's proof-by-variation → five polities,
+      four failure modes.
+    - **§VII, rulings (a)/(aa) (Revisions 28).** OLD: "it set the
+      entry price of decisive force above what any subject could
+      pay." NEW: "the establishment cost of decisive force — guns,
+      powder, gunners' pay, carriage, siege pay, all of it on
+      permanent taxation — at a level no subject could sustain as a
+      standing, provincial-scale instrument at campaign tempo." NEW
+      paragraph engaging Hoffman BY NAME: the falling unit prices
+      (Tables 2.5–2.6, pp. 61–63), Hall's private siege trains (pp.
+      120, 125) and Ghent's two hundred carts (p. 49) conceded;
+      establishment v. unit cost; the 1380 reversal against p. 140.
+      §I's "price of decisive force"/"minimum price" → establishment
+      cost / minimum standing cost. "Prices, however, are facts"
+      (rulings-sheet quotation) was not found in the 3 September
+      text and needed no change.
+    - **§VII, ruling (s) use-note.** NEW sentence after the three
+      positions: DeVries quotes Porter and Rogers to oppose them, in
+      support of Hale ("can be explained without reference to
+      gunpowder weapons," DeVries 1998: 128–29); every DeVries pin
+      weighed as a witness against his own frame. The "ratchet"
+      defusing sentence belongs at DeVries's first citation in the
+      book (ch06) and is not duplicated here.
+    - **§VIII, (x) historical half.** NEW paragraph after the
+      Krejsa–Benich disanalogy: command / dependence / capture
+      introduced as coexisting forms; the Stationers' quo warranto
+      (won 1684, Company reincorporated on crown terms, prerogative
+      system lost 1688 — Johns 1998: 317–20) as command without the
+      rest; Venice's crews (Lane 1973: 364) as dependence without
+      command's remedy; the artillery state as the coincidence of
+      both in one payroll. Marker left: [PART B — (x) platform
+      application pending]. The three terms are NOT claimed as a
+      coinage pending the check against Farrell & Newman's
+      vocabulary (assessment in research/assessments-2026-09-14/,
+      not yet integrated).
+    - **§VIII, R6 / the Hussite [GAP].** Closed from Hall, not
+      DeVries: Nuremberg 1430 inventory (501 handguns v. 607
+      crossbows, p. 95); crumb-powder experiments with their
+      genesis in the Hussite wars (p. 114); small arms "a fairly
+      minor part" of the Hussite mix (p. 112); the two-layers
+      sentence (p. 100).
+    - **§VIII, CHIPS (Revisions 29).** Citation → "Pub. L. 117-167,
+      div. A, §102, which appropriates by component; the $52.7
+      billion aggregate is the standard summary figure and is
+      carried as such." A named secondary carrier is still wanted
+      before press (CRS R47523-class summary — retrieval row if
+      Roderick wants it).
+    - **Register (b), (c).** §I "suppressing every authority
+      between the crown and the taxable subject" → "subordinating
+      … — subordinating, not eliminating" with Tilly p. 25 in text;
+      §VII "how the first dispersal ended" → "was locked into
+      consolidated units." §VII's "trains suppressed regional
+      powers, suppression raised revenue" stands as Rogers's cycle
+      paraphrased at DeVries p. 128 (attributed, not the book's
+      chain). No Standard Oil in this chapter.
+    - **Not done at the pin.** The "27 December 1444" Gaspard date
+      (Vale correction 5) does not occur in draft.md — nothing to
+      cut. "No baron had this. No city had this" (synthesis §4) is
+      not in this chapter. The Bratton scan-page pins (§VIII) are
+      unchanged — outside this run's rulings. The Heimpel [GAP]
+      stands. No [OUTLINE CONFLICT] found: outline.md's ch10 brief
+      is served, not contradicted, by the four-counter-case
+      structure and the establishment-cost vocabulary.
+    - **[BRIDGE] discipline.** §VIII's fence untouched; the new
+      passages sit inside it as in Phase 3. No [BRIDGE — PROPOSED]
+      block was needed: no ruling changed what this chapter's
+      bridge must carry (the composite-monarchy and print
+      disanalogies belong to ch11/ch12).
+

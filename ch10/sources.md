@@ -710,3 +710,64 @@ accordingly.*
   citation or a named secondary carrier (CRS/Commerce summary)
   for the aggregate. Recorded as memo correction; cite the
   statute as Pub. L. 117-167, div. A, §102.
+
+## Added 2026-09-16 — Phase 5 renovation (pointer entries; pins used in draft)
+
+- **Citation keys, Depreter.** "Depreter 2011" = the BCRH article
+  (T2 entry above, PARSE closed 2026-07-23). "Depreter 2011b" = the
+  monograph *De Gavre à Nancy* (T2 entry of 2026-09-13 above). Both
+  keys now occur in draft §VI. PINS USED (monograph, sidecar
+  verified where quoted): p. 2 ("gargousses de poudre"; the 1769
+  Brussels transfer); p. 10 (duke as ordonnateur); p. 22 n. 94 and
+  p. 33 (Dommarien 1478; Jehan Charles in post); pp. 40–44
+  (Menostey); p. 72 (peacetime gunner pay); p. 88 (no verdict of
+  necessity); pp. 99, 116–17, 135, 171 (downward revisions; the
+  July 1476 état); p. 151 (not in strength by mid-December); pp.
+  183–84 ("sans doute catastrophiques"; "quasi vidés"; fifteen
+  sieges won); pp. 215–17 and Annexes 5–6 (the charroi appeal;
+  "par povretés").
+- **Cosneau 1886, pins used (draft §§I–II):** pièce LXXXII p. 608
+  ("en maniére que la force et auctorité nous demeure"); pièce
+  LXXXIII (20 April terminus); pièce LXXXIV pp. 610–12 (the Poitou
+  commission; both quoted clauses sidecar verified — "exemps et non
+  exemps…"; "par toutes voies acoustumées…"); pièce LXXXVI pp.
+  614–16 ("xxxi l. t. a chacune lance…"). Digit-corruption caveat
+  stands: verify numerals at page images before press.
+- **Vale 1974, pins used (draft §§III, V):** pp. 76–82 (the
+  Praguerie: aides pretext p. 77; Dunois p. 77; Blois and the dead
+  letter pp. 78–79; Montferrand p. 80; Dauphiné/pension p. 81;
+  banishments p. 82; Languedoc 1442 p. 82); p. 231 (Commynes's
+  1.8m/4.7m, citing Commynes ed. Calmette ii. 220).
+- **Hoffman 2015, pins used (draft §§III, VII):** pp. 61–63 (Tables
+  2.5–2.6); p. 135 (Charles V's 1360s permanence via Henneman); p.
+  140 ("usually not forgotten").
+- **Lane 1973, pins used (draft §§VI, VIII):** pp. 98, 229, 238,
+  241, 251, 266–67, 267 (Foscari 1457), 364 (crews; Lepanto).
+- **Tilly 1990, pin used (draft §I):** p. 25 (no direct rule before
+  the Revolution) — register ruling (b).
+- **POINTER — T2 — Bert S. Hall, *Weapons and Warfare in
+  Renaissance Europe* (Johns Hopkins, 1997).** Entry of record at
+  ch06/sources.md (sidecar `text-2026-09-13/Hall.txt`; printed =
+  PDF−18). USED HERE: p. 49 (Ghent's "200 carts," 1382); p. 95
+  (Nuremberg 1430 inventory, 501 handguns v. 607 crossbows); p. 100
+  (the two-layers sentence on the German cities); p. 112 (small
+  arms "a fairly minor part" of the Hussite mix); p. 114
+  (crumb-powder experiments and the Hussites); pp. 120, 125
+  (private siege trains in France and Spain). Closes the §VIII
+  Hussite [GAP] per R6 (Hall, not DeVries).
+- **POINTER — T2 — Joseph R. Strayer, *On the Medieval Origins of
+  the Modern State* (Princeton, 1970).** Entry of record at
+  ch01/sources.md (sidecar `text-2026-09-13/Strayer.txt`; printed =
+  PDF−7). USED HERE: p. 54 and n. 48 (the defence-of-the-realm
+  override recognised by 1300; Pierre Jame of Montpellier; *Etsi de
+  statu* 1297) — ruling (j).
+- **POINTER — T2 — Adrian Johns, *The Nature of the Book* (Chicago,
+  1998).** Entry of record at ch11/sources.md (sidecar
+  `text-2026-09-13b/Johns.txt`; printed = PDF−23). USED HERE: pp.
+  317–20 (the quo warranto against the Stationers, 1684; the
+  reincorporation on crown terms; 1688 removing the prerogative
+  system) — ruling (x), historical half. The 1670–88 case as
+  absorption attempted and reversed is ch12's (ruling (p)); this
+  chapter cites it only as the instance of command without
+  dependence's remedy.
+
