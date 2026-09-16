@@ -955,3 +955,30 @@ STATUS: REVIEWED (Roderick, 2026-07-31 — read in full, nothing to add; no revi
     regulation (the adopted text is a retrieval row), which is
     itself the datum: the Depreter test's numerator at
     proposal stage. Both to appendix-c as baselines.
+
+15. **(2026-09-16 — Phase 5 renovation, register pass A8: ruling (e)
+    applied to the oil passages, which do not depend on Part B.
+    PENDING HUMAN REVIEW.)** Three changes in §IV, each where Standard
+    Oil is the exhibit. (i) "title left, discretion severed" → "title
+    left, discretion taken and kept" — NOTE FOR RODERICK: the old
+    wording is spine §8(c)(ii)'s own formula; it is echoed here in
+    the ruled verb, and the spine's sentence is his to conform or
+    leave. (ii) "1911 severed the private off-switch and handed it to
+    no one. The public off-switch was built across a generation …" →
+    "1911 broke the private command and handed the off-switch to no
+    one, and the same men went on running the successor companies
+    informally for a decade (Chernow 1998: ch. 27 — the 26 Broadway
+    meetings to c. 1921, Revisions 11). The public off-switch was not
+    severed from the barons; it was acquired when they could no
+    longer hold it — an industry bankrupted by East Texas 'crawling
+    to Washington on their hands and knees,' in the words Yergin
+    quotes, for a price-and-output regime the state then ran, and
+    kept (Yergin 1991: ch. 13 — sidecar located; pirate-reflow
+    caveat per sources.md) — and it was built across a generation …
+    The republic decouples in one act and acquires control across
+    decades, and what it acquires it keeps." (iii) "every instrument
+    in the republic's standing repertoire severs the same thing" →
+    "takes the same thing into public keeping, and keeps it." The lag
+    and the hybrid form stand as ruled 2 September. Everything else
+    for ch12 — (u), (w), (x), (v), (cc), §8(g) items 1–6, the quo
+    warranto, the Chastellain scenes, line 546 — is Part B (B2).

@@ -21,11 +21,11 @@ The book's causal claim has a precise logical form, and everything
 turns on it: a *mechanism under conditions*, not a law of history.
 The mechanism — capital-intensification of decisive force compelling
 permanent finance, permanent finance compelling administrative
-capacity, administrative capacity suppressing intermediate
+capacity, administrative capacity subordinating intermediate
 authorities — operated once, in the documented case Part II
 reconstructs. The book's wager is that its enabling conditions have
-recurred: a decisive capability whose price sits above what any
-subject can pay; polities with latent fiscal-administrative capacity
+recurred: a decisive capability whose establishment cost sits beyond
+what any subject can sustain; polities with latent fiscal-administrative capacity
 to mobilise; and exogenous pressure sufficient to force the
 mobilisation. Where the conditions fail, the mechanism idles — the
 book's own counter-cases are the demonstration, and they were chosen
@@ -188,9 +188,9 @@ caution, right in 1977, would be wrong now. It is about the
 the new medievalism as a possible successor system — a durable
 alternative form of universal political organisation. The book's
 history says otherwise: the first medieval order was durable for
-centuries precisely because no actor could pay the price of ending
-it, and it ended within two generations of that price becoming
-payable. A dispersal is not a settlement; it is what a settlement
+centuries precisely because no actor could carry the cost of locking
+it shut, and it became irreversible within two generations of that
+cost becoming payable. A dispersal is not a settlement; it is what a settlement
 looks like before the bill for decisive force arrives. Where Bull
 saw a possible destination, this book sees a waypoint with a
 well-documented exit — and it has tried to honour him in the only

@@ -54,10 +54,11 @@ it runs through two arguments the reader may hold apart: an argument
 about the Middle Ages, and an argument about the 2020s. The first is
 that the plural, overlapping, contractual world the medieval sources
 show us — the world before exclusive territorial sovereignty — was
-ended by an identifiable mechanism, at an identifiable price, in an
-identifiable half-century: the capital-intensification of decisive
-force, which set the cost of military decision above what any subject
-could pay, and thereby compelled the permanent taxation, the standing
+locked into consolidated units by an identifiable mechanism, at an
+identifiable cost, in an identifiable half-century: the
+capital-intensification of decisive force, which set the establishment
+cost of military decision beyond what any subject could sustain, and
+thereby compelled the permanent taxation, the standing
 institutions and the administrative reach that we retrospectively
 call the state. The second is that the same mechanism is operating
 again — through foundries, constellations, munitions lines and
@@ -121,7 +122,7 @@ neomedieval disorder persisting in the interstitial spaces (Part
 III). The book never argues that the present resembles the Middle
 Ages. Resemblance is cheap, and the genre it produces deserves its
 reputation. The book argues a causal chain — weapon capital-intensity
-to permanent finance to administrative capacity to the suppression
+to permanent finance to administrative capacity to the subordination
 of intermediate authorities — and stakes itself on the chain's being
 checkable at every link.
 
@@ -163,8 +164,8 @@ C's).
 > that is enforced and upheld, no absorption of private force, no
 > re-territorialisation of critical infrastructure [C11-1; C10-1;
 > C4-1] — and, in the one candidate asserting canon without a fisc,
-> the canon alone proves sufficient to consolidate a bloc [the
-> Depreter test, chs. 10 and 12];
+> the canon alone proves sufficient to consolidate a bloc's decisive
+> capability [the Depreter test, chs. 10 and 12];
 >
 > — then the thesis fails, and the neomedievalists were right that
 > the dispersal is stable. The book stakes itself on the opposite
@@ -231,8 +232,8 @@ that France and Burgundy "conform" to the consolidation pattern he
 resists; Curry, the gradualist, concedes that siege artillery
 "could not be provided by any other organisation than the state…
 at the level required"; and Cerny — the neomedieval literature's
-own theorist — locates the ending of the first dispersal in "the
-creative destruction of fifteenth to seventeenth century warfare."
+own theorist — locates the locking of the first dispersal into
+states in "the creative destruction of fifteenth to seventeenth century warfare."
 The disagreements that remain among these scholars are over
 ranking, tempo and sequence inside an agreed direction of travel.
 A mechanism assembled from its critics' concessions may be

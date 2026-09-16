@@ -254,3 +254,30 @@ the honest starting point the first chapter inverts.
 ---
 
 STATUS: REVIEWED (Roderick, 2026-07-31 — read in full, nothing to add; no revisions required)
+
+## Revisions (2026-09-16 — Phase 5 renovation, register pass A8; PENDING HUMAN REVIEW)
+
+Four sentences in draft.md changed under rulings (a), (b), (c) and
+(f) (research/rulings-sheet-2026-09-13.md; spine §8(h)); nothing else
+in the Introduction is touched — the wager's two-claim form, the
+walls-and-minds sentence and the democratic-control falsifiers are
+Part B (B3) and wait on the catch-up STEP 3.
+- (c)/(a) §I: "was ended by an identifiable mechanism, at an
+  identifiable price … which set the cost of military decision above
+  what any subject could pay" → "was locked into consolidated units by
+  an identifiable mechanism, at an identifiable cost … which set the
+  establishment cost of military decision beyond what any subject
+  could sustain." Carriers: Strayer pp. 9, 31–34, 57, 91; Scheidel
+  pp. 45, 193 (ch01's pins); Hoffman Tables 2.5–2.6 and Hall p. 120
+  (ch06/ch10's pins).
+- (b) §II: "the suppression of intermediate authorities" → "the
+  subordination of intermediate authorities" (Tilly p. 25; CLAUDE.md
+  §1 as reworded).
+- (f) §III condition 4: "the canon alone proves sufficient to
+  consolidate a bloc" → "to consolidate a bloc's decisive capability"
+  (Zielonka pp. 9, 55–57, 96, 162 — ch12's pins).
+- (c) §IV: "locates the ending of the first dispersal in" → "locates
+  the locking of the first dispersal into states in" (Cerny's quoted
+  words unchanged).
+Word count: 3,331 → see the Part A report. Footer unchanged (no
+quotable line touched).

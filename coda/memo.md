@@ -64,3 +64,17 @@ STATUS: REVIEWED (Roderick, 2026-09-02 — review pack)
    exhausting-war sentence for the Tilly differentiation; and
    the Tilly p. 225 blocs/corporations passage already held at
    holding note 2. Proposals only; the coda remains undrafted.
+
+4. **(2026-09-16 — Phase 5 renovation, register pass A8. PENDING
+   HUMAN REVIEW.)** Three sentences in coda/draft.md changed under
+   rulings (a), (b), (c); §V–VI's popular-control point is Part B
+   (B3) and waits on the catch-up. §I: "administrative capacity
+   suppressing intermediate authorities" → "subordinating" (Tilly p.
+   25); "a decisive capability whose price sits above what any subject
+   can pay" → "whose establishment cost sits beyond what any subject
+   can sustain" (Hoffman/Hall pins at ch10 §VII). §VI: "no actor could
+   pay the price of ending it, and it ended within two generations of
+   that price becoming payable" → "no actor could carry the cost of
+   locking it shut, and it became irreversible within two generations
+   of that cost becoming payable" — the rulings sheet's own wording
+   for (c). Carriers: Strayer pp. 57, 91; Scheidel p. 193.

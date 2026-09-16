@@ -222,7 +222,7 @@ by way of Chapter 5) holding a privately owned switch through
 which public life had
 to pass, and in no verified case did it confiscate. The method,
 every time, was regulation of the switch rather than seizure of
-the property: title left, discretion severed — by common carriage,
+the property: title left, discretion taken and kept — by common carriage,
 line-of-business firebreak, interlock ban, holding-company
 simplification, divestiture-by-spin-off or interoperability
 decree, whichever instrument fitted the dependency. The two great
@@ -233,14 +233,20 @@ Rockefeller kept every share and grew richer; what he lost, by
 sections 5 and 6 of the decree, was unified command and the right
 ever to rebuild it — wealth and power decoupled by legal
 instrument, in the instrument's own words. And the proof case
-carries a lag the compressed telling misses: 1911 severed the
-private off-switch and handed it to no one. The public off-switch
-was built across a generation — pipelines made common carriers
-from 1906, five years before the breakup; proration from 1930;
-federal interdiction of contraband oil from 1935; the
-licence-and-block powers of 1917, 1941 and 1977 — by regulation,
-not antitrust. The republic decouples in one act and acquires
-control across decades; the American settlement of its oil barons
+carries a lag the compressed telling misses: 1911 broke the private
+command and handed the off-switch to no one, and the same men went
+on running the successor companies informally for a decade (Chernow
+1998: ch. 27). The public off-switch was not severed from the
+barons; it was acquired when they could no longer hold it — an
+industry bankrupted by East Texas "crawling to Washington on their
+hands and knees," in the words Yergin quotes, for a price-and-output
+regime the state then ran, and kept (Yergin 1991: ch. 13) — and it
+was built across a generation: pipelines made common carriers from
+1906, five years before the breakup; proration from 1930; federal
+interdiction of contraband oil from 1935; the licence-and-block
+powers of 1917, 1941 and 1977 — by regulation, not antitrust. The
+republic decouples in one act and acquires control across decades,
+and what it acquires it keeps; the American settlement of its oil barons
 was made the way the French settlement of 1439–46 was made, as
 practice hardening into permanence, the dramatic act neither the
 beginning nor the end. Senator Sherman had stated the principle in
@@ -269,9 +275,9 @@ book's own tense — compelled, not accomplished: the state will
 absorb the stack. The settlement will look hybrid — licence,
 carriage, firebreak, the platforms' equity intact and their
 returns exceptional — and will be, in fact, consolidation, because
-every instrument in the republic's standing repertoire severs the
-same thing: private discretion over who computes, communicates,
-transacts and connects. Licence, and the licensing fee — the right
+every instrument in the republic's standing repertoire takes the
+same thing into public keeping, and keeps it: private discretion
+over who computes, communicates, transacts and connects. Licence, and the licensing fee — the right
 to run frontier AI at scale conferred by the state, priced by the
 state, collected as the settlement's popular revenue — sits
 exactly where Chapter 11's five moves would put it. Not
