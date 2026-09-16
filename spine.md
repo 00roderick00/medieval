@@ -416,6 +416,47 @@ What this rules, for the renovation:
    "post-democracy" and Wolin's "inverted totalitarianism" is made
    before it is claimed.
 
+### (h) Rulings of 16 September 2026 — the September-intake rulings sheet
+*Roderick's rulings on research/rulings-sheet-2026-09-13.md, returned
+16 September 2026 (research/Rulings-Sheet-2026-09-14.docx). The
+chapter-level rows are recorded in the sheet; the four that touch this
+document or the doctrine are recorded here in his words.*
+
+(b) The chain's last link is **subordinating**, not suppressing, the
+authorities between crown and subject. CLAUDE.md §2 and ch10 §I change
+with it.
+
+(d) §8(e)(6) is reworded: the defeated **saw** the fiscal apparatus,
+called it tyranny, and did not see what it bought (Fortescue).
+
+(k) England's Tudor turn is dated to the **1530s**, with the
+dissolution named as its fisc — "the dissolution is important as it
+contains a universalist power." Henry VII is the pre-settlement case
+(monopoly without a fisc, governing by recognizance); §3's "standing
+taxation established" is read for England at the dissolution.
+
+(n) The settlement **subordinates the intermediaries of the core
+polity** and rules the rest by contract, aeque principaliter; ch12 §IV
+states the American and Chinese readings in Solórzano's two forms.
+With (w): American consolidation is predicted as selective and plural
+on the composite form, disanalogy stated.
+
+(i) The governing metaphor's "people's weapon" is the pike, the
+hand-gun and the drone, not the longbow; §4 is read with this in view.
+
+(u) CLAUDE.md §1 claim 3 reworded to carry the split — see CLAUDE.md.
+
+(z) Voice: "the walls and the minds of the besieged" — yes with
+caveats: perhaps used once, in the Introduction; and the thought that
+rapid or vast technological change makes our minds feel besieged, and
+in that state we surrender quickly. Wording to be settled at the
+renovation.
+
+Deferred pending fuller explanation: (p) print as the second medium;
+(aa) the untidy-cases restatement. (y) yes with caveats to be stated.
+
+[GOVERNS: the renovation, with (g).]
+
 [GOVERNS: the renovation's treatment of ch09, ch11 §VII, ch12 §§IV and
 VII, the Coda, the Introduction's wager and Appendix C. Doctrine: the
 wording of CLAUDE.md §1 claim 3 remains as written until Roderick

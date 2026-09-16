@@ -28,7 +28,7 @@ CARRIERS: Hoffman Tables 2.5–2.6 (pp. 61–63: artillery −1.4%/yr
 Thompson in Rogers ed. pp. 279–80 (4–5% budget share; Las Navas);
 Vaughan pp. 173, 179 (the 1409 "gunpowder is not to be had"; the
 motley train at Rougemont).
-RULING: ____
+RULING: YES (Roderick, 2026-09-16)
 
 ## (b) ⚑SPINE "Suppressing" → "subordinating" the intermediaries
 DECISION: the chain's last link reads "subordinating," not
@@ -41,7 +41,7 @@ CARRIERS: Tilly p. 25 ("no European state (except, perhaps, Sweden)
 made a serious attempt to institute direct rule from top to bottom
 until the era of the French Revolution"); chs 10–11's own evidence
 (bonds, absorbed orders, licensed retaining, ranked courts).
-RULING: ____
+RULING: "Subordinating." (Roderick, 2026-09-16)
 
 ## (c) "Ended" → "locked"
 DECISION: the Introduction, ch01 §VI and the Coda say the
@@ -57,7 +57,7 @@ CARRIERS: Strayer pp. 9, 31–34, 57, 91 (the 1300 state; "still not
 very strong"; the confessed blank); Scheidel pp. 45, 193, 214, 340,
 370–71 (Table 1.1; "consolidation within, plurality between";
 four-century rebuild).
-RULING: ____
+RULING: YES (Roderick, 2026-09-16)
 
 ## (d) ⚑SPINE §8(e)(6) reworded per Fortescue
 DECISION: the defeated SAW the fiscal apparatus, called it tyranny,
@@ -68,7 +68,7 @@ passages built on it.
 CARRIERS: Fortescue pp. 114–17 ("the myght of his reaume is
 nerehande distroyed therby"; the taille and standing army described
 precisely; "gonnes"/"artillery" nowhere in his text).
-RULING: ____
+RULING: YES — the defeated saw the fiscal apparatus. (Roderick, 2026-09-16)
 
 ## (e) §8(c) oil case: "severs" → "acquires and keeps"
 DECISION: wherever Standard Oil is the exhibit, the republic
@@ -81,7 +81,7 @@ the TRC "under a disguise"; the state-run cartel kept voluntary in
 form); Chernow ch. 27 (the market already dissolving the monopoly);
 1973's discovery that the companies still held the international
 switch (Yergin ch. 29).
-RULING: ____
+RULING: YES (Roderick, 2026-09-16)
 
 ## (f) The Depreter limb narrowed
 DECISION: Introduction condition 4 reads "consolidate a bloc's
@@ -93,7 +93,7 @@ state impossible"; "power politics at its best, even though the
 term 'power' was never mentioned"), p. 96 + n. 11 (the 1.27% fisc;
 extraction as "the crucial pillar of any stateness"), p. 162 (the
 American guarantee beneath the stable plural bloc).
-RULING: ____
+RULING: YES (Roderick, 2026-09-16)
 
 ## (g) The Ottoman case exempted
 DECISION: ch11 §V's closing line ("none was executable without it")
@@ -103,7 +103,7 @@ DRAFT SENTENCES: ch11 §V closing line; §IV "the most complete
 answer to the over-mighty subject the fifteenth century produced."
 CARRIERS: Kafadar pp. 17, 96, 112–13, 139, 146–48; İnalcık pp. 11,
 21, 47, 73, 77–78, 107.
-RULING: ____
+RULING: YES (Roderick, 2026-09-16)
 
 ## (h) Spain narrowed per Elliott
 DECISION: the DEFEND-tier claim narrows from precondition of
@@ -114,7 +114,7 @@ of the same five moves"; ch05 §VII "Aragon expanding."
 CARRIERS: Elliott PDF 51, 83, 88–91 ("a society in retreat"; "in
 Castile at least"), 97–98 (the thirtyfold fisc), 172, 206, 210–11,
 364, 377–79.
-RULING: ____
+RULING: YES (Roderick, 2026-09-16)
 
 ## (i) The longbow metaphor's weapon
 DECISION: "the people's weapon: democratised, cheap, effective en
@@ -126,7 +126,7 @@ CARRIERS: Hall pp. 20, 38, 148 ("None but the king of England could
 seriously hope to employ masses of archers"; the peasant culture);
 Scott & Scribner p. 61 (the commons' forty-seven captured cannon at
 Königshofen — decisive asymmetry was train+treasury+structure).
-RULING: ____
+RULING: YES (Roderick, 2026-09-16)
 
 ## (j) The 1360s enter ch10 §III
 DECISION: 1439–46 is stated as the SECOND making of permanence, the
@@ -139,7 +139,7 @@ purpose and a term, and the grant lapsed."
 CARRIERS: Hoffman p. 135 (via Henneman) with p. 140 (the assumption
 his own case disproves); Strayer p. 54 (the defence-of-the-realm
 override, Etsi de statu).
-RULING: ____
+RULING: YES (Roderick, 2026-09-16)
 
 ## (k) ⚑SPINE England's date
 DECISION: either the English Tudor turn is dated to the 1530s with
@@ -152,7 +152,7 @@ CARRIERS: Lander pp. 13, 39–40, 54–55, 71–73, 292, 298–99; Grummitt
 pp. 233–43; DeVries XVI 142–45 (the English artillery "dark ages");
 Strayer pp. 90–92 ("England avoided any serious war for over a
 century").
-RULING: ____
+RULING: The 1530s — "the dissolution is important as it contains a universalist power." (Roderick, 2026-09-16)
 
 ## (l) The Depreter refinement relabelled
 DECISION: the two-variable reading (offices without fiscal
@@ -166,7 +166,7 @@ apparatus intact — lands, revenues, recette and guns"; ch04 §VII
 "Venice became the proto-state itself."
 CARRIERS: Depreter pp. 40–44, 69–71, 154, 182–84, Annexes 5–6;
 Lane pp. 98, 241, 249, 251, 266–67.
-RULING: ____
+RULING: YES (Roderick, 2026-09-16)
 
 ## (m) Devolution as §IV's ending and the fifth failure mode
 DECISION: ch11 §IV ends in devolution; Appendix B's Ottoman row
@@ -177,7 +177,7 @@ DRAFT SENTENCES: ch11 §IV's close as drafted; §V's closing line
 (with (g)).
 CARRIERS: Ágoston pp. 88, 93, 111, 121–23; İnalcık pp. 48–51;
 Sharman pp. 111–13.
-RULING: ____
+RULING: YES (Roderick, 2026-09-16)
 
 ## (n) ⚑SPINE The composite narrowed to the core
 DECISION: the settlement subordinates the intermediaries OF THE
@@ -189,7 +189,7 @@ path a generation later"; the four-polity five-moves claim; the
 DEFEND-tier chain's scope.
 CARRIERS: Elliott 1992 pp. 50–53, 63–64, 68–70; Elliott 1963 PDF
 89–90, 172; Scheidel pp. 195–99.
-RULING: ____
+RULING: YES — "subordinates to the core polity." (Roderick, 2026-09-16)
 
 ## (o) "Outspent" recut for England's law
 DECISION: ch08 §VII claims sequence, not payment — the settlement
@@ -201,7 +201,7 @@ argued out of existence; it was outspent"; §I "the courts followed
 the companies and the taille."
 CARRIERS: Payling pp. 10, 15–17; Baker pp. 299–322; Dean pp. 18,
 30, 49–54, 125, 137.
-RULING: ____
+RULING: YES (Roderick, 2026-09-16)
 
 ## (p) Print was not the second capital-intensive medium
 DECISION: the mandate half stands, the licensing half fell (1695);
@@ -219,7 +219,7 @@ sentence; the standardised/mandated wording.
 CARRIERS: Johns pp. 2, 19, 31, 36, 72–73, 189–90, 201, 230–34,
 248–50, 305–20, 334–78, 624–29; Eisenstein orig. 43, 347–54, 645
 (pins only — re-quote from the English edition).
-RULING: ____
+RULING: DEFERRED — Roderick asks for a fuller statement of the choice before ruling (question put 2026-09-16). (Roderick, 2026-09-16)
 
 ## (q) The papal template restated per Morris
 DECISION: ch02's template is a JURISDICTION, not a sovereignty —
@@ -231,7 +231,7 @@ Worms partition, Canossa's reach, Innocent-at-the-apex; the
 Ullmann "scholarly spine" designation.
 CARRIERS: Morris pp. 1, 112–13, 116–19, 129, 164, 213–15, 421–33,
 581–82, 653.
-RULING: ____
+RULING: YES (Roderick, 2026-09-16)
 
 ## (r) The Belloc syndrome reframed
 DECISION: drop "prophets of the knock-out blow" from the couplet;
@@ -244,7 +244,7 @@ its twentieth-century heirs" among "the prophets of the knock-out
 blow."
 CARRIERS: Belloc printed pp. 6, 10, 27, 41–42, 60, 64, 75;
 Freedman pp. 12, 56–57, 276–79; Holman (retrieval).
-RULING: ____
+RULING: YES (Roderick, 2026-09-16)
 
 ## (s) DeVries's "ratchet" defused
 DECISION: one sentence where DeVries is first cited defuses the
@@ -258,7 +258,7 @@ CARRIERS: DeVries XVIII 470 (Buchanan's ratchet-evolution); XVI
 128–29 (Rogers and Porter quoted to oppose them; Hale's
 "centralisation can be explained without reference to gunpowder
 weapons"); p. 138-not-137 Commynes correction.
-RULING: ____
+RULING: YES (Roderick, 2026-09-16)
 
 ## (t) 1525 as annihilation; the compact carried
 DECISION: ch07 carries the Speyer recess (the inter-princely
@@ -269,7 +269,7 @@ forty-seven-cannon point is stated as the captured-not-cast proof.
 DRAFT SENTENCES: ch07 §V "the same ending"; §I's absorption
 definition as applied to 1525.
 CARRIERS: Scott & Scribner pp. 3, 10, 45, 57–64, 156, 291–318.
-RULING: ____
+RULING: YES (Roderick, 2026-09-16)
 
 ---
 
@@ -281,7 +281,7 @@ opposite of what he says ("quite unwarranted"; "a cross-section of
 society… but little more"); the "eighteen squires, two MPs" tally
 is not in Griffiths. Re-source to Harvey 1991/Bohna 2003 (retrieval
 rows) with Griffiths recorded as the dissent — or cut the tally.
-RULING: ____
+RULING: RE-SOURCE (Harvey/Bohna; Griffiths as dissent). (Roderick, 2026-09-16)
 
 ## R2. The Howard sentence (ch06 §VI)
 "Castillon was in no sense a victory for field artillery" is not in
@@ -290,58 +290,58 @@ index; assessor's guess: a misremembered Bert Hall). Restage the
 dissent on Howard's real pp. 30–31 and DeVries X 348/XVI 132–33 —
 or cut the attribution. Howard's printed p. 14 also carries a
 scan-lost block: PENDING VERIFICATION against a physical copy.
-RULING: ____
+RULING: RESTAGE on Howard pp. 30–31 and DeVries. (Roderick, 2026-09-16)
 
 ## R3. The bocche di leone (ch04 §VI)
 Not in Lane (searched). Re-point to Chambers & Pullan (retrieval
 row) — or cut.
-RULING: ____
+RULING: RE-POINT to Chambers & Pullan. (Roderick, 2026-09-16)
 
 ## R4. The twelve thousand of Rouen (ch06 §IV)
 The figure is not carried by Barker (pp. 22–23 have the expelled
 dying in the ditch, no number). Source elsewhere — or cut.
-RULING: ____
+RULING: CUT. (Roderick, 2026-09-16)
 
 ## R5. The Colleoni captaincy (ch04 §II/§V)
 "Captain-general for life (1455)" is not in Lane, and "the loyal
 one" is wrong on his account (the 1467 Romagna adventure; the
 deathbed sequestration). Re-pin the date elsewhere and rewrite as
 Colleoni's bargain — or cut.
-RULING: ____
+RULING: REWRITE as Colleoni's bargain; re-pin the date. (Roderick, 2026-09-16)
 
 ## R6. The Hussite material in DeVries (ch10 §VIII)
 The Hussite [GAP] closes from Hall (pp. 95, 112–14), not from the
 DeVries volume; any Hussite claim pinned to DeVries re-sources to
 Hall — or is cut.
-RULING: ____
+RULING: RE-SOURCE to Hall. (Roderick, 2026-09-16)
 
 ## R7. Cadillac's storming (ch06 §VI)
 Three accounts now conflict (Vale: execution 17 Sept; Escouchy:
 storm 19 Sept; Hall p. 118: capitulation 27 Sept after eight days'
 bombardment). "The only storming in the record" cannot stand until
 resolved at the sources — or the superlative is cut.
-RULING: ____
+RULING: RESOLVE at the sources before the superlative stands. (Roderick, 2026-09-16)
 
 ## R8. The devşirme one-in-forty (ch11 §IV)
 No ratio in İnalcık (p. 78: 1,000–3,000 boys annually, levies every
 three-to-seven years). Source the ratio — or cut it.
-RULING: ____
+RULING: CUT. (Roderick, 2026-09-16)
 
 ## R9. "Some five thousand men of Kent" (ch07 §I)
 Unsourced in Griffiths (contemporaries' 20,000–60,000 "notional").
 Source — or cut.
-RULING: ____
+RULING: SOURCE (retrieval), else cut. (Roderick, 2026-09-16)
 
 ## Appended 2026-09-14 — rows from the second-reader review (see research/decisions-briefing-second-reader-2026-09-14.md for the four-column statement of each)
 
 | Row | Decision (one sentence) | Draft sentences changed | Carriers | Touches spine/doctrine? | RULING |
 |---|---|---|---|---|---|
-| (u) [= briefing decision 0] | Split claim 3: the barons' subordination (mechanism) from the constitutional form of the consolidated state (open, scored); "ornamental democracy" as a scoreable outcome; Bagehot as bridge | ch12 §VII close; Coda §V; Introduction's wager; ch09's subject | Tilly pp. 207–8; Elliott 1992; Ágoston; Bagehot (to retrieve) | YES — CLAUDE.md §1 claim 3; new spine §8(g) | YES (Roderick, 2026-09-14) — filed as spine §8(g); CLAUDE.md §1 wording untouched pending his edit |
-| (v) [decision 1] | Itemise what the barons lose (refusal, infrastructure access, succession, operational knowledge, rule-setting) and keep (wealth, standing) | ch11 §VII; ch12 §§IV, VII | Lander; Fortescue; Lane; Chastellain t. III (UNVERIFIED) | No | |
-| (w) [decision 2 — rule with (n)] | American consolidation predicted as selective and plural, on the composite-monarchy form, disanalogy stated | ch11 §V; ch12 §IV | Elliott 1992, 1963 | No (refines §8(b)/(c)) | |
-| (x) [decision 3] | Distinguish command, dependence and capture; predict command-with-dependence for the platform settlement | ch10 §VIII; ch12 §IV | Johns; Lane; Miller; Farrell & Newman (unassessed); Chastellain t. III (UNVERIFIED) | No | |
-| (y) [decision 4] | Recast Talbot as the expert whose system stopped supplying the means; keep the plot/intention distinction visible | ch06 §VI | Barker (Dieppe); Vale (Caen plot) | No (within §8(e)/(f)) | |
-| (z) [decision 5] | Make "the walls and the minds of the besieged" the book's recurring image, with the dissent-is-not-siege discipline written in | ch06 §IV; ch09; ch12 | Blondel in Stevenson p. 152 (verify) | Voice only | |
-| (aa) [decision 6 — rule with (a)] | Drop "controlled comparisons"; restate the proof as an organised system making resistance unaffordable; establishment v. weapon, planned v. collected | ch06 §§I, VII; ch10 | Barker; Hall; Depreter; Cosneau; Grummitt | No | |
-| (bb) [decision 7] | Ch09 takes constitutional appearance v. effective power (minority v. incapacity); ch07 gives the commons consequences for the settlement | ch09 throughout; ch07 §§V, VII | Griffiths; Lander p. 76; Scott & Scribner; Payling; Lane | Outline conflict to check for ch09 — flag, not resolve | |
-| (cc) [decision 8] | Cut "critics can only refine"; score four blocs separately at four levels; a failed American prediction is a failure | ch12 l. 546; Introduction; Appendix C | Chastellain (predictions; UNVERIFIED) | Sharpens CLAUDE.md §2's falsifiability rule — inside doctrine | |
+| (u) [= briefing decision 0] | Split claim 3: the barons' subordination (mechanism) from the constitutional form of the consolidated state (open, scored); "ornamental democracy" as a scoreable outcome; Bagehot as bridge | ch12 §VII close; Coda §V; Introduction's wager; ch09's subject | Tilly pp. 207–8; Elliott 1992; Ágoston; Bagehot (to retrieve) | YES — CLAUDE.md §1 claim 3; new spine §8(g) | YES (Roderick, 2026-09-14) — filed as spine §8(g). CLAUDE.md §1 claim 3: "Yes change it" (2026-09-16) — reworded, see CLAUDE.md |
+| (v) [decision 1] | Itemise what the barons lose (refusal, infrastructure access, succession, operational knowledge, rule-setting) and keep (wealth, standing) | ch11 §VII; ch12 §§IV, VII | Lander; Fortescue; Lane; Chastellain t. III (UNVERIFIED) | No | YES (Roderick, 2026-09-16) |
+| (w) [decision 2 — rule with (n)] | American consolidation predicted as selective and plural, on the composite-monarchy form, disanalogy stated | ch11 §V; ch12 §IV | Elliott 1992, 1963 | No (refines §8(b)/(c)) | YES (Roderick, 2026-09-16) |
+| (x) [decision 3] | Distinguish command, dependence and capture; predict command-with-dependence for the platform settlement | ch10 §VIII; ch12 §IV | Johns; Lane; Miller; Farrell & Newman (unassessed); Chastellain t. III (UNVERIFIED) | No | YES (Roderick, 2026-09-16) |
+| (y) [decision 4] | Recast Talbot as the expert whose system stopped supplying the means; keep the plot/intention distinction visible | ch06 §VI | Barker (Dieppe); Vale (Caen plot) | No (within §8(e)/(f)) | YES WITH CAVEATS — caveats to be stated (asked 2026-09-16). (Roderick, 2026-09-16) |
+| (z) [decision 5] | Make "the walls and the minds of the besieged" the book's recurring image, with the dissent-is-not-siege discipline written in | ch06 §IV; ch09; ch12 | Blondel in Stevenson p. 152 (verify) | Voice only | YES WITH CAVEATS — "maybe only use it once, in the introduction. Maybe rapid or vast technological change makes our minds feel besieged and in that state we surrender quickly?" (Roderick, 2026-09-16) |
+| (aa) [decision 6 — rule with (a)] | Drop "controlled comparisons"; restate the proof as an organised system making resistance unaffordable; establishment v. weapon, planned v. collected | ch06 §§I, VII; ch10 | Barker; Hall; Depreter; Cosneau; Grummitt | No | DEFERRED — Roderick asks for a fuller explanation before ruling (put 2026-09-16). (Roderick, 2026-09-16) |
+| (bb) [decision 7] | Ch09 takes constitutional appearance v. effective power (minority v. incapacity); ch07 gives the commons consequences for the settlement | ch09 throughout; ch07 §§V, VII | Griffiths; Lander p. 76; Scott & Scribner; Payling; Lane | Outline conflict to check for ch09 — flag, not resolve | YES (Roderick, 2026-09-16) |
+| (cc) [decision 8] | Cut "critics can only refine"; score four blocs separately at four levels; a failed American prediction is a failure | ch12 l. 546; Introduction; Appendix C | Chastellain (predictions; UNVERIFIED) | Sharpens CLAUDE.md §2's falsifiability rule — inside doctrine | YES (Roderick, 2026-09-16) |

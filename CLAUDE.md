@@ -31,6 +31,15 @@ Three claims in sequence:
    munitions stack + identity-payments-legibility stack) is running now and
    predicts parallel Tudor settlements inside three or four blocs, with
    durable neomedieval disorder persisting in the interstitial spaces.
+   The prediction is two claims, scored separately: (i) the independent
+   technological powers are subordinated to the state — the mechanism;
+   (ii) the constitutional form of the state that absorbs them is open,
+   and in the democratic bloc may be ornamentally democratic —
+   legitimating authority demonstrably separated from effective control
+   of the state's strategic commitments — as well as democratic. The
+   barons' loss of independence and the people's acquisition of control
+   are not assumed to be the same event. (Reworded 2026-09-16 on
+   Roderick's ruling, spine §8(g); rulings sheet (u).)
 
 ## 2. Mechanism, not analogy (the book's spine — enforce everywhere)
 - The book NEVER argues "the present resembles the Middle Ages." It argues a
