@@ -392,3 +392,81 @@ STATUS: REVIEWED (Roderick, 2026-07-22) — cleared for drafting
      regionally-vindicated Bull for §III's threshold claim
      (with his global caution answered from ch03's industry and
      the arbitral record, dated 2005).
+
+## Revisions (2026-09-16 — Phase 5 renovation, PENDING HUMAN REVIEW)
+
+1. **(Ruling (c) applied; the Nicholson dating; Strayer engaged by
+   name; the Interregnum re-dated; register row (b) checked. Pins:
+   Strayer and Scheidel per the sources.md entries of 2026-09-13,
+   each re-located in the sidecar this date; Nicholson 2001 p. 26
+   per the assessment.)** Word count 4,578 → 5,147. The §III
+   [DELTA] is untouched; no [BRIDGE] exists in this chapter.
+   - §I — OLD: "how the *first* medieval condition ended — by what
+     specific mechanism…". NEW: "how the *first* medieval condition
+     was locked shut — by what specific mechanism…".
+   - §II, the orders — OLD: "Temple, Hospital, the Teutonic Knights
+     with their own territorial state in the making … [GAP:
+     … Nicholson/Forey]". NEW: "Temple and Hospital, and from 1198
+     the Teutonic Knights, whose Prussian state was a project of
+     the 1230s and not of 1200 … (the dating from Nicholson 2001:
+     26)" — the [GAP] retained and re-worded to name Forey or
+     Nicholson's *history* of the orders, with the note that the
+     Nicholson volume in corpus (*Love, War and the Grail*) is the
+     romance study and supplies the dating only. Re-dated, not
+     dropped: the Knights stay in the list on the same footing the
+     paragraph gives the Hansa.
+   - §II, the durability sentence — Strayer's dissent recorded by
+     name ("the two pillars of the medieval state were the
+     Treasury and the High Court," p. 33; "a little more real
+     every decade," p. 31) and answered on his own terms ("still
+     not very strong," p. 57; no state could impose unpopular
+     measures on groups with standing, p. 61) — "a tendency toward
+     the state, not a state that could not be undone." OLD: "then
+     its ending requires a cause". NEW: "then its locking into
+     units requires a cause".
+   - §II, the Interregnum — OLD: "after Frederick II's death in
+     1250, the Great Interregnum — a quarter-century in which…".
+     NEW: "after the Staufer collapse that followed Frederick II's
+     death in 1250, the Great Interregnum of 1254 to 1273 —
+     nineteen years in which… (the dates from Scheidel 2019: 166)".
+   - §IV close — "the first ending of" → "the first locking of".
+   - §VI — OLD: "Something ended the first medieval order: …
+     dissolved the universalisms, disarmed the lords, subordinated
+     the cities…". NEW: "Something locked the first medieval order
+     shut: … annexed the universalisms, disarmed the lords,
+     subordinated the cities…" ("annexed" conforms to ch02 §VI's
+     Henrician settlement), followed by a new passage: "The verb is
+     chosen with care. The plural order was not ended; what was
+     locked was the overlapping of authorities *within* a
+     territory, and the plurality *between* the units so made
+     hardened as it happened" — Scheidel p. 193 quoted
+     ("strengthened the polycentric state system of Latin Europe:
+     the remaining parties were fewer in number but more capable
+     and resilient than before"), the states system as
+     polycentrism's mature form; Strayer's trellis (p. 8) and his
+     confessed blank (p. 91, "it is difficult to decide"; "may have
+     been impressed by the failure of most late fifteenth-century
+     rebellions") quoted with attribution; "The trellis is
+     Strayer's. The ratchet … is the book's own claim" — tier (c)
+     stated as (c). OLD: "watch the first dispersal die — not of old
+     age, and not of ideas, but of something with a price…". NEW:
+     "watch the first dispersal locked shut — not by old age, and
+     not by ideas, but by something with a price…".
+   - Footer: word count, [GAP] list and draft Revisions 5 added.
+   - Register (A8): "subordinated the cities" already carried the
+     ruled verb; "suppress" does not occur; every "ended"/"ending"
+     that stated the plural order's fate is now "locked".
+   - NOT DONE at the pin: the §II Innocent III [GAP: Morris] — the
+     Morris sentences (pp. 431–33) are in ch02's sources.md, not
+     this chapter's; closing it needs a ch01 sources entry and is
+     an upgrade-pass item, outside ruling (c). The Staufer count
+     (Scheidel p. 169), Bobbitt and Zielonka ADDS from the
+     13 September entry — not reached by a ruling; left for the
+     upgrade pass. "Since 2022" (§IV) → Brands/Miller dating — a
+     correction of fact listed in the 13 September entry but not in
+     the Phase 5 instruction for ch01; NOT applied, flagged for
+     Roderick.
+   - No outline conflict.
+
+STATUS: PENDING HUMAN REVIEW (this entry); the memo body REVIEWED
+as before.

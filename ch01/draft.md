@@ -47,9 +47,10 @@ diagnosis at full strength, run its tests against the present, and
 accept what the tests show — before the rest of the book does what
 the literature never did. For the neomedieval writers described a
 condition. They did not ask, with any persistence, how the *first*
-medieval condition ended — by what specific mechanism Europe's
-overlapping authorities were, over one long century, hammered into
-the exclusive territorial states we mistake for nature. That question
+medieval condition was locked shut — by what specific mechanism
+Europe's overlapping authorities were, over one long century,
+hammered into the exclusive territorial states we mistake for
+nature. That question
 is Part II's, and its answer is the book's. This chapter only earns
 the right to ask it: by establishing that the condition is real, that
 the diagnosis is sound, and that the thing being diagnosed has
@@ -87,10 +88,14 @@ never equalling sovereignty — contested from inside. Beneath and
 between the universalisms, the modal political units of the age
 were exactly the entities a Westphalian taxonomy cannot classify:
 the free city subject to no one but the emperor; the military
-order — Temple, Hospital, the Teutonic Knights with their own
-territorial state in the making — supranational, papally
-chartered, armed [GAP: scholarly statement awaits Nicholson/Forey,
-on the borrow list]; the merchant league negotiating with kings.
+order — Temple and Hospital, and from 1198 the Teutonic Knights,
+whose Prussian state was a project of the 1230s and not of 1200 —
+supranational, papally chartered, armed (the dating from Nicholson
+2001: 26) [GAP: the scholarly statement of the orders as
+autonomous supranational actors awaits Forey, or Nicholson's
+history of the orders; the Nicholson volume in corpus is her study
+of the orders in romance and carries the dating only]; the
+merchant league negotiating with kings.
 (Precision about dating, because this book has a rule about it:
 the Hanseatic League crystallised as a named confederation across
 the thirteenth and fourteenth centuries — around 1200 it is
@@ -115,8 +120,20 @@ was durable. It reproduced itself for centuries; contemporaries
 did not experience it as transitional; and no internal tendency
 was visibly carrying it toward the exclusive territorial state —
 a point on which the neomedieval theorists and this book agree,
-and on which everything turns, because if the first plural order
-was stable in itself, then its ending requires a cause, and the
+and on which everything turns. Joseph Strayer would enter a
+dissent here, and it is recorded: on his account England and
+France by 1300 already possessed permanent, impersonal
+institutions — "the two pillars of the medieval state were the
+Treasury and the High Court" — and "in each country the
+theoretical supremacy of the king became a little more real every
+decade" (Strayer 1970: 31, 33). The book accepts the institutions
+and holds its point on his own terms, for the state of 1300 was,
+as he says himself, "still not very strong": it could not impose
+unpopular measures on any group with standing, and it was
+reversible (Strayer 1970: 57, 61) — a tendency toward the state,
+not a state that could not be undone. If the first plural order
+was stable in itself, or was being slowly trellised without being
+closed, then its locking into units requires a cause, and the
 cause must be found rather than assumed. That is the trailhead of
 Part II, marked now, walked later.
 
@@ -129,11 +146,12 @@ the times and places where plurality was densest, because those
 are what the modern condition most resembles. The exemplary case
 is northern Italy in the mid-thirteenth century: the expansionist
 communes; the Guelph–Ghibelline contest structuring the politics
-of every city; and, after Frederick II's death in 1250, the Great
-Interregnum — a quarter-century in which the universal political
-authority of Latin Christendom was, in effect, vacant, and
-nothing collapsed, because the working order had never depended
-on its occupancy [GAP: the scholarly anchor awaits Jones, *The
+of every city; and, after the Staufer collapse that followed Frederick II's
+death in 1250, the Great Interregnum of 1254 to 1273 — nineteen
+years in which the universal political authority of Latin
+Christendom was, in effect, vacant, and nothing collapsed, because
+the working order had never depended on its occupancy (the dates
+from Scheidel 2019: 166) [GAP: the scholarly anchor awaits Jones, *The
 Italian City-State*, on the acquisition list]. A second regional
 baseline — the mid-century Rhineland — is the outline's intended
 companion case, and it is deliberately *not* asserted here: the
@@ -359,7 +377,7 @@ Six characteristics; five fit the present cleanly on primary
 evidence; the sixth fits it badly in exactly the direction the
 book's thesis requires. The checklist is the diagnostic
 instrument, not the argument — the dispersal it documents is the
-condition Part II will explain the first ending of.
+condition Part II will explain the first locking of.
 
 ## V.
 
@@ -435,14 +453,34 @@ deliberately left standing. The neomedieval literature, taken
 whole, is a diagnosis without a history: it describes the
 plural condition, dates its return, debates its stability — and
 treats the five-hundred-year interruption as background. But
-the interruption is the interesting part. Something ended the
-first medieval order: some force, operating in identifiable
+the interruption is the interesting part. Something locked the
+first medieval order shut: some force, operating in identifiable
 decades, made the overlapping authorities of 1200 into the
-exclusive sovereignties of 1700 — dissolved the universalisms,
+exclusive sovereignties of 1700 — annexed the universalisms,
 disarmed the lords, subordinated the cities, and para-
 doxically produced, out of the densest plurality in European
 history, the most exclusive form of political authority ever
-devised. The literature's founder pointed at the period and
+devised. The verb is chosen with care. The plural order was not
+ended; what was locked was the overlapping of authorities
+*within* a territory, and the plurality *between* the units so
+made hardened as it happened. Walter Scheidel's long view is the
+measure of that: state consolidation after the fourteenth century
+"strengthened the polycentric state system of Latin Europe: the
+remaining parties were fewer in number but more capable and
+resilient than before" (Scheidel 2019: 193) — the states system
+being polycentrism's mature form, not a break in it. And the
+trellis on which the consolidating states grew was older than
+the lock. Strayer's institutions of 1300 were real, and it was
+he who wrote that such institutions "may form a trellis on which
+the idea of the state can grow" (Strayer 1970: 8). What he could
+not say was what changed the behaviour of the possessing classes
+in the late fifteenth century — "it is difficult to decide," he
+wrote, and offered that some of them "may have been impressed by
+the failure of most late fifteenth-century rebellions" (Strayer
+1970: 91). The trellis is Strayer's. The ratchet — the thing that
+made the growth irreversible, and the reason those rebellions
+failed — is the book's own claim, and it is Part II's business.
+The literature's founder pointed at the period and
 moved on; its systematiser named the pressure in a footnoted
 aside. This book proposes to walk in. What follows in Part I
 completes the diagnosis — the institutions that now hold the
@@ -450,17 +488,17 @@ Church's old position (Chapter 2), the private violence that
 now holds the retinue's (Chapter 3), the contract polities
 that now hold the condottiere's (Chapter 4), and the hollow
 crowns above them all (Chapter 5). Then Part II goes to the
-fifteenth century to watch the first dispersal die — not of
-old age, and not of ideas, but of something with a price, a
+fifteenth century to watch the first dispersal locked shut — not
+by old age, and not by ideas, but by something with a price, a
 payroll and a date. The reader is asked to hold the question,
 because the book's entire wager rests on its answer having
 been, once already, a matter of record.
 
 ---
 
-*Draft ends. Word count ~4,700 (memo-limited; Morris,
-Nicholson/Forey, Jones and the Rhineland monographs will thicken
-§§II–III at the upgrade pass; the Rhineland baseline is deliberately
+*Draft ends. Word count ~5,000 (Strayer and Scheidel entered at
+the Phase 5 renovation, 2026-09-16; Morris, Forey, Jones and the
+Rhineland monographs will thicken §§II–III at the upgrade pass; the Rhineland baseline is deliberately
 not asserted per Revisions 2/4). Voice-discipline ledger (per the
 2026-08-01 doctrine: counted as produced, checked against standing
 scholarship): coined concept — NONE (new medievalism is Bull's;
@@ -469,8 +507,9 @@ vivid image — the map of obligations as "a page written over many
 times with nothing fully erased" (§II); aphoristic line — "The state
 is not the default of European politics; it is an episode" (§VI).
 No [BRIDGE] passages (the chapter is diagnostic; the medieval
-material is baseline, not analogy). [GAP] flags: Morris; Nicholson/
-Forey; Jones (Bull's caution [GAP] closed 2026-08-03; a [DELTA] on
+material is baseline, not analogy). [GAP] flags: Morris; Forey (or Nicholson's history of the
+orders — the Nicholson volume in corpus supplies the 1198 dating
+only); Jones (Bull's caution [GAP] closed 2026-08-03; a [DELTA] on
 his per-trend tests flagged in §III for the rewrite). Estimates
 flagged inline
 (Ocean Tomo; shadow economy; crypto). Does not assume ch06's
@@ -526,8 +565,24 @@ Roderick reviewed the Batch 2 drafts: approved with revisions.
    present fix changes only the referring sentence. The §III
    [DELTA] is untouched, reserved.
 
+5. **(2026-09-16 — Phase 5 renovation: ruling (c); the Nicholson
+   dating; Strayer; the Interregnum; register (b). PENDING HUMAN
+   REVIEW.)** §§I, IV and VI stop saying the plural order was
+   *ended* and say it was *locked* — overlapping authority within
+   the territory locked into units while plurality between them
+   hardened (Scheidel 2019: 193 quoted; Strayer 1970: 8, 91 — the
+   trellis his, the ratchet the book's, stated as such); §II
+   records Strayer's dissent on the substrate (pp. 31, 33) and the
+   book's answer on his own terms (pp. 57, 61); §II re-dates the
+   Teutonic Knights (militarised 1198, Prussia a project of the
+   1230s — Nicholson 2001: 26) and the Great Interregnum
+   (1254–73, nineteen years — Scheidel 2019: 166). Full old/new
+   record in ch01/memo.md Revisions (2026-09-16). The §III [DELTA]
+   untouched. Ledger: no new coinage; aphorism unchanged.
+
 ---
 
 STATUS: REVIEWED (Roderick, 2026-08-02) — approved with revisions
 applied. Revisions 3 (Bull direct quotes; the tests [DELTA]) PENDING
-HUMAN REVIEW; Revisions 4 (Phase 4 Run A) PENDING HUMAN REVIEW.
+HUMAN REVIEW; Revisions 4 (Phase 4 Run A) and 5 (Phase 5
+renovation) PENDING HUMAN REVIEW.

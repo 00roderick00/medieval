@@ -238,7 +238,10 @@ quotation.*
   of citing him. DISPUTE RECORDED: Strayer v. Morris on the
   Gregorian origin (ch02 critiques this date); Strayer v.
   McFarlane on the disorder's cause (economic pressure v.
-  inadequate kingship).
+  inadequate kingship). PINS USED IN DRAFT (Phase 5 renovation,
+  2026-09-16, ruling (c)): pp. 8, 31, 33, 57, 61, 91 — §II (the
+  dissent recorded and answered) and §VI (trellis; the confessed
+  blank).
 
 - **T2 — Walter Scheidel, *Escape from Rome* (Princeton, 2019)** —
   IN REPO (sidecar `text-2026-09-13/Scheidel.txt`; printed =
@@ -269,6 +272,10 @@ quotation.*
   bloc boundary; the Great Elector's "compel us to follow their
   example" (p. 369) for ch12 §II. His account of 1250–1500 is
   one sentence — the manuscript's opening, to be said by name.
+  PINS USED IN DRAFT (Phase 5 renovation, 2026-09-16): p. 166
+  (Interregnum 1254–73, §II); p. 193 ("strengthened the polycentric
+  state system… fewer in number but more capable and resilient,"
+  §VI) — both re-located in the sidecar this date.
 
 - **T2 — Jan Zielonka, *Europe as Empire* (OUP, 2006/2007)** — IN
   REPO (sidecar `text-2026-09-13/Zielonka.txt`; printed = PDF−13
@@ -297,15 +304,21 @@ quotation.*
   ("Imperial Metaphors") to retrieval for the concentric-circles
   pin; Appendix A §IV entry to be rewritten accordingly.
 
+- **T2 (dating only) — Helen Nicholson, *Love, War and the Grail:
+  Templars, Hospitallers and Teutonic Knights in Medieval Epic and
+  Romance, 1150–1500* (Brill, 2001)** — IN REPO (sidecar
+  `text-2026-09-13b/Nicholson.txt`; printed = PDF−16). NOT the
+  history of the orders the RETRIEVAL LIST wants (that is her 1993
+  *Images of the Military Orders* or Forey 1992); a study of the
+  orders in fiction. USED IN DRAFT (Phase 5 renovation, 2026-09-16)
+  for one fact only: the Teutonic Order "did not become a Military
+  Order until 1198" (p. 26) — §II's clause re-dated accordingly.
+  The §II [GAP] stays open for Forey.
 - **Pointers:** Bobbitt enters §III–§VI beside Bull as the second
   founder who named the condition and mistook its tense (full
   entry at ch12 this date; the three paradoxes p. 234; "withering
   away… highly implausible" p. xxx as ally). The Teutonic-Order
-  dating correction from the archived Nicholson (militarised
-  1198; no Prussian state in 1200 — Nicholson p. 26; Morris's
-  Golden Bull of Rimini 1226 and 1234 papal fief at ch02):
-  re-date §II's clause "by the mid-thirteenth century" or drop
-  the Knights from the c. 1200 list. The Brands/Miller dating
+  dating correction (above) APPLIED 2026-09-16. The Brands/Miller dating
   correction to §IV: "since 2022" → the doctrinal turn is 2017,
   the first decisive-layer control 2019–20, visible since 2022.
   Freedman's van Creveld/Jackson/Norton items for the §V
