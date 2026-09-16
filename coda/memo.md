@@ -723,3 +723,90 @@ scenario in §IV's table.
 
 STATUS (Revisions 5–18, the Part B3 section and the register decisions):
 PENDING HUMAN REVIEW. Draft unchanged this run.
+
+## Revisions (2026-09-16 — Phase 5 renovation, Part B3: rulings (u), (z), (cc); spine §8(g). PENDING HUMAN REVIEW.)
+
+*Executed against research/claude-code-instruction-phase5-renovation-2026-09-16.md
+Part B3, spine §8(g) items 1–6 and §8(h)(u), CLAUDE.md §1 claim 3 as
+reworded, and the "For Part B3" section above. Every pin below is in
+coda/sources.md's 2026-09-16 pointer block and was re-opened at the
+sidecar this date (Crouch-PostDemocracy.txt ll. 76, 224, 327; Bagehot.txt
+ll. 1228–1241, 2186; Stasavage.txt l. 1424; Tilly-1975 l. 576). Ruling
+(z) does not reach the coda (the image is the Introduction's, once);
+ruling (cc) reaches §IV only as the sub-wager's entry. Part A's
+applications of (a), (b), (c) — holding note 4 — confirmed standing:
+§I "subordinating", "establishment cost … sustain"; §VI "became
+irreversible within two generations". Not redone.*
+
+**§V — sentences changed.**
+- OLD: "Four disclaimers, stated flatly because each has been earned by
+  a chapter." NEW: "Five disclaimers, stated flatly because each has
+  been earned by a chapter."
+- OLD: "the book predicts, and declines to bless. And it does not claim
+  that history repeats: …" NEW: "the book predicts, and declines to
+  bless. It does not claim that history repeats: …" (the connective
+  moved to the new fifth disclaimer so that the list still closes on
+  "And").
+- NEW paragraph, the fifth disclaimer ("And it does not claim that the
+  settlement is democratic. …"), with pins: the two claims (CLAUDE.md
+  §1 claim 3 as reworded; spine §8(g)(1)); the form open (Glete pp.
+  195, 212 in the pointer block, not cited in text); the term as
+  Chapter 12's, defined once, a special case of post-democracy (ch12
+  memo "For Part B2", (mm); Crouch 2000: PDF 2 — "while the forms of
+  democracy remain fully in place … slipping back into the control of
+  privileged elites"; PDF 8 — "it is difficult to dignify it as
+  democracy itself"; both verified); Bagehot's distinction (PDF 21 —
+  "the DIGNIFIED parts … the EFFICIENT parts"; verified), his valuation
+  refused (PDF 28, 101 — pins as recorded in the pointer block, not
+  re-quoted), the never-decoration disanalogy (PDF 21 — "those which
+  bring it force"; spine §8(g)(5)), "We must not let in daylight upon
+  magic" (PDF 37; verified) as the sub-wager's fragility; the Castilian
+  portrait (Stasavage 2011 ch. 7 part0014_split_008–009 — the cities
+  "gradually lost control over their representatives"; the 1665
+  abolition "under one of the weakest of Habsburg monarchs"; ch. 8
+  part0015_split_002 — "maintain the institution but without it serving
+  its intended purpose"; all verified); the fiscal mechanism (Tilly
+  1975 pp. 613, 625 — "abridgements of political rights"; "a widespread
+  suppression of political rights and participation"; Tilly 1985 "How
+  States Formed" para 1 — "guarantees of rights, representative
+  institutions, courts of appeal"; the stack-rents extension MARKED as
+  the book's (c) and pointed to Chapter 12, per spine §8(g)(4)); the
+  four falsifiers (spine §8(g)(2)) pointed to the Introduction §III and
+  Appendix C; democracy and liberalism scored separately, credited
+  (Crouch 2000: PDF 5 — "evidence of a strong liberal society; but this
+  is not the same as a strong democracy"; verified).
+- Consensus / contested / book: Bagehot's distinction and Crouch's
+  condition are T2/T3 as graded in the pointer block; the Castilian
+  facts are T2; the special-case relation, the falsifiers, the
+  stack-rents extension and the reading of the Cortes as the ornamental
+  settlement's portrait are the book's (c). Wolin's half of the
+  §8(g)(6) ledger check remains owed (not in corpus); the coda names
+  only Crouch and claims no coinage.
+
+**§VI — sentence added (ruling (u)).** After "before the bill for
+decisive force arrives.": "What the record documents is the exit's
+first half — the subordination of the intermediaries under a permanent
+fisc; who then held the consolidated apparatus is a question the record
+answers differently in each polity, and the book carries it as an open
+second claim rather than folding it into the first." Carrier: the
+chapter record (ch10–ch11) and spine §8(g)(1); no new work.
+
+**§IV — sentence added (ruling (cc)).** After "and to none softer.":
+the sub-wager recorded as an addition to the wager, not a narrowing,
+scored apart from conditions 1–4, "so that the book can be marked wrong
+about the barons and about the people separately." The delta table is
+not changed. The Chastellain prophecy specimen (coda-i / ch12 (uu)) is
+NOT placed — its placement is a PROPOSED row, unruled.
+
+**Not done, and why.** coda-b, coda-c, coda-d, coda-e, coda-f, coda-g,
+coda-h, coda-j (the 2026-09-16 append rows (cccc)–(ffff)) are PROPOSED
+and unruled; nothing under them was applied. The confessed-limit
+paragraph is untouched. Krasner's "invitation" is not used (row (ii)
+unruled). Word count: 2,266 → see the Part B3 report.
+
+**Voice ledger.** Coined concept — NONE (unchanged; the term used is
+ch12's, so cited). Vivid image — unchanged. Aphoristic line —
+unchanged. The two quotable lines the fifth disclaimer carries are
+Crouch's and Bagehot's, attributed inline.
+
+STATUS: PENDING HUMAN REVIEW.

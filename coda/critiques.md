@@ -264,6 +264,20 @@ CC-8; ch11 (jj)).
 No [GAP], [VERIFY] or [SOURCE] flag in coda/draft.md (checked
 2026-09-16). Nothing CLOSABLE AT RENOVATION or RE-SOURCE OR CUT.
 
+## Note (2026-09-16 — Phase 5 Part B3, PENDING HUMAN REVIEW)
+
+Objections 3 and 4 now have their draft-side answer in §V's fifth
+disclaimer: the barons' subordination and the people's control stated
+as two claims scored apart; Crouch's condition named as the genus of
+Chapter 12's "ornamental democracy" and his liberal/democratic
+distinction credited; Bagehot's distinction taken, his valuation
+refused, the never-decoration disanalogy carried, and "daylight upon
+magic" conceded as the sub-wager's fragility. Objection 3's residue
+(Crouch's no-return parabola as the named alternative in §VI) is NOT
+carried — the multi-path concession is a PROPOSED row, unruled. The
+first item of the Perplexity checklist below is now answerable against
+the draft; items 2–5 remain unexecuted (PROPOSED rows).
+
 ## For the Perplexity second-opinion run (log after the Part B3 rewrite)
 
 - Does §V carry the fifth disclaimer with Crouch, Bagehot and Stasavage

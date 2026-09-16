@@ -131,11 +131,16 @@ the book was built.
 A wager that tightens itself under research is behaving as a wager
 should; a wager that loosens is becoming unfalsifiable. The reader
 is invited to hold the book to the published version and to none
-softer.
+softer. One thing was added rather than narrowed, late, and the
+table does not carry it because it tightened nothing that was
+already there: the sub-wager on the settlement's constitutional
+form, stated in the Introduction with four falsifiers of its own and
+scored apart from the four conditions above, so that the book can be
+marked wrong about the barons and about the people separately.
 
 ## V. What the book does not claim
 
-Four disclaimers, stated flatly because each has been earned by a
+Five disclaimers, stated flatly because each has been earned by a
 chapter. The book does not predict specific events — no dates for
 settlements, no named winners of elections or wars; its unit of
 prediction is the pattern and its horizon is fifteen years of named
@@ -149,9 +154,63 @@ does not claim the settlement is desirable: the Tudor turn, where
 it ran, ran through bonds, expulsions, dissolutions and a harvest
 of heads, and its modern forms — whatever their legality — will
 concentrate power in ways the book's readers may reasonably dread;
-the book predicts, and declines to bless. And it does not claim
+the book predicts, and declines to bless. It does not claim
 that history repeats: it claims that a mechanism has recurred, and
 it stakes the claim on measurements.
+
+And it does not claim that the settlement is democratic. The
+predictive claim is two claims, and the book scores them apart. The
+first is the mechanism: the independent technological powers are
+subordinated to the state, as the barons were. The second is the
+constitutional form of the state that absorbs them, and that the
+book holds open — in the democratic bloc it may be democratic, or it
+may be what Chapter 12 calls *ornamental democracy*, legitimating
+authority demonstrably separated from effective control over the
+state's strategic commitments. The term is that chapter's, entered
+there as a special case of the condition Colin Crouch named
+post-democracy, in which the forms of democracy remain fully in
+place while politics and government slip back into the control of
+privileged elites (Crouch 2000: PDF 2); and it is Crouch's own
+judgement that it is difficult to dignify such a politics as
+democracy (Crouch 2000: PDF 8) which licenses the book to score the
+condition rather than assume it away. The distinction borrowed to
+state the difference is Bagehot's, between the dignified parts of a
+constitution, which excite and preserve reverence, and the efficient
+parts, by which it in fact works and rules (Bagehot 1867: PDF 21) —
+borrowed as a distinction and refused as a valuation, since Bagehot
+held the separation of reverence from rule to be every
+constitution's condition and England's particular merit (Bagehot
+1867: PDF 28, 101), and the disanalogy travels with the borrowing:
+the dignified parts, in his account, were never decoration but the
+parts that bring a government its force. His one warning the book
+does adopt is a prediction. A settlement of this kind is stable only
+while it is not demonstrated — "We must not let in daylight upon
+magic" (Bagehot 1867: PDF 37) — so that a positive reading on the
+indicator would itself be an unsettling event, and that is the
+sub-wager's confessed fragility. The historical portrait of the
+second outcome is not English but Castilian: an assembly that won
+consent, administration and audit, then lost control of its own
+representatives, kept its prerogatives without their purpose, and
+was abolished in 1665 under one of the weakest of the Habsburg kings
+(Stasavage 2011: ch. 7; the generalisation at ch. 8). And the
+book's own history supplies the reason the two claims must be scored
+apart. The first run suppressed political rights before it yielded
+any (Tilly 1975: 613, 625), and what it later yielded — guarantees of
+rights, representative institutions, courts of appeal — came as the
+residue of resistance to bargained extraction (Tilly 1985: "How
+States Formed"); a consolidating state financed by the rents of the stack
+rather than by a bargained broad tax would, on Tilly's own mechanism,
+consolidate without those by-products, an extension of his argument
+that is the book's and not his, and that Chapter 12 carries. The
+barons' loss of independence and the people's acquisition of control
+are therefore not assumed to be the same event. The four falsifiers
+of the ornamental reading — elections that redirect strategic
+commitments, legislatures that enforce meaningful conditions, courts
+whose remedies change operations, public institutions capable of
+replacing essential suppliers — are stated with the wager in the
+Introduction and scored in Appendix C, with democracy and liberalism
+scored separately, a distinction that is also Crouch's (Crouch 2000:
+PDF 5).
 
 One limit is confessed rather than disclaimed, because it is a
 question the book can pose and cannot answer. The consolidations
@@ -191,7 +250,12 @@ history says otherwise: the first medieval order was durable for
 centuries precisely because no actor could carry the cost of locking
 it shut, and it became irreversible within two generations of that
 cost becoming payable. A dispersal is not a settlement; it is what a settlement
-looks like before the bill for decisive force arrives. Where Bull
+looks like before the bill for decisive force arrives. What the
+record documents is the exit's first half — the subordination of the
+intermediaries under a permanent fisc; who then held the
+consolidated apparatus is a question the record answers differently
+in each polity, and the book carries it as an open second claim
+rather than folding it into the first. Where Bull
 saw a possible destination, this book sees a waypoint with a
 well-documented exit — and it has tried to honour him in the only
 way that matters, by saying exactly what evidence would prove the
@@ -207,6 +271,61 @@ book predicts, and declines to bless" (§V). The authorised
 disclosure sentence appears in §III; the narrowing delta table in
 §IV. No new research; every claim inherits from the reviewed
 record.*
+
+*Ledger addendum (2026-09-16, Part B3): word count ~2,630 in the body
+after the fifth disclaimer (3,468 with footer and Revisions; 2,266
+before). Coined concept — still NONE ("ornamental
+democracy" is used in §V as Chapter 12's term, defined once, with
+Crouch's post-democracy named as its genus); vivid image — still
+"a waypoint with a well-documented exit" (§VI), no second image
+added; aphoristic line — still "The book predicts, and declines to
+bless" (§V). The quotable lines the fifth disclaimer carries
+("difficult to dignify it as democracy"; "We must not let in
+daylight upon magic") are Crouch's and Bagehot's, attributed
+inline, and are not the coda's.*
+
+## Revisions (2026-09-16 — Phase 5 renovation, Part B3: rulings (u), (z), (cc); spine §8(g). PENDING HUMAN REVIEW.)
+
+- **§V, the fifth disclaimer (ruling (u); spine §8(g) items 1, 2, 4,
+  5, 6).** "Four disclaimers" → "Five disclaimers"; the fourth
+  disclaimer's "And it does not claim that history repeats" → "It does
+  not claim that history repeats" so that the fifth takes the closing
+  position. NEW paragraph: "And it does not claim that the settlement
+  is democratic …" — the two claims stated and scored apart; the form
+  held open; *ornamental democracy* USED as Chapter 12's term with the
+  one-sentence definition (legitimating authority demonstrably
+  separated from effective control over the state's strategic
+  commitments) and named there as a special case of Crouch's
+  post-democracy (Crouch 2000: PDF 2, 8, 5 — quotations verified at the
+  sidecar this date); Bagehot's distinction taken and his valuation
+  refused, the never-decoration disanalogy carried, "daylight upon
+  magic" quoted as the sub-wager's confessed fragility (Bagehot 1867:
+  PDF 21, 28, 37, 101 — verified); the Castilian portrait (Stasavage
+  2011: ch. 7, part0014_split_008–009; ch. 8, part0015_split_002 —
+  verified); the fiscal mechanism in one sentence, the suppression
+  baseline at Tilly 1975: 613, 625 and the rights-as-residue at Tilly
+  1985 ("How States Formed", para 1), the stack-rents extension MARKED
+  as the book's and pointed to Chapter 12; the four falsifiers named
+  and pointed to the Introduction and Appendix C; democracy and
+  liberalism scored separately, credited to Crouch. No new image, no
+  new aphorism, no coinage (the coda's ledger stays "NONE").
+- **§VI (ruling (u)).** NEW sentence between "before the bill for
+  decisive force arrives" and "Where Bull saw a possible destination":
+  "What the record documents is the exit's first half — the
+  subordination of the intermediaries under a permanent fisc; who then
+  held the consolidated apparatus is a question the record answers
+  differently in each polity, and the book carries it as an open second
+  claim rather than folding it into the first." Carriers: the chapter
+  record (ch10–ch11); Glete pp. 195, 212 (form open by consent) in the
+  pointer block. "Became irreversible within two generations" (ruling
+  (c)) confirmed as applied in Part A; not touched.
+- **§IV (ruling (cc); the sub-wager's entry).** NEW sentence after
+  "and to none softer": the sub-wager recorded as an addition, not a
+  narrowing, scored apart, "so that the book can be marked wrong about
+  the barons and about the people separately." The delta table is
+  unchanged (it records narrowings; this was an addition).
+- **Untouched:** §V's confessed-limit paragraph (the nuclear ceiling);
+  the [BRIDGE]-adjacent settlement line; §I–§III.
 
 ## Revisions (2026-09-03 — Phase 4 Run A)
 
@@ -242,4 +361,6 @@ record.*
 
 ---
 
-STATUS: DRAFT — REVIEWED (Roderick, 2026-09-02 — review pack)
+STATUS: DRAFT — REVIEWED (Roderick, 2026-09-02 — review pack).
+Revisions of 2026-09-16 (Phase 5 Part B3: §IV, §V fifth disclaimer,
+§VI) PENDING HUMAN REVIEW.

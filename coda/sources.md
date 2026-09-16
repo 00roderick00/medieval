@@ -117,6 +117,29 @@ corpus/retrieved/source-library/text-2026-09-14/ unless stated.*
 - **Commynes, *Mémoires*, ed. Calmette, t. III (1925), T1 (full entry at
   ch10):** pp. 2, 81 / PDF 8, 87 (the providential frame; ch10's pins).
 
+### Pins used by the draft — Phase 5 Part B3 (2026-09-16; all from the pointer block above; each re-opened at the sidecar this date)
+
+- **Crouch 2000** (T3 pamphlet; T1 for what Crouch said): PDF 2 (the
+  condition — "while the forms of democracy remain fully in place …
+  slipping back into the control of privileged elites"); PDF 8 ("it is
+  difficult to dignify it as democracy itself"); PDF 5 (liberal society
+  v. strong democracy). Draft: §V, fifth disclaimer. Full entry at ch12.
+- **Bagehot 1867** (T1 classic / T2 for the distinction): PDF 21 (the
+  dignified and efficient parts; "bring it force"); PDF 28, 101 (the
+  valuation refused — pins as recorded, not re-quoted); PDF 37 ("We must
+  not let in daylight upon magic"). Draft: §V. Full entry at ch09.
+- **Stasavage 2011** (T2): ch. 7 part0014_split_008–009 (the Cortes of
+  Castile; 1665); ch. 8 part0015_split_002 (the institution kept without
+  its purpose). Draft: §V. Full entries at ch10/ch12. Re-pin to printed
+  pages before print.
+- **Tilly 1975** (T2): pp. 613, 625 / PDF 13, 25 (the suppression
+  baseline). **Tilly 1985**: "How States Formed", para 1 (guarantees of
+  rights, representative institutions, courts of appeal as residue).
+  Draft: §V. The stack-rents extension is the book's (c). Full entries
+  at ch10/ch12.
+- **"Ornamental democracy"**: used in §V as Chapter 12's chapter-level
+  term (ch12 memo (mm); spine §8(g)(6)); not the coda's, not claimed.
+
 ### RETRIEVAL LIST additions (2026-09-16)
 
 1. **Colin Crouch, *Post-Democracy* (Polity, 2004).** NEEDED FOR: the T2
