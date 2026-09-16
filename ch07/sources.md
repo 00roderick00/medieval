@@ -246,3 +246,62 @@ accordingly.*
   Cabochiens*) remains primary for the ordonnance's text —
   retrieval row. Full Vaughan entries at ch05/ch10 (integration
   notes there).
+
+## Added 2026-09-16 — Phase 5 renovation (pins used; pointers to master entries)
+
+- **Griffiths 1981** (entry above) — pins used in draft §§I–II:
+  p. 611 (Blackheath by 11 June); p. 519 (Moleyns killed by
+  Colville); p. 621 ("quite unwarranted"; "cross-section"; the
+  archbishop's officials; collective pardons; the "notional"
+  estimates); p. 624 (the retinues' mutiny); p. 630 ("practically
+  all sections of Kentish society"); pp. 632–34 (the first
+  manifesto; "the king's meniall servants of houshold"); p. 633
+  (Cheyne's pardon); pp. 634–37 (the Magdalen articles; Payn; "the
+  desires of the trewe comyns"; the names); n. 194 (the
+  sixteenth-century copy in *Three Chrons.*, p. 98). All sidecar
+  verified 2026-09-16.
+- **The Complaint (T1 entry above) — USE-NOTE ADDED:** the open
+  Wikisource text is Gairdner's *Three Fifteenth-Century Chronicles*
+  (Camden Soc., 1880) printing of the sixteenth-century Stow copy;
+  it is a single c. 20-item composite carrying the Magdalen
+  sentence (item 11), the names Slegge/Crowmer/Isle/Est (item 14)
+  and York as "his trew blode of his ryall realme" (item 18).
+  Griffiths separates three manifestos; the draft labels the
+  composite as such. [GAP: collate against the three manuscripts —
+  Harvey 1991; Kaufman 2019 (both retrieval rows above).]
+- **RETRIEVAL row 1 (Harvey 1991) — now GATES:** R1's gentry tally
+  (removed from the draft pending her analysis) and the roll's
+  re-argument (the "later scholarship's reply" the book sides with).
+  HIGH.
+- **T2 — M. G. A. Vale, *Charles VII* (1974)** — POINTER; master
+  entry ch10/sources.md (IN REPO). Pins used in §III: pp. 76–77
+  (the roster; Dunois; "to deprive the potentially rebellious
+  magnate of the means of revolt"; the June 1440 mémoire, "under the
+  pretext of reducing the aides"); pp. 78–79 (Blois; "a dead
+  letter"; "not until 1445"); p. 80 (Montferrand, May); p. 81 (28
+  July, the Dauphiné, 800 l./month); p. 82 (La Trémoille, Chaumont
+  and Prie banished); p. 238 (five months). Sidecar
+  `text-2026-09-13/CharlesVII.txt` verified 2026-09-16 (OCR noisy;
+  verify against page images before print).
+- **T1 (T2 edition) — Basin, *Histoire de Charles VII*, ed.
+  Samaran, Tome I** — POINTER; master entry ch10/sources.md (IN
+  REPO). Pin used in §III: pp. 256–59 (the Praguerie as princely
+  ambition and evil counsel; no fiscal motive; Bourbon "principal
+  auteur").
+- **T2 — Contamine, *Guerre, état et société*, tome 1** — POINTER;
+  in repo per ch06/sources.md (digital edition; OCR sidecars). Pin
+  used in §III: ~pp. 267–68 (the 1440–42 partition-of-captaincies
+  demand; memo Revisions 8). The RETRIEVAL row 5 above is
+  superseded for this pin.
+- **T1 — *Paston Letters*, ed. Gairdner, vol. I (Arber reprint,
+  1872)** — POINTER; master entry ch08/sources.md (IN REPO; sidecar
+  `text-2026-09-13b/Paston-Arber.txt`). Pin used in §II: no. 99,
+  pp. 132–33 (Payn to John Paston, c. 1465: "to gete the articles
+  that they come for"; "the olde sawdyors of Normaundy"; the
+  herald's proclamation). Sidecar verified at the p. 133 running
+  head. DAVIS remains citation of record when retrieved.
+- **Scott & Scribner 1991** (entry above) — pins used in §§V, VII:
+  p. 3; pp. 10–11; p. 15; p. 45; pp. 56–57; p. 58; p. 61; p. 64;
+  p. 141; p. 156; p. 254; pp. 303–04; p. 314; p. 318. All sidecar
+  verified 2026-09-16 except p. 58/64 (contingency; carried from
+  the assessment's PDF 72/78 pins — verify at page image).

@@ -442,3 +442,187 @@ STATUS: REVIEWED (Roderick, 2026-07-22) — cleared for drafting
    running an anti-tax platform (Hesdin 1417), the Praguerie's
    mirror image. Coville stays on retrieval for the ordonnance's
    text.
+
+## Revisions (2026-09-16 — Phase 5 renovation, PENDING HUMAN REVIEW)
+
+4. **(2026-09-16 — Phase 5 renovation: ruling (t); R1, R9;
+   Griffiths and Vale corrections; Payn. PENDING HUMAN REVIEW.)**
+   Applied to draft.md per research/claude-code-instruction-phase5-
+   renovation-2026-09-16.md Part A5. Word count 5,015 → 7,266
+   (draft file, footer included); the growth sits in the rewritten
+   §§I–III and V and the new §VII inventory. Old → new, with pins.
+   - **§I, Blackheath and the number (Griffiths; R9).** OLD: "The
+     bill for Normandy was presented in the first week of June
+     1450 … an armed encampment of some five thousand men of
+     Kent." NEW: presented "in June 1450 … there by 11 June, dug in
+     behind stakes and ditches, and there at least a week"
+     (Griffiths 1981: 611, sidecar verified: "encamped there by 11
+     June"); the five thousand CUT — no carrier in the retrieval or
+     the corpus; the sentence now says contemporaries' estimates run
+     from twenty thousand upward for the smaller second encampment
+     and that Griffiths calls even that "notional" (p. 621, sidecar
+     verified) — "this chapter carries no number."
+   - **§I, the pardon roll (R1 — RE-SOURCE).** OLD: the tally
+     ("a knight, two members of Parliament, eighteen squires …")
+     attributed to Griffiths pp. 619–20 with a [GAP], and Kriehn's
+     verdict "refined but not reversed." NEW: Griffiths stated as
+     the dissent in his words — "quite unwarranted"; "a
+     cross-section of society in the south-east of England, but
+     little more" (p. 621, verified); Cheyne the serjeant-at-arms
+     hurrying to a pardon on 7 July (p. 633, verified); the
+     archbishop's former officials and collective pardons (p. 621).
+     The tally REMOVED from the text ("not in Griffiths, to whom it
+     is usually attributed") and marked [GAP: Harvey 1991,
+     retrieval]. The propertied claim re-founded on (i) Bohna's
+     muster machinery, (ii) the programme per Griffiths pp. 630,
+     636 (verified), (iii) the later scholarship's re-argument of
+     the roll [GAP: Harvey 1991]. "Refined but not reversed" GOES:
+     "Griffiths tried to reverse Kriehn, not merely to refine him."
+     Harvey remains a RETRIEVAL row (not in corpus); Bohna is in
+     corpus and already carried at page level. §II's "processed the
+     host as a county of householders" hedged with Griffiths's
+     alternative reading and the inference marked as the book's.
+   - **§II, Moleyns (Griffiths).** OLD: "Bishop Moleyns lynched by
+     unpaid soldiers at Portsmouth in January 1450." NEW: "hacked
+     to death at Portsmouth on 9 January 1450 when he arrived with
+     the waiting army's back-pay, and killed by one of that army's
+     own captains, Cuthbert Colville" (p. 519, verified).
+   - **§II, Payn's letter (ADD).** Fastolf sending Payn to
+     Blackheath "to gete the articles that they come for"; the
+     herald's proclamation naming Fastolf "the grettyst traytor …
+     the whech mynnysshed all the garrisons of Normaundy, and Manns,
+     and Mayn … had furnysshyd his plase with the olde sawdyors of
+     Normaundy and abyllyments of werr, to destroy the comens of
+     Kent" (*Paston Letters*, ed. Gairdner 1872: I, no. 99,
+     pp. 132–33; sidecar `Paston-Arber.txt` verified at the p. 133
+     running head; Griffiths p. 635 carries the same letter). Enters
+     where the draft discusses the veterans: the old soldiers of
+     Normandy on the captains' payroll at Southwark. Dating note:
+     Gairdner's headnote assigns the incident to the second
+     encampment (29 June–1 July); Payn wrote c. 1465.
+   - **§II, the three manifestos (Griffiths).** OLD: all quotations
+     given as from "the Complaint … in Stow's Three Fifteenth-
+     Century Chronicles." NEW: Griffiths's three documents set out
+     — the Kentish complaint in Stow's *Chronicles* (names no royal
+     adviser; "the king's meniall servants of houshold," pp. 632–34,
+     verified), the Magdalen College articles Payn fetched (the
+     "see is lost … mete nor drynk" sentence, p. 636, verified), and
+     "the desires of the trewe comyns" (the names Slegge, Crowmer,
+     Isle and Est, p. 637, verified). FINDING: the open Wikisource
+     transcription (from Gairdner's *Three Fifteenth-Century
+     Chronicles*, 1880) is a single c. 20-item document that carries
+     BOTH the Magdalen sentence (item 11) AND the names (item 14)
+     AND York as "trew blode of his ryall realme" (item 18) — i.e.
+     the sixteenth-century Stow copy Griffiths cites at n. 194 as a
+     version of the second manifesto "with additions." The draft
+     now says which sentence Griffiths assigns to which document,
+     labels the quoted text as that composite, corrects "the trewe
+     lordys of his royall blode" to the transcription's "his trew
+     blode of his ryall realme," and opens [GAP: collate against the
+     three manuscripts when Harvey 1991 / Kaufman 2019 are in the
+     repo].
+   - **§II, the retinues' mutiny (ADD, per (bb) consequences).**
+     "one of the most critical events of the entire rising" — the
+     royal and magnate retainers threatening to go over unless the
+     king's advisers were dismissed; captains fleeing their own men
+     (p. 624, verified).
+   - **§III, the Praguerie (Vale; Basin; Contamine).** OLD:
+     "February–July 1440"; Bourbon, Alençon, La Trémoille, "a
+     scatter of mercenary captains 'who felt their livelihood
+     threatened'" (unattributed quotation — removed); "Charles VII
+     and the Constable Richemont broke it"; "the settlement, at
+     Cusset in July 1440 … pardons all round … The ordonnance was
+     thereafter enforced"; [GAP: Contamine]. NEW: roster adds
+     Vendôme, Lafayette, the bastards of Bourbon and Dunois (Vale
+     1974: 76–77; sidecar "Less explicable is the presence of
+     Dunois"); Vale's "to deprive the potentially rebellious magnate
+     of the means of revolt" (p. 77, verified) as the book's reading;
+     the pretext "reducing the aides" from the June 1440 mémoire
+     (p. 77, verified) — the aides, not the taille; Basin's silence
+     on any fiscal motive (Basin, ed. Samaran 1933: I, 256–59; master
+     entry ch10/sources.md); Contamine's partition-of-captaincies
+     demand 1440–42 (Contamine 1972: 267–68; memo Revisions 8);
+     Charles VII in person, five months (p. 238); terms at
+     MONTFERRAND in May restating 1439 (p. 80); Dauphiné and 800
+     l./month on 28 July (p. 81); Bourbon and Alençon retired
+     unpunished; La Trémoille, Chaumont and Prie refused pardon and
+     banished (p. 82, verified); Blois — "determined to render the
+     military ordonnance a dead letter"; "It was not until 1445 that
+     some semblance of order was brought to the companies"
+     (pp. 78–79, verified). Richemont's generalship dropped (Vale:
+     the king's). Cusset GONE from the text (survives only in the
+     footer's historical Revisions 3 note). §III second paragraph:
+     "specifically, by name, against the permanent tax" → "against
+     the military ordonnance by name and against the aides"; §VII
+     "Cusset's pensions" → "the Praguerie's pensions." The
+     [GAP: Contamine] CLOSED.
+   - **§III / ruling (t), determinism.** OLD: "appeared on
+     schedule, made the same restorationist case, and met the same
+     fate." NEW: "appeared under a probability the state's fiscal
+     reach kept raising, made the same restorationist case, and lost
+     in the same shape."
+   - **§V, the Bundschuh programme (t).** OLD: "'no lord but the
+     Emperor' — compresses the restorationist paradox into six
+     words." NEW: "no lordship but the Pope's and the Emperor's,
+     which the banners of 1525 would render as no lords other than
+     God and the Emperor (Scott & Scribner 1991: 10, 45; both
+     sidecar verified)"; the ecclesiastical half stated as what
+     makes the demand restorationist. Note added that Scott &
+     Scribner do not mention Untergrombach or Fritz — the 1502
+     detail still rests on the DHI/BNU accounts (T3). The watermark
+     paragraph's "no lord but the Emperor" conformed; "the taille"
+     in its grievance list → "the aides."
+   - **§V, 1525 as annihilation (t).** OLD: "the great explosion of
+     1525 … lies just beyond this chapter's frame, and Chapter 11
+     will meet its aftermath … the same restorationist idiom, and
+     the same ending." NEW: 1525 carried as the upper boundary case
+     (the Ciompi the lower): the strike-like first phase (p. 15,
+     verified); the territorial-state grievance (pp. 10–11,
+     verified); "repressed almost everywhere with bloodthirsty
+     ruthlessness" (p. 3, verified); the forty-seven cannon at
+     Königshofen as seized-not-cast, the field lost to cavalry and
+     nerve (p. 61, verified); the Fugger loan of 10,000 fl. and the
+     League's 1488 constitution, "complain bitterly about money"
+     (pp. 56–57, 156); the Speyer committee's concessions omitted
+     from the recess and the recess §§9–10 "go to its aid with horse
+     and foot" for a month at the neighbours' cost (pp. 314, 318,
+     verified); the editors' two cautions — "unrestrained control …
+     shown by recent scholarship to be wrong" (p. 314, verified) and
+     contingency (Weingarten, pp. 58, 64). The promise to ch11
+     WITHDRAWN (ch11/draft.md does not mention 1525; the aftermath is
+     now met here). "The same ending" → "until 1525 exceeded it, the
+     same ending"; the landless margin admitted to the composition
+     sentence. §I's definition of the form scoped: "for as long as it
+     keeps to that form … Where a rising fell below the propertied
+     line or broke above it, the ending was different"; the
+     watermark paragraph adds the Piazza della Signoria and
+     Frankenhausen as the two annihilations.
+   - **§VII, the commons' consequences (bb).** New paragraph after
+     "Shaped, not prevented": bargaining over revenue (Tübingen;
+     Twelve Articles Art. 2 "so that no territorial tax will be laid
+     upon the poor man," p. 254, verified); withholding cooperation
+     (Feuerbacher "Give money! give money! … justice is what we
+     want," p. 141, verified; the retinues' mutiny); organising (the
+     hundred-muster; the village militia; the bell from the tower
+     and the weapons from the house, pp. 303–04); enforceable
+     conditions (the Speyer committee's concessions, conceded first,
+     struck from the recess). Closes forward to the settlement
+     chapters' question. Speyer added to the "shaped" list.
+   - **A8 register pass within ch07:** no "suppressing"/"ended"
+     usages of the chain's last link or of the plural order occur
+     in this chapter; "suppressed" survives only in its literal
+     sense (conspiracies put down). No change.
+   - **Not done at the pin:** Harvey 1991 (retrieval; gates the
+     gentry tally and the roll's re-argument — two [GAP]s); the
+     manuscript collation of the composite Complaint (Harvey /
+     Kaufman); Virgoe's indictments (unchanged [GAP]). The Untergrombach
+     1502 detail remains at T3. Word-count growth exceeds the
+     "rewrite to what it needs" line by perhaps 400 words — the
+     §VII inventory paragraph is the candidate cut if Roderick wants
+     the chapter back nearer 6,500.
+   - **[OUTLINE CONFLICT] check:** none found — the outline's ch07
+     brief asks for Cade, the Praguerie, the Ciompi and the German
+     series with the modern parallel; the (bb) consequences
+     paragraph extends, and does not contradict, the brief.
+
+STATUS: Revisions 4 PENDING HUMAN REVIEW.

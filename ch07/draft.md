@@ -10,9 +10,17 @@ citations inline; [BRIDGE] and [GAP] conventions as in ch06.*
 
 ## I.
 
-The bill for Normandy was presented in the first week of June 1450, on
-the high ground at Blackheath where the London road crosses the heath,
-in the form of an armed encampment of some five thousand men of Kent.
+The bill for Normandy was presented in June 1450, on the high ground
+at Blackheath where the London road crosses the heath, in the form of
+an armed encampment of the men of Kent: there by 11 June, dug in
+behind stakes and ditches, and there at least a week, popularising
+their cause and making contact with persons of authority at
+Westminster (Griffiths 1981: 611). How many they were the record does
+not say. Contemporaries' estimates run from twenty thousand upward,
+the twenty thousand being the most conservative figure for the
+*second* encampment at the month's end, which was considerably
+smaller than the first, and Griffiths calls even that figure
+notional (Griffiths 1981: 621); this chapter carries no number.
 
 They did not call themselves rebels. They were, by their own document,
 the "poor commons of Kent," and their captain — a man of obscure origin
@@ -34,20 +42,43 @@ but "a demonstration of dissent by rural society embodied as the
 militia of the county" (~564) — the array and the posse providing
 "a ready military organization for revolt, complete with sub-units,
 chain of command and provision for emergency communications between
-districts" (~576). Among the
-thousands who would later sue out pardons were a knight, two members of
-Parliament, eighteen squires, gentlemen in numbers, yeomen,
-husbandmen, craftsmen, village constables — the office-holding,
-property-holding middle of one of England's richest counties (Kriehn
-1892: 5; the gentry skeleton is carried with attribution to Griffiths,
-pp. 619–20 [GAP: confirm at page level]; the finer occupational
-percentages await Harvey's pardon-roll analysis and are not printed
-here). Kriehn, who worked through the pardon lists in the 1890s and
-counted "about 2203 names of the men of Kent and Sussex alone," put
-the finding in a sentence the modern scholarship has refined but not
-reversed: "Cade's rebels were not drawn from the lower classes alone,
-but from the middle classes, the gentry and even from the nobility"
-(Kriehn 1892: 5).
+districts" (~576).
+
+The pardon roll itself is contested ground, and the chapter should
+say at once where it stands. Kriehn, who worked through the lists in
+the 1890s and counted "about 2203 names of the men of Kent and Sussex
+alone," read them as a census of the rising: "Cade's rebels were not
+drawn from the lower classes alone, but from the middle classes, the
+gentry and even from the nobility" (Kriehn 1892: 5). Griffiths, in
+the standard account of the reign, holds that reading to be
+unwarranted — that to treat "those who received a pardon as active
+rebels to a man, deducing therefrom conclusions about their
+occupations and geographical origins," cannot be done: the one knight
+who hurried to sue out a general pardon in the first week of July,
+Sir John Cheyne, was a royal serjeant-at-arms with every reason to
+fear being named beside Crowmer; former officials of the archbishop,
+priors, townsmen and whole bailiwicks bought pardons for protection;
+and the list "represents, in brief, a cross-section of society in the
+south-east of England, but little more" (Griffiths 1981: 621, 633).
+That caution is respected here, and it is why no occupational tally
+is printed: the gentry skeleton that circulates in the secondary
+literature — a knight, two members of Parliament, eighteen squires —
+is not in Griffiths, to whom it is usually attributed, and it waits
+on Harvey's analysis of the roll [GAP: Harvey 1991, retrieval]. The
+propertied character of the rising rests instead on three things
+that do not depend on reading a pardon as a confession. The first is
+Bohna's demonstration, above, that the host mustered through the
+county's own machinery, which is not a thing a rabble can borrow. The
+second is the programme, which Griffiths himself reads as speaking
+for "practically all sections of Kentish society, including the
+substantial and well-to-do, the townsmen and the traders as well as
+the peasantry and yeomen," and whose second manifesto he finds
+addressed "to a threatened landowning community, obstructed in its
+litigiousness" (Griffiths 1981: 630, 636). The third is the later
+scholarship's re-argument of the roll itself, which post-dates
+Griffiths and which this book follows for the first two reasons
+[GAP: Harvey 1991]. Griffiths tried to reverse Kriehn, not merely to
+refine him, and the chapter records that; it sides with the reply.
 
 That composition is this chapter's subject, because it recurs. The
 neomedieval literature this book builds on has next to nothing to say
@@ -63,9 +94,11 @@ four polities and eighty years is what the book will call the
 destitute but by the middling sort with something to lose; framing
 its demands as restoration of an older, better constitution rather
 than revolution; aiming its grievance at fiscal reach and corrupt
-administration; and ending, not in victory or annihilation, but in
-absorption — selective concession, exemplary punishment, and a
-settlement that proceeds over its head. The form appears wherever the
+administration; and ending, for as long as it keeps to that form, not
+in victory or annihilation but in absorption — selective concession,
+exemplary punishment, and a settlement that proceeds over its head.
+Where a rising fell below the propertied line or broke above it, the
+ending was different, and the chapter's two boundary cases say how. The form appears wherever the
 emerging fiscal-military state presses on populations organised
 enough to answer, and the book's wager chapters will need it: because
 the same form, this chapter will argue, is visible now, and its
@@ -78,8 +111,11 @@ Take the type-case first, in its own words and its own three weeks.
 
 The rising's context is the crisis year the reader already holds from
 Chapters 5 and 6: the king's government bankrupt and Normandy falling
-— Bishop Moleyns lynched by unpaid soldiers at Portsmouth in January
-1450; Suffolk, the regime's head, impeached, exiled and murdered at
+— Bishop Moleyns, keeper of the privy seal, hacked to death at
+Portsmouth on 9 January 1450 when he arrived with the waiting army's
+back-pay, and killed by one of that army's own captains, Cuthbert
+Colville, a man some years in the king's service (Griffiths 1981:
+519); Suffolk, the regime's head, impeached, exiled and murdered at
 sea on 2 May; Bishop Aiscough, the king's confessor, dragged from
 mass and killed in June. Watts's account of the court regime of
 1445–50 supplies the structural background: a household government
@@ -100,7 +136,21 @@ the rising itself. The veterans at Blackheath were the discharged and
 the displaced, not the just-evacuated; the distinction matters
 because it shows the rising as a response to the *long* failure of
 the war state, not a spasm at the news of its end (ch07 probe §3;
-ch06 chronology).
+ch06 chronology). The veterans stood on both sides of the heath, and
+one of the Paston letters shows it. Sir John Fastolf, who had
+garrisoned his Southwark house, sent his servant John Payn with two
+of the best horses in his stable to Blackheath "to gete the articles
+that they come for"; Payn was taken, and the captain had a herald
+proclaim at the four corners of the field that he had been sent by
+"the grettyst traytor that was in Yngelond or in Fraunce," Fastolf,
+"the whech mynnysshed all the garrisons of Normaundy, and Manns, and
+Mayn," and who "had furnysshyd his plase with the olde sawdyors of
+Normaundy and abyllyments of werr, to destroy the comens of Kent"
+(Payn to John Paston, in *Paston Letters*, ed. Gairdner 1872: I, no.
+99, pp. 132–33; a recollection set down fifteen years later). The
+commons' quarrel was with the captains who had lost Normandy, and the
+old soldiers of Normandy were, at that moment, on the captains'
+payroll.
 
 A note on the evidentiary base, because the composition claim carries
 weight and its documents have shapes. What we know of who marched
@@ -117,31 +167,54 @@ not one population. What can be said now, and it is the probe file's
 disciplined formulation, is that the propertied and office-holding
 character of the rising is attested by the window *least* likely to
 flatter it: even the crown's own machinery of mercy processed the
-host as a county of householders, not a rabble. The Shakespearean
+host as a county of householders, not a rabble — or, on Griffiths's
+reading, a county of householders seeking protection, which for the
+composition claim comes to nearly the same thing, since the men who
+thought a pardon worth suing out were men with something to protect.
+That last step is the book's inference, not Griffiths's. The Shakespearean
 Cade — the butcher's carnival, the heads on pikes exchanging kisses
 — is Tudor memory doing political work on a rising whose actual
 documents read like a grand jury presentment.
 
 What the commons wanted is not a matter of inference, because their
-manifesto survives. The *Complaint of the Poor Commons of Kent* is a
-document of grievances that a modern reader will find startling in
-its sobriety. The king, it
-says, is surrounded by counsellors "fals and of nowght browght up" —
-false, and raised from nothing — who have taught him that he is
-"a bove his lawys," above his own laws; justice cannot be had "with
-out bribes"; the crown's revenue has been given away until the king
-"may not pay for his mete nor drynke"; and abroad, in the document's
-unsparing inventory, "his marchandyse is lost… the see is lost,
-Fraunce is lost" (*Complaint of the Poor Commons of Kent*, in Stow's
-*Three Fifteenth-Century Chronicles*; quoted from the open
-transcription). It names names — the Kentish extortioners Slegge,
-Crowmer, Isle and Est, the local machinery of assessment and
-office-holding turned predatory — and its remedy is the oldest in
-the constitutional repertoire: that the king remove the false men
-and take about him "the trewe lordys of his royall blode," the Duke
-of York named first among them. Read the whole document and one
-demand is conspicuous by its absence: there is no article against
-the king. Deposition is not asked for, nor a new constitution, nor
+manifestos survive — three of them, and Griffiths's separation of the
+three governs how they are quoted here. The first is the Kentish
+complaint Stow printed, a catalogue of the shire's ills — corrupt
+sheriffs and under-sheriffs, elections rigged by letters from "the
+great rulers of all the country," tax-collectorships bought and sold
+— which names none of the king's advisers and lays the blame at the
+door of "the king's meniall servants of houshold" (Griffiths 1981:
+632–34). The second is the manifesto Fastolf's man fetched from
+Blackheath, now in the library of Magdalen College, Oxford, written
+after the encampment for an audience beyond Kent, "in a mood more of
+sorrow than of anger"; it is the document with the pithy sentence.
+The third, "the desires of the trewe comyns," is the bill of
+petitions presented to the king and the archbishops, brief clauses
+demanding action, and it is the one that names names (Griffiths
+1981: 634–37). The text this chapter quotes is the sixteenth-century
+copy in Stow's collection which Gairdner printed, and which Griffiths
+treats as a version of the second manifesto with additions
+(Griffiths 1981: 636 and n. 194); it runs the second and third
+together, and a modern reader will find it startling in its
+sobriety. The king, it says, is surrounded by counsellors "fals and
+of nowght browght up" — false, and raised from nothing — who have
+taught him that he is "a bove his lawys," above his own laws; justice
+cannot be had "with out bribes"; and in the sentence Griffiths
+assigns to the Magdalen articles, "his marchandyse is lost… the see
+is lost, Fraunce is lost," the king "so pore that he may not for his
+mete nor drynk" (*Complaint of the Poor Commons of Kent*, in *Three
+Fifteenth-Century Chronicles*, ed. Gairdner 1880, quoted from the
+open transcription; Griffiths 1981: 636). It names names, in the
+clause that belongs with the third manifesto — "the gret extorsiners
+of Kent," Slegge, Crowmer, Isle and Est, the local machinery of
+assessment and office-holding turned predatory (Griffiths 1981:
+637) — and its remedy is the oldest in the constitutional
+repertoire: that the king remove the false men and take about him
+"his trew blode of his ryall realme," the Duke of York named first
+among them [GAP: the composite transcription to be collated against
+the three manuscripts when Harvey 1991 and Kaufman 2019 are in the
+repo]. Read the whole document and one demand is conspicuous by its
+absence: there is no article against the king. Deposition is not asked for, nor a new constitution, nor
 any levelling of degree. The commons of Kent, in arms, demanded that
 the fifteenth century work as it was supposed to work. The genuinely
 revolutionary voice of 1450 belongs elsewhere — to the small Sussex
@@ -152,8 +225,13 @@ restorationist to its bones.
 
 The three weeks ran as such risings run. A royal force sent to
 disperse the camp was ambushed and destroyed at Sevenoaks on 18
-June, its commanders killed; the court's nerve failed; and on 3
-July the rebels entered London, where the propertied city at first
+June, its commanders killed; and then, in what Griffiths calls "one
+of the most critical events of the entire rising," the retainers of
+the king and his magnates mutinied, and threatened to go over to the
+rebels unless certain of the king's advisers were dismissed — the
+state's own soldiers adopting the commons' principal demand, several
+captains fleeing their own men (Griffiths 1981: 624). The court's
+nerve failed; and on 3 July the rebels entered London, where the propertied city at first
 received them. Lord Saye and Sele — the Lord Treasurer, the
 Complaint's chief named villain — was taken from the Tower, given a
 trial whose verdict preceded its process, and beheaded, with his
@@ -206,24 +284,46 @@ lost their private armies; the free captains — the écorcheur
 entrepreneurs of Chapter 3's world — lost their market; and the
 taxpaying country acquired a permanent obligation where custom had
 known occasional grants. Within three months the reaction was in
-the field: the Praguerie of February–July 1440 — named, with the
-century's gift for insult, after the Hussite risings of Prague —
-brought together the dukes of Bourbon and Alençon, the disgraced
-favourite La Trémoille, and a scatter of mercenary captains "who
-felt their livelihood threatened," behind the figurehead of the
-sixteen-year-old Dauphin Louis. It was a revolt of the over-mighty
-against the machinery being built to end them, with enough popular
-and professional grievance attached to give it a country. Charles
-VII and the Constable Richemont broke it in five months. And the
-settlement, at Cusset in July 1440, is a small masterpiece of the
-absorption technique this chapter is cataloguing: pardons all
-round, a pension for Bourbon, the government of the Dauphiné for
-Louis — generosity precisely calibrated to detach the leadership —
-and not one clause of the ordonnance withdrawn. The ordonnance was
-thereafter enforced; the compagnies d'ordonnance followed in 1445;
-the taille outlived every man who rode against it [GAP: the
-scholarly account of the Praguerie awaits Contamine's chapters; the
-sequence above is the consensus record].
+the field: the Praguerie of 1440 — named, with the century's gift
+for insult, after the Hussite risings of Prague — brought together
+the dukes of Bourbon and Alençon, the disgraced favourite La
+Trémoille, Vendôme, the marshal de Lafayette, the bastards of Bourbon
+and, less explicably, Dunois, with the captains whose companies the
+reform would have purged, behind the figurehead of the
+sixteen-year-old Dauphin Louis (Vale 1974: 76–77). It was a revolt
+of the over-mighty against the machinery being built to end them —
+Vale's reading of the reform is this book's, undertaken not only to
+end the war but "to deprive the potentially rebellious magnate of
+the means of revolt" (Vale 1974: 77) — with enough professional
+grievance attached to give it a country. Its stated pretext, in the
+crown's own mémoire of the following June, was the reduction of the
+aides, the indirect taxes rather than the taille, and Bourbon's
+grievances were the peace talks and the recall of his companies from
+Lorraine; Basin, the nearest thing to a court insider among the
+chroniclers, gives the rising no fiscal motive at all and lays it to
+Bourbon's ambition and evil counsel (Vale 1974: 77; Basin, ed.
+Samaran 1933: I, 256–59). Contamine adds the detail that between 1440
+and 1442 the princes asked the king to choose captains from their
+men as well as his own — a bid to share the emerging monopoly,
+refused (Contamine 1972: 267–68). Charles VII broke the revolt in
+five months, in person, and the settlement is a small masterpiece of
+the absorption technique this chapter is cataloguing. The king's
+terms were put to the rebels at Montferrand in May, restating the
+ordonnance of the previous November; on 28 July Louis was granted
+the Dauphiné and a pension of eight hundred livres a month; Bourbon
+and Alençon retired to their lordships unpunished; and La Trémoille,
+Chaumont and Prie, whom the king refused to pardon, were banished
+from court (Vale 1974: 80–82, 238). Generosity calibrated to detach
+the leadership, punishment reserved for the few, and not one clause
+of the ordonnance withdrawn. What the settlement did not do, on
+Vale's account, is enforce. The rebels had met at Blois determined
+to render the military ordonnance a dead letter, had refused to purge
+their companies or to muster them before the constable's deputies,
+and "it was not until 1445 that some semblance of order was brought
+to the companies" (Vale 1974: 78–79). The paper monopoly of 1439
+became a real one five years later, when the crown could pay for it;
+the compagnies d'ordonnance followed; the taille outlived every man
+who rode against it.
 
 The Praguerie deserves its place beside Cade because it removes an
 ambiguity. Cade's commons rose against a failing state, and a critic
@@ -243,13 +343,15 @@ Yorkists and early Tudors, it would meet a population already
 schooled — by exactly these grievances — in what it would and would
 not bear. Cade belongs in the set as the form's response to
 consolidation *mismanaged*. The Praguerie rose against a
-*succeeding* state — specifically, by name, against the permanent tax and the
-royal monopoly of force that constitute this book's mechanism — and
-it lost in the same shape: bought at the top, dispersed at the
-bottom, absorbed into a settlement that proceeded. Together the two
-cases bracket the form. Whether the emerging order was failing or
-succeeding, the propertied-anxious revolt appeared on schedule, made
-the same restorationist case, and met the same fate.
+*succeeding* state — against the military ordonnance by name and
+against the aides, the indirect limb of the fisc that the royal
+monopoly of force was to run on — and it lost in the same shape:
+bought at the top, dispersed at the bottom, absorbed into a
+settlement that proceeded. Together the two cases bracket the form.
+Whether the emerging order was failing or succeeding, the
+propertied-anxious revolt appeared under a probability the state's
+fiscal reach kept raising, made the same restorationist case, and
+lost in the same shape.
 
 ## IV.
 
@@ -300,11 +402,17 @@ peasant's laced boot on their banners — recurred across a
 generation: at Sélestat in 1493, against taxation, debt, arbitrary
 justice and the cost of ecclesiastical privilege; at Untergrombach
 under Joss Fritz in 1502, whose programme — church property divided,
-and "no lord but the Emperor" — compresses the restorationist
-paradox into six words, the most radical demand in the set framed as
-loyalty to the oldest authority available; at Lehen in 1513 and in
-Lower Alsace in 1517, each conspiracy betrayed and suppressed before
-rising (DHI/BNU institutional accounts). In Württemberg in 1514, the
+and no lordship but the Pope's and the Emperor's, which the banners
+of 1525 would render as no lords other than God and the Emperor
+(Scott & Scribner 1991: 10, 45) — compresses the restorationist
+paradox into a phrase, the most radical demand in the set framed as
+loyalty to the two oldest authorities available; and it is the
+ecclesiastical half, the half a secularising memory drops, that
+makes the demand a restoration rather than a levelling; at Lehen in
+1513 and in Lower Alsace in 1517, each conspiracy betrayed and
+suppressed before rising (DHI/BNU institutional accounts; the
+Bundschuh series and its programme now carried at Scott & Scribner
+1991: 10, 20, 44–45, who do not mention Untergrombach or Fritz). In Württemberg in 1514, the
 "Armer Konrad" rising gives the pattern its most legible fiscal
 mechanics: Duke Ulrich, in debt, imposed new consumption taxes on
 meat, wine and grain and adjusted the public weights to sweeten the
@@ -317,14 +425,55 @@ theatres ran on the same clock: Cologne's guild risings of 1481,
 1512 and 1513 — the documented cases; the tradition of a wave in
 the 1460s and 70s could not be verified and is not asserted here —
 contested patrician fiscal administration and were reabsorbed into
-adjusted civic constitutions. All of it is prologue: the great
-explosion of 1525, the Peasants' War, lies just beyond this
-chapter's frame, and Chapter 11 will meet its aftermath. What the
-German series establishes is frequency: wherever the intensifying
-fiscal state pressed on organised communities — village, valley,
-guild — the same revolt formed, with the same middling leadership
-(village office-holders and guildsmen, not the destitute), the same
-restorationist idiom, and the same ending.
+adjusted civic constitutions. All of it is prologue to 1525, and
+the Peasants' War is where the form found its limit on the other
+side. The Ciompi mark the boundary below the propertied line; 1525
+marks the boundary where the form broke its banks upward. Its first
+phase ran as the form runs — the editors of the documentary record
+describe openings that "resembled a strike rather than open
+rebellion," householders ceasing work and assembling to force their
+lords to arbitration (Scott & Scribner 1991: 15) — and the grievance
+was the territorial state in the making: district officials
+replacing communal self-government, Roman law replacing custom, and
+new territorial taxes and excises on beer, wine and milling to pay
+for both (Scott & Scribner 1991: 10–11). Then godly law became the
+benchmark, and the ending was not absorption. The rebellion "was
+repressed almost everywhere with bloodthirsty ruthlessness" (Scott &
+Scribner 1991: 3). The commons had guns — at Königshofen their front
+ranks stood behind a row of forty-seven cannon, and the artillery
+repelled the League's frontal attack — but the guns were pieces
+seized or requisitioned from castles and towns as the war went on,
+not cast, fed or paid for, and the field was lost to a cavalry
+attack on the flank and a failure of nerve among the leaders (Scott &
+Scribner 1991: 61); the League that broke them fought on a Fugger
+loan of ten thousand florins and a constitution of 1488, and
+complained bitterly about money while it did so (Scott & Scribner
+1991: 56–57, 156). That is the difference between a captured weapon
+and a decisive one, and it is the distinction this book's argument
+turns on: not the barrel, but the train, the treasury and the
+standing structure behind it. The absorption came a year later, and
+it was minimal. The committee of the Diet of Speyer conceded in
+August 1526 that new small tithes should be abolished and that free
+men should not be made serfs; the final recess omitted even that;
+and what the recess did carry was a compact among the princes, that
+if the subjects of any authority, secular or spiritual, "should
+arouse fresh disturbance or rebellion the nearest neighboring
+electors, princes, counts, and other authorities shall … immediately
+go to its aid with horse and foot," for a whole month at their own
+cost (Scott & Scribner 1991: 314, 318). The editors add two cautions
+that the chapter carries: that the old reading of the aftermath, an
+unrestrained control of lords over subjects, "has been shown by
+recent scholarship to be wrong" (Scott & Scribner 1991: 314); and
+that the outcome was contingent — had the League's army been beaten
+at Weingarten, its own commander thought, the peasants would have
+been the lords of Upper Germany (Scott & Scribner 1991: 58, 64).
+What the German series establishes is frequency: wherever the
+intensifying fiscal state pressed on organised communities —
+village, valley, guild — the same revolt formed, with the same
+middling leadership (village office-holders and guildsmen, not the
+destitute, though in 1525 the landless margin marched with them),
+the same restorationist idiom, and, until 1525 exceeded it, the same
+ending.
 
 Set the cases in a row and the form's four features stand out like
 a watermark. Leadership and mass from the propertied middle —
@@ -332,13 +481,16 @@ Cade's pardon rolls, the Praguerie's princes-with-a-country, the
 Bundschuh's village office-holders — with the Ciompi as the marked
 exception that proves the boundary. Demands framed as restoration:
 the Complaint's plea that the king be advised by his true lords;
-"no lord but the Emperor"; the estates of Württemberg buying their
-duke's debt in exchange for their old rights. Grievance centred on
-fiscal reach and administrative corruption — the taille, the tolls,
-the weights, the bribes at the sessions. And absorption as the
-outcome: selective concession detaching the leaders, exemplary
-repression sealing the account, and the consolidation proceeding as
-if the revolt had been weather. The propertied-anxious revolt is
+no lord but God and the Emperor; the estates of Württemberg buying
+their duke's debt in exchange for their old rights. Grievance
+centred on fiscal reach and administrative corruption — the aides,
+the tolls, the weights, the bribes at the sessions. And absorption
+as the outcome, wherever the rising kept to the form: selective
+concession detaching the leaders, exemplary repression sealing the
+account, and the consolidation proceeding as if the revolt had been
+weather. Where it did not keep to the form — below the line in the
+Piazza della Signoria, above it at Frankenhausen — the ending was
+annihilation, and the consolidation proceeded anyway. The propertied-anxious revolt is
 not an interruption of state formation. It is one of state
 formation's recurring by-products — and, in the concessions it
 extracts, one of its shaping tools.
@@ -439,15 +591,41 @@ falsification condition attached.
 The medieval record supports this much: the propertied-anxious
 revolts shaped settlements and did not prevent consolidation.
 Tübingen's rights-for-debt entered Württemberg's constitution;
-Cusset's pensions rearranged the French court; Cade's programme
-became the Yorkist platform and some of it, eventually, Yorkist
-practice. But the taille outlived the Praguerie by three and a half
-centuries; the compagnies followed the revolt against their
-creation by five years; the harvest of heads closed the Kentish
-account; and the consolidating decades of the 1470s onward — the
-book's Chapters 10 and 11 — proceeded through and over the whole
+the Praguerie's pensions rearranged the French court; Cade's
+programme became the Yorkist platform and some of it, eventually,
+Yorkist practice; the fright of 1525 became the princes' mutual-aid
+compact at Speyer. But the taille outlived the Praguerie by three
+and a half centuries; the compagnies followed the revolt against
+their creation by five years; the harvest of heads closed the
+Kentish account; and the consolidating decades of the 1470s onward —
+the book's Chapters 10 and 11 — proceeded through and over the whole
 family of risings. Shaped, not prevented: that is the medieval
 verdict, and it is documentary.
+
+It is worth being precise about what the shaping consisted of,
+because the settlement chapters and the book's closing wager will
+need the inventory. The commons could bargain over revenue: the
+estates of Württemberg took the ducal debt and got their rights
+written down for it, and the Twelve Articles of 1525 proposed that
+the surplus of the tithe be held against the cost of defending the
+country, "so that no territorial tax will be laid upon the poor
+man" — the commons drafting their own settlement of the question who
+pays for force (Scott & Scribner 1991: 254). They could withhold
+cooperation: the Württemberg captain Feuerbacher, asked at his trial
+why the rebels would not attend a diet, answered that "when one
+returns home from the diet it is always, 'Give money! give money!' We
+want to give no more money, justice is what we want" (Scott &
+Scribner 1991: 141), and the royal retinues on the road to Blackheath
+withheld theirs until the king's advisers were named for dismissal.
+They could organise, through the hundred-muster in Kent and the
+village militia in Swabia, which is why the settlements that followed
+took the bell from the tower and the weapons from the house (Scott &
+Scribner 1991: 303–04). And they could, on occasion, get conditions
+written into the instrument that beat them — the Speyer committee's
+concessions, struck out of the recess, were conceded first. None of
+this prevented the consolidation; each of it left a mark on the form
+the consolidation took, and the book's later chapters will ask
+whether the marks are the same when the commons vote.
 
 The modern inference is that the present wave will run the same
 course, and the early evidence is consistent with it. The single
@@ -503,9 +681,11 @@ the political expression of collateral" (§V close; the §VII
 candidate demoted to plain prose per the 2026-08-01 review — the
 ledger now counts every quotable sentence produced, not intended,
 per the doctrine addition of that date). One
-[BRIDGE] section (§VI, fenced). [GAP] flags: Bohna full text;
-Griffiths pp. 619–20; Harvey percentages; Contamine on the
-Praguerie; Najemy's framing. The Complaint quotations are from the
+[BRIDGE] section (§VI, fenced). [GAP] flags: Harvey 1991 (the roll's
+re-argument and the gentry tally, §I); the composite Complaint
+transcription against Griffiths's three manuscripts (§II); Virgoe;
+Najemy's framing. Closed 2026-09-16: Griffiths pp. 619–20 (re-sourced
+per R1); Contamine on the Praguerie (Vale and Contamine tome 1). The Complaint quotations are from the
 open Stow transcription (T1); Kriehn, Curry, Watts, N&I (pre-pub
 caveat), Green & Pahontu, Girardi, Douenne & Fabre, Funke et al.,
 OBR are as pinned in the reviewed memo. No claim beyond the
@@ -552,5 +732,30 @@ one correction.
 
 ---
 
+4. **(2026-09-16 — Phase 5 renovation: ruling (t); R1, R9; Griffiths
+   and Vale corrections; Payn. PENDING HUMAN REVIEW.)** Full
+   old/new record in memo.md, Revisions (2026-09-16). In brief:
+   §I Blackheath re-dated to "by 11 June" and the "some five
+   thousand" cut (R9 — no pin; Griffiths's "notional" carried);
+   the pardon-roll passage rewritten with Griffiths as the dissent
+   and the gentry tally removed pending Harvey (R1); §II Moleyns
+   killed by Colville; the three manifestos distinguished per
+   Griffiths and the quoted composite so labelled; the retinues'
+   mutiny and Payn's letter added; §III the Praguerie rewritten on
+   Vale (Montferrand; the aides; the banishments; Dunois; the
+   ordonnance a dead letter until 1445; Basin's silence); "on
+   schedule … the same fate" → "under a probability the state's
+   fiscal reach kept raising … lost in the same shape"; §V the
+   Bundschuh programme restored to Pope/God and the Emperor, 1525
+   carried as annihilation with the Speyer recess as the compact
+   and the forty-seven cannon as captured-not-cast, the promise to
+   ch11 withdrawn; the absorption definition scoped to the form
+   (§§I, V); §VII the commons' consequences for the settlement
+   itemised per (bb). Voice ledger unchanged: no new quotable
+   sentence produced; the watermark image and the collateral line
+   stand.
+
+---
+
 STATUS: REVIEWED (Roderick, 2026-08-01) — approved with revision
-applied; Revisions 2 (Bohna upgrade) REVIEWED (Roderick, 2026-09-02 — review pack); Revisions 3 (Phase 4 Run A) PENDING HUMAN REVIEW
+applied; Revisions 2 (Bohna upgrade) REVIEWED (Roderick, 2026-09-02 — review pack); Revisions 3 (Phase 4 Run A) and Revisions 4 (Phase 5 renovation) PENDING HUMAN REVIEW
