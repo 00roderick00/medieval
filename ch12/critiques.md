@@ -495,3 +495,652 @@ precisely so that patience cannot be pleaded later.
    state was compelled by a virus, not by the price of decisive
    force — answered by the natural experiment (what lapsed
    versus what hardened), stated in §II.
+
+9. **(2026-09-16 — catch-up run STEP 3: Farrell and Newman's two decades
+   of chokepoint power without consolidation; Chastellain's reversible
+   settlement. PENDING HUMAN REVIEW.)** Pins verified in the sidecars
+   (sources.md this date).
+   - **The objection at full strength (F&N).** Spine §7 rules: "You
+     cannot assemble decisive force while its components sit in private
+     hands. The consolidation is compelled for any polity that wants to
+     be decisive." Their book is a demonstration that the United States
+     assembled and exercised world-spanning coercive force for two
+     decades precisely through components in private hands — SWIFT,
+     AT&T, TSMC, the dollar-clearing banks — without absorbing any of
+     them: "it wasn't the United States government that built the
+     networks" (introduction); the networks "froze a moment in time";
+     the power inherited by jurisdictional accident, "stumbled onto".
+     The 2019 article makes the theoretical point: the levers were
+     built by market actors who "inadvertently provide states … with
+     the necessary levers" (p. 54 / PDF 13) — no taille, no permanent
+     finance, no fiscal threshold, and the strategies "not simply
+     coterminous with United States market size or military power"
+     (p. 46 / PDF 5). On their account deputisation suffices and no
+     Tudor settlement is required. Worse for the wager's tense, their
+     prediction runs the other way: "A policy based on creating fear,
+     awe, and terror can't be turned on and off like a spigot"
+     (chapter2); "Now that it has been exposed to the light, it will
+     crumble, or worse" (introduction); "the slow erosion of its ability
+     to weaponize key economic networks" (article p. 79 / PDF 38); and
+     their counsel is restraint, "commonwealth rather than empire", with
+     "crude nationalism and reshoring" the worse path. A second cut at
+     the hold-on-balance tier: China "Judged by its influence over global
+     economic networks … was at best an also-ran" (chapter3).
+   - **The book's answer (assessment grades preserved).** Three moves, in
+     declining strength. (i) CATEGORY — GOOD: they price economic
+     coercion; the mechanism prices decisive force, the layer where
+     sensing, computing and striking fuse; an off-switch over Iranian oil
+     payments is not a siege train, and their own TSMC chapter shows the
+     state unable to conjure fabs, only to veto them — consistent with
+     memo Revisions 13's "the state's contribution is the VETO". The
+     article's own scope condition does half the work: the levers are
+     free but the hand is not — OFAC, the post-9/11 instruments, the
+     NSA's apparatus are purchased state capacity, and institutions
+     "cannot costlessly be transformed" (pp. 57–58 / PDF 16–17). (ii)
+     THEIR EVIDENCE IS THE BOOK'S METHOD — PARTIALLY GOOD: deputisation
+     IS regulation of the switch, title left, discretion severed — the
+     early, informal phase of the consolidation the chapter predicts,
+     which the French settlement analogy says hardens from practice into
+     permanence; the CHIPS stake, the GENIUS rails and the licensing
+     instruments post-date their book and are the formalisation arriving
+     on schedule. But F&N could reply that two decades of stable
+     deputisation without absorption is evidence the hybrid is an
+     EQUILIBRIUM, not a phase, and the only rejoinder is the wager
+     itself, scored in Appendix C — an honest place to stand, to be
+     stated as a wager and not smoothed. (iii) THE EROSION THESIS IS THE
+     PRESSURE TERM — GOOD: if the informal empire is self-undermining
+     ("too powerful to be trusted", chapter2), the state must either
+     lose the capacity or formalise it, and formalisation is the wager;
+     what they call erosion — rival hubs, the post-ZTE chip drive,
+     Putin's "cutting the branch" (article pp. 77–78 / PDF 36–37) — IS
+     bloc formation, and their lock-in sentence (p. 77 / PDF 36) is the
+     mechanism of parallel settlement from the network side. On China:
+     the chapter's claim is internal settlement, their metric external
+     reach — different axes, both true. THE HONEST CONCESSION the article
+     forces: the panopticon and chokepoint powers accrued to the state
+     without new taxation; the fiscal threshold is defended on the
+     military stack, not on the coercion channels (register decision
+     (ll)). Scoreable: CP-3 (formalisation against erosion on CC-12's
+     exit series and C11-1).
+   - **Chastellain's contradiction, entered here because its object is
+     §IV's licensing move.** The Alençon settlement was judicial,
+     negotiated and reversible, not an artillery-state act: the
+     instrument the lit de justice, the charge lèse-majesté, the
+     "modération" obtained by Brittany's petition (p. 486 / PDF 496),
+     execution deferred "jusques à son bon plaisir" (p. 484 / PDF 494),
+     "de cinc ans après il ne vuida de prison" (pp. 100–101 / PDF
+     110–111) implying release under the next reign [outside the corpus
+     tomes — UNVERIFIED]; and the Lombards show extraction as motive, not
+     only dependence as constraint (pp. 315–16 / PDF 325–26). ANSWER —
+     GOOD IF MADE HONESTLY: the arrêt's reservations are the mechanism's
+     content whatever the frame — the crown named guns, walls and
+     appanage, and the chronicler's pity does not alter what the document
+     keeps; the reversibility is real and is the disanalogy to state: a
+     Tudor-style settlement is one a succession does NOT undo, and 1458
+     was not yet that. Extraction as a third motive strengthens §8(g)(4)
+     — GOOD.
+
+10. **(2026-09-16 — catch-up run STEP 3: Wu's counter-pattern — the
+    state as the switch-holder's sponsor, the severance reversed, the
+    Cycle against the settlement's durability. PENDING HUMAN REVIEW.)**
+    - **The objection at full strength.** "The blessing of the state,
+      implicit or explicit, has been crucial to every twentieth-century
+      information empire" (c11); "Again and again in the histories I have
+      recounted, the state has shown itself an inferior arbiter of what
+      is good for the information industries" (c21). On the pattern's
+      founding communications case: "The trick of the Kingsbury
+      Commitment was to make relatively painless concessions that
+      preempted more severe actions … Kingsbury's greatest achievement
+      was to free Bell to consolidate the industry unmolested" (c03). On
+      the sequel the twelve-case series stops before: after 1996 the
+      Bells "reconstituted" with federal approval and were rewarded with
+      "retroactive immunity" for NSA surveillance, "closer to possessing
+      a master switch than Vail himself could have dreamed" — proof of
+      "the irrevocability of the Cycle of information empires, their
+      eternal return" (c18). And the security-state dependency on which
+      the chapter's prediction runs is precisely the mechanism of
+      PROTECTION: the Defense Department "intervene[d] forcefully to
+      prevent the company's breakup by antitrust suit in 1956, citing a
+      'hazard to national security'" (c11). The more military-critical
+      the platform, the less the republic severs it. This cuts at spine
+      §8(c)'s declared verdict and §8(b)'s American direction: on Wu's
+      record the same republic runs a counter-pattern — charter,
+      protect, entrench, re-merge. Second: "Every consolidated entity may
+      well have only until the next turn of the Cycle before being
+      scattered" (c18) — the settlement is itself a phase. Third: the
+      Separations Principle forbids the fusion the book predicts — "the
+      government also keep its distance … government's only proper role
+      is as a check on private power, never as an aid to it" (c21).
+    - **The book's answer (grades preserved).** On the first — GOOD BUT
+      INCOMPLETE: the chapter already states the pattern with two limits
+      (tempo; the First Amendment) and can absorb Wu as the third: the
+      pattern runs only when severance does not cost the state its own
+      capability — and the AT&T case, Wu's own centrepiece, shows even
+      that condition is not permanent, because the most
+      security-entangled citizen in American history WAS severed, by the
+      state, over the Defense Department's objection, at the Cold War's
+      height; exogenous pressure selects between the republic's two
+      repertoires, and 1984 is evidence the disciplining one can win at
+      maximum entanglement. The hard part is the sequel: a verified case
+      in which the off-switch migrated back to private hands within
+      twenty-one years, with state connivance, for services rendered.
+      C11-1 must register a Whitacre outcome — consolidation of the
+      platform WITH the state as client rather than sovereign — as
+      failure, or the sub-wager is not falsifiable on this route
+      (appendix-c Revisions 2026-09-16 §(d)2); the venality route (spine
+      §8(c)'s "1890s phase") has, in telecommunications, won twice. On
+      the Cycle — ADEQUATE: the mechanisms differ (disruptive innovation
+      in information industries against the price of decisive force,
+      whose historical run lasted a century and a half); Appendix C's
+      fifteen-year horizon sits inside even a Wu-length closed phase, so
+      the wager is scoreable either way; and Wu allows the arrest — "the
+      combined forces of a dominant industry and the federal government
+      can arrest the Cycle's otherwise inexorable progress" (c10); the
+      Coda gains from conceding his oscillation as the named alternative
+      to the pendulum's forward swing. On the Separations Principle —
+      GOOD: the book predicts, Wu prescribes; CLAUDE.md §9 keeps the
+      chapter at observation, so there is no logical collision, and his
+      principle is proposed BECAUSE the pattern runs the other way — the
+      standing trade statement of what the American settlement ought to
+      be, against which the prediction of what it will be is measured
+      year by year. No DEFEND-tier claim reached; §8(b)/(c) reached and
+      survive with the scoring amendment.
+
+11. **(2026-09-16 — catch-up run STEP 3: Scott's four-element recipe —
+    the consolidated stack as the most brittle synoptic scheme.
+    PENDING HUMAN REVIEW.)**
+    - **The objection at full strength.** The book's cannon, "the
+      full-stack, AI-automated state" (spine §4), is in Scott's terms the
+      most ambitious synoptic scheme ever proposed, and his book argues
+      such schemes are constitutively brittle: "The more schematic, thin,
+      and simplified the formal order, the less resilient and the more
+      vulnerable it is to disturbances outside its narrow parameters"
+      (p. 351 / PDF 368). He names war as the paradigm mētis domain
+      (Tolstoy, p. 309; "war diplomacy and politics more generally are
+      metis-laden skills", p. 315), and the planners' failure mode is a
+      consolidator's — they "regarded themselves as far smarter and
+      farseeing than they really were and, at the same time, regarded
+      their subjects as far more stupid and incompetent than they really
+      were" (p. 343 / PDF 360). Read straight, the polity that most
+      completely executes the settlement — the spine's China — is the
+      polity most exposed to the "pernicious combination of four
+      elements" (p. 4 / PDF 21) whose worked example is the Great Leap
+      Forward. Reaches the DEFEND-tier claim (the mechanism's present
+      operation through the AI-military stack) and the hold-on-balance
+      China ranking.
+    - **The book's answer (grades preserved).** GOOD ON THE MECHANISM,
+      GENUINELY EXPOSED ON THE SETTLEMENT'S DURABILITY. (i) Scott concedes
+      the exception the book needs: "centralized high-modernist solutions
+      can be the most efficient, equitable, and satisfactory for many
+      tasks. Space exploration, the planning of transportation networks,
+      flood control, airplane manufacturing" (p. 221 / PDF 238) —
+      decisive-force production is a wheat crop, not a raspberry crop;
+      the mechanism claims the state must own the stack to field cannon,
+      not that the synoptic state governs well. (ii) The falsifier is
+      already built: Appendix C condition 1 — a full-stack power defeated
+      by cheap distributed systems without a patron's decisive layer — IS
+      the Scott scenario, formalised and scoreable. (iii) The Ukraine
+      record cuts both ways at once: the March 2025 week showed the mētis
+      layer (cheap, improvised, local) aiming THROUGH the formal stack —
+      mutual parasitism, not the one-way dependence of p. 310. The
+      exposure: a Tudor settlement run as personal rule over a fully
+      legible society is Scott's four elements assembled, and §IV's own
+      China-succession question is where it surfaces (Cheung now answers
+      it in the affirmative, Revisions 14 below). The register fix: state
+      the recipe by name; the book predicts elements 1 and 3 combining in
+      at least one bloc; element 1 is neutral in Scott's hands; with him
+      cited the book can say prediction is not commendation in his words.
+
+12. **(2026-09-16 — catch-up run STEP 3: Ruggie — the off-switch as
+    Kapstein's satellite, the "impoverished mind-set", and the EC that
+    will never be a state. PENDING HUMAN REVIEW.)** His
+    anti-functionalist objection (A: "there are none of it", p. 169 /
+    PDF 32) is ch01's and the Coda's; carried here by pointer.
+    - **Objection B at full strength.** Spine §8(c) rests the American
+      verdict on "fundamentally the ability to turn their systems off".
+      Ruggie, on Kapstein's "shooting the satellite down": "There is an
+      extraordinarily impoverished mind-set at work here, one that is
+      able to visualize long-term challenges to the system of states only
+      in terms of entities that are institutionally substitutable for the
+      state. … The theoretical or historical warrant for that premise
+      has never been mooted, let alone defended" (p. 143 / PDF 6); and
+      "In no sense could the medieval trade fairs have become substitutes
+      for the institutions of feudal rule. Yet, the fairs contributed
+      significantly to the demise of feudal authority relations" (p. 155
+      / PDF 18) — the lord could close the fair, and another lord would
+      host it. Reaches §8(c) and the platform-centralisation prediction.
+    - **Answer — GOOD, PROVIDED §IV SAYS IT IS ANSWERING RUGGIE AND NOT
+      KAPSTEIN.** Ruggie's target is the use of the off-switch to DENY
+      change; the book uses it to describe how the state responds to a
+      change it accepts in full — Part I is the concession Kapstein
+      refused. The book agrees the platforms are not substitutes for the
+      state (the universalism correction) and adds that a
+      non-substitutable entity can still be SUBORDINATED, the off-switch
+      being the instrument. The fairs cut both ways: the alternative
+      sites are why the mechanism predicts consolidation INSIDE blocs,
+      where the sites run out — and a fab is not a fair.
+    - **Objection C at full strength.** "There is no indication, however,
+      that this reimagining will result in a federal state of Europe —
+      which would merely replicate on a larger scale the typical modern
+      political form" (p. 172 / PDF 35); the "multiperspectival polity"
+      is stable and novel, not transitional. Reaches the bloc casting
+      (wager tier) and the Depreter test as spine §5 applies it.
+    - **Answer — RIGHT, BUT MUST BE MADE.** §IV predicts no federal Europe
+      either: "either the assertion-to-enforcement lag closes as the fisc
+      arrives, or the Union completes its century as the American bloc's
+      canonical province". "Multiperspectival polity" is the Depreter
+      failure mode named — apparatus without a centre — and "no
+      indication" is the null hypothesis Appendix C scores against ReArm,
+      SAFE, EDIP and the own-resource proposals (CC-14). The residue:
+      Ruggie grounds the form's stability in the state's own unbundling
+      contrivance, the neomedievalists' "dispersal is stable" error in
+      its strongest form; the reply — unbundling was always the
+      contrivance of states that had a fisc, and the Union is unbundling
+      without one — is right and is not yet in the text.
+    - **Objection D (spine note).** Bull's substitutability test is
+      malformed on Ruggie's account; the test the book applies is
+      subordination (§8(h)(b)), and spine §7's "reproduce it in new units"
+      limb is the book's, not Bull's — flagged for Roderick (register
+      decision (tt)), not applied.
+
+13. **(2026-09-16 — catch-up run STEP 3: Suleyman's offence-wins — the
+    decisive layer diffuses and the state is overtaken. PENDING HUMAN
+    REVIEW.)** T3; the objection matters because it is the most-read
+    form of the drone objection (Objection 2 above).
+    - **The objection at full strength.** "These developments represent a
+      colossal transfer of power away from traditional states and
+      militaries toward anyone with the capacity, and motivation, to
+      deploy these devices" (PDF 122). "The nature of the four features
+      favors offense: this proliferation of power is just too wide, fast,
+      and open. An algorithm of world-changing significance can be stored
+      on a laptop" (PDF 187). "Maintaining a decisive, indefinite
+      strategic advantage across such a broad spectrum of general-use
+      technologies is simply not possible" (PDF 188). The Kyiv opening
+      credits thirty hobbyists — Aerorozvidka — with humbling "the
+      greatest buildup of conventional military muscle in a generation"
+      (PDF 119–20). On the state: "New, private interests will step into
+      spaces vacated by overstretched and strained governments" (PDF
+      208); "there is no functional 'we' here … Even the president of the
+      United States has remarkably limited powers to alter the course
+      of, say, the internet" (PDF 294). Reaches the DEFEND-tier claim and,
+      in "spaces vacated", §8(b)–(c)'s verdict.
+    - **The book's answer (grades preserved) — GOOD ON THE MECHANISM AND
+      THE RECORD TO DATE; EXPOSED AT TWO JOINTS.** His own book supplies
+      most of it, because he never reconciles his halves: the diffusion
+      claims concern the CHEAP layer (hobbyist drones, open weights,
+      benchtop synthesisers) and the concentration claims the DECISIVE
+      layer (three chip firms, six clouds, models costing "hundreds of
+      millions of dollars to train", PDF 218); he calls this "the coming
+      wave of contradictions" and leaves it — "Both will be in play at
+      once" (PDF 222). The mechanism is the reconciliation — distributed
+      denial below, concentrated decision above (§V) — and he concedes on
+      the Kyiv page itself the two facts that answer needs: Starlink "was
+      integral" and conventional aid "undoubtedly had a decisive impact"
+      (PDF 120); C12-1 scores that dependence. His prescriptions refute
+      his prognosis (the ten steps are the five moves), and "the state is
+      overtaken" and "the grip will tighten" (PDF 235) cannot both be his
+      forecast — he picks the second. THE TWO EXPOSURES: the five-year
+      window ("the next five or so years are absolutely critical", PDF
+      273; c. 2028) is a dated counter-prediction the book has not yet
+      beaten — CP-1 scores it; and offence-favours is not answered by
+      patron-dependence if the patrons are themselves the exposed party
+      — the Iran reply (§V) is a claim category, flagged as such, and
+      condition 1 stays live. A second contradiction that is an alliance:
+      "zombie government … functionally they are hollowed out" (PDF 176)
+      cuts against any reading of claim 3(i) that implies popular control
+      — a reading spine §8(g)(1) has already ruled out.
+
+14. **(2026-09-16 — catch-up run STEP 3: Cheung — the Chinese
+    consolidator consolidated before the price moved; fusion barely
+    begun; dependence; the American model won without absorbing its
+    firms. PENDING HUMAN REVIEW.)** Four cuts, in descending reach.
+    - **First, the driver.** "Why did Xi make a hard turn toward national
+      security when he assumed power despite the absence of any
+      significant changes to the country's security environment?" (p. 51
+      / PDF 66); "the way its new leaders perceived the situation had
+      significantly altered" (p. 56 / PDF 71) — the motives the Soviet
+      collapse, colour revolutions, an attempted cabal, Document No. 9;
+      the NSS built 2013–17 for regime security, the chokepoint entering
+      in 2018. Reaches the DEFEND-tier mechanism as applied to the polity
+      §5 ranks first: the consolidator consolidated before the price
+      moved. ANSWER — GOOD, AT A COST: concede, then split. The mechanism
+      claims what a polity must do to field decisive force, not why a
+      consolidator consolidates; Cheung's own periodisation gives the
+      second phase in the book's terms — economic securitisation from
+      December 2017, dual circulation 2020, the 14th Plan — "the rapid
+      tightening of US-led export controls has forced the Chinese
+      authorities into concerted action to prevent technological
+      'strangulation'" (p. 306 / PDF 321). Xi's state was built for
+      political security and re-tasked by the chokepoint; the mechanism
+      explains the stack's direction from 2018, not the state's origin in
+      2013. It costs China its status as the clean instance.
+    - **Second, the fusion.** Against "the settlement more nearly executed
+      there than anywhere" and C11-1's "5/5": "an underwhelming
+      achievement for twenty years of effort" (p. 116 / PDF 131);
+      "Hybridization has yet to make a significant impact" (p. 295 / PDF
+      310); "the public sector will remain the dominant player with the
+      private sector limited to a minor role" (p. 298 / PDF 313); "two hot
+      ends but a cold middle" (p. 97 / PDF 112); "State-owned monopolies
+      have so far successfully limited meaningful implementation of these
+      market-opening measures" (p. 172 / PDF 187); the override one man
+      with "limited bandwidth" (p. 81 / PDF 96). Reaches spine §5 and the
+      hold-on-balance ranking. ANSWER — A REAL ANSWER, AND IT REQUIRES
+      THE RANKING'S QUALIFIER REWRITTEN: the chapter's claim rests on the
+      2020–23 platform discipline and the legibility instruments, which
+      Cheung does not cover; his verdict concerns the defence-industrial
+      stack, which the state never lost to private hands and never had to
+      take back. China's consolidation is LAYER-SPECIFIC — complete at
+      canon, subordination and legibility; inherited at
+      foundry-munitions-orbit, where the state's own monopolies are the
+      over-mighty subjects; unexecuted at the private-tech-to-defence
+      seam (2.3 per cent under licence) — register decision (kk).
+    - **Third, the dependence.** "Techno-nationalist dependence: China
+      seeks long-term technological self-reliance but is heavily
+      dependent on foreign technology and know-how in the meantime"
+      (p. 298 / PDF 313); "the US techno-security state would be far less
+      negatively impacted by decoupling than its Chinese counterpart"
+      (p. 296 / PDF 311) — Miller's point from the institutional side.
+      ANSWER — ABSORBED: ruling (x)'s paragraph gains its Chinese case —
+      command over domestic firms by statute, dependence on foreign
+      chokepoints, and a capture the triad does not yet name: capture of
+      the consolidator's policy by its own state-owned monopolies.
+    - **Fourth, the American model.** The United States won the last
+      contest without absorbing its firms — "governed interdependence"
+      through "incentives and rewards rather than through control and
+      penalties" (p. 268 / PDF 283); the NSRB's fate "a clear signpost
+      that the realm of the US NSS would not reach deep into the economic
+      sphere" (p. 266 / PDF 281). Read straight, this denies §8(b)–(c).
+      ANSWER — PARTIAL: §8(c) already predicts absorption in hybrid form
+      — title left, discretion severed — and "governed interdependence"
+      is that form under another name; Cheung's own diagnosis (DoD at 3.6
+      per cent of global R&D; the top five technology firms at ten times
+      the primes, pp. 290–91) shows the old hybrid no longer governs.
+      What he withholds is the prediction: revitalise the hybrid, do not
+      take the switch. Stage him as Bratton is staged — ally on the
+      diagnosis, rival on the outcome. The single sentence a reviewer
+      who has read Cheung will write first: the Chinese over-mighty
+      subjects the mechanism has not subordinated are not Huawei or
+      Alibaba but the state's own defence monopolies.
+
+15. **(2026-09-16 — catch-up run STEP 3: Crouch — the derivative-coinage
+    risk, and the firm that absorbs the state. PENDING HUMAN REVIEW.)**
+    T3 (the Fabian typescript); the 2004 book at T2 on retrieval.
+    - **The objection at full strength.** Crouch's causal story runs the
+      other way from the book's. His firm wins because it can leave and
+      because the state, envying "the phantom firm its flexibility and
+      apparent efficiency", dismantles its own competence: "Government
+      becomes a kind of institutional idiot, its every ill-informed move
+      being anticipated in advance and therefore discounted by smart
+      market actors" (PDF 17); the party becomes "essentially a firm, or
+      network of firms" (PDF 29) — the firm absorbs the state, not the
+      state the stack; and the drift is terminal: "These changes are so
+      powerful and widespread that it is impossible to see any major
+      reversal of them" (PDF 31). Cuts at the DEFEND-tier mechanism and
+      §8(b)/(c)'s American verdict, and reaches the pendulum (spine §3),
+      since his parabola has no return stroke. Worse for the coinage:
+      "ornamental democracy" is his post-democracy under another
+      adjective, and the ornamental route is a concession that he may be
+      right about the FORM even where the book is right about the
+      OBJECT.
+    - **The book's answer (grade preserved) — GOOD AS FAR AS IT GOES;
+      WEAKER ON THE REVERSAL.** The answer is the disanalogy of object.
+      Crouch's state outsources schools and rail; it never has to
+      outsource the cannon, and his firm's leverage — exit — does not
+      exist for a foundry, a constellation or a frontier lab whose
+      licence, export controls and revenue depend on one sovereign.
+      Decisive force cannot be discounted by "smart market actors"
+      because it is not a market; the H200 cut is the pre-antitrust
+      moment, the twelve-case series the record of a state that did call
+      "the bluff which the political world is afraid to call" (PDF 32),
+      and his own p. 32 sentence on reducing the military's political
+      power while sustaining its effectiveness concedes the principle.
+      Where it is weaker: it predicts the reversal Crouch says is
+      invisible, against twenty-five years in which his description has
+      held; the honest form is the ruling's — the barons' subordination
+      is defended, the form of the state that subordinates them is open,
+      and Crouch's condition is the outcome the sub-wager scores against
+      (CP-5). THE COINAGE: claim the special case, the falsifiers and the
+      mechanism; the adjective is free, the noun is his; introduce the
+      term as a special case of post-democracy at first use or the
+      coinage claim fails the §8 rule (register decision (mm)). Wolin's
+      half of the ledger is owed.
+
+16. **(2026-09-16 — catch-up run STEP 3: Bagehot's valuation — the
+    dignified parts as ornamental and as indispensable; the separation as
+    every constitution's condition. PENDING HUMAN REVIEW.)** T1 classic;
+    rival-turned-ally at full strength.
+    - **The objection at full strength, three limbs.** First, Bagehot
+      himself calls the dignified parts ornamental and useless AS
+      ADMINISTRATION — "retained, not for intrinsic use, but from their
+      imaginative attraction upon an uncultured and rude population …
+      All such ornamental work is a source of friction and error"
+      (Changes of Ministry, PDF 83) — so spine §8(g)(5)'s "never
+      decoration" can be met with his own page. Second, his theory says
+      the ornamental route cannot be BUILT: "The mystic reverence, the
+      religious allegiance, which are essential to a true monarchy, are
+      imaginative sentiments that no legislature can manufacture in any
+      people" (The Cabinet, PDF 21); the deferential state is "unstable
+      equilibrium … if you once permit the ignorant class to begin to
+      rule you may bid farewell to deference for ever" (Prerequisites,
+      PDF 102); and the dignified part lives by not being demonstrated —
+      "Its mystery is its life. We must not let in daylight upon magic"
+      (The Monarchy II, PDF 37) — so a DEMONSTRABLE separation, the
+      spine's test, is on his account self-destroying. Third, and
+      deepest: for Bagehot the separation of legitimating authority from
+      effective control is not a pathology but the condition of every
+      constitution and the chief merit of England's — popular power
+      resides "in a CHOSEN people, a picked and selected people" (PDF 28);
+      "The apparent rulers of the English nation are like the most
+      imposing personages of a splendid procession … The real rulers are
+      secreted in second-rate carriages" (PDF 101). Read straight,
+      "ornamental democracy" is not an outcome to score; it is what
+      Bagehot says every working constitution already is. Reaches
+      §8(g)(1)–(2).
+    - **The book's answer (grade preserved) — GOOD; ONE RESIDUAL
+      EXPOSURE STATED AS A PREDICTION.** On the first limb the two
+      passages are one doctrine and the disanalogy must carry both
+      halves: the dignified parts "may not do anything definite that a
+      simpler polity would not do better; but they are the preliminaries,
+      the needful prerequisites of ALL work. They raise the army, though
+      they do not win the battle" (PDF 21) — ornamental as administration,
+      indispensable as authority, and the sentence is his. On the second,
+      Bagehot supplies the escape: the manufactured assembly CAN exist
+      where "the centralised executive" and the *prefet* exist (Conclusion,
+      PDF 104), and the Second Empire ran on one for eighteen years (PDF
+      71); the identity–payments–legibility stack is the *prefet*. The
+      instability point is conceded whole — it is why the ornamental
+      route is "one scoreable outcome", not the settlement, and why the
+      indicator watches atrophy ("not in assassination, but atrophy; not
+      abolition, but decline", PDF 58). On the third, the answer is honest
+      only if the book says plainly that it takes his distinction and
+      refuses his valuation, and that the direction of disguise inverts:
+      his republic hid BENEATH a monarchy ("A Republic has insinuated
+      itself beneath the folds of a Monarchy", PDF 35 — of society, cited
+      with its context); the ornamental route hides an executive–baronial
+      fusion beneath a democracy, so the elected institutions become the
+      dignified part. The §8(g)(2) falsifiers keep the book's use from
+      collapsing into his universal — a measurable degree of separation
+      on strategic commitments, not the fact of separation. THE RESIDUAL
+      EXPOSURE, stated rather than hidden: "daylight upon magic" — an
+      ornamental settlement is stable only while undemonstrated, so a
+      positive reading on the indicator is itself a destabiliser.
+
+17. **(2026-09-16 — catch-up run STEP 3: Krasner's organized hypocrisy
+    against the "locked" order. PENDING HUMAN REVIEW.)** Ch01's
+    objection in the main; entered here because the residue lands on
+    Part III's absorption.
+    - **The objection at full strength.** The book's arc is a two-state
+      model — a plural order "locked" into exclusive territorial
+      sovereignties by 1700, now returning to plurality. Krasner denies
+      the second state ever existed as practice: "Violations of
+      Westphalian sovereignty have been almost routine in international
+      politics even though observers have been blinded to their
+      frequency by the assumption that the Westphalian model has been
+      operative" (p. 28 / PDF 38); "perhaps half of the countries of
+      Europe have never enjoyed Westphalian sovereignty for a single
+      moment" (p. 29 / PDF 39); "There has never been some ideal time
+      during which all, or even most, political entities conformed with
+      all of the characteristics that have been associated with
+      sovereignty" (p. 238 / PDF 248). If sovereignty was hypocritical
+      from the start, what the neomedievalists diagnosed is a change in
+      what analysts notice, not in the world — "these challenges are not
+      new. Rulers have always operated in a transnational environment"
+      (p. 223 / PDF 233); and the hypocrisy runs back through the book's
+      own period (pp. 227–28). Reaches ch01 §VI's ruling, spine §3 and
+      CLAUDE.md §1 claim 1; touches spine §7's Bull test, since "The
+      international system … does not have constitutive rules" (p. 229 /
+      PDF 239).
+    - **The book's answer (grade preserved) — GOOD AGAINST THE MECHANISM
+      AND THE "LOCKED" RULING, PROVIDED THE LOCK IS RESTATED AS INTERNAL
+      SUBORDINATION AND FISCAL MONOPOLY, NEVER AS EXCLUSIVITY; WEAK
+      WHEREVER THE MANUSCRIPT SAYS "EXCLUSIVE".** Krasner's own grid
+      dissolves the objection: his violated Westphalian sovereignty is
+      the exclusion of EXTERNAL actors from a polity's authority
+      structures; the book's lock is the subordination of INTERNAL
+      intermediate authorities and the crown's monopoly of decisive
+      force — domestic sovereignty in his control sense, which he says
+      "is not necessarily related to international legal or Westphalian
+      sovereignty" (p. 12 / PDF 22). He never claims the internal
+      consolidation was hypocritical; he brackets it — "I offer no
+      explanation for the displacement of other institutional forms"
+      (p. 5 / PDF 15) — and concedes it as fact with a functional cause,
+      "functional advantages enjoyed by states over other structures such
+      as feudalism, the Catholic Church, or city-states" (p. 68 / PDF
+      78). His globalization scepticism is dated: written before the
+      platforms, it treats transnational actors as flows or advocates
+      making "no claim to authoritative decision making" (p. 119 / PDF
+      129); ch02's point is that the new universalisms claim authority.
+      THE RESIDUE, to carry rather than answer: the consolidated state
+      was, from 1648, routinely penetrated by invitation — "more powerful
+      states are unlikely to lose their Westphalian sovereignty unless
+      they invite external authority through conventions or contractual
+      arrangements" (p. 29 / PDF 39) — so Part III's absorption of the
+      stack may itself run by invitation: §8(g)'s ornamental route,
+      reached from the other side (CC-10). This chapter contains no
+      "exclusive"; the pendulum survives as a claim about who holds
+      decisive force inside the polity and should stop making one about
+      the purity of borders.
+
+18. **(2026-09-16 — catch-up run STEP 3: McNeill's lag against the
+    timetable; Goldsmith and Wu's cheap coercion against the fiscal
+    threshold. PENDING HUMAN REVIEW.)** Two objections from the
+    neomedieval side of consolidation, one sixteenth-century and one
+    twenty-first.
+    - **McNeill at full strength.** "Command simply could not prevail
+      against the market as a way to marshal men and resources" (p. 114 /
+      PDF 123); Philip II "knew how to tax and how to confiscate just as
+      effectively as Chinese and Islamic officials did … But alas for the
+      command principle!" — his cannon factories "always failed to
+      flourish" (p. 113 / PDF 122); "even the mightiest European command
+      structures became dependent on an international money and credit
+      market" (p. 115 / PDF 124); the Liégeois "set their own prices.
+      Even the mightiest rulers had to pay what was asked, or do without"
+      (p. 113 / PDF 122). Read straight, the artillery state subordinated
+      its barons and was itself subordinated by its bankers and gunmakers.
+      Reaches CLAUDE.md §1 claim 3(i) and spine §8(b). ANSWER (grades
+      preserved) — GOOD ON DIRECTION, EXPOSED ON TIMETABLE: the dependence
+      ran on jurisdictional refuge — "Dozens of other refuges for
+      entrepreneurs were scattered across the face of Europe, thanks to
+      its peculiarly fragmented political geography" (p. 114) — and the
+      bloc settlement is the closure of refuge inside the bloc; McNeill
+      concedes the hybrid ("in the long run European states actually were
+      strengthened by their involvement in the fiscal web", p. 114); his
+      long arc ends where the book's does (pp. 116, 386). But the barons
+      went first and the bankers held out for two hundred years; if the
+      analogy is exact, the compute-foundry layer keeps its price long
+      after the private-force layer has been commissioned — the per-bloc
+      verdicts should carry that lag as a stated risk, and Appendix C
+      scores the foundry's pricing power apart from the contractors'
+      subordination (CC-8; ch11 (jj)).
+    - **Goldsmith and Wu at full strength.** They re-territorialised the
+      network's legibility layer — content, commerce, payments, identity
+      — with no artillery-scale investment and no fiscal-administrative
+      construction: "Government regulation works by cost and bother, not
+      by hermetic seal" (p. 68 / PDF 81); the ATF "simply ordered Visa,
+      MasterCard, and AmEx to stop taking online cigarette orders … And
+      that is how, without ever laying a finger on online sellers, the
+      government can impose its power" (pp. 76–77 / PDF 89–90); "the
+      router itself has become the censor" (p. 94 / PDF 107). The state's
+      leverage is the intermediaries' locality, not its purse. Read
+      straight, the identity-payments-legibility stack of CLAUDE.md §1
+      claim 3 was taken back by ordinary coercion between 2000 and 2006,
+      twenty years before the mechanism is said to run, and the mechanism
+      is superfluous to that half of the wager. Reaches spine §6's
+      DEFEND-tier sentence as applied to the legibility limb, and spine
+      §7's tense. ANSWER (grades preserved) — (i) GOOD: category — their
+      chokepoints are the canon-and-register layer, which the manuscript
+      already holds cheap (ch11's fifth move: "the harness was the canon
+      and the register, not the plant"); access-control lists fed to
+      China Telecom's routers are the Index and the 1538 proclamation on
+      wire; they are the fullest documentation of Moves four and five on
+      the network, not a rival to the mechanism. (ii) GOOD: what cheap
+      coercion cannot do is the book's subject — it can order Cisco's
+      routers to drop packets; it cannot build the router, the fab, the
+      model or the constellation ("built with American bricks", p. 93 /
+      PDF 106, is dependence stated and not theorised); the mechanism
+      explains the compulsion to move from mandating the canon to holding
+      the plant, where the fiscal cost begins. (iii) ADEQUATE: their scale
+      limit (pp. 81–82, 153) is the mechanism's precondition from the
+      legal side — intermediary control works for polities whose markets
+      hold the intermediaries' assets, the blocs, and fails for Fiji and
+      Antigua, the interstices. THE CONCESSION MUST BE MADE IN TEXT: the
+      legibility stack was re-territorialised by law before the artillery
+      mechanism ran; the mechanism's claim over it is confined to scale
+      and to its fusion with the chokepoint layer (F&N's map-then-cut) —
+      the layered tense, register decision (ll).
+
+19. **(2026-09-16 — catch-up run STEP 3: Stasavage's scale, Ertman's
+    determined form, and Schmitt's rival cause — the objections that
+    reach this chapter's bloc casting and ruling (g), entered by
+    pointer where another chapter carries the full engagement. PENDING
+    HUMAN REVIEW.)**
+    - **Stasavage at full strength.** Spine §4 makes the cannon the
+      possession of the few polities that "can tax at the scale it
+      requires"; his five centuries of data say scale was the DISABILITY:
+      no territorial state borrowed long-term before 1489; city-states
+      had "a 43% chance" of creating a debt in any half-century against a
+      territorial state's 5 per cent (part0008_split_005); "war actually
+      had considerably more ambiguous effects on state formation in
+      Europe than is commonly believed" (ch. 8, part0015_split_001); the
+      Dutch Republic "was able to prevail in a military struggle with a
+      much larger enemy". Reaches the DEFEND-tier mechanism, the
+      four-polity casting and the Depreter limb. ANSWER (grades
+      preserved) — PARTLY GOOD, PARTLY A CONCESSION: his attrition data
+      are the mechanism from the city's side — credit bought survival,
+      not scale (Mainz 1462; Ghent "forcibly absorbed") — and the
+      mechanism explains the first consolidators, not why every polity
+      became like them; the concession, owed to §8(g): a consolidator
+      financing the stack by taxation without a control-right assembly,
+      or by rents from the stack itself, is on his evidence a polity that
+      can tax and cannot be trusted — the French and Castilian default
+      cycles are the price. His modern twist is carried in the book's
+      tense (memo Revisions 23); the bloc casting remains a wager, and
+      his book makes it dearer. The credit-mechanism objection ("taxation
+      without assemblies") is ch10 §III's.
+    - **Ertman (iv) at full strength.** Tenth-century local government
+      "helped determine the type of representative assembly and
+      ultimately the kind of political regime (absolutist or
+      constitutional) that would emerge centuries later" (pp. 24–25 / PDF
+      39–40; the sentence straddles the page). Ruling (g) says the
+      constitutional form is open; Ertman says it is fixed by a variable
+      the book does not carry. ANSWER — RULING (g) ALREADY ANSWERS, AND
+      ERTMAN IS ITS BEST T2 WARRANT: his patrimonial absolutism separates
+      the legitimating authority (the king "legibus solutus", p. 93 / PDF
+      108) from effective control of the apparatus — the ornamental form
+      stated for the fifteenth century; cite him for the split and
+      decline the determinism, which his own Danish and Swedish
+      "aberrant" cases (pp. 32–33, 316) qualify. His England (the 1530s
+      as "Deepening Patrimonialism") is ch11's (ee).
+    - **Schmitt's rival cause (pointer).** The interstate order "arose
+      solely from the emergence of a new spatial order" (p. 140 / PDF 142)
+      — no cannon, no fisc. Ch10's critiques carry it beside Rogers and
+      Parrott; this chapter's obligation is the provenance disanalogy
+      whenever his geometry is used (memo Revisions 20): a chapter that
+      cited the Großraum equilibrium while suppressing his causal account
+      and his 1939 lineage would be rightly savaged. The second, smaller
+      cut — modern means of destruction dissolve legal order rather than
+      found it (p. 319 / PDF 323) — is inter-bloc, not intra-bloc, and
+      his own third possibility concedes that internally homogeneous
+      blocs can found order: the book's picture, not its refutation.
+
+STATUS (Revisions 9–19): PENDING HUMAN REVIEW.
