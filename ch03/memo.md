@@ -317,3 +317,272 @@ STATUS: REVIEWED (Roderick, 2026-07-22) — cleared for drafting
    switchable by the crown; Vaughan's clientage figures standing
    in until *Philip the Good* arrives; the Cosneau destruction
    commissions at T1. All proposals; no draft text.
+
+## Revisions (2026-09-16 — catch-up run STEP 3, PENDING HUMAN REVIEW)
+
+*From research/assessments-2026-09-14/, each pin opened in the
+sidecar this date (sources.md block of the same date, completed in
+this pass). Draft wordings quoted are the CURRENT draft's (first
+draft with Revisions 1); nothing applied to draft.md. Tiering per
+CLAUDE.md §4. Entries are numbered in the file's running sequence:
+post-review 1–5; the 13 September integration entry, filed there
+as "1", is the sixth.*
+
+7. **(Tilly 1975/1985 — the frame at source; the composite's
+   conditional clause; the German tempo.)**
+   - CONFIRMS (a, at T2, by name at the pin): §I — "The components
+     are separately owned — Tilly's protection-market frame …" —
+     the frame is now pinned: "war making and state making —
+     quintessential protection rackets with the advantage of
+     legitimacy — qualify as our largest examples of organized
+     crime" (1985, Warning, para 1); "Someone who produces both
+     the danger and, at a price, the shield against it is a
+     racketeer" (Double-Edged Protection, para 2); the market
+     proper is Lane's, reported by Tilly ("governments are in the
+     business of selling protection … whether people want it or
+     not"; production of violence "enjoyed large economies of
+     scale," Protection as Business, paras 1–2). §I's "the great
+     subjects raise private forces to perform what were once state
+     functions" has its T2 statement in the same essay: "Many lords
+     who did not pretend to be kings, furthermore, successfully
+     claimed the right to levy troops and maintain their own armed
+     retainers. Without calling on some of those lords to bring
+     their armies with them, no king could fight a war; yet the
+     same armed lords constituted the king's rivals" (Violence and
+     Government, para 4) — the assessment places this "in text" at
+     §I. §II's 1504 licence and the statutes of livery have their
+     T2 frame in "disarming the great stood high on the agenda of
+     every would-be state maker" (same para) and, for the sequel
+     the chapter forecasts ("the modern half of this chapter ends
+     inside its exact structure"), the first of the four Tudor
+     campaigns — "eliminating their great personal bands of armed
+     retainers" (para 6; the assessment places the four campaigns
+     at ch08 §VII and ch11 §II; cross-reference only here).
+   - CORRECTS (wording; NOT applied): (i) §I — "Tilly's
+     protection-market frame." Tilly's word is "racket"; the
+     market is Lane's, carried by Tilly at Protection as Business
+     paras 1–2. Proposed: "Tilly's protection-racket frame (Lane's
+     market, as Tilly carries it)". (ii) §I — "where the
+     fiscal-military capacity of central authority weakens, the
+     great subjects raise private forces." The conditional is not
+     a component's. Tilly's armed lords are the standing condition
+     of early state-making — "Early in the state-making process,
+     many parties shared the right to use violence" (Violence and
+     Government, paras 1–2) — not a symptom of a centre's
+     weakening; and neither essay names the fifteenth century,
+     indentures, livery, the écorcheurs or the *Fehde* (assessment
+     §5(ii), confirmed by search). The composite is already marked
+     (c); the correction is that its "weakens" clause must be
+     marked as the book's own conditional, not Tilly's, and is
+     better worded to cover the case the chapter actually
+     documents — capacity not yet formed as well as capacity
+     lapsed (critiques Revisions 7). (iii) §II — "a legal ban on
+     private force, issued by a weak centre, took three generations
+     to become fact." Tilly's terminus for the Empire is later:
+     "in the Empire after the Thirty Years' War only the
+     territorial princes had the right of levying troops and of
+     maintaining fortresses … Everywhere the razing of castles, the
+     high cost of artillery, the attraction of court life, and the
+     ensuing domestication of the nobility had its share" (Gerhard
+     as quoted at Violence and Government, para 8). The draft's
+     "three generations" is measured to Grumbach (1567) and is
+     right for that datum; Tilly's is measured to 1648 and the
+     territorial princes. Proposed: carry Tilly/Gerhard's terminus
+     at footnote level so the tempo lesson Part III takes is the
+     longer one — a ban at the imperial level took effect only when
+     the substrate arrived at the territorial level, 150 years on.
+   - ADDS: the continuum sentence for §II's four legal technologies
+     — "Banditry, piracy, gangland rivalry, policing, and war
+     making all belong on the same continuum" (Warning, para 8) —
+     the theorist's statement of the chapter's finding that the
+     indenture, the free company, the chivalric order and the
+     declared feud were one arrangement in four legal forms;
+     footnote. Stone 1965 (Tilly's carrier for the Tudor
+     campaigns) to the RETRIEVAL LIST at LOW here (ch08/ch11 carry
+     the disarmament). The (a)/(b)/(c) line: the racket frame is
+     Tilly's (a) within the bellicist school and contested outside
+     it (Ertman, Glete, Stasavage — ch10's rivals); the pan-
+     European fifteenth-century instance is the chapter's (c).
+
+8. **(McNeill 1982 — Liège; the §V anomaly's named precedent and
+   its condition.)**
+   - CONFIRMS (a, T2): §V's structure — a supplier of decisive
+     capability the state cannot command because it can go
+     elsewhere — has its sixteenth-century instance stated by a
+     world historian with no stake in this book's wager: "Only
+     when the artisans and capitalists of Liège and other arms
+     centers did not have to part with their goods at prices
+     decreed by Spanish or any other political authority, could
+     rulers get what they wanted in the quantities to which they
+     had become accustomed. Their very weakness thus allowed the
+     Liégeois to set their own prices. Even the mightiest rulers
+     had to pay what was asked, or do without. Nor was Liège
+     unique" (p. 113). §IV's "an incorporated retinue can, in
+     principle, be re-domesticated by the paymaster" — McNeill's
+     concession runs the same way: "in the long run European
+     states actually were strengthened by their involvement in the
+     fiscal web spun by international bankers and suppliers"
+     (p. 114).
+   - CORRECTS (register; NOT applied): §V — "one class of actor
+     has begun to invert the pattern." The inversion is not new in
+     the mechanism's first run: the arms centres inverted it for
+     two centuries, and the state that had subordinated its barons
+     "had to pay what was asked." Proposed: "one class of actor
+     inverts the pattern the contractors present — as the arms
+     centres of the sixteenth century inverted it for two hundred
+     years (McNeill 1982: 113–14)"; the novelty claimed is then
+     the conjunction (force supply chain plus an uncontrolled
+     revenue base) in a contractor-shaped firm, not the inversion
+     itself. §II's "The domestication of the market for force" —
+     McNeill's periodisation (free market → oligopoly →
+     quasi-monopoly, p. 77) is the next chapter's and no
+     correction arises here.
+   - ADDS: the condition of the leverage, which §V lacks. McNeill:
+     "Dozens of other refuges for entrepreneurs were scattered
+     across the face of Europe, thanks to its peculiarly fragmented
+     political geography. Under these circumstances, command simply
+     could not prevail against the market … As long as no single
+     political command structure could reach out to every corner of
+     Latin Christendom … the sovereignty of the market over even
+     the greatest ruler of the age remained an ultimate reality"
+     (p. 114). The lab's 2026 leverage — "$65 billion *while
+     blacklisted*" — is a refuge condition: capital markets and
+     jurisdictions the paymaster has not enclosed. Stated so, §V's
+     "watches" has a mechanism behind it — the bloc settlement is
+     the closure of refuge inside the bloc, and the anomaly is
+     scoreable as the refuge closes or holds (Appendix C's
+     business; ch12 §IV carries the two-century lag as a stated
+     risk, assessment §5(ii)). Critiques Revisions 6.
+
+9. **(Glete 2002 — the double contract; the core competency; the
+   disanalogy's other edge.)**
+   - CONFIRMS (a, T2): §IV's "two mechanisms" (retention; finance)
+     are the fiscal-military state's "double contractual
+     relationship, one between rulers and the society and another
+     between rulers and their armed forces. The rulers raised taxes
+     from society in exchange for protection, violence control and
+     stability. They used these resources to pay their armed
+     forces" (p. 4); the contractor economy is the second contract
+     run through firms. §IV's disanalogy — the contractor "cannot
+     sustain itself against its paymaster for a fiscal quarter" —
+     is Glete's Western form against his Eastern, where "the armed
+     forces often acted as entrenched interest groups of their own,
+     only conditionally controlled by the tsars and sultans," while
+     Western rulers "gained undisputed control … through their
+     unique ability to pay them with resources extracted from their
+     societies" (p. 23).
+   - CORRECTS (register; NOT applied): §IV — "the firms themselves
+     certify, as a formal risk, that they have no fiscal existence
+     independent of the state … the modern contractor cannot
+     sustain itself against its paymaster for a fiscal quarter."
+     True on the firm's side, and the disanalogy is stated on that
+     side only. Glete's asiento is the other edge: "The asiento
+     system … to an increasing extent left core competencies to
+     entrepreneurs, who developed skills so specialised that the
+     state often had no realistic alternative but to negotiate new
+     contracts with little competition" (p. 131); "The role of the
+     organisation as a social power container for skills and the
+     development of skills was seriously weakened when its core
+     competence was bought on the market" (p. 134). Whether the
+     paymaster could re-source Booz Allen's cleared workforce, or
+     the decision-support tier, within the quarter in which it
+     resolved "to pay only on its own terms" is not measured in
+     the chapter. Proposed: one clause conceding the two-sided
+     dependence — fiscal dependence the firm's, operational
+     dependence the state's — so that ch11's re-domestication is
+     priced honestly (critiques Revisions 8).
+   - ADDS: Glete's core/peripheral distinction as the vocabulary
+     for §III's inventory and §V's tier — "core or system
+     competencies, highly specific for such a complex and
+     policy-determined military system," against those "easier to
+     specify in a formal contract with an entrepreneur, who remains
+     outside or on the periphery of the system" (p. 131):
+     logistics and custody peripheral, cleared analysis and
+     decision support core, on his test; and the Spanish precedent
+     for §III's list of privatised functions — "From 1633,
+     gunpowder production was transferred to private contractors,
+     thus practically making the entire Spanish weapon industry
+     private" (p. 135) — footnote. Glete's chronology quarrel (no
+     fiscal-military state before 1560) is ch10's and not entered
+     here.
+
+10. **(Ruggie 1993 — the mercenary taboo's genealogy.)**
+   - CONFIRMS (a, T2 at one remove): §III — "the centuries-old
+     taboo against mercenarism has eroded." The taboo is real and
+     named in the IR canon: "when the concept of state sovereignty
+     expanded to become the concept of national sovereignty, the
+     use of mercenaries in warfare declined and ultimately was
+     eliminated altogether. Armed forces subsequently became an
+     expression of the nation" (p. 163, resting on Thomson 1990 at
+     n. 115).
+   - CORRECTS (precision; NOT applied): "centuries-old" counts
+     from the formation of *national* sovereignty — the late
+     eighteenth and nineteenth centuries on Ruggie's dating — and
+     the fifteenth century had no such taboo: §II's own record is
+     of écorcheurs absorbed, not proscribed. The sentence is right
+     in count and misleading in genealogy if a reader takes the
+     taboo as medieval. Proposed: a clause or footnote dating the
+     taboo's formation to the nation-state, with Thomson at one
+     remove until retrieved (RETRIEVAL LIST, MEDIUM, sources.md
+     this date).
+   - ADDS: nothing further; the article's other pins are ch01's,
+     ch10's and ch12's.
+
+11. **(Not placed in this chapter by their assessments — nothing
+   entered; the two adjacencies recorded.)** Ertman (placed ch10
+   §§III/VII, ch11 §§I–II, ch12 §§IV–V): his p. 94 — the
+   *compagnies d'ordonnance* "controlled and commanded by the local
+   royal governor, almost always a member of a prominent magnate
+   family," their ranks filled "with representatives of the most
+   important local clans and factions" — touches §II's "the state,
+   when it finally bought the industry, bought only the respectable
+   end of it": the respectable end then ran the companies as
+   magnate patronage, which is ch11 §I's stated defect of the
+   French settlement, not this chapter's; his local-government
+   variable is placed nowhere in Part I. Cheung (placed ch2, ch9,
+   ch10 §§VII–VIII, ch12 §IV, Appendix C): pp. 290–91 (the top five
+   technology firms outspending the top five defence primes on R&D
+   "ten times" over; the DoD at "3.6 percent of global R&D outlays")
+   is ch10 §VIII's "frontier-lab anomaly with a series behind it" —
+   the series §V would want, held there. Suleyman, Farrell &
+   Newman (both), Krasner, Stasavage, Goldsmith & Wu, Wu, Schmitt,
+   Scott, Bagehot, Crouch, Commynes tome III and Chastellain tome
+   III place nothing here.
+
+12. **(Flags — STEP 1.4.)** No [GAP], [VERIFY], [SOURCE] or
+   [RE-CHECK] flag in draft.md is closed by the 14 September
+   assessments, positively or negatively: [GAP: McFarlane's 1945
+   article and Hicks], [GAP: enforcement record awaits McKelvie],
+   [GAP: Vaughan, *Philip the Good*], [GAP: Zmora for the post-1495
+   statistics], [GAP: pull the defense.gov primaries] and
+   [RE-CHECK AT PRESS] (the Anthropic–Pentagon episode) all stand.
+   Nothing marked CLOSABLE AT RENOVATION; nothing marked RE-SOURCE
+   OR CUT.
+
+**Register decisions proposed for the rulings sheet** (stated, not
+recommended; lettered for STEP 4's consolidation):
+- **3-a.** §I: "Tilly's protection-market frame" reworded to
+  "protection-racket frame (Lane's market, as Tilly carries it)",
+  and the composite's "where the fiscal-military capacity of
+  central authority weakens" clause marked as the book's own
+  conditional, worded to cover capacity not yet formed as well as
+  capacity lapsed.
+- **3-b.** §V: the inversion sentence carries McNeill's Liège as
+  the named sixteenth-century precedent, and the lab's leverage is
+  stated as a refuge condition the bloc mechanism predicts will
+  close, with the two-century lag as a stated risk (the lag's
+  scoring belongs to ch12 §IV and Appendix C).
+- **3-c.** §IV: the dependence disanalogy made two-sided in one
+  clause — fiscal dependence the firm's, operational dependence
+  the state's (Glete's asiento; core competency) — so that ch11's
+  re-domestication is priced with the state's exposure visible.
+- **3-d.** §III: "the centuries-old taboo against mercenarism"
+  dated to the nation-state (Ruggie via Thomson) in a clause or
+  footnote; Thomson to the RETRIEVAL LIST.
+- **3-e.** §II: the German tempo sentence keeps "three
+  generations" for Grumbach and carries Tilly/Gerhard's
+  post-1648 territorial terminus at footnote level, so that the
+  lesson Part III takes is the longer one.
+
+STATUS: Revisions 7–12 PENDING HUMAN REVIEW; Revisions 1–6 as
+before.

@@ -160,3 +160,112 @@ gets its own chapter precisely because it does not fit this one.
   leash noted?
 
 *(Run pending; results to be pasted below with date.)*
+
+## Revisions (2026-09-16 — catch-up run STEP 3, PENDING HUMAN REVIEW)
+
+*Objections from the 14 September assessments that reach argument
+level in this chapter, steelmanned at the assessments' strength,
+with the assessments' answers and gradings preserved; where the
+assessment placed the work at footnote level and named no
+objection for this chapter, the objection below is the one its
+material raises against the chapter's argument, and is graded
+here. Pins verified in the sidecars (sources.md block of this
+date). Numbering continues the five objections above.*
+
+6. **McNeill — the anomaly is the norm of the first run: the
+   barons went first and the gunmakers held their price for two
+   centuries.** Steelman: §IV's disanalogy ("an incorporated
+   retinue can, in principle, be re-domesticated by the paymaster")
+   and §V's "exception" both assume that the state absorbs the
+   supplier of decisive capability as it absorbed the retinue.
+   McNeill's record says it did not, for two hundred years: the
+   artillery state subordinated its barons and was itself held to
+   ransom by its bankers and gunmakers — "command simply could not
+   prevail against the market as a way to marshal men and
+   resources"; "Even the mightiest rulers had to pay what was
+   asked, or do without" (pp. 113–14); Philip II, who "knew how to
+   tax and how to confiscate," could not make his own cannon
+   factories flourish (p. 113). If the mechanism is exact, the
+   frontier lab is not an anomaly to be watched but the
+   mechanism's expected residue — Liège, not Sforza — and the
+   chapter's close sends the reader to the wrong precedent: the
+   captain who took a duchy, when the nearer case is the foundry
+   that kept its price and never sought sovereignty. **Answer**
+   (graded, per the assessment, GOOD on direction and EXPOSED on
+   timetable): (i) the dependence ran on jurisdictional refuge —
+   "Dozens of other refuges for entrepreneurs were scattered across
+   the face of Europe, thanks to its peculiarly fragmented
+   political geography" (p. 114) — and the bloc settlement is the
+   closure of refuge inside each bloc; the lab's 2026 leverage is
+   refuge-dependent in the same sense (capital markets and
+   jurisdictions the paymaster has not enclosed), which is why §V
+   watches rather than predicts, and why the anomaly is scoreable;
+   (ii) McNeill concedes the hybrid — states "strengthened by their
+   involvement in the fiscal web" (p. 114) — so the lag is a lag,
+   not a reversal; (iii) the two precedents are not rivals but the
+   two exits from the contractor's position: Sforza converts
+   independent finance into sovereignty (ch04), Liège keeps its
+   price without seeking it, and §V should name both. What the
+   objection rightly forces is that the lag be carried as a stated
+   risk where the verdicts are given (ch12 §IV) and that the
+   foundry's pricing power be scored apart from the contractors'
+   subordination (Appendix C). No spine ruling reached from this
+   chapter.
+
+7. **Tilly — the composite's conditional clause is not his, and
+   his fifteenth century is the before-state.** Steelman (refining
+   Objection 2): the composite reads "where the fiscal-military
+   capacity of central authority weakens, the great subjects raise
+   private forces." Tilly's armed lords are not a symptom of a
+   centre's weakening but the standing condition — "Early in the
+   state-making process, many parties shared the right to use
+   violence" (Violence and Government, paras 1–2); "Many lords who
+   did not pretend to be kings … successfully claimed the right to
+   levy troops and maintain their own armed retainers" (para 4) —
+   and his subordination of private force is Tudor, Richelieu's
+   "in the 1620s," and the Empire's after 1648 (paras 6–8), the
+   fifteenth century absent from both essays. The frame licenses
+   the racket; it does not license the "weakening," and the
+   chapter's pan-European fifteenth century is, on Tilly's clock,
+   simply what every state-maker started from. **Answer** (graded
+   ADEQUATE): (i) Objection 2's answer already absorbs Kaminsky's
+   "institution, not decay"; Tilly's "standing condition" is the
+   same correction from the theorist's side, and the chapter's
+   revised formulation — private force as a legally instituted
+   layer that central authority later licensed, restricted and
+   absorbed — already says it. The cost is one clause: the
+   composite's condition is capacity not yet formed *or* lapsed,
+   and the "weakens" wording is the book's own, marked (c);
+   (ii) Tilly's chronology is a quarrel for ch10 §VII (Bean; the
+   Normandy sieges he does not name), not this chapter's; here it
+   requires only that §II's German tempo carry his later terminus
+   (memo Revisions 7). No spine ruling reached.
+
+8. **Glete — dependence runs both ways.** Steelman: the chapter
+   rests the coming re-domestication (ch11) on the contractor's
+   fiscal dependence, filed with the SEC. Glete's asiento shows the
+   contractor holding a core competency to be the party with
+   leverage: "skills so specialised that the state often had no
+   realistic alternative but to negotiate new contracts with little
+   competition" (p. 131); and the organisation that buys its core
+   competence on the market loses the capacity to rebuild it
+   (p. 134). The 98 per cent measures the firm's exposure; the
+   state's — whether it could re-source the cleared workforce or
+   the decision-support tier — the chapter does not measure, and
+   if it cannot, the paymaster's "resolve to pay only on its own
+   terms" is a threat it cannot execute, and the disanalogy proves
+   less than §IV claims. **Answer** (graded ADEQUATE; the
+   assessment places Glete at footnote level here): (i) concede in
+   one clause — the disanalogy is about fiscal existence, not
+   operational substitutability; the state's operational dependence
+   is real and is the Glete/Parrott warning ch11 must weigh;
+   (ii) Glete's own criterion sorts the chapter's cases: logistics
+   and asylum accommodation are peripheral competencies
+   (contractable, re-tenderable), cleared analysis and
+   decision support core; the chapter's tiering by function already
+   runs that line, and §V's anomaly is the core-competency case;
+   (iii) the objection strengthens the sequencing claim rather
+   than the reverse — it is precisely the core-competency
+   contractors whom a consolidating state must absorb rather than
+   re-tender, which is ch11's prediction and the reason the chapter
+   ends on the labs. No spine ruling reached.

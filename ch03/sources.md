@@ -195,3 +195,227 @@ retrieval-master.md on any retrieval.*
   domestication claim at its widest; Hoffman's Wallenstein datum
   (a self-financing army of 50,000 feasible where 20,000 was not)
   as the scale footnote.
+
+## Added 2026-09-16 — catch-up run STEP 3 (assessments of 14 September; pins verified against sidecars)
+
+*From research/assessments-2026-09-14/ (the map, not the authority);
+every pin opened in the named sidecar this date. No draft edited.
+Master entries for the September-14 works sit in the chapters their
+assessments place first; this chapter takes POINTER entries with the
+pins it uses. Register decisions proposed for the rulings sheet are
+lettered "3-a", "3-b" … at the foot of memo.md's Revisions block of
+this date; the sheet's consolidated lettering is assigned at STEP 4.
+Block begun by the run's second attempt and completed by its third
+(both this date): every pin below was re-opened in the sidecar at
+completion — Tilly ll. 6, 14, 20, 40–48, 55–56, 104–07, 129;
+McNeill PDF 78, 86, 122–23; Glete PDF 13, 32, 140, 143–44; Ruggie
+PDF 26 — and all confirmed.*
+
+- **T2 — Charles Tilly, "War Making and State Making as Organized
+  Crime," in Evans, Rueschemeyer and Skocpol (eds), *Bringing the
+  State Back In* (Cambridge, 1985), pp. 169–191; with "Western
+  State-Making and Theories of Political Transformation," in Tilly
+  (ed.), *The Formation of National States in Western Europe*
+  (Princeton, 1975), ch. 9, pp. 601–638** — IN REPO (sidecars
+  `text-2026-09-14/Tilly-1985-WarMaking.txt`, from a .doc, NO printed
+  pagination — pins by section heading, paragraph and sidecar line;
+  `Tilly-1975-Western-State-Making-ocr.txt`, printed = PDF−600,
+  ch. 9 only). POINTER — master entry at ch10/sources.md (STEP 3
+  block of this date, l. c. 1003, written by the ch10 pass while
+  this block was in progress); full entries stand at
+  ch06/sources.md (l. 743, the Bean verdict)
+  and ch12/sources.md (l. 1300, Lane's owners); the racket-frame
+  pins are fullest here and ch08's STEP 3 block points to this one
+  for them. This chapter's own T2 line above ("Charles Tilly,
+  'War Making and State Making as Organized Crime' (1985) — open PDF.
+  Component support for the composite thesis") stands but carries no
+  pin; these are the pins. THE FRAME AT SOURCE (§I's "Tilly's
+  protection-market frame"): "war making and state making —
+  quintessential protection rackets with the advantage of legitimacy
+  — qualify as our largest examples of organized crime" (Warning,
+  para 1; sidecar l. 6, verified); "Someone who produces both the
+  danger and, at a price, the shield against it is a racketeer"
+  (Double-Edged Protection, para 2; l. 20, verified); and the market
+  proper, which is Lane's, reported by Tilly — "governments are in
+  the business of selling protection . . . whether people want it or
+  not," with Lane's argument "that the very activity of producing and
+  controlling violence favored monopoly, because competition within
+  that realm generally raised costs, instead of lowering them. The
+  production of violence, he suggested, enjoyed large economies of
+  scale" (Protection as Business, paras 1–2; ll. 55–56, verified).
+  The word Tilly uses is "racket"; "protection-market" is Lane's
+  frame as Tilly carries it. THE OVER-MIGHTY SUBJECT, for §I–§II:
+  "Many lords who did not pretend to be kings, furthermore,
+  successfully claimed the right to levy troops and maintain their
+  own armed retainers. Without calling on some of those lords to
+  bring their armies with them, no king could fight a war; yet the
+  same armed lords constituted the king's rivals and opponents, his
+  enemies' potential allies. … For the same reason, disarming the
+  great stood high on the agenda of every would-be state maker"
+  (Violence and Government, para 4; ll. 40–41, verified). THE FOUR
+  ACTIVITIES, for §I's "state functions": "1. War making:
+  Eliminating or neutralizing their own rivals outside the
+  territories … 2. State making: Eliminating or neutralizing their
+  rivals inside those territories 3. Protection: Eliminating or
+  neutralizing the enemies of their clients 4. Extraction: Acquiring
+  the means of carrying out the first three activities" (What Do
+  States Do?, para 1; ll. 104–07, verified); and the continuum —
+  "Banditry, piracy, gangland rivalry, policing, and war making all
+  belong on the same continuum" (Warning, para 8; l. 14, verified).
+  NEGATIVE FINDING (assessment §5(ii), confirmed by search): neither
+  essay names the fifteenth century, indentures, livery, the
+  écorcheurs or the *Fehde*; Tilly's disarmament story is Tudor
+  (undated within the dynasty, resting on Stone — "The greatest
+  triumph of the Tudors … the ultimately successful assertion of a
+  royal monopoly of violence both public and private," para 5,
+  l. 42, citing *The Crisis of the Aristocracy*, p. 200, at his
+  n. 3, l. 149), Richelieu "in the 1620s" and the Empire after 1648
+  (Violence and Government, paras 6–8; ll. 43–48; Gerhard, *Old
+  Europe*, pp. 124–25, at his n. 4, l. 150). USE-NOTE: T2 ally for the frame, by name, at the
+  pin — and the composite's "where the fiscal-military capacity of
+  central authority weakens" clause is NOT his: his armed lords are
+  the standing condition — "Early in the state-making process, many
+  parties shared the right to use violence" (Violence and
+  Government, paras 1–2; ll. 35–36, verified) — not a symptom of a
+  centre's weakening (critiques Revisions this date).
+  Publication 1975/1985; the 1990 book (*Coercion, Capital, and
+  European States*, cited elsewhere in the manuscript) supersedes
+  neither essay on the racket frame, which is stated only here.
+
+- **T2 — William H. McNeill, *The Pursuit of Power: Technology, Armed
+  Force, and Society since A.D. 1000* (Chicago, 1982)** — IN REPO
+  (sidecar `text-2026-09-14/McNeill.txt`; printed = PDF+9; OCR clean
+  at the pins). POINTER — the Liège pins are entered at
+  ch02/sources.md (the assessment's "chs 2–3 and 12 §III"); the
+  condottieri-market pins at ch04/sources.md; further entries at
+  ch05/ch06/ch11/ch12. Pins THIS chapter uses (§V, the anomaly):
+  Liège, 1492 — the arms centre whose weakness was its leverage:
+  "Only when the artisans and capitalists of Liège and other arms
+  centers did not have to part with their goods at prices decreed by
+  Spanish or any other political authority, could rulers get what
+  they wanted in the quantities to which they had become accustomed.
+  Their very weakness thus allowed the Liégeois to set their own
+  prices. Even the mightiest rulers had to pay what was asked, or do
+  without. Nor was Liège unique" (p. 113 / PDF 122, verified);
+  "Dozens of other refuges for entrepreneurs were scattered across
+  the face of Europe, thanks to its peculiarly fragmented political
+  geography. Under these circumstances, command simply could not
+  prevail against the market as a way to marshal men and resources.
+  As long as no single political command structure could reach out
+  to every corner of Latin Christendom, and so acquire the
+  capability of nipping capitalist accumulation in the bud, the
+  sovereignty of the market over even the greatest ruler of the age
+  remained an ultimate reality" (p. 114 / PDF 123, verified); and
+  the concession — "in the long run European states actually were
+  strengthened by their involvement in the fiscal web spun by
+  international bankers and suppliers" (p. 114 / PDF 123, verified).
+  ADJACENT, PLACED AT ch04 BY THE ASSESSMENT (verified here, not
+  entered as a ch03 pin): "Commercialization of organized violence
+  came vigorously to the fore in the fourteenth century when
+  mercenary armies became standard in Italy" (p. 69 / PDF 78); the
+  Italian market's arc "from a nearly free market … towards
+  oligopoly … followed by quasi-monopoly within each of the larger
+  and better-administered states" (p. 77 / PDF 86, verified) — the
+  periodisation §II's "domestication of the market for force"
+  sentence gestures at, owned by the next chapter. USE-NOTE: T2, the
+  named precedent for §V — a supplier of decisive capability the
+  state could not command because it could go elsewhere; and the
+  RIVAL at argument level (critiques this date): the barons went
+  first and the gunmakers held their price for two centuries.
+  Publication 1982; his technical chronology is superseded by Hall
+  1997 (ch06's entry) and is not used here.
+
+- **T2 — Jan Glete, *War and the State in Early Modern Europe: Spain,
+  the Dutch Republic and Sweden as Fiscal-Military States, 1500–1660*
+  (Routledge, 2002)** — IN REPO (sidecar `text-2026-09-14/Glete.txt`;
+  printed = PDF+9; text layer clean; tables scrambled, nothing quoted
+  from them). POINTER — full entries at ch01/ch04/ch05/ch06/ch11/ch12;
+  master to be written at ch10/sources.md (§III, §VII). Pins THIS
+  chapter uses (assessment §6: "Ch. 3 §III … footnotes: the double
+  contract"; §4(1): "Ch. 12 §IV and Ch. 3 — the vocabulary for
+  'control of the decisive layer, provision by contract'"): THE
+  DOUBLE CONTRACT — the fiscal-military state "was based on a double
+  contractual relationship, one between rulers and the society and
+  another between rulers and their armed forces. The rulers raised
+  taxes from society in exchange for protection, violence control and
+  stability. They used these resources to pay their armed forces,
+  which were the instruments the rulers used to enforce the services
+  the society paid for" (p. 4 / PDF 13, verified); the Eastern
+  comparator, where "the armed forces often acted as entrenched
+  interest groups of their own, only conditionally controlled by the
+  tsars and sultans," against the West, where rulers "gained
+  undisputed control of permanent and increasingly disciplined armed
+  forces through their unique ability to pay them with resources
+  extracted from their societies" (p. 23 / PDF 32, verified). CORE
+  AND PERIPHERAL COMPETENCIES — "complex military systems depend on
+  a wide spectrum of different competencies. Some may be described
+  as core or system competencies, highly specific for such a complex
+  and policy-determined military system, while others are less
+  specific to that system and easier to specify in a formal contract
+  with an entrepreneur, who remains outside or on the periphery of
+  the system. … The asiento system as it developed in the Spanish
+  monarchy to an increasing extent left core competencies to
+  entrepreneurs, who developed skills so specialised that the state
+  often had no realistic alternative but to negotiate new contracts
+  with little competition" (p. 131 / PDF 140, verified); "The role of
+  the organisation as a social power container for skills and the
+  development of skills was seriously weakened when its core
+  competence was bought on the market" (p. 134 / PDF 143, verified);
+  "From 1633, gunpowder production was transferred to private
+  contractors, thus practically making the entire Spanish weapon
+  industry private" (p. 135 / PDF 144, verified). USE-NOTE: T2 ally
+  at footnote level for §III–§IV (the contractor economy as the
+  second contract run through firms) and the vocabulary for §V (the
+  decision-support tier as a core competency contracted out — the
+  asiento warning is the other edge of §IV's dependence disanalogy).
+  Publication 2002; the rival chronology (no fiscal-military state
+  before 1560) is ch10's business, not this chapter's.
+
+- **T2 — John Gerard Ruggie, "Territoriality and Beyond:
+  Problematizing Modernity in International Relations," *International
+  Organization* 47:1 (1993), pp. 139–174** — IN REPO (sidecar
+  `text-2026-09-14/Ruggie.txt`; printed = PDF−137; OCR runs words
+  together — wording verified, spacing restored). POINTER — master
+  entry at ch01/sources.md (l. 349); further entries at ch02/ch04/
+  ch05/ch12. Pin THIS chapter uses (assessment §4(5): "The mercenary
+  taboo's genealogy, ch. 3/4"): "when the concept of state
+  sovereignty expanded to become the concept of national sovereignty,
+  the use of mercenaries in warfare declined and ultimately was
+  eliminated altogether. Armed forces subsequently became an
+  expression of the nation" (p. 163 / PDF 26, verified), resting on
+  n. 115: Janice E. Thomson, "State Practices, International Norms,
+  and the Decline of Mercenarism," *International Studies Quarterly*
+  34 (1990) (n. 115 / PDF 26, verified). USE-NOTE: footnote-level
+  T2 for §III's "the centuries-old taboo against mercenarism has
+  eroded" — the taboo's genealogy is the nation-state's, not the
+  fifteenth century's; Thomson at one remove until retrieved.
+
+- **RETRIEVAL LIST — add:** Janice E. Thomson, "State Practices,
+  International Norms, and the Decline of Mercenarism," *ISQ* 34
+  (1990), and *Mercenaries, Pirates, and Sovereigns* (Princeton,
+  1994) — MEDIUM for §III (the taboo dated at T2; Ruggie carries it
+  at one remove). Lawrence Stone, *The Crisis of the Aristocracy*
+  (Oxford, 1965) — LOW here (ch08/ch11 carry the Tudor disarmament;
+  Tilly's four campaigns rest on him).
+
+- **NOT PLACED IN THIS CHAPTER by their assessments (nothing
+  entered; adjacencies recorded for Roderick):** Ertman — the
+  assessment places him at ch10/ch11/ch12; his p. 94 / PDF 109 (the
+  *compagnies d'ordonnance* "controlled and commanded by the local
+  royal governor, almost always a member of a prominent magnate
+  family," their ranks filled "with representatives of the most
+  important local clans and factions") is placed at ch11 §I and
+  touches §II's "the state, when it finally bought the industry,
+  bought only the respectable end of it" — adjacency only; his
+  local-government variable is placed nowhere in Part I. Cheung —
+  pp. 290–91 / PDF 305–06 (the top five technology firms spending
+  "ten times more annually on R&D than the top five US defense prime
+  contractors"; the DoD at "3.6 percent of global R&D outlays") is
+  placed at ch10 §VIII as "the frontier-lab anomaly with a series
+  behind it" — adjacency to §V, not entered. Suleyman — p. 207 /
+  PDF ~227 ("the frontier of this wave is found in corporations")
+  is placed at ch5 (T3). Farrell & Newman (article) — the hub as
+  "instrument, not over-mighty citizen" is placed at ch12 §IV;
+  adjacency to §V. Krasner, Stasavage, Goldsmith & Wu, Wu, Schmitt,
+  Scott, Bagehot, Crouch, Commynes and Chastellain place nothing
+  here.
