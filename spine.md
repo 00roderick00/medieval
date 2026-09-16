@@ -452,8 +452,27 @@ rapid or vast technological change makes our minds feel besieged, and
 in that state we surrender quickly. Wording to be settled at the
 renovation.
 
-Deferred pending fuller explanation: (p) print as the second medium;
-(aa) the untidy-cases restatement. (y) yes with caveats to be stated.
+(p) Print: the first option — print stays as a second instance of the
+mechanism; "capital-intensive" goes; the harness was the canon and the
+register, not the plant; the press is stated as the weapon subjects
+could always replicate, a disanalogy the mechanism survives; the
+1670–88 quo warranto goes to ch12 as absorption attempted and reversed.
+
+(aa) Ch06's proof is restated: "controlled comparisons" dropped; the
+claim is an organised system — guns, powder, gunners' pay, carriage,
+siege pay, all on permanent taxation — that made continued resistance
+unaffordable whatever a garrison's circumstances, and that explains the
+failures (Burgundy, Venice, the Ottomans) as well as the successes.
+Establishment cost, not weapon price; money collected, not money
+planned.
+
+(y) Talbot, in Roderick's words: "Talbot may or may not be a good
+military commander — the evidence is mixed. On the one hand he lost
+battles, and famously the last one. On the other, his fame survived a
+hundred years into the Shakespearean history plays, and he was clearly
+feared by contemporaries." The recast (the expert whose system stopped
+supplying the means) carries that ambivalence and does not resolve it;
+the plot/intention distinction stays visible.
 
 [GOVERNS: the renovation, with (g).]
 
