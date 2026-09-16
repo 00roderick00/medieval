@@ -305,3 +305,132 @@ accordingly.*
   p. 141; p. 156; p. 254; pp. 303–04; p. 314; p. 318. All sidecar
   verified 2026-09-16 except p. 58/64 (contingency; carried from
   the assessment's PDF 72/78 pins — verify at page image).
+
+## Added 2026-09-16 — catch-up run STEP 3 (assessments of 14 September; pins verified against sidecars)
+
+*From research/assessments-2026-09-14/ (the map, not the authority);
+every pin opened in the named sidecar this date. No draft edited. No
+STEP 3 block yet exists in any other chapter, so pointers name the
+chapter whose block will hold the master entry.*
+
+- **T2 — James C. Scott, *Seeing Like a State* (Yale, 1998)** — IN
+  REPO (`corpus/retrieved/Scott-Seeing-Like-a-State.pdf`; sidecar
+  `text-2026-09-14/Scott.txt`; printed = PDF+17; OCR clean at the
+  pins). POINTER — master entry to be written at ch12/sources.md
+  (§§II–III); the Coda's method note carries him. Pins THIS chapter
+  uses (assessment §6: "Ch. 7: the 1381 poll-tax rising (p. 68) and
+  the Kula bushel (p. 28), evidence, footnote-level"): "The great
+  English peasant rising of 1381 (often called the Wat Tyler
+  Rebellion) is attributed to an unprecedented decade of
+  registrations and assessments of poll taxes" (p. 68 / PDF 85,
+  sidecar verified — one sentence, resting on his n. 52; the
+  secondary he cites is to be identified at the page image before
+  the sentence carries more than a footnote); the same page on the
+  English fourteenth century — "many of these fourteenth-century
+  surnames were clearly nothing more than administrative fictions
+  designed to make a population fiscally legible" (p. 68 / PDF 85,
+  verified); the Florentine catasto of 1427, "an audacious attempt
+  to rationalize the state's revenues and military strength,"
+  failed against "popular resistance, the noncompliance of many
+  local elites" (p. 66 / PDF 83, verified); and, via Kula, "the
+  size of the bushel (boisseau) used to collect the main feudal rent
+  (taille) increased by one-third between 1674 and 1716 as part of
+  what was called the réaction féodale" (p. 28 / PDF 45, verified).
+  PERIOD CAUTION (CLAUDE.md §5): the Kula datum is 1674–1716 — a
+  PARALLEL to §V's Armer Konrad weights of 1514, not a source for
+  it; Scott's fifteenth-century matter is thin (the catasto; the
+  surnames) and he is authority for the legibility MECHANISM, never
+  for any rising's facts. USE-NOTE: resistance to legibility, not
+  merely to the levy, completes the fiscal-rising pattern the
+  chapter opens with Cade and the German conspiracies. VOICE NOTE
+  (assessment §4(5)): "legibility" in the technical sense is his;
+  §V's "the pattern its most legible fiscal mechanics" is a casual
+  use — memo Revisions this date.
+
+- **T2 — David Stasavage, *States of Credit: Size, Power, and the
+  Development of European Polities* (Princeton, 2011)** — IN REPO
+  (EPUB-derived sidecar `text-2026-09-14/Stasavage.txt`, "=====
+  FILE: partNNNN.html =====" markers, NO printed pagination — pins
+  are chapter, section and sidecar line; every pin must be re-set
+  to a printed page before it enters a chapter — PENDING
+  VERIFICATION in that sense). POINTER — master entry to be written
+  at ch10/sources.md (§§III, VI, VII, BY NAME) with ch04 §VI. Pins
+  THIS chapter uses (assessment §6: "Ch. 7: footnotes — the
+  debt-tax cleavage; Cologne 1481/1513; Genoa's burned list; Siena
+  1355"): THE CLEAVAGE — "merchants tended to own debt whereas
+  members of the craft guilds bore a significant part of the tax
+  burden necessary to service this debt" (ch. 1, "Representative
+  Assemblies," part0008_split_003; sidecar l. 243, verified);
+  COLOGNE — "Political revolts occurred in Cologne in 1371 and
+  1396, and again in 1481 and 1513. In each of the four instances
+  dissatisfaction with decisions regarding debt and taxation …
+  In 1481 a proposed increase in excise taxation triggered a revolt
+  in which its more radical leaders called for a suspension of
+  payments" on the debt (ch. 6, part0013_split_004; l. 1020,
+  verified); "A first revolt occurred in 1481, followed by another
+  significant revolt in 1513" (l. 999, verified); free election of
+  Gaffel representatives "briefly established during a popular
+  uprising in 1481, but … abolished in 1482 following the overthrow
+  of the rebellion" (l. 1012, verified); GENOA, 1339 — "One of the
+  new regime's first acts was to burn the official list of the
+  state's creditors" (ch. 6, part0013_split_008; l. 1054,
+  verified); SIENA — the regime of the Nine "came to an end in 1355
+  as a result of a popular revolt," followed by the Dodici
+  (1355–68), the Riformatori (1368–85) and the Priori (1385–99)
+  (ch. 6; l. 1114, verified), Siena enjoying credit "prior to 1355
+  while lacking it thereafter" (l. 1111); and, for §IV, Caferro on
+  the Albizzi regime (1382–1434) as the source of Florence's
+  "greater ability to obtain access to credit" (l. 1123, verified).
+  NOTE against the draft: §V's Cologne "1481, 1512 and 1513" — 1512
+  does not occur in Stasavage (his list is of debt-and-tax revolts:
+  1371, 1396, 1481, 1513); no contradiction, no support for 1512
+  either; his 1371 and 1396 are not the unverified "wave in the
+  1460s and 70s" the draft declines to assert. USE-NOTE: T2 ally at
+  footnote level — the creditor/taxpayer split as the urban form
+  of the chapter's propertied-anxious mechanics; the rival limbs
+  (scale, credit and the bloc thesis; taxation without assemblies)
+  are ch10's and ch12's. Publication 2011; his only Venetian source
+  is Lane 1973 (one witness with ch04's).
+
+- **T1 — Georges Chastellain, *Œuvres*, ed. Kervyn de Lettenhove,
+  tome III (Chronique 1454–1458) (Brussels, 1863)** — IN REPO
+  (sidecars `text-2026-09-14/Chastellain-vol15-ocr.txt`, the
+  complete copy, printed = PDF+10; `-vol01-` defective). POINTER —
+  master entry to be written at ch11/sources.md (the retrieval row
+  at l. 531 to be converted; ch11 §VII is the placement, "T1,
+  evidence, by name in the text"). What touches THIS chapter
+  (assessment §§3–4): §III's Praguerie settlement — "Bourbon and
+  Alençon retired to their lordships unpunished" (1440; Vale 1974:
+  82) — is NOT contradicted, and tome III supplies the other end of
+  the arc at T1: the arrêt of 10 October 1458 declaring Alençon
+  "crimineux de crisme de lèse-majesté" (p. 481 / vol15 PDF 491),
+  the execution deferred "jusques à son bon plaisir" (p. 484 /
+  PDF 494), the movables left to wife and children "réservé au roy
+  l'artillerie, harnois et autres habillemens de guerre" (p. 486 /
+  PDF 496) — pins from the assessment, the p. 486 clause to be
+  re-verified at the page image before any ch07 use. The 1440
+  impunity and the 1458 sentence bracket the eighteen years in
+  which the instrument changed from calibrated pardon to the lit
+  de justice. GHENT 1458 — the town meeting its prince in black,
+  keys in hand, the streets hung with "Veni nobis, pacificus
+  dominus; utere servitio nostro, sicut placuerit tibi" (pp. 412–13
+  / vol15 PDF 422–23, sidecar verified this date; Kervyn's text
+  renders it "Viens devers nous, paisible seigneur, et comme il te
+  plaira, use de nous et de notre service") — the assessment places
+  this as "colour, footnote level" WITHOUT a chapter; it is NOT
+  entered as a ch07 pin, and is recorded here only so that Roderick
+  can place it (§V's urban theatres would be the seat) or leave it.
+  USE-NOTE: ally as archive, rival as interpreter — his frame
+  (dynastic pity, providence, Burgundian grievance) flagged wherever
+  a transcription serves the institutional argument.
+
+- **NOT PLACED IN THIS CHAPTER by their assessments (nothing
+  entered):** Tilly 1975 and 1985 — the assessment places "When
+  ordinary people resisted vigorously, authorities made
+  concessions: guarantees of rights, representative institutions,
+  courts of appeal" (1985, How States Formed, para 1; sidecar
+  l. 129, verified) at ch12 §VII and the Coda, not here, though it
+  touches §VII's inventory — recorded as an adjacency for
+  Roderick, not as an entry; McNeill; Goldsmith & Wu; Krasner;
+  Farrell & Newman (both); Glete; Commynes tome III; Schmitt; Wu;
+  Cheung; Suleyman; Ruggie; Bagehot; Crouch; Ertman.

@@ -212,3 +212,75 @@ downsized.
    correctly restated as the full-stack state, not the barrel.
    One sentence in the chapter; the wording change is
    ruling-sheet §5(t) and (i).
+
+## Revisions (2026-09-16 — catch-up run STEP 3, PENDING HUMAN REVIEW)
+
+*Objections from the 14 September assessments that reach argument
+level in this chapter, steelmanned at the assessments' strength,
+with the assessments' answers and gradings preserved; where the
+assessment placed the work at footnote level and named no
+objection for this chapter, the objection below is the one its
+material raises against the chapter's form, and is graded here.
+Pins verified in the sidecars (sources.md block of this date).*
+
+3. **Scott's 1381 — the chapter's form excludes the best-known
+   English fiscal rising.** Steelman: the chapter defines its
+   object as the propertied-anxious revolt and runs it from Cade
+   (1450) through the Praguerie, the Ciompi and the German series;
+   yet the English rising that a T2 authority ties most directly
+   to the state's fiscal instruments — "attributed to an
+   unprecedented decade of registrations and assessments of poll
+   taxes" (Scott, p. 68) — is absent, and it is absent because it
+   does not fit: 1381 rose against the register, not the levy, and
+   its host was not, on the received account, the propertied
+   middle. If the form is defined to leave out 1381, the form is
+   defined by its conclusions. **Answer** (graded PLAUSIBLE,
+   UNPROVEN pending the standard literature): (i) Scott's point is
+   the chapter's, stated one level up — resistance to legibility
+   is the fiscal-rising pattern's purest case, because a
+   registration is a levy's precondition (the catasto of 1427
+   failed the same way, p. 66), and 1381 belongs in the pattern's
+   opening at footnote level; (ii) the form-definition already
+   provides for it — "Where a rising fell below the propertied line
+   or broke above it, the ending was different" — so 1381's
+   placement against the line is a question the chapter can ask
+   rather than a counterexample it must hide; (iii) but the chapter
+   holds no T2 on 1381's composition (Dobson, Hilton — neither in
+   corpus), and Scott's sentence rests on his n. 52; until one is
+   retrieved the placement cannot be argued, only flagged. No spine
+   ruling reached.
+
+4. **Stasavage's cleavage — the urban risings were creditor against
+   taxpayer, a conflict inside the propertied, not the propertied
+   against a consolidating state.** Steelman: in the cities the
+   line ran through the propertied class — "merchants tended to own
+   debt whereas members of the craft guilds bore a significant part
+   of the tax burden necessary to service this debt" (ch. 1);
+   Cologne's four revolts (1371, 1396, 1481, 1513) were each about
+   "debt and taxation," the 1481 radicals demanding a suspension of
+   debt payments, the Gaffel franchise won and revoked within a
+   year; Genoa's new regime of 1339 burned the creditors' list;
+   Siena's popular revolt of 1355 ended the Nine and the city's
+   credit with them. On this evidence the urban theatres of §V are
+   distributional fights between two propertied fractions of a
+   republic, and the chapter's frame — the anxious middle against
+   the fiscal reach of a consolidating state — does not describe
+   them. **Answer** (graded ADEQUATE): (i) the chapter's own
+   definition absorbs it — the form is "the political expression of
+   collateral," and in a city the collateral was the bond the
+   merchants held and the excise the guilds paid to service it:
+   the guildsmen of 1481 were propertied taxpayers seeking
+   composition (an excise withdrawn, a franchise conceded), and
+   were reabsorbed into an "adjusted civic constitution" exactly as
+   §V says; (ii) the cases where the form broke its banks — the
+   burned list at Genoa, the Nine's fall at Siena — are the
+   chapter's boundary cases in republican dress, beside the Ciompi;
+   (iii) what the objection rightly forces is a sentence: in the
+   urban theatres the "consolidating state" was a creditor
+   oligarchy, and the mechanism the chapter tracks (fiscal reach
+   provoking propertied composition) ran inside the republic's
+   walls before it ran across a kingdom. Stasavage's rival limbs
+   proper — that no territorial state borrowed long-term before
+   1489 and that assemblies France dispensed with were useless for
+   credit — are ch10 §III's and ch12 §IV's, and are entered there.
+   No spine ruling reached.

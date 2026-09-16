@@ -626,3 +626,159 @@ STATUS: REVIEWED (Roderick, 2026-07-22) — cleared for drafting
      paragraph extends, and does not contradict, the brief.
 
 STATUS: Revisions 4 PENDING HUMAN REVIEW.
+
+## Revisions (2026-09-16 — catch-up run STEP 3, PENDING HUMAN REVIEW)
+
+*From research/assessments-2026-09-14/, each pin opened in the
+sidecar this date (sources.md block of the same date). Draft
+wordings quoted are the CURRENT draft's after Revisions 4; nothing
+applied to draft.md. Tiering per CLAUDE.md §4.*
+
+5. **(Scott 1998 — the rising against registration itself; the
+   bushel; the word.)**
+   - CONFIRMS (a, at the mechanism level): §V — "the 'Armer Konrad'
+     rising gives the pattern its most legible fiscal mechanics:
+     Duke Ulrich, in debt, imposed new consumption taxes on meat,
+     wine and grain and adjusted the public weights to sweeten the
+     yield"; and the grievance list at §V's close, "the tolls, the
+     weights, the bribes at the sessions," with the settlement
+     wanting "weights honest and the sessions unbought." The
+     manipulated measure as a fiscal instrument has its T2 parallel
+     in Scott via Kula: the seigneurial bushel "increased by
+     one-third between 1674 and 1716" (p. 28) — a parallel, not a
+     source: the Kula datum is Bourbon France, the draft's is
+     Württemberg 1514 (Landesarchiv). The catasto of 1427 failing
+     against "popular resistance, the noncompliance of many local
+     elites" (p. 66) confirms, from the legibility side, §IV's
+     Florentine setting.
+   - CORRECTS (register, not fact; NOT applied): §V — "gives the
+     pattern its most legible fiscal mechanics." Once Scott is in
+     the apparatus (the Introduction's unacknowledged debt,
+     assessment §3(i)), "legible" here reads as an invocation of
+     his concept where "plainest" is meant; the assessment's fix is
+     to reword the casual instances so the term of art stays one.
+     Recorded as this chapter's instance of a book-level decision.
+   - ADDS: 1381. The chapter opens the fiscal-rising pattern with
+     Cade (§I) and the German conspiracies (§V), and its
+     Introduction-facing sentence is "The bill for Normandy was
+     presented in June 1450." Scott: "The great English peasant
+     rising of 1381 (often called the Wat Tyler Rebellion) is
+     attributed to an unprecedented decade of registrations and
+     assessments of poll taxes" (p. 68). A rising against
+     REGISTRATION itself — resistance to legibility, not merely to
+     the levy — completes the pattern and supplies the chapter's
+     one missing English instance at footnote level; the same page
+     gives the fourteenth-century surnames as "administrative
+     fictions designed to make a population fiscally legible." Two
+     cautions the entry must carry: (i) Scott's sentence rests on a
+     secondary at his n. 52, and the chapter's sources.md has no
+     T2 for 1381 (Dobson's documents, Hilton) — RETRIEVAL if 1381
+     is promoted beyond a footnote; (ii) the composition question:
+     1381 is not obviously a propertied-anxious rising in §I's
+     sense, and the chapter's form-definition ("for as long as it
+     keeps to that form … Where a rising fell below the propertied
+     line or broke above it, the ending was different") would have
+     to place it — critiques this date.
+
+6. **(Stasavage 2011 — the debt–tax cleavage as the urban form's
+   mechanics; Cologne, Genoa, Siena; the Albizzi.)**
+   - CONFIRMS (a): §IV — "the oligarchic reaction that followed —
+     the Albizzi regime of 1382–1434 — governed Florence until
+     Cosimo de' Medici's return": Stasavage, on Caferro, carries the
+     Albizzi regime (1382–1434) as the reason for Florence's
+     "greater ability to obtain access to credit" than Siena's in
+     the same decades — the dating confirmed at T2 and the
+     consolidation-feeds-credit reading the §IV paragraph gestures
+     at given a second witness. §V — "Cologne's guild risings of
+     1481, 1512 and 1513 — the documented cases … contested
+     patrician fiscal administration": Stasavage has 1481 and 1513
+     (and 1371, 1396), each a dispute over "debt and taxation"; the
+     1481 trigger is "a proposed increase in excise taxation," its
+     radicals calling for a suspension of debt payments; the free
+     election of Gaffel representatives won in 1481 was "abolished
+     in 1482 following the overthrow of the rebellion" — reabsorbed,
+     as the draft says.
+   - CORRECTS: nothing factual. Two notes: "1512" is not in
+     Stasavage (no contradiction; the draft's carrier for 1512 is
+     unchanged); and his 1371 and 1396 are not the "wave in the
+     1460s and 70s" the draft declines to assert — that negative
+     stands.
+   - ADDS (footnote-level, per the assessment): the mechanism of
+     the urban theatres in one sentence — "merchants tended to own
+     debt whereas members of the craft guilds bore a significant
+     part of the tax burden necessary to service this debt" (ch. 1)
+     — the creditor/taxpayer split as the propertied-anxious form's
+     urban variant, with the collateral line of §V ("the political
+     expression of collateral") reading both ways: the guilds' tax
+     serviced the merchants' bonds. Genoa 1339 — "One of the new
+     regime's first acts was to burn the official list of the
+     state's creditors" (ch. 6) — is the form breaking upward in a
+     republic, the record itself the target; Siena 1355 — the Nine
+     ended "as a result of a popular revolt" and Siena's credit
+     ended with them — is the cost of a rising that broke the
+     oligarchy, beside §IV's Ciompi. These are (a) at T2 for the
+     facts; the reading that joins them to the chapter's form is
+     (c), the book's own. All pins are to sidecar lines pending
+     printed pages.
+
+7. **(Chastellain tome III — the Alençon bracket; Ghent 1458 not
+   placed.)**
+   - CONFIRMS (T1): §III's "Bourbon and Alençon retired to their
+     lordships unpunished; and La Trémoille, Chaumont and Prie …
+     were banished from court" — not contradicted by anything in
+     tome III (assessment §3: "No date, name or sequence in the
+     manuscript's … Praguerie passages … is contradicted").
+   - CORRECTS: nothing.
+   - ADDS: the other end of the arc. Alençon, unpunished in 1440,
+     was sentenced at Vendôme on 10 October 1458 for lèse-majesté,
+     execution deferred at the king's pleasure, the duchy resumed
+     to the domain, and of his movables the one thing the crown
+     would not leave his heirs was "l'artillerie, harnois et autres
+     habillemens de guerre" (pp. 481–86; ch11 §VII's material, to
+     be re-verified at the page image before any use here). For
+     this chapter it is a forward pointer, one clause at §III or
+     §VII's "Shaped, not prevented" — the Praguerie's pensions
+     "rearranged the French court," and eighteen years later the
+     same peer's guns were reserved to the crown — placing the
+     instrument's change (calibrated pardon → lit de justice)
+     inside the chapter's own verdict. GHENT 1458 (pp. 412–13:
+     "Veni nobis, pacificus dominus; utere servitio nostro") is
+     verified at the page but NOT placed in this chapter by the
+     assessment (colour, no chapter); nothing entered — recorded
+     for Roderick's decision, §V's urban theatres being the only
+     seat it could take here.
+
+8. **(Nothing placed in this chapter, and said so; flags.)**
+   - Tilly 1985's "When ordinary people resisted vigorously,
+     authorities made concessions: guarantees of rights,
+     representative institutions, courts of appeal" (How States
+     Formed, para 1) is placed by its assessment at ch12 §VII and
+     the Coda (§8(g)(4)); it touches §VII's inventory of what the
+     shaping consisted of, and the adjacency is recorded — not
+     entered. McNeill, Goldsmith & Wu, Krasner, Farrell & Newman,
+     Glete, Commynes, Schmitt, Wu, Cheung, Suleyman, Ruggie,
+     Bagehot, Crouch and Ertman place nothing here.
+   - FLAGS: the chapter's open [GAP]s — Harvey 1991 (×2, §I: the
+     roll's re-argument and the gentry tally); the composite
+     Complaint against Griffiths's three manuscripts (§II);
+     Virgoe's indictments (§II); Najemy's framing (§IV) — are
+     closed by none of the 14 September works. Stasavage's Caferro
+     sentence supports §IV's Albizzi dating but does not close the
+     Najemy [GAP], which is about the absorbed-not-defeated
+     framing. RE-SOURCE OR CUT: none from this batch.
+
+**Register decisions proposed for the rulings sheet** (stated, not
+recommended; to be appended after (cc) at STEP 4):
+- (i) §V's "most legible fiscal mechanics" reworded once Scott is
+  named in the apparatus (book-level decision, this chapter's
+  instance).
+- (ii) 1381 enters the pattern at footnote level as the rising
+  against registration itself, with its T2 to be retrieved before
+  promotion and its place against §I's form stated.
+- (iii) The debt–tax cleavage named, in a footnote to §V's urban
+  theatres, as the mechanics of the Cologne series (Stasavage).
+- (iv) The Alençon 1440 → 1458 bracket carried as one clause in
+  §III or §VII, pointing forward to ch11 §VII.
+- (v) Ghent 1458: placed at §V or left out — Roderick's.
+
+STATUS: Revisions 5–8 PENDING HUMAN REVIEW; Revisions 4 as before.
