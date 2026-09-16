@@ -198,3 +198,334 @@ Update retrieval-master.md accordingly.*
   compliance function; the note should quote the Article's own
   words and keep the founder framing as the chapter's reading).
   Cite as: Reg. (EU) 2022/2065, Art. 41(1).
+
+## Added 2026-09-16 — catch-up run STEP 3 (assessments of 14 September; pins verified against sidecars)
+
+*Sidecars in corpus/retrieved/source-library/text-2026-09-14/ unless
+stated; every pin below was opened this run except where marked
+"assessment's pin" or "verified at ch12/ch05". Personal-names rule
+(CLAUDE.md §8): Bagehot, Crouch, Krasner, Stasavage, Chastellain (not
+"Chastelain"), Griffiths, Lander — checked against the editions named.*
+
+- **T1 classic / T2 for the distinction — Walter Bagehot, *The English
+  Constitution* (1st edn 1867, essays of 1865–67 in the *Fortnightly*;
+  2nd edn with Introduction dated 20 June 1872).** IN REPO as the
+  Project Gutenberg e-text #4351 (sidecar `Bagehot.txt`, pdftotext of
+  the Gutenberg HTML print, 113 PDF pages; NO printed pagination
+  survives). CITATION FORM during drafting: chapter title (Gutenberg's
+  numbering: No. I Introduction; No. II The Cabinet; No. III The
+  Monarchy I–II; Lords; Commons; On Changes of Ministry; Checks and
+  Balances; Prerequisites; Conclusion), the paragraph's opening words,
+  and "PDF p. N"; at assembly, re-pin to a printed edition (RETRIEVAL
+  LIST item 10 below). TIER NOTE: a primary document of 1867–72 opinion
+  (the second-edition Introduction's fear of the 1867 Reform Act — "I am
+  exceedingly afraid of the ignorant multitude of the new
+  constituencies", PDF pp. 4, 8, assessment's pin) and a classic of
+  constitutional analysis; dated — his fifteenth century is attritional
+  ("the high nobility killed itself out … Henry VII. attained a kingdom
+  in which there was a Parliament to advise, but scarcely a Parliament
+  to control", Conclusion, PDF p. 104; verified) and is NEVER cited for
+  the mechanism; his own scope caveat — "I am not, of course, now
+  speaking of the middle ages: I am not dealing with the embryo or the
+  infant form of our Constitution; I am only speaking of its adult
+  form" (Lords, PDF p. 48; verified) — travels with every use. USE-NOTE:
+  the bridge of spine §8(g)(5), engaged BY NAME; rival on valuation,
+  answered at critiques Objection 6. PINS (all verified this run):
+  - the distinction — "first, those which excite and preserve the
+    reverence of the population—the DIGNIFIED parts, if I may so call
+    them; and next, the EFFICIENT parts—those by which it, in fact,
+    works and rules … every constitution must first GAIN authority, and
+    then USE authority" (The Cabinet, PDF p. 21);
+  - the warrant (NOT "the efficient parts obtain their authority from
+    the dignified", which is nowhere in the text) — "The dignified parts
+    of Government are those which bring it force—which attract its
+    motive power. The efficient parts only employ that power … They may
+    not do anything definite that a simpler polity would not do better;
+    but they are the preliminaries, the needful prerequisites of ALL
+    work. They raise the army, though they do not win the battle" (The
+    Cabinet, PDF p. 21);
+  - the genealogy, the chapter's subject as the origin of his
+    distinction — "The reverential associations upon which the
+    government is built are transmitted according to one law, and the
+    capacity needful to work the government is transmitted according to
+    another law. The popular homage clings to the line of god-descended
+    kings; it is transmitted by inheritance. But very soon that line
+    comes to a child or an idiot, or one by some defect or other
+    incapable. Then we find everywhere the truth of the old saying, that
+    liberty thrives under weak princes; then the listening assembly
+    begins not only to murmur, but to speak; then the grave council
+    begins not so much to suggest as to inculcate, not so much to advise
+    as to enjoin" (Conclusion, "This polity is a good one", PDF p. 103);
+    and, of the ante-Tudor period, "The title to the Crown was
+    uncertain; some monarchs were imbecile" (PDF p. 104);
+  - the *prefet* — the ante-Tudor kings "would have lost their sole
+    FEELER … Nor could they have manufactured such an assembly if they
+    wished. The instrument in that behalf is the centralised executive,
+    and there was then no 'prefet' by whom the opinion of a rural
+    locality could be made to order"; the Second Empire's assemblies
+    "symmetrical 'shams'" against "our English Parliaments … UNsymmetrical
+    realities" (Conclusion, PDF p. 104); the mediaeval Parliament "an
+    EXPRESSIVE body" (same page);
+  - the fiscal note — Magna Carta's self-taxation "a result, not a
+    basis—an example, not a cause" (Conclusion, PDF p. 105);
+  - the disguise — "It acts as a DISGUISE. It enables our real rulers
+    to change without heedless people knowing it" (The Monarchy I, PDF
+    p. 36); "it is needful to keep the ancient show while we secretly
+    interpolate the new reality" (Conclusion, PDF p. 106); "It is only a
+    'disguised republic'" (Conclusion n. 13, PDF p. 108); "A Republic has
+    insinuated itself beneath the folds of a Monarchy" (The Monarchy I,
+    PDF p. 35 — of *society*, "exactly analogous" to the polity; cite
+    with that context);
+  - the residual monarchy NOT ceremony — "The use of the Queen, in a
+    dignified capacity, is incalculable. Without her in England, the
+    present English Government would fail and pass away" (The Monarchy
+    I, opening, PDF p. 30); "The Queen is only at the head of the
+    dignified part of the Constitution. The Prime Minister is at the
+    head of the efficient part" (The Cabinet, PDF p. 23);
+  - the natural body that governs — "in the so-called Government of
+    Lord North, George III. was the Government. Lord North was not only
+    his appointee, but his agent" (The Monarchy II, PDF p. 37); "We have
+    had the case of a meddling maniac" (The Monarchy II, PDF p. 46);
+  - the valuation refused — popular power "not necessarily or commonly
+    in the whole people … but in a CHOSEN people, a picked and selected
+    people" (The Cabinet, PDF p. 28); "The apparent rulers of the
+    English nation are like the most imposing personages of a splendid
+    procession … The real rulers are secreted in second-rate carriages"
+    (Prerequisites, PDF p. 101);
+  - the instability and the mystery — "The mystic reverence, the
+    religious allegiance, which are essential to a true monarchy, are
+    imaginative sentiments that no legislature can manufacture in any
+    people … You might as well adopt a father as make a monarchy" (The
+    Cabinet, PDF p. 21); "unstable equilibrium … if you once permit the
+    ignorant class to begin to rule you may bid farewell to deference
+    for ever" (Prerequisites, PDF p. 102); "Its mystery is its life. We
+    must not let in daylight upon magic" (The Monarchy II, PDF p. 37);
+  - "ornamental" — his only two uses, of the dignified parts "retained,
+    not for intrinsic use, but from their imaginative attraction upon an
+    uncultured and rude population … like the additional and
+    solely-ornamental wheels introduced into the clocks of the Middle
+    Ages … All such ornamental work is a source of friction and error"
+    (On Changes of Ministry, PDF p. 83); never of the constitution, the
+    monarchy or democracy; his words are "theatrical" (PDF pp. 22, 23,
+    48, 101), "disguise", "show", "sham";
+  - the remedy/punishment distinction and the treaties — a change of
+    Ministry "may not be a remedy at all; it may be only a punishment"
+    and foreign policy "in the sole charge of one secret committee"
+    (Introduction, PDF p. 11); the atrophy rule — "Its danger is not in
+    assassination, but atrophy; not abolition, but decline" (Lords, PDF
+    p. 58); the Second Empire — "an Empire which desires the power of
+    despotism without its shame … a few permitted objectors fill the air
+    with eloquence, which every one knows to be often true, and always
+    vain" (Commons, PDF p. 71).
+  DISPUTE RECORDED: none scholarly (the text is a primary); the book's
+  quarrel with him is on valuation, recorded at critiques Objection 6.
+
+- **T3 (pamphlet; T1 for what Crouch said) — Colin Crouch, *Coping with
+  Post-Democracy* (Fabian Society, 2000)** — IN REPO (sidecar
+  `Crouch-PostDemocracy.txt`, the author's typescript, 39 PDF pages, no
+  printed pagination; the 2004 Polity book on the RETRIEVAL LIST).
+  POINTER — full entry at ch12 (Revisions 17; register decision (mm)).
+  FOR THIS CHAPTER, THE LEDGER CHECK ONLY: "ornament" — zero hits;
+  "Wolin" — zero hits (both verified this run); the condition is his —
+  "while the forms of democracy remain fully in place … politics and
+  government are increasingly slipping back into the control of
+  privileged elites" (PDF p. 2); "it is difficult to dignify it as
+  democracy itself" (PDF p. 8; the echo of Bagehot's word). The noun
+  "post-democracy" is his; the adjective "ornamental" is free; the
+  coinage's home (ch09 or ch12) is Roderick's under spine §8(g)(6).
+
+- **T2 — Stephen D. Krasner, *Sovereignty: Organized Hypocrisy* (1999)**
+  — IN REPO (sidecar `Krasner.txt`; printed = PDF−10). POINTER — full
+  entries at ch05 (Revisions 12; proposed (hh)) and ch12 (Revisions
+  22). FOR THIS CHAPTER: the two halves of the two bodies in his grid —
+  "Domestic sovereignty involves both authority and control, both the
+  specification of legitimate authority within a polity and the extent
+  to which that authority can be effectively exercised" (p. 4 / PDF 14;
+  verified); "Domestic sovereignty is used in ways that refer to both
+  authority and control: what authority structures are recognized
+  within a state, and how effective is their level of control?" (p. 10
+  / PDF 20; verified); invitation as the name for absorption by alliance
+  (pp. 20, 22, 29 / PDF 30, 32, 39; verified) for the close's Part III
+  question.
+
+- **T1 — Georges Chastellain, *Œuvres*, ed. Kervyn de Lettenhove, tome
+  III, *Chronique 1454–1458* (Brussels, 1863)** — IN REPO twice; working
+  copy `Chastellain-Oeuvres-vol15.pdf` (sidecar
+  `Chastellain-vol15-ocr.txt`; printed = PDF+10; body OCR good, running
+  heads unreliable; every quotation [TRANS. CLAUDE]; page-image check
+  before print). POINTER — full entries at ch05 (Revisions 10) and ch11
+  (Revisions 10). FOR THIS CHAPTER (if placed — memo Revisions 6 this
+  date), Charles VII's court as the converse of Henry VI's, 1456–58:
+  - the natural body's mortality live in the recovering polity — the
+    king's leg "mal incurable"; "couroit la voix par diverses terres que
+    dedens terme préfix et par jugement d'astronomie il devoit mourir et
+    ne passeroit point le mois de mars" (p. 444 / PDF 454; verified);
+    "En quoy et dauphin et duc de Bourgongne furent trompés tous deux,
+    car vesqui le roy encore longs jours depuis en haut règne" (p. 446 /
+    PDF 456; verified); "cestes manières de gens qui présument des
+    secrets de Dieu qui desvoient les princes et les deçoivent" (p. 449
+    / PDF 459; verified);
+  - the heir in a vassal's court — the dauphin's fear of "le roy son
+    père mesme venir tousjours file à file après, comme pour prendre la
+    souris en son trou" (p. 178 / PDF 188; verified); the king's letter
+    on "un fils de perverse volenté … tout entièrement incorrigible
+    envers luy" (p. 200 / PDF 210; verified);
+  - constitutional form as the instrument of effective power — Burgundy
+    summoned in open court "de par le roy … comme doien des pairs et
+    double pair de France pour comparoir à une journée establie à
+    Montargis … principalement pour le fait du duc d'Alenchon qui avoit
+    esté prisonnier par l'espasce jà de trois ans", the king "devoit
+    tenir le lit de justice pour faire droit à tout le monde"; the
+    duke's reading, "une manière d'argu et de despit, fait plus par
+    malice que par nécessité", his person "par vertu de la paix d'Arras
+    … exempte à tousjours" (p. 417 / PDF 427; verified); the
+    chronicler's reading of the king's purpose — "en faisant courre
+    sentence sur le duc d'Alençon qui estoit son compère et son sang,
+    pensoit et tendoit à donner fréeur au duc de Bourgongne lequel il
+    maintenoit à son rebelle" (p. 422 / PDF 432; verified — OCR
+    "frégur"); the arrière-ban cried even in the Somme towns held
+    "réservé seulement la souveraineté" (p. 423 / PDF 433; verified);
+    the chancellor's doctrine to Burgundy's plea — "par justice règnent
+    les roys … les royaumes et seigneuries ne seroient que laronnières"
+    (p. 475 / PDF 485; verified — OCR "daronnières"; page image); the
+    arrêt "par arrest ledit d'Alençon estre crimineux de crisme de
+    lèse-majesté" (p. 481 / PDF 491), execution "différée … jusques à son
+    bon plaisir" (p. 484 / PDF 494), "réservé au roy l'artillerie,
+    harnois et autres habillemens de guerre" (p. 486 / PDF 496; all
+    verified).
+  PARTISAN CAVEAT: Chastellain's readings of the king's motive are a
+  Burgundian's and are carried as his. NEGATIVE FINDING carried from
+  ch05: the chronicle's pages for July 1453–August 1454 are lost
+  (Kervyn, vol11 PDF 394) — no Burgundian witness exists for §I's
+  Windsor scene or for the first protectorate.
+
+- **T2 — David Stasavage, *States of Credit* (2011)** — IN REPO (EPUB
+  sidecar `Stasavage.txt`; pins by chapter and FILE marker; re-pin to
+  printed pages before print). POINTER — full entries at ch10/ch12
+  (Revisions 23). FOR THIS CHAPTER: the assembly-side form of the split —
+  "the individual Castilian cities gradually lost control over their
+  representatives to the Cortes. As a consequence, the representatives
+  failed to effectively use even those formal powers that they did have
+  at their disposal" (ch. 7, part0014_split_008; verified); "after 1665
+  the monarchy did away with the institution entirely … under one of the
+  weakest of Habsburg monarchs" (part0014_split_009; verified); Charles
+  V's Cortes at Santiago, then "the even more remote location of La
+  Coruña" (1520; same file; verified); "it may be possible to maintain
+  the institution but without it serving its intended purpose … Compare,
+  for example, the Cortes of Castile in the seventeenth century to the
+  Ugandan Parliament in the twenty-first century" (ch. 8,
+  part0015_split_002; verified). The "geographic scale is no longer as
+  much of an obstacle" sentence (ch. 1) — NOT located by phrase this run;
+  PENDING VERIFICATION.
+
+- **T2 — Charles Tilly, "War Making and State Making as Organized Crime"
+  (1985)** — IN REPO (sidecar `Tilly-1985-WarMaking.txt`; no printed
+  pagination; pins by section heading and paragraph). POINTER — full
+  entries at ch10/ch12. FOR THIS CHAPTER: "Many lords who did not pretend
+  to be kings, furthermore, successfully claimed the right to levy troops
+  and maintain their own armed retainers … For that reason, before the
+  seventeenth century, regencies for child sovereigns reliably produced
+  civil wars. For the same reason, disarming the great stood high on the
+  agenda of every would-be state maker" (Violence and Government, para
+  4; verified) — the objection §III's 1422 paragraph must meet by name
+  (critiques Objection 8).
+
+- **T2 — R. A. Griffiths, *The Reign of King Henry VI* (1981)** — IN
+  REPO (sidecar `text-2026-09-13b/Griffiths.txt`; printed page is the
+  last line of each PDF page; the offset drifts — p. 22 = PDF 44, p. 32
+  = PDF 54, p. 38 = PDF 60, p. 232 = PDF 252, p. 725 = PDF 775; spot-
+  check before press). Full entry at ch07; the 1454 pins (pp. 716–26)
+  entered 13 September. NEW PINS FOR §III's MINORITY (the design, and
+  its working): Gloucester's demand for a regent's powers "rejected on 5
+  December" 1422, "claims based on his birth, the will, and on
+  precedents quoted by him were found wanting"; the title "Defensor of
+  this Reme and chief counseiller of the kyng"; the lords' 1428 gloss
+  that no "name of Tutour, Lieutinent, Governour, nor of Regent, nor no
+  name that shuld emporte auctorite of governaunce of the lond" was
+  implied (p. 22; verified); the council "never less than twelve in
+  number and could even rise to eighteen", the protector "also the
+  king's chief councillor" (p. 32; verified); the enlarged council's
+  "continuity and stability of service" (p. 34; verified) AGAINST the
+  Beaufort–Gloucester collision of 1425, "the most severe domestic crisis
+  of the protectorate" (p. 36; verified) and "the most serious domestic
+  threat to the stability of Henry VI's government" (p. 73; verified);
+  the title lost "once Henry VI had taken his coronation oath on 6
+  November" 1429, the regulations of February 1430 "primarily a
+  reiteration of the principles underpinning the government since 1422"
+  (p. 38; verified); ch. 11, "The ending of the king's minority" (pp.
+  231–40; the Sheen great council of 21 October 1437, p. 238; the king
+  emerging "vulnerable to the exhortations and solicitations of those
+  about him", p. 240; verified).
+
+- **T2 — J. R. Lander, *Crown and Nobility 1450–1509* (1976)** — IN REPO
+  (sidecar `text-2026-09-13b/Lander.txt`; printed = PDF−11). Full entry
+  at ch11; the 13 September pointer above CONFIRMED this run: the roll's
+  negative definition printed in full at p. 76 / PDF 87 (verified). NEW
+  PIN for the incapacity as an office that could not be filled: "Even in
+  these tragic circumstances there was a delay of eight months before
+  York was made protector. The court refused to admit that the king was
+  ill" (p. 75 / PDF 86; verified). The dissent stands: "no second
+  breakdown" (p. 90 / PDF 101; verified); "an attempted palace
+  revolution which failed miserably for lack of support" (p. 99 / PDF
+  110; verified). The 13 September phrase "identical with those of the
+  first protectorate (p. 84)" — NOT located by phrase this run (OCR);
+  PENDING VERIFICATION at PDF 95.
+
+- **T2 — Thomas Ertman, *Birth of the Leviathan* (1997)** — IN REPO
+  (sidecar `Ertman.txt`; printed = PDF+15). POINTER — full entry at
+  ch10. FOR THIS CHAPTER (§IV, one footnote): the personal constitution's
+  theory at its maturity across the Channel — Bodin (1576) ascribing to
+  the French king "full imperial powers … at the same time legibus
+  solutus, not bound himself by any laws save those of God and of the
+  royal succession" (p. 93 / PDF 108; verified) — contemporaneous with
+  Plowden's report (1561); the split of legitimating authority from an
+  apparatus in proprietary hands is ch12's (Revisions 23).
+
+- **T2 — Tai Ming Cheung, *Innovate to Dominate* (2022)** — IN REPO
+  (sidecar `Cheung.txt`; printed = PDF+15; soft-hyphen artefact inside
+  words). POINTER — full entry at ch12 (Revisions 25). FOR §V's Xi
+  paragraph (footnote): the CNSC "a personalistic symbol of Xi's command
+  of the NSS" (p. 67 / PDF 82; verified); "hyperconcentrated under Xi's
+  authority; he wields absolute authority as the chairman of the Central
+  National Security Commission, Central Military Commission, and Central
+  Military-Civil Fusion Development Commission" (p. 284 / PDF 299;
+  verified); deputies who "lack the political qualifications to take
+  over in anything more than a short-term acting capacity" and the
+  overconcentration as "the gravest risk" (pp. 285–86 / PDF 300–01;
+  verified).
+
+- **T3 — Mustafa Suleyman, *The Coming Wave* (2023)** — IN REPO (sidecar
+  `Suleyman.txt`; PDF page, printed ±1). POINTER — full entry at ch12.
+  FOR THIS CHAPTER, colour only: "zombie government. Trappings of
+  liberal democracy and the traditional nation-state remain, but
+  functionally they are hollowed out" (PDF 176; verified); "there is no
+  functional 'we' here … Even the president of the United States h[as]
+  remarkably limited powers" (PDF 294; verified) — the
+  substitute-executive problem in trade prose. Never load-bearing.
+
+- **T2 — Jan Glete, *War and the State in Early Modern Europe* (2002)**
+  — IN REPO (sidecar `Glete.txt`; printed = PDF+9). POINTER — full
+  entries at ch10/ch11. FOR THE CLOSE: "Strong organisational structures
+  may be compatible with highly authoritarian, constitutional and in the
+  end also democratic political systems" (p. 212 / PDF 221; verified);
+  Karl XI's absolutism "(without abolishing the parliament) with the
+  consent of the peasants" (p. 195 / PDF 204; verified).
+
+### RETRIEVAL LIST additions (2026-09-16)
+
+10. **A printed edition of Bagehot, *The English Constitution*** (Oxford
+    World's Classics, ed. Miles Taylor, 2001; or Fontana, R. H. S.
+    Crossman intro., 1963; or the Cambridge Texts, ed. Paul Smith,
+    2001). NEEDED FOR: page-level citation at assembly; the Gutenberg
+    text carries the words, not the pages. (Editor names to be
+    confirmed at retrieval — not verified here.)
+11. **Sheldon Wolin, *Democracy Incorporated* (2008).** NEEDED FOR: the
+    Wolin half of spine §8(g)(6)'s ledger check; not in corpus; not
+    checked from memory.
+12. **Colin Crouch, *Post-Democracy* (Polity, 2004).** NEEDED FOR: the
+    T2 statement of the condition; the 2000 pamphlet stands at T3.
+13. *(Verify, not gated)* the source of §III's "no justification… of
+    priority of blood" (1422) — the draft carries it from the open
+    apparatus (Vickers 1907 / the rolls); Griffiths p. 22 paraphrases
+    ("claims based on his birth … were found wanting") and does not
+    supply the quotation. PIN TO BE CONFIRMED.

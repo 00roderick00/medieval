@@ -147,6 +147,210 @@ dated episode, and the draft will re-verify each at writing.
 
 ---
 
+## Objection 6 — Bagehot's valuation: the separation is every constitution's condition, not a pathology (added 2026-09-16, catch-up run STEP 3)
+
+**Steelman, at full strength, three limbs.** The chapter is to take
+Bagehot's dignified/efficient distinction as its bridge (spine §8(g)(5))
+with the disanalogy that the dignified parts were never decoration.
+Bagehot himself says they are: the dignified parts are "retained, not for
+intrinsic use, but from their imaginative attraction upon an uncultured
+and rude population … like the additional and solely-ornamental wheels
+introduced into the clocks of the Middle Ages … All such ornamental work
+is a source of friction and error" (On Changes of Ministry, PDF p. 83).
+Second, his theory says the route the book proposes to score cannot be
+built and cannot be demonstrated: "The mystic reverence, the religious
+allegiance, which are essential to a true monarchy, are imaginative
+sentiments that no legislature can manufacture in any people … You might
+as well adopt a father as make a monarchy" (The Cabinet, PDF p. 21); the
+deferential polity is "unstable equilibrium … if you once permit the
+ignorant class to begin to rule you may bid farewell to deference for
+ever" (Prerequisites, PDF p. 102); and "Its mystery is its life. We must
+not let in daylight upon magic" (The Monarchy II, PDF p. 37) — so a
+*demonstrable* separation, the spine's test, is on his account
+self-destroying. Third, and deepest: for Bagehot the separation of
+legitimating authority from effective control is not an outcome but the
+condition of every working constitution and the chief merit of
+England's — popular power resides "not necessarily or commonly in the
+whole people … but in a CHOSEN people, a picked and selected people" (PDF
+p. 28); "The apparent rulers of the English nation are like the most
+imposing personages of a splendid procession … The real rulers are
+secreted in second-rate carriages" (PDF p. 101). Read straight,
+"ornamental democracy" is not an outcome to score; it is what Bagehot
+says every working constitution already is. That reaches §8(g)(1)–(2).
+
+**The chapter's answer.** On the first limb the two passages are one
+doctrine and the disanalogy carries both halves: the dignified parts
+"may not do anything definite that a simpler polity would not do better;
+but they are the preliminaries, the needful prerequisites of ALL work.
+They raise the army, though they do not win the battle" (PDF p. 21) —
+ornamental as administration, indispensable as authority, and that is
+the bridge's sentence in his own words. On the second, Bagehot supplies
+the escape: a manufactured assembly *can* exist where "the centralised
+executive" and the *prefet* exist (Conclusion, PDF p. 104), and the
+Second Empire ran on one for eighteen years (Commons, PDF p. 71); the
+book's legibility stack is the *prefet* — stated as the book's (c). The
+instability point is conceded whole and turned into a prediction: an
+ornamental settlement is stable only while undemonstrated, so a positive
+reading on the indicator is itself a destabiliser — which is why the
+route is one scoreable outcome and not the settlement. On the third limb
+the answer is honest only if the book says plainly that it takes his
+distinction and refuses his valuation, and states the inversion: his
+republic hid *beneath* a monarchy; the ornamental route hides an
+executive–baronial fusion *beneath* a democracy, so the elected
+institutions become the dignified part. The §8(g)(2) falsifiers keep the
+book's use from collapsing into his universal — a measurable degree of
+separation on strategic commitments, not the fact of separation.
+**Graded good.** The residual exposure is "daylight upon magic", stated
+as a prediction rather than hidden. (Assessment: Bagehot §5; ch12
+Revisions 17; coda critiques Objection 4 inherits.)
+
+---
+
+## Objection 7 — The bridge is anachronistic: Bagehot describes the adult form, by design (added 2026-09-16)
+
+**Steelman.** Bagehot is explicit that his distinction is not about the
+fifteenth century: "I am not, of course, now speaking of the middle
+ages: I am not dealing with the embryo or the infant form of our
+Constitution; I am only speaking of its adult form" (Lords, PDF p. 48).
+In the personal monarchy the two parts were one body — of the 1770s he
+says George III "was the Government. Lord North was not only his
+appointee, but his agent" (The Monarchy II, PDF p. 37). A chapter that
+reads 1422–55 through a distinction its author confined to
+constitutional royalty is importing the settlement's vocabulary into
+the crisis that preceded it — the resemblance move CLAUDE.md §2
+forbids, dressed as a mechanism.
+
+**The chapter's answer.** Bagehot's own genealogy derives the adult form
+from exactly this chapter's case: reverence and capacity "transmitted
+according to" different laws, the line coming "to a child or an idiot,
+or one by some defect or other incapable", whereupon "the grave council
+begins not so much to suggest as to inculcate, not so much to advise as
+to enjoin" (Conclusion, PDF p. 103); and his ante-Tudor Parliament, in
+which "some monarchs were imbecile" and the assembly was "an EXPRESSIVE
+body" (PDF p. 104), is the chapter's scaffolding. 1422–55 is the
+involuntary separation from which, on his own account, the designed one
+descends; the lords of 1454 refused to make the split lawful, and
+Bagehot's England is the split made lawful and then hidden. The chapter
+takes the genealogy he states and does not claim his adult form for the
+fifteenth century; the scope caveat travels with every use. **Graded
+good**, provided the caveat is quoted where he is first cited.
+
+---
+
+## Objection 8 — Tilly: regencies reliably produced civil wars (added 2026-09-16)
+
+**Steelman.** Objection 3's concession — that the same device succeeded
+for a minority and failed for an incapacity — rests on the 1422–37
+minority having worked. Tilly, from the bellicist canon the book calls
+its ancestor: "Without calling on some of those lords to bring their
+armies with them, no king could fight a war; yet the same armed lords
+constituted the king's rivals and opponents … For that reason, before
+the seventeenth century, regencies for child sovereigns reliably produced
+civil wars" (1985, Violence and Government, para 4). Either 1422–37 is
+not the counter-instance the chapter needs, or the chapter is claiming
+an exception to a regularity its own ancestor states as a rule — and
+Griffiths supplies the exception's near-miss: the Beaufort–Gloucester
+collision of 1425 was "the most severe domestic crisis of the
+protectorate" (p. 36), "the most serious domestic threat to the
+stability of Henry VI's government" (p. 73).
+
+**The chapter's answer.** The minority was designed (the regency
+rejected on 5 December 1422; the title "Defensor of this Reme and chief
+counseiller of the kyng"; the council of twelve to eighteen; the 1428
+gloss — Griffiths pp. 22, 32) and it held for fifteen years without
+civil war — a political explosion in 1425, contained by the council and
+the Leicester parliament of 1426, is not the civil war Tilly's rule
+predicts. The chapter concedes the near-miss and states the distinction
+against Tilly by name: what the minority had and the incapacity lacked
+was a certain horizon and a settled succession (Objection 3); what
+England had and Tilly's France lacked, on the book's inference, was a
+war abroad absorbing the armed lords under Bedford's regency — an
+explanation the chapter marks as its own (c), not Griffiths's. **Graded
+adequate**: the exception is stated and hedged ("governed without civil
+war" for "remarkably well" — ch05 proposed (gg)); it is not fully
+explained, and Tilly's "before the seventeenth century" is a
+generalisation drawn from France that the English minority of 1422 and
+the French minority of 1483 both complicate.
+
+---
+
+## Objection 9 — Chastellain: across the Channel the personal constitution was working (added 2026-09-16)
+
+**Steelman.** The chapter's structural claim is that under a personal
+constitution "neither refusing nor drafting the substitute could
+stabilise it". In the same five years as the Windsor deputation,
+Charles VII ran the oldest constitutional form in his kingdom — the
+peers' judgement — as an instrument of effective power: Burgundy summoned
+"comme doien des pairs et double pair de France" to the lit de justice at
+Montargis against the Arras exemption of his person (t. III p. 417 / PDF
+427), the sentence on Alençon run "pour donner fréeur au duc de
+Bourgongne" (p. 422 / PDF 432), the arrière-ban cried in the pledged
+Somme towns (p. 423 / PDF 433), the chancellor's "par justice règnent les
+roys" (p. 475 / PDF 485). Form and power fused in one natural body; no
+breakage, no substitute needed. If the personal constitution worked in
+France in 1458, the chapter's "structural" problem is an English
+accident.
+
+**The chapter's answer.** The case is the converse, and it proves the
+chapter's point from the other side: the natural body that executed in
+1458 executed with ch10's machine behind it — the army at Lyon in 1456
+"pour mettre en son obéissance tout le pays du Dauphiné" (p. 226 / PDF
+236) — so the load was carried by the fisc, not by the fiction; and the
+fiction's fragility was live in the same court, the king's "mal
+incurable" watched by astrologers who fixed the month of his death (p.
+444 / PDF 454) while the heir waited in a vassal's court and both "furent
+trompés" (p. 446 / PDF 456). The personal constitution did not break in
+France in 1458 because a recovered king with a permanent tax and a
+standing army did not need it to carry anything — which is the
+sixteenth-century relief §IV describes, arriving in France a generation
+early. **Graded good**, with three disanalogies stated: the witness is a
+Burgundian partisan and his readings of motive are his; the Alençon
+sentence was judicial, negotiated and deferred, and its reversal under
+the next reign is outside the corpus tomes [UNVERIFIED]; the dauphin was
+heir, not baron. The placement (ch09 §III or ch05 §VI–VII) is
+Roderick's.
+
+---
+
+## Objection 10 — Crouch and Stasavage: the chapter's "improvised substitutes" are the ornaments (added 2026-09-16)
+
+**Steelman.** §§V–VI count the compliance function (DSA Art. 41), the
+Long-Term Benefit Trust, the SEC's succession rule and the OpenAI board
+as institutional substitutes "institutionalising", pending maturity. On
+the reading the spine now scores, they may be the dignified parts —
+forms "fully in place - and today in some respects … actually
+strengthened" while control migrates (Crouch PDF p. 2); an institution
+maintained "without it serving its intended purpose" (Stasavage,
+part0015_split_002). The OpenAI board is the Cortes of Castile:
+prerogatives kept, control lost, dissolved by the coalition the person
+could still command. The chapter's own evidence for institutionalisation
+is evidence for ornament, and the chapter's "pending" verdict cannot
+tell the two apart.
+
+**The chapter's answer.** Exactly so — and that is the question Part B1
+instructs the close to plant rather than answer: what happens when the
+efficient part migrates and the dignified part stays. The chapter's
+calibration ("pending, not achieved"; the OpenAI episode cited for both
+halves) is not refuted by the objection; it is sharpened into a
+scoreable alternative, and the falsifiers that distinguish a substitute
+from an ornament (an instrument whose remedies change operations; a
+board whose removal holds) are spine §8(g)(2)'s and Appendix C's, not
+the chapter's. **Graded plausible-unproven** at chapter level by
+construction — the chapter can state the fork and cannot score it; ch12
+§VII and Appendix C's democratic-control sub-wager do.
+
+---
+
+## Flags (2026-09-16)
+
+No flag closable from the 14 September works; none re-source-or-cut.
+CORRECT AT RENOVATION: §V "survive as ceremony" (memo Revisions 2(i);
+9-a). VERIFY: §III's "no justification… of priority of blood" — pin to
+be confirmed (memo Revisions 7(i); sources RETRIEVAL item 13). The §II
+Kantorowicz, §III Famiglietti/Autrand and §IV Elton-debate [GAP]s stand.
+
+---
+
 ## For the Perplexity second-opinion run (log after the draft)
 
 - Are Plowden and the 1454 roll quoted from the open scans, with the flagged
@@ -158,5 +362,11 @@ dated episode, and the draft will re-verify each at writing.
   filings carrying the load?
 - Is the OpenAI episode cited for both halves (substitute existed; substitute
   failed)?
+
+- (2026-09-16) Is Bagehot quoted with his scope caveat (PDF p. 48) and
+  his valuation refused in the text; is the "survive as ceremony" clause
+  gone; is the minority/incapacity distinction stated against Tilly by
+  name with Griffiths and Lander pins; does the close plant Part III's
+  question without naming ch12's coinage?
 
 *(Run pending; results to be pasted below with date.)*
