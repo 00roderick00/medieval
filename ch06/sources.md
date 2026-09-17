@@ -1036,3 +1036,258 @@ date; page images to be checked before print. No draft edited.*
   opened by ruling (r) is CLOSED this date; no row remains open for
   him anywhere in this chapter, and the cross-reference inside the
   Freedman entry above has been amended accordingly.
+
+## Added 2026-09-16 — intake (Leseur, *Histoire de Gaston IV*; pins verified)
+
+*One work in two volumes, read this date against CLAUDE.md §§1–6 and §8
+and ch06/draft.md §§V–VI as renovated on 16 September, to settle the
+§VI Cadillac discrepancy flagged [RE-CHECK AT PRESS] (memo Revisions
+17, 22, 28). Assessment: research/assessments-2026-09-16/
+Leseur-Gaston-IV.md (the map, not the authority). Every pin below was
+opened in the named sidecar this date; page images to be checked before
+print. No draft edited. Leseur stood on no RETRIEVAL LIST in this
+chapter (his prior use is in ch06/artillery-reconquest.md Revisions 7,
+Dax and Bayonne); this is his first sources.md entry.*
+
+- **T1 — Guillaume Leseur, *Histoire de Gaston IV, comte de Foix*,
+  *chronique française inédite du XV^e siècle*, publiée pour la
+  Société de l'Histoire de France par **Henri Courteault**, 2 vols
+  (Paris: Renouard / H. Laurens, **tome I 1893, tome II 1896**)** —
+  BOTH TOMES IN REPO, each as a separate scan; **editions identified
+  from their own title pages this date**, correcting the loose "Leseur
+  (SHF ed.)" of earlier entries.
+  - **TOME I** = `corpus/retrieved/histoiredegaston01leseuoft_bw.pdf`
+    (Internet Archive scan, Univ. of Toronto copy; sidecar
+    `text-2026-09-16/Leseur-Gaston-IV-IA.txt`, ~98k words, 330 PDF
+    pages). Title page PDF p. 11 ("TOME PREMIER … M DCCC XCIII");
+    Beaucourt's declaration 30 April 1893. **OFFSETS: Introduction,
+    roman p. N = PDF p. N + 14; chronicle text, printed p. N = PDF
+    p. N + 98** (verified at running heads: PDF 147 = p. 49; 296 =
+    198; 303 = 205; 316 = 218; 322 = 224). Contents: Introduction
+    pp. i–lxxv; chronicle chs. II–XIIII to p. 222 (ch. XIIII = the
+    1451 Guyenne campaign and Bayonne).
+  - **TOME II** = `corpus/retrieved/Histoire_de_Gaston_IV_comte_de_
+    Foix.pdf` (Google scan, Zurich copy; sidecar
+    `text-2026-09-16/Leseur-Gaston-IV-google.txt`, ~159k words, 460
+    PDF pages). Title page PDF p. 11 ("TOME SECOND … M DCCC XCVI");
+    declaration 5 December 1895. **OFFSET: printed p. N = PDF p. N +
+    14**, constant (PDF 15 = p. 1; 34 = 20; 43 = 29; 400 = 386; 420
+    = 406). Contents: chs. XV–XVIII (pp. 1–386) — ch. XV is the
+    second reduction of Guyenne, Castillon, Talbot's death, Bordeaux
+    and Cadillac — then the *Table analytique* to both tomes.
+  - **OCR.** Serviceable, pins exact, neither clean. Systematic C→G
+    confusion (Ghabannes, Ghartier, Gastillon, Gadilhac); the IA scan
+    also mangles accents with "^"/"'" artefacts. **Roman numerals are
+    the hazard** — "plus de im" (t. II p. 19) is "iiii^m", "de mil à
+    xırº" (p. 17) is "xii^c" — and no figure is carried below that
+    the scan cannot bear.
+  - **USE-NOTE (partisanship; CLAUDE.md §6).** A panegyric written by
+    Gaston IV's *domestique* of nearly thirty years, after his death,
+    at the commission of his heirs. Courteault: none was "plus
+    capable de composer le panégyrique du comte" (Intro. p. xix);
+    "aucun chroniqueur n'a peut-être plus de besoin d'être complété
+    et rectifié à l'aide des documents diplomatiques contemporains"
+    (p. lxxv); "Leseur grossit volontiers les chiffres". Leseur was
+    never in the count's councils ("situation subalterne") and
+    carries no policy or fiscal insight; he reports "de la bouche de
+    témoins oculaires" (p. xxvj). **Cite him for narrative, mode and
+    sequence; never for numbers unsupported elsewhere; never for
+    motive attributed to Gaston.** Against that, Courteault's own
+    verdict: "un journal militaire des plus complets, le plus souvent
+    exact et toujours très vivant" (p. lxxv), and at several points
+    the sole witness — "Leseur est la source capitale pour toute
+    cette partie de la campagne de Guyenne" (t. II p. 11 n. 1). His
+    **editorial apparatus is T2** and in places the more valuable
+    half (it adjudicates Escouchy at Cadillac, dates Castillon's
+    capitulation, supplies archival musters and payment rolls).
+  - **PINS VERIFIED THIS DATE — CADILLAC (t. II, pp. 20–26 / PDF
+    34–40).** p. 20: Gaillardet, "ung escuier gascon … du party des
+    Angloiz, qui estoit cappitaine de Cadilhac", contracts secretly
+    with Gaston IV to deliver "lesdites villes et chastel de
+    Cadilhac" by an agreed day "moyennant certains dons et
+    promesses". p. 21: Gaston comes before the place as the king's
+    lieutenant with Jacques de Chabannes, the count of Castres, the
+    marshal de Jalognes, Ferry de Grancey, Pierre de Louvain,
+    Théaulde de Valpergue and **maistre Jehan Bureau**, "environ huyt
+    cens lances" in all [figure per Courteault's n. 3]; the besiegers
+    take ground "environ à un trait de canon de la ville". p. 21:
+    Gaillardet reneges — "il n'en fist toutesvoys riens". p. 22:
+    trenches and approaches night and day; **Courteault's n. 2 —
+    "Mathieu d'Escouchy (t. II, p. 64) rapporte tout l'honneur du
+    siège et de la prise de Cadillac au comte de Dunois: c'est une
+    erreur"**, the assault being 19 September per Escouchy/Chartier,
+    Charles VII being at Montferrand from 14 August whence he
+    dispatched Jean Bureau to reinforce Foix, and "au moment de la
+    capitulation de Cadillac, Charles VII était devant Bordeaux".
+    p. 24: mines and approaches; "maistre Jehan Bureau faisoit tyrer
+    l'artillerie jour et nuyt, tant la grosse que la menue", the
+    walls "fort batues et empirées", "l'endommaigea fort une bonbarde
+    qui estoit assise pour batre audit portal"; ladders carried by
+    the approaches into the ditch, "grosses coulouvrines" laid to
+    sweep the wall, crossbowmen suppressing the defence. p. 25: the
+    boulevard taken, then more than two hours' assault; the English
+    fall back on the castle; "Ainsi fut ladicte ville de Cadilhac
+    prise et gaignée de bel assault"; **"Et, au regard de ceulx du
+    chasteau, lendemain ilz se rendirent tous prisonniers, reservé le
+    cappitaine Gailhardet, qui se rendit à la volunté de mondit sieur
+    de Foix, qui aultre composition ne luy voullut oncques
+    accorder"**; Courteault's n. 2 dates the assault to 19 September
+    and records that Cadillac's defenders undertook to procure the
+    surrender of **Bénauges and Rions** (Escouchy ii. 67). p. 26:
+    because Gaillardet was "des pays de mondit sieur de Foix, son
+    homme lige et subget" and had broken his oath, **"mondit sieur le
+    conte de Foix pour ses desmerites luy fist trencher la teste
+    comme à ung traystre"**. **NEGATIVE FINDINGS: Leseur gives no
+    calendar date anywhere in the Cadillac narrative; "17 September"
+    appears nowhere in either tome; and what stands at Vale's pin
+    (t. II, p. 19) is the aftermath of Castillon, not Cadillac.** See
+    memo Revisions 35, "The Cadillac discrepancy".
+  - **PINS — CASTILLON (t. II, pp. 12–20 / PDF 26–34).** p. 12 n. 1
+    (Courteault): Gaston IV was **not** at Castillon; Leseur's
+    account, "des plus détaillés", he "devait certainement tenir de
+    quelque témoin oculaire", and it "n'a pas encore été utilisé
+    comme il mériterait de l'être". p. 13: "à leur venue, maistre
+    Jehan Bureau avecques ses pionniers fist clorre ung champ grant
+    et spacieux, très bien clos et advironné de larges et profons
+    fossez, et oudit champ il fist mectre tout le bagaige et
+    l'artillerie" — the park built on arrival, as siege practice.
+    p. 14: the Castillon garrison baits Talbot — the French take
+    "grant paine d'eulx clorre et fortiffier, comme gens qui desjà
+    avoient grant paour", he will have "si beau marchié qu'il
+    vouldroit"; Courteault n. 2, "Le récit de Leseur est plus
+    vraisemblable que celui d'Escouchy". p. 15: Talbot's force "de
+    sept à huyt mille combatans" (Courteault n. 6: "Leseur est celui
+    qui se rapproche le plus de la vérité"); the French work "jour et
+    nuyt", then spend the night re-fortifying and "acostre[re]nt
+    toute leur artillerie sur les venues des Angloys". **p. 16: the
+    false report, with an author** — hearing the noise of
+    fortification "ilz penserent que ilz chargeassent leur artillerye
+    pour eulx enfuyr", and sent again to hurry him; Talbot "se hasta
+    tant qu'il n'eult point loisir de oyr la messe, et fist desfoncer
+    deux ou troys pippes de vin pour fere boire ses Angloys, qui
+    puysoient dedens avecques leurs salades comme en beau let".
+    p. 17: his halt to let his foot close up gave the French "bon
+    loisir de assortir et asseoir toute leur artillerie sur chacune
+    des venues"; "il se merveilla fort dont il vit les Françoys ainsi
+    clos et fossoiez de si larges et profons fossez. Et adonc, sans
+    marchander, vint et marcha ledit Tallebot … monté sur une petite
+    hacquenée, jusques à la barriere du champ, et commença à cryer:
+    A pié, à pié tout le monde!"; an hour's hand-to-hand fighting;
+    "maistre Jehan Bureau faisoit fort bien son devoir à fere tyrer
+    serpentines et grosses coulouvrines, dont les Angloiz furent fort
+    batuz et endomaigés". **p. 18: the decision is a cavalry charge**
+    — la Hunaudaye and Montauban with the Breton lances and la
+    Bessière with a hundred more, who "commencerent tous d'un front à
+    charger … que en bien petit d'heure ilz porterent et ruerent par
+    terre les enseignes de Tallebot"; the English turn, "et en ce
+    tumulte fut abbatu Tallebot … lequel fut illec tué et son filz au
+    plus près de luy". Courteault n. 1 adds Drouyn's three hundred
+    pieces under the Genoese gunner Louis Giribault and the camp
+    ditches laid for converging fire. p. 19: the dead "plus de
+    iiii^m"; Courteault n. 2 notes the contradiction with the letter
+    of 19 July ("Car nul n'estoit retenu prisonnier"); **"Et, troys
+    jours après, ceulx de la place de Castillon se rendirent et
+    eurent pour composition"**, Courteault n. 1: "La place capitula
+    le 20 juillet".
+  - **PINS — THE 1451 CAMPAIGN (t. I, ch. XIIII, pp. 198–222 / PDF
+    296–320).** p. 201: Dunois lieutenant general; Montguyon taken
+    in May, **maistre Jehan Bureau present from the first siege**.
+    p. 202: Jean Le Boursier, seigneur d'Esternay, "gênerai de
+    France", brings the victualling fleet up the Gironde and takes
+    five Bordeaux ships; **"Et tost après ladite ville de Blaye fut
+    prise d'assault, et les Angloys estans en icelle mis en
+    sacqueman"**; Courteault's n. 3 gives his 2,000-*livres*
+    reimbursement "tant sur la rivière de la Gironde comme au siège
+    devant Bayonne" (Rôle of 7 May 1454, BnF ms. fr. 20683 fol. 47).
+    p. 203: Bourg composes early "doubtans … que on leur feist le
+    gieu que on avoit fait à leurs voisins de Blaye"; Libourne
+    surrenders "sans coup ferir". p. 204: Fronsac's men compose
+    "voyans que on les avoit fort batuz et approchez, et que à la
+    longue il conviendroit que ilz disissent le mot"; **the *délai de
+    secours*** — if by 15 June, "huyt jours après ensuyvans", the
+    English were not "les plus fors devant ladite place … pour illec
+    combatre les Françoys", they swore "de rendre la ville de
+    Bourdeaulx et toutes les aultres villes et places de Guyenne,
+    réservé la cité de Bayonne"; Courteault n. 2 names the treaty
+    commissioners from Chartier — **Chabannes, Valpergue, Jean Bureau
+    and Jean Le Boursier**. p. 205: **"au jour xv dudit moys escheu,
+    monseigneur de Dunoys mist tous ses gens d'armes en ung beau
+    champ qu'il avoit fait clorre et préparer, et tindrent la
+    bataille tout le jour, actendans les Angloys, qui toutesvoys n'y
+    vindrent point; et lendemain ceulx de la place se rendirent.
+    Aussy firent ceulx de Bourdeaulx, de Gadilhac, de Langon,
+    Saint-Macquaire, Blanquefort, Gastillon et toutes les villes et
+    places, réservé Bayonne"**; Courteault n. 6 notes how fast Leseur
+    passes over Bordeaux's terms — **he does NOT close the §V [GAP]
+    on the 1451 Bordeaux settlement**. p. 206: "pour ce qu'il estoit
+    lieutenant du Roy en Guyenne, le Roy manda à aucuns des
+    cappitaines qu'ilz et leurs compaignies se myssent soubz luy et
+    en sa bande". pp. 207, 209–10: Bayonne — **Gaspard Bureau
+    "maistre de l'artillerie"** with Foix, **Jean Bureau** with
+    Dunois, who "conduysoit la bataille et l'artillerie"; bombards
+    and all the heavy artillery sited to best effect, "et faisoit-on
+    tyrer ladite artillerie jour et nuyt"; the Saint-Léon suburb held
+    "plus de deux bonnes heures" against assault.
+  - **PINS — 1452–53 AND THE SETTLEMENT (t. II, pp. 2–8, 29 / PDF
+    16–22, 43).** p. 4: Talbot before Bordeaux "le xxii^e jour du
+    moys d'octobre de l'année mil IIII^c LII" with "de cinq à six
+    mille Angloys". p. 6: two or three days later Talbot held
+    "Cadillac, Castillon de Madec, Saint-Maquaire, Langon,
+    Blanquefort et plusieurs aultres places". pp. 7–8: Gaston made
+    the king's lieutenant, goes to Béarn, "incontinent fist
+    assembler ses estatz des nobles et gens de ses pays … et en toute
+    diligence manda son ban et rieban", and in under a fortnight has
+    "quelque v^c lances bien en point et bien vi^m arbalestriers et
+    pavoisiers"; **Courteault's n. 1 is the documentary counterpart**
+    — on 15 April Charles VII sent Théaulde de Valpergue from
+    Montbazon to take the muster of the troops under the count of
+    Foix (500 lances without the *gens de trait*; Arch. des
+    Basses-Pyrénées, E 68), and 10,000 francs were assigned to the
+    payment of the counts of Foix and Armagnac and the sire d'Albret
+    (BnF ms. fr. 26081, n° 6589). p. 29: the Bordeaux composition
+    "le xviii jour d'octobre" (Courteault: the banners flew on the
+    19th); **"le Roy commist à la garde et gouvernement dudit pays de
+    Guyenne monsieur le conte de Clermont, et avecques luy y
+    demourerent monsieur de Saintrailles, messire Theolde de
+    Valpergue, maistre Jehan Bureau et messire Jehan le Bourssier,
+    ausquelx le Roy donna charge de fere commencer le chasteau du Ha
+    et de Trompecte"**, while Gaston "s'en retourna en ses pays
+    avecques ses gens d'armes, auxquelx il donna congié d'eulx en
+    aller à leurs maisons".
+  - **PIN — THE BARONIAL FISC (t. I, p. 49 n. 1 / PDF 147).**
+    Courteault, against Leseur's "voluntairement et agreablement
+    obeirent": "En 1451 notamment, le trésorier de Foix reçut ordre
+    de faire emprisonner tous les habitants qui refusaient de fournir
+    leur contribution de guerre … Les Etats du comté de Foix étaient
+    obligés de s'endetter pour satisfaire aux exigences du comte"
+    (citing Olhagaray and Faget de Baure — **T3 seventeenth- and
+    nineteenth-century carriers relayed by a T2 editor; colour and
+    corroboration only, never sole support**).
+  - **AN OPEN QUESTION THIS INTAKE CREATES (honest, unresolved).**
+    Courteault footnotes "Cadilhac" at t. I p. 205 n. 1 and t. II
+    p. 6 n. 1 as **Cadillac, Gironde, arr. de Libourne, cant. de
+    Fronsac** — i.e. Cadillac-en-Fronsadais — and does not re-identify
+    it at the September 1453 siege; but his own note at t. II p. 25
+    has Cadillac's defenders undertaking to procure Bénauges and
+    Rions, which lie beside **Cadillac-sur-Garonne**, and Leseur's
+    text says "villes et chastel". The identification is not settled
+    here and is not asserted either way. Carry as a narrowed
+    [RE-CHECK AT PRESS] (memo Revisions 35).
+
+- **AMENDMENT to the Vale pointer entry (Added 2026-09-16, Phase 5
+  renovation, above).** Vale 1974: 140's footnote reads "Leseur, ir,
+  19; Escouchy, ii, 56; MS. fr. […] fol. 165", the third item being a
+  payment to an esquire "for having guided the king and his
+  crossbowmen, and a bombard … to the [siege] before Cadillac". "ir"
+  is OCR for "ii" — **tome II, p. 19**. Verified this date: **t. II
+  p. 19 carries the aftermath of Castillon** (the dead, the flight to
+  Saint-Émilion, Castillon's surrender three days later); the Cadillac
+  narrative begins at p. 20 and runs to p. 26. Leseur supports
+  **neither** limb of Vale's sentence: on Gaston's arrival the place
+  did not surrender ("il n'en fist toutesvoys riens"), and the captain
+  was executed by **Gaston IV**, not "on his orders" meaning the
+  king's. Vale's 17 September must therefore rest on Escouchy ii. 56
+  or the MS fr. payment, **not on Leseur**. Leseur does, however,
+  corroborate the payment record's content: a bombard laid against the
+  boulevard gate (t. II p. 24) and "de cinq à six mille arbalestriers"
+  in the besieging force (p. 21).

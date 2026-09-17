@@ -746,3 +746,84 @@ Priorities to stress-test on the draft:
       (Talbot and the Belloc syndrome) is untouched, Holman having no
       bearing on Talbot. The objection disciplines §VI's register and
       the book's later use of the syndrome, nothing more.
+
+13. **(2026-09-16 — Leseur intake: the fourth witness gives Castillon
+    to a cavalry charge, and Cadillac to the count of Foix.
+    PENDING HUMAN REVIEW.)**
+    - **Steelman.** The chapter's cleanest exhibit now has a fourth
+      contemporary narrative, and it is the fullest of the four — a
+      circumstantial account of the Gascon campaign of which
+      Courteault, its editor, says that Leseur "est la source
+      capitale pour toute cette partie de la campagne de Guyenne"
+      (t. II, p. 11 n. 1). On the battle it does not say what the
+      chapter says. Leseur's guns hurt the English — "maistre Jehan
+      Bureau faisoit fort bien son devoir à fere tyrer serpentines
+      et grosses coulouvrines, dont les Angloiz furent fort batuz et
+      endomaigés" — and then fail to stop them: "Toutesfoiz les
+      Angloys, jasoit que les Françoys en tuassent beaucop, si
+      croissoient et arriverent tousjours les gens de pié" (t. II,
+      pp. 17–18). The fighting is hand-to-hand "par l'espace d'une
+      heure". What ends it is a body of fresh cavalry — la
+      Hunaudaye and Montauban with the Breton lances, la Bessière
+      with a hundred more — thrown into the press where Talbot's
+      banners stood: "commencerent tous d'un front à charger et
+      donner dedens les Angloys si asprement … que en bien petit
+      d'heure ilz porterent et ruerent par terre les enseignes de
+      Tallebot. Et adonc les Angloys, se voyans charger de si près,
+      virerent le dos et se mistrent en fuyte, et en ce tumulte fut
+      abbatu Tallebot" (p. 18). Talbot dies in the rout, unhorsed,
+      not on the rampart under an axe. Worse for the chapter's
+      framing, Talbot is not simply duped: "il se merveilla fort
+      dont il vit les Françoys ainsi clos et fossoiez de si larges
+      et profons fossez. Et adonc, sans marchander," he attacked
+      anyway (p. 17). He saw the works. He charged them. On this
+      telling Castillon is a battle of the old kind, decided by
+      reserves and a charge, fought beside a gun park that
+      contributed and did not decide — and the objection can add
+      that the witness has no Breton interest to serve and every
+      reason to credit anyone but Bretons, which makes his testimony
+      harder to discount than a partisan's usually is. The Cadillac
+      limb runs the same way from the other side: there the honours
+      go wholly to Gaston IV, Leseur's master, and to his men-at-arms
+      and crossbowmen — the train is present but subordinate — so the
+      chapter's use of Cadillac as the train's one storming is
+      contested by a witness with an interest in contesting it.
+    - **The chapter's answer (assessment grade: GOOD on the battle;
+      the Cadillac limb GOOD, but only because the source's bias runs
+      the other way).** On Castillon: the chapter has never claimed
+      that guns win field battles, and Objection 3 already concedes
+      it; §V's two speeds put decisiveness at the walls, and the
+      draft already stages Howard, DeVries and Hall to that effect on
+      the dissenting bench. Leseur is a fourth witness to the same
+      division of labour, and his own narrative supplies the answer.
+      The park was not an improvisation against Talbot: Bureau's
+      pioneers built it "à leur venue" to house the baggage and the
+      artillery — standard siege practice — and it was then adapted
+      overnight, "acostre[re]nt toute leur artillerie sur les venues
+      des Angloys" (t. II, pp. 13, 15). Talbot marvelled at the
+      ditches and had to attack them frontally regardless. The guns
+      bought the hour of mêlée in which fresh reserves could be
+      brought to bear on a ground the artillery train had chosen.
+      That is the chapter's claim exactly: the instrument decided
+      where the battle would be fought and what shape it had to take,
+      and the killing stroke was delivered by men. **The condition:
+      this holds only if §VI carries the Breton charge in the text,
+      not in a note.** Any reader who opens t. II p. 18 will find it,
+      and a chapter that has suppressed it forfeits the register it
+      claims for itself; a chapter that states it gains a disanalogy
+      of the kind CLAUDE.md §6 requires. On Cadillac: the bias runs
+      towards Gaston, and Leseur nonetheless records Jean Bureau
+      firing "jour et nuyt, tant la grosse que la menue", the walls
+      "fort batues et empirées", a bombard laid against the boulevard
+      gate, and *grosses coulouvrines* assorted to sweep the wall
+      before the ladders went up (t. II, p. 24). A panegyrist
+      crediting the train against interest is stronger evidence than
+      a neutral crediting it. The honours can be discounted; the
+      battery cannot.
+    - **Reach.** No spine ruling is touched; spine §8(f) YES 3
+      (Talbot and the Belloc syndrome) is untouched — Leseur's Talbot
+      charges prepared works he has seen, which is if anything a
+      cleaner instance of the syndrome than the deceived Talbot of
+      Escouchy. The objection disciplines §VI's narrative register
+      and the weight §VI may place on Cadillac's honours, nothing
+      more. Register decisions at memo Revisions 35, L-a and L-d.
