@@ -1029,3 +1029,191 @@ below. No draft text changed.*
   the 1665 case in text. The Youings/Hoyle row is now LOAD-BEARING (see
   memo Revisions 11: Ertman's contradiction turns on whether the
   dissolution's receipt was capital or income).
+
+## Added 2026-09-16 — intake (Youings, *The Dissolution of the Monasteries*; pins verified)
+
+*One work, read in full this date; every quotation opened at the sidecar
+before entry. Assessment: `research/assessments-2026-09-16/Youings-1971.md`.
+No draft text changed. This block closes the Youings half of the
+RETRIEVAL row raised at draft §II.*
+
+- **T2 (commentary) / T1 (the documents printed) — Joyce Youings, *The
+  Dissolution of the Monasteries*, Historical Problems: Studies and
+  Documents, ed. G. R. Elton (London: George Allen & Unwin, 1971)** — IN
+  REPO as `corpus/retrieved/Youings-The-Dissolution-of-the-Monasteries.epub`
+  (Routledge reissue, 2021, of the 1971 first edition; the original 1971
+  title-page and copyright page — British ISBN 0 04 942089 5 cased — are
+  reproduced inside). Sidecar:
+  `corpus/retrieved/source-library/text-2026-09-16/Youings-Dissolution-epub.txt`
+  (117,376 words).
+
+  **CITATION FORM (stated, because the conversion carries no pagination).**
+  The EPUB conversion uses `===== FILE: … =====` markers and **preserves no
+  printed page numbers in the body** — the only bare numerals in the text
+  are the five Introduction chapter numbers. Cite therefore as *Youings
+  1971, Introduction ch. N* (chs. 1 *Problems and Documents*; 2 *The Crown
+  and the Smaller Monasteries*; 3 *The Great and Solemn Monasteries*; 4
+  *The Court of Augmentations takes Charge*; 5 *The Dispersal of Monastic
+  Lands*) for the commentary, and *Youings 1971, Doc. N* for the printed
+  documents, which the volume itself numbers 1–40. Every pin below
+  additionally carries its **sidecar line number** (`sc. NNNN`) so it can be
+  reopened exactly. The printed **index is reproduced in the sidecar and
+  does carry 1971 page numbers**, so a topic — never a sentence — can be
+  located approximately in a printed copy; any printed page offered in the
+  assessment is marked *[index locator]* and is an INFERENCE, not a
+  verified pin. **Page-image verification against a printed or scanned copy
+  is owed before print for every quotation carried into text.**
+
+  **TIER.** T2 for Youings's own commentary (a 1971 synthesis by the
+  specialist in the Devon monastic-land disposals; superseded in detail by
+  forty years of later county work, and she says so herself — her running
+  theme is that the national balance sheet has never been drawn). T1 for
+  the documents she prints in extenso, each named where used: **Doc. 5**
+  (the disendowment plan among Cromwell's papers, autumn 1534, PRO SP 1);
+  **Doc. 7** (the visitors' Injunctions, 1535, BM Cotton MS Cleop. E IV,
+  fos. 21–5); **Doc. 10** (27 Henry VIII, c. 28, the act of 1536,
+  *Statutes* III. 575–8); **Doc. 11** (the commissioners' instructions,
+  1536); **Doc. 18** (the royal commission to dissolve, Feb. 1539); **Doc.
+  21** (the deed of surrender of Forde Abbey, 1539, PRO E 322/88); **Doc.
+  22** (the dissolution accounts of St Osyth's, 1539); **Doc. 23** (31
+  Henry VIII, c. 13, the act of 1539, *Statutes* III. 733–9); **Doc. 25**
+  (27 Henry VIII, c. 27, the Court of Augmentations act, *Statutes* III.
+  569–74); **Docs. 26–27** (Ministers' and Receivers' accounts, PRO SC 6
+  and LR 6); **Doc. 28** (Treasurers' accounts and receipt books, PRO E
+  323, E 164); **Doc. 33** (the third commission to sell Crown lands, 1543,
+  PRO C 66/739). Youings's own headnotes to the documents are T2, not T1,
+  and are to be attributed to her where they carry a judgement.
+
+  **CAVEAT ON TIER.** This is a volume in Elton's own series and Elton "read
+  and commented on an early draft" (Author's Note, sc. 1075). Under
+  CLAUDE.md §3 it is therefore **not a neutral witness in the
+  Elton-revision debate** and must not be cited as independent
+  corroboration of the Elton frame; cited for the dissolution's receipts
+  and instruments, which is what it is for.
+
+  **PINS VERIFIED THIS RUN** (sidecar line; quotation verbatim):
+  - The verdict that governs the chapter's qualification: "It has long been
+    recognized that the Dissolution did not lead to the permanent
+    augmentation of the annual income of the Crown, and indeed that the
+    former monastic lands were 'dissipated' to a very great extent by Henry
+    VIII during the later years of his reign" (ch. 1, sc. 1268–70); and the
+    refusal of the Cromwell's-fall explanation (ch. 1, sc. 1270–74).
+  - The fisc, in her words: "As the collector of the new revenues from the
+    monastic lands which had just about doubled the Crown's resources, the
+    court of Augmentations replaced the king's chamber as the bank from
+    which the king's government, and his personal extravagances, could be
+    paid for" (ch. 4, sc. 4402–05).
+  - The intention of permanence: "the establishment of this separate
+    department is the strongest possible argument for the government's
+    determination not only to augment its revenues but to retain its new
+    resources permanently in its own hands" (ch. 2, sc. 2300–01); and the
+    selling commissions' ceilings — "the limitation imposed on the
+    commissioners argues restraint" (ch. 5, sc. 4785–87).
+  - The dispersal and its pace: "Fifteen further outright grants followed in
+    1536, thirty-five in 1537, seventy-five in 1538, and one hundred and
+    twelve in 1539, in all two hundred and thirty-four before the first
+    commission to sell monastic land was issued in December 1539 … by the
+    end of Henry VIII's reign over half of the whole of the former monastic
+    estates had been alienated … well over three-quarters by 1558" (ch. 5,
+    sc. 4651–57); sale "at twenty years' purchase, that is a capital sum of
+    twenty times their current net annual value" (ch. 5, sc. 4757–59);
+    "Cromwell's ability, if not his determination, to secure the former
+    monastic lands as a permanent and irreduceable part of the Crown's
+    resources has usually been exaggerated. Disposal by the Crown took place
+    from the very beginning" (ch. 3, sc. 2870–71).
+  - Figures carried (each with its date, from the assessment §4(a)): Wolsey's
+    twenty-nine houses, net income "about £1,800" (1524–9, ch. 2,
+    sc. 1603–04); the £40,000-a-year expectation of early 1536, attaching to
+    the founder's-escheat route — "by such means" (ch. 2, sc. 2075–76); the
+    £200 threshold (Doc. 10, sc. 5772, 5806); "Thirty-three houses paid a
+    total sum in fines of nearly £6,000" (ch. 2, sc. 2415), the account
+    giving "£5,948 6s 8d" (Doc. 28a, sc. 8001–02); the new bishoprics,
+    "monastic revenues of nearly £20,000 a year … net gain to the Church -
+    and the net loss to the Crown - … rather over £5,000" (ch. 3,
+    sc. 3596–98); Richardson's Augmentations yield, "£899, 120 odd, or about
+    £112, 390 a year", **with Youings's own caveat** "these receipts were
+    those of the Treasurer, not of the Crown" (ch. 4 n. 32, sc. 4432–37);
+    Treasurers' warrant payments 1540–4 totalling "£37,754 11s 7¼d" (Doc.
+    28c, sc. 8136–8157).
+  - The universalist power, in the instruments: the religious to observe the
+    statutes "for the extirpation and taking away of the usurped and
+    pretended jurisdiction of the bishop of Rome within this realm" (Doc. 7,
+    inj. 2, sc. 5594–95), and to be "absolved and loosed from all manner [of]
+    obedience, oath and profession by them heretofore perchance promised or
+    made to the said bishop of Rome or to any other in his stead or occupying
+    his authority or to any other foreign power or person" (Doc. 7, inj. 3,
+    sc. 5597–5601); "that no monk or brother of this monastery by any means
+    go forth of the precincts of the same" (Doc. 7, inj. 4, sc. 5602); the
+    exempt houses now "visited or vexed" only "by commissioners appointed by
+    the king under the Great Seal" (ch. 3, sc. 2598–2600); Cromwell as
+    vicegerent possessing "powers considerably greater than had been enjoyed
+    by the secular hierarchy" (ch. 2, sc. 1966–68); the 1540 act vesting in
+    the Crown "all the 'franchises and temporal jurisdictions' of the
+    monasteries" (ch. 3 n. 54, sc. 3548–51). And the mechanism stated
+    economically: the communities "were never, in so many words, actually
+    dissolved … Institutions which for the most part traced their foundation
+    to gifts of landed property came to an end with the surrender of that
+    property" (ch. 1, sc. 1146–54).
+  - The instruments of capacity: the Valor commissions of 30 January 1535 and
+    their instructions "to search and know the number and names of every
+    abbey, monastery, priory, and house religious and conventual … and their
+    whole and entire, distinct and several yearly values" (ch. 2,
+    sc. 1895–1905), returned "to the intent that the tenth of the premises
+    may be taxed" (sc. 1915–16); "there is no justification whatsoever for
+    regarding it as anything more than a taxation assessment" (ch. 2,
+    sc. 1961–62) — and yet "it was the information contained in the *Valor
+    Ecclesiasticus* and not the reports of the Visitors which determined the
+    fate of each community" (ch. 2, sc. 2145–46); the Augmentations'
+    seventeen Receivers and ten Auditors on standing regional circuits, "an
+    apportionment of continuing regional responsibility for which there is no
+    known precedent" (ch. 4, sc. 3810–12); "Certainly it was not with the use
+    of armed force" (ch. 1, sc. 1364–65).
+  - The military connection, at its true strength and no higher: the 1534
+    plan headed "FOR … MAINTENANCE OF HIS MOST ROYAL ESTATE, AND FOR THE
+    DEFENCE OF THE REALM" (Doc. 5, sc. 5464–65), its tax clause naming "the
+    charges of the wars now present and begun for defence of Ireland as [well
+    as] for the making of the haven of Dover and divers piles, fortresses,
+    blockhouses and other munitions against Scotland" (sc. 5531–34); the 1538
+    invasion scare and "very heavy expenditure, principally for the putting
+    into a state of readiness of the coastal defences" (ch. 3, sc. 3329–34)
+    — **with her own countervailing footnote** that Dietz and Richardson hold
+    "that until 1540 there was no real financial crisis" (ch. 3 n. 40,
+    sc. 3340–42); Augmentations money to "the paymaster of the coastal
+    defence works at Weymouth and Falmouth" (May 1540, ch. 4, sc. 4222–25);
+    and warrant payment "for wages of various captains, lieutenants, deputy
+    keepers and other soldiers of the King at various castles, fortresses"
+    (Doc. 28c, sc. 8140–42).
+
+  **USE-NOTE.** (i) The work carries **no national *Valor Ecclesiasticus*
+  total, no crown ordinary-revenue figure before or after, and no total for
+  either dissolution act** — by her own insistence that the balance sheet
+  has never been drawn ("Only after all the accounts, spreading over more
+  than a decade, have been analysed … will it be possible to compile a
+  really satisfactory balance sheet of the whole operation", ch. 1,
+  sc. 1284–86). **Omission over invention: no such total may be taken from
+  her.** (ii) The Richardson yield is Richardson's, not hers, and travels
+  with her caveat or not at all. (iii) The £40,000 expectation of 1536 is an
+  estimate of what the *founder's-escheat* route might yield, not of what
+  the statute did yield; quoting it without "by such means" misstates it.
+  (iv) She denies the dissolution was aimed at a universalist rival —
+  "its inspiration and execution owed little to religious considerations"
+  (ch. 1, sc. 1159) — so the chapter's [BOOK'S ARGUMENT] sentence rests on
+  **effect and instrument, not motive**, and must say so. (v) Nothing in this
+  book bears on artillery, ordnance or the navy: greps for *artillery*,
+  *ordnance*, *navy*, *bulwark*, *Boulogne* return no hits.
+
+- **RETRIEVAL LIST — row updated.** The **Youings** half of "the
+  dissolution's receipts — Youings, Hoyle" is **CLOSED** (in repo, read in
+  full, pins verified this date). **Hoyle stays OPEN**, and the reason is
+  now specific rather than general. Youings's only general authority on early
+  Tudor government finance is F. C. Dietz, *English Government Finance,
+  1485–1558* (Illinois, 1920; repr. 1964), and she dismisses its treatment of
+  the Dissolution as "by present-day standards, quite inadequate" (ch. 1,
+  sc. 1276–77, n. 7 at sc. 1291). Hoyle is wanted as the post-Youings
+  authority on the crown's fiscal calculation — **exact reference not yet
+  verified; do not cite until the item is identified and in the repo** — and
+  he, or a modern successor to Dietz, is the only route in sight to the two
+  figures Youings does not carry: **the crown's ordinary revenue before and
+  after**, and **a national Valor total**. Wanted only if ch11 §II
+  is to state either in text; the qualification recorded at memo Revisions 19
+  can be carried without them.

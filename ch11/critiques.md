@@ -665,3 +665,140 @@ survives its members losing cases, but not the court losing the cases.
      subordination (memo (jj)). The prediction survives as a direction;
      it does not survive as a date, and the chapter should not let it
      read as one.
+
+10. **(2026-09-16 — source intake: Youings on the dissolution — a windfall
+    spent, the gentry as beneficiaries, and a department that outlived its
+    assets; the receipts objection, now carried at the page. PENDING HUMAN
+    REVIEW.)** Pins by Introduction chapter and Document number with sidecar
+    lines (no printed pagination in the conversion); memo Revisions 19;
+    assessment `research/assessments-2026-09-16/Youings-1971.md`. This entry
+    replaces the placeholder that Revisions 6 had to leave open for want of
+    the figures. The ruling remains Roderick's.
+    - **Steelman (the windfall-spent objection, at full strength).** The
+      chapter's §II says the English settlement "arrived when the crown found
+      a fisc that no assembly had to grant" and that "The dissolution is the
+      English fisc of the settlement". Youings, writing as the specialist on
+      the disposals and reporting the field rather than herself, says the
+      opposite of the second clause: "It has long been recognized that the
+      Dissolution did not lead to the permanent augmentation of the annual
+      income of the Crown, and indeed that the former monastic lands were
+      'dissipated' to a very great extent by Henry VIII during the later years
+      of his reign" (ch. 1, sc. 1268–70). The objection cannot be parried by
+      blaming Cromwell's fall: "by the time of Cromwell's fall four years had
+      passed since the first assault in 1536, years during which not only very
+      substantial but very many grants had been made, and … in December 1539
+      Cromwell himself was named as one of the first commissioners to sell
+      monastic and other Crown lands" (sc. 1270–74); "Cromwell's ability, if
+      not his determination, to secure the former monastic lands as a
+      permanent and irreduceable part of the Crown's resources has usually
+      been exaggerated. Disposal by the Crown took place from the very
+      beginning" (ch. 3, sc. 2870–71). The numbers are hers: fifteen outright
+      grants in 1536, thirty-five in 1537, seventy-five in 1538, one hundred
+      and twelve in 1539, "in all two hundred and thirty-four before the first
+      commission to sell monastic land was issued in December 1539"; "by the
+      end of Henry VIII's reign over half of the whole of the former monastic
+      estates had been alienated"; "well over three-quarters by 1558" (ch. 5,
+      sc. 4651–57). And the sale was at a fixed, unhaggled price — "twenty
+      years' purchase, that is a capital sum of twenty times their current net
+      annual value" (ch. 5, sc. 4757–59) — a crown converting income into cash
+      at a rate it set and never raised until the 1550s, when it had almost
+      nothing left to sell. Even while held, the estate was under-worked: "the
+      Crown extracted nothing like the maximum possible return from its new
+      resources" (ch. 1, sc. 1287–89). Youings heads the chapter that records
+      all this with Fortescue — "for selling of a king's livelihood is properly
+      called delapidation of his crown, and therefore is of great infamy"
+      (ch. 5 epigraph, sc. 4631–32) — which is the same authority §II quotes,
+      four paragraphs earlier, for the programme the crown was supposed to be
+      executing. **The gentry limb.** The beneficiaries were the class the
+      mechanism says a consolidating crown subordinates: "in every county in
+      England and Wales for which information is available, the greater part
+      had left Crown hands by 1547" (ch. 5, sc. 4659–60), the buyers being for
+      the most part local families — in Devon "well over fifty per cent of the
+      monastic property disposed of by 1558 was in the possession of local
+      families" (ch. 5, sc. 5053–55) — so that the confiscation which broke a
+      universal corporation simultaneously endowed the county elite whose
+      Parliament would fight the crown a century later. **The apparatus limb.**
+      The department built to hold the fisc spent its life disposing of it and
+      was, in Youings's phrase, "leading inevitably towards its own eventual
+      redundancy" (ch. 4, sc. 4612–13); it was folded into the Exchequer in
+      1554. Taken with Ertman (Revisions 6), the objection is now carried by
+      two independent T2 authorities on two different variables and reaching
+      the same result: on Ertman's test the *boards* were reabsorbed by 1554;
+      on Youings's the *revenue* was by 1558. Against the Part II mechanism —
+      capital-intensive force → **permanent** finance → administrative
+      capacity → subordination of intermediate authorities — England's 1530s
+      supply a finite windfall, a department with a fourteen-year afterlife,
+      and a strengthened gentry. That is not the mechanism running; on the
+      strongest reading it is the mechanism failing, and being described as if
+      it had succeeded.
+    - **The chapter's answer (four limbs; graded ADEQUATE, ADEQUATE, STRONG,
+      and NOT YET TAKEN).** *First*, the receipts limb Revisions 6 had to
+      leave empty is now filled, and it favours the chapter: the confiscation
+      "just about doubled the Crown's resources" and the Court of
+      Augmentations "replaced the king's chamber as the bank from which the
+      king's government, and his personal extravagances, could be paid for"
+      (ch. 4, sc. 4402–05). A doubling is a fisc by any reading, and the
+      chapter's sentence is true of the decade 1536–46 even if false of the
+      century. ADEQUATE — it concedes the timescale rather than defending it.
+      *Second*, intention against outcome. Youings twice states that
+      permanence was designed: the Augmentations act's contents "would appear
+      to argue the existence at this juncture of plans not only to proceed
+      with the confiscation of all religious houses and their property but
+      also to retain the greater part towards the permanent augmentation of
+      the Crown's resources" (ch. 4, sc. 3771–74); "the establishment of this
+      separate department is the strongest possible argument for the
+      government's determination not only to augment its revenues but to
+      retain its new resources permanently in its own hands" (ch. 2,
+      sc. 2300–01); and the selling commissions' ceilings "argue restraint"
+      (ch. 5, sc. 4785–87). She leaves the failure unexplained — "whether this
+      was through design or administrative inertia still remains to be
+      determined" (ch. 1, sc. 1287–89). The mechanism predicts the crown's
+      *requirement* and its *attempt*; it does not warrant success. ADEQUATE,
+      and consistent with spine §7's insistence that the consolidation is
+      compelled, not accomplished — but it dates the English settlement by an
+      intention, which is weaker than dating it by a revenue.
+      *Third, and the limb that actually answers the objection*: the English
+      crown took a **stock** where the French crown had taken a **flow**. The
+      taille of 1439–46 was renewable annually and could not be spent out; the
+      monastic estate was capital and could be, and was, at twenty years'
+      purchase. Read this way Youings is not a refutation of the mechanism but
+      the book's sharpest demonstration of *which link in the chain is
+      load-bearing*: not the size of the seizure but the permanence of the
+      finance. It also explains, without conceding Ertman's frame, why the
+      English fiscal-military state waited for a Parliament that sat almost
+      annually under war pressure — the crown of the 1530s solved the
+      canonical problem and the cash-flow problem of one decade, and left the
+      fiscal problem for the seventeenth century. STRONG, and it turns §II's
+      weakest passage into an argument. **It is the book's own inference from
+      Youings's evidence and not hers; it must be flagged as such wherever it
+      is used** (CLAUDE.md §4(c)).
+      *Fourth, the gentry limb, NOT YET TAKEN.* The chapter has no answer to
+      the observation that the dissolution endowed the intermediate authority
+      it is supposed to have subordinated. The honest forms available are
+      that the gentry were never the armed intermediaries the mechanism names
+      — Lander's nobility "possessed no fortresses" is already at §II, and
+      Youings's "Certainly it was not with the use of armed force" (ch. 1,
+      sc. 1364–65) extends the point — so an enriched gentry is not a restored
+      over-mighty subject; or that the transfer is exactly ruling (n)'s
+      pattern, the core's intermediaries subordinated and the property left in
+      private hands with the discretion severed, which is the American
+      Standard Oil move read backwards (spine §8(c)). Neither is adopted here.
+      The second is attractive and should be examined sceptically before it is
+      used, because the English facts run the other way. What the crown
+      reserved on a grant of "any estate of inheritance" was "a tenure by
+      knight service, and an annual rent of one-tenth of the current net annual
+      value" (ch. 5, sc. 4730–32) — a feudal incident feeding the Court of
+      Wards, not a discretion over the use of the property — and even that
+      tenth "was always reserved on grants, whatever the other terms, until
+      about 1544 and officially dropped in 1548, by which time it had become
+      possible to commute such rents for a lump sum" (ch. 5, sc. 4744–45).
+      The crown parted with the property and with the switch alike, keeping a
+      wardship claim and then selling that too. That is the inverse of title
+      left and discretion severed, and the chapter should not reach for the
+      Standard Oil parallel simply because it is available.
+    - **Reach.** Limb one and limb three touch **spine §3** ("standing taxation
+      established", read for England at the dissolution) and **spine §8(h)
+      ruling (k)**; they are the same question as rulings-sheet row (ee), now
+      carried by a second T2. Recorded at full strength and stopped here.
+      Register decisions proposed at memo Revisions 19, **Y71-a** and
+      **Y71-c**.

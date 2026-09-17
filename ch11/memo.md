@@ -1439,3 +1439,370 @@ STATUS: REVIEWED (Roderick, 2026-07-31 — read in full, nothing to add; no revi
   outliving the barons' subordination stated as a risk in §VII's
   prediction and scored separately in Appendix C. Touches the
   falsifiability apparatus, not the spine.
+
+19. **(2026-09-16 — Youings, *The Dissolution of the Monasteries*, read;
+    intake. PENDING HUMAN REVIEW.)** One work, read in full (Introduction
+    chs. 1–5 and Docs. 1–40). Assessment:
+    `research/assessments-2026-09-16/Youings-1971.md`; graded entry, citation
+    form and use-note in sources.md this date. **Citation form, because the
+    EPUB conversion carries no printed pagination:** *Youings 1971,
+    Introduction ch. N* for the commentary, *Doc. N* for the printed
+    documents, each pin carrying its sidecar line (`sc. NNNN`) in
+    `text-2026-09-16/Youings-Dissolution-epub.txt`. Page-image verification
+    owed before print. No draft text changed.
+
+    - **CONFIRMS.**
+      - §II's "The dissolution is the English fisc of the settlement" — at
+        the page, and better than the draft dared: "As the collector of the
+        new revenues from the monastic lands which had just about doubled the
+        Crown's resources, the court of Augmentations replaced the king's
+        chamber as the bank from which the king's government, and his
+        personal extravagances, could be paid for" (ch. 4, sc. 4402–05). This
+        is the exact sequel to the Grummitt paragraph earlier in §II: the
+        Chamber displaces the Exchequer from c. 1487; the Augmentations
+        displaces the Chamber after 1536. The English working treasury moves
+        twice in fifty years and the second move is paid for by the
+        confiscation.
+      - §II's "a fisc that no assembly had to grant" — the 1538–9 induced
+        surrenders ran on commissions "issued on the initiative of Thomas
+        Cromwell" which "had no statutory authority" (ch. 3, sc. 3075–78),
+        and at the start of 1538 "there were not even any plans for calling
+        Parliament in the near future" (ch. 3, sc. 2956–58).
+      - §II's subordination-through-paper reading, extended from the peerage
+        to the Church: "How in fact was the Dissolution carried through with
+        so little opposition, lay or clerical? Certainly it was not with the
+        use of armed force" (ch. 1, sc. 1364–65); "It may well be that the
+        greatest single factor ensuring the success of the Dissolution was
+        that it proceeded slowly enough for almost all concerned to know
+        exactly where they stood" (ch. 1, sc. 1384–85).
+      - The administrative-capacity leg, with a novelty claim: the
+        Augmentations' seventeen Particular Receivers and ten Auditors on
+        standing county circuits were "an apportionment of continuing
+        regional responsibility for which there is no known precedent"
+        (ch. 4, sc. 3810–12); the department's strength "as a working
+        government department, in its independence" (sc. 3780–81), with
+        Exchequer encroachment "firmly precluded by the terms of the act
+        (section XXII)" (sc. 3786–87).
+      - The Grummitt paradox recurring one reign later — personalised in
+        order to be institutionalised: commissioners' pension lists were
+        "subject to Cromwell's personal scrutiny – his signature appears on
+        most of their lists – before these passed to the court of
+        Augmentations … a fine example of the propensity, recognized by
+        Professor Elton, of this energetic chief minister to reserve to
+        himself what he saw as vital controls, if necessary setting aside the
+        machinery he himself had erected" (ch. 3, sc. 3196–3200).
+
+    - **CORRECTS (current draft wording quoted; NOT applied).**
+      - §II: "the act of 1536 dissolved the religious houses worth less than
+        two hundred pounds a year, its preamble — Lander notes — going out of
+        its way to praise the greater monasteries the crown would take within
+        four years". Youings: the act contradicts itself — the preamble
+        condemns houses "where the congregation of such religious persons is
+        under the number of twelve persons" while the enacting clause names
+        "religious houses … which have not in lands … above the clear yearly
+        value of two hundred pounds" (ch. 2, sc. 2139–44; Doc. 10, sc. 5772,
+        5806), and the money test won in practice — "it was the information
+        contained in the *Valor Ecclesiasticus* and not the reports of the
+        Visitors which determined the fate of each community" (ch. 2,
+        sc. 2145–46). The draft's clause is right on the threshold and silent
+        on the fact that the threshold was a *tax register's* figure.
+      - §II: "the act of 1536 … the greater monasteries the crown would take
+        within four years". Four years is right as an outside limit, but the
+        sequence was four overlapping processes, not two acts — parliamentary
+        dissolution (1536), attainder (1537–9), voluntary and then "induced"
+        surrender (1532, 1537–40) — and the act of 1539 was not a second
+        dissolution act at all: it "has so often been mistakenly regarded as
+        a second act authorizing the dissolution of monasteries" when it in
+        fact confirmed the crown's title (ch. 3, sc. 3496–3501; Doc. 23).
+      - §II: "The dissolution is the English fisc of the settlement." Carried
+        — but Youings's settled position is that it was not a *permanent*
+        one; see CONTRADICTS and "For Roderick" below. The sentence as
+        written is not wrong; it is unqualified.
+      - §II: "so that the fiscal move and the canonical move were executed in
+        England as a single act". Youings separates them: the canonical
+        breach is 1533–4 (Supremacy, Dispensations, the oath), the fiscal
+        move 1536–40, and she doubts they were even necessarily connected —
+        "It is arguable that the Dissolution formed neither an integral nor
+        an essential part of the Reformation in England and Wales. Might not
+        some quite considerable diversion of monastic resources have taken
+        place even if there had been no breach with Rome?" (ch. 1,
+        sc. 1160–63). "A single act" overstates her; "one apparatus, in one
+        decade" is what her documents show.
+
+    - **ADDS.**
+      - **The receipts, with dates** (full list at assessment §4(a)): Wolsey's
+        twenty-nine houses, net income "about £1,800" (1524–9, ch. 2,
+        sc. 1603–04); the £40,000-a-year expectation of early 1536, attaching
+        to the founder's-escheat route — "by such means" (ch. 2,
+        sc. 2075–76); the £200 threshold (Doc. 10); "Thirty-three houses paid
+        a total sum in fines of nearly £6,000" for exemption, the account
+        giving "£5,948 6s 8d" (ch. 2, sc. 2415; Doc. 28a, sc. 8001–02); nine
+        Gilbertine houses, 3 Oct. 1538, "revenues of £1,407 … £574 6s 8d in
+        pensions … goods, sold and unsold, at £4,729 3s" (ch. 3,
+        sc. 3304–08); the new bishoprics, "monastic revenues of nearly
+        £20,000 a year … net gain to the Church - and the net loss to the
+        Crown - … rather over £5,000" (ch. 3, sc. 3596–98); Richardson's
+        Augmentations yield "£899, 120 odd, or about £112, 390 a year", with
+        her caveat "these receipts were those of the Treasurer, not of the
+        Crown" (ch. 4 n. 32, sc. 4432–37); Treasurers' warrant payments
+        1540–4 totalling "£37,754 11s 7¼d" (Doc. 28c, sc. 8136–8157); sale
+        "at twenty years' purchase" from December 1539 (ch. 5, sc. 4757–59),
+        rising to thirty by the late 1550s and forty by the 1590s
+        (sc. 4918–19); and the disposal curve — 15 grants in 1536, 35 in
+        1537, 75 in 1538, 112 in 1539, "over half of the whole of the former
+        monastic estates … alienated" by Henry VIII's death, "well over
+        three-quarters by 1558" (ch. 5, sc. 4651–57).
+      - **The universalist power, in the instruments rather than the
+        commentary** — which is what the [BOOK'S ARGUMENT] flag needed. Doc.
+        7, the Injunctions of 1535, administered to every house in advance of
+        any finding: the religious to keep the statutes "for the extirpation
+        and taking away of the usurped and pretended jurisdiction of the
+        bishop of Rome within this realm" (inj. 2, sc. 5594–95), and to be
+        "absolved and loosed from all manner [of] obedience, oath and
+        profession by them heretofore perchance promised or made to the said
+        bishop of Rome or to any other in his stead or occupying his
+        authority **or to any other foreign power or person**" (inj. 3,
+        sc. 5597–5601 — the last clause is the general one); "that no monk or
+        brother of this monastery by any means go forth of the precincts of
+        the same" (inj. 4, sc. 5602). Beside them: the Dispensations Act of
+        1534 barring English monks from going abroad in an official capacity,
+        which "cut the last link of the English men and women religious with
+        Rome and, in the opinion of a recent writer" — Scarisbrick —
+        "affected the virtual nationalization of English monasticism at one
+        blow" (ch. 2, sc. 1801–04); papal exemption converted into royal
+        commission, the exempt houses now "visited or vexed" only "by
+        commissioners appointed by the king under the Great Seal" (ch. 3,
+        sc. 2598–2600); Cromwell as vicegerent holding "powers considerably
+        greater than had been enjoyed by the secular hierarchy" (ch. 2,
+        sc. 1966–68); and the act of 1540 vesting in the Crown "all the
+        'franchises and temporal jurisdictions' of the monasteries", which
+        "were declared to be 'revived' and were placed under the court of
+        Augmentations" (ch. 3 n. 54, sc. 3548–51). **The single best sentence
+        for the chapter** states the mechanism itself: the communities "were
+        never, in so many words, actually dissolved. Nowhere in the formal
+        instruments were they forbidden to pursue their corporate existence …
+        Institutions which for the most part traced their foundation to gifts
+        of landed property came to an end with the surrender of that
+        property" (ch. 1, sc. 1146–54). The fiscal act *was* the canonical
+        act, in the source's own words.
+      - **Legibility before confiscation, dated.** The Valor commissions of
+        30 January 1535, instructed "to search and know the number and names
+        of every abbey, monastery, priory, and house religious and conventual
+        … and their whole and entire, distinct and several yearly values"
+        (ch. 2, sc. 1895–1905), returns certified to the Exchequer "to the
+        intent that the tenth of the premises may be taxed" (sc. 1915–16).
+        Youings insists "there is no justification whatsoever for regarding
+        it as anything more than a taxation assessment" (sc. 1961–62) — and
+        then shows it deciding which houses died, thirteen months later. Its
+        accuracy stands: five Sussex houses resurveyed in 1536–7 yielded "only
+        £16 odd, or barely 3 per cent" more than the Valor's £552 (ch. 2,
+        sc. 1948–49). Offered to §II as a clause, and to ch09/ch12 as the
+        cleanest sixteenth-century instance of Scott's argument with a date on
+        it (cf. Revisions 15).
+      - **The military connection, at its true strength.** The 1534
+        disendowment plan is headed "FOR AN INCREASE AND AUGMENTATION TO BE
+        HAD FOR MAINTENANCE OF HIS MOST ROYAL ESTATE, AND FOR THE DEFENCE OF
+        THE REALM" (Doc. 5, sc. 5464–65) and asks money "towards the charges
+        of the wars now present and begun for defence of Ireland as [well as]
+        for the making of the haven of Dover and divers piles, fortresses,
+        blockhouses and other munitions against Scotland and other confines
+        of the realm necessary for the surety and defence thereof"
+        (sc. 5531–34) — with the phrase "[to use and disburse for the defence
+        of the realm]" standing **erased** in the manuscript at the
+        smaller-monasteries clause (sc. 5487–88 n. 2). The final phase was
+        triggered by the invasion scare: "The latter part of 1538 brought a
+        renewal, and in a more intense form, of the old anxieties about a
+        possible invasion from the continent of Europe. Now and for many
+        months to come the Crown was faced with very heavy expenditure,
+        principally for the putting into a state of readiness of the coastal
+        defences. Cash was an urgent necessity" (ch. 3, sc. 3329–34).
+        Confiscation money then paid for the works — Sir Thomas Arundell
+        directed "to provide whatever sums should be needed to the paymaster
+        of the coastal defence works at Weymouth and Falmouth" (May 1540,
+        ch. 4, sc. 4222–25) — and for the garrisons: "for wages of various
+        captains, lieutenants, deputy keepers and other soldiers of the King
+        at various castles, fortresses, … [etc.] amounting to £1,361 15s 6d"
+        (Doc. 28c, sc. 8140–42). **Two disciplines travel with this.** (i)
+        Youings's own footnote holds that Dietz and Richardson are right
+        "that until 1540 there was no real financial crisis" (ch. 3 n. 40,
+        sc. 3340–42) — so the fortification link is a motive stated in the
+        documents, not a fiscal necessity she endorses. (ii) **There is no
+        artillery in this book**: greps for *artillery*, *ordnance*, *navy*,
+        *bulwark*, *Boulogne* return no hits. The chapter must not let
+        coastal forts stand in for guns.
+
+    - **CONTRADICTS.**
+      - Against §II's "The settlement arrived when the crown found a fisc that
+        no assembly had to grant" and "The dissolution is the English fisc of
+        the settlement", Youings's settled verdict, stated as the field's and
+        not as her own discovery: "It has long been recognized that the
+        Dissolution did not lead to the permanent augmentation of the annual
+        income of the Crown, and indeed that the former monastic lands were
+        'dissipated' to a very great extent by Henry VIII during the later
+        years of his reign" (ch. 1, sc. 1268–70). She refuses the usual alibi:
+        the dispersal did not begin with Cromwell's fall — "by the time of
+        Cromwell's fall four years had passed since the first assault in 1536
+        … and … in December 1539 Cromwell himself was named as one of the
+        first commissioners to sell monastic and other Crown lands" (ch. 1,
+        sc. 1270–74); "Cromwell's ability, if not his determination, to secure
+        the former monastic lands as a permanent and irreduceable part of the
+        Crown's resources has usually been exaggerated. Disposal by the Crown
+        took place from the very beginning" (ch. 3, sc. 2870–71). And even
+        while held, the estate was under-worked: "the Crown extracted nothing
+        like the maximum possible return from its new resources. Whether this
+        was through design or administrative inertia still remains to be
+        determined" (ch. 1, sc. 1287–89). Youings puts at the head of her
+        dispersal chapter the same witness §II already quotes for the Yorkist
+        programme: "for selling of a king's livelihood is properly called
+        delapidation of his crown, and therefore is of great infamy" —
+        Fortescue, *Governance of England* (ch. 5 epigraph, sc. 4631–32).
+      - **This converges with Revisions 11.** Ertman shows the new revenue
+        boards absorbed into the Exchequer by 1554 on the proprietary-office
+        variable; Youings shows the revenue itself absorbed into the gentry by
+        1558 on the property variable. Two independent authorities, two
+        different tests, one result: the English 1530s produced a
+        consolidation whose fiscal base did not survive a generation. Row (ee)
+        is unchanged in substance and is now carried by a second T2.
+      - **The counterweight Youings supplies herself, which the chapter is
+        entitled to use.** The *intention* was permanence, and she says so
+        twice: the Augmentations act's contents "would appear to argue the
+        existence at this juncture of plans not only to proceed with the
+        confiscation of all religious houses and their property but also to
+        retain the greater part towards the permanent augmentation of the
+        Crown's resources" (ch. 4, sc. 3771–74); and "the establishment of
+        this separate department is the strongest possible argument for the
+        government's determination not only to augment its revenues but to
+        retain its new resources permanently in its own hands" (ch. 2,
+        sc. 2300–01). Even the selling commissions show a ceiling: "The resort
+        to these commissions was not incompatible with a firm determination,
+        even after Cromwell's fall, not to sell more than was necessary: in
+        fact the limitation imposed on the commissioners argues restraint"
+        (ch. 5, sc. 4785–87).
+      - Consensus / contested / book: (a) that the dissolution roughly doubled
+        the crown's resources and did not permanently augment its annual
+        income — **consensus**, and Youings says so in those words; (b)
+        whether the intention was permanence and the failure administrative,
+        or the sale was the plan — **contested**, and she leaves it open
+        ("through design or administrative inertia still remains to be
+        determined"); (c) the dissolution as fisc and universalist act in one
+        — **the book's**, and it stands on effect and instrument, not on
+        motive, because Youings denies the motive.
+
+    - **THE [GAP: Youings/Hoyle] FLAG.**
+      The bracket closes §II's dissolution paragraph and reads in full:
+      "[BOOK'S ARGUMENT (c). GAP: the dissolution's receipts — Youings, Hoyle
+      — are not in this chapter's sources; no figure is carried.]" It
+      therefore governs two sentences at once — *"The dissolution is the
+      English fisc of the settlement."* and the [BOOK'S ARGUMENT] sentence
+      that follows it, *"what the crown took was not merely land but a
+      universalist power …"* — and each closes separately.
+      **The first sentence — "The dissolution is the English fisc of the
+      settlement" — is CLOSABLE AT RENOVATION** with these figures and
+      pins: the confiscation "just about doubled the Crown's resources" and
+      made the Court of Augmentations "the bank from which the king's
+      government … could be paid for" (Youings 1971, ch. 4, sc. 4402–05); the
+      threshold of £200 clear yearly value (Doc. 10, sc. 5806); exemption
+      fines of "£5,948 6s 8d" to Michaelmas 1538 (Doc. 28a, sc. 8001–02);
+      warrant payments of "£37,754 11s 7¼d" over 1540–4 (Doc. 28c,
+      sc. 8136–8157); sale from December 1539 "at twenty years' purchase"
+      (ch. 5, sc. 4757–59); and the disposal curve to "over half … by the end
+      of Henry VIII's reign" and "well over three-quarters by 1558" (ch. 5,
+      sc. 4651–57). Richardson's "£899, 120 odd, or about £112, 390 a year"
+      may be used **only** with Youings's caveat attached (ch. 4 n. 32,
+      sc. 4432–37).
+      **The second sentence, the [BOOK'S ARGUMENT] half of the same
+      bracket** — "what the crown took was not merely land but a universalist
+      power" — is also CLOSABLE AT RENOVATION,
+      on Doc. 7's injunctions 2–4, the Dispensations Act, the converted papal
+      exemption and the 1540 franchises act (pins above), **provided** the
+      sentence is recast to rest on effect and instrument rather than on
+      motive, since Youings denies the motive at ch. 1, sc. 1159, 1166–67.
+      **What does NOT close, and stays open:** the flag also reaches for "the
+      dissolution's receipts" in the round, and Youings carries **no national
+      *Valor Ecclesiasticus* total, no crown ordinary-revenue figure before or
+      after, and no total for either act** — by her own insistence that the
+      balance sheet has never been drawn ("Only after all the accounts,
+      spreading over more than a decade, have been analysed … will it be
+      possible to compile a really satisfactory balance sheet of the whole
+      operation", ch. 1, sc. 1284–86). A **residual flag** is therefore
+      proposed for §II if the chapter wants a before/after revenue
+      comparison: *[GAP: crown ordinary revenue before and after the
+      dissolution — not in Youings; Hoyle/Dietz-successor wanted]*. The
+      chapter can make its argument without it.
+
+    - **FOR RODERICK.**
+      Ruling (k) dates England's Tudor turn to the 1530s and names the
+      dissolution as its fisc. Youings carries the first half at the page —
+      the confiscation "just about doubled the Crown's resources" and the
+      Court of Augmentations "replaced the king's chamber as the bank from
+      which the king's government … could be paid for" — and qualifies the
+      second: "the Dissolution did not lead to the permanent augmentation of
+      the annual income of the Crown", the lands "'dissipated' to a very great
+      extent by Henry VIII during the later years of his reign", over half of
+      them sold at a fixed twenty years' purchase before he died and over
+      three-quarters before Elizabeth's accession. What the crown seized was a
+      **stock**, not a **flow**; a stock can be spent and this one was, while
+      the French taille of 1439–46 was renewable annually and could not be.
+      Youings herself leaves open whether the dispersal was "design or
+      administrative inertia", and she is emphatic that the *intention* was
+      permanence — the Augmentations act is "the strongest possible argument"
+      for it. So (k) may be read three ways and this memo adopts none of them:
+      (i) *fisc without permanence*, the route already named at row (ee) — the
+      dissolution as the irreversible confiscation that ended the universalist
+      rival and financed the crown for a decade, with the English fiscal
+      ratchet dated later; (ii) *intention, not outcome* — the settlement is
+      dated by what the crown built to hold the fisc (the Court of
+      Augmentations, 1536) rather than by how long it held it; (iii)
+      *stock-versus-flow stated in the text* as the English case's own
+      disanalogy, which would turn §II's weakest passage into the book's
+      sharpest illustration of why *permanent* finance, and not a large
+      seizure, is the load-bearing link in the chain. Each is compatible with
+      §8(h)(k) as ruled; each implies a different reading of spine §3's
+      "standing taxation established" for England. **The ruling is Roderick's.**
+
+    **Register decisions proposed for the rulings sheet (2026-09-16, Youings
+    intake; stated, not recommended; lettered Y71- to keep them separate from
+    the (dd)–(jj) series).**
+    - **Y71-a** Whether §II's "The dissolution is the English fisc of the
+      settlement" carries a qualifying clause on Youings's dissipation verdict,
+      and if so which of the three readings above governs it. Draft sentences
+      touched: §II "The settlement arrived when the crown found a fisc that no
+      assembly had to grant"; "The dissolution is the English fisc of the
+      settlement." Carriers: Youings ch. 1, sc. 1268–70, 1270–74, 1287–89;
+      ch. 3, sc. 2870–71; ch. 5, sc. 4651–57, 4757–59; against ch. 2,
+      sc. 2300–01 and ch. 4, sc. 3771–74. **Touches spine §3 and §8(h)(k); it
+      is the same question as row (ee), now carried by a second T2.**
+    - **Y71-b** Whether the [BOOK'S ARGUMENT] sentence is recast to rest on
+      effect and instrument rather than on motive — "what the crown took was
+      not merely land but a universalist power" retained, "executed in England
+      as a single act" replaced by one apparatus in one decade — given that
+      Youings denies the anti-papal motive (ch. 1, sc. 1159, 1166–67) while her
+      documents supply the instruments (Doc. 7, injs. 2–4). Touches the flag,
+      not the spine.
+    - **Y71-c** Whether the stock-versus-flow distinction enters the text as
+      the English case's stated disanalogy (per CLAUDE.md §6, every bridge
+      carries one) or stays in the memo. It is the book's own inference from
+      Youings's evidence, not hers, and would be flagged as such. Touches the
+      mechanism's exposition in §II and, if adopted, ch12's use of the English
+      precedent.
+    - **Y71-d** Whether the Valor passage enters §II as a clause — a tax
+      register of January 1535 deciding which houses died in 1536 — and
+      whether it is cross-referenced to the Scott material (Revisions 15) or
+      left where it is. Carriers: ch. 2, sc. 1895–1905, 1915–16, 1961–62,
+      2145–46. Register and placement only.
+    - **Y71-e** Whether the 1538 invasion scare and the coastal-defence
+      warrants enter §II at all, given that Youings's own footnote denies a
+      financial crisis before 1540 (ch. 3 n. 40, sc. 3340–42) and that the
+      book carries no artillery. If admitted, the caveat travels with it and
+      the passage claims fortification, never guns. Carriers: Doc. 5,
+      sc. 5464–65, 5531–34; ch. 3, sc. 3329–34; ch. 4, sc. 4222–25; Doc. 28c,
+      sc. 8140–42.
+    - **Y71-f** Whether a residual flag *[GAP: crown ordinary revenue before
+      and after the dissolution]* is opened at §II, and whether a Hoyle (or
+      modern successor to Dietz) row is carried on the RETRIEVAL LIST for it,
+      or the comparison is dropped. Retrieval decision only.
+    - **Y71-g** Tier caution, for the record rather than for ruling: Youings
+      1971 is a volume in Elton's own series, read in draft by Elton
+      (Author's Note, sc. 1075), and under CLAUDE.md §3 must not be used as
+      independent corroboration of the Elton frame in the ch11/ch12
+      Elton-revision passages.
