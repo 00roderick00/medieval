@@ -14,6 +14,22 @@ when any item below lands; regenerate this file from it rather than
 editing the two separately.
 -->
 
+# Sync 2026-09-16 (evening): the load-bearing retrievals have landed
+
+ASSESSED AND ENTERED this session: Bean 1973; Major 1960; Wolin 2008; Crouch
+2004 (a PARTIAL copy — the whole book still wanted); Youings 1971; Holman
+2014; Tilly (ed.) 1975 full volume; and, from a corpus sweep, Perroy 1943
+(both parts), Leseur's *Histoire de Gaston IV* (both tomes), the *Ethical
+Space* article of 2025, Green 1874 and Cazelles's review of Contamine.
+
+STILL WANTED: Crouch, *Post-Democracy* (2004) complete; Hoyle on the
+dissolution; Samaran tome II; Chastellain tomes IV–V (the 1467 ballade);
+Blockmans 1998 (now load-bearing for the 1468 Estates); Oman vol. II;
+Major 1980; Antoine Thomas; Harvey 1991; Chambers & Pullan; Wolfe; the
+*Ethical Space* printed page range; page images for Youings and for the
+Chastellain garbles; Vale's TRHS 1969 for the Cadillac date.
+
+
 # Sync 2026-09-16 (catch-up run, sessions 2–3 closed; STEP 3–4)
 
 Landed and ASSESSED (rows flipped in retrieval-master.md this date):
