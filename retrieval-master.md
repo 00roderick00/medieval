@@ -1261,3 +1261,19 @@ Six works arrived between 20:50 and 20:52 on 16 September — every one of them 
 **New OPEN rows from this session:** Crouch 2004 complete copy; Hoyle (ch11, with Youings's row closed); Oman II; Major 1980; Antoine Thomas; Blockmans (now load-bearing for the 1468 question); the *Ethical Space* printed page range; page images for Youings; Vale's TRHS 1969 for the Cadillac date; the second Cadillac identification (Fronsadais or Garonne); Jensen, *The Medieval Internet* (2020), Yen, Morozov and the other leads the *Ethical Space* article raised.
 
 **Provenance audit, same session:** the short-quotation bank in research/acquisition-dossier.md audited in full — six of eight verified, two withdrawn (Cazelles, Keen), both reviewers' verdicts. See that file's 2026-09-16 section and rulings-sheet row P43-h.
+
+## 2026-09-16 (late): three further arrivals — Chastellain tome VII; Commynes, Calmette tomes I and II
+
+All three answer OPEN rows and were assessed and entered the same session (assessments in research/assessments-2026-09-16/; sidecars in source-library/text-2026-09-16/).
+
+| Work | Sidecar / offset | Row | Outcome |
+|---|---|---|---|
+| **Chastellain, *Œuvres*, ed. Kervyn de Lettenhove, TOME VII (*Œuvres diverses*)** — `Chastellain-Oeuvres-t7-Lettenhove.pdf`, 516 pp., usable text layer | `Chastellain-t7-Lettenhove.txt`; **printed = PDF−24, constant** | the row wanting a later Kervyn tome for the 1467 ballade | **CLOSED.** ch10's [PIN PENDING] answered: the spider verse is at printed p. 207 (*Le Lyon rampant*, st. 1), Kervyn's note p. 208, his *Notice* p. xiv. **Attribution corrected:** the *universal* spider at p. 209 is **Molinet's**, not Chastellain's, on Kervyn's own ruling. NEGATIVE: no *artillerie*, *bombarde*, *taille* or *aide* in the tome |
+| **Commynes, *Mémoires*, ed. Calmette (Champion), TOME I (1924)** — 316 pp., image-only; OCR'd `--force-ocr -l fra` | `Commynes-Calmette-t1.txt`; intro roman = PDF−8; text **printed = PDF−44**, constant | Calmette tomes I–II, OPEN since 2026-09-14 | **CLOSED** — the edition of record; the Scoble pins cross-referenced |
+| **Commynes, *Mémoires*, ed. Calmette, TOME II (1925)** — 378 pp., image-only; OCR'd | `Commynes-Calmette-t2.txt`; **printed = PDF−12 to p. 213; −10 for pp. 216–17; −8 from p. 220** | as above | **CLOSED**, with a scan defect (below) |
+
+**SCAN DEFECT, and the one outstanding want:** tome II's **printed pp. 214–215 and 218–219 are absent from the Google scan**, both inside Livre V chs XVIII–XIX — the chapters on the role of the Estates, which is the passage the project most wanted. A clean copy of those four pages is now a named row: **OPEN — Commynes, Calmette t. II, pp. 214–15 and 218–19** (Gallica or another scan).
+
+**What the three settled.** The revenue arc is verified at tome II p. 220 and restated at p. 290, and it sharpens: Louis XI's 4,700,000 francs is "sans l'artillerie et autres choses semblables" — the guns sat outside the headline. The chain's fourth link is now T1 at II, 289: taxation without the Estates' consent, and "à ceci se consentirent les seigneurs de France pour certaines pensions". One existing citation failed at its pin (DeVries's "Commynes I, p. 94" for the Burgundian artillery; re-pinned to II, 8) and one translation is Scoble's doubling, not Commynes's.
+
+**New OPEN rows from this session:** the four missing Calmette pages; Masselin, *Journal des États-Généraux… 1484*; a clean copy of Molinet's ballade if the universal spider is to be used at all.

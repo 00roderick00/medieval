@@ -14,6 +14,18 @@ when any item below lands; regenerate this file from it rather than
 editing the two separately.
 -->
 
+# Sync 2026-09-16 (late)
+
+ENTERED: Chastellain, Œuvres tome VII (the spider pin closed; the universal
+spider reassigned to Molinet); Commynes, Mémoires, ed. Calmette, tomes I and
+II (the row open since 14 September closed; the revenue arc verified).
+
+NEWLY WANTED: Commynes, Calmette t. II, printed pp. 214–15 and 218–19 —
+absent from the Google scan, and they are the Estates chapters (Livre V
+chs XVIII–XIX); Masselin, Journal des États-Généraux 1484; Molinet's
+ballade, if the universal spider is to be used at all.
+
+
 # Sync 2026-09-16 (evening): the load-bearing retrievals have landed
 
 ASSESSED AND ENTERED this session: Bean 1973; Major 1960; Wolin 2008; Crouch
