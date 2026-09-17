@@ -584,5 +584,93 @@ recommended; lettered for STEP 4's consolidation):
   post-1648 territorial terminus at footnote level, so that the
   lesson Part III takes is the longer one.
 
-STATUS: Revisions 7–12 PENDING HUMAN REVIEW; Revisions 1–6 as
-before.
+## Revisions (2026-09-16 — intake, PENDING HUMAN REVIEW)
+
+*From the intake unit of this date (three works; assessments at
+research/assessments-2026-09-16/). Only the Tilly 1975 volume bears on
+this chapter, and only through its chs. 1 and 2; Bean 1973 and Major
+1960 place nothing here. Pins opened in the sidecar this date; sources.md
+POINTER entry of the same date. Draft wordings quoted are the CURRENT
+draft's; nothing applied to draft.md. Entry numbered in the file's
+running sequence.*
+
+13. **(Tilly 1975a ch. 1 and Finer 1975 ch. 2 — the extraction half of
+    the frame §I invokes, at source; the priced instrument; the format
+    grid.)**
+    - **CONFIRMS (a, at T2, by name at the pin).** §I's composite —
+      "where the fiscal-military capacity of central authority weakens,
+      the great subjects raise private forces to perform what were once
+      state functions, financed by some mixture of their own rents,
+      central remittance and self-provisioning through violence" — has
+      its extraction half pinned for the first time. Finer: "Troops
+      extract the taxes or the forage or the carts, and this
+      contribution keeps them in being. More troops — more extraction —
+      more troops: so a cycle of this kind could go on widening and
+      deepening" (Finer 1975: 93); Tilly, in six numbered steps ending
+      in "durable increases in the bulk or extractiveness of the state"
+      (Tilly 1975a: 73), and "So turned the tight circle connecting
+      state-making, military institutions and the extraction of scarce
+      resources from a reluctant population" (p. 24). §I's "The
+      components are separately owned" has its T2 statement in Finer's
+      priced knight: "mail armor alone weighed thirty pounds and cost
+      the equivalent of a small farm … It would be like expecting
+      private individuals nowadays to help form the army by bringing to
+      the battlefield their own Centurion or Patton tank, or their own
+      Phantom plane" (Finer 1975: 89) — with the consequence the chapter
+      argues for the present: "The feudal force was hardly, therefore, a
+      predictably loyal one" (p. 100).
+    - **CORRECTS (wording; NOT applied — this strengthens the
+      correction Revisions 7(ii) already proposed and does not replace
+      it).** §I's conditional clause "where the fiscal-military capacity
+      of central authority weakens" is now doubly refuted from the 1975
+      volume. Tilly's armed landlords are the standing condition of
+      early state-making, not a symptom of a weakening centre:
+      "Landlords who exercised nearly autonomous control of their own
+      estates (and thereby of most of the resources necessary for the
+      waging of war, the maintenance of courts, and other stately tasks)
+      rivaled and resisted the princes at the local level" (Tilly 1975a:
+      76); "Successful state-makers had to absorb, check, or destroy
+      most of their immediate rivals" (p. 77). The composite is already
+      marked (c); the proposed rewording stands as at 3-a, and the
+      pinning is now from the 1975 volume as well as the 1985 essay.
+    - **ADDS.** (a) **Finer's format-options grid is the frame §I should
+      adopt** — three formats (foreign paid volunteers; native
+      obligatory service; native paid volunteers, "the domestic paid
+      volunteer troop like the late medieval English 'companies' or
+      French *bandes*", p. 92), each *ad hoc* or permanent, chosen on
+      **effectiveness, expense and loyalty** (pp. 91, 95). It states in
+      T2 terms what the chapter currently presents as its own synthesis,
+      and it is the natural spine for §I's list and for the modern half's
+      bridge. (b) The indenture is in Finer's chronology by name, with
+      the fiscal disanalogy §V argues stated from the other end: "the
+      king would commission a gentleman to raise, equip, officer, and
+      lead a given force of men: the king paid him, he for his part did
+      the rest, and if any money stuck to his fingers, this was after
+      all his livelihood" (p. 97). (c) §II's English exception has a
+      comparative statement: after 1485 "England reverted to the popular
+      militia, at least, for home defense, whereas France and Spain and
+      the Hohenzollerns came to depend on paid native volunteers or
+      foreign paid volunteers or both, but not on popular militias"
+      (p. 97).
+    - **CONTRADICTS.** Nothing in this chapter. Finer's account of
+      why England's militia format survived is geopolitical rather than
+      constitutional — "the land frontiers of England marched with
+      neighbors which were very weak" (p. 109) — which is an alternative
+      to the chapter's legal-technologies reading of the same outcome;
+      noted, not a collision, because §II's claim is about instruments
+      and Finer's is about why the instruments were affordable.
+    - **NEGATIVE FINDINGS (searched).** Neither chapter names the
+      écorcheurs, livery, maintenance, the *Fehde* or Grumbach; the
+      German tempo point stands as recorded at Revisions 7(iii) from
+      Gerhard via Tilly 1985. Tilly's ch. 1 contains no occurrence of
+      artillery, cannon, gunpowder, firearm or bastion.
+    - **Register decision proposed for the rulings sheet** (stated, not
+      recommended; lettered in this chapter's series):
+      **3-f.** §I's composite is restated on Finer's three
+      considerations — effectiveness, expense, loyalty (Finer 1975: 91,
+      95) — so that the chapter's own synthesis is visibly an extension
+      of a named T2 frame rather than an unattributed assembly, and the
+      conditional clause corrected per 3-a in the same sentence.
+
+STATUS: Revisions 13 PENDING HUMAN REVIEW; Revisions 7–12 PENDING HUMAN
+REVIEW; Revisions 1–6 as before.

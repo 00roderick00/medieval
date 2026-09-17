@@ -1420,13 +1420,16 @@ recorded once, here, and each entry says where its author stands.*
 
 - **RETRIEVAL LIST consequences (2026-09-16, STEP 3):** NEW ROWS —
   15. **Richard Bean, "War and the Birth of the Nation State",
-  *Journal of Economic History* 33 (1973): 203–21.** NEEDED FOR: §VII
+  *Journal of Economic History* 33 (1973): 203–21.** [CLOSED
+  2026-09-16 — in repo, read in full; T2 entry at the intake block
+  below.] NEEDED FOR: §VII
   must cite the thesis Tilly rejected and say in one sentence that it
   is not this book's claim (Bean's explanandum is the geographic size
   of states); the revenue-doubling calculation McNeill carries at
   second hand (p. 105 n. 35, citing p. 217). 16. **J. Russell Major,
   *Representative Institutions in Renaissance France, 1421–1559*
-  (Madison, 1960).** NEEDED FOR: the count of Estates General and
+  (Madison, 1960).** [CLOSED 2026-09-16 — in repo, read; T2 entry at
+  the intake block below.] NEEDED FOR: the count of Estates General and
   Languedoïl meetings 1440–1484 (Ertman n. 137 → p. 151); the 1468
   meeting Stasavage reports via Blockmans; the spine §8(a) check; the
   Major limb of the §III [GAP]. 17. **Wim Blockmans, "Representation
@@ -1441,3 +1444,572 @@ recorded once, here, and each entry says where its author stands.*
   and one register decision (venality). Row 9 (Brewer) unchanged —
   Glete extends the term, Brewer coined it; both must be at page before
   §III's vocabulary paragraph is renovated.
+
+## Added 2026-09-16 — intake (Tilly 1975 volume; Bean 1973; Major 1960; pins verified against sidecars)
+
+*Three works, one intake unit. Every quotation below was opened in the
+named sidecar this date and matched to the printed page carried in the
+running head or page foot; where the OCR is doubtful the entry says so
+and marks the pin PENDING VERIFICATION. Assessments at
+research/assessments-2026-09-16/ (Tilly-1975-Formation.md; Bean-1973.md;
+Major-1960.md) — the map, never the authority. No draft.md text changed.
+Entries of record for chapters this run does not own are marked
+ENTRY OWED with the chapter named. Register decisions proposed for the
+rulings sheet are lettered T75-a…, B73-a…, M60-a… at the foot of
+memo.md's Revisions 44.*
+
+- **T2 — Charles Tilly (ed.), *The Formation of National States in
+  Western Europe* (Princeton UP, 1975)** — IN REPO, WHOLE VOLUME
+  (`corpus/retrieved/Tilly - The Formation of National States in Western
+  Europe (1975).pdf`, 723 pp.; sidecars
+  `text-2026-09-14/Tilly-1975-Formation-full.txt` and `…-p1-110.txt`).
+  Off the RETRIEVAL LIST this date (the volume's ch. 1 and its slogan
+  were recorded at the STEP 3 block of this date as "uncited at page in
+  the repo"; they are now at page). MASTER ENTRY for the volume; **ch. 9
+  (Tilly, "Western State-Making and Theories of Political
+  Transformation", pp. 601–38) is NOT re-entered here — its graded entry
+  and pins stand at the 16 September STEP 3 block above (l. c. 1002),
+  paired with Tilly 1985, and are cross-referenced, not duplicated.**
+  CITATION FORM: the volume's ch. 1 is Tilly 1975a, ch. 9 Tilly 1975b;
+  Finer 1975, Ardant 1975, Braun 1975 for chs. 2–4.
+  **OFFSET RULE (established this run from the bracketed printed page
+  numbers the OCR carries at each page foot): printed = PDF − 14 from
+  PDF 17 ([3], the opening of ch. 1) to PDF 72 ([58]); the offset then
+  shifts to printed = PDF − 11 from PDF 73 ([62]) to the end (PDF 175 =
+  [164], the opening of ch. 3).** The intake instruction's "printed p. 42
+  = PDF p. 53" does not hold at this file: the slogan stands on **PDF 56,
+  bearing the marker [42]**. NEGATIVE FINDING: **printed pp. 59–61 are
+  physically absent from the scan** (PDF 72 ends [58], PDF 73 ends [62],
+  no page between) — nothing may be cited from that stretch of ch. 1
+  until a complete copy is obtained. OCR: good in prose; **every figure
+  and diagram is scrambled** (Finer's Figures 2-2 to 2-7, including the
+  master cycle diagram at p. 95; all tables in Ardant and Braun — nothing
+  is cited from them); ligature loss throughout; and **PDF 89–90
+  (printed 77–78) are interleaved with a block of unrelated text about
+  Exchequer sinecures, splitting a sentence — nothing quoted from those
+  two pages.**
+  READ: ch. 1 in full (less the missing pp. 59–61); ch. 2 in full;
+  ch. 3 pp. 172–96 and 240–42 in full, pp. 197–239 by headings and
+  sampled pages; ch. 4 pp. 243, 295–311 and the closing remarks in full,
+  pp. 249–94 by headings and sampled pages; chs. 5–8 by openings and
+  closings only; bibliography and index not read.
+  **PER-CHAPTER USE-NOTES.**
+  *Ch. 1, Tilly, pp. 3–83 — ALLY, method and framing.* THE SLOGAN AT
+  PAGE, in its paragraph: "most of the political units which disappeared
+  perished in war. The building of an effective military machine imposed
+  a heavy burden on the population involved: taxes, conscription,
+  requisitions, and more. The very act of building it—when it worked—
+  produced arrangements which could deliver resources to the government
+  for other purposes. (Thus almost all the major European taxes began as
+  'extraordinary levies' earmarked for particular wars, and became
+  routine sources of governmental revenue.) … It tended, indeed, to
+  promote territorial consolidation, centralization, differentiation of
+  the instruments of government and monopolization of the means of
+  coercion, all the fundamental state-making processes. War made the
+  state, and the state made war" (p. 42) — **the slogan's subject is
+  survival in war, and the preceding sentence must travel with it.**
+  THE RATCHET UNNAMED, for §III: "dramatic increases in national
+  budgets, national debts, numbers of governmental employees or any
+  other indicator of governmental scale in European countries have
+  occurred almost exclusively as a consequence of preparations for war.
+  The general rule, furthermore, has been for some contraction in
+  governmental scale to occur after a war—but almost never a return to
+  the prewar scale" (p. 74). THE SIX-STEP CHAIN: "(1) change or
+  expansion in land armies to (2) new efforts to extract resources from
+  the subject population to (3) the development of new bureaucracies and
+  administrative innovations to (4) resistance from the subject
+  population to (5) renewed coercion to (6) durable increases in the
+  bulk or extractiveness of the state" (p. 73). THE FOUR PROCESSES and
+  the four defeated alternatives (empire; theocratic federation; "an
+  intensive trading network without large-scale, central political
+  organization"; the persistence of the feudal structure): pp. 26–27.
+  THE ASSEMBLIES: "Building strong royal power meant co-opting,
+  subordinating or destroying these institutions" (p. 22); "Far from
+  promoting such institutions, early state-makers struggled against
+  them" (p. 37), with Guénée 1971: 405 quoted at pp. 37–38. THE THREE
+  VERBS, for the §I ruling: the revolutions "did not so much expand
+  political rights as concentrate them in the state … A large part of
+  the process consisted of the state's abridging, destroying or
+  absorbing rights previously lodged in other political units: manors,
+  communities, provinces, estates" (p. 37). COUNTER-CASE SCORING for
+  §VI: "Most of the European efforts to build states failed" (p. 38);
+  "The Europe of 1500 included some five hundred more or less
+  independent political units, the Europe of 1900 about twenty-five"
+  (p. 15); the six survival conditions (p. 40); Burgundy failing
+  condition (3) — "the mediocrity of the later dukes of Burgundy
+  destroyed the real opportunity for a Burgundian kingdom" (p. 41).
+  METHOD, and its limit: the bias stated (p. 6); relationships not
+  sequences (p. 17); against Part III, "The European state-building
+  experiences will not repeat themselves in new states" and "our ability
+  to infer the probable events and sequences in contemporary states from
+  an informed reading of European history is close to nil" (pp. 81–82) —
+  **quote the licence at p. 82 only with the warning at p. 81.**
+  NEGATIVE FINDING: **no occurrence of artillery, cannon, gunpowder,
+  firearm or bastion anywhere in ch. 1** (searched); ch. 1 names the
+  technological step only at second hand, in Tilly's summary of Finer
+  (p. 52).
+  *Ch. 2, Finer, pp. 84–163 — THE CLOSEST RIVAL IN THE VOLUME; RIVAL BY
+  ANTICIPATION in §VII.* THE ARTILLERY RATCHET, ALREADY HERE, in Tilly's
+  editorial summary: Finer "shows how each major military invention over
+  a thousand years … drove those rulers who wished to continue the
+  pursuit of their objectives by force of arms to push their subject
+  populations harder and more continuously for the necessary resources …
+  For the survivors, instead of a continuous accretion of central power,
+  we witness an alternation of long pauses with giant steps closely
+  following changes in military technology and the scale of war"
+  (pp. 51–52), with the caveat "Finer is no narrow technological
+  determinist" (p. 52). FORMAT DEFINED, artillery inside it: format is
+  "the service basis of the forces … the size of the armed forces, the
+  varying composition of its main arms (navy against land forces or
+  artillery components against infantry or cavalry and the like), and …
+  the social stratification of the force" (p. 87). THE EXTRACTION-
+  COERCION CYCLE IN HIS OWN WORDS: "Troops extract the taxes or the
+  forage or the carts, and this contribution keeps them in being. More
+  troops—more extraction—more troops: so a cycle of this kind could go
+  on widening and deepening. This is precisely what happened in
+  Brandenburg-Prussia from 1653 onward" (p. 93). THE FORMAT-OPTIONS
+  GRID and its three considerations — effectiveness, expense, loyalty
+  (pp. 91, 95; Figure 2-4 scrambled in the sidecar, read from the
+  surrounding prose). THE FIFTEENTH-/SIXTEENTH-CENTURY TRANSITION:
+  "The first standing force of an exclusively 'national' kind … was the
+  French Compagnies d'Ordonnance, set up by Charles VII in 1445"
+  (p. 99), restated "France had the first corps of a regular standing
+  army as early as 1445" (p. 125); "Cannon proved critical in the French
+  victories of Castillon (1450) and Formigny (1453) which ejected the
+  English from all France excepting only Calais" (p. 104) — **DATES
+  TRANSPOSED, see CORRECTIONS**; "Castillon and Formigny—though this was
+  not realized at the time—expelled England from Europe for good"
+  (p. 104); "The Age of Pike and Handgun: 1450-1550. Armaments developed
+  rapidly. Heavy artillery for siege, and somewhat lighter though very
+  ponderous guns for battle were fast coming into general use … To
+  counter the new artillery, the tall, thin walls of the medieval castle
+  had to be replaced or girdled by low and thick ones, forerunners of
+  the bastion" (p. 105). THE FRENCH FISCAL-CONSTITUTIONAL OUTCOME:
+  "For a number of reasons the Estates-General had failed to make good a
+  claim like the English Parliament's, to control taxation … in sum
+  there was no central constitutional organ of opposition to taxation by
+  fist similar to England's and consequently money for the wars could be
+  found more easily in France than across the Channel. If the taxpayer
+  resisted, the troops would make short work of that" (p. 127). THE
+  BRANDENBURG COMPARATOR, for §VI and for §8(g) item 4: the excise being
+  "indefinitely expansible, the Elector no longer needed to call the
+  Estates together for further increases in taxation" and "it led to the
+  euthanasia of the Estates" (p. 138); the 1640/1688 contrast with
+  England (p. 140); the Recess of 1653 (p. 136). ENGLAND: the militia
+  format as constitutional cause (pp. 121–24); "It was officered and
+  commanded by an extension of the very same families who controlled
+  Parliament" (p. 123). CLOSE: "It had been interwoven, over a period of
+  over nine hundred years, with perpetual and cumulative escalation of
+  the military instrument and the uses—that is to say the wars—to which
+  it had been put" (p. 163). WHERE HE STANDS: reciprocal by design
+  ("At any fixed point of time, both have exerted a reciprocal influence
+  on each other", p. 87); his demonstration case is Brandenburg-Prussia
+  after 1653, his size-increase finding is "the sharp increases come, in
+  every case, after the close of the Thirty Years War, in 1648" (p. 101),
+  and his France aligns only under Louis XIV — "By 1715 format … 
+  extraction, and style-of-rule (absolutism)—all mutually supported one
+  another" (p. 134). Publication 1975; superseded on the French
+  fifteenth century by Major 1960 (below) and by Contamine.
+  *Ch. 3, Ardant, pp. 164–242 — T2 EVIDENCE for §III; ENTRY OWED at
+  ch11 for §IV.* "Each increase in the power of states was linked to an
+  increased possibility of levying taxes" (p. 174). THE THREE OBSTACLES
+  (pp. 174–82): insufficient production — "Productivity, especially
+  agricultural productivity, and demography were together the first
+  obstacle, a really physical barrier to the power of the state"
+  (p. 176); insufficient markets — "The net product in itself was not
+  adequate to pay the tax; it had to be transformed, by being sold, into
+  money … For the taxpayer the problem of taxation was the problem of
+  markets" (p. 176); and assessment in an in-kind economy — "each farmer
+  tried to produce all his needs, where he baked his bread, ate the
+  meat, spun the wool from his herd, wove his clothes, pressed his
+  grapes, built his furniture, and made his tools. Where could taxation
+  intervene in this tight economic circle, the shortest of all economic
+  cycles?" (pp. 178–79), with salt as "the weak link in peasant
+  autarchy" (p. 180). THE RETURN TO TAXATION IN KIND as the diagnostic:
+  "one of the most characteristic pieces of evidence of the obstacles
+  which the economic structure offered to the fiscal possibilities and
+  life of states; i.e., the stubbornness with which this archaic tax
+  kept being reconsidered" (p. 182). FRANCE'S ANSWER AND ITS COST: "The
+  Emphasis on Constraint. This was the typical political solution of the
+  French monarchy, but we find the same kind of solution in other
+  states, especially Spain" (p. 194), whence the intendant and
+  administrative justice (p. 195). AGAINST PART III's implicit order of
+  causation: "The ambitions of kings for several centuries ran ahead of
+  the economic structure of their states … This being-out-of-phase, this
+  distorted relationship, caused the states to resort to overly
+  burdensome taxes" (p. 193).
+  *Ch. 4, Braun, pp. 243–327 — ENTRY OWED at ch12; the §8(g) item 4
+  material.* THE TWO BRANCHES AT FULL STRENGTH: Britain, where after
+  1688 "it was the business of Parliament alone, besides its legislative
+  sovereignty and other functions, to finance the government and to
+  guarantee the 'national debts'" (p. 297), against Brandenburg-Prussia,
+  where "**the monarch and his bureaucratic machinery were forced to
+  rely as much as possible on sources of income which were at their
+  'own' disposal and not dependent, as far as collection and allocation
+  were concerned, upon the consent and cooperation of the people**"
+  (p. 296) — the T2 statement §8(g) item 4 needs. THE NUMBERS: in
+  1778–79 Prussian crown property "still amounted to 12 million thalers
+  or 45.7 percent of the total net income", while "In Britain, after the
+  seventeenth century, the income from the Crown's domain was
+  insignificant in relation to total income" (p. 295). STEIN'S DOCTRINE,
+  quoted by Schmoller: "The income from the domains is the economic
+  foundation of the sovereign kingdom and therefore of independent
+  internal and external state-building, because the Crown's domain is
+  the foundation of the material independence of kings against the
+  dominion and power of the strong corporations of the estates"
+  (Schmoller 1877: 71, at p. 296). THE OBVERSE: "the more advanced
+  states are, the more deeply they are in debt without being insolvent"
+  (p. 295). THE BRITISH LIMIT, for ch12's falsifiers: Parliament
+  abandoned the hearth tax in 1689 as "a badge of slavery" (p. 299);
+  Adam Smith on assessment as "an inquisition more intolerable than any
+  tax" (p. 299); Hartung on Prussian enlightened absolutism denying
+  "active and free participation to its subjects as regards the affairs
+  of state" (Hartung 1950: 238, at p. 305); and Macpherson's verdict on
+  the Lockean settlement — "full individuality was produced by consuming
+  the individuality of others" (Macpherson 1962: 261, at p. 309). THE
+  BELLICIST PEDIGREE: Goldscheid on warfare as the "moving motor of the
+  whole development of public finance", so that "sociology of public
+  finance coincides largely with sociology of warfare" — a formulation
+  Braun quotes and rejects as monocausal (p. 310).
+  *Chs. 5–8* — read by openings and closings only; **nothing placed in
+  ch10**. Bayley's seven findings (pp. 378–79) are a possible ch09
+  precedent; Rokkan's closing "the European sequence simply cannot be
+  repeated in the newest nations" (p. 600) belongs with Tilly pp. 81–82.
+  **CORRECTIONS TO THIS CHAPTER'S APPARATUS AND TO THE VOLUME'S OWN
+  TEXT.** (a) Finer p. 104 transposes Formigny (1450) and Castillon
+  (1453) — never cite Finer for these dates. (b) Finer p. 127 carries
+  the 1439 permanent-taille tradition that §III already holds at
+  tertiary strength and that Major 1960: 32–34 destroys; Finer is
+  superseded here and the sources entry says so. (c) Finer p. 127 dates
+  Charles VIII's Italian campaign to the 1484 grant; the campaign is
+  1494. (d) critiques Objection 6's "Tilly was deliberately
+  technology-agnostic" fails a second time and from a second direction:
+  the editor of the volume endorsed a punctuated technological account
+  of state-building in his own summary of ch. 2 (p. 52).
+  **DISPUTE RECORDED:** Finer (military format punctuating state-building
+  by technology) against Ardant (fiscal capacity ceilinged by the
+  economic base, ambition running ahead of it) against Braun (outcome
+  set by whether revenue requires consent) — three chapters of one
+  volume disagreeing about the same object; "the 1975 volume's
+  mechanism" is not one thing and must not be cited as one.
+  WHERE THE VOLUME STANDS relative to the chapter's existing rivals:
+  ancestral to Tilly 1990 (which repudiates it — "That was wrong. This
+  book attempts to repair the errors of the previous one", Tilly 1990:
+  12), to Ertman (who attacks its administrative link) and to Glete
+  (who dates the type 1560–1660). Publication 1975; not superseded as a
+  whole, superseded in its French fifteenth-century detail.
+
+- **T2 — Richard Bean, "War and the Birth of the Nation State",
+  *Journal of Economic History* 33:1 (March 1973), 203–21** — IN REPO
+  (`corpus/retrieved/Bean-War-and-the-Birth-of-the-Nation-State-JEH-1973.pdf`,
+  20 pp.; sidecar
+  `text-2026-09-16/Bean-War-and-the-Birth-of-the-Nation-State-JEH-1973.txt`).
+  **OFF THE RETRIEVAL LIST THIS DATE — this closes RETRIEVAL row 15
+  (entered at the STEP 3 block above).** OFFSET RULE: PDF 1 is the JSTOR
+  cover; **printed = PDF + 201**, constant (PDF 2 = 203; PDF 20 = 221),
+  verified at every running head. OCR: clean in the body; **PDF 9
+  (printed 210, Table 1) and PDF 14 (printed 215, Table 4) were scanned
+  in landscape and are unreadable; Tables 2 and 3 are column-mangled —
+  NO FIGURE FROM ANY OF BEAN'S FOUR TABLES IS ENTERED HERE OR MAY BE
+  CITED without the page image.** Superscript note markers render as
+  apostrophes.
+  **USE-NOTE: THIS IS THE ARTILLERY THESIS. It is the work ch10's
+  mechanism most closely resembles, it is named BY NAME in §VII, and the
+  chapter must say in one sentence that its claim is not Bean's claim.**
+  HIS EXPLANANDUM, which is the whole of the difference: "The phrase
+  'rise of the nation-state' is quite vague. For the purposes of this
+  paper we shall focus on power. The phenomenon we shall try to explain
+  is the consolidation of political and military power that occurred in
+  Europe in the early modern period. A political map of Europe for the
+  year 1400 A.D. shows a plethora of independent and semi-independent
+  states … By 1600 A.D. the number had been sharply reduced" (p. 203);
+  the model is the theory of the firm, a "'U-shaped' long run average
+  cost curve" for polities, so that "the interaction of centripetal and
+  centrifugal forces will determine the optimal range of size of the
+  state. States larger than the optimal range tend to disintegrate, and
+  those smaller tend to be absorbed" (p. 204); **THE THESIS: "The central
+  argument of this paper is that changes in military technology or in
+  administrative technique can alter this range of optimum sizes of the
+  state" (p. 205).** THE CANNON AND THE DATE: "In the middle of the
+  fifteenth century, the cannon drastically altered the balance between
+  offense and defense. In 1449-50 A.D., Charles VII of France regained
+  Normandy in a small portion of the time it had taken the English to
+  take it earlier in that century. His new siege train knocked down the
+  old high masonry walls with dispatch, 60 fortified places being
+  reduced in 369 days. The breaching of the walls of Constantinople in
+  1453 by Turkish siege guns further emphasized the decline in the
+  effectiveness of fortification" (p. 207) — **the 60/369 figure is
+  Oman's, at *A History of the Art of War in the Middle Ages*, II,
+  p. 226 on the footnote sequence; PENDING VERIFICATION at the page
+  image, because the OCR renders the superscript marker as an
+  apostrophe. Bean is a carrier here, not a source; ch06's census stands
+  on its own first-hand pins.** THE WINDOW AND THE BASTION: "More than
+  fifty years passed before the art of fortification caught up with the
+  new techniques of siege-craft, but by the second decade of the
+  sixteenth century, the balance was again in favor of the defense"
+  (p. 207); and the residue — "in the latter period, the minimum
+  effective scale of fortification was considerably larger. This was
+  true of both construction costs and garrison size. As a consequence,
+  there were many fewer places in Europe after 1525 A.D. with effective
+  fortification than had been the case before 1450 A.D." (p. 208), the
+  closure of the sub-state path stated from the defensive face. THE
+  MINIMUM VIABLE SIZE, in the conclusions: "The siege train of cannon,
+  like units of infantry, showed considerable economies of scale, and
+  the flowering of the cannon in the mid-fifteenth century further
+  increased the minimum effective size of states and drastically reduced
+  the ability of the feudal nobility to resist the authority of the
+  central government. All over Western Europe the feudal nobility became
+  subordinate to the central governments—the process being largely
+  complete by 1500" (p. 220). THE FISCAL CONSEQUENCE: "In France in the
+  1440's and in Spain in the 1480's the rulers were able to seize these
+  taxes as a right and thus dispense with the legislative bodies. These
+  fundamental alterations in the implicit 'constitutions' made
+  'absolute' monarchy a possibility in those countries. In England the
+  Tudors and then the Stuarts failed to establish a royal right to levy
+  taxes directly" (p. 213), with Sweden — Karl Knutsson deposed in 1457
+  "for trying to introduce new taxes" (p. 216). THE CASCADE: "Once the
+  power to tax had been successfully appropriated by any one sovereign,
+  once he had used that power to bribe or coerce his nobility into
+  acquiescence, that state could face all neighboring states with the
+  choice of being conquered or of centralizing authority and raising
+  taxes" (p. 220). THE ESTABLISHMENT COST: "In France after 1445 A.D.,
+  when the Compagnies d'Ordonnance were established as a standing army
+  of heavy cavalry some 12,000 strong, their payroll alone stood at
+  720,000 Livres tournois … out of a budget of perhaps 3 million L(t)"
+  (pp. 216–17, on Oman II, 432); "originally twenty companies of 600 men
+  each … the officers were royal appointees and served at the pleasure
+  of the king" (p. 218). THE REVENUE DOUBLING at source (the claim
+  McNeill carries at second hand, ch10 memo Revisions 35, p. 105 n. 35):
+  "the revenues of the central governments of Western Europe rose
+  sharply in the second half of the fifteenth century … The original
+  increase represented at least a doubling of the real per capita burden
+  upon the citizens" (p. 217). **THE CONSOLIDATION/FORM SPLIT, 1973:**
+  "The changes in the art of war practically guaranteed the weakening of
+  the feudal nobility, the concentration of power within each state, and
+  the reduction of the number of states. However, there was no certainty
+  as to which faction within the nation would control the new
+  centralized state. In France and Spain the crown managed to gain
+  control of power to tax. In Holland and England these powers were
+  retained by elective bodies … This paper has presented an explanation
+  for the concentration of political power in Europe from 1450 to 1550
+  A.D. It has not explained why different groups gained control of this
+  power in different states. That task remains a challenge to further
+  research" (p. 221) — **spine §8(g)'s two claims, scored separately,
+  stated by the artillery thesis's own author. ENTRY OWED at ch12.**
+  CORRECTION TO BEAN (do not import): he attributes the francs-archers
+  to Louis XI (p. 218); they are Charles VII's, 1448 (Major 1960: 9).
+  **DISPUTE RECORDED — this is the chapter's central historiographical
+  fact. Tilly 1975b/1985 read Bean and REJECTED him on chronology and on
+  the *trace italienne*: "Bean's summary does not stand up to historical
+  scrutiny. As a matter of practice, the shift to infantry-backed
+  artillery sieges of fortified cities occurred only during the
+  sixteenth and seventeenth centuries … The arrival of effective
+  artillery came too late to have caused the increase in the viable size
+  of states" (1985, History Talks, paras 1–2; full pin at the STEP 3
+  block above), with the naval limb and the Poland/Russia scale point
+  (para 2). Stasavage names Bean's as "the clearest exposition" of the
+  technology-and-scale argument and rejects it as "muted" (ch. 1 n. 3;
+  ch. 1, part0008_split_000). North (1981) adopted it. The judgement was
+  passed on the SIZE claim; the fiscal-constitutional claim at p. 213
+  was never tested against the French archives, and that is the gap the
+  chapter occupies.**
+  WHERE HE STANDS: economic history, not state-formation sociology;
+  North and Thomas the addressees (p. 203, n. 1); Oman the military
+  source throughout. Publication 1973; not superseded in corpus, and
+  answered rather than replaced by Tilly, Stasavage and Hoffman.
+
+- **T2 — J. Russell Major, *Representative Institutions in Renaissance
+  France, 1421–1559* (Madison: University of Wisconsin Press, 1960)** —
+  IN REPO
+  (`corpus/retrieved/Major-Representative-Institutions-Renaissance-France-1960.pdf`,
+  201 pp.; sidecar
+  `text-2026-09-16/Major-Representative-Institutions-Renaissance-France-1960.txt`).
+  **OFF THE RETRIEVAL LIST THIS DATE — this closes RETRIEVAL row 16.**
+  OFFSET RULE: **printed = PDF − 14**, constant (PDF 21 = 7; PDF 61 =
+  47; PDF 165 = 151), verified at the running heads. OCR: a clean text
+  layer, not page-image OCR; defect — on a minority of pages the last
+  four to eight lines re-flow out of order (pp. 16–17, 29–30, 51, 53);
+  every pin below was re-read in page context and none is drawn from a
+  scrambled block.
+  READ: ch. 1 in full; ch. 2 in full through p. 44; ch. 3 in full;
+  ch. 4 pp. 98–105 and 114–16 closely, the rest by openings; ch. 5
+  openings; ch. 6 pp. 143–47 in full, the rest by openings; **APPENDIX,
+  pp. 151–52, in full**. Notes (pp. 155–76) and Index not read.
+  **USE-NOTE: THE STANDARD REVISIONIST AGAINST THE "ABSOLUTISM BY 1440"
+  READING; BY NAME IN §III (where he closes a [GAP] in the draft's
+  favour) AND BY NAME IN §VII (where he is a rival). He is also the
+  authority of record for any statement in this manuscript about when a
+  French national assembly met.**
+  THE THESIS: "It is intended to demonstrate the popular, consultative
+  nature of the Renaissance Monarchy" (p. v); against "'Francis I was an
+  absolute monarch.' So wrote Henry Lemonnier … How often this statement
+  has been made; but does it give a true picture …?" (p. 3); "the
+  government of Renaissance France was decentralized … the seigneurial
+  nobility opposed the growth of monarchial power, and the army and the
+  bureaucracy were inadequate and difficult to control" (p. 13); "kings
+  encouraged and developed assemblies of the estates … They regarded
+  these institutions as tools for their use" (p. 16).
+  **THE 1439 TRADITION DESTROYED — closing the Major limb of the §III
+  [GAP], in the draft's favour:** "A completely erroneous theory has
+  developed that the estates at this time consented to the creation of a
+  permanent standing army and voted a permanent taille for its support,
+  that the king was thereby freed from the necessity of getting consent
+  for taxation, and that national representative institutions ceased to
+  be convoked except in rare emergencies. Simple and convenient as is
+  this explanation of the decline of national representative assemblies
+  in France, it contains scarcely a word of truth, as Antoine Thomas
+  pointed out as early as 1878" (pp. 32–33); the army articles' purpose
+  "was to restore discipline, not to create a permanent army" (p. 33);
+  "Nothing whatsoever was said about a permanent taille, and only
+  100,000 livres were voted" (p. 34); the convocation was about the
+  English peace — "The towns were only asked to give their deputies
+  powers to discuss the proposed peace with England, almost certain
+  proof that the crown had no intention of asking for any radical change
+  in financial policy" (p. 33).
+  **THE PERMANENCE AND CONSENT QUESTION, at the page.** 1442, the king's
+  own answer to the Nevers rebels: "it is not necessary to assemble the
+  three estates to levy the tailles because it is only a burden and an
+  expense to the poor common people who have to pay the cost of those
+  who attend. Several seigneurs have requested that we cease to make
+  such convocations" (pp. 34–35). The aides: "when once the aides or the
+  equivalent was agreed upon, they were often collected without further
+  consultation with the estates" (p. 40); "where there were no
+  provincial estates or privileged towns, the aides were collected
+  without consent" (p. 41). **THE 1451 STEP, the chapter's better hinge:**
+  "Charles abandoned the regular taille altogether. With the approach of
+  peace, the royal domain, aides, and gabelle provided sufficient revenue
+  for the government, and the taille des gens de guerre supported the
+  army … Small wonder little protest was raised when, in the same
+  breath, the king ordered the élus to impose the necessary taxes to
+  support the *lances* without convoking the provincial estates to give
+  consent. The taille to support the army, like the aides some years
+  earlier, had come to be levied by royal command alone" (p. 42). THE
+  1461 REVENUE SPLIT: domain 3 per cent, gabelle 9, aides and
+  equivalents 30, taille 58 — "As long as the estates controlled this
+  tax, the crown could not become financially independent" (p. 32). THE
+  PER-HEARTH COMPARISON, the sharpest datum in the book: in the
+  généralités without provincial estates the taille ran at 19 and 27
+  sous a hearth, "In Normandy and Languedoc, where the provincial estates
+  had continued to give consent, the taille was collected at a rate of
+  60 sous, 8 deniers, and 67 sous per hearth" (p. 42). NORMANDY 1458,
+  consent conceded after the guns: "in the Charter of 1315 the king had
+  merely promised to levy taxes only in case of necessity, but in 1458
+  he committed himself to first winning the approval of the three estates
+  of the duchy … their estates were convoked periodically for nearly two
+  centuries" (p. 44). WHY THE NATIONAL ASSEMBLY LAPSED: "Charles VII
+  decided to abandon the Estates General and the estates of Languedoil
+  because they were no longer necessary" (p. 36); "the provincial estates
+  and the privileged towns … were the true checks on royal taxation"
+  (p. 38); "The ease with which Charles was able to abandon the large
+  representative assemblies should by no means be considered a victory
+  for the crown" (pp. 37–38); and in 1484's aftermath, "The provincial
+  estates of France abandoned the Estates General because of a
+  preference for local consent, and the government abandoned that same
+  institution because it was of too little use to justify the work and
+  trouble it caused" (p. 116).
+  **THE APPENDIX — the assembly count, 1439 to 1484 (pp. 151–52),
+  verbatim from the table:** Oct.–Nov. 1439 Orléans, "Estates General ?";
+  Feb.–Aug. 1440 Bourges, "Estates General ?"; Apr. 1444 Tours, "?"
+  (his n. 2: "The king never met with the assembled deputies"); June
+  1448 Tours, "?"; Dec. 1463–Jan. 1464 Montferrand, "Estates of eastern
+  Languedoil"; Jan. 1464 Tours, "Estates of western Languedoil";
+  **Apr. 1468 Tours, "Estates General" — entered WITHOUT his query
+  symbol**; Jan.–Mar. 1484 Tours, "Estates General *" (his *: "Election
+  by bailiwick"). Later rows: May 1506 Tours and Jan. 1558 Paris, both
+  "Estates General **" (his **: "Restricted assembly: Only a limited
+  number of clergymen, noblemen, and deputies of the towns were
+  summoned"); Dec. 1560–Jan. 1561 Orléans, "Estates General *".
+  **WHAT 1468 WAS:** convoked 26 February 1468 during a truce (p. 54);
+  town deputies "named in general assemblies of the inhabitants"
+  (p. 54); present were "five of the six peers of the church … and
+  nineteen other archbishops and bishops … over twenty-four nobles …
+  the clerical and lay deputies from sixty-four towns; they must have
+  numbered close to two hundred" (p. 55); business was Normandy,
+  Brittany and the English threat (pp. 55–56); output was
+  recommendations — "The recommendations of the estates were all that
+  Louis could have wished" (p. 57) — and **no tax grant**; and the
+  elections were not managed — "There is no real proof that either Louis
+  XI or the rebellious nobles tampered with the elections in the towns …
+  The oft-quoted statement of Commynes that Louis summoned whom he
+  wished does not apply to the estates of 1468" (p. 55).
+  **1484 AT THE PAGE (correcting the draft's figures):** the council
+  "were willing to cut the taille from 4,400,000 livres levied by Louis
+  XI during the preceding year to 1,500,000 livres. Perhaps no French
+  government ever went further to meet the desires of the people"
+  (p. 100); the estates' own offer was "1,200,000 livres for two years
+  and 300,000" (p. 103); then "In August, 1484, the council announced
+  that the taille for 1485 would be 1,500,000 livres in spite of the
+  fact the Estates General had granted only 1,200,000 livres for that
+  year … The council returned to the figure of 1,500,000 livres for
+  1486, but the Estates General had made no offer at all for that year"
+  (p. 115); "There is no evidence of any move to force the promised
+  convocation of the Estates General" (p. 116); "The taille … was
+  reduced to 1,500,000 livres for 1484 and was limited to this figure
+  again as late as 1507" (p. 117).
+  **THE OBJECTION, at full strength, for §VII:** "It has generally been
+  assumed that the establishment of a standing army during the reign of
+  Charles VII furthered the growth of royal absolutism, but no one has
+  bothered to prove exactly when and how the new military force was used
+  to subvert existing society or institutions … The compagnies
+  d'ordonnance or cavalry created in 1445 consisted of only 2,000 lances
+  of six men each, and the francs-archers, an infantry militia
+  established three years later, numbered but 16,000 men … the new
+  standing army and militia together would have numbered less than two
+  modern divisions" (p. 9); "this was doubly true because the subjects
+  themselves were well armed … Troyes marched 3,875 men before the Duke
+  of Orléans in 1544, Amiens had 3,000 men in 1597, and many other towns
+  had comparable forces equipped with artillery and munitions" (p. 9);
+  "The compagnies d'ordonnance were composed almost entirely of the
+  local nobility and captained by members of the leading families of the
+  provinces … Louis XIV was the first French king to establish effective
+  control over a large military force" (pp. 9–10); "In the final
+  analysis, the Valois, like the Tudors, had to rely on the support of
+  their more powerful subjects" (p. 10). ADMINISTRATIVE SCALE: "Around
+  1505 there were approximately 12,000 royal officials in France, a
+  nation of 15,000,000 inhabitants … or one official for each 1,250
+  inhabitants" (p. 5). COMPARATIVE REGISTER, his own: Burgundy's Estates
+  General as "the most potent of the means of unification" (p. 18);
+  Castile under Ferdinand, Charles V and Philip II (pp. 18–19); Sweden's
+  Riksdag "co-opted by the monarchy" (p. 19). FOR CH12 AND THE CODA: what
+  killed the type — "the separation of the king from his people by the
+  elaborate ritual of the court, the growing power of the administrative
+  nobility, and the creation of a large army under effective royal
+  control", alongside the press as "a new means to control public
+  opinion" (p. 20).
+  **THE DISPUTE RECORDED.** Major against the absolutist reading
+  (Lemonnier and Lavisse by name, p. 3; Antoine Thomas cited as the
+  1878 refutation of the 1439 tradition, p. 33) and against the
+  standing-army inference (p. 9). **He is not the consensus:** Ertman
+  (1997) takes the 1439 ordinance as "in effect creating a royal
+  monopoly of both coercion and taxation" (pp. 86–87) and the 1439
+  taille as a one-year grant that simply continued (p. 73) while citing
+  Major 1960: 151 for his own count (his n. 137); Finer 1975: 127 and
+  Bean 1973: 213 both carry the strong version Major denies; Contamine
+  carries no taille grant at Orléans, which is Major's side. **Both sides
+  are named wherever the chapter uses the settlement.** Publication 1960;
+  Major's later work (1980, *Representative Government in Early Modern
+  France*) is NOT in corpus and is the obvious next retrieval; nothing
+  in corpus supersedes him on the count of assemblies.
+  **SPINE-TOUCHING CHECK, recorded not resolved (memo Revisions 44):**
+  §8(a)'s "No Estates General met again until 1484" against the Appendix
+  and pp. 54–58. Roderick's.
+
+- **RETRIEVAL LIST consequences (2026-09-16, intake):** **Rows 15 (Bean)
+  and 16 (Major) CLOSED — both works are in the repo and read in full;
+  both have full T2 entries above.** The Tilly 1975 volume is likewise
+  off the list (whole volume in repo; the ch. 1 slogan now pinned at
+  p. 42). **NEW ROWS: 21. Charles Oman, *A History of the Art of War in
+  the Middle Ages* (2nd edn, London: Methuen, 1924), vol. II, pp. 226,
+  303, 432** — NEEDED FOR: the source of Bean's "60 fortified places in
+  369 days" and of his companies' payroll figure; the attribution is
+  PENDING VERIFICATION and cannot be printed without it. **22. J. Russell
+  Major, *Representative Government in Early Modern France* (Yale,
+  1980)** — NEEDED FOR: whether Major revised the 1960 position on the
+  1451 step and on 1468; he promised the continuation at p. vi.
+  **23. Antoine Thomas, *Les états provinciaux de la France centrale
+  sous Charles VII* (1879)** — NEEDED FOR: the 1878/1879 refutation
+  Major rests the 1439 correction on (p. 33 and his note). **24. Wim
+  Blockmans, "Representation (since the thirteenth century)", NCMH VII**
+  — row 17 above, now LOAD-BEARING alongside Major on the 1468 question.
+  Row 3 (Wolfe) remains LOAD-BEARING: Major gives the assembly politics
+  and the per-hearth comparison but not the taille's own yield series.

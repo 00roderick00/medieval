@@ -419,3 +419,112 @@ PDF 26 — and all confirmed.*
   adjacency to §V. Krasner, Stasavage, Goldsmith & Wu, Wu, Schmitt,
   Scott, Bagehot, Crouch, Commynes and Chastellain place nothing
   here.
+
+## Added 2026-09-16 — intake (POINTER; Tilly 1975 volume, chs. 1 and 2)
+
+*From the intake unit of this date (assessment at
+research/assessments-2026-09-16/Tilly-1975-Formation.md). Pins opened in
+the sidecar this date. Master entry for the volume at ch10/sources.md
+(intake block of this date). No draft edited. Register decisions proposed
+at the foot of memo.md Revisions 13.*
+
+- **T2 — Charles Tilly, "Reflections on the History of European
+  State-Making", and Samuel E. Finer, "State- and Nation-Building in
+  Europe: The Role of the Military", in Tilly (ed.), *The Formation of
+  National States in Western Europe* (Princeton, 1975), chs. 1 (pp.
+  3–83) and 2 (pp. 84–163)** — IN REPO (sidecar
+  `text-2026-09-14/Tilly-1975-Formation-full.txt`; **printed = PDF − 14
+  to printed p. 58, then printed = PDF − 11 from printed p. 62; printed
+  pp. 59–61 absent from the scan**; figures and tables scrambled; PDF
+  89–90 interleaved with unrelated text). **POINTER — master entry at
+  ch10/sources.md (intake block, 2026-09-16); this chapter's Tilly 1985
+  pins stand at the STEP 3 block above and are not repeated.** Cite as
+  Tilly 1975a and Finer 1975, distinct from Tilly 1975b (the volume's
+  ch. 9, at ch10/sources.md) and Tilly 1985.
+  **THE PROTECTION/EXTRACTION FRAME §I INVOKES, now with its 1975
+  half.** The 1985 pins already here give the *racket*; the 1975 volume
+  gives the *extraction cycle* the chapter's composite actually uses.
+  Finer: "Military forces call for men, materials, and, once
+  monetization has set in, for money, too. To extract these has often
+  been very difficult … Now coercion presupposes something very similar
+  to the instrument for which the coercion is itself proposed. **Troops
+  extract the taxes or the forage or the carts, and this contribution
+  keeps them in being. More troops — more extraction — more troops: so
+  a cycle of this kind could go on widening and deepening**" (Finer
+  1975: 93). Tilly's version, in six numbered steps: "(1) change or
+  expansion in land armies to (2) new efforts to extract resources from
+  the subject population to (3) the development of new bureaucracies and
+  administrative innovations to (4) resistance from the subject
+  population to (5) renewed coercion to (6) durable increases in the
+  bulk or extractiveness of the state" (Tilly 1975a: 73), with "So
+  turned the tight circle connecting state-making, military institutions
+  and the extraction of scarce resources from a reluctant population"
+  (p. 24).
+  **FOR §I's "the great subjects raise private forces" — the standing
+  condition, not the symptom** (the correction memo Revisions 7(ii)
+  already proposed, now doubly pinned): rulers faced rivals "even within
+  the territories he nominally controlled. **Landlords who exercised
+  nearly autonomous control of their own estates (and thereby of most of
+  the resources necessary for the waging of war, the maintenance of
+  courts, and other stately tasks) rivaled and resisted the princes at
+  the local level.** Great magnates, royal cousins, and neighboring
+  princes eased or elbowed their way into the prince's own jurisdiction"
+  (Tilly 1975a: 76); "In his essay on armed forces, Finer shows us how
+  mortal a threat the enemies of every prince posed. Successful
+  state-makers had to absorb, check, or destroy most of their immediate
+  rivals" (p. 77). Tilly's three classes of resisters — "(1) the
+  ordinary people …; (2) the established authorities pressed to
+  relinquish or share their power; and (3) the rival claimants to
+  sovereignty" (p. 22).
+  **FOR §I's SEPARATE OWNERSHIP OF THE COMPONENTS — Finer's priced
+  instrument, which is ch03's argument in a military historian's
+  vocabulary:** "mail armor alone weighed thirty pounds and cost the
+  equivalent of a small farm, and … plate armor weighed some one hundred
+  thirty pounds and was correspondingly more expensive … **It would be
+  like expecting private individuals nowadays to help form the army by
+  bringing to the battlefield their own Centurion or Patton tank, or
+  their own Phantom plane**" (Finer 1975: 89), restated with the
+  loyalty consequence: "if the individual renounced his liability, the
+  monarch would have to turn against his tank or his plane, the tanks
+  and planes of those who had decided to honor their pledges. **The
+  feudal force was hardly, therefore, a predictably loyal one**" (p. 100).
+  **FOR §I's FRAME OF CHOICE — Finer's format-options grid and its three
+  considerations.** Three formats, each in an *ad hoc* or permanent
+  form: foreign paid volunteers ("mercenaries"), native obligatory
+  service, native paid volunteers ("the domestic paid volunteer troop
+  like the late medieval English 'companies' or French *bandes*", p. 92);
+  chosen on **effectiveness, expense and loyalty** — "The considerations
+  are three. The first is the effectiveness of the force for the purpose
+  in hand … then the next consideration is — can such a force, of such a
+  size be afforded? This is the consideration of its expense. But there
+  is also a third consideration and this is the one that Machiavelli
+  dwelt upon. Given such and such a format, would it be loyal to the
+  ruler?" (pp. 91, 95). The indenture is in his chronology by name: "In
+  the fourteenth century the format altered to a semiprivate cash basis:
+  forces were raised at the king's cost by means of an indenture between
+  the king and the gentlemen he had commissioned. Formats in France
+  followed a similar pattern but with a time lapse" (p. 97), with "the
+  common assumption was that the king would commission a gentleman to
+  raise, equip, officer, and lead a given force of men: the king paid
+  him, he for his part did the rest, **and if any money stuck to his
+  fingers, this was after all his livelihood**" (p. 97) — the fiscal
+  disanalogy of §V stated from the other end.
+  **FOR §II's ENGLISH EXCEPTION:** "After the accession of Henry VII in
+  1485, England reverted to the popular militia, at least, for home
+  defense, whereas France and Spain and the Hohenzollerns came to depend
+  on paid native volunteers or foreign paid volunteers or both, but not
+  on popular militias" (p. 97); and the English shift is dated —
+  "England reverted to her native militia tradition. This did not end
+  until the middle of the seventeenth century" (p. 110).
+  **NEGATIVE FINDINGS (searched).** Neither chapter names the
+  écorcheurs, livery, maintenance, the *Fehde* or Grumbach; Finer's
+  fifteenth century is Swiss pikes, the longbow and the 1445 companies,
+  and his German tempo is the one memo Revisions 7(iii) already records
+  from Gerhard via Tilly 1985. Tilly's ch. 1 contains no occurrence of
+  artillery, cannon, gunpowder, firearm or bastion.
+  **USE-NOTE:** T2 ally at the pin for §I's extraction half and for the
+  priced-instrument argument; **Finer 1975: 91–92, 95 is the frame §I
+  should adopt for the composite's own conditional** — effectiveness,
+  expense, loyalty — because it states in T2 terms what the chapter
+  currently asserts as its own synthesis. Not load-bearing for any
+  medieval fact in this chapter.

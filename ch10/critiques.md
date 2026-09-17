@@ -1126,6 +1126,285 @@ list; steelmen provisional; do not caricature.
       (p. 304). But the mechanism is the historian's frame imposed on,
       not found in, Commynes, and §IV must say so.
 
-STATUS: Revisions 9–17 PENDING HUMAN REVIEW; Revisions 1–8 as before.
-The register decisions these entries imply are listed at ch10/memo.md
-Revisions 41 (10-a to 10-l), stated not recommended.
+18. **(2026-09-16 — intake: Bean 1973 read in full and Finer 1975 read
+    in full; the objection that the mechanism is not new, steelmanned
+    against spine §8(a) and graded. PENDING HUMAN REVIEW.)**
+    - **Steelman, at the strength the two texts give it.** The
+      objection is no longer "how is this not Tilly?" It is: *the
+      artillery thesis was published fifty-three years ago by Richard
+      Bean and again, independently and in the same year as the volume
+      the book cites for Tilly's slogan, by Samuel Finer; the book is
+      their descendant and has not said so.*
+      **Bean.** His argument is the book's chain: "The central argument
+      of this paper is that changes in military technology or in
+      administrative technique can alter this range of optimum sizes of
+      the state" (p. 205); "In the middle of the fifteenth century, the
+      cannon drastically altered the balance between offense and
+      defense. In 1449-50 A.D., Charles VII of France regained Normandy
+      in a small portion of the time it had taken the English to take it
+      earlier in that century. His new siege train knocked down the old
+      high masonry walls with dispatch, 60 fortified places being
+      reduced in 369 days" (p. 207); "The siege train of cannon, like
+      units of infantry, showed considerable economies of scale, and the
+      flowering of the cannon in the mid-fifteenth century further
+      increased the minimum effective size of states and drastically
+      reduced the ability of the feudal nobility to resist the authority
+      of the central government. All over Western Europe the feudal
+      nobility became subordinate to the central governments — the
+      process being largely complete by 1500" (p. 220); and the fiscal
+      consequence dated to the decade §III is about: "In France in the
+      1440's and in Spain in the 1480's the rulers were able to seize
+      these taxes as a right and thus dispense with the legislative
+      bodies. These fundamental alterations in the implicit
+      'constitutions' made 'absolute' monarchy a possibility in those
+      countries" (p. 213).
+      **Finer.** His first cycle is "economy-technology-format"; his
+      periodisation is by weapon ("The Age of Pike and Handgun:
+      1450-1550", p. 105); he gives the guns the decisive victories —
+      "Cannon proved critical in the French victories of Castillon
+      (1450) and Formigny (1453) which ejected the English from all
+      France excepting only Calais", and "Castillon and Formigny —
+      though this was not realized at the time — expelled England from
+      Europe for good" (p. 104); he names the counter — "To counter the
+      new artillery, the tall, thin walls of the medieval castle had to
+      be replaced or girdled by low and thick ones, forerunners of the
+      bastion" (p. 105); he states the extraction cycle — "Troops
+      extract the taxes or the forage or the carts, and this
+      contribution keeps them in being. More troops — more extraction —
+      more troops" (p. 93); and he draws the French constitutional
+      conclusion — "the Estates-General had failed to make good a claim
+      like the English Parliament's, to control taxation … in sum there
+      was no central constitutional organ of opposition to taxation by
+      fist similar to England's … If the taxpayer resisted, the troops
+      would make short work of that" (p. 127). **And Tilly endorsed it
+      from the editor's chair**: Finer shows that "instead of a
+      continuous accretion of central power, we witness an alternation
+      of long pauses with giant steps closely following changes in
+      military technology and the scale of war" (Tilly 1975a: 52).
+      Long pauses and giant steps is a ratchet in everything but the
+      word. Worse for the chapter than a hostile verdict: a friendly
+      anticipation, in print, in a volume on the reading list.
+    - **The chapter's answer, in four limbs, graded honestly.**
+      **(a) The explanandum. GOOD — this limb carries the whole
+      answer.** Bean's dependent variable is stated twice and is the
+      number and geographic size of polities: "A political map of Europe
+      for the year 1400 A.D. shows a plethora of independent and
+      semi-independent states … By 1600 A.D. the number had been sharply
+      reduced" (p. 203); the model is a U-shaped cost curve and an
+      "optimal range of size of the state" (p. 204). Finer's dependent
+      variable is the military format and its correlate style-of-rule,
+      and his account is reciprocal by design — "At any fixed point of
+      time, both have exerted a reciprocal influence on each other"
+      (p. 87). Neither explains, or tries to explain, the **closure of
+      the sub-state path to decisive force and the irreversibility of a
+      fiscal settlement inside a surviving polity**, which is what
+      spine §8(a) claims. The difference is testable: Bean's claim is
+      falsified by a map, and was (Tilly 1985, History Talks, para 2,
+      on Poland and Russia; Stasavage's "muted" thesis); the book's is
+      falsified by an assembly that reverses the settlement or a magnate
+      who replicates the instrument. §VII must say this in one sentence
+      and must stop saying "stated where its rival leaves it unstated".
+      **(b) The evidence. B, and the book has been vague about its own
+      descent.** Bean's fifteenth-century French base is one sentence
+      and one figure from Oman and a footnote to Petit-Dutaillis in
+      Lavisse, with a datable error about the francs-archers; Finer's is
+      two paragraphs containing transposed battle dates, the 1439
+      permanent-taille tradition Major destroyed in 1960, and Charles
+      VIII's Italian campaign misdated by a decade. The book supplies
+      Contamine's accounts, the Bureau service, the 1442 establishment,
+      the audited artillery *recette*, Depreter's Burgundian comparator
+      and the 1449–50 census. That is the difference between an
+      assertion and a demonstration — a real contribution, and a modest
+      one. The chapter should claim exactly that and no more.
+      **(c) Ardant, the third voice in the same volume, is the harder
+      objection and is not currently answered at all. UNANSWERED.**
+      Ardant's chapter says fiscal capacity is ceilinged by the economic
+      base — "Productivity, especially agricultural productivity, and
+      demography were together the first obstacle, a really physical
+      barrier to the power of the state" (p. 176) — and that political
+      ambition running ahead of the base produces revolt, not
+      consolidation: "The ambitions of kings for several centuries ran
+      ahead of the economic structure of their states … This
+      being-out-of-phase, this distorted relationship, caused the states
+      to resort to overly burdensome taxes" (p. 193). On Ardant's
+      reading the settlement of 1439–51 should have failed, and its
+      fiscal counterpart in the same decades — hundreds of tax revolts —
+      is his evidence. The book's answer must be that the artillery
+      changed the *politics* of a fixed base rather than its size: that
+      the crown collected no more than the base could yield, but that
+      the question of who decided the yield stopped being asked. That
+      answer is available, it is consistent with Major's numbers
+      (Revisions 19), and it is nowhere in the chapter. **Write it, or
+      concede the objection.**
+      **(d) The historiographical turn, which is the chapter's best
+      asset. GOOD.** The thesis has been named, tested and judged for
+      half a century — Tilly rejected Bean on chronology and the *trace
+      italienne*; Stasavage calls Bean "the clearest exposition" of the
+      technology-and-scale argument and the effect "muted"; North
+      adopted him — **and every one of those judgements was passed on
+      the size claim, while the fiscal-constitutional claim at Bean
+      p. 213 went untested because nobody took it to the French
+      archives.** Stating the descent openly therefore strengthens the
+      chapter: it converts "here is a new thesis" into "here is an old
+      thesis, rejected for the wrong reason, and here is the evidence
+      nobody gathered."
+    - **What this does to Objection 6.** Objection 6 is now defective in
+      two further places, and the note at memo Revisions 34 is
+      superseded in scope. Its sentence "And Tilly was deliberately
+      technology-agnostic — his cycle runs on war-making in general, and
+      he distrusted technological determinism; narrowing the engine to
+      one gun train is precisely the move his framework warns against"
+      cannot survive Tilly's own summary of Finer at p. 52. And its
+      framing — "a special case of a thirty-year-old paradigm, presented
+      as a discovery" — is too generous to the book: the paradigm is
+      fifty-three years old and the special case is its original form.
+      **Objection 6 should be retitled and rebuilt at the next critiques
+      renovation as "How is this not Bean?", with Tilly's rejection,
+      Finer's anticipation and Stasavage's dismissal as its three limbs
+      and the answer above as its three-limb reply. Recorded, not
+      applied.**
+    - **Left weak, as before.** The naval limb (Tilly 1985; Glete's
+      navies, Revisions 10) is untouched by this intake. Bean adds a
+      second open question in the same family: his offensive window
+      closes "by the second decade of the sixteenth century" (p. 207),
+      so the settlement outlived the capability that set it by three
+      centuries. The book's answer — that this is what irreversibility
+      means — is good but must be written, and it obliges Appendix C to
+      say how long the compute-led window is expected to stay open.
+
+19. **(2026-09-16 — intake: Major 1960 read; the revisionist objection
+    to §III and §VII steelmanned and graded. PENDING HUMAN REVIEW.)**
+    - **Steelman, in his own words.** The standard revisionist against
+      the absolutist reading of Charles VII's France denies the book's
+      fourth link outright, and denies it with arithmetic rather than
+      interpretation. "It has generally been assumed that the
+      establishment of a standing army during the reign of Charles VII
+      furthered the growth of royal absolutism, but no one has bothered
+      to prove exactly when and how the new military force was used to
+      subvert existing society or institutions … The compagnies
+      d'ordonnance or cavalry created in 1445 consisted of only 2,000
+      lances of six men each, and the francs-archers, an infantry
+      militia established three years later, numbered but 16,000 men …
+      the new standing army and militia together would have numbered
+      less than two modern divisions … such a force could hardly subject
+      a population of 15,000,000 persons" (p. 9). The subjects held the
+      same technology: "many other towns had comparable forces equipped
+      with artillery and munitions" (p. 9). The instrument was not the
+      crown's: "The compagnies d'ordonnance were composed almost
+      entirely of the local nobility and captained by members of the
+      leading families of the provinces … Louis XIV was the first French
+      king to establish effective control over a large military force.
+      Earlier, troops and civilians alike obeyed their monarch if they
+      saw fit, but not otherwise" (pp. 9–10); "In the final analysis,
+      the Valois, like the Tudors, had to rely on the support of their
+      more powerful subjects" (p. 10). And the constitutional story the
+      chapter tells has, on his account, a different cause: "Charles VII
+      decided to abandon the Estates General and the estates of
+      Languedoil because they were no longer necessary" (p. 36); "The
+      ease with which Charles was able to abandon the large
+      representative assemblies should by no means be considered a
+      victory for the crown" (pp. 37–38); "The provincial estates of
+      France abandoned the Estates General because of a preference for
+      local consent, and the government abandoned that same institution
+      because it was of too little use to justify the work and trouble
+      it caused" (p. 116).
+    - **The chapter's answer, in four limbs, graded. Overall B+: the
+      objection is survivable and it forces two changes.**
+      **(a) The explanandum, again. GOOD.** Major is refuting
+      *absolutism* — a king able to coerce his subjects and govern
+      without consulting them. The book does not claim it, and §8(a) as
+      ruled claims something narrower. Major's own evidence establishes
+      the narrower claim: the aides collected "without further
+      consultation with the estates" after 1440 (p. 40); the *taille des
+      gens de guerre* "levied by royal command alone" after 1451
+      (p. 42); the 1484 grant breached within eight months and never
+      enforced (p. 115); the provincial estates declining to force a
+      convocation (p. 116). Major says the crown was weak *and* that it
+      collected what it liked. §III should be written in his terms —
+      not "the crown subdued the assemblies" but "the assemblies ceased
+      to be the point at which the tax was decided, and never became it
+      again".
+      **(b) The siege train is not the compagnies. GOOD, and
+      under-stated in the draft.** Major counts lances and francs-archers
+      and finds them too few to garrison France. The book's instrument
+      is the artillery establishment §IV prices — guns, powder,
+      founders, gunners' wages, carriage, siege pay — which Major does
+      not count, does not cost, and never mentions; the Bureaux do not
+      appear in his book. His demonstration is that Charles VII could
+      not hold down a population; the book's claim is that he could
+      reduce any fortified place in the kingdom, which is a different
+      capability with a different political effect. §VII must draw the
+      distinction explicitly and with Major named.
+      **(c) "Towns had artillery." PARTIAL, C+ — the serious limb.**
+      Major's examples are sixteenth-century and are municipal arsenals
+      and noble retinues (Troyes 3,875 men in 1544; Amiens 3,000 in
+      1597; Montmorency's 800 horse in 1560), not siege trains at
+      campaign tempo, which is the distinction §VII already draws
+      against Hoffman ("Any city could buy guns; Ghent sent two hundred
+      carts of them to the field in 1382"). But against Hoffman the
+      distinction answers a price series; against Major it must answer
+      *possession in being by armed corporate subjects*, which is
+      harder. The chapter's answer is the same and holds — possession is
+      not a standing, provincial-scale instrument at campaign tempo on
+      permanent taxation — but what would close it is a count of who
+      could field a siege train in France between 1470 and 1530, and the
+      book does not have one. **Recorded as an open evidentiary gap.**
+      **(d) The loyalty of the instrument. WEAK — concede it.** "The
+      compagnies d'ordonnance were composed almost entirely of the local
+      nobility and captained by members of the leading families of the
+      provinces" (p. 9) is Ertman p. 94 in a source thirty-seven years
+      older (memo Revisions 31, the venality limb). The book cannot hold
+      that the crown owned an instrument its magnates could not touch
+      while conceding that the magnates officered it. The defensible
+      form: the crown held the **artillery arm** — the *recette*, the
+      founders, the powder, the Bureau service — as a department of
+      state, while the cavalry arm remained a patronage instrument
+      shared with the nobility. §IV documents the first; §VII should say
+      the second aloud. **Register decision, memo M60-d.**
+    - **The concession that changes the ratchet's object.** On Major's
+      account the *national* assembly lapsed in 1440, for reasons of
+      particularism and administrative convenience that have nothing to
+      do with guns. The ratchet's object, as §8(a) names it, must
+      therefore be the **provincial** estates and the magnates — the
+      bodies that did still hold the consent right into the 1450s and
+      lost it, province by province, in and after 1451. That is a
+      narrowing, and it makes the claim both truer and harder: the
+      thing closed was consent where consent still existed, not a
+      national institution that had already fallen into disuse.
+      **Recorded, not resolved; Roderick's.**
+    - **The counter-instance the chapter should adopt rather than
+      answer.** Normandy 1458: "in the Charter of 1315 the king had
+      merely promised to levy taxes only in case of necessity, but in
+      1458 he committed himself to first winning the approval of the
+      three estates of the duchy … their estates were convoked
+      periodically for nearly two centuries" (p. 44). In the one
+      province the siege train reconquered, the crown *conceded* a
+      consent right five years after Castillon and kept it. Read as an
+      objection it is damaging; read as evidence it is the best medieval
+      demonstration the book has of spine §8(g)'s split — the same
+      mechanism, in one kingdom, producing bargained consent where the
+      base was rich and organised and unilateral levy where it was not.
+      The *pays d'états* / *pays d'élections* divide is the observable
+      outcome, and Major's per-hearth comparison prices it: 19 and 27
+      sous the hearth where consent had lapsed, "60 sous, 8 deniers, and
+      67 sous per hearth" in Normandy and Languedoc where it had not
+      (p. 42). **Consent cost more. Appendix C should carry that fact,
+      because it is the medieval refutation of the assumption that
+      representation restrains extraction.**
+    - **Interaction with Revisions 18.** Major and Bean are on opposite
+      sides of the same page. Bean p. 213 — "In France in the 1440's …
+      the rulers were able to seize these taxes as a right and thus
+      dispense with the legislative bodies" — is precisely the reading
+      Major calls a theory that "contains scarcely a word of truth"
+      (p. 33). The chapter's position is between them and must say so:
+      **with Major against the 1439 grant and against absolutism; with
+      Bean against Major on whether the closure of consent was a
+      consequence of what the army could now do.** Per CLAUDE.md §5 the
+      disagreement is the material, and §VII should stage it.
+
+STATUS: Revisions 18–19 PENDING HUMAN REVIEW; Revisions 9–17 PENDING
+HUMAN REVIEW; Revisions 1–8 as before. The register decisions these
+entries imply are listed at ch10/memo.md Revisions 41 (10-a to 10-l)
+and Revisions 44 (T75-a to T75-d, B73-a to B73-c, M60-a to M60-e),
+stated not recommended.
+
