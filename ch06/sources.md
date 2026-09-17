@@ -185,8 +185,21 @@ quotation in a browser before print.*
 - **Stevenson**, vol. II pt. ii, p. 619: "cities, towns and places,
   castles, and fortresses which have been lost" — the Somerset list's own
   heading (first-hand; see memo Revisions 6).
-- **Keen** on Vale, *Medium Ævum* 52 (1983), p. 117: "a substantial and
-  important study" — review carrying Vale pending the loan.
+- **Keen** on Vale, *Medium Ævum* 52 (1983), pp. 117–19 — **QUOTATION
+  WITHDRAWN 2026-09-16.** The phrase "a substantial and important study"
+  is NOT in the review: the file is in corpus
+  (`Keen-review-of-Vale-1983.pdf`, JSTOR; the review proper opens on
+  printed p. 117 beneath the tail of the preceding review) and the words
+  do not occur in it. It came from the short-quotation bank in
+  research/acquisition-dossier.md, compiled at that dossier's own grade
+  without the review in hand; the same bank's Cazelles sentence failed
+  the same way (ch10/sources.md, withdrawn this date). VERIFIED
+  REPLACEMENT, read at the page: Keen opens "Malcolm Vale's *War and
+  Chivalry* is an outstanding book, lucid, perspicacious, and based on a
+  sure footing of scholarly research into the available sources
+  archival, didactic, and iconographical" (p. 117). Use that, or cite
+  Vale direct — *Charles VII* is in corpus and *War and Chivalry*
+  remains a retrieval row.
 
 
 ## Edition note (2026-08-04)

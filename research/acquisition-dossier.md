@@ -1702,3 +1702,48 @@ principal problem, likely contribution, manuscript use, and main cautions.
 Where the text was not in hand, the dossier does not pretend to replace
 reading. Instead it gives the minimum defensible orientation needed to
 decide what to acquire first.
+
+---
+
+## Audit of the short-quotation bank — 2026-09-16 (Claude Code)
+
+Prompted by a failure found during the Perroy intake: ch10/sources.md had
+carried since July a Cazelles sentence ("une contribution de premier ordre
+à l'histoire de l'État moderne", review p. 293) taken from this dossier's
+bank. The review is now in corpus and the words are not in it. Every one
+of the bank's eight quotations was therefore opened at the page or the
+page image this date. Result: **six verified, two withdrawn — and both
+failures are reviewers' verdicts**, which is the pattern to remember: the
+bank's compiler appears to have paraphrased what a reviewer thought and
+set it in quotation marks.
+
+VERIFIED (quote as printed):
+- Watts, ch. 5, p. 123 — "There seems to me to be little evidence that
+  Henry himself was the author". Found.
+- DeVries, "Gunpowder Weaponry", p. 127 — "have specifically targeted
+  Parker's ideas of techno logical determinism" (the printed text
+  hyphenates "techno-logical" across a line; quote it closed up and say
+  so). Found.
+- Rogers, "Military Revolutions", p. 242 — "The idea of the military
+  revolution rapidly became the 'new orthodoxy' in early modern military
+  history". Found, and the fuller clause is better than the fragment.
+- Wilkinson, p. 177 — the catatonia description. Found.
+- Curry, p. 171 — "the military revolution has been a moveable feast".
+  Found.
+- Stevenson, vol. II pt. ii, p. 619 — the census's opening. Found.
+
+WITHDRAWN:
+- **Cazelles's review of Contamine, p. 293** — "une contribution de
+  premier ordre à l'histoire de l'État moderne" is not in the review.
+  Withdrawn in ch10/sources.md 2026-09-16 with verified replacements.
+- **Keen's review of Vale, p. 117** — "a substantial and important study"
+  is not in the review. Withdrawn in ch06/sources.md 2026-09-16; the
+  verified opening verdict is "an outstanding book, lucid, perspicacious,
+  and based on a sure footing of scholarly research".
+
+CONSEQUENCE, for Roderick's ruling (proposed as rulings-sheet row P43-h):
+no quotation whose only provenance is this bank should enter a draft or a
+sources.md "verified quotations" block without being opened at the page
+first. The two failures were both harmless in substance — neither carried
+an argument — but the rule in CLAUDE.md §4 is absolute, and the bank is
+not a source. STATUS: PENDING HUMAN REVIEW.
