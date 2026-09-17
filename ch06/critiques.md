@@ -676,3 +676,73 @@ Priorities to stress-test on the draft:
       imposed on Commynes, not found in him. Neither limb reaches a
       spine ruling; both discipline the register of any 1494
       back-reference this chapter makes.
+
+12. **(2026-09-16 — Holman intake: the Belloc syndrome does not fit
+    the bomber prophets. PENDING HUMAN REVIEW.)**
+    - **Steelman.** The chapter's §VI names a syndrome — "faith in
+      the weapon detached from the establishment that makes a weapon
+      decisive" — and then gestures, in the next sentence, at the
+      twentieth century's prophets of the knock-out blow. The
+      specialist history of those prophets refuses the fit. Holman's
+      theorists were not instrument-fetishists innocent of process:
+      process was the whole of their argument, and it was an
+      argument about administrative and infrastructural fragility.
+      Grahame-White and Harper in 1916 promised aircraft that would
+      "strike directly at the nation itself; to strike a blow, so to
+      say, at its very vitals; paralysing its nerve centres, and
+      robbing it of its power of internal action" (quoted, Holman
+      2014: 44), and Holman is explicit that this, not morale, was
+      the load-bearing fear: "Many writers thought that Britain's
+      industrialised economy and densely populated cities were highly
+      vulnerable to bombing, as the destruction of any one part would
+      disrupt all the rest and make civilised life impossible. This,
+      even more than the shattering of civilian morale, was believed
+      to be the greatest danger from a knock-out blow" (p. 53). Their
+      errors were narrow, empirical and datable — that "air defence
+      was impossible" (p. 43), falsified from Spain and China where
+      "in none of the new wars was the bombing of civilians in any
+      way decisive" (p. 74), and that civilians would panic,
+      falsified by "The surprising resilience of Spanish and Chinese
+      civilians under aerial bombardment" (p. 74). A chapter that
+      gathers Talbot, Belloc's captain and these men under one head
+      has made a rhetorical set, not a mechanism; and the book's own
+      doctrine (CLAUDE.md §2) forbids exactly that.
+    - **The chapter's answer (assessment grade: GOOD, conditional).**
+      §VI does not gather them. As renovated on 16 September it
+      segregates them in terms: they "belong to a different lineage,
+      met in a later chapter, in which the weapon was over- rather
+      than under-estimated." Holman's evidence positively vindicates
+      that segregation rather than disturbing it, and supplies the
+      disanalogy in the chapter's own register: what the prophets
+      omitted was not the process behind their own instrument but
+      THE DEFENDER'S process — the state's capacity to warn, shelter,
+      disperse, repair and re-house — omitted because the war was to
+      be over in hours. His exhibit is exact: factory roof-spotters
+      "would have been easy to set up before the war. But the need
+      for it was never contemplated, for the knock-out blow would
+      have been too swift and the war too short for anyone to worry
+      about a few hours of lost production" (p. 113); the theory had
+      "shape[d] which responses were even imaginable" (p. 113). And
+      what actually beat the attempt, on his telling, was
+      administrative — "the Blitz, though ostensibly a military
+      campaign, was best defeated with better bureaucracy" (p. 238);
+      "Central control at last" (p. 239); "Domesticating the war was
+      key to victory on the home front" (p. 242). That is the
+      chapter's mechanism arriving from the defending side, which is
+      a stronger answer than the one the objection anticipates.
+    - **Why the grade is CONDITIONAL, and what the condition is.**
+      The answer holds only while §VI keeps the segregation explicit.
+      The standing prohibition, to be honoured in every later chapter
+      and at assembly: no sentence may place the bomber prophets
+      inside the Belloc syndrome, and none may gloss their error as
+      over-estimating the effect on morale alone — Holman p. 53 is
+      against that gloss. A second, smaller condition: the chapter's
+      "the interwar orthodoxy" states Holman's claim a degree
+      stronger than he does ("had almost become an orthodoxy", p. 23)
+      and wider than his British scope, and an objector who checks
+      the source will find the overstatement before he finds the
+      argument (memo Revisions 34, H14-b and H14-c).
+    - **Reach.** No spine ruling is touched; spine §8(f) YES 3
+      (Talbot and the Belloc syndrome) is untouched, Holman having no
+      bearing on Talbot. The objection disciplines §VI's register and
+      the book's later use of the syndrome, nothing more.

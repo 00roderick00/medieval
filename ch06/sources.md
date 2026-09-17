@@ -585,7 +585,10 @@ quotation in a browser before print.*
   exchange of September 1941 as the Belloc syndrome at the top of
   a state (assessment pin; verify page at entry to draft — PENDING
   VERIFICATION); the knock-out-blow genealogy runs through Holman
-  (retrieval row), not Belloc. Freedman's main engagement
+  — NOT a retrieval row any longer: Holman is in repo and has his
+  own entry in the 2026-09-16 intake block below, which supersedes
+  this relay and records that Freedman's quotation of him drops the
+  word "almost" — not Belloc. Freedman's main engagement
   (the "decisive" register; the Dorking genre) is the
   Introduction's and ch12's.
 
@@ -913,3 +916,123 @@ pointers name the chapter whose block will hold the master entry.*
   (book and article — the book's assessment says "not ch06"
   expressly); Stasavage (ch04, ch10, ch07); Schmitt ("NO to ch06 …
   text"); Wu; Cheung; Suleyman; Ruggie; Bagehot; Crouch; Ertman.
+
+## Added 2026-09-16 — intake (Holman, *The Next War in the Air*; pins verified)
+
+*One work, read this date against CLAUDE.md §§1–6 and §8, spine §8(f),
+rulings-sheet row (r) and ch06/draft.md §VI as renovated on 16 September.
+Assessment: research/assessments-2026-09-16/Holman-2014.md (the map, not
+the authority). Every pin below was opened in the named sidecar this
+date; page images to be checked before print. No draft edited.*
+
+- **T2 — Brett Holman, *The Next War in the Air: Britain's Fear of the
+  Bomber, 1908–1941* (Farnham: Ashgate, 2014)** — IN REPO
+  (`corpus/retrieved/Holman-The-Next-War-in-the-Air-2014.pdf`; sidecar
+  `text-2026-09-16/Holman-The-Next-War-in-the-Air-2014.txt`, 303 PDF
+  pages, clean text layer). **OFFSET: printed = PDF − 13** (ch. 1
+  opens printed p. 1 = PDF p. 14; verified at the running heads to
+  printed p. 252 = PDF p. 265). Sole OCR defect: the ff/ffi ligature
+  survives as one glyph ("o-ence", "di-cult") — normalise silently in
+  any quotation.
+  **THE PIN THIS CHAPTER NEEDED (§VI, the genealogy, ruling (r)):**
+  p. 23 — "This theory of the knock-out blow solidified into a
+  near-consensus among military intellectuals during the 1920s and by
+  the 1930s had **almost** become an orthodoxy, accepted and promoted
+  by pacifists and militarists alike." *The word "almost" is Holman's.*
+  **HIS DEFINITION,** same page: "During the First World War, the idea
+  emerged that in the future the main strategic risk to Britain would
+  be the possibility of a sudden, intense aerial bombardment of its
+  cities … Civilian morale would be shattered and the nation knocked
+  out of the war quickly … The next war would start and end in the
+  air, and would be won or lost in the air"; the stereotyped script
+  and its components at p. 24 (surprise attack "simultaneously with or
+  instead of a declaration of war"; "massive in scale"; services
+  "interrupted, or cease altogether"; "The morale of any survivors
+  would break quickly"; surrender "after only weeks, days or even
+  hours"), closing "This never came close to happening, even during
+  the Blitz in 1940 and 1941: the knock-out blow was a myth."
+  **THE GENEALOGY, NAMED:** Wells and Montagu as foundations with
+  "little consistency or consensus" (p. 247); Grahame-White and Harper
+  1916, "among the very first articulations of the knock-out blow
+  theory" (p. 247); Groves from 1922, "the interwar period's most
+  influential military intellectual on aerial warfare", his followers
+  turning it into "a near-orthodoxy by the early 1930s" (p. 248);
+  Baldwin, HC Deb 10 Nov 1932, "The bomber will always get through …
+  The only defence is in offence" (quoted p. 57). Douhet displaced:
+  "there is no evidence to suggest that his work was widely known in
+  Britain before the mid-1930s, by which time the theory of the
+  knock-out blow was well-established" (p. 12).
+  **WHY IT WAS WRONG:** the load-bearing premise, "that air defence
+  was impossible" (p. 43); its falsification from Spain and China, "in
+  none of the new wars was the bombing of civilians in any way
+  decisive … bombers were highly vulnerable to defending fighters" and
+  "The surprising resilience of Spanish and Chinese civilians under
+  aerial bombardment" (p. 74); September 1939, "There was not even an
+  attempted knock-out blow, let alone a successful one. Both
+  capability and intent were lacking" (p. 81); the verdict, "Britain
+  was never struck by a knock-out blow" (p. 252), measured against the
+  CID's 1937 forecast of "600,000 dead and 1.2 million wounded" in
+  sixty days (p. 8). **What they left out, in his words:** not the
+  fisc but the defender's adaptive capacity, unthinkable under the
+  assumption of speed — roof-spotters "would have been easy to set up
+  before the war. But the need for it was never contemplated, for the
+  knock-out blow would have been too swift and the war too short for
+  anyone to worry about a few hours of lost production" (p. 113), the
+  theory having "shape[d] which responses were even imaginable"
+  (p. 113). **The 1940 resolution is administrative:** "the Blitz,
+  though ostensibly a military campaign, was best defeated with better
+  bureaucracy" (p. 238); Willink and Sir Warren Fisher appointed
+  regional commissioners, "'Central control at last' was how the
+  *Manchester Guardian* greeted this news" (p. 239); "Domesticating
+  the war was key to victory on the home front" (p. 242).
+  **COST AND STATE CAPACITY (§VI's own register):** the RN "had by far
+  the greatest share of the annual defence estimates, whereas until
+  1937 the RAF had the smallest" (p. 9); "until 1928, fighters
+  actually outnumbered bombers, as they were cheaper to build and
+  operate" (p. 7); bombers "two or three times more expensive than
+  fighters in both money and manpower" (Ajax, reported p. 121);
+  Haldane's deep-shelter scheme at "£400 million over two years"
+  (p. 110) against Griffin's "£1.5 billion, equivalent to the
+  government's projected rearmament costs for 1937–41" (p. 113); the
+  doctrine's fiscal consequence, "Expansion centred on fighters rather
+  than bombers would have been much cheaper, but there was little
+  support for this in the mid-1930s" (p. 252). **THE INSTRUMENT
+  CREATING THE INSTITUTION:** the Gotha panic, the Smuts reports, and
+  "This eventually led to the formation of the Air Ministry and the
+  RAF. To this extent the RAF owes its existence to the Gotha raids
+  and to the nascent knock-out blow theory" (pp. 232–33); Edgerton's
+  frame carried at p. 18 ("liberal Britain was a 'warfare state' as
+  much as a welfare one").
+  **NEGATIVE FINDINGS (verified zero in the sidecar):** *Belloc* does
+  not appear anywhere in text, notes, bibliography or index — the two
+  halves of §VI's mirror CANNOT be joined at one source; and there is
+  nothing on *shadow factories*. The nearest register-join is imperial
+  and is a disanalogy, not a parallel: RAF "air control", "especially
+  in Iraq where it proved its ability to hold down a rebellion at far
+  lower cost in blood and treasure than could the Army" (p. 8) — the
+  state holding the instrument, not a chartered company.
+  **USE-NOTE.** Cite Holman 2014: 23 directly for the genealogy; the
+  relay through Freedman is retired. Carry his hedge ("almost") and
+  his scope (Britain; "practically paradigmatic in interwar Britain",
+  p. 252) — the draft's unqualified "the interwar orthodoxy" and "the
+  twentieth century's prophets" both run ahead of him. Publication
+  2014; supersedes nothing standard here, and is the specialist
+  authority behind Freedman's paragraph.
+  **DIFFERENCE WITH FREEDMAN'S FRAMING (recorded, per CLAUDE.md §5).**
+  (i) Freedman's quotation (sidecar PDF p. 79) silently drops
+  "almost", converting a near-orthodoxy into an orthodoxy. (ii)
+  Freedman's ordering puts Douhet first; Holman's book exists to
+  displace that ("civilians were the first to formulate the theory …
+  and the first to abandon it", p. 17). (iii) Freedman frames the
+  theory's basis as morale ("the likely impact on the popular mood");
+  Holman says the infrastructural argument outweighed it — "Many
+  writers thought that Britain's industrialised economy and densely
+  populated cities were highly vulnerable to bombing, as the
+  destruction of any one part would disrupt all the rest … This, even
+  more than the shattering of civilian morale, was believed to be the
+  greatest danger from a knock-out blow" (p. 53). Where the two
+  differ, Holman is the T2 specialist and governs.
+  **RETRIEVAL STATUS.** The standing retrieval expectation for Holman
+  opened by ruling (r) is CLOSED this date; no row remains open for
+  him anywhere in this chapter, and the cross-reference inside the
+  Freedman entry above has been amended accordingly.

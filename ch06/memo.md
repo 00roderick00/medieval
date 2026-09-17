@@ -1765,5 +1765,180 @@ STATUS: REVIEWED (Roderick, 2026-07-22) — cleared for drafting
       imply the question is closed.
     - (v) Chastellain struck from any ch06 retrieval expectation.
 
-STATUS: Revisions 29–33 PENDING HUMAN REVIEW; Revisions 1–28 as
-before.
+34. **(2026-09-16 — Holman, *The Next War in the Air*, read; intake.
+    PENDING HUMAN REVIEW.)** Closes the retrieval opened by ruling (r).
+    Work: Brett Holman, *The Next War in the Air: Britain's Fear of the
+    Bomber, 1908–1941* (Ashgate, 2014), in repo; sidecar
+    `text-2026-09-16/Holman-The-Next-War-in-the-Air-2014.txt`; offset
+    printed = PDF − 13. Read: Introduction, chs. 2, 3, 10, 11 in full,
+    ch. 4 at length; chs. 5–9 by openings and closings. Assessment:
+    research/assessments-2026-09-16/Holman-2014.md.
+
+    - **CONFIRMS.** The genealogy §VI asserts is Holman's, at his own
+      page: "This theory of the knock-out blow solidified into a
+      near-consensus among military intellectuals during the 1920s and
+      by the 1930s had almost become an orthodoxy, accepted and
+      promoted by pacifists and militarists alike" (p. 23; sidecar
+      verified). His definition is on the same page — "a sudden,
+      intense aerial bombardment of its cities … Civilian morale would
+      be shattered and the nation knocked out of the war quickly …
+      The next war would start and end in the air" — with the four
+      components §VI's clause compresses itemised at p. 24 (surprise
+      attack "simultaneously with or instead of a declaration of war";
+      the civilian target; "The morale of any survivors would break
+      quickly"; and, as the load-bearing premise, "that air defence
+      was impossible", p. 43, popularly fixed by Baldwin's "The bomber
+      will always get through", quoted p. 57). The prediction's
+      failure is confirmed at the page too: "Britain was never struck
+      by a knock-out blow" (p. 252); "the knock-out blow was a myth"
+      (p. 24).
+
+    - **CORRECTS.** (i) The relay, and a silent strengthening inside
+      it. CURRENT §VI WORDING: "The twentieth century's prophets of the
+      knock-out blow — the interwar orthodoxy that a single blow from
+      the air would end a war, whose genealogy Lawrence Freedman
+      traces through Holman (Freedman 2017: 55–57) — belong to a
+      different lineage …". THE DIRECT CITATION THAT WOULD REPLACE THE
+      RELAY (stated, NOT applied): the clause cites Holman 2014: 23 at
+      first hand and carries his hedge — the near-orthodoxy that a
+      single blow from the air would end a war (Holman 2014: 23) —
+      Freedman dropping out of this sentence and remaining the
+      chapter's carrier only for the Tokyo exchange of September 1941.
+      The hedge is not cosmetic: Freedman's quotation (sidecar PDF
+      p. 79) prints "had become an orthodoxy" where Holman wrote "had
+      almost become an orthodoxy", and §VI's "the interwar orthodoxy"
+      currently reproduces Freedman's Holman rather than Holman's.
+      (ii) Scope. Holman's near-orthodoxy is British — "practically
+      paradigmatic in interwar Britain" (p. 252) — and §VI's "the
+      twentieth century's prophets" runs ahead of the source
+      unqualified. (iii) Douhet. "there is no evidence to suggest that
+      his work was widely known in Britain before the mid-1930s, by
+      which time the theory of the knock-out blow was well-established"
+      (p. 12); the theory was formulated by civilians — Wells and
+      Montagu as foundations (p. 247), Grahame-White and Harper in
+      1916 for "among the very first articulations" (p. 247), Groves
+      from 1922 as "the interwar period's most influential military
+      intellectual on aerial warfare" (p. 248). Any future §VI or ch12
+      sentence that routes the genealogy through Douhet is wrong on
+      this evidence. (iv) The theory was not chiefly a morale theory:
+      "Many writers thought that Britain's industrialised economy and
+      densely populated cities were highly vulnerable to bombing, as
+      the destruction of any one part would disrupt all the rest and
+      make civilised life impossible. This, even more than the
+      shattering of civilian morale, was believed to be the greatest
+      danger from a knock-out blow" (p. 53).
+
+    - **ADDS.** (i) §VI's own register, at T2: the instrument's threat
+      producing the institution — the Gotha panic, the Smuts reports,
+      and "This eventually led to the formation of the Air Ministry
+      and the RAF. To this extent the RAF owes its existence to the
+      Gotha raids and to the nascent knock-out blow theory"
+      (pp. 232–33). This is the chapter's mechanism arriving in modern
+      dress and is the strongest thing in the book after the
+      genealogy. (ii) The doctrine priced: the RAF had the smallest
+      share of the annual defence estimates until 1937 (p. 9);
+      "until 1928, fighters actually outnumbered bombers, as they were
+      cheaper to build and operate" (p. 7); bombers "two or three
+      times more expensive than fighters in both money and manpower"
+      (Ajax, reported p. 121); Haldane's deep shelters at "£400
+      million over two years" (p. 110) against Griffin's "£1.5
+      billion, equivalent to the government's projected rearmament
+      costs for 1937–41" (p. 113); and the consequence, "Expansion
+      centred on fighters rather than bombers would have been much
+      cheaper, but there was little support for this in the mid-1930s"
+      (p. 252). (iii) The 1940 outcome is administrative before it is
+      aeronautical: "the Blitz, though ostensibly a military campaign,
+      was best defeated with better bureaucracy" (p. 238); the
+      regional commissioners, Willink and the Treasury's Sir Warren
+      Fisher, greeted as "Central control at last" (p. 239);
+      "Domesticating the war was key to victory on the home front"
+      (p. 242). (iv) NEGATIVE FINDINGS, verified zero in the sidecar:
+      Belloc appears nowhere in Holman — text, notes, bibliography or
+      index — so §VI's mirror cannot be joined at one source; and
+      there is nothing on shadow factories, so the "cost of the
+      instrument" limb of the tasking is answered only as above. The
+      nearest register-join is RAF "air control", "especially in Iraq
+      where it proved its ability to hold down a rebellion at far
+      lower cost in blood and treasure than could the Army" (p. 8) —
+      the state holding the instrument, which is the disanalogy, not
+      the parallel.
+
+    - **CONTRADICTS — and WHICH READING OF THE SYNDROME HOLMAN'S
+      EVIDENCE SUPPORTS.** Stated plainly: **Holman's evidence does NOT
+      support the reading that the interwar theorists neglected the
+      fiscal-administrative process.** Process was their argument.
+      Their theory of victory was a theory of the enemy's
+      administrative and infrastructural fragility — aircraft that
+      "strike directly at the nation itself … paralysing its nerve
+      centres" (Grahame-White and Harper, quoted p. 44) — and Holman
+      says this weighed more with them than morale (p. 53). Their
+      errors were empirical and specific: that air defence was
+      impossible (p. 43), falsified from Spain and China where "in
+      none of the new wars was the bombing of civilians in any way
+      decisive" and "bombers were highly vulnerable to defending
+      fighters" (p. 74); and that civilians would break, falsified by
+      "The surprising resilience of Spanish and Chinese civilians
+      under aerial bombardment" (p. 74). The reading his evidence DOES
+      support is the mirror-image one §VI already states: the weapon
+      was over-estimated, and what was omitted was THE DEFENDER'S
+      process — the state's capacity to warn, shelter, disperse,
+      repair and re-house — unthinkable to them because the war was
+      to be over in hours: roof-spotters "would have been easy to set
+      up before the war. But the need for it was never contemplated,
+      for the knock-out blow would have been too swift and the war too
+      short for anyone to worry about a few hours of lost production"
+      (p. 113), the theory having "shape[d] which responses were even
+      imaginable" (p. 113). §VI is therefore not corrected in
+      substance: it already segregates these men into "a different
+      lineage … in which the weapon was over- rather than
+      under-estimated", and Holman's evidence positively vindicates
+      that segregation. THE STANDING PROHIBITION this creates: no
+      sentence anywhere in the book may gather Talbot, Belloc's
+      captain and the bomber prophets into one syndrome; the
+      steelman and the grade are at critiques.md Revisions 12.
+      Nothing here reaches a spine ruling; §8(f)'s YES 3 (Talbot and
+      the Belloc syndrome, the Economist placement) is untouched,
+      Holman having no bearing on Talbot.
+
+    - **FLAGS.** No open §VI [GAP] is closed by Holman — not the
+      Castillon false-report movers, not the 1451 Bordeaux terms, not
+      the Talbot jubilee stipulation. Freedman's Tokyo 1941 exchange
+      remains PENDING VERIFICATION (Revisions 26) and is untouched by
+      this intake. RE-SOURCE OR CUT: none. CLOSABLE: the Holman
+      retrieval expectation itself (sources.md, this date).
+
+    **Register decisions proposed for the rulings sheet** (stated,
+    not recommended; to be appended after the Revisions 33 set at
+    STEP 4):
+    - **H14-a.** Whether §VI cites Holman 2014: 23 directly and drops
+      "whose genealogy Lawrence Freedman traces through Holman
+      (Freedman 2017: 55–57)", Freedman remaining the chapter's
+      carrier only for the Tokyo exchange.
+    - **H14-b.** Whether §VI restores Holman's hedge — "near-
+      orthodoxy" or "had almost become an orthodoxy" — in place of
+      the present unqualified "the interwar orthodoxy".
+    - **H14-c.** Whether §VI qualifies "the twentieth century's
+      prophets of the knock-out blow" to Britain, per Holman's scope,
+      or keeps the wider phrase and carries the scope in the note.
+    - **H14-d.** Whether §VI names the genealogy's authors
+      (Grahame-White and Harper 1916; Groves 1922; Baldwin 1932) or
+      keeps the lineage unnamed in the text, with the names in the
+      note; and whether the Douhet caution (p. 12) is stated anywhere,
+      since the standard account the reader brings is Douhet-first.
+    - **H14-e.** Whether §VI adds one clause carrying Holman's actual
+      diagnosis (interdependence and the nerve centres over morale,
+      p. 53), so that the mirror is not miscast as a pure morale
+      error — at the cost of a longer sentence in a paragraph the
+      voice ledger already counts as dense.
+    - **H14-f.** Whether the instrument-creates-the-institution pin
+      (Smuts → Air Ministry and RAF, pp. 232–33) enters ch06 §VI, is
+      reserved for ch12, or is used in both; and, with it, whether
+      the 1940 administrative resolution (pp. 238, 239, 242) is cited
+      at all in this chapter or left to ch12.
+    - **H14-g.** Whether the negative finding on Belloc is stated in
+      the chapter's apparatus — that the twentieth-century half of
+      §VI's mirror has no source in common with the Belloc half — or
+      recorded only in sources.md.
+
+STATUS: Revisions 34 PENDING HUMAN REVIEW; Revisions 29–33 PENDING
+HUMAN REVIEW; Revisions 1–28 as before.
