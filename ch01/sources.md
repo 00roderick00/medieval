@@ -760,3 +760,109 @@ Ertman; Cheung; McNeill; Bagehot; Crouch; Commynes; Chastellain.
   keyword should be selected, it is organisation rather than coercion or
   consensus." DATE: 2002; rival on chronology at ch10 (his story begins
   c. 1500), which is why only the medieval-baseline sentence is used here.
+
+## Added 2026-09-16 — intake (Gosztonyi & Gyetván, *Ethical Space*; MASTER ENTRY)
+
+*One article, read in full this date; every quotation opened at the sidecar
+before entry. Assessment: `research/assessments-2026-09-16/EthicalSpace-2025.md`.
+No draft text changed. This block closes the retrieval-master row for the
+article (listed there as "intake in a later batch"). A POINTER entry stands in
+ch02/sources.md this date; the full annotated entry is in appendix-a/memo.md's
+2026-09-16 Revisions block.*
+
+- **T3 — Gergely Gosztonyi and Dorina Gyetván, "The applicability of
+  neomedievalism, technofeudalism and sovereignty in contemporary internet
+  governance," *Ethical Space: International Journal of Communication Ethics*
+  vol. 22, nos 1/2 (the "Freedom of expression" issue), published online
+  18 April 2025, DOI 10.21428/0af3f4c0.7a5fc4d8, CC BY-NC-ND 4.0** — IN REPO
+  as `corpus/retrieved/ydgjxfcsysmb0e38tfzmfen4qqle6sh2.pdf` (rename
+  suggested); sidecar
+  `corpus/retrieved/source-library/text-2026-09-16/EthicalSpace-neomedievalism-internet-governance.txt`
+  (~6,900 words, clean). Authors: Gosztonyi, habil. associate professor, ELTE
+  Faculty of Law (ORCID 0000-0002-6551-1536); Gyetván, doctoral candidate,
+  same faculty (ORCID 0000-0001-5361-0011). Supported by the János Bolyai
+  Research Scholarship of the Hungarian Academy of Sciences (p. 15).
+
+  **TIER — T3, with the reason stated.** *Ethical Space* is a small
+  communication-ethics journal (Abramis, for the Institute of Communication
+  Ethics). The offprint carries a DOI, ORCIDs, a funding line and a
+  conflict-of-interest statement but **no peer-review statement, no
+  received/accepted dates and no editorial note**; peer review cannot be
+  established from the file, and CLAUDE.md §5 does not permit assuming it.
+  T3 accordingly. The grade is not load-bearing either way: the piece carries
+  no new evidence, no archive, no dataset and no primary instrument — every
+  fact in it is second-hand from works this book must cite direct (Bull,
+  Friedrichs, Wæver, Eco, Varoufakis, Yen, Goldsmith and Wu, the ECtHR
+  judgments, the Meta Oversight Board Charter). **NEVER sole support for any
+  claim; never support for a structural claim at all.**
+
+  **CITATION FORM — pagination caveat.** The file is a PubPub-generated
+  offprint (Chromium + Paged.js) paginated **1–16 by the offprint itself**;
+  the printed journal page range is **not stated anywhere on the file**. Pins
+  are *offprint* pages (p. 2 is the article's first text page). Establishing
+  the printed range is an open item before any page-level citation goes into
+  text.
+
+  **USE-NOTE: SYMPTOM, NOT SUPPORT.** Its value to this chapter is as a datum
+  about the literature's present state — in 2025 the neomedieval vocabulary is
+  circulating fast enough to fuse with Varoufakis's technofeudalism in a
+  law-faculty venue, while still carrying no mechanism, no fiscal variable and
+  no falsifiable prediction. Two further observations, both checkable and both
+  useful to §III: (i) it cites "(Bull 1977: 266)" (p. 3) for the neomedieval
+  diagnosis and never reports the refusal this chapter quotes from the same
+  chapter's close (Bull [1977] 2012: 265) — an INFERENCE pending an edition
+  check between the 1977 Macmillan and the 2012 reprint, not a finding;
+  (ii) it attaches "(Friedrichs 2001)" to a claim about cultural nostalgia —
+  "This cultural neomedievalism reflects a longing for the medieval past's
+  perceived simplicity, heroism and spirituality" (p. 4) — where this book
+  cites Friedrichs 2001 for a definition of the international order. **The
+  Friedrichs point is UNVERIFIED:** `corpus/retrieved/Friedrichs2001.pdf`
+  extracts only its SAGE cover sheet (body image-only), so no full-text check
+  was possible this date. Flagged as a check owed.
+
+  **PINS VERIFIED (offprint pages).** p. 2 — abstract: "Concepts of
+  technofeudalism and neomedievalism offer valuable frameworks for
+  understanding the complex and evolving challenges of internet governance and
+  regulation in the contemporary digital era"; opening line, "Medievalism now
+  infuses popular culture," with *Game of Thrones* viewing figures; Jensen
+  quoted, medieval "terms and concepts … are suitable for describing and
+  discussing a plethora of social and political phenomena." p. 3 — the Bull
+  cite, "the increasing resemblance of contemporary global politics to the
+  Middle Ages' fragmented and overlapping power structures, challenging the
+  Westphalian system of sovereign nation-states that has prevailed since the
+  17th century (Bull 1977: 266)"; Wæver 1996 for the transfer of power to
+  non-state actors. p. 4 — Gilpin quoted against the camp: "New medievalists
+  believe that the end of national sovereignty and the resulting diffusion of
+  power will enable selfless non-governmental organizations (NGOs) to solve
+  the world's pressing … problems" (Gilpin 2001: 379); Eco's warning that the
+  public "is not interested in medieval facts and historical background but,
+  instead, uses it as a kind of mythological stage for the characters of the
+  present." p. 5 — "The link between technofeudalism and neomedievalism also
+  lies in this shift of power dynamics from the state to private companies";
+  "In both technofeudalism and neomedievalism, the sovereignty of the state is
+  challenged." p. 6 — "Metaphors can be 'useful tools that facilitate
+  understanding and, therefore, have cognitive value'" (González 2024: 2).
+  p. 8 — the five volunteered disanalogies, opening "However, the metaphor is
+  not perfect. Firstly, the physically violent problem-solving that
+  characterises feudal systems is (fortunately) not typical of cyberspace."
+  p. 9 — the concession against its own frame: "State-controlled communication
+  is a sign of modernity and, besides the alarming effect, it also could be
+  described as a counter-trend to aspects of feudalisation." p. 10 — "it is
+  almost certain by now that the wish for a lawless cyberspace in that famous
+  manifesto was misplaced." p. 11 — the terminus: "Varoufakis and Yen warned
+  that, without intervention, this emerging technofeudalism would consolidate
+  into a new, immobile social order in which a small elite controls the digital
+  means of production"; the remedy, the "'platform governance triangle' (Gorwa
+  2024: 27) – governments, service providers and users."
+
+  **RETRIEVAL LEADS RAISED BY THIS ARTICLE** (not entered on any retrieval
+  list by this unit — `retrieval-master.md` is outside its permissions; raised
+  here for Roderick): Jakob Linaa Jensen, *The Medieval Internet* (Emerald,
+  2020); Alfred C. Yen, "Western frontier or feudal society?", *Berkeley
+  Technology Law Journal* 17:4 (2002), 1207–63, and "Revisiting the western
+  frontier," *IDEA* 60:1 (2020), 134–48; Evgeny Morozov, "Critique of
+  techno-feudal reason," *New Left Review* 133–134 (2022), 89–126 (for ch12's
+  Varoufakis objection); Alain Minc, *Le nouveau moyen âge* (Gallimard, 1993),
+  presently in this book only through Cerny's note on *zones grises*; Robert
+  Gilpin, *Global Political Economy* (2001), p. 379; Zoltán Kelemen's
+  neomedievalism pieces (2019, 2020, the EU as *regimen mixtum*).

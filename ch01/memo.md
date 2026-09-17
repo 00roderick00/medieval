@@ -842,3 +842,71 @@ recommended; continuing the sheet's lettering after (cc)):
 STATUS: PENDING HUMAN REVIEW (this entry); the entries of 2026-09-13 and
 the Phase 5 entry of 2026-09-16 PENDING as before; the memo body REVIEWED
 as before.
+
+## Revisions (2026-09-16 — intake: Gosztonyi & Gyetván, *Ethical Space* 2025, PENDING HUMAN REVIEW)
+
+- **(2026-09-16 — one article, read in full; the master sources entry is in
+  ch01/sources.md this date; assessment
+  `research/assessments-2026-09-16/EthicalSpace-2025.md`; annotated entry in
+  appendix-a/memo.md's 2026-09-16 Revisions block. No draft text changed.)**
+  Gergely Gosztonyi and Dorina Gyetván, "The applicability of neomedievalism,
+  technofeudalism and sovereignty in contemporary internet governance,"
+  *Ethical Space* 22:1/2 (2025), **T3** (peer review not establishable from the
+  file; and in any case a synthesis carrying no evidence of its own — never
+  sole support, never support for a structural claim). Pins are offprint pages;
+  the printed journal range is not on the file.
+
+  - **CONFIRMS.** Only at the level of register, and the chapter should lean on
+    nothing here. §IV's reading of Cerny's second characteristic — that the
+    territorialising pressure is returning — is corroborated from inside the
+    neomedieval camp by a 2025 article that reports the state's return in its
+    own splinternet section and concedes the direction: "State-controlled
+    communication is a sign of modernity and, besides the alarming effect, it
+    also could be described as a counter-trend to aspects of feudalisation"
+    (p. 9); and on cyber-libertarianism, "it is almost certain by now that the
+    wish for a lawless cyberspace in that famous manifesto was misplaced"
+    (p. 10). Spine §7's tense, reached from the other side and without a
+    mechanism to explain it.
+  - **CORRECTS.** Nothing in this memo or the draft. Two observations about
+    the article itself, both recorded in sources.md, both checkable, neither
+    entering text as a finding: its Bull citation ("Bull 1977: 266," p. 3)
+    falls in the pages where Bull declines the conclusion it is cited for
+    (INFERENCE, pending an edition check between the 1977 Macmillan and the
+    2012 reprint whose p. 265 §III quotes); and its bare "(Friedrichs 2001)"
+    is attached to a claim about cultural longing (p. 4) — **UNVERIFIED**,
+    since the corpus Friedrichs PDF extracts only its cover sheet.
+  - **ADDS (proposal only, no draft text).** §III or §V could carry one
+    sentence of *evidence about the literature*, which is a use this chapter
+    already makes of Khanna and Kaplan: that the vocabulary is live in 2025,
+    has fused with Varoufakis's technofeudalism, and is now being used by
+    lawyers as "an easily accessible explanation of internet sovereignty"
+    (p. 11) — accessibility being exactly what Holsinger and Rengger object
+    to. The article is also the cleanest available exhibit of the fairyland
+    charge's honest form: it declares itself a study of metaphors (p. 6), lists
+    five disanalogies unprompted (p. 8), quotes Eco's own warning about the
+    Middle Ages as "a kind of mythological stage for the characters of the
+    present" (p. 4) — and takes its Middle Ages from no medievalist, entering
+    the subject through *Game of Thrones* viewing figures (p. 2). If the
+    chapter wants a live instance of the target rather than a caricature, this
+    is it; if Roderick prefers to keep the fairyland answer architectural and
+    unpersonalised, the article stays in Appendix A and in a footnote here.
+  - **CONTRADICTS.** Its terminus, at full strength: "Varoufakis and Yen warned
+    that, without intervention, this emerging technofeudalism would consolidate
+    into a new, immobile social order in which a small elite controls the
+    digital means of production" (p. 11), with the only exit a multi-stakeholder
+    "'platform governance triangle'" (p. 11). That is a *stable* dispersal with
+    a technofeudal floor — CLAUDE.md §1 claim 1's error in its 2025 dress. The
+    chapter's answer needs no new material: the article has no variable for
+    capability, and its own disanalogy list brackets the one the book runs on
+    ("the physically violent problem-solving … is (fortunately) not typical of
+    cyberspace," p. 8). The objection is weak because it is asserted, not
+    argued — it rests on Varoufakis and Yen, neither tested in the piece — and
+    the book's engagement with the technofeudal thesis proper stays at ch12
+    critiques Revisions 4. No spine ruling and no DEFEND-tier claim is touched.
+  - **RETRIEVAL LEADS** raised by the article are listed in sources.md this
+    date (Jensen 2020; Yen 2002 and 2020; Morozov 2022; Minc 1993; Gilpin 2001
+    p. 379; Kelemen 2019/2020). `retrieval-master.md` is outside this unit's
+    permissions; the leads are raised for Roderick, not entered.
+
+STATUS: PENDING HUMAN REVIEW (this entry); earlier entries PENDING as before;
+the memo body REVIEWED as before.

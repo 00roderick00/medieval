@@ -1217,3 +1217,109 @@ RETRIEVAL row raised at draft §II.*
   after**, and **a national Valor total**. Wanted only if ch11 §II
   is to state either in text; the qualification recorded at memo Revisions 19
   can be carried without them.
+
+## Added 2026-09-16 — intake (J. R. Green, *A Short History of the English People*; the draft's quotation verified at the page)
+
+*Provenance-gap closure. `ch11/draft.md` §I quotes Green and **no sources.md in
+the repo carried an entry for him**; this block supplies it. Read this date:
+the title page and preliminaries, the Contents for chs. VI–VII, and ch. VI in
+full (§§2–3 closely). Every quotation opened at the sidecar before entry.
+Assessment: `research/assessments-2026-09-16/Green-1874.md`. No draft text
+changed. This closes the **Green half of RETRIEVAL LIST row 8** (the other
+names in that row — Pollard, Guenée, Koenigsberger, C. S. L. Davies, Elliott
+1992 — stand.)*
+
+- **T1 for the coinage / T3 (at best) and SUPERSEDED for the account — J. R.
+  Green, M.A., *A Short History of the English People* (London: Macmillan and
+  Co., 1875), "Seventeenth Thousand"; first published 1874** — IN REPO as
+  `corpus/retrieved/shorthistoryofen00gree_0.pdf`; sidecar
+  `corpus/retrieved/source-library/text-2026-09-16/Green-Short-History-1874.txt`
+  (~462,000 words; clean OCR with occasional letter-level slips — "VL]" for
+  "VI.]" in running heads, "ivork" for "work"). Internet Archive digitisation
+  (2014) of a copy bearing the bookplate "EX BIBLIOTHECA FRANCES A. YATES."
+
+  **CITATION FORM.** Cite as **Green 1874** (the date the draft and the
+  historiography use), stating that the **1875 seventeenth-thousand printing**
+  is the copy consulted, since page pins belong to the copy read and later
+  editions repaginate. **PRINTED-PAGE OFFSET, from the running heads** (verso:
+  "*N*  HISTORY OF THE ENGLISH PEOPLE.  [Chap."; recto: "VI.]  THE NEW
+  MONARCHY.  *N*"): for the arabic text, **printed p. N = PDF p. N + 60**,
+  derived at the quotation and spot-checked at three separated points (PDF 298
+  = printed 238; PDF 344 = printed 284; PDF 700 = printed 638). 915 PDF pages.
+
+  **TIER, in two parts, which must not be run together.** **T1 for the coinage
+  itself** — Green's text is the primary document of what Green wrote, and
+  where §I traces the genealogy of "the New Monarchy" the sentence at printed
+  p. 284 is the primary evidence and the only citation needed. **T3 at best as
+  an account of the fifteenth century** — a Victorian Whig narrative of 1874,
+  "serious trade and synthesis" under CLAUDE.md §5, and superseded. This
+  **corrects the wording at ch11/memo.md Addendum (2026-07-27)**, which records
+  the coinage as "quotable at T1 (public domain)": public-domain status is not
+  a tier, and the flat T1 would license Green's substance, which no entry may
+  do. **Green may never carry a claim about the fifteenth century in this
+  book.**
+
+  **THE STRUCTURE, PINNED.** Ch. **VI** is titled "THE NEW MONARCHY,
+  1422–1540" (Contents, printed p. xi), in six sections: 1. Joan of Arc,
+  1422–1451 (p. 265); 2. The Wars of the Roses, 1450–1471 (p. 275); **3. The
+  New Monarchy, 1471–1509 (p. 282)**; 4. The New Learning, 1509–1520 (p. 297);
+  5. Wolsey, 1515–1531 (p. 314); 6. Thomas Cromwell, 1530–1540 (p. 324). The
+  coinage is a chapter title and a periodisation, not an incidental phrase.
+
+  **THE DRAFT'S QUOTATION, VERIFIED — printed p. 284 / PDF p. 344, verbatim:**
+  "If we use the name of the New Monarchy to express the character of the
+  English sovereignty from the time of Edward the Fourth to the time of
+  Elizabeth, it is because the character of the Monarchy during this period was
+  something wholly new in our history." The draft's two quoted strings are
+  exact and its attribution to ch. VI is correct. (The phrase falls across a
+  line break in the sidecar at "from the time of Edward the Fourth to / the
+  time of Elizabeth" — recorded so a full-phrase grep's false negative is not
+  repeated.)
+
+  **OTHER PINS, for context and for the supersession.** Printed p. 283 / PDF
+  343 — "But with the close of the war of the Succession freedom suddenly
+  disappears. We enter on an epoch of constitutional retrogression in which the
+  slow work of the age that went before it is rapidly undone. Parliamentary
+  life is almost suspended… Arbitrary taxation re-appears in benevolences and
+  forced loans"; "Freedom had been won by the sword of the Baronage." Printed
+  pp. 283–4 / PDF 343–4 — "But with the battle of Towton feudalism vanished
+  away. The baronage lay a mere wreck after the storm of the civil war."
+  Printed p. 284 / PDF 344 — the Crown "towered into solitary greatness… in
+  its place we see, all-absorbing and unrestrained, the despotism of the New
+  Monarchy"; and, of interest to this book but **not citable as support**, the
+  causes: "The social organization from which our political constitution had
+  hitherto sprung and on which it still rested had been silently sapped by the
+  progress of industry, by the growth of spiritual and intellectual
+  enlightenment, and by changes in the art of war." It is a gesture, not a
+  mechanism — no artillery, no cost, no fisc, and the ruin is attributed in the
+  next clause to persecution, disfranchisement and "the slaughter of the
+  Baronage."
+
+  **SUPERSESSION, STATED.** Green's three load-bearing propositions are each
+  denied by scholarship already in this chapter's apparatus. (i) *Despotism* —
+  Lander: "To call such a monarchy strong is to mistake shadow for substance…
+  inherently it was a ramshackle structure … By continental standards it was
+  one of the shallow little backwaters of monarchy" (pp. 72–3). (ii) *The
+  baronage destroyed at Towton, the crown risen on its wreck* — Lander: "Edward
+  IV and Henry VII would have regarded as little more than simple-minded the
+  interpretation of history which saw them putting down the nobility and basing
+  their rule on the middle classes" (p. 67), with campaigning across the whole
+  wars "little more than 12 or 13 weeks in 32 years" (p. 62). (iii) *Arbitrary
+  taxation restored, Parliament suspended* — Lander, inverting the fiscal
+  record: both kings "were exceedingly circumspect in their demand for direct
+  taxation and raised in fact very little from it" (pp. 39–40); "The tax-paying
+  classes had tied the king's hands behind his back" (p. 54). On the
+  administrative side, Wolffe's continuity corrective — "even after ten years
+  of Tudor rule the scale of chamber activity was still smaller than it had
+  been at the end of the Yorkist period" (*EHR* 79 (1964), p. 237, pinned at
+  memo Revisions 1) — is continuity where Green saw revolution. At frame level
+  the qualification runs through **Elton**'s revision and its critics and
+  through **Gunn**, "Politic history, New Monarchy and state formation," *HR*
+  82 (2009), and **Grummitt**, *HR* 72 (1999) — **both held in this repo at
+  abstract level only**, named here as the frame's critics and not cited for
+  content.
+
+  **DRAFTING CAUTION.** Green's fifteenth century is a story of liberty
+  destroyed by the crown's rise. Borrowing his vocabulary beyond the coinage
+  would import a constitutional-decline thesis this book does not hold and that
+  Lander refutes. Use the sentence; leave the narrative.

@@ -717,3 +717,50 @@ recommended; to be appended after (cc) at STEP 4):
 
 STATUS: PENDING HUMAN REVIEW (this entry); the memo body REVIEWED
 as before.
+
+## Revisions (2026-09-16 — intake: Gosztonyi & Gyetván, *Ethical Space* 2025, PENDING HUMAN REVIEW)
+
+- **(2026-09-16 — one article, read in full; POINTER entry in ch02/sources.md
+  this date, MASTER entry in ch01/sources.md; assessment
+  `research/assessments-2026-09-16/EthicalSpace-2025.md`. No draft text
+  changed.)** Gosztonyi and Gyetván, *Ethical Space* 22:1/2 (2025), **T3**
+  (peer review not establishable from the file; a synthesis carrying no
+  evidence of its own). Pins are offprint pages.
+
+  - **CONFIRMS.** §I's ecclesial reading of the Oversight Board, in the legal
+    literature's own idiom: the Board's foundational documents "contain only
+    distant, high-level abstract objectives on human rights, without any
+    reference to specific international, national or regional legal
+    provisions," human-rights standards entering only "as a tertiary 'source of
+    law', following the guidelines and values of Meta and the precedent of
+    previous decisions" (p. 6, on Laurence and Land 2023: 2247, and Charter
+    § 2(2)). A tribunal that ranks its founder's doctrine above external law
+    and reasons from its own precedent is this chapter's canon-law claim.
+    **Cite Laurence and Land, and the Charter, direct if used; not the
+    article.** Also §III's "universal authority claiming jurisdiction over
+    subjects who are simultaneously subjects of territorial powers" — "much
+    like medieval subjects who owed allegiance to multiple lords and
+    institutions at the same time" (p. 5).
+  - **CORRECTS.** Nothing in this memo or the draft.
+  - **ADDS (proposal only, no draft text).** The comparative sentence the
+    Varoufakis intake note of 2026-09-13 proposed for §III now has a second
+    carrier and a better one, because it is legal rather than polemical: Yen's
+    two feudal characteristics — "firstly, the intertwining of private and
+    public power, resulting from the chain of feudal power; and, secondly, the
+    fragmentation of government" (p. 7, on Yen 2002: 1234) — with ICANN and
+    ISOC as "the modern-day equivalent of feudal monarchs," ISPs as "today's
+    landlords," and terms of service as the "'constitution'" (p. 7). The
+    manorial route reaches command-structure-not-market and stops there; the
+    ecclesial route reaches legislation, adjudication and expulsion, which is
+    what §III documents and what the fief cannot carry. If the sentence is
+    written, Yen 2002 should be retrieved and cited direct (lead raised in
+    ch01/sources.md this date).
+  - **CONTRADICTS.** Nothing in this chapter's claims. The article's stable-
+    dispersal terminus (p. 11) is answered at ch01 (memo Revisions this date)
+    and, in its serious form, at ch12 critiques Revisions 4.
+  - **NOTE ON SCOPE.** Nothing here reaches §§IV–VI: the article has no
+    medieval source, no Investiture Contest, no Schism, and no treatment of
+    the Chinese fusion or of the EU's instruments as canon.
+
+STATUS: PENDING HUMAN REVIEW (this entry); earlier entries PENDING as before;
+the memo body REVIEWED as before.

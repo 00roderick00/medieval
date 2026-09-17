@@ -481,3 +481,57 @@ whose block will hold the master entry.*
   entered):** Tilly 1975/1985 (1975 p. 638 is ch01/Appendix A's);
   Stasavage; Glete; Commynes tome III; Chastellain tome III;
   Bagehot; Crouch; Ertman.
+
+## Added 2026-09-16 — intake (Gosztonyi & Gyetván, *Ethical Space*; POINTER entry)
+
+*One article, read in full this date; every quotation opened at the sidecar
+before entry. Assessment: `research/assessments-2026-09-16/EthicalSpace-2025.md`.
+MASTER ENTRY (full bibliographic identity, tier reasoning, pagination caveat,
+use-note and retrieval leads): **ch01/sources.md, 2026-09-16**. The annotated
+literature entry is in appendix-a/memo.md's 2026-09-16 Revisions block. No
+draft text changed.*
+
+- **T3 — Gergely Gosztonyi and Dorina Gyetván, "The applicability of
+  neomedievalism, technofeudalism and sovereignty in contemporary internet
+  governance," *Ethical Space* 22:1/2 (2025), online 18 April 2025, DOI
+  10.21428/0af3f4c0.7a5fc4d8** — IN REPO
+  (`corpus/retrieved/ydgjxfcsysmb0e38tfzmfen4qqle6sh2.pdf`; sidecar
+  `text-2026-09-16/EthicalSpace-neomedievalism-internet-governance.txt`).
+  T3 because peer review cannot be established from the file (no peer-review
+  statement, no received/accepted dates) — see the master entry. Pins are
+  **offprint** pages 1–16; the printed journal page range is not stated on the
+  file.
+
+  **WHAT IT SUPPLIES THIS CHAPTER — corroboration of register only, never
+  support.** (i) §I and §III, the Oversight Board as a canon-law tribunal: the
+  Board's foundational documents "contain only distant, high-level abstract
+  objectives on human rights, without any reference to specific international,
+  national or regional legal provisions," and human-rights standards, absent
+  from the initial draft Charter, entered only "as a tertiary 'source of law',
+  following the guidelines and values of Meta and the precedent of previous
+  decisions" (p. 6, on Laurence and Land 2023: 2247, and Oversight Board
+  Charter § 2(2)) — a tribunal ranking its founder's doctrine above external
+  law and reasoning from its own precedent, which is this chapter's claim in a
+  lawyer's idiom. **CITE LAURENCE AND LAND, AND THE CHARTER, DIRECT if this is
+  ever used in text; the article is the pointer, not the authority.** (ii) §II
+  and §III, the rival vocabulary's route to the same place: Yen's two feudal
+  characteristics, "firstly, the intertwining of private and public power,
+  resulting from the chain of feudal power; and, secondly, the fragmentation of
+  government" (p. 7, on Yen 2002: 1234), with ICANN and ISOC as "the modern-day
+  equivalent of feudal monarchs," ISPs as "today's landlords," and terms of
+  service as the "'constitution'" (p. 7) — the manorial route to
+  command-structure-not-market that this chapter's memo (Revisions,
+  2026-09-13, Varoufakis) already contrasts with the ecclesial route. The
+  contrast holds and is sharpened here: fiefs extract and gatekeep; what this
+  vocabulary cannot carry is the legislating, adjudicating, excommunicating
+  apparatus §III documents. (iii) §III's disanalogy paragraph, corroborated
+  from inside the rival frame: the article volunteers that "the physically
+  violent problem-solving that characterises feudal systems is (fortunately)
+  not typical of cyberspace" (p. 8) — the metaphor's own users note that force
+  is missing and treat it as a comfort; this book treats the same absence as
+  the reason the vocabulary predicts nothing.
+
+  **NOT SUPPLIED HERE:** the article has nothing on the Investiture Contest,
+  Avignon, the Schism, the Chinese fusion, the EU's instruments as canon, or
+  any medieval source; its Middle Ages is undifferentiated "feudalism" with no
+  medievalist cited. Nothing in §§IV–VI takes anything from it.

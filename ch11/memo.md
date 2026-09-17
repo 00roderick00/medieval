@@ -1806,3 +1806,70 @@ STATUS: REVIEWED (Roderick, 2026-07-31 — read in full, nothing to add; no revi
       (Author's Note, sc. 1075), and under CLAUDE.md §3 must not be used as
       independent corroboration of the Elton frame in the ch11/ch12
       Elton-revision passages.
+
+20. **(2026-09-16 — J. R. Green, *A Short History of the English People*, read
+    for ch. VI; the draft's quotation verified and the provenance gap CLOSED.
+    PENDING HUMAN REVIEW.)** Intake unit of this date. Assessment:
+    `research/assessments-2026-09-16/Green-1874.md`; full graded entry, edition,
+    offset rule and supersession in sources.md this date. No draft text changed.
+
+    - **THE GAP.** `ch11/draft.md` §I quotes Green — the coinage "the New
+      Monarchy" and the character of "the English sovereignty from the time of
+      Edward the Fourth to the time of Elizabeth" (Green 1874, ch. VI) — and
+      **no sources.md in the repo carried an entry for Green**. The work was in
+      corpus (`shorthistoryofen00gree_0.pdf`) and the coinage had been located
+      at the Addendum of 2026-07-27, but a located quotation with no graded
+      entry is an open provenance link under CLAUDE.md §4. It is now closed.
+
+    - **VERIFICATION — ACCURATE, AT THE PAGE.** Green, **printed p. 284 / PDF
+      p. 344**, verbatim from the sidecar: "If we use the name of the New
+      Monarchy to express the character of the English sovereignty from the time
+      of Edward the Fourth to the time of Elizabeth, it is because the character
+      of the Monarchy during this period was something wholly new in our
+      history." The draft's two quoted strings are exact, word for word, and
+      correctly framed — Green is *using* the name, and the draft says so.
+      **The attribution "ch. VI" is RIGHT:** the sentence stands in ch. VI, "The
+      New Monarchy, 1422–1540," §3, "The New Monarchy, 1471–1509," which begins
+      at printed p. 282. **PROVENANCE GAP CLOSED.** Available to the renovation
+      pass if wanted: "ch. VI" could become "ch. VI §3, p. 284."
+
+    - **EDITION AND OFFSET, for anyone re-opening it.** The copy in corpus is
+      the **1875 "Seventeenth Thousand" Macmillan printing** of the work first
+      published in 1874; cite *Green 1874* with the printing stated. Running
+      heads give **printed p. N = PDF p. N + 60** for the arabic text, checked
+      at three separated points. The full-phrase grep fails because the
+      quotation falls across a line break in the sidecar at "from the time of
+      Edward the Fourth to / the time of Elizabeth."
+
+    - **CORRECTS THIS MEMO.** The Addendum of 2026-07-27 records the coinage as
+      "quotable at T1 (public domain)". Public-domain status is not a tier, and
+      the flat T1 would license Green's *substance*. The entry splits it:
+      **T1 for the coinage** (Green's text is the primary document of what Green
+      wrote, which is all §I needs) and **T3 at best, and superseded, for the
+      account** of the fifteenth century — a Victorian Whig narrative of 1874.
+      Green may never carry a claim about the fifteenth century in this book.
+
+    - **SUPERSESSION, ON THE RECORD.** Green's despotism (printed p. 284, "the
+      despotism of the New Monarchy"), his baronage destroyed at Towton ("The
+      baronage lay a mere wreck after the storm of the civil war," pp. 283–4)
+      and his restored arbitrary taxation (p. 283) are each denied by Lander
+      (pp. 72–3, 67, 62, 39–40, 54, pinned at
+      `research/assessments-2026-09-13/2026-09-13b-Lander.md`) and, on the
+      administrative side, by Wolffe's continuity corrective (*EHR* 79 (1964),
+      p. 237, this memo's Revisions 1). Gunn 2009 and Grummitt 1999 carry the
+      frame-level qualification and are held **at abstract level only** — named,
+      not cited for content. §I's existing declaration that the "New
+      Monarchies" are contested historiography is correct as drafted and now
+      has its apparatus.
+
+    - **ONE THING GREEN SAYS THAT THE BOOK SHOULD KNOW AND NOT USE.** At the
+      same page he names among the causes of the old order's collapse "changes
+      in the art of war" (printed p. 284). It is a gesture, not a mechanism —
+      no artillery, no cost, no fisc, and in the next clause the ruin is laid to
+      persecution, disfranchisement and "the slaughter of the Baronage." The
+      coinage's author reached for the art of war and stopped; recorded as a
+      historiographical fact for §I if Roderick wants it, and **not** as support
+      for the mechanism, which no T3 Victorian narrative may carry.
+
+STATUS: PENDING HUMAN REVIEW (this entry); earlier entries PENDING as before;
+the memo body REVIEWED as before.
