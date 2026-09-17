@@ -1112,5 +1112,71 @@ below.
     Beaufort, York, George III, Lord North (the last two at the Bagehot
     entry's pins).
 
-STATUS: Revisions 11 PENDING HUMAN REVIEW (Phase 5 renovation, Part B1,
-2026-09-16). Draft changed this run — see ch09/draft.md Revisions 2.
+12. **(2026-09-16 — Chastellain, *Œuvres* tome VII (*Œuvres diverses*),
+    read; intake. PENDING HUMAN REVIEW.)** Entered from the ch10 intake
+    unit of this date; assessment at
+    `research/assessments-2026-09-16/Chastellain-t7.md`; pins at
+    sources.md, 16 September block. Offset printed = PDF − 24. No
+    draft.md text changed.
+    - **CONFIRMS: nothing.** The chapter cites no Chastellain and this
+      volume touches no English fact. NEGATIVE FINDING, stated so the
+      question is closed: the tome contains nothing on Henry VI, the
+      protectorates, the minority council, the 1453 collapse or any
+      incapacity; the Burgundian lacuna of July 1453–August 1454
+      recorded at ch05 is not repaired here.
+    - **CORRECTS: nothing.** No date, name or sequence in §§I–IX is
+      contradicted.
+    - **ADDS — a continental vernacular for the two-bodies distinction,
+      at T1, which §III and §VI at present carry only in English.** Four
+      lines, in ascending order of value. (i) The tyrant with the title
+      and not the office: "Un tyran tel fois possède et règne au dur et à
+      l'ennuy d'autrui; mais sy n'a-t-il titre pour tant, fors de régner,
+      et que l'on dit de luy: un tel est roy … Porter nom de prince tant
+      seulement, c'est povre titre … Mais porter nom de prince
+      *princiant* est un haut titre" (p. 312). (ii) The incapable
+      prince as half a man: "prince ignorant est de grant grief au
+      peuple, et, que pis est, à luy-mesme en âme et en corps, est comme
+      un homme despect et imparfait, **demy-homme, demy-riens**" (p.
+      318). (iii) The separation flat: "l'effet demeure toudis et de
+      l'effet procède le titre. **Quant l'homme fault, jamais titre ne
+      fault pour tant**" (p. 329) — PENDING VERIFICATION of whether
+      *fault* is *fails* or *dies*; the words are certain, the sense is
+      to be settled before use. (iv) The office as a commission to be
+      accounted for: "Tu trouveras à compter là-haut, comme tu auras usé
+      de ta recepte en sa commission çà-bas" (p. 332), and, to Louis XI
+      and Charles together, "Vostre sempiternité n'est pas droit-cy, mais
+      elle est bien ailleurs, là où de tout vous faulra respondre" (*Le
+      Livre de Paix*, p. 396). With them, for §I or §IX if wanted, the
+      pole-star figure of 1461 — the French throne as "le pôle immobile
+      et celuy en qui tout tourne", whose failure brings down "toute la
+      machine chrestienne" (*Entrée du roy Loys*, pp. 30–31) — and, for
+      the counsel strand, the Roboam typology at p. 295 and the
+      flatterer's mouth at p. 309.
+    - **THE DISANALOGY THAT MUST TRAVEL WITH IT (CLAUDE.md §6).** These
+      are a paid writer's admonitions to a healthy adult prince, not an
+      instrument drafted to govern round an insensible king. The chapter's
+      English material is constitutional engineering under load; this is
+      vocabulary. The comparison licensed is narrow and is itself the
+      finding: the Burgundians had a language in which the title
+      outlives the man and never built machinery to act on it — which is
+      why Burgundy is ch10 §VI's counter-case and not this chapter's.
+      If §VI takes the material, it takes the disanalogy in the same
+      paragraph.
+    - **CONTRADICTS: nothing** in the chapter or in spine §8.
+
+    **Register decisions proposed for the rulings sheet** (stated, not
+    recommended; lettering assigned when the sheet is next compiled):
+    - **C7-g.** §III or §VI gains one sentence of continental comparison
+      from Chastellain at T1 — "Quant l'homme fault, jamais titre ne
+      fault pour tant" (p. 329) and/or "demy-homme, demy-riens" (p. 318)
+      — with the disanalogy stated in the same paragraph; or the chapter
+      declines it and stays English throughout, which is defensible and
+      is Roderick's call.
+    - **C7-h.** If the material enters, the sense of *fault* at p. 329 is
+      settled against the page image first; the line is not printed on
+      the OCR alone.
+
+STATUS: Revisions 12 PENDING HUMAN REVIEW (intake, 2026-09-16); Revisions
+11 PENDING HUMAN REVIEW (Phase 5 renovation, Part B1,
+2026-09-16). Draft changed at Revisions 11 — see ch09/draft.md Revisions
+2; unchanged by this intake.

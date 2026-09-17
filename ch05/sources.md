@@ -558,3 +558,81 @@ memo.md Revisions 10 onward and to critiques.md.
   an undisputed superiority over his rivals" (p. 18 by OCR footer /
   PDF 59, `text-2026-09-13/Inalcik.txt`; page number to be verified
   against the image). CLOSABLE AT RENOVATION.
+
+
+## Added 2026-09-16 — intake (Chastellain, *Œuvres* tome VII, *Œuvres diverses*)
+
+*One volume, one intake unit, entered from the ch10 intake of this date.
+Every quotation below was opened in the sidecar and matched to the printed
+page in the running head. Assessment at
+`research/assessments-2026-09-16/Chastellain-t7.md` — the map, never the
+authority. Nothing applied to draft.md; the chapter entry is at memo.md
+Revisions 20.*
+
+- **T1 (the pieces) / T2 (Kervyn's 1865 apparatus) — Georges Chastellain,
+  *Œuvres*, ed. Kervyn de Lettenhove, TOME VII: *Œuvres diverses*
+  (Académie royale de Belgique; Brussels, F. Heussner, 1865)** — IN REPO
+  (`corpus/retrieved/Chastellain-Oeuvres-t7-Lettenhove.pdf`; sidecar
+  `text-2026-09-16/Chastellain-t7-Lettenhove.txt`). **OFFSET: printed =
+  PDF − 24, constant**; Kervyn's *Notice* in roman, pp. v–xx. Body text
+  good, running heads often misread; page images before press; every
+  translation [TRANS. CLAUDE] at use. Occasional prose and verse of
+  1461–c. 1470, not chronicle: the ducal *indiciaire*'s commissioned
+  advocacy (Kervyn, p. ix; "orateur de Monseigneur le duc Philippe de
+  Bourgongne", p. 145), the *Advertissement* carried to Charles the Bold
+  by the author's own servant in July 1467 "qui valut au messager soixante
+  sous pour son vin" (p. xvi). The partisan caveat at the tome III entry
+  extends here and hardens.
+
+  FOR THIS CHAPTER:
+  (a) **§VI — the magnate as a creation of the crown, in the house's own
+  words.** The *Advertissement*'s rehearsal of the Burgundian descent:
+  Philip the Bold, "fils du roy Jehan de France", who "gouvernoit seul ce
+  royaume dessoubs son frère, et portoit le thrône de France, dont il
+  estoit pillier, sus ses espaules" (pp. 290–291; Kervyn's note, "Philippe
+  le Hardi était le quatrième et le plus jeune fils du roi Jean", p. 290
+  n.). The draft's "creations of royal grant in the 1360s, endowed before
+  anyone knew the king's mind would fail" is not sourced from here — the
+  T1 value is that the fourth generation's own writer tells the fourth
+  duke the house *was* the French throne's pillar, which is the draft's
+  sequence stated by a hostile-to-France partisan.
+  (b) **§VI — what magnate capability consisted in, before the fisc.**
+  "Prince qui est bien aimé de ses nobles, ne peut succomber. Il est riche
+  de précieuse chair et a de sang à commandement, comme d'eau en mer …
+  Ton père avoit cœurs, foies et poumons; il avoit les vies et les
+  substances de ses subjets, et leur estoit son aspect abandonnement à la
+  mort" (p. 310) — a prince well loved by his nobles cannot fall; he is
+  rich in precious flesh and has blood at command as water in the sea;
+  your father had hearts, livers and lungs, he had the lives and the
+  substance of his subjects [TRANS. CLAUDE]. The pre-fiscal definition of
+  power as other men's bodies — the thing the artillery state replaces.
+  (c) **§VI/§VII — the lands' privileges as a standing limit on the
+  prince.** The allegorical dame *Pesanteur de tes pays*: "Elle est grande
+  en considération de leur ancien tout viel ploy et usage, dont ne se
+  souffreroient frustrer, ne rompre. Elle est grande en considération de
+  leurs richesses et grandes puissances, de leurs usages et privilèges, et
+  de leurs lois lesquelles veullent avoir observées" (p. 306); and, of the
+  Low Countries, "les mieux et les plus hautement gouvernés de hauts
+  princes, et les plus tenus en franchise et en grant police, qui fussent
+  en la terre" (p. 307). Against it at T2, Kervyn on Charles's
+  joyous-accession demand at Valenciennes, March 1468 — "une somme de cent
+  mille livres tournois 'qu'envis luy accordèrent'" (p. xv, citing tome V
+  p. 375, not in repo: carried as Kervyn's).
+  (d) **§V/§VI — the duke as guardian of a royal house, 1461.** *L'entrée
+  du roy Loys en nouveau règne* figures Paris as Bethlehem, France as
+  Mary, the new king as the child and "ce bon duc de Bourgongne" as
+  Joseph, the royal house held "en la garde de toute humble
+  administration" (pp. 6–7), with the realm's "trois membres et estats"
+  gathered there (p. 7). Kervyn notes from the Florence manuscript that
+  Chastellain soon acknowledged "que le fruit n'en ensievy point comme il
+  eust espéré" (p. vi).
+  (e) **§VII — one fiscal line, and only one.** Of the France Charles V
+  inherited: "le royaume espuisé en finance jusques à faire monnoye de
+  cuir" (p. 326).
+
+  **NEGATIVE FINDINGS.** Full-text search: *artillerie* — no occurrence;
+  *bombarde* — none; *taille* — two, both in a ballade Kervyn does not
+  attribute to Chastellain (p. 210); *finance* — two (pp. 203, 326). The
+  volume contains nothing on Henry VI, the English protectorates, Charles
+  VI's incapacity or the minority councils, and does not repair the
+  chronicle lacuna of July 1453–August 1454 recorded in memo Revisions 10.

@@ -3072,7 +3072,228 @@ STATUS: REVIEWED (Roderick, 2026-07-23) — cleared for drafting
       at the page before press, the Cazelles line having failed.
       **Roderick's.**
 
-STATUS: Revisions 45 PENDING HUMAN REVIEW; Revisions 42–44 PENDING
+46. **(2026-09-16 — Chastellain, *Œuvres* tome VII (*Œuvres diverses*),
+    read; intake. PENDING HUMAN REVIEW.)** One volume, one intake unit.
+    File `corpus/retrieved/Chastellain-Oeuvres-t7-Lettenhove.pdf`;
+    sidecar `text-2026-09-16/Chastellain-t7-Lettenhove.txt`; **printed =
+    PDF − 24, constant**, verified at ten running heads and against the
+    *Table des matières* (PDF 511 / printed 487); Kervyn's *Notice* in
+    roman, pp. v–xx. Read in full: the *Notice*; *Le Lyon rampant* and
+    the four answering ballades (pp. 207–212); *Advertissement au duc
+    Charles* (pp. 285–333); *Souhaits au duc Charles* (pp. 335–340);
+    *Le Prince* with Meschinot's reply (pp. 457–486); substantially, *La
+    Mort du duc Philippe* (pp. 237–280) and the *Rhythmes* (pp.
+    281–284); by openings, closings and term search, the *Déclaration*,
+    the *Entrée du roy Loys*, the *Livre de Paix*, *La Paix de Péronne*,
+    the *Recollection* and the *Louenge*. NOT read: the *Déprécation*
+    and *Épitaphe* for Pierre de Brezé, *Le Temple de Bocace*, *Les
+    douze Dames de rhétorique*. Assessment at
+    `research/assessments-2026-09-16/Chastellain-t7.md` — the map, never
+    the authority. Pins at sources.md this date. No draft.md text
+    changed.
+
+    **The [PIN PENDING] closed.** The spider ballade the draft cites at
+    §V is **Chastellain, *Le Lyon rampant*, Kervyn tome VII, printed pp.
+    207–208 (PDF 231–232)**; Kervyn's editorial note explaining the
+    figure and its currency is at **printed p. 208** (PDF 232, running
+    to p. 209), with his summary of the piece in the *Notice* at
+    **printed p. xiv**. The verse line is at **p. 207**: "Lyon fameux,
+    tryacle contre araigne" — famous lion, treacle against the spider
+    [TRANS. CLAUDE]. The second line the parent located, "Ay combattu
+    l'universel araigne", is at **p. 209** and is, on Kervyn's own
+    ruling, **not Chastellain's**: he prints the following ballades "en
+    faisant remarquer que, selon nous, la première des ballades
+    suivantes lui a été injustement attribuée, tandis qu'il faut la
+    restituer à Molinet, comme le porte le Ms. 12490 (208) de la Bibl.
+    imp. de Paris" (p. 208 n.). Kervyn's tome V is no longer needed for
+    this pin; ch10/sources.md RETRIEVAL row 20 is marked closed.
+
+    - **CONFIRMS.** (a) The draft's *structure* at §V is right and is
+      now pinned at T1: the image is Chastellain's and it was
+      generalised by Molinet — that is precisely what Kervyn's note
+      says, "elle passa des vers de Chastellain, qui ont été insérés
+      plus haut, dans d'autres compositions historiques ou poétiques"
+      (p. 208 n.). (b) The draft's reading of the epithet as the losing
+      side's is the edition's reading too: the figure was adopted by
+      "les poètes de la cour du duc Charles" to set against their own
+      lion (p. 208 n.). (c) *Ballade* survives as the description — it
+      is Kervyn's own word at p. 208 n., and the form is a three-stanza
+      ballade with envoi and the refrain "Second Hector et derrein
+      Alexandre"; the *Notice* calls it "ces strophes" (p. xiv).
+
+    - **CORRECTS.** The CURRENT draft wording, §V (draft.md l. 468):
+      "The image of the king as spider — weaving, patient, venomous at
+      the centre of a web of paid threads — is Burgundian propaganda:
+      **Chastelain's image, in a ballade of 1467, generalised by Molinet
+      as 'l'universelle aragne,' the universal spider.**" Four
+      corrections, none applied:
+      (i) **Spelling** — "Chastelain" → "Chastellain" throughout
+      (CLAUDE.md §8 names rule; standing decision 10-i).
+      (ii) **"of 1467" is not the edition's and may not be stated as
+      if it were.** Kervyn nowhere dates *Le Lyon rampant*. His only
+      date in the note — "Plus tard, en 1467 et en 1468, quand
+      Dammartin … y essuya une défaite" (p. 208 n.) — attaches by the
+      words *plus tard* to the imitations, and so places Chastellain's
+      ballade *earlier* than 1467–68. 1467 is nevertheless a sound
+      inference from the volume's own contents: the ballade laments a
+      dead lion ("Mort immortel"; "Et corps absent et présent en
+      mémoire"; "Lyon transy"; "Estre un corps mort en splendeur
+      reluisant"; the envoi's "En paradis te plaise l'ame prendre"),
+      and the volume's vocabulary makes the dead lion Philip the
+      Good — the very next piece is headed "PHILIPPE DE BOURGONGNE,
+      CELUY QUI SE NOMME LE GRAND DUC ET LE GRAND LYON" (p. 213); the
+      *Advertissement* opens on "l'auguste duc Philippe, le grant lyon,
+      le grant duc de Bourgongne" (p. 285); the *Rhythmes* carry the
+      chronogram "Léo MagnVs oCCIdentIs ConCVssVs est" (p. 283) and the
+      death — "En mille quatre cents soixante sept années / Furent ses
+      grans vertus par la mort terminées. / Soixante-onze ans vesquit
+      le chief des créatures" (p. 283). **If the date does not hold as
+      stated, the draft should say instead:** "Chastellain's image, in a
+      ballade on the death of Philip the Good" — the fact the edition
+      supports without a dating claim — or, keeping the year, "in a
+      ballade that laments the dead Philip the Good and so belongs to
+      1467, though its editor does not date it". Either is honest; the
+      present form is not.
+      (iii) **Chastellain's spider is not "universal".** His words are
+      "tryacle contre araigne" (p. 207). "L'universel araigne" is at p.
+      209, in the ballade Kervyn restores to Molinet. The draft's
+      sentence should quote Chastellain's line where it names
+      Chastellain, and pin Molinet's separately.
+      (iv) **The spelling "l'universelle aragne" does not occur in this
+      tome.** Full-text search: *aragne*, no hit; *araigne* at pp. xiv,
+      207, 208, 209 only. Either pin the draft's form to its own Molinet
+      edition, or print this tome's "l'universel araigne" (p. 209).
+      Also, and separately: "**the losing side's description of the
+      fiscal state's operator**" is not what the apparatus says. Kervyn's
+      spider designates "le monarque qui étendait ses intrigues sur
+      toute l'Europe" — intrigue, treacherous webs, concealed venom
+      (p. 208 n.), and the answering ballades are a heraldic quarrel
+      about lion, winged stag and who is whose servant (pp. 210–212).
+      The fiscal charge is in this volume but in other pieces; re-base
+      it on those (below) rather than on the epithet.
+
+    - **ADDS (§V — the fiscal charge, at T1, in the same author's
+      hand).** *Le Prince*, twenty-five stanzas, pp. 457–462, Kervyn's
+      note: "Il est à peu près inutile d'apprendre au lecteur que ce
+      prince est Louis XI" (p. 457 n.), dated by him "vers 1470" (p.
+      xx). "Prince aimant mieux argent et grosses sommes / Que le franc
+      cœur et l'amour de ses hommes … S'il pert et peuple et terre et
+      baronnage, / Quant luy propre est la cause du dommage / Et qu'ainsi
+      veult, de quoy fait-il à plaindre?" (p. 458). "Prince qui tout
+      enfonse et escrutine / Et tout applique à privée rapine / En quoy
+      cent mille ont en façon de vivre, / Que vault celuy pour royaume
+      ou empire, / Dont nul n'amende, ains chascun en empire, / Fors que
+      tout tourne en son sac marc et livre?" (p. 461) — a prince who
+      sounds out and scrutinises everything and applies it all to private
+      rapine … and everything goes into his sack by mark and by pound
+      [TRANS. CLAUDE]. With, from the *Recollection des merveilles* in
+      its continuation to 1466, the two acts the Burgundian remembered:
+      the princes' pensions withdrawn — "Oster de son francq chois / Sa
+      droite pension / Aux princes de son sang" (p. 202) — and the
+      pledged towns bought back for cash — "Grant finance et grant plue,
+      / Comme infinis argens, / Dont ses lieux engagiés / Luy furent tous
+      rendus" (p. 203). One sentence in §V at most; the rest in notes.
+      CAVEAT: the reply printed after *Le Prince* (pp. 463–486) is
+      Meschinot's and is aimed at Charles the Bold — never quoted as
+      Chastellain.
+
+    - **ADDS (§VI — "one life long" gets the century's own figure).**
+      *La Mort du duc Philippe*, self-dated five months after the death
+      ("Or ont esté sept fois dix ans / Nos yeux en luy s'esjoyssans …
+      Mais puis cinq mois l'avons perdu", p. 242; Kervyn's November
+      1467, p. xiv), figures the dead duke as a glass phial hung from
+      heaven by a thread: "Or estoit ce vaissel de voirre / Pendant au
+      ciel, ce me sembloit, / A un fillet qui le saingloit. / Par quoy
+      appris que la fracture / En pendoit fort en adventure; / Car
+      quoyque riche fust et bel, / Sy estoit-il matériel / Et se pouvoit
+      rompre et desfaire / Par le seul fillet luy fourtraire" (p. 240);
+      then "Que le filet a pris escoeil / Et est couppé tout au travers"
+      (p. 242). The chapter's own phrase has a contemporary image, made
+      by the polity's paid servant, eight and a half years before Nancy.
+      **Voice discipline:** §VI already carries the draft's vivid image
+      ration; if the phial enters the text the standing image goes, or
+      the phial stays in the notes. Roderick's.
+
+    - **ADDS (§VI — the privileges the fisc had not overcome).** The
+      *Advertissement*'s dame *Pesanteur de tes pays*: "Elle est grande
+      en considération de leur ancien tout viel ploy et usage, dont ne
+      se souffreroient frustrer, ne rompre. Elle est grande en
+      considération de leurs richesses et grandes puissances, de leurs
+      usages et privilèges, et de leurs lois lesquelles veullent avoir
+      observées" (p. 306). The duke's own writer, in 1467, telling the
+      new duke that his provinces' liberties cannot be broken — the
+      Franche-Comté sentence of tome III (p. 13) restated as doctrine
+      rather than as an incident. Against it at T2, Kervyn on the
+      Valenciennes joyous-accession demand of March 1468 — "une somme de
+      cent mille livres tournois 'qu'envis luy accordèrent'" (p. xv,
+      citing tome V p. 375, which is not in repo: carried as Kervyn's).
+
+    - **CONTRADICTS (§VI, the two-variable finding).** The same witness
+      lays the mortal-node charge against France. On Louis XI's
+      accession: "au tour d'une main et en l'instant, par changement et
+      mutation de roy, mutation aussi s'y trouva subite, et tout retourné
+      au contraire … et d'anciennes salutaires coustumes fit
+      abolissement volontaire" — in the turn of a hand and in an
+      instant, by the change and mutation of a king, a sudden mutation
+      was found there too, and everything turned to its contrary; and of
+      ancient wholesome customs he made a wilful abolition [TRANS.
+      CLAUDE] (p. 326, in the variant Kervyn prints from Ms. 8349
+      beneath the text). If a kingdom with standing companies and a
+      permanent taille also "turned to its contrary" at one man's death,
+      "one life long" discriminates less than §VI wants. Steelmanned,
+      with the chapter's answer and an honest grade, at
+      ch10/critiques.md Revisions 21.
+
+    - **NEGATIVE FINDINGS, entered so that no chapter looks here again.**
+      Full-text search of the volume: *artillerie* — no occurrence;
+      *bombarde* — none; *canon* — four, all canon-law (pp. 83, 90);
+      *taille* — two, both in the Gilles des Ormes ballade at p. 210,
+      which is not Chastellain's; *aide* — four, none fiscal-technical;
+      *finance* — two (pp. 203, 326). War in these pieces is never a
+      budget; it is a wound in the *povre peuple*. The tome gives ch10
+      no ordnance and no fiscal-institutional evidence whatever.
+
+    - **PARTISAN CAVEAT, extending the 14 September note.** These are
+      not chronicle but the *indiciaire*'s commissioned advocacy
+      (Kervyn, p. ix; "orateur de Monseigneur le duc Philippe", p. 145),
+      carried to the duke by the author's own servant for sixty sous of
+      wine in July 1467 (p. xvi). Kervyn's claim that Chastellain kept
+      "le privilège de faire entendre la vérité aux princes et aux
+      grands" (pp. v–vi) is his editor's advocacy, not a finding, and
+      travels with his name — as does every attribution and
+      disattribution in his notes.
+
+    **Register decisions proposed for the rulings sheet** (stated, not
+    recommended; the sheet's consolidated lettering is assigned when the
+    sheet is next compiled):
+    - **C7-a.** §V's spider sentence is re-pinned to Chastellain, *Le
+      Lyon rampant*, Kervyn t. VII pp. 207–208, with Kervyn's note at p.
+      208 carried as T2 and the Molinet line pinned at p. 209 as
+      Kervyn's attribution, not the book's.
+    - **C7-b.** "a ballade of 1467" is replaced by a formulation the
+      edition supports — "a ballade on the death of Philip the Good" —
+      or the year is retained with the inference declared in a note.
+      The spelling goes to "Chastellain" either way (standing 10-i).
+    - **C7-c.** §V quotes Chastellain's own line, "tryacle contre
+      araigne", where it names Chastellain, and prints "l'universel
+      araigne" (p. 209) for Molinet, or drops the Molinet half until its
+      own edition is pinned; "l'universelle aragne" is not printed
+      unsourced.
+    - **C7-d.** §V's "the losing side's description of the fiscal
+      state's operator" is either softened to what the apparatus
+      supports (intrigue, venom, broken faith) or kept and carried by
+      *Le Prince* p. 461 and the *Recollection* pp. 202–203 in the same
+      sentence's note.
+    - **C7-e.** §VI carries the glass phial on its thread (p. 240) as
+      the T1 image behind "one life long" — in the text, at the cost of
+      the section's standing image, or in the notes.
+    - **C7-f.** §VI carries *Pesanteur de tes pays* (p. 306) as the
+      doctrinal form of the Franche-Comté finding, and answers the
+      France-also-turned-over objection (p. 326) in one sentence — the
+      polity against the policy — or declines both and says why.
+
+STATUS: Revisions 46 PENDING HUMAN REVIEW; Revisions 45 PENDING HUMAN
+REVIEW; Revisions 42–44 PENDING
 HUMAN REVIEW; Revisions 31–41 PENDING HUMAN REVIEW; Revisions 1–30 as
 before.
 

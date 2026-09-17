@@ -787,5 +787,82 @@ STATUS: REVIEWED (Roderick, 2026-07-22) — cleared for drafting
   idealised. Carriers: Chastellain t. III pp. 178, 200, 216–17, 226,
   417, 422–23.
 
-STATUS: Revisions 10–19 PENDING HUMAN REVIEW (catch-up run STEP 3,
+20. **(2026-09-16 — Chastellain, *Œuvres* tome VII (*Œuvres diverses*),
+    read; intake. PENDING HUMAN REVIEW.)** Entered from the ch10 intake
+    unit of this date; assessment at
+    `research/assessments-2026-09-16/Chastellain-t7.md` (the map, not the
+    authority); pins at sources.md, 16 September block. Offset printed =
+    PDF − 24. Draft unchanged.
+    - **CONFIRMS.** §VI's sequence — the ducal houses as "creations of
+      royal grant in the 1360s, endowed before anyone knew the king's
+      mind would fail" — is not contradicted and gains a T1 witness from
+      inside the house: the *Advertissement* tells the fourth duke that
+      his great-grandfather was "fils du roy Jehan de France" and
+      "gouvernoit seul ce royaume dessoubs son frère, et portoit le
+      thrône de France, dont il estoit pillier, sus ses espaules" (pp.
+      290–291). The chapter's point is that the capability was lawfully
+      endowed inside a functioning order; Burgundy's own writer says so
+      as a boast.
+    - **ADDS (§VI — what the over-mighty subject's capability actually
+      was).** "Prince qui est bien aimé de ses nobles, ne peut
+      succomber. Il est riche de précieuse chair et a de sang à
+      commandement, comme d'eau en mer … Ton père avoit cœurs, foies et
+      poumons; il avoit les vies et les substances de ses subjets" (p.
+      310) — a prince well loved by his nobles cannot fall; he is rich
+      in precious flesh and has blood at command as water in the sea;
+      your father had hearts, livers and lungs, he had the lives and the
+      substance of his subjects [TRANS. CLAUDE], 1467. The chapter
+      argues that the remedy which works is the one that changes what
+      the centre can afford that its subjects cannot; this is the
+      century's own statement of the thing being replaced — power
+      denominated in other men's bodies, not in a budget line. One
+      sentence in §VI or a footnote to the McFarlane paragraph.
+    - **ADDS (§VI/§VII — the privileges the crown had not overcome).**
+      *Pesanteur de tes pays*: the lands' weight lies in "leur ancien
+      tout viel ploy et usage, dont ne se souffreroient frustrer, ne
+      rompre … leurs usages et privilèges, et de leurs lois lesquelles
+      veullent avoir observées" (p. 306). Doctrine where tome III gave
+      an incident (the Franche-Comté nobles, p. 13). It belongs with
+      §VII's calibration: the polities that recovered did so against
+      this, not in its absence.
+    - **ADDS (§V/§VI — colour, footnote level).** *L'entrée du roy Loys
+      en nouveau règne* (1461) makes Paris Bethlehem, France Mary, the
+      new king the child and the duke of Burgundy Joseph, keeping the
+      royal house "en la garde de toute humble administration" (pp.
+      6–7); Kervyn records from the Florence manuscript that Chastellain
+      soon granted "que le fruit n'en ensievy point comme il eust
+      espéré" (p. vi). A great magnate's self-presentation as the
+      custodian of a royal house, offered by the magnate's own writer —
+      and withdrawn within six years.
+    - **CORRECTS: nothing.** No date, name or sequence in the chapter is
+      contradicted.
+    - **CONTRADICTS: nothing** in the chapter. (The one contradiction
+      the volume carries — that France, too, "turned to its contrary" at
+      the 1461 succession, p. 326 — bears on ch10 §VI's two-variable
+      finding and is entered there, at ch10/critiques.md Revisions 21.)
+    - **NEGATIVE FINDINGS.** No *artillerie*, no *bombarde*; *taille*
+      only in a ballade Kervyn does not attribute to Chastellain (p.
+      210); *finance* twice (pp. 203, 326), of which one is usable — of
+      the France Charles V inherited, "le royaume espuisé en finance
+      jusques à faire monnoye de cuir" (p. 326). Nothing on Henry VI,
+      the protectorates or Charles VI's incapacity; the July
+      1453–August 1454 lacuna recorded at Revisions 10 is not repaired.
+
+    **Register decisions proposed for the rulings sheet** (stated, not
+    recommended; lettering assigned when the sheet is next compiled):
+    - **C7-i.** §VI gains one sentence at T1 on what magnate capability
+      consisted in before the fisc — Chastellain, t. VII p. 310 — placed
+      at the McFarlane paragraph, with the Burgundian partisanship
+      declared in the same clause; or it is a footnote.
+    - **C7-j.** §VI's "creations of royal grant in the 1360s" carries
+      the house's own boast (pp. 290–291) at footnote level, since the
+      claim is the chapter's and the witness is the interested party.
+    - **C7-k.** §VII's calibration paragraph acknowledges, in a note,
+      that the recovering polities recovered against standing provincial
+      privilege and not in its absence — *Pesanteur de tes pays*, p.
+      306, beside the Franche-Comté sentence already held at tome III
+      p. 13.
+
+STATUS: Revisions 20 PENDING HUMAN REVIEW (intake, 2026-09-16);
+Revisions 10–19 PENDING HUMAN REVIEW (catch-up run STEP 3,
 2026-09-16). Draft unchanged.

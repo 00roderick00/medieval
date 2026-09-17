@@ -603,3 +603,94 @@ above are unchanged.*
   quotation is OUT of the draft as of this run, replaced by Griffiths
   p. 22's verified account; restore at the sentence in §IV paragraph 1
   when the Vickers/rolls pin is confirmed.
+
+
+## Added 2026-09-16 — intake (Chastellain, *Œuvres* tome VII, *Œuvres diverses*)
+
+*One volume, one intake unit. Every quotation below was opened in the
+sidecar this date and matched to the printed page carried in the running
+head. Assessment at `research/assessments-2026-09-16/Chastellain-t7.md` —
+the map, never the authority. Nothing applied to draft.md; the chapter
+entry is at memo.md Revisions 12. Personal-names rule: **Chastellain**.*
+
+- **T1 (the pieces) / T2 (Kervyn's 1865 apparatus) — Georges Chastellain,
+  *Œuvres*, ed. Kervyn de Lettenhove, TOME VII: *Œuvres diverses*
+  (Académie royale de Belgique; Brussels, F. Heussner, 1865)** — IN REPO
+  (`corpus/retrieved/Chastellain-Oeuvres-t7-Lettenhove.pdf`; sidecar
+  `text-2026-09-16/Chastellain-t7-Lettenhove.txt`). **OFFSET: printed =
+  PDF − 24, constant**; Kervyn's *Notice* in roman, pp. v–xx = PDF 9–24.
+  Text layer good in the body, running heads often misread; page images to
+  be checked before press; every translation [TRANS. CLAUDE] at use. This
+  is not chronicle but the duke of Burgundy's *indiciaire* writing to and
+  at his master — commissioned advocacy; the partisan caveat at the tome
+  III entry above extends here and hardens.
+
+  FOR THIS CHAPTER — **a continental vernacular of the person against the
+  office, 1467–c. 1470, offered as the comparator §III and §VI lack.** All
+  from the *Advertissement au duc Charles* (pp. 285–333), the long mirror
+  for princes Kervyn dates to July 1467 by a household payment (p. xvi),
+  unless stated:
+  - the title without the office — "Un tyran tel fois possède et règne au
+    dur et à l'ennuy d'autrui; mais sy n'a-t-il titre pour tant, fors de
+    régner, et que l'on dit de luy: un tel est roy … Porter nom de prince
+    tant seulement, c'est povre titre … Mais porter nom de prince
+    *princiant* est un haut titre" (p. 312);
+  - the incapable prince — "prince ignorant est de grant grief au peuple,
+    et, que pis est, à luy-mesme en âme et en corps, est comme un homme
+    despect et imparfait, **demy-homme, demy-riens**" (p. 318);
+  - the separation stated flat — "l'effet demeure toudis et de l'effet
+    procède le titre. **Quant l'homme fault, jamais titre ne fault pour
+    tant.** Et aprième, quant l'homme est failly, là se trouve sa famé"
+    (p. 329). PENDING VERIFICATION: *fault* reads as *fails* or as
+    *dies*; the words are certain, the sense is to be settled against the
+    page image and a dictionary before use;
+  - the office as a commission to be accounted for — "Par cy-devant ils
+    ont gouverné les hommes, et maintenant ils en sont au compte rendre …
+    Tu trouveras à compter là-haut, comme tu auras usé de ta recepte en sa
+    commission çà-bas" (p. 332); and, to king and duke together, *Le Livre
+    de Paix* — "Vostre sempiternité n'est pas droit-cy, mais elle est bien
+    ailleurs, là où de tout vous faulra respondre, et là où une fois vous
+    venrez constraints" (p. 396), the charge discharged "à l'exigent de
+    vostre commission et de la charge que vous en avez" (p. 395);
+  - the mortality of the natural body put to a reigning prince — "Reste
+    tout le plus fort à ce derrain: c'est que tu congnoisses que tu es
+    mortel homme et mourras comme ton père" (p. 332); and, of the living
+    duke, "C'est pité quant il est mortel" (*La Paix de Péronne*, p. 451);
+  - the single point of failure, from the *Entrée du roy Loys en nouveau
+    règne* of 1461 — "Le chief aussy du firmament chrestien, c'est le
+    royal thrône françois, et dont le roy qui est le pôle immobile et
+    celuy en qui tout tourne, et de qui tout dépend et meut ce qui est de
+    bien, d'estable et de salut … Par quoy au contraire, si la faute y
+    eschiet et desrèglement … certes alors et le thrône et ce qui est
+    dedens, pôle et estoiles, tout chiet et tombe, et fait rompre et
+    cheoir à l'envers toute la machine chrestienne" (pp. 30–31);
+  - counsel, and the prince who will not be counselled — the Roboam
+    typology: "Geste peur n'acompagna mie le roy Roboam au décès de son
+    père Salomon, mais tost et follement la déchassa en arrière de luy, et
+    abandonnant le conseil des vieux et des sages preud'hommes, déclina au
+    conseil des joveneurs à sa dure meschance; car héritier du thrône sur
+    douze lignées pour les pouvoir régir, prestement en perdit les dix par
+    son outrage" (p. 295); its positive form, "que tu y pourvoyes par sens
+    et par obéyr au conseil des sages preud'hommes et expers de eage … et
+    que tu ne mettes pas ton cœur en mains de légière sorte, ne ton secret
+    en bouche de flatteur" (p. 309); and the vice named in *Le Prince* —
+    "Prince qui hayt remoustrance et doctrine, / Plus est venu
+    d'excellente origine, / Tant plus lui tourne à grant grief et
+    esclandre" (p. 461; Kervyn's note, "ce prince est Louis XI", p. 457
+    n.; dated by him "vers 1470", p. xx).
+
+  **DISANALOGY TO CARRY IF ANY OF THIS ENTERS THE TEXT.** None of it is
+  constitutional drafting. The English lords of 1454 were writing an
+  instrument that had to work — "nought the name of Tutour, Lieutenaunt,
+  Governour, nor of Regent" — under a king who could not speak. Chastellain
+  is a paid writer telling a healthy adult prince to be good. The
+  comparison is of vocabulary, not of institutions, and must be stated as
+  such: the Burgundians had the *language* of an office distinguishable
+  from its holder and never built the machinery to act on it, which is
+  precisely why Burgundy is ch10 §VI's counter-case and not ch09's.
+
+  **NEGATIVE FINDING.** Nothing in this volume touches Henry VI, the
+  protectorates, the minority council or an incapacity of any kind; the
+  chronicle lacuna recorded at ch05 (July 1453–August 1454) is not
+  repaired here. The tome supplies vocabulary and a comparator, no
+  English fact.

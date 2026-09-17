@@ -1180,14 +1180,171 @@ recorded once, here, and each entry says where its author stands.*
   496 — ch11 §VII's, one clause here at most). NEGATIVE FINDING,
   verified by full-text search (aragne / araigne / araignée: no hit):
   the 1467 spider ballade the draft cites at §V is NOT in tome III —
-  [PIN PENDING — Kervyn tome to identify; the poetic works or the 1467
-  fragments, tomes V–VIII, none in corpus]; the draft's "Chastelain"
+  **[PIN PENDING CLOSED 2026-09-16: the ballade is *Le Lyon rampant*,
+  Kervyn tome VII, printed pp. 207–208; see the tome VII entry
+  immediately below]**; the draft's "Chastelain"
   to be regularised to "Chastellain" (CLAUDE.md §8 names rule). TIER:
   T1 for the chronicle as contemporary witness and for the documents
   it transcribes; Kervyn's 1863 apparatus T2; the chronicler's frame
   (Burgundian grievance, providence) flagged wherever a transcription
   serves the argument. The July 1453–August 1454 lacuna is recorded at
   ch06 memo Revisions 31.
+
+- **T1 (the poems and prose pieces) / T2 (Kervyn's 1865 apparatus) —
+  Georges Chastellain, *Œuvres*, ed. Kervyn de Lettenhove, TOME VII:
+  *Œuvres diverses* (Académie royale de Belgique; Brussels, F.
+  Heussner, 1865)** — IN REPO
+  (`corpus/retrieved/Chastellain-Oeuvres-t7-Lettenhove.pdf`, 517 PDF
+  pages; sidecar
+  `corpus/retrieved/source-library/text-2026-09-16/Chastellain-t7-Lettenhove.txt`).
+  **OFFSET: printed = PDF − 24, constant** (verified at ten running
+  heads and against the *Table des matières*, PDF 511 / printed 487).
+  Kervyn's *Notice* is in roman, pp. v–xx = PDF 9–24. Text layer good
+  in the body, running heads often misread (177 as "477", 327 as "527",
+  427 as "-427"); every quotation below opened at the sidecar this
+  date; page images to be checked before press; every translation
+  [TRANS. CLAUDE] at use. Assessment:
+  `research/assessments-2026-09-16/Chastellain-t7.md` (the map, never
+  the authority).
+
+  **§V — THE [PIN PENDING] ANSWERED (ch10 memo Revisions 36; ch11
+  sources RETRIEVAL row 20).** The spider is in *Le Lyon rampant*,
+  printed **pp. 207–208** (PDF 231–232), Kervyn's text "d'après les
+  Mss. 1717 et 12788 de la Bibl. imp. de Paris" (p. 207 n.).
+  - **THE VERSE — printed p. 207** (PDF 231), first stanza: "Lyon
+    rampant en crouppe de montaigne, / Mort immortel en honneur
+    triumphant, / **Lyon fameux, tryacle contre araigne**, / Trempé en
+    fer, vertueux et vaillant" (sidecar OCR "montaigue"; restored).
+    Refrain of all three stanzas and the envoi: "Second Hector et
+    derrein Alexandre". Envoi (p. 208): "En paradis te plaise l'ame
+    prendre / Dont le corps fut par œuvre péremtoire".
+  - **KERVYN'S NOTE — printed p. 208** (PDF 232, running to p. 209),
+    T2: "Cette ballade, comme toutes celles de Chastellain, eut un
+    grand retentissement, et le premier vers, inspiré par les insignes
+    héraldiques de la maison de Bourgogne, devint un refrain populaire
+    … Ils adoptèrent en même temps, pour désigner le monarque qui
+    étendait ses intrigues sur toute l'Europe, la figure de l'araignée
+    aux toiles perfides, au venin dissimulé, et elle passa des vers de
+    Chastellain, qui ont été insérés plus haut, dans d'autres
+    compositions historiques ou poétiques. Plus tard, en 1467 et en
+    1468, quand Dammartin, envoyé avec une petite armée en Champagne,
+    y essuya une défaite … le vers de la ballade politique devint de
+    plus en plus acéré." Kervyn's *Notice* summary, printed **p. xiv**:
+    "Le Lyon rampant. Ces strophes auraient peu fixé l'attention, si
+    l'on n'y rencontrait une énergique allusion à l'araignée qui
+    distillait son venin pour perdre le noble lion."
+  - **"L'UNIVERSEL ARAIGNE" — printed p. 209** (PDF 233), and NOT
+    Chastellain's on the edition's own ruling: Kervyn introduces the
+    following pieces "en faisant remarquer que, selon nous, la première
+    des ballades suivantes lui a été injustement attribuée, tandis
+    qu'il faut la restituer à Molinet, comme le porte le Ms. 12490
+    (208) de la Bibl. imp. de Paris" (p. 208 n.). The line:
+    "Accompagné de mes petits lyons, / **Ay combattu l'universel
+    araigne** / Qui m'a trouvé par ses rébellions / Lyon rampant en
+    crouppe de montaigne" (p. 209). Its lion is alive and victorious
+    "en la Champaigne" and threatens the Liégeois (pp. 209–210) — i.e.
+    Charles the Bold. Three answering ballades follow (Gilles des
+    Ormes; "le petit Darc, de Rouen"; anonymous), pp. 210–212, all
+    setting the *cerf volant* against the lion. **The spelling the
+    draft prints, "l'universelle aragne", does not occur in this tome**
+    (full-text search: *aragne*, no hit; *araigne* at pp. xiv, 207,
+    208, 209 only) — pin it to its own Molinet edition or replace it
+    with this one.
+  - **FORM AND DATE.** *Ballade* is Kervyn's own word (p. 208 n.) and
+    the form is a three-stanza ballade with envoi and refrain — but the
+    *Notice* calls it "ces strophes" (p. xiv). **Kervyn nowhere dates
+    the piece.** His only date, "Plus tard, en 1467 et en 1468",
+    attaches by *plus tard* to the imitations and so places
+    Chastellain's earlier. 1467 is INFERENCE from the volume's own
+    contents: the lion is dead ("Mort immortel"; "corps absent"; "Lyon
+    transy"; "un corps mort en splendeur reluisant"), and the volume's
+    vocabulary makes the dead lion Philip the Good — "PHILIPPE DE
+    BOURGONGNE, CELUY QUI SE NOMME LE GRAND DUC ET LE GRAND LYON" (p.
+    213, the next piece); "l'auguste duc Philippe, le grant lyon, le
+    grant duc de Bourgongne" (p. 285); the chronogram "Léo MagnVs
+    oCCIdentIs ConCVssVs est" (p. 283) — who died 15 June 1467, aged
+    seventy-one ("En mille quatre cents soixante sept années / Furent
+    ses grans vertus par la mort terminées. / Soixante-onze ans vesquit
+    le chief des créatures", p. 283). Carried as inference or the date
+    goes; the register decision is at memo Revisions 46, C7-b.
+
+  **§V — THE FISCAL CHARGE AGAINST LOUIS XI, T1** (re-basing the
+  draft's "the fiscal state's operator", which Kervyn's gloss does not
+  support — his spider is "le monarque qui étendait ses intrigues sur
+  toute l'Europe"). *Le Prince*, pp. 457–462, twenty-five stanzas each
+  opening on the word; Kervyn's note, "Il est à peu près inutile
+  d'apprendre au lecteur que ce prince est Louis XI" (p. 457 n.),
+  dated by him "vers 1470" (p. xx). "Prince aimant mieux argent et
+  grosses sommes / Que le franc cœur et l'amour de ses hommes … S'il
+  pert et peuple et terre et baronnage, / Quant luy propre est la cause
+  du dommage / Et qu'ainsi veult, de quoy fait-il à plaindre?" (p.
+  458); "Prince qui tout enfonse et escrutine / Et tout applique à
+  privée rapine / En quoy cent mille ont en façon de vivre, / Que vault
+  celuy pour royaume ou empire, / Dont nul n'amende, ains chascun en
+  empire, / Fors que tout tourne en son sac marc et livre?" (p. 461);
+  "Prince qui hayt remoustrance et doctrine" (p. 461). CAVEAT: the
+  reply printed after it (pp. 463–486) is Meschinot's, directed against
+  Charles the Bold, and is not Chastellain — quote it, if at all, as
+  Meschinot's. *Recollection des merveilles*, in the continuation to
+  1466: the princes' pensions withdrawn — "Puis vis le roy franchois, /
+  Ne sçay pour quel raison, / Oster de son francq chois / Sa droite
+  pension / Aux princes de son sang" (p. 202); the pledged towns bought
+  back — "Puis sçus qu'il eut d'un duc, / Par moyen d'autres gens, /
+  Grant finance et grant plue, / Comme infinis argens, / Dont ses lieux
+  engagiés / Luy furent tous rendus" (p. 203).
+
+  **§VI — THE MORTAL NODE, T1.** *La Mort du duc Philippe, mystère par
+  manière de lamentation* (pp. 237–280), self-dated five months after
+  the death — "Or ont esté sept fois dix ans / Nos yeux en luy
+  s'esjoyssans … Mais puis cinq mois l'avons perdu" (p. 242), matching
+  Kervyn's November 1467 (p. xiv). THE IMAGE: "Or estoit ce vaissel de
+  voirre / Pendant au ciel, ce me sembloit, / A un fillet qui le
+  saingloit. / Par quoy appris que la fracture / En pendoit fort en
+  adventure; / Car quoyque riche fust et bel, / Sy estoit-il matériel /
+  Et se pouvoit rompre et desfaire / Par le seul fillet luy fourtraire"
+  (p. 240); "Que le filet a pris escoeil / Et est couppé tout au
+  travers" (p. 242). With it: "Reste tout le plus fort à ce derrain:
+  c'est que tu congnoisses que tu es mortel homme et mourras comme ton
+  père" (*Advertissement*, p. 332); "C'est pité quant il est mortel"
+  (*La Paix de Péronne*, p. 451). **§VI — THE UNBROKEN PRIVILEGES:**
+  the allegorical dame *Pesanteur de tes pays* — "Elle est grande en
+  considération de leur ancien tout viel ploy et usage, dont ne se
+  souffreroient frustrer, ne rompre. Elle est grande en considération
+  de leurs richesses et grandes puissances, de leurs usages et
+  privilèges, et de leurs lois lesquelles veullent avoir observées"
+  (p. 306). Against it at T2, Kervyn on Charles's joyous-accession
+  demand at Valenciennes, March 1468 — "une somme de cent mille livres
+  tournois 'qu'envis luy accordèrent'" (p. xv, citing tome V p. 375).
+
+  **CONTRADICTS, entered for §VI** (memo Revisions 46; critiques
+  Revisions 21): the same witness lays the mortal-node charge against
+  France — "au tour d'une main et en l'instant, par changement et
+  mutation de roy, mutation aussi s'y trouva subite, et tout retourné
+  au contraire … et d'anciennes salutaires coustumes fit abolissement
+  volontaire" (p. 326, in the variant Kervyn prints from Ms. 8349
+  beneath the text).
+
+  **NEGATIVE FINDINGS, full-text search of the volume, entered so that
+  no chapter looks here again:** *artillerie* — no occurrence;
+  *bombarde* — none; *canon* — four, all canon-law (pp. 83, 90);
+  *taille* — two, both in the Gilles des Ormes ballade at p. 210, which
+  is not Chastellain's; *aide* — four, none fiscal-technical; *finance*
+  — two (pp. 203, 326). This tome supplies ch10 no ordnance and no
+  fiscal-institutional evidence at all.
+
+  **PARTISAN CAVEAT, extending the 14 September note and sharpening
+  it.** These are not chronicle. They are the *indiciaire*'s
+  commissioned advocacy — Kervyn's word at p. ix; "messire George,
+  orateur de Monseigneur le duc Philippe de Bourgongne" at p. 145 — and
+  the *Advertissement* was carried to the duke by the author's own
+  servant, Jean Chenebaut, in July 1467, "qui valut au messager
+  soixante sous pour son vin" (p. xvi, T2, from the accounts Kervyn
+  cites). Kervyn's own framing — that Chastellain kept "le privilège de
+  faire entendre la vérité aux princes et aux grands" and never mixed
+  with flatterers (pp. v–vi) — is his editor's advocacy and travels
+  with his name, never as a finding. Where Kervyn attributes or
+  disattributes (p. 208 n.), the attribution is his and must be
+  credited to him.
 
 - **T1 — Philippe de Commynes, *Mémoires*, ed. Joseph Calmette with G.
   Durville, tome III: 1484–1498 (Paris: Champion, 1925; Classiques de
@@ -1450,7 +1607,12 @@ recorded once, here, and each entry says where its author stands.*
   **Édouard Perroy, "L'artillerie royale à la bataille de Montlhéry",
   *Revue historique* CXLIX (1925): 187–89.** 20. **Kervyn de
   Lettenhove, Chastellain *Œuvres* tomes V–VIII** — for the 1467
-  spider ballade only. Row 3 (Wolfe) is now LOAD-BEARING on two flags
+  spider ballade only. **[CLOSED 2026-09-16 — tome VII is in repo and
+  read; the ballade is *Le Lyon rampant*, pp. 207–208, with Kervyn's
+  note at p. 208; full entry at the Chastellain tome VII block above.
+  Tomes V, VI and VIII remain UNRETRIEVED but nothing in ch10 now
+  depends on them; tome V p. 375 and p. 439 are cited by Kervyn's
+  apparatus here at second hand only.]** Row 3 (Wolfe) is now LOAD-BEARING on two flags
   and one register decision (venality). Row 9 (Brewer) unchanged —
   Glete extends the term, Brewer coined it; both must be at page before
   §III's vocabulary paragraph is renovated.

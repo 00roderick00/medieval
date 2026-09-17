@@ -1517,10 +1517,84 @@ list; steelmen provisional; do not caricature.
     the date is Louis XI's. Register decision at memo Revisions 45,
     P43-d.
 
-STATUS: Revisions 20 PENDING HUMAN REVIEW; Revisions 18–19 PENDING
+21. **(2026-09-16 — intake: Chastellain, *Œuvres* tome VII read; two
+    objections from the Burgundian's own occasional works. PENDING
+    HUMAN REVIEW.)**
+
+    **Objection 10 — the spider is a badge, not a balance sheet
+    (minor, and it disciplines one sentence).** §V calls the epithet
+    "not a neutral epithet but the losing side's description of the
+    fiscal state's operator". The edition that prints it does not say
+    that. Kervyn's note explains the figure as one the poets of duke
+    Charles's court adopted "pour désigner le monarque qui étendait ses
+    intrigues sur toute l'Europe, la figure de l'araignée aux toiles
+    perfides, au venin dissimulé" (t. VII p. 208 n.) — intrigue,
+    treacherous webs and concealed venom; and the four ballades printed
+    around it are a heraldic quarrel between the lion of Flanders, the
+    *cerf volant* and the spider, arguing about who is the servant and
+    who the lord — "Que serf pervers sur son seigneur domine" (p. 211).
+    **Steelmanned:** a reader who follows the citation finds a poets'
+    war of badges, not a diagnosis of the fisc, and concludes that the
+    chapter has recruited a dynastic insult to do evidentiary work it
+    was never doing.
+
+    **The chapter's answer, and it is good — but only if the sentence
+    is re-based.** The fiscal charge against Louis XI *is* in the same
+    volume, in the same hand, and harder than the epithet: *Le Prince*,
+    which Kervyn's note identifies as aimed at Louis XI (p. 457 n.),
+    has "Prince aimant mieux argent et grosses sommes / Que le franc
+    cœur et l'amour de ses hommes" (p. 458) and "Prince qui tout
+    enfonse et escrutine / Et tout applique à privée rapine … Fors que
+    tout tourne en son sac marc et livre?" (p. 461); and the
+    *Recollection des merveilles* records the two acts that mattered to
+    a Burgundian — the princes' pensions withdrawn (p. 202) and the
+    pledged towns bought back for cash (p. 203). Carry the spider as
+    the epithet it is, and carry the exchequer from these pins in the
+    same sentence's note. *Cost:* §V may not rest the fiscal reading on
+    the name alone. Register decisions at memo Revisions 46, C7-c and
+    C7-d.
+
+    **Objection 11 — the mortal node cuts both ways (moderate; it
+    touches §VI's two-variable finding).** The *Advertissement* tells
+    Charles what happened to France when its king died: "au tour d'une
+    main et en l'instant, par changement et mutation de roy, mutation
+    aussi s'y trouva subite, et tout retourné au contraire … et
+    d'anciennes salutaires coustumes fit abolissement volontaire" (t.
+    VII p. 326, in the variant Kervyn prints from Ms. 8349). **Steelmanned:**
+    §VI's finding is that Burgundy failed because it "routed everything
+    through a single mortal node", and the contrast is with a France
+    whose apparatus was institutional rather than biographical. Here is
+    a well-informed contemporary saying that France, too, turned over
+    completely at one man's death in 1461 — the settlement of Arras
+    repudiated, the old servants dismissed, the customs abolished. If a
+    kingdom with standing companies and a permanent taille was as
+    life-dependent as a duchy, the variable does no discriminating work,
+    and §VI's conclusion rests on hindsight about which polity happened
+    to survive.
+
+    **The chapter's answer, and it is good.** The distinction is
+    between the polity and the policy, and the chapter already has the
+    evidence for it. What changed at the 1461 succession was personnel
+    and direction — and Chastellain, a partisan of exactly the men
+    dismissed, felt it as the end of the world. What did not change was
+    the *ordonnance* companies, the taille, the two account series of
+    the artillery running unbroken from 1418, and the quarterly rule:
+    §III and §IV's evidence, none of it interrupted by the succession,
+    and all of it still there when Louis XI died in 1483. What changed
+    in Burgundy at Nancy was not the direction of policy but the
+    existence of the state. The objection is worth answering in the
+    text rather than in a note, because a hostile contemporary crying
+    that everything had turned to its contrary — and being
+    demonstrably wrong about the machinery — is the ratchet's best
+    witness. *Cost:* one sentence in §VI, and the concession that the
+    discriminating variable is the apparatus's survival, not the
+    ruler's. Register decision at memo Revisions 46, C7-f.
+
+STATUS: Revisions 21 PENDING HUMAN REVIEW; Revisions 20 PENDING HUMAN
+REVIEW; Revisions 18–19 PENDING
 HUMAN REVIEW; Revisions 9–17 PENDING HUMAN REVIEW; Revisions 1–8 as
 before. The register decisions these entries imply are listed at
 ch10/memo.md Revisions 41 (10-a to 10-l), Revisions 44 (T75-a to T75-d,
-B73-a to B73-c, M60-a to M60-e) and Revisions 45 (P43-a to P43-h),
-stated not recommended.
+B73-a to B73-c, M60-a to M60-e), Revisions 45 (P43-a to P43-h) and
+Revisions 46 (C7-a to C7-f), stated not recommended.
 
