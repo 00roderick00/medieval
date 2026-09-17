@@ -1871,5 +1871,61 @@ STATUS: REVIEWED (Roderick, 2026-07-31 — read in full, nothing to add; no revi
       historiographical fact for §I if Roderick wants it, and **not** as support
       for the mechanism, which no T3 Victorian narrative may carry.
 
+21. **(2026-09-16 — Commynes, *Mémoires*, Calmette tomes I–II, read;
+    intake. PENDING HUMAN REVIEW.)** Master entry and offsets at
+    ch10/sources.md's 2026-09-16 Calmette block; assessment at
+    `research/assessments-2026-09-16/Commynes-Calmette-t1-t2.md`; this
+    chapter's first Commynes entry is now at sources.md.
+
+    **CITATION AUDIT: this chapter cites no Commynes passage. Nothing to
+    verify; nothing corrected.**
+
+    **CONFIRMS — §VII's central claim, from the French side, at T1.**
+    §VII holds that "the settlement's instruments did not take the
+    barons' wealth; they took five discretions", and carries the claim
+    on Fortescue's programme, Lander's Bergavenny and Lane's Colleoni —
+    all English or Venetian. Commynes supplies the French counterpart
+    and it is the plainest of the four. II, 289: Charles VII "gaigna ce
+    point que de imposer tailles en son pays et à son plaisir, sans
+    consentement des Estatz de son royaume … **Et à ceci se consentirent
+    les seigneurs de France pour certaines pensions qui leur furent
+    promises pour les deniers que on levoit en leurs terres**" — and to
+    this the lords of France consented, for certain pensions promised
+    them out of the money that was levied in their lands [TRANS.
+    CLAUDE]. No confiscation, no attainder: the estates stand and the
+    discretion to refuse is sold, financed by the very levy that
+    displaced it. I, 241–242 itemises the same instrument in operation —
+    the Breton coalition of 1472 bought with eighty thousand francs of
+    pension for the duke, six thousand and the government of Guyenne for
+    Lescun, captaincies, seneschalcies and mayoralties down the list —
+    "Tout fut accordé et accomply, sauf que de la pension du duc ne se
+    payoit que la moytié et dura deux ans" — while
+    for the clients "Le tout dura à son maistre et à luy jusques au
+    trespas dudict roy". A retainer schedule with a term and a discount.
+
+    **ADDS.** (i) §VII may now state the French and English settlements
+    as one type with two idioms — Fortescue proposes that the crown
+    out-endow every lord and licence every office; Commynes records that
+    the French crown did it by pension and that the lords took the
+    money. (ii) A caution the section should carry: the French purchase
+    dates to Charles VII, i.e. **before** the Tudor material this chapter
+    runs on, which makes it evidence that the instrument is the
+    mechanism's and not England's. (iii) The chapter's platform analogy
+    gains a sharper limb — what was bought was not assets but the
+    discretion to refuse the crown's strategic demands, paid for out of
+    revenue raised on the seller's own domain.
+
+    **CORRECTS.** Nothing. No claim, figure or name in this chapter is
+    touched.
+
+    **CONTRADICTS.** Nothing here, but the frame must travel with the
+    pin: Commynes holds unconsented taxation to be tyranny (II, 217,
+    222) and calls the standing army "une terrible bride de gens d'armes
+    de soulde" (II, 290). §VII must not make him a witness for the
+    settlement's propriety; he is a witness for its method.
+
+    No register decision proposed by this chapter; the Commynes register
+    decisions are at ch10/memo.md Revisions 47 (CC-a to CC-g).
+
 STATUS: PENDING HUMAN REVIEW (this entry); earlier entries PENDING as before;
 the memo body REVIEWED as before.

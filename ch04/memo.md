@@ -885,3 +885,33 @@ recommended; lettering continues the sheet's):**
   them before the ratchet. Carriers: Ruggie pp. 156, 165.
 - §IV: Wallenstein beside Prigozhin, one sentence, optional. Carrier:
   McNeill p. 121.
+
+16. **(2026-09-16 — Commynes, *Mémoires*, Calmette tomes I–II, read;
+    intake. PENDING HUMAN REVIEW.)** Master entry and offsets at
+    ch10/sources.md's 2026-09-16 Calmette block; assessment at
+    `research/assessments-2026-09-16/Commynes-Calmette-t1-t2.md`; the
+    pointer entry is at this chapter's sources.md. **CITATION AUDIT: this
+    chapter cites no Commynes passage from Livres I–VI; nothing to
+    verify, nothing corrected.** The chapter gains two footnote-level
+    pins and nothing else.
+    - **ADDS (footnote).** II, 290: Charles VII laid on France "une
+      terrible bride de gens d'armes de soulde qu'il institua **à la
+      guyse des seigneurs d'Italye**" — a terrible bridle of paid
+      men-at-arms which he instituted after the fashion of the lords of
+      Italy [TRANS. CLAUDE]. A contemporary derives the French standing
+      companies from the Italian model, which is this chapter's transfer
+      claim stated at T1 by a witness who served in both the Burgundian
+      and the French systems. Placement: §IV or the chapter's close,
+      where the condottieri system's succession is discussed.
+    - **ADDS (footnote).** II, 137: on Charles the Bold hanging a
+      negotiator who entered a besieged town after the guns had opened,
+      Commynes dissents from the claimed law of war — "Toutesfois il ne
+      s'en use point en noz guerres, qui sont assez plus cruelles que la
+      guerre d'Ytalie ou d'Espaigne" — however, it is not so used in our
+      wars, which are a good deal more cruel than the war of Italy or of
+      Spain [TRANS. CLAUDE]. Pairs with the tome III Fornovo material at
+      Revisions 11: the same witness on both limbs of the comparison, and
+      a check on any reading of Italian warfare as uniquely mannered.
+    - **CONFIRMS / CORRECTS / CONTRADICTS: nothing.** No claim, date,
+      figure or name in this chapter is touched by Livres I–VI.
+    - No register decision proposed; both pins are apparatus.

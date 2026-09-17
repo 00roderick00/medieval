@@ -1304,3 +1304,37 @@ Dax and Bayonne); this is his first sources.md entry.*
   corroborate the payment record's content: a bombard laid against the
   boulevard gate (t. II p. 24) and "de cinq à six mille arbalestriers"
   in the besieging force (p. 21).
+
+- **T1 POINTER (2026-09-16 intake) — Commynes, *Mémoires*, ed. Calmette,
+  TOMES I (1924) and II (1925)** — IN REPO; master entry, offsets, book
+  divisions and the OCR caveat at **ch10/sources.md**'s 2026-09-16
+  Calmette block (tome I printed p. N = PDF N + 44, constant; **tome II
+  is NOT constant and the scan lacks printed pp. 214–215 and 218–219**);
+  assessment at
+  `research/assessments-2026-09-16/Commynes-Calmette-t1-t2.md`. The
+  Livre I–VI carriers of the three pins this chapter's memo flagged as
+  awaiting tomes I–II are now fixed — the "so much shooting" line is
+  **tome I p. 62, Livre I ch. IX** (memo Revisions 32's note stands
+  corrected only as to its status, not its content). Pins THIS chapter
+  may use, footnote-level, as the siege clock running the other way:
+  - **Neuss, 1474–75 (tome II pp. 6–11, Livre IV chs. I–II).** Charles
+    the Bold besieged a town held by the landgrave of Hesse with some
+    eighteen hundred horse and "trouva les choses plus dures qu'il ne
+    pensoit" (II, 11); the year lost before it wrecked the
+    Anglo-Burgundian invasion of France. **Commynes states he was not
+    present — "car je n'y estoye pas" (II, 7)** — and the pin must carry
+    that caveat.
+  - **Beauvais, June–July 1472 (tome I pp. 235–237, Livre III ch. X).**
+    Relieved in time — ten lances of ordinance on the first evening, some
+    two hundred men-at-arms at dawn — and then "l'artillerie dudict duc
+    tira continuellement, l'espace de quinze jours ou environ. Et fut la
+    place aussi bien battue que jamais place fut, jusques en l'estat
+    d'assaillir" — the duke's artillery fired continuously for the space
+    of fifteen days or thereabouts, and the place was as well battered as
+    ever place was, to the point of assault [TRANS. CLAUDE] — and it
+    held. Commynes was with the Burgundian army and says so.
+  Both are *délai de secours* cases in which relief arrived first and the
+  guns did not decide: the mechanism's own limiting condition, attested
+  by a witness on the losing side of each. Nothing in Livres I–VI touches
+  Normandy or Gascony (the narrative opens in 1464); the chapter's
+  medieval spine is unaffected.

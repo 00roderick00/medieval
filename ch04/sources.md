@@ -543,3 +543,32 @@ Epstein, "Genoa and Genoese" (the 1259 compera — Stasavage's n. 13, to
 be identified); Kirshner 2006 on forced loans as debts. Chambers &
 Pullan (row 7) stands: no work of this intake carries the bocche di
 leone (all sidecars searched).
+
+- **T1 POINTER (2026-09-16 intake) — Commynes, *Mémoires*, ed. Calmette,
+  TOMES I (1924) and II (1925)** — IN REPO; master entry, offsets, book
+  divisions and the OCR caveat at **ch10/sources.md**'s 2026-09-16
+  Calmette block; assessment at
+  `research/assessments-2026-09-16/Commynes-Calmette-t1-t2.md`. **Tome II
+  offsets are not constant and the scan lacks printed pp. 214–215 and
+  218–219 — read ch10's block before citing.** This chapter gains two
+  pins only, both footnote-level:
+  - **II, 290 (Livre VI ch. VI) — the French standing army derived from
+    the Italian model by a contemporary.** Charles VII "mist une cruelle
+    playe sur son royaume, qui longuement seignera, et une terrible bride
+    de gens d'armes de soulde qu'il institua **à la guyse des seigneurs
+    d'Italye**" — …a terrible bridle of paid men-at-arms which he
+    instituted after the fashion of the lords of Italy [TRANS. CLAUDE].
+    T1 evidence that the fifteenth century itself read the *compagnies
+    d'ordonnance* as an Italian borrowing.
+  - **II, 137 (Livre V ch. VI) — the customs of war differ by theatre.**
+    Charles the Bold hanged a negotiator on the ground that any man
+    entering a besieged place after the guns have opened is by the laws
+    of war worthy of death; Commynes dissents — "Toutesfois il ne s'en
+    use point en noz guerres, qui sont assez plus cruelles que la guerre
+    d'Ytalie ou d'Espaigne" — however, it is not so used in our wars,
+    which are a good deal more cruel than the war of Italy or of Spain
+    [TRANS. CLAUDE]. Pairs with the tome III Fornovo material already
+    entered here: the same witness, on both sides of the comparison.
+  - Nothing else in Livres I–VI bears on this chapter; the condottieri,
+    the Italian fiscal systems and Fornovo remain tome III's and the
+    existing entry's.

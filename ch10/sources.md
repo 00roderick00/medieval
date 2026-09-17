@@ -39,10 +39,17 @@ plus open T1 (Commynes); its modern half is unusually T1-rich
 ## T1 — Primary sources (open, consulted; key passages verified)
 
 *Historical:*
-- **Commynes, *Mémoires*** — Scoble trans. (Bohn 1855–56; archive.org;
-  Project Gutenberg #77950): Book I ch. X, the Louis XI judgement
-  verbatim ("the wisest and most dexterous to extricate himself…").
-  The modern scholarly translation (Jones, Penguin) is gated.
+- **Commynes, *Mémoires*** — **EDITION OF RECORD IS NOW CALMETTE,
+  TOMES I–II (in repo; master entry at the 2026-09-16 intake block
+  below).** Scoble trans. (Bohn 1855–56; archive.org; Project Gutenberg
+  #77950) retained as the English carrier only: Book I ch. X, the Louis
+  XI judgement ("the wisest and most dexterous to extricate himself…")
+  — **VERIFIED against Calmette at tome I p. 67, Livre I ch. X, and the
+  chapter number matches; but the French reads "le plus saige pour sy
+  tyrer d'un mauvais pas en temps d'adversité" — one adjective. Scoble's
+  doubling and expansion must be attributed to Scoble's translation, not
+  presented as Commynes's phrasing.** The modern scholarly translation
+  (Jones, Penguin) is gated.
 - **Ordonnance of 2 November 1439** and the Louppy-le-Châtel ordonnance
   of 26 May 1445 — via the French reference record (T3/T4) pending
   Contamine; the founding 1445 text is lost (memo §0.1).
@@ -1603,7 +1610,12 @@ recorded once, here, and each entry says where its author stands.*
   (since the thirteenth century)", in *New Cambridge Medieval History*
   VII (1998)** — the source beneath Stasavage's 1468 sentence. 18.
   **Calmette, Commynes tomes I–II** (the carriers of every Commynes pin
-  the draft holds; tome II for the revenue arc at ii. 220). 19.
+  the draft holds; tome II for the revenue arc at ii. 220). **[CLOSED
+  2026-09-16 — both tomes are in repo, OCR'd and read; four of the
+  draft's five Commynes pins verified and one re-pinned; the revenue arc
+  verified at Vale's exact reference, tome II p. 220. Master entry at
+  the intake block below; assessment at
+  research/assessments-2026-09-16/Commynes-Calmette-t1-t2.md.]** 19.
   **Édouard Perroy, "L'artillerie royale à la bataille de Montlhéry",
   *Revue historique* CXLIX (1925): 187–89.** 20. **Kervyn de
   Lettenhove, Chastellain *Œuvres* tomes V–VIII** — for the 1467
@@ -2395,3 +2407,214 @@ at the foot of memo.md's Revisions 45.*
   block (l. c. 227) stand and are cross-referenced, not restated — but
   **the PARSE block's "521 + 1,009 horses" is superseded by "521 +
   1,609 = 2,130" above.**
+
+---
+
+- **T1 (Calmette's apparatus T2) — Philippe de Commynes, *Mémoires*, ed.
+  Joseph Calmette with G. Durville, TOME I (1464–1474), Paris: Champion,
+  1924, and TOME II (1474–1483), Paris: Champion, 1925; *Les Classiques
+  de l'histoire de France au Moyen Âge*, fasc. 3 and 5 (dir. Halphen)**
+  — **IN REPO, AND THE EDITION OF RECORD FOR LIVRES I–VI**
+  (`corpus/retrieved/Commynes-Memoires-t1-Calmette-Champion-1924.pdf`,
+  316 pp.; `…-t2-Calmette-Champion-1925.pdf`, 378 pp.; sidecars
+  `corpus/retrieved/source-library/text-2026-09-16/Commynes-Calmette-t1.txt`
+  and `…-t2.txt`). Assessment:
+  `research/assessments-2026-09-16/Commynes-Calmette-t1-t2.md`
+  (2026-09-16, PENDING HUMAN REVIEW). Tome III (1484–98) is the separate
+  entry above and keeps its own offset.
+
+  **OFFSETS — READ THIS BEFORE CITING.**
+  - **Tome I, constant:** Introduction roman p. N = PDF p. N + 8; text
+    printed p. N = PDF p. N + 44 (p. 1 = PDF 45; p. 106 = PDF 150;
+    p. 257 = PDF 301). No discontinuity.
+  - **Tome II, NOT constant, and the scan has two lacunae:** printed
+    p. N = PDF N + 12 for pp. 1–213; **printed pp. 214–215 are ABSENT
+    from the scan**; printed p. N = PDF N + 10 for pp. 216–217;
+    **printed pp. 218–219 are ABSENT**; printed p. N = PDF N + 8 from
+    p. 220 to the end. Verified on the page images (PDF 225 = p. 213;
+    226 = 216; 227 = 217; 228 = 220; 229 = 221). **Both lacunae fall
+    inside Livre V chs. XVIII–XIX, the chapters on the role of the
+    Estates.** Nothing may be asserted from the missing pages; a clean
+    copy of those four pages is an open want.
+  - **Book divisions.** Tome I: Prologue pp. 1–3; Livre I pp. 4–93
+    (chs. I p. 4, II p. 9, III p. 19, IV p. 29, V p. 39, VI p. 45,
+    VII p. 51, VIII p. 55, IX p. 60, X p. 67, XI p. 70, XII p. 74,
+    XIII p. 79, XIV p. 85, XV p. 88, XVI p. 90); Livre II pp. 94–171;
+    Livre III pp. 172–252 (ch. IX p. 226, X p. 233, XI p. 239,
+    XII p. 249). Tome II: Livre IV pp. 1–97 (ch. XIII p. 91); Livre V
+    pp. 98–237 (ch. VIII p. 148, IX p. 153, XVIII p. 207, XIX p. 217,
+    XX p. 230); Livre VI pp. 238–342 (ch. I p. 238, V p. 274, VI p. 280,
+    X p. 310, XII p. 325).
+  - **OCR** is French and poor on numerals, accents and ligatures; every
+    figure below was read off the rendered page image, not the sidecar.
+
+  **BIBLIOGRAPHICAL FACTS FROM CALMETTE'S INTRODUCTION (tome I).** No
+  original manuscript survives; all witnesses are indirect copies with
+  faults and lacunae, and the work was probably dictated (pp. xviii).
+  Calmette prints the Dobrée manuscript (Nantes) for Livres I–VI where
+  B. de Mandrot printed the Polignac (pp. xix, xxvii–xxviii) — the two
+  editions are complementary, not rival. **The division into books and
+  chapters is Denis Sauvage's, 1552; Calmette calls it arbitrary and
+  keeps it (p. xxvi)** — which is why Scoble "Book I ch. X" and Calmette
+  "Livre I ch. X" are the same chapter. Composition: dictated 1489–91,
+  reread c. 1493 (pp. xiii–xiv). **Calmette lists Sleidan's Latin and a
+  Danish version and nowhere mentions Scoble or any English
+  translation** (pp. xxvi, xxix–xxx). Retrieval lead surfaced here:
+  Jean Masselin, *Journal des États-Généraux tenus à Tours en 1484*, ed.
+  A. Bernier (Documents inédits, 1835), listed at p. xxxiv — the T1
+  record of the 1484 assembly ch10 §III currently carries at tertiary
+  strength.
+
+  **CITATION AUDIT — the re-pins (assessment §2).**
+  1. **The revenue arc** (draft ll. 273–277, via Vale 1974: 231, "citing
+     Commynes, ed. Calmette, ii. 220"): **VERIFIED. Vale's pin is exact
+     — tome II p. 220 (Livre V ch. XIX).**
+  2. **"I have never seen so much shooting in such a few days"** (draft
+     ll. 435–437, via DeVries 1998: 138): **VERIFIED — tome I p. 62
+     (Livre I ch. IX):** "Je n'ay jamais veu tant tyrer pour peu de
+     jours, car de nostre costé on se actendoit de les chasser à force
+     d'artillerie" [TRANS. CLAUDE]. DeVries's own pin ("Calmette and
+     Durville, I, p. 62") is correct to the page; Calmette's n. 5
+     glosses *pour peu de jours* as "en si peu de jours".
+  3. **The Louis XI judgement** (draft ll. 474–479, Scoble I.x):
+     **VERIFIED — tome I p. 67 (Livre I ch. X, "Portrait de Louis
+     XI"):** "Et entre tous ceulx que j'ay jamais congneu, le plus saige
+     pour sy tyrer d'un mauvais pas en temps d'adversité, c'estoit le
+     roy Loys unziesme, nostre maistre, et le plus humble en parolles et
+     en habitz" [TRANS. CLAUDE]. **With the Scoble-translation caveat
+     recorded at the T1 entry above.**
+  4. **Burgundian artillery "very large and powerful"** (draft
+     ll. 509–511, via DeVries 1998: 138): **DEVRIES'S PIN FAILS.** His
+     n. 53 gives "Commynes, *Mémoires* I, p. 94"; Calmette tome I p. 94
+     is the opening of Livre II, on the Liège wars, and carries no such
+     phrase. **RE-PIN to tome II p. 8 (Livre IV ch. I),** of Charles the
+     Bold in 1474–75: "et ses subgectz en très grant nombre, bien montéz
+     et bien armés … et une très grande et puissante artillerie" [TRANS.
+     CLAUDE]; DeVries's second phrase ("good and beautiful") is nearest
+     to **tome II p. 102 (Livre V ch. I),** before Grandson: "Son
+     artillerie estoit grande et bonne et estoit en grant pompe en cest
+     ost pour se montrer à ces embassades qui venoyent d'Ytalie et
+     d'Allemaigne" [TRANS. CLAUDE]. Cite Commynes directly; drop the
+     DeVries carrier for this sentence.
+
+  **PINS VERIFIED THIS RUN (all read against the page image where they
+  carry a figure; [TRANS. CLAUDE] on every English rendering).**
+  - **II, 220 (Livre V ch. XIX) — the revenue arc.** "…vingt ans et plus
+    de grandes et horribles tailles qui ne furent jamais si grandes à
+    troys millions de francz près, j'entendz à lever tous les ans. Car
+    jamais le roy Charles VII^e ne leva plus de dix huit cent mil francs
+    pour an, et le roy Loys, son filz, en levoit à l'heure de son
+    trespas quarante sept cens mil francs **sans l'artillerie et autres
+    choses semblables**. Et seürement c'estoit compassion de veoir et
+    sçavoir la povreté du peuple." Calmette's n. 2 (T2): the taille rose
+    from 1,200,000 lt at Louis XI's accession to 3,900,000 at his death,
+    "et le total des impôts royaux atteignait, à cette même date,
+    4,700,000 livres" (citing Mandrot's Jean de Roye II, 138 and
+    *Dépêches des ambassadeurs milanais* III, 183).
+  - **II, 290 (Livre VI ch. VI) — the same arc restated, with the gloss
+    the draft needs.** "Ledict roy Charles VII^e levoit, à l'heure de son
+    trespas, XVIII^c mil francs **en toutes choses sur son royaulme**, et
+    tenoit environ XVII^c hommes d'armes d'ordonnance pour tous gens
+    d'armes … A l'heure du trespas du roy nostre maistre, il tenoit
+    XLVII^c mil francs; d'hommes d'armes, quelque quattre ou cinq mil;
+    gens de pied, tant pour le camp que mortes payes, plus de vingt cinq
+    mil."
+  - **II, 289 (Livre VI ch. VI) — the settlement named, dated, priced.**
+    "Le roy Charles VII^e fut le premier … lequel gaigna ce point que de
+    imposer tailles en son pays et à son plaisir, sans consentement des
+    Estatz de son royaume. Et pour lors y avoit grant matière, tant pour
+    garnyr les pays conquis que pour departir les gens de compaignye qui
+    pilloyent le royaulme. **Et à ceci se consentirent les seigneurs de
+    France pour certaines pensions qui leur furent promises pour les
+    deniers que on levoit en leurs terres.**" And, same page-turn,
+    II, 290: "il chargea fort son ame et celles de ses successeurs, et
+    mist une cruelle playe sur son royaume, qui longuement seignera, et
+    une terrible bride de gens d'armes de soulde qu'il institua à la
+    guyse des seigneurs d'Italye." Also II, 289: "si avoit plus chargé le
+    peuple que jamais roy ne feit."
+  - **II, 217 (Livre V ch. XIX, its opening sentence) — the doctrine of
+    consent.** "Doncques, pour continuer mon propoz, y a-il roy ne
+    seigneur sur terre qui ayt povoir, oultre son dommaine, de mectre ung
+    denier sur ses subgectz sans octroy et consentement de ceulx qui le
+    doyvent payer, sinon par tyrannie et violence?" Restated II, 222:
+    "Car nul prince ne le peult autrement lever que par octroy … s'il ne
+    le faict par tyrannye et qu'il ne soit excommunyé."
+  - **II, 8 (Livre IV ch. I) — the English contrast.** "le roy ne peult
+    entreprendre une telle œuvre sans assembler son parlement, qui vault
+    autant comme les troys estatz, qui est chose très juste et saincte,
+    et en sont les roys plus fortz et myeulx serviz quant ainsi le
+    font"; "il ne se liève nulles aydes en Angleterre, si ce n'est pour
+    passer en France ou pour aller en Escosse." Calmette n. 4 records
+    Bourrilly reading this as Commynes anticipating French liberalism.
+  - **II, 221–222 (Livre V ch. XIX) — the Estates of Tours, 1484.** "Et
+    estoit la somme demandée de deux millions cinq cens mille francz,
+    qui estoit assez et à cueur saoul, et plus trop que peu … Et
+    supplyèrent lesditz Estatz que, au bout de deux ans, ilz fussent
+    rassembléz." **This corrects draft ll. 279–282's "some 1.5
+    million"**: 2.5m demanded in all, of which tome III p. 304 gives
+    1.2m "par forme de taille"; the two-year point is the Estates'
+    request to be reassembled, not the term of the grant.
+  - **II, 216 (Livre V ch. XVIII) — the commons.** "après avoir payé des
+    tailles trop plus grandes qu'ilz ne deüssent, encores ne donnent-ilz
+    nulle ordre sur la forme de vivre de leurs gens d'armes, lesquelz,
+    sans cesser, sont par le pays sans riens payer … Je diz cecy pour
+    nostre royaume, qui est plus pressé et persecuté de ce cas que nulle
+    autre seigneurie que je congnoisse."
+  - **Louis XI's practice.** The Somme towns repurchased for 400,000
+    écus and demanded back by Charolais (I, 8; I, 74), the treaties of
+    Conflans and Saint-Maur (I, 86); Louis's declared readiness to break
+    both Conflans and Péronne (I, 232). The standing companies at
+    Montlhéry: "y estoyent toutes les ordonnances du royaulme, qui
+    povoient bien estre environ vingt et deux cens hommes d'armes"
+    (I, 21); "tous archiers d'ordonnance, orfaveriséz et bien empoint"
+    against Burgundians "sans ordre et sans commandement" (I, 25). The
+    renowned gunner maistre Gerault, taken at Montlhéry and passing into
+    Burgundian service (I, 46 — the page Calmette's *Additions* attach
+    Perroy 1925 to). *Francs-archers* at Guinegate, 1479: they "se
+    misdrent à piller le charroy dudit duc" (II, 275). The pension as
+    instrument: the Breton coalition bought in 1472, 80,000 francs for
+    the duke and offices for his people, "Le tout dura à son maistre et à
+    luy jusques au trespas dudict roy" (I, 241–242); Edward IV's court on
+    the French payroll, "la pension de cinquante mille escuz … (eulx
+    l'appelloyent tribut)" plus some sixteen thousand to his household,
+    "et de tous ces personnages icy se trouveront les quictances en la
+    Chambre des comptes à Paris" (II, 241–242); the Swiss at 40,000
+    Rhenish florins a year and a million florins across the Burgundian
+    war (II, 116).
+  - **Burgundy, the counter-case.** I, 13: the 1465 army 1,400
+    men-at-arms "mal armez et mal adroitz, car long temps avoyent esté
+    ces seigneuries en paix", the subjects "en grande richesse, à cause
+    de la longue paix … et pour la bonté du prince soubz qui ilz
+    vivoyent, **lequel tailloit peu ses subjectz**", the lands "terres de
+    promission". II, 93: "le duc Philippes n'avoit de long temps point
+    levé de tailles; toutesfois trouva-il plus de trois cens mil escuz
+    contens." I, 226: "douze cens lances d'ordonnance, qui avoient trois
+    archiers pour homme d'armes … car ilz estoient bien payéz." II, 150
+    (Nancy): fewer than four thousand in the camp, "dont il n'y en avoit
+    que douze cens en estat de combattre. D'argent avoit ledict duc
+    assez, car il avoit au chasteau de Luxembourg … bien quatre cens
+    cinquante mil escuz, et des gens eust-il recouvert assez." II, 156:
+    "à ceste dernière bataille estoit consommée toute la force de son
+    pays."
+  - **The siege clock the other way (ch06's, recorded here because this
+    entry is the master).** Neuss 1474–75, the duke "trouva les choses
+    plus dures qu'il ne pensoit" (II, 11); Beauvais 1472, relieved in
+    time and then "l'artillerie dudict duc tira continuellement,
+    l'espace de quinze jours ou environ. Et fut la place aussi bien
+    battue que jamais place fut, jusques en l'estat d'assaillir" — and
+    it held (I, 236–237).
+
+  **USE-NOTES.** (i) **Artillery is everywhere in these tomes and its
+  administration nowhere** — no ordinance, no treasurer, no account
+  series. ch10 §IV's institutional half is Contamine's and must not
+  appear to rest on Commynes. (ii) **The witness condemns the
+  mechanism** — "une cruelle playe sur son royaume, qui longuement
+  seignera" (II, 290) — and holds unconsented taxation to be tyranny
+  (II, 217, 222). Quote him on it; do not smooth it. (iii) He was a
+  Burgundian deserter who wrote as Louis XI's obliged servant, in
+  retirement after his own imprisonment and in sympathy with the 1484
+  Estates (Introduction pp. viii–ix); Calmette defends his impartiality
+  but concedes "il atténue trop volontiers les vices de Louis XI"
+  (p. xvii). (iv) He was not present at Neuss and says so ("car je n'y
+  estoye pas", II, 7); he was present at Montlhéry, the siege of Paris,
+  Péronne, Liège, the 1484 Estates and Louis XI's deathbed.

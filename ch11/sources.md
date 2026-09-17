@@ -1323,3 +1323,51 @@ names in that row — Pollard, Guenée, Koenigsberger, C. S. L. Davies, Elliott
   destroyed by the crown's rise. Borrowing his vocabulary beyond the coinage
   would import a constitutional-decline thesis this book does not hold and that
   Lander refutes. Use the sentence; leave the narrative.
+
+---
+
+- **T1 (2026-09-16 intake) — Philippe de Commynes, *Mémoires*, ed.
+  Joseph Calmette with G. Durville, TOME I (1464–1474) and TOME II
+  (1474–1483) (Paris: Champion, 1924–25; *Les Classiques de l'histoire de
+  France au Moyen Âge*, fasc. 3, 5)** — IN REPO. **This chapter had no
+  Commynes entry; this is its first.** Master entry, offsets, book
+  divisions and the OCR caveat at **ch10/sources.md**'s 2026-09-16
+  Calmette block (tome I printed p. N = PDF N + 44, constant; **tome II
+  is NOT constant, and the scan lacks printed pp. 214–215 and 218–219**);
+  assessment at
+  `research/assessments-2026-09-16/Commynes-Calmette-t1-t2.md`.
+  CITATION AUDIT: **this chapter cites no Commynes passage; nothing to
+  verify.** Two pins, both for §VII (what the barons could still do), as
+  the French counterpart to Fortescue's programme and Lander's
+  Bergavenny:
+  - **II, 289 (Livre VI ch. VI) — the barons bought, not broken.** "Le
+    roy Charles VII^e fut le premier … lequel gaigna ce point que de
+    imposer tailles en son pays et à son plaisir, sans consentement des
+    Estatz de son royaume … **Et à ceci se consentirent les seigneurs de
+    France pour certaines pensions qui leur furent promises pour les
+    deniers que on levoit en leurs terres.**" — King Charles VII was the
+    first … who won this point: to impose tailles in his country and at
+    his pleasure, without consent of the Estates of his kingdom … And to
+    this the lords of France consented, for certain pensions promised
+    them out of the money that was levied in their lands [TRANS.
+    CLAUDE]. The lords' estates were untouched; what they surrendered was
+    the discretion to refuse, and they were paid for it out of the levy
+    on their own tenants.
+  - **I, 241–242 (Livre III ch. XI) — the same instrument, itemised.**
+    The Breton coalition of 1472 bought: eighty thousand francs of
+    pension for the duke, for Lescun six thousand francs of
+    pension with the government of Guyenne, the seneschalcies of the
+    Landes and the Bordelais, a string of castle captaincies, 24,000
+    écus in cash, the king's order and the county of Comminges; for the
+    negotiator Soupplainville twelve hundred francs of pension, the
+    mayoralty of Bayonne and the bailliage of Montargis. "Tout fut
+    accordé et accomply, sauf que de la pension du duc ne se payoit que
+    la moytié et dura deux ans", and for the clients "Le tout dura à son maistre et
+    à luy jusques au trespas dudict roy" — it all lasted, for his master
+    and for him, until the said king's death [TRANS. CLAUDE]. A retainer
+    schedule, with a term and a discount.
+  **USE-NOTE.** Commynes is a partisan of consent who calls unconsented
+  taxation tyranny (II, 217, 222) and the standing army "une terrible
+  bride de gens d'armes de soulde" (II, 290); he is also Louis XI's
+  obliged servant. Quote him for the bargain, and flag the frame — the
+  full use-notes are at ch10/sources.md's Calmette block.

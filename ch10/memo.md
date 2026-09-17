@@ -3292,7 +3292,336 @@ STATUS: REVIEWED (Roderick, 2026-07-23) — cleared for drafting
       France-also-turned-over objection (p. 326) in one sentence — the
       polity against the policy — or declines both and says why.
 
-STATUS: Revisions 46 PENDING HUMAN REVIEW; Revisions 45 PENDING HUMAN
+47. **(2026-09-16 — Commynes, *Mémoires*, Calmette tomes I–II, read;
+    intake. PENDING HUMAN REVIEW.)** Source:
+    `corpus/retrieved/Commynes-Memoires-t1-Calmette-Champion-1924.pdf`
+    and `…-t2-Calmette-Champion-1925.pdf`; sidecars
+    `text-2026-09-16/Commynes-Calmette-t1.txt` and `…-t2.txt`; offsets,
+    book divisions, OCR caveat and every pin at sources.md's
+    2026-09-16 master entry; assessment at
+    `research/assessments-2026-09-16/Commynes-Calmette-t1-t2.md`.
+    **Offsets in brief: tome I printed p. N = PDF p. N + 44 (constant);
+    tome II printed p. N = PDF N + 12 to p. 213, N + 10 for pp. 216–217,
+    N + 8 from p. 220 — because printed pp. 214–215 and 218–219 are
+    ABSENT from the scan, both lacunae inside Livre V chs. XVIII–XIX.**
+    This entry closes the row open since 14 September. Nothing below is
+    applied to the draft.
+
+    **THE CITATION AUDIT.** Every Commynes citation in the manuscript,
+    against the edition of record. Four of five verified, one re-pinned.
+
+    - **(1) The revenue arc — draft ll. 273–277**, currently "the yield
+      arc is carried on the contemporary estimate Vale prints from
+      Commynes: about 1,800,000 francs a year raised under Charles VII,
+      and 4,700,000 by Louis XI's death — the whole levy, not the taille
+      alone, and a rough tripling in a generation (Vale 1974: 231, citing
+      Commynes, ed. Calmette, ii. 220)". **VERIFIED, and Vale's page pin
+      is exact: tome II p. 220, Livre V ch. XIX.** See "The revenue arc"
+      below.
+    - **(2) "I have never seen so much shooting in such a few days" —
+      draft ll. 435–437**, currently "with Commynes, who was present,
+      supplying the eyewitness superlative: 'I have never seen so much
+      shooting in such a few days' (DeVries 1998: 137–38)". **VERIFIED —
+      tome I p. 62, Livre I ch. IX:** "Je n'ay jamais veu tant tyrer pour
+      peu de jours, car de nostre costé on se actendoit de les chasser à
+      force d'artillerie" — I have never seen so much firing for so few
+      days, for on our side we expected to drive them off by force of
+      artillery [TRANS. CLAUDE]. DeVries's own note pins it to "Calmette
+      and Durville, I, p. 62" and is correct to the page; the chapter may
+      now cite Commynes at source with DeVries retained or dropped.
+    - **(3) The judgement of the age — draft ll. 474–479**, currently
+      "'of all the princes that I ever knew, the wisest and most
+      dexterous to extricate himself out of any danger or difficulty in
+      time of adversity, was our master King Louis XI' (Commynes, Scoble
+      ed., I.x)". **VERIFIED — tome I p. 67, Livre I ch. X, "Portrait de
+      Louis XI"; the chapter number matches exactly.** "Et entre tous
+      ceulx que j'ay jamais congneu, le plus saige pour sy tyrer d'un
+      mauvais pas en temps d'adversité, c'estoit le roy Loys unziesme,
+      nostre maistre, et le plus humble en parolles et en habitz" — and
+      among all those I ever knew, the wisest at getting himself out of a
+      bad pass in time of adversity was King Louis the Eleventh, our
+      master, and the humblest in words and in dress [TRANS. CLAUDE].
+      **CAVEAT, and it touches the no-verbatim-without-attribution rule
+      (CLAUDE.md §8): the French has one adjective, "le plus saige".
+      Scoble's "the wisest and most dexterous" is a Victorian doubling and
+      "extricate himself out of any danger or difficulty" an expansion of
+      "sy tyrer d'un mauvais pas". The sentence as quoted is Scoble's
+      English, not Commynes's phrasing, and the draft's parenthesis
+      ("Commynes, Scoble ed., I.x") should say so — or the chapter should
+      translate Calmette and print the French.**
+    - **(4) Burgundian artillery — draft l. 510**, currently "The
+      artillery matched: Commynes calls it 'very large and powerful' …
+      (all at DeVries 1998: 138)". **DEVRIES'S PIN FAILS.** His n. 53
+      gives "Commynes, *Mémoires* I, p. 94"; Calmette tome I p. 94 is the
+      opening of Livre II, on the Liège wars, and carries no such phrase.
+      **RE-PIN: tome II p. 8, Livre IV ch. I**, of Charles the Bold in
+      1474–75 — "et ses subgectz en très grant nombre, bien montéz et bien
+      armés … et une très grande et puissante artillerie" — and his
+      subjects in very great number, well mounted and well armed … and a
+      very great and powerful artillery [TRANS. CLAUDE]. DeVries's second
+      phrase, "good and beautiful", is nearest **tome II p. 102, Livre V
+      ch. I**, before Grandson: "Son artillerie estoit grande et bonne et
+      estoit en grant pompe en cest ost pour se montrer à ces embassades
+      qui venoyent d'Ytalie et d'Allemaigne" [TRANS. CLAUDE]. The La
+      Marche and Neuss limbs of the same draft sentence are not Commynes
+      and are unaffected.
+    - **(5)** The memo's own repetitions of (1)–(3) at ll. 264, 277, 306,
+      554, 774, and ch06/memo.md l. 1178, are resolved by the above. No
+      other chapter cites a passage from Livres I–VI.
+
+    **THE REVENUE ARC — what Commynes actually says.** He says it twice.
+    At **II, 220** (Livre V ch. XIX): "…vingt ans et plus de grandes et
+    horribles tailles qui ne furent jamais si grandes à troys millions de
+    francz près, j'entendz à lever tous les ans. Car jamais le roy
+    Charles VII^e ne leva plus de dix huit cent mil francs pour an, et le
+    roy Loys, son filz, en levoit à l'heure de son trespas quarante sept
+    cens mil francs **sans l'artillerie et autres choses semblables**. Et
+    seürement c'estoit compassion de veoir et sçavoir la povreté du
+    peuple" [TRANS. CLAUDE: …twenty years and more of great and horrible
+    tailles which had never been so great, by three millions of francs —
+    I mean levied every year. For never did King Charles VII levy more
+    than eighteen hundred thousand francs a year, and King Louis his son
+    levied, at the hour of his death, forty-seven hundred thousand francs,
+    without the artillery and other such things. And truly it was a pity
+    to see and to know the poverty of the people]. At **II, 290** (Livre
+    VI ch. VI), read off the page image: "Ledict roy Charles VII^e
+    levoit, à l'heure de son trespas, XVIII^c mil francs **en toutes
+    choses sur son royaulme**, et tenoit environ XVII^c hommes d'armes
+    d'ordonnance pour tous gens d'armes … A l'heure du trespas du roy
+    nostre maistre, il tenoit XLVII^c mil francs; d'hommes d'armes,
+    quelque quattre ou cinq mil; gens de pied, tant pour le camp que
+    mortes payes, plus de vingt cinq mil."
+
+    **The arc as the draft states it survives, with three refinements.**
+    (i) The lower limb is a **ceiling**, not an average — "jamais … ne
+    leva plus de dix huit cent mil francs pour an". (ii) The upper limb
+    **excludes the artillery** — "sans l'artillerie et autres choses
+    semblables" — which sharpens the chapter's case rather than weakening
+    it: the guns sat outside the headline figure. (iii) The draft's gloss
+    "the whole levy, not the taille alone" is now **verbatim** — "en
+    toutes choses sur son royaulme" — and Calmette's n. 2 at p. 220
+    supplies the T2 split behind it (taille 1,200,000 lt at Louis XI's
+    accession to 3,900,000 at his death; total royal taxes at that date
+    4,700,000, citing Mandrot's Jean de Roye II, 138 and the *Dépêches
+    des ambassadeurs milanais* III, 183). **Only "a rough tripling in a
+    generation" must go:** 1.8m to 4.7m is about 2.6×, and Commynes
+    himself frames the change as a difference of about three million
+    francs a year, which is arithmetically consistent with his own two
+    endpoints.
+
+    **CONFIRMS.**
+    - **§V's Public Weal as an artillery war.** The Paris duel is
+      Commynes's at first hand (I, 62, above), and the guns are attested
+      on both sides through the siege (I, 61–65).
+    - **§V's standing companies.** At Montlhéry "y estoyent toutes les
+      ordonnances du royaulme, qui povoient bien estre environ vingt et
+      deux cens hommes d'armes" (I, 21); the royal archers are "tous
+      archiers d'ordonnance, orfaveriséz et bien empoint" while the
+      Burgundians are "sans ordre et sans commandement" (I, 25). T1
+      confirmation that the regulars were a distinct and better-ordered
+      body.
+    - **§V's Somme towns.** Repurchased for 400,000 écus (I, 8) and
+      demanded back by Charolais at Conflans (I, 74); the treaties at
+      I, 86.
+    - **§VI's Burgundian ordinance companies.** "douze cens lances
+      d'ordonnance, qui avoient trois archiers pour homme d'armes … car
+      ilz estoient bien payéz" (I, 226, of the 1472 army) — the
+      1,200-lance establishment the draft carries from Abbeville 1471,
+      confirmed in the field by a witness who had served in it.
+    - **§IV's account-books argument, negatively but usefully.**
+      Artillery is named at I, 14, 46, 61–65, 106, 153, 160, 235–237 and
+      II, 8, 18, 102, 188; **its administration is named nowhere.** The
+      participant sees guns and money and no machinery — which is
+      exactly why the chapter's institutional half must stay Contamine's
+      and be seen to be.
+
+    **CORRECTS (draft wording quoted; NOT applied).**
+    - **The 1484 figure.** Draft ll. 278–282: "At the Estates of Tours in
+      1484 — the first Estates General in decades, meeting over a royal
+      minority — the assembled realm asserted itself: the taille was
+      granted for two years only and cut to some 1.5 million." Commynes
+      was a participant: "Et estoit la somme demandée de deux millions
+      cinq cens mille francz, qui estoit assez et à cueur saoul, et plus
+      trop que peu" — and the sum demanded was two million five hundred
+      thousand francs, which was enough and to the heart's content, and
+      rather too much than too little [TRANS. CLAUDE] (II, 221); and "Et
+      supplyèrent lesditz Estatz que, au bout de deux ans, ilz fussent
+      rassembléz" (II, 222). With tome III p. 304's 1.2m "par forme de
+      taille, oultre son domayne", the T1 record is: **1.2m of taille
+      inside a total demand of 2.5m, and a two-year horizon that is the
+      Estates' request to be reassembled rather than the term of the
+      grant.** "Some 1.5 million" matches neither figure. (Ch10 memo
+      Revisions 37 already flagged this at tome III; tome II settles it.)
+    - **"A rough tripling in a generation"** (draft l. 275) — above.
+    - **The Scoble quotation's attribution** (draft l. 479) — audit (3).
+    - **The Burgundian artillery pin** (draft l. 510) — audit (4).
+    - **"Louis declared the treaties null and void as signed under
+      duress" (draft ll. 442–443).** Commynes gives the intention without
+      the doctrine: Louis was ready to break his word to the two dukes
+      "non plus qu'il luy avoit tenu le traictié fait devant Paris, que
+      on appelle le traicté de Conflans, ne celuy qu'il jura à Peronne"
+      (I, 232). The witness's frame is bad faith, not duress. If the
+      draft keeps "duress" it must carry the legal claim to a source that
+      states it; Commynes does not.
+
+    **ADDS.**
+    - **§III gains, at T1, the sentence the chapter has been
+      reconstructing.** II, 289 (Livre VI ch. VI): "Le roy Charles VII^e
+      fut le premier (par le moyen de plusieurs saiges et bons
+      chevaliers, qui luy avoyent aydé et servy en sa conqueste de
+      Normandie et Guyenne, que les Angloys tenoient), lequel gaigna ce
+      point que de imposer tailles en son pays et à son plaisir, sans
+      consentement des Estatz de son royaume. Et pour lors y avoit grant
+      matière, tant pour garnyr les pays conquis que pour departir les
+      gens de compaignye qui pilloyent le royaulme. **Et à ceci se
+      consentirent les seigneurs de France pour certaines pensions qui
+      leur furent promises pour les deniers que on levoit en leurs
+      terres.**" [TRANS. CLAUDE: King Charles VII was the first — by means
+      of several wise and good knights who had helped and served him in
+      his conquest of Normandy and Guyenne, which the English held — who
+      won this point: to impose tailles in his country and at his
+      pleasure, without consent of the Estates of his kingdom. And at
+      that time there was great cause for it, both to garrison the
+      conquered lands and to disband the companies that were pillaging
+      the kingdom. And to this the lords of France consented, for certain
+      pensions promised them out of the money that was levied in their
+      lands.] Four things at once, from a contemporary: the settlement
+      dated to Charles VII; tied to the Normandy and Guyenne conquest;
+      justified by garrisoning and by disbanding the routiers — the
+      standing army; and **bought from the lords with pensions drawn from
+      the levy on their own lands**, which is the chain's fourth link
+      (suppression of intermediate authorities) purchased rather than
+      fought for. This is the strongest single T1 the chapter has, and it
+      belongs in the text of §III.
+    - **§III gains the doctrine the settlement broke.** II, 217, the
+      opening sentence of Livre V ch. XIX: "Doncques, pour continuer mon
+      propoz, y a-il roy ne seigneur sur terre qui ayt povoir, oultre son
+      dommaine, de mectre ung denier sur ses subgectz sans octroy et
+      consentement de ceulx qui le doyvent payer, sinon par tyrannie et
+      violence?" [TRANS. CLAUDE: is there king or lord on earth who has
+      power, beyond his domain, to lay a single penny on his subjects
+      without the grant and consent of those who must pay it, save by
+      tyranny and violence?], restated at II, 222 ("nul prince ne le
+      peult autrement lever que par octroy … s'il ne le faict par
+      tyrannye et qu'il ne soit excommunyé"). This is the T1 the §III
+      opening's "consent with a proviso" paragraph has been carrying
+      through Strayer alone.
+    - **§III gains an English comparator at T1, from the same witness.**
+      II, 8: "le roy ne peult entreprendre une telle œuvre sans assembler
+      son parlement, qui vault autant comme les troys estatz, qui est
+      chose très juste et saincte, et en sont les roys plus fortz et
+      myeulx serviz quant ainsi le font"; and "il ne se liève nulles
+      aydes en Angleterre, si ce n'est pour passer en France ou pour
+      aller en Escosse". Pairs directly with the Fortescue assessment's
+      (e) — the hostile English witness to the French fiscal-military
+      state — and satisfies CLAUDE.md §6's comparative requirement from
+      inside the primary.
+    - **§IV gains money as an instrument of state, with an archival
+      control.** Edward IV bought at "la pension de cinquante mille escuz
+      … (eulx l'appelloyent tribut)", his household at some sixteen
+      thousand more, and "de tous ces personnages icy se trouveront les
+      quictances en la Chambre des comptes à Paris" (II, 241–242); the
+      Swiss at 40,000 Rhenish florins a year and a million florins across
+      the Burgundian war (II, 116); the Breton coalition at 80,000 francs
+      for the duke plus offices, "Le tout dura à son maistre et à luy
+      jusques au trespas dudict roy" (I, 241–242). The receipts were in
+      the Chamber of Accounts: the pension is a budget line, and the
+      witness says where it was filed.
+    - **§VI's counter-case gains its own diagnosis, from a Burgundian.**
+      I, 13: the 1465 army 1,400 men-at-arms "mal armez et mal adroitz,
+      car long temps avoyent esté ces seigneuries en paix"; the subjects
+      "en grande richesse, à cause de la longue paix … et pour la bonté
+      du prince soubz qui ilz vivoyent, **lequel tailloit peu ses
+      subjectz**", their lands "terres de promission". II, 93: "le duc
+      Philippes n'avoit de long temps point levé de tailles; toutesfois
+      trouva-il plus de trois cens mil escuz contens." And Nancy, II, 150:
+      fewer than four thousand in the camp, "dont il n'y en avoit que
+      douze cens en estat de combattre. D'argent avoit ledict duc assez,
+      car il avoit au chasteau de Luxembourg … bien quatre cens cinquante
+      mil escuz, et des gens eust-il recouvert assez." **A hoard in a
+      castle is not a fiscal system** — the money existed and could not be
+      turned into soldiers in the time available. That is §VI's argument
+      in one sentence, from the losing side.
+    - **§IV/§V gain a caution about the infantry.** At Guinegate in 1479
+      the king's *francs-archers* "se misdrent à piller le charroy dudit
+      duc" (II, 275); and Louis "ne mectoit riens en hazard et ne vouloit
+      pour riens les batailles" (II, 276). The ascendancy this chapter
+      describes was exercised largely by not fighting.
+    - **The register the book wants.** "…c'estoit compassion de veoir et
+      sçavoir la povreté du peuple" (II, 220); "si avoit plus chargé le
+      peuple que jamais roy ne feit" (II, 289); the men-at-arms living on
+      the country because paid late, "car l'argent est levé et vient au
+      bout de l'an" (II, 216).
+    - **A retrieval lead.** Calmette's Introduction p. xxxiv lists Jean
+      Masselin, *Journal des États-Généraux tenus à Tours en 1484*, ed.
+      A. Bernier (Documents inédits, 1835) — the T1 record of the 1484
+      assembly that §III presently carries at tertiary strength. Not
+      entered on the RETRIEVAL LIST by this run; proposed at CC-e.
+
+    **CONTRADICTS.**
+    - **The witness calls the mechanism a crime.** II, 290: Charles VII
+      "chargea fort son ame et celles de ses successeurs, et mist une
+      cruelle playe sur son royaume, qui longuement seignera, et une
+      terrible bride de gens d'armes de soulde qu'il institua à la guyse
+      des seigneurs d'Italye" — he greatly charged his soul and those of
+      his successors, and laid a cruel wound upon his kingdom which will
+      long bleed, and a terrible bridle of paid men-at-arms which he
+      instituted after the fashion of the lords of Italy [TRANS. CLAUDE].
+      Not a contradiction of the argument — the book claims a mechanism
+      is operating, not that the settlement is desirable (CLAUDE.md §2) —
+      but a discipline on §III's register. **The answer is to quote him.**
+      A chapter that prints its best primary source's verdict against the
+      thing it describes is harder to accuse of celebration.
+    - **He credits consent bought, not administration built.** No
+      généralité, no élu, no ordinance, no account series appears in six
+      books. §IV's apparatus is Contamine's and must be seen to be; the
+      chapter should say in one sentence that the participant saw the
+      bargain and the historian reconstructs the machinery.
+    - Neither reaches a spine §8 ruling or a DEFEND-tier claim; both are
+      register. Logged to critiques.md Revisions 22.
+
+    **Register decisions proposed for the rulings sheet** (stated, not
+    recommended):
+    - **CC-a.** §III carries II, 289 in the text — Charles VII first to
+      tax without the Estates, for the conquests and against the
+      companies, with the lords consenting for pensions out of the levy
+      on their own lands — as the chapter's T1 statement of the
+      settlement, with II, 217 as the doctrine it broke; or §III keeps
+      Strayer and Contamine carrying the point and puts Commynes in a
+      note.
+    - **CC-b.** The revenue arc is restated as Commynes states it — a
+      ceiling of 1.8m under Charles VII, 4.7m at Louis XI's death "in all
+      things upon his kingdom" and *exclusive of the artillery* — with
+      "a rough tripling in a generation" replaced by the difference of
+      about three million francs a year; or the summary is kept and the
+      qualifiers are relegated to the note.
+    - **CC-c.** §III's 1484 sentence is re-based on the T1 record — 1.2m
+      of taille inside a 2.5m total demand, the Estates asking to be
+      reassembled after two years — replacing "some 1.5 million"; or the
+      sentence is cut pending Masselin.
+    - **CC-d.** §III (or §VIII) prints Commynes's verdict on the
+      settlement — "une cruelle playe sur son royaume, qui longuement
+      seignera" — and states in one sentence that the mechanism is the
+      historian's frame and the bargain is the witness's; or the chapter
+      declines the moral register and says why.
+    - **CC-e.** Masselin's *Journal des États-Généraux … 1484* is entered
+      on the ch10 RETRIEVAL LIST at MEDIUM against §III's 1484
+      paragraph; or §III accepts Commynes plus tome III as sufficient T1
+      and the row is not opened.
+    - **CC-f.** The Louis XI judgement is printed from Calmette with a
+      fresh translation, or kept in Scoble's English with the translation
+      explicitly attributed to Scoble in the parenthesis (CLAUDE.md §8,
+      no verbatim without inline attribution).
+    - **CC-g.** §VI's Burgundian paragraph carries I, 13 ("tailloit peu
+      ses subjectz"; "terres de promission") and II, 150 (450,000 écus in
+      the castle of Luxembourg while 1,200 men stood at Nancy) as the
+      counter-case's own witness; or the section keeps Vaughan and
+      Depreter carrying it and cites Commynes in a note.
+
+---
+
+STATUS: Revisions 47 PENDING HUMAN REVIEW; Revisions 46 PENDING HUMAN
+REVIEW; Revisions 45 PENDING HUMAN
 REVIEW; Revisions 42–44 PENDING
 HUMAN REVIEW; Revisions 31–41 PENDING HUMAN REVIEW; Revisions 1–30 as
 before.

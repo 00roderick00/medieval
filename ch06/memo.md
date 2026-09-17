@@ -2225,6 +2225,62 @@ STATUS: REVIEWED (Roderick, 2026-07-22) — cleared for drafting
       his being the fullest narrative of the Gascon campaign rather
       than on his authority.
 
-STATUS: Revisions 35 PENDING HUMAN REVIEW; Revisions 34 PENDING HUMAN
+36. **(2026-09-16 — Commynes, *Mémoires*, Calmette tomes I–II, read;
+    intake. PENDING HUMAN REVIEW.)** Master entry, offsets and OCR caveat
+    at ch10/sources.md's 2026-09-16 Calmette block; assessment at
+    `research/assessments-2026-09-16/Commynes-Calmette-t1-t2.md`; pointer
+    entry at this chapter's sources.md.
+
+    **CITATION AUDIT.** This chapter's only Commynes item is the
+    DeVries page-correction at memo l. 1178 ("so much shooting" is at
+    DeVries 1998: 138, not 137). **The underlying passage is now
+    verified: Calmette tome I p. 62, Livre I ch. IX** — "Je n'ay jamais
+    veu tant tyrer pour peu de jours, car de nostre costé on se
+    actendoit de les chasser à force d'artillerie" [TRANS. CLAUDE].
+    DeVries's own note pins it to "Calmette and Durville, I, p. 62" and
+    is correct. Revisions 32's statement that the passage "lies in tomes
+    I–II and stays on its DeVries pin" is superseded as to status only;
+    its substance stands. The line is ch10's, not this chapter's.
+
+    **CONFIRMS.** Nothing directly: Livres I–VI open in November 1464 and
+    contain no Normandy or Gascon material.
+
+    **CORRECTS.** Nothing.
+
+    **ADDS (footnote-level, §V or §VI — the siege clock running the other
+    way).** Two cases from the chapter's own mechanism, attested by a
+    witness on the losing side of each. **Beauvais, June–July 1472**
+    (tome I pp. 235–237, Livre III ch. X): relief entered first — ten
+    lances of ordinance on the evening of 27 June "comme m'a esté dit",
+    then "environ deux cens hommes d'armes" at dawn — after which "l'
+    artillerie dudict duc tira continuellement, l'espace de quinze jours
+    ou environ. Et fut la place aussi bien battue que jamais place fut,
+    jusques en l'estat d'assaillir" [TRANS. CLAUDE: the duke's artillery
+    fired continuously for the space of fifteen days or thereabouts, and
+    the place was as well battered as ever place was, to the point of
+    assault] — and the town held. **Neuss, 1474–75** (tome II pp. 6–11,
+    Livre IV chs. I–II): a town held by the landgrave of Hesse with some
+    eighteen hundred horse; the duke "trouva les choses plus dures qu'il
+    ne pensoit" (II, 11), and the year lost there wrecked the
+    Anglo-Burgundian invasion of France. **Commynes was not at Neuss and
+    says so — "car je n'y estoye pas" (II, 7)** — and the pin carries the
+    caveat; he was with the Burgundian army at Beauvais and says so. The
+    use is the chapter's own limiting condition stated positively: when
+    relief arrives inside the *délai de secours* and the place is
+    garrisoned, the guns do not decide, and fifteen days of continuous
+    battery is no longer a clock but a stalemate. This is a strengthening
+    of §V's two-speeds architecture, not a qualification of it — but it
+    must be said plainly that the 1449–50 collapse depended on relief
+    *failing*, not on masonry.
+
+    **CONTRADICTS.** Nothing. (Commynes's general verdict on the
+    fiscal-military settlement is hostile and is logged at ch10/memo.md
+    Revisions 47 and ch10/critiques.md Revisions 22; it does not bear on
+    this chapter's claims.)
+
+    No register decision proposed; both pins are apparatus.
+
+STATUS: Revisions 36 PENDING HUMAN REVIEW; Revisions 35 PENDING HUMAN
+REVIEW; Revisions 34 PENDING HUMAN
 REVIEW; Revisions 29–33 PENDING HUMAN REVIEW; Revisions 1–28 as
 before.

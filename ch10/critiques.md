@@ -1590,11 +1590,63 @@ list; steelmen provisional; do not caricature.
     discriminating variable is the apparatus's survival, not the
     ruler's. Register decision at memo Revisions 46, C7-f.
 
-STATUS: Revisions 21 PENDING HUMAN REVIEW; Revisions 20 PENDING HUMAN
+22. **(2026-09-16 — intake: Commynes, Calmette tomes I–II read; the
+    witness against the settlement he documents. PENDING HUMAN REVIEW.)**
+
+    **Objection, steelmanned.** The chapter's own best primary source
+    does not describe a state being built. He describes a wrong being
+    done and a price being paid for acquiescence. Commynes holds, as
+    doctrine, that no king on earth may levy a penny beyond his domain
+    without the consent of those who pay, "sinon par tyrannie et
+    violence" (Calmette II, 217; restated II, 222), and praises the
+    English parliament as "chose très juste et saincte" that leaves kings
+    "plus fortz et myeulx serviz" (II, 8). On Charles VII's achievement
+    his verdict is that the king "mist une cruelle playe sur son royaume,
+    qui longuement seignera, et une terrible bride de gens d'armes de
+    soulde qu'il institua à la guyse des seigneurs d'Italye" (II, 290).
+    And he explains the settlement not by administration but by purchase:
+    "à ceci se consentirent les seigneurs de France pour certaines
+    pensions qui leur furent promises pour les deniers que on levoit en
+    leurs terres" (II, 289). A hostile reader may put it thus: the
+    chapter takes a contemporary who calls the fiscal-military state a
+    bleeding wound and a foreign bridle, extracts his figures, discards
+    his judgement, and supplies from Contamine's archives an
+    administrative apparatus the witness never saw — then calls the
+    result a mechanism found in the sources.
+
+    **The chapter's answer.** Three parts, and the first two are
+    concessions. (i) The judgement is not discarded; it is quoted. The
+    book claims a mechanism is operating and explicitly not that the
+    settlement is desirable (CLAUDE.md §2), so Commynes's indictment is
+    admissible in full and strengthens the chapter's standing: a chapter
+    that prints "une cruelle playe sur son royaume, qui longuement
+    seignera" in its own text cannot be read as celebration. (ii) The
+    apparatus is Contamine's and the chapter should say so in a sentence
+    — the participant saw guns, money and a bargain; the account series,
+    the quarterly rule and the thirty clerks are recovered from the
+    archive, not from the memoir. That is the ordinary condition of
+    institutional history and is only a defect if concealed. (iii) The
+    purchase is not an alternative to the mechanism; **it is the
+    mechanism's fourth link.** "Pensions promised them out of the money
+    levied in their lands" is the suppression of intermediate authorities
+    accomplished by the new revenue itself — the barons financed out of
+    the instrument that displaced them — and it is a better-evidenced
+    route to the same terminus than compulsion would have been. The
+    concession worth making explicitly is that in France the intermediate
+    authorities were, at the decisive moment, bought rather than broken;
+    ch11 §VII already argues that the English settlement bound rather
+    than confiscated, and Commynes supplies the French counterpart at T1.
+    *Cost:* one sentence of frame-honesty in §III or §IV, and the
+    quotation of a hostile verdict the chapter would rather paraphrase.
+    Register decisions at memo Revisions 47, CC-a and CC-d.
+
+STATUS: Revisions 22 PENDING HUMAN REVIEW; Revisions 21 PENDING HUMAN
+REVIEW; Revisions 20 PENDING HUMAN
 REVIEW; Revisions 18–19 PENDING
 HUMAN REVIEW; Revisions 9–17 PENDING HUMAN REVIEW; Revisions 1–8 as
 before. The register decisions these entries imply are listed at
 ch10/memo.md Revisions 41 (10-a to 10-l), Revisions 44 (T75-a to T75-d,
-B73-a to B73-c, M60-a to M60-e), Revisions 45 (P43-a to P43-h) and
-Revisions 46 (C7-a to C7-f), stated not recommended.
+B73-a to B73-c, M60-a to M60-e), Revisions 45 (P43-a to P43-h),
+Revisions 46 (C7-a to C7-f) and Revisions 47 (CC-a to CC-g), stated not
+recommended.
 
