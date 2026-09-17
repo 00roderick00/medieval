@@ -1143,4 +1143,97 @@ precisely so that patience cannot be pleaded later.
       his own third possibility concedes that internally homogeneous
       blocs can found order: the book's picture, not its refutation.
 
-STATUS (Revisions 9–19): PENDING HUMAN REVIEW.
+20. **(2026-09-16 — source intake: Wolin's dating objection — if inverted
+    totalitarianism was already in place by 2008, what does the decisive
+    stack add? PENDING HUMAN REVIEW.)** T2 (Princeton, 2008); in corpus
+    this date; rival diagnosis, not ally. Reaches spine §8(g) items 1–4
+    and, through them, the DEFEND-tier claim that the *stack* is what
+    forces the absorption.
+    - **The objection at full strength.** Wolin does not date the
+      separation of legitimating authority from effective control to the
+      platform era. He dates it to the permanent war economy: "Rearmament
+      was institutionalized as a huge, albeit controversial, and permanent
+      part of the nation's economy and annual budget. A 'defense
+      establishment,' comprising the economy, the military, and the state,
+      came into being. It would alter the political identity of the
+      society for decades to come" (p. 28); "The Cold War consolidated the
+      power of capital and began the reaction against the welfare state
+      but without abandoning the strong state. What was abandoned was all
+      talk of participatory democracy" (p. 26). The corporate half is
+      older than that — "corporate power itself is at least as old as the
+      'trusts' of the nineteenth century … What is unprecedented in the
+      union of corporate and state power is its systematization and the
+      shared culture of the partners" (pp. 66–67) — and the strategic
+      half is stated as already accomplished: "That the patriotic citizen
+      unswervingly supports the military and its huge budgets means that
+      conservatives have succeeded in persuading the public that the
+      military is distinct from government. Thus the most substantial
+      element of state power is removed from public debate" (p. 199);
+      "even a gridlocked Congress will likely support, even
+      enthusiastically increase, military spending" (p. 203). He then
+      predicts, in 2008, that the condition will outlast any electoral
+      correction: the system "would survive even if the Democrats were to
+      become the majority party in control of both the presidency and
+      Congress … the system will set tight limits to unwelcome changes"
+      (pp. 286–87). Put together: the ornamental condition was in place
+      sixty years before the compute-foundry-satellite stack, under a
+      corporate and cultural mechanism that owes nothing to weapon
+      capital-intensity; Appendix C's DC series is therefore measuring an
+      old condition and attributing it to a new cause; and "ornamental
+      democracy" is a fresh name for something a predecessor diagnosed in
+      1950s terms. The objection is the strongest in the file against
+      §8(g), because it does not deny the condition — it concedes it, and
+      takes the mechanism's credit away.
+    - **The book's answer (grade preserved) — GOOD ON THE FIRST MOVE,
+      HONEST ONLY IF THE THIRD IS CONCEDED. Grade: PARTLY GOOD, PARTLY A
+      CONCESSION OWED.** *First*, Wolin's own text supplies the element
+      his objection omits. His state is not a consolidator; it is a state
+      that sheds capability: "while the scope of government regulatory
+      authority has receded, corporate power has increasingly assumed
+      governmental functions and services, many of which had previously
+      been deemed the special preserve of state power. Corporate expansion
+      extends to military functions, a province once jealously guarded as
+      a state prerogative" (p. 136), so that "'privatization' becomes
+      normal and state action in defiance of corporate wishes the
+      aberration" (p. 136). That is the 1950–2008 trajectory and it runs
+      away from consolidation — outsourcing under a permanent budget, with
+      the supplier interchangeable and the state indifferent to which one
+      it is. The book's claim is that the trajectory reverses when the
+      capability becomes decisive and unreplaceable, and the reversal has
+      instruments Wolin's 2008 does not contain: extraterritorial export
+      controls on a fabrication chokepoint, equity taken in a supplier,
+      clearance regimes over a constellation, a programme of record for a
+      frontier model. Command over a licensed layer is a different
+      settlement from spending on a contracted one, and it is the second
+      the indicators score. *Second*, the two claims are compatible and
+      separately scoreable: Wolin's diagnosis, if true, is the
+      unfavourable prior the democratic-control sub-wager runs against,
+      and the book's contribution is to have made falsifiable what he
+      offered as "tentative, hypothetical" (p. xvi) — DC-1 can take
+      pp. 286–87 as the null hypothesis the falsifier must beat. *Third,
+      and this is the concession*: the book cannot claim that the defence
+      establishment failed to separate strategic commitments from
+      electoral control. Wolin is probably right that it did, and the
+      draft's close reads as though the condition were emerging. The
+      honest form of the claim is narrower — the mechanism predicts not
+      the ornamental condition's **arrival** but its **irreversibility**:
+      the point at which the state's dependence on the decisive layer can
+      no longer be escaped by re-tendering, so that what was a budget
+      relation becomes a constitutional one. Recommended for the
+      renovation as one clause at §VII (memo Revisions 29–30, "The coinage
+      ledger check, completed", item 4), and recorded here as a
+      concession, not a rebuttal, because it is one.
+    - **Two smaller cuts, and why they are not carried separately.**
+      (i) Wolin's trajectory, like Crouch's parabola, has no return
+      stroke; the answer is the answer at Revisions 15 (the exit option a
+      foundry does not have) and is not restated. (ii) Read straight, his
+      "dissociated democracy … the people reigned but did not rule"
+      (pp. 228–29) is said of the Founders' constitution — which, like
+      Bagehot's universal at Revisions 16, would make the ornamental
+      condition the American norm rather than an outcome to score. The
+      §8(g)(2) falsifiers do the same work here that they do against
+      Bagehot: the book scores a measurable degree of separation on
+      strategic commitments, not the fact of separation, and the reply is
+      already on the file.
+
+STATUS (Revisions 9–20): PENDING HUMAN REVIEW.

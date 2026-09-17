@@ -2477,3 +2477,259 @@ STATUS (Revisions 16–27 and the Part B2 section): PENDING HUMAN REVIEW.
     run remains pending.
 
 STATUS (Revisions 28): PENDING HUMAN REVIEW.
+
+29. **(2026-09-16 — source intake: Sheldon S. Wolin, *Democracy
+    Incorporated* (Princeton, 2008), now in corpus; spine §8(g) items 1,
+    3, 4 and 6. PENDING HUMAN REVIEW.)** Executed as a SOURCE INTAKE
+    unit; **nothing below has been applied to draft.md**. Assessment at
+    `research/assessments-2026-09-16/Wolin-2008.md`; sources.md entry
+    filed this date. Sidecar
+    `text-2026-09-16/Wolin-Democracy-Incorporated-2008.txt`, native text,
+    clean; offset printed = PDF − 20 (main text), PDF − 1 (roman front
+    matter), established from running heads. Read in full: Preface,
+    Preview, chs. 2, 3, 8, 10, 11, 13 and ch. 12 pp. 238–47; chs. 1, 4,
+    5, 6, 7, 9 by opening and closing only; Notes and Index not read.
+    Whole-text greps were run across all 375 pages, so the ledger check
+    is complete even where the reading is not.
+
+    **CONFIRMS.** (a) The split the chapter's close rests on, in a second
+    independent vocabulary: "the peculiar combination of governing elites
+    and a populace that reigns without ruling" (p. 149), and "a two-tiered
+    system that, at the national level, might be called one of
+    'dissociated democracy.' There the people reigned but did not rule"
+    (pp. 228–29). Bagehot's distinction reached without Bagehot.
+    (b) The restriction of the object to strategic commitments, which the
+    draft states as its own discipline, has Wolin's *arcana imperii*
+    version: foreign policy kept "out-of-bounds politically, not only to
+    safeguard secrets but to insulate decision-makers from the whims of a
+    democratic citizenry" (p. 133), and the sharper form — "That the
+    patriotic citizen unswervingly supports the military and its huge
+    budgets means that conservatives have succeeded in persuading the
+    public that the military is distinct from government. Thus the most
+    substantial element of state power is removed from public debate"
+    (p. 199). (c) §8(g) item 3's present indicator, in his own word:
+    "predomination—that is, rule by diverse powers which have found it in
+    their interests to combine while retaining their separate identities"
+    (p. 185). (d) Legitimation as ceremony: "Democratic legitimation might
+    be defined as the ceremonial and symbolic action whereby citizens
+    invest power with authority" (p. 147).
+
+    **CORRECTS (the current §VII wording quoted; NOT applied).** (i) The
+    draft now reads: "Wolin's *Democracy Incorporated* (2008) is the
+    other, named here and not cited, because it is not in the corpus
+    [GAP: Wolin, *Democracy Incorporated* (2008) — retrieval; not in
+    corpus; the coinage claim is provisional until the check against his
+    'inverted totalitarianism' is made at the page]." The premise is
+    false as of this date and both the sentence and the bracket are
+    superseded; the replacement is proposed at "The coinage ledger check,
+    completed" below. (ii) The draft's naming of the two predecessors in
+    one breath — "And the predecessors are named. Crouch is one, at the
+    pins above. Wolin's *Democracy Incorporated* (2008) is the other" —
+    treats them as a pair of allies. They are not a pair: Crouch is the
+    predecessor whose concept the book takes a special case of; Wolin is a
+    RIVAL DIAGNOSIS of the same symptoms, and the text must say which is
+    which. (iii) Nothing else in §VII is factually corrected by him.
+
+    **ADDS.** (1) The chapter's single best sentence for the object
+    restriction, p. 199, to sit beside Bagehot's "sole charge of one
+    secret committee". (2) *Predomination* (p. 185) as a more exact name
+    than "fusion" for absorption-by-alliance, credited to him and not
+    adopted as the book's — the parties combine and keep their identities,
+    which is precisely the American case the indicator watches.
+    (3) Appendix C, DC-1: a dated counter-prediction the falsifier must
+    beat — the system "would survive even if the Democrats were to become
+    the majority party in control of both the presidency and Congress …
+    the system will set tight limits to unwelcome changes, as is
+    foreshadowed in the timidity of current Democratic proposals for
+    reform" (pp. 286–87). Published 2008; the condition has since
+    obtained twice. (4) DC-2: "military spending is nearly four times
+    greater than the expenditures on social programs; yet neither party
+    would dream of proposing an amendment specifically limiting or
+    controlling military spending" (p. 157), and "even a gridlocked
+    Congress will likely support, even enthusiastically increase, military
+    spending" (p. 203). (5) A coincidence worth one clause and no more:
+    his own figure for the privatisation of politics is "a development
+    that occurred broadly in sixteenth-century England and which
+    historians refer to as the 'enclosure movement'" (p. 283).
+
+    **CONTRADICTS — the dating objection, at full strength.** Wolin dates
+    the condition from the Cold War's permanent war economy:
+    "Rearmament was institutionalized as a huge, albeit controversial, and
+    permanent part of the nation's economy and annual budget. A 'defense
+    establishment,' comprising the economy, the military, and the state,
+    came into being" (p. 28); "The Cold War consolidated the power of
+    capital and began the reaction against the welfare state but without
+    abandoning the strong state. What was abandoned was all talk of
+    participatory democracy" (p. 26); and the union of corporate and state
+    power is older still — "What is unprecedented in the union of
+    corporate and state power is its systematization and the shared
+    culture of the partners" (pp. 66–67). If the separation of
+    legitimating authority from effective control of strategic
+    commitments was achieved in the United States by 1950, without a
+    compute stack, the book's mechanism explains nothing it did not
+    already have and the 2020s indicators are measuring a sixty-year-old
+    condition. Reaches §8(g) items 1–4. Entered in critiques.md this date
+    with the book's answer and the grade.
+
+    **Consensus / contested / book.** Wolin's terms and his dating are his
+    (contested interpretation, and he says so: "tentative, hypothetical",
+    p. xvi); the regime/commitment distinction that separates his object
+    from the book's, and the irreversibility concession the critiques
+    entry recommends, are the book's own (c).
+
+30. **(2026-09-16 — source intake: Colin Crouch, *Post-Democracy*
+    (Polity, 2004), now in corpus as a PARTIAL scan. PENDING HUMAN
+    REVIEW.)** Assessment at
+    `research/assessments-2026-09-16/Crouch-2004.md`. **What the file is:
+    a two-up photocopy of 32 sheets carrying printed pp. 1–31 (ch. 1
+    complete), 52–53, 56–77 and one References leaf. Missing: the
+    Preface; pp. 32–51, i.e. almost all of ch. 2 "The Global Firm";
+    pp. 54–55; pp. 78–123, i.e. the rest of ch. 4, all of ch. 5 and all of
+    ch. 6 (the conclusions); the Index.** OCR moderate; every doubtful pin
+    flagged and, where possible, corroborated at the 2000 typescript,
+    whose text layer is clean.
+
+    **CONFIRMS.** Every Crouch pin §VII now carries is confirmed at the
+    2004 printed page: the spectacle and the post-democratic pole (p. 4),
+    the parabola (p. 5), the forms-remain sentence (p. 6), democracy and
+    liberalism distinguished (pp. 16–17), the symptoms (pp. 19–20),
+    "difficult to dignify it as democracy itself" (p. 21), "Virtually all
+    the formal components" (p. 22), the USA as the advanced case (p. 23).
+
+    **CORRECTS (current wording quoted; NOT applied).** §VII reads:
+    "Crouch called the condition post-democracy: a polity in which 'the
+    forms of democracy remain fully in place — and today in some respects
+    are actually strengthened' while 'politics and government are
+    increasingly slipping back into the control of privileged elites'
+    (2000: PDF 2), in which 'virtually all the formal components of
+    democracy survive' and yet 'it is difficult to dignify it as democracy
+    itself' (PDF 8)." The pins are right and the citation form is now
+    inferior: each of those four quotations is available at the T2 book's
+    printed page — 2004: 6, 6, 22, 21 — and the chapter should cite the
+    book. Two Crouch quotations §VII uses have NO carrier in the 2004
+    scan and must stay at the pamphlet, labelled as such: "had voted for
+    it; the policy had democratic legitimacy" (2000: PDF 14) and the
+    sentence on reducing the military's political power (2000: PDF 32).
+    Likewise the two passages critiques Revisions 15 relies on —
+    "institutional idiot" and "impossible to see any major reversal" —
+    lie in chs. 2 and 6 and are not in the scan.
+
+    **ADDS.** (1) The fusion at a printed page, with his own verdict on
+    it: "we are steadily moving towards the establishment of a new
+    dominant, combined political and economic, class … This is the central
+    crisis of early twenty-first-century democracy" (p. 52). (2) The
+    **ellipse** — the leadership core "stretched from being an inner
+    circle of the party to being an ellipse stretching way out beyond the
+    party's ranks" (p. 73), ending in "a self-reproducing inner elite,
+    remote from its mass movement base, but nested squarely within a
+    number of corporations" (p. 74) — a sharper geometry for §8(g)(3)
+    than "fusion", and not in the pamphlet's developed form. (3) A
+    counter-datum for DC-5 from his own case: Forza Italia, the party
+    that was "essentially a firm, or network of firms" (p. 75), acquired
+    "members and a local voluntary structure, and … became more successful
+    as a result" (p. 75) because local government reasserted itself
+    (p. 76). The fusion is not one-way, on the predecessor's own evidence.
+    (4) A negative finding for §8(g) item 4: the pages present contain no
+    account of how the post-democratic state is financed. The fiscal limb
+    is the book's.
+
+    **CONTRADICTS.** Nothing new. The objection is critiques Revisions
+    15's, sharpened only at the party limb (pp. 73–75): on his account the
+    party becomes the firm, where the book's state absorbs it. Grade
+    unchanged.
+
+    **Consensus / contested / book.** Crouch's post-democracy is a named
+    and widely cited interpretation (contested; he concedes the optimist's
+    reading at p. 12 before answering it); the special-case relation, the
+    restriction of object, the falsifiers and the fiscal limb are the
+    book's (c).
+
+## The coinage ledger check, completed (spine §8(g)(6))
+
+*Owed since 14 September, made at the page this date against both
+predecessors. Stated as a proposal for the renovation; nothing here is
+applied to draft.md.*
+
+**The check.** (i) **Crouch 2000** (typescript, read in full, 14
+September): zero occurrences of ornament / ornamental / façade / hollow /
+husk / veneer. (ii) **Crouch 2004** (the partial scan, read in full this
+date): zero occurrences of ornament / ornamental / façade / facade /
+veneer / husk / shell / hollow / decorative / ceremonial; his words are
+"spectacle", "forms of democracy", "formal components", "entropy",
+"parabola". Stated limit: chs. 5–6 are not in the scan. (iii) **Bagehot**
+(14 September): "ornamental" twice, in one passage, of "the additional
+and solely-ornamental wheels introduced into the clocks of the Middle
+Ages"; never of a constitution, never with "democracy". (iv) **Wolin
+2008** (whole text, 375 pp., this date): **zero** occurrences of ornament
+/ ornamental / façade / facade / veneer / husk / decorative. Reported in
+full so the record is honest: *charade* and *shell game* of one 2006
+legislative episode (pp. 77–78); *hollowed out*, of the English
+monarchy's substance and not of democracy (p. 96); *ceremonial
+figurehead*, of kingship (p. 97); and one genuine near-hit — "Democratic
+legitimation might be defined as the ceremonial and symbolic action
+whereby citizens invest power with authority" (p. 147). His whole-phrase
+equivalents are "managed democracy", "dissociated democracy" (p. 228),
+"a rhetorical democracy" (p. 218) and "a bogus political democracy"
+(p. 273).
+
+**The verdict, stated plainly. "Ornamental democracy" SURVIVES as ch12's
+one coined concept, on three conditions, all of which must be met in the
+text at first use.** It is not Bagehot's phrase; it is not Crouch's
+phrase and his 2004 statement does not change that; it is not Wolin's
+phrase, and — the question the ledger was owed — it is **not Wolin's
+concept renamed**. His object is a regime type covering the whole
+polity ("a new type of political system", p. 44), corporate and cultural
+in mechanism, avowedly "tentative, hypothetical" (p. xvi) and untested by
+any falsifier. The book's object is a measurable relation restricted to
+the state's strategic commitments and the decisive stack, with four
+published falsifiers, arising from a fiscal-military mechanism. A bloc
+could score ornamental on the book's test while Wolin's other indices
+improved, and could score democratic on it while remaining, on his
+account, inverted-totalitarian. Those are different objects, and the
+term may therefore be claimed — but only as the narrow thing it is.
+
+**What §VII must say at first use of the term, if Roderick rules the
+coinage kept (proposed wording for the renovation, not applied).**
+
+1. **Keep the Crouch clause as drafted**, re-pinned to the 2004 book —
+   the term "is introduced as a special case of post-democracy, not as
+   his concept renamed", with the four quotations at Crouch 2004: 6, 21,
+   22 and the parabola at 5, and the two pamphlet-only sentences kept at
+   Crouch 2000 and labelled as the Fabian typescript.
+2. **Keep the adjective clause**, which is now checkable against three
+   texts instead of one: the adjective occurs in neither Crouch nor
+   Wolin, and in Bagehot only of medieval clock-wheels.
+3. **Replace the [GAP: Wolin] sentence with the rival-diagnosis
+   sentence.** The draft's "Wolin's *Democracy Incorporated* (2008) is
+   the other, named here and not cited, because it is not in the corpus
+   [GAP: …]" goes, and in its place a sentence of the form: *Wolin named
+   the same symptoms and drew a larger conclusion from them, calling the
+   American regime an inverted totalitarianism whose electoral technique
+   is a managed democracy — "a political form in which governments are
+   legitimated by elections that they have learned to control" (2008: 47)
+   — and describing, without the adjective, a populace that "reigns
+   without ruling" (p. 149); the book takes the narrower object and the
+   heavier obligation, restricting the claim to the state's strategic
+   commitments and publishing the four tests by which it can be shown
+   false, where his diagnosis is offered as "tentative, hypothetical"
+   (p. xvi).* The exact wording is Roderick's; the three elements it must
+   carry are the rival status, the difference of object, and the
+   difference of testability.
+4. **State the concession the dating objection earns** (critiques
+   Revisions 20, this date), in one clause and not a paragraph: that in
+   the American case the separation of strategic commitments from
+   electoral control predates the stack — Wolin dates it from the Cold
+   War defence establishment — so that what the mechanism predicts is not
+   the condition's arrival but its **irreversibility**: the point at
+   which the state's dependence on the decisive layer can no longer be
+   escaped by re-tendering. This narrows the claim and makes it more
+   defensible; the memo recommends it and does not assume it.
+5. **Credit *predomination* where the present indicator is stated**
+   (§IV's fusion paragraph, or §VII): Wolin's word for combination with
+   retained identities (2008: 185), cited AS HIS and not adopted, beside
+   Crouch's "combined political and economic class" (2004: 52).
+6. **Footer ledger consequence.** The coinage count stands at ONE and is
+   no longer provisional; Revisions 28C's flag on "the over-mighty
+   citizen" (§IV) is unaffected and remains for Roderick.
+
+STATUS (Revisions 29–30 and the ledger check): PENDING HUMAN REVIEW.

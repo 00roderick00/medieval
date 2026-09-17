@@ -1559,3 +1559,163 @@ chapter now uses are listed, against the entries above.*
   from nothing; the "ornamental democracy" coinage is provisional until
   "inverted totalitarianism" is checked at the page. No entry is made
   for the work itself.
+
+## Added 2026-09-16 — intake (Wolin 2008; Crouch 2004; pins verified)
+
+*Filed at the source-intake unit that completes the coinage ledger check
+required by spine §8(g)(6). Both works are now in corpus; every pin below
+was opened at the sidecar before entry. Assessments:
+`research/assessments-2026-09-16/Wolin-2008.md` and `Crouch-2004.md`.
+Nothing here has entered draft.md — the proposed §VII wording is in
+memo.md Revisions 29–30 and awaits Roderick's ruling.*
+
+- **T2 — Sheldon S. Wolin, *Democracy Incorporated: Managed Democracy
+  and the Specter of Inverted Totalitarianism* (Princeton University
+  Press, 2008).** In corpus:
+  `corpus/retrieved/Wolin-Democracy-Incorporated-2008.pdf` (375 pp.);
+  sidecar `text-2026-09-16/Wolin-Democracy-Incorporated-2008.txt`, native
+  text layer, clean. **Offset: printed page = PDF − 20 for the main text
+  (Preview "1" at PDF 21; "292 Chapter Thirteen" at PDF 312); printed
+  roman = PDF − 1 for the front matter ("x Preface" at PDF 11).** Cite as
+  Wolin 2008 by printed page. Read in full: Preface, Preview, chs. 2, 3,
+  8, 10, 11, 13, and ch. 12 pp. 238–47; openings and closings only for
+  chs. 1, 4, 5, 6, 7, 9; Notes and Index not read.
+  *Use-notes.* (i) **Named at §VII as a predecessor and as the RIVAL
+  DIAGNOSIS**, with the difference stated at first use: his object is a
+  regime type covering the whole polity, the book's is a measurable
+  relation restricted to strategic commitments; his construction is
+  avowedly "tentative, hypothetical" (p. xvi), the book's carries four
+  falsifiers; his mechanism is corporate and cultural, the book's
+  fiscal-military. (ii) Pins for §VII: "'Inverted totalitarianism'
+  projects power inwards" and the corporate symbiosis — "a system that
+  represents the political coming-of-age of corporate power" (p. xiii);
+  "in coining the term 'inverted totalitarianism' I tried to find a name
+  for a new type of political system" (p. 44); "The new system, inverted
+  totalitarianism, is one that professes to be the opposite of what, in
+  fact, it is" (p. 46); managed democracy — "a political form in which
+  governments are legitimated by elections that they have learned to
+  control", "Managed democracy is democracy systematized" (p. 47); "the
+  smiley face of inverted totalitarianism" (p. xvi); "molding the support
+  of the citizens without allowing them to rule" (p. 142); "the peculiar
+  combination of governing elites and a populace that reigns without
+  ruling" (p. 149); "dissociated democracy. There the people reigned but
+  did not rule" (pp. 228–29). (iii) The strategic-commitments limb: "the
+  most substantial element of state power is removed from public debate"
+  (p. 199); the *arcanae imperii* extension (p. 133); the exclusion of the
+  public "from a deliberative role in each and all of the major preserves
+  of modern power" (p. 134). (iv) §8(g) item 3, the fusion, cited AS HIS
+  TERM and not adopted: "predomination—that is, rule by diverse powers
+  which have found it in their interests to combine while retaining their
+  separate identities" (p. 185); "the incorporated state" (p. 51).
+  (v) §8(g) item 4: he supplies a mechanism, not a series — "the sheer
+  size and complexity of imperial power and the expanded role of the
+  military make it difficult to impose fiscal discipline and
+  accountability" (p. 245); p. 192 (military expenditures, subsidies,
+  deficits); p. 157 (the 2008 defence/social ratio). No equivalent of
+  Tilly's bargaining mechanism; the rent-financing inference stays the
+  book's (c). (vi) Appendix C, DC-1: the dated counter-prediction —
+  the system "would survive even if the Democrats were to become the
+  majority party in control of both the presidency and Congress … the
+  system will set tight limits to unwelcome changes" (pp. 286–87).
+  (vii) **The ledger result (spine §8(g)(6)):** whole-text grep gives
+  ZERO occurrences of ornament / ornamental / façade / facade / veneer /
+  husk / decorative. Reported in full, so the record is honest: *charade*
+  and *shell game* of one 2006 legislative episode (pp. 77–78);
+  *hollowed out*, of the English monarchy's substance, not of democracy
+  (p. 96); *ceremonial figurehead*, of kingship (p. 97); and the one
+  genuine near-hit — "Democratic legitimation might be defined as the
+  ceremonial and symbolic action whereby citizens invest power with
+  authority" (p. 147). His whole-phrase equivalents are "dissociated
+  democracy" (p. 228), "managed democracy", "a rhetorical democracy"
+  (p. 218), "a bogus political democracy" (p. 273). **"Ornamental
+  democracy" is not his phrase and is not his concept renamed.**
+  (viii) NOT to be used: his historical asides (Athens, the Founders,
+  the sixteenth-century enclosures at p. 283) as evidence for anything —
+  illustrative only; the book contains no fifteenth century at all
+  ("feudal", "Tudor", "artillery", "gunpowder": zero; "medieval": once,
+  of an aphorism).
+
+- **T2 (partial) — Colin Crouch, *Post-Democracy* (Polity Press, 2004;
+  *Themes for the 21st Century*).** In corpus:
+  `corpus/retrieved/Crouch-Post-Democracy-2004.pdf`; sidecar
+  `text-2026-09-16/Crouch-Post-Democracy-2004.txt`. **THE FILE IS A
+  PARTIAL TWO-UP PHOTOCOPY, 32 PDF sheets, not the whole book.** Offset:
+  PDF 4 = printed p. 1; PDF *n* = pp. (2*n* − 8, 2*n* − 7) for *n* = 5–19;
+  the scan then jumps. **Present:** pp. 1–31 (ch. 1 complete), 52–53,
+  56–77, and one References leaf (pp. 124–25). **Missing:** the Preface;
+  pp. 32–51 — almost all of ch. 2, "The Global Firm"; pp. 54–55;
+  pp. 78–123, i.e. the rest of ch. 4, all of ch. 5 and all of ch. 6
+  (the conclusions); the Index. OCR moderate: single-character slips are
+  frequent and every doubtful pin is flagged. Cite as Crouch 2004 by
+  printed page where the page is present; otherwise Crouch 2000 by PDF
+  page, labelled as the Fabian typescript.
+  *Use-notes.* (i) **Named at §VII as the predecessor whose concept the
+  book takes a special case of**, unchanged from the 14 September verdict.
+  (ii) Pins confirmed at the 2004 printed page, replacing the pamphlet's
+  PDF pins wherever §VII now uses them: the spectacle and "we are
+  increasingly moving towards the post-democratic pole" (p. 4; "towerds"
+  OCR, corroborated at the 2000 typescript PDF 1); the parabola (p. 5);
+  "while the forms of democracy remain fully in place — and today in some
+  respects are actually strengthened — politics and government are
+  increasingly slipping back into the control of privileged elites in the
+  manner characteristic of pre-democratic times" (p. 6; "beck" OCR,
+  corroborated at 2000 PDF 2); democracy and liberalism distinguished
+  (pp. 16–17) with the atrophy mechanism (p. 18); the symptoms list
+  (pp. 19–20); "One cannot call this kind of politics non- or
+  anti-democratic … At the same time it is difficult to dignify it as
+  democracy itself" (p. 21; OCR, corroborated at 2000 PDF 8); "Virtually
+  all the formal components of democracy survive within post-democracy"
+  (p. 22); the USA as the advanced case (p. 23); "we must expect an
+  entropy of democracy" (p. 12). (iii) §8(g) item 3: "we are steadily
+  moving towards the establishment of a new dominant, combined political
+  and economic, class … **This is the central crisis of early
+  twenty-first-century democracy**" (p. 52) — his own verdict on the
+  fusion, at a printed page; and the **ellipse**, the leadership core
+  "stretched from being an inner circle of the party to being an ellipse
+  stretching way out beyond the party's ranks" (p. 73), ending in "a
+  self-reproducing inner elite, remote from its mass movement base, but
+  nested squarely within a number of corporations" (p. 74), with Forza
+  Italia — "essentially a firm, or network of firms" (p. 75) — as the
+  case, and its partial re-partyfication (pp. 75–76) as a counter-datum
+  for DC-5. (iv) §8(g) item 4: **negative finding** — the pages present
+  contain no account of how the post-democratic state is financed; the
+  nearest is the exit threat (p. 29). The fiscal limb is not his.
+  (v) **The ledger result:** across the whole sidecar, ZERO occurrences of
+  ornament / ornamental / façade / facade / veneer / husk / shell /
+  hollow / decorative / ceremonial. His words are "spectacle" (p. 4),
+  "forms of democracy" (p. 6), "formal components" (p. 22), "entropy"
+  (p. 12), "parabola" (pp. 5, 20). **The 2004 statement does not change
+  the 2000 verdict: the adjective is free, the noun is his.** Stated
+  limit: chs. 5–6 are not in the scan and are unchecked; the full reading
+  of the 2000 typescript is the corroborating witness.
+  (vi) Two passages that carry the objection at critiques Revisions 15 —
+  "Government becomes a kind of institutional idiot" and "it is
+  impossible to see any major reversal of them" — lie in chs. 2 and 6 and
+  are NOT in this scan; they remain cited at Crouch 2000 (PDF 17, 31).
+  (vii) RETRIEVAL, completion target (not a fresh acquisition): Crouch
+  2004 pp. 32–51 (ch. 2) and pp. 78–123 (chs. 5–6).
+
+- **Recorded against the dispute, per CLAUDE.md §5.** Crouch and Wolin
+  disagree about the same object and the book must not merge them.
+  Crouch's is an **economic-elite account with a class mechanism**: the
+  firm's mobility and the elites' combination drain a polity whose forms
+  survive, and the condition is a *direction on a scale* between poles he
+  calls exaggerations (2004: 4). Wolin's is a **regime-type account**:
+  not a drift but "a new type of political system" (2008: 44) of which
+  managed democracy is the electoral technique, with the corporation's
+  political coming-of-age as its dynamic (2008: xiii) and the Cold War
+  defence establishment as its origin (2008: 26, 28). Crouch's drift has
+  no return stroke; Wolin's regime survives party alternation by design
+  (2008: 286–87). The book's own claim (c) sits with neither: the
+  mechanism is fiscal-military, the object is the decisive stack, and the
+  condition is falsifiable by four named tests. The disagreement is
+  recorded, not resolved.
+
+- **[GAP: Wolin] CLOSED.** The retrieval note entered in the Part B2
+  block of this date — "NOT IN CORPUS … the 'ornamental democracy'
+  coinage is provisional until 'inverted totalitarianism' is checked at
+  the page" — is discharged. The check is made at
+  `research/assessments-2026-09-16/Wolin-2008.md` §4(1)–(2) and recorded
+  above; the draft's own "[GAP: Wolin …]" flag stands in draft.md until
+  the renovation removes it on Roderick's ruling, since this unit touches
+  no draft.

@@ -852,6 +852,107 @@ job; assembly per the directive above.*
      §V, appendix-b row 12) was conformed in this run's chapter
      passes.
 
+## Revisions (2026-09-16 — source intake: Wolin 2008 and Crouch 2004 against DC-1..6. PENDING HUMAN REVIEW.)
+
+*Filed by the source-intake unit that closed the spine §8(g)(6) ledger
+check. Assessments at `research/assessments-2026-09-16/`. Nothing is
+scored here; baselines and counter-predictions are entered only where the
+source is dated and measurable, NEEDS BASELINE otherwise. Wolin cited by
+printed page (offset PDF − 20); Crouch 2004 by printed page where the
+partial scan carries it, otherwise Crouch 2000 by PDF page.*
+
+**(a) Note 7(f) is superseded.** That note read: "Wolin is not in corpus;
+the ornamental-democracy ledger check against him is still owed (this
+appendix uses the term as spine §8(g) defines it and claims no coinage)."
+Wolin is in corpus as of this date and the check is made
+(ch12/memo.md, "The coinage ledger check, completed"): the coinage
+survives, on conditions. The appendix's own practice need not change — it
+uses the term as §8(g) defines it — but the standing caveat can go at the
+renovation.
+
+**(b) DC-1 (elections that redirect strategic commitments) — a dated
+counter-prediction, adopted as the null hypothesis.** Wolin, writing in
+2007–8, predicted that inverted totalitarianism "will likely survive
+military defeat and public scorn of its leader … That the system will
+survive his retirement, would survive even if the Democrats were to
+become the majority party in control of both the presidency and
+Congress … the system will set tight limits to unwelcome changes, as is
+foreshadowed in the timidity of current Democratic proposals for reform"
+(2008: 286–87). This is dated, has a named test condition, and the
+condition has since obtained twice (unified control 2009–11 and 2021–23).
+Recommended use: **not** as a baseline series but as the explicit null the
+DC-1 falsifier must beat — an election is scored as redirecting only
+where the redirection is demonstrable on the strategic-commitments
+register, precisely because the predecessor predicted that unified
+control would not produce one. The register itself remains NEEDS
+BASELINE; nothing in Wolin supplies it.
+
+**(c) DC-2 (legislatures that enforce meaningful conditions) — one dated
+ratio, one mechanism, no series.** Wolin: "military spending is nearly
+four times greater than the expenditures on social programs; yet neither
+party would dream of proposing an amendment specifically limiting or
+controlling military spending" (2008: 157) — a 2008 datum whose successor
+series would need an independent fiscal source; the ratio as he states it
+is unsourced in the book and is recorded as **NEEDS VERIFICATION, not
+scored**. The mechanism claim, which is the usable part: "even a
+gridlocked Congress will likely support, even enthusiastically increase,
+military spending. Similarly, gridlock does not prevent tax breaks for
+the wealthiest classes from being legislated" (2008: 203) — i.e.
+legislative deadlock is not evidence of legislative constraint on the
+strategic limb, a coding rule worth stating in DC-2's design notes.
+Crouch supplies nothing dated or measurable here: **NEEDS BASELINE**.
+
+**(d) DC-3 (courts) and DC-4 (public capacity).** Neither author supplies
+a baseline. Wolin's judiciary material (2008: 146) is about the
+*production* of reliable jurists, not about remedies; his privatisation
+material (2008: 136–37, 212–13) is the strongest statement in the
+predecessors of the *dependence* limb — "'privatization' becomes normal
+and state action in defiance of corporate wishes the aberration"
+(p. 136) — and belongs in DC-4's design note as the condition the
+public-capacity inventory is meant to measure against. **NEEDS BASELINE**
+for both.
+
+**(e) DC-5 (the fusion, §8(g) item 3) — two predecessor statements and
+one counter-datum.** Wolin's word for it, credited to him and not adopted
+as the book's: "predomination—that is, rule by diverse powers which have
+found it in their interests to combine while retaining their separate
+identities" (2008: 185). Crouch's verdict, now at a T2 printed page and
+replacing the pamphlet pin (PDF 20) the current DC-5 note carries: "we
+are steadily moving towards the establishment of a new dominant, combined
+political and economic, class … This is the central crisis of early
+twenty-first-century democracy" (2004: 52), with the **ellipse** (2004:
+73–74) as its geometry. **Counter-datum, entered because it cuts against
+the indicator's direction:** Crouch records that Forza Italia, his pure
+case of the party that was "essentially a firm, or network of firms"
+(2004: 75), subsequently "acquired members and a local voluntary
+structure, and … became more successful as a result" (2004: 75) as local
+government reasserted itself (2004: 76). The fusion is reversible on the
+predecessor's own evidence, and DC-5 should say so rather than score only
+in one direction. The US series itself remains **NEEDS BASELINE**.
+
+**(f) DC-6 (fiscal mode, §8(g) item 4) — a stated mechanism from Wolin, a
+negative finding from Crouch.** Wolin: "the sheer size and complexity of
+imperial power and the expanded role of the military make it difficult to
+impose fiscal discipline and accountability" (2008: 245), and the
+consequences of empire registered "in military expenditures, subsidies to
+globalizing corporations, mounting deficits, and the decimation of social
+programs and environmental safeguards" (2008: 192). That is a direction,
+not a series, and it is **not** Tilly's mechanism: Wolin never asks
+whether the revenue is bargained. Crouch 2004's pages present contain no
+account of how the post-democratic state is financed at all — the nearest
+is the firm's exit threat (2004: 29). **Neither predecessor anticipates
+the rent-financing inference; it stays marked as the book's (c), and
+DC-6's receipts series stays NEEDS BASELINE.**
+
+**(g) What was NOT entered.** No new indicator is proposed; no existing
+baseline is re-coded; Wolin's 2008 ratio is not scored; his historical
+asides (Athens, the Founders, the sixteenth-century enclosures at 2008:
+283) carry no apparatus and are not used. Crouch 2004 is a **partial**
+scan (pp. 1–31, 52–53, 56–77 only), and any future DC use of his chs. 2,
+5 or 6 must wait on the completion target recorded in ch12/sources.md.
+
+STATUS (2026-09-16 intake Revisions): PENDING HUMAN REVIEW.
+
 STATUS: PENDING HUMAN REVIEW (running file)
 
 ## Revisions (2026-09-13 — integration run, per instruction STEP 2.3; PENDING HUMAN REVIEW)
@@ -1650,6 +1751,107 @@ PDF 35; Chastellain at the vol15 pages given, cross-checked in vol01.
 No Indian baseline was found in any of the nineteen works; the Indian
 bloc's rows remain wholly NEEDS BASELINE.
 
+## Revisions (2026-09-16 — source intake: Wolin 2008 and Crouch 2004 against DC-1..6. PENDING HUMAN REVIEW.)
+
+*Filed by the source-intake unit that closed the spine §8(g)(6) ledger
+check. Assessments at `research/assessments-2026-09-16/`. Nothing is
+scored here; baselines and counter-predictions are entered only where the
+source is dated and measurable, NEEDS BASELINE otherwise. Wolin cited by
+printed page (offset PDF − 20); Crouch 2004 by printed page where the
+partial scan carries it, otherwise Crouch 2000 by PDF page.*
+
+**(a) Note 7(f) is superseded.** That note read: "Wolin is not in corpus;
+the ornamental-democracy ledger check against him is still owed (this
+appendix uses the term as spine §8(g) defines it and claims no coinage)."
+Wolin is in corpus as of this date and the check is made
+(ch12/memo.md, "The coinage ledger check, completed"): the coinage
+survives, on conditions. The appendix's own practice need not change — it
+uses the term as §8(g) defines it — but the standing caveat can go at the
+renovation.
+
+**(b) DC-1 (elections that redirect strategic commitments) — a dated
+counter-prediction, adopted as the null hypothesis.** Wolin, writing in
+2007–8, predicted that inverted totalitarianism "will likely survive
+military defeat and public scorn of its leader … That the system will
+survive his retirement, would survive even if the Democrats were to
+become the majority party in control of both the presidency and
+Congress … the system will set tight limits to unwelcome changes, as is
+foreshadowed in the timidity of current Democratic proposals for reform"
+(2008: 286–87). This is dated, has a named test condition, and the
+condition has since obtained twice (unified control 2009–11 and 2021–23).
+Recommended use: **not** as a baseline series but as the explicit null the
+DC-1 falsifier must beat — an election is scored as redirecting only
+where the redirection is demonstrable on the strategic-commitments
+register, precisely because the predecessor predicted that unified
+control would not produce one. The register itself remains NEEDS
+BASELINE; nothing in Wolin supplies it.
+
+**(c) DC-2 (legislatures that enforce meaningful conditions) — one dated
+ratio, one mechanism, no series.** Wolin: "military spending is nearly
+four times greater than the expenditures on social programs; yet neither
+party would dream of proposing an amendment specifically limiting or
+controlling military spending" (2008: 157) — a 2008 datum whose successor
+series would need an independent fiscal source; the ratio as he states it
+is unsourced in the book and is recorded as **NEEDS VERIFICATION, not
+scored**. The mechanism claim, which is the usable part: "even a
+gridlocked Congress will likely support, even enthusiastically increase,
+military spending. Similarly, gridlock does not prevent tax breaks for
+the wealthiest classes from being legislated" (2008: 203) — i.e.
+legislative deadlock is not evidence of legislative constraint on the
+strategic limb, a coding rule worth stating in DC-2's design notes.
+Crouch supplies nothing dated or measurable here: **NEEDS BASELINE**.
+
+**(d) DC-3 (courts) and DC-4 (public capacity).** Neither author supplies
+a baseline. Wolin's judiciary material (2008: 146) is about the
+*production* of reliable jurists, not about remedies; his privatisation
+material (2008: 136–37, 212–13) is the strongest statement in the
+predecessors of the *dependence* limb — "'privatization' becomes normal
+and state action in defiance of corporate wishes the aberration"
+(p. 136) — and belongs in DC-4's design note as the condition the
+public-capacity inventory is meant to measure against. **NEEDS BASELINE**
+for both.
+
+**(e) DC-5 (the fusion, §8(g) item 3) — two predecessor statements and
+one counter-datum.** Wolin's word for it, credited to him and not adopted
+as the book's: "predomination—that is, rule by diverse powers which have
+found it in their interests to combine while retaining their separate
+identities" (2008: 185). Crouch's verdict, now at a T2 printed page and
+replacing the pamphlet pin (PDF 20) the current DC-5 note carries: "we
+are steadily moving towards the establishment of a new dominant, combined
+political and economic, class … This is the central crisis of early
+twenty-first-century democracy" (2004: 52), with the **ellipse** (2004:
+73–74) as its geometry. **Counter-datum, entered because it cuts against
+the indicator's direction:** Crouch records that Forza Italia, his pure
+case of the party that was "essentially a firm, or network of firms"
+(2004: 75), subsequently "acquired members and a local voluntary
+structure, and … became more successful as a result" (2004: 75) as local
+government reasserted itself (2004: 76). The fusion is reversible on the
+predecessor's own evidence, and DC-5 should say so rather than score only
+in one direction. The US series itself remains **NEEDS BASELINE**.
+
+**(f) DC-6 (fiscal mode, §8(g) item 4) — a stated mechanism from Wolin, a
+negative finding from Crouch.** Wolin: "the sheer size and complexity of
+imperial power and the expanded role of the military make it difficult to
+impose fiscal discipline and accountability" (2008: 245), and the
+consequences of empire registered "in military expenditures, subsidies to
+globalizing corporations, mounting deficits, and the decimation of social
+programs and environmental safeguards" (2008: 192). That is a direction,
+not a series, and it is **not** Tilly's mechanism: Wolin never asks
+whether the revenue is bargained. Crouch 2004's pages present contain no
+account of how the post-democratic state is financed at all — the nearest
+is the firm's exit threat (2004: 29). **Neither predecessor anticipates
+the rent-financing inference; it stays marked as the book's (c), and
+DC-6's receipts series stays NEEDS BASELINE.**
+
+**(g) What was NOT entered.** No new indicator is proposed; no existing
+baseline is re-coded; Wolin's 2008 ratio is not scored; his historical
+asides (Athens, the Founders, the sixteenth-century enclosures at 2008:
+283) carry no apparatus and are not used. Crouch 2004 is a **partial**
+scan (pp. 1–31, 52–53, 56–77 only), and any future DC use of his chs. 2,
+5 or 6 must wait on the completion target recorded in ch12/sources.md.
+
+STATUS (2026-09-16 intake Revisions): PENDING HUMAN REVIEW.
+
 STATUS: PENDING HUMAN REVIEW (running file)
 
 ## Revisions (2026-09-16 — Phase 5 renovation, Part B4: ruling (cc); spine §8(g) item 2. PENDING HUMAN REVIEW)
@@ -1860,5 +2062,106 @@ Glete 2002; Stasavage 2011; McNeill 1982; Scott 1998; Zielonka 2006).
 British English throughout; no bullets in the appendix's prose
 paragraphs (the tables and the concordance are apparatus). Word count:
 1,409 → 9,289 (wc -w).
+
+## Revisions (2026-09-16 — source intake: Wolin 2008 and Crouch 2004 against DC-1..6. PENDING HUMAN REVIEW.)
+
+*Filed by the source-intake unit that closed the spine §8(g)(6) ledger
+check. Assessments at `research/assessments-2026-09-16/`. Nothing is
+scored here; baselines and counter-predictions are entered only where the
+source is dated and measurable, NEEDS BASELINE otherwise. Wolin cited by
+printed page (offset PDF − 20); Crouch 2004 by printed page where the
+partial scan carries it, otherwise Crouch 2000 by PDF page.*
+
+**(a) Note 7(f) is superseded.** That note read: "Wolin is not in corpus;
+the ornamental-democracy ledger check against him is still owed (this
+appendix uses the term as spine §8(g) defines it and claims no coinage)."
+Wolin is in corpus as of this date and the check is made
+(ch12/memo.md, "The coinage ledger check, completed"): the coinage
+survives, on conditions. The appendix's own practice need not change — it
+uses the term as §8(g) defines it — but the standing caveat can go at the
+renovation.
+
+**(b) DC-1 (elections that redirect strategic commitments) — a dated
+counter-prediction, adopted as the null hypothesis.** Wolin, writing in
+2007–8, predicted that inverted totalitarianism "will likely survive
+military defeat and public scorn of its leader … That the system will
+survive his retirement, would survive even if the Democrats were to
+become the majority party in control of both the presidency and
+Congress … the system will set tight limits to unwelcome changes, as is
+foreshadowed in the timidity of current Democratic proposals for reform"
+(2008: 286–87). This is dated, has a named test condition, and the
+condition has since obtained twice (unified control 2009–11 and 2021–23).
+Recommended use: **not** as a baseline series but as the explicit null the
+DC-1 falsifier must beat — an election is scored as redirecting only
+where the redirection is demonstrable on the strategic-commitments
+register, precisely because the predecessor predicted that unified
+control would not produce one. The register itself remains NEEDS
+BASELINE; nothing in Wolin supplies it.
+
+**(c) DC-2 (legislatures that enforce meaningful conditions) — one dated
+ratio, one mechanism, no series.** Wolin: "military spending is nearly
+four times greater than the expenditures on social programs; yet neither
+party would dream of proposing an amendment specifically limiting or
+controlling military spending" (2008: 157) — a 2008 datum whose successor
+series would need an independent fiscal source; the ratio as he states it
+is unsourced in the book and is recorded as **NEEDS VERIFICATION, not
+scored**. The mechanism claim, which is the usable part: "even a
+gridlocked Congress will likely support, even enthusiastically increase,
+military spending. Similarly, gridlock does not prevent tax breaks for
+the wealthiest classes from being legislated" (2008: 203) — i.e.
+legislative deadlock is not evidence of legislative constraint on the
+strategic limb, a coding rule worth stating in DC-2's design notes.
+Crouch supplies nothing dated or measurable here: **NEEDS BASELINE**.
+
+**(d) DC-3 (courts) and DC-4 (public capacity).** Neither author supplies
+a baseline. Wolin's judiciary material (2008: 146) is about the
+*production* of reliable jurists, not about remedies; his privatisation
+material (2008: 136–37, 212–13) is the strongest statement in the
+predecessors of the *dependence* limb — "'privatization' becomes normal
+and state action in defiance of corporate wishes the aberration"
+(p. 136) — and belongs in DC-4's design note as the condition the
+public-capacity inventory is meant to measure against. **NEEDS BASELINE**
+for both.
+
+**(e) DC-5 (the fusion, §8(g) item 3) — two predecessor statements and
+one counter-datum.** Wolin's word for it, credited to him and not adopted
+as the book's: "predomination—that is, rule by diverse powers which have
+found it in their interests to combine while retaining their separate
+identities" (2008: 185). Crouch's verdict, now at a T2 printed page and
+replacing the pamphlet pin (PDF 20) the current DC-5 note carries: "we
+are steadily moving towards the establishment of a new dominant, combined
+political and economic, class … This is the central crisis of early
+twenty-first-century democracy" (2004: 52), with the **ellipse** (2004:
+73–74) as its geometry. **Counter-datum, entered because it cuts against
+the indicator's direction:** Crouch records that Forza Italia, his pure
+case of the party that was "essentially a firm, or network of firms"
+(2004: 75), subsequently "acquired members and a local voluntary
+structure, and … became more successful as a result" (2004: 75) as local
+government reasserted itself (2004: 76). The fusion is reversible on the
+predecessor's own evidence, and DC-5 should say so rather than score only
+in one direction. The US series itself remains **NEEDS BASELINE**.
+
+**(f) DC-6 (fiscal mode, §8(g) item 4) — a stated mechanism from Wolin, a
+negative finding from Crouch.** Wolin: "the sheer size and complexity of
+imperial power and the expanded role of the military make it difficult to
+impose fiscal discipline and accountability" (2008: 245), and the
+consequences of empire registered "in military expenditures, subsidies to
+globalizing corporations, mounting deficits, and the decimation of social
+programs and environmental safeguards" (2008: 192). That is a direction,
+not a series, and it is **not** Tilly's mechanism: Wolin never asks
+whether the revenue is bargained. Crouch 2004's pages present contain no
+account of how the post-democratic state is financed at all — the nearest
+is the firm's exit threat (2004: 29). **Neither predecessor anticipates
+the rent-financing inference; it stays marked as the book's (c), and
+DC-6's receipts series stays NEEDS BASELINE.**
+
+**(g) What was NOT entered.** No new indicator is proposed; no existing
+baseline is re-coded; Wolin's 2008 ratio is not scored; his historical
+asides (Athens, the Founders, the sixteenth-century enclosures at 2008:
+283) carry no apparatus and are not used. Crouch 2004 is a **partial**
+scan (pp. 1–31, 52–53, 56–77 only), and any future DC use of his chs. 2,
+5 or 6 must wait on the completion target recorded in ch12/sources.md.
+
+STATUS (2026-09-16 intake Revisions): PENDING HUMAN REVIEW.
 
 STATUS: PENDING HUMAN REVIEW (running file)

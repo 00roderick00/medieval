@@ -810,3 +810,77 @@ unchanged. The two quotable lines the fifth disclaimer carries are
 Crouch's and Bagehot's, attributed inline.
 
 STATUS: PENDING HUMAN REVIEW.
+
+## Revisions (2026-09-16 — source intake: is §V's naming of Crouch and Wolin now carriable at the page? PENDING HUMAN REVIEW.)
+
+*Filed by the source-intake unit that closed the spine §8(g)(6) ledger
+check. Both works are now in corpus. Assessments at
+`research/assessments-2026-09-16/`. **Nothing is applied to
+coda/draft.md**; this entry records what is carriable and what is not, for
+the renovation to act on.*
+
+**1. Crouch — carriable, and upgradeable.** §V as drafted carries two
+Crouch quotations, both at the 2000 Fabian typescript: "in which the
+forms of democracy remain fully in place while politics and government
+slip back into the control of privileged elites (Crouch 2000: PDF 2)" and
+"it is Crouch's own judgement that it is difficult to dignify such a
+politics as democracy (Crouch 2000: PDF 8)", with a third, the
+democracy/liberalism separation, at "(Crouch 2000: PDF 5)". All three are
+now available at the printed pages of the T2 Polity book — **Crouch 2004:
+6, 21 and 16–17** — and the Coda should cite the book, as ch12 will. The
+sentences are word-for-word the same; the OCR slips in the 2004 scan
+("beck" for "back" at p. 6, several at p. 21) are corroborated against the
+clean 2000 typescript and do not put the wording in doubt. No change of
+substance is needed: §V's characterisation of post-democracy is accurate
+to the book.
+
+**2. Wolin — NOT carriable as §V now stands, because §V does not name
+him.** The tasking's phrase "the Coda's §V naming of Crouch and Wolin" is
+recorded here as a discrepancy rather than resolved silently: **the
+drafted §V names Crouch and Bagehot, and does not name Wolin at all**
+(grep of coda/draft.md, this run: "Wolin" — zero occurrences). The
+14 September Crouch assessment's §6 placement ("Coda §V: a fifth
+disclaimer … with Crouch beside Bagehot") is what the draft executed, and
+spine §8(g)(5)'s "Crouch and Wolin are engaged by name as predecessors"
+was satisfied at ch12 §VII, where Wolin was named and flagged [GAP].
+
+**3. What is now available if Roderick wants Wolin in the Coda.** He is
+carriable at the page, and one clause would do it, because the Coda's
+fifth disclaimer is exactly the place where a rival diagnosis belongs —
+the disclaimer says the book does not claim the settlement is democratic,
+and Wolin is the writer who said the American settlement had already
+stopped being so, for different reasons. The two usable pins: "the
+peculiar combination of governing elites and a populace that reigns
+without ruling" (Wolin 2008: 149), which states the Coda's own
+legitimating-authority-without-control distinction in a second
+vocabulary; and, for the difference that must travel with the name,
+"managed democracy … a political form in which governments are
+legitimated by elections that they have learned to control" (2008: 47),
+offered by him as "tentative, hypothetical" (2008: xvi) where the book
+publishes four falsifiers. **Recommended, if he is added:** one sentence,
+naming him as the rival diagnosis and stating the difference of object
+(regime versus strategic commitments) — not a second paragraph, and not a
+second set of quotations. **Recommended, if he is not added:** leave §V as
+drafted; ch12 §VII carries the predecessors and the Coda need not carry
+them twice, and the voice ledger below is the reason to prefer this.
+
+**4. Voice ledger consequence.** §V already carries two quotable borrowed
+lines (Crouch's "difficult to dignify" and Bagehot's "daylight upon
+magic"); a third borrowed line would crowd a section that is prose
+disclaimer, not apparatus. If Wolin enters, the memo recommends the
+"reigns without ruling" pin *replace* nothing and be carried without
+quotation marks as a paraphrase with inline attribution, or that the
+Bagehot "daylight upon magic" line stay and Wolin be named without a
+quotation. Roderick's call.
+
+**5. Ledger check, for the record.** The Coda uses *ornamental democracy*
+as ch12's term and claims no coinage of its own ("Coined concept — NONE …
+the term used is ch12's, so cited", Part B3 voice ledger). That remains
+correct. The check itself is now complete: the term is not Bagehot's, not
+Crouch's in either statement, and not Wolin's, and it is not Wolin's
+concept renamed — his object is a regime type, the book's a measurable
+relation restricted to strategic commitments. The verdict and the three
+conditions attached to it are at ch12/memo.md, "The coinage ledger check,
+completed".
+
+STATUS (2026-09-16 intake Revisions): PENDING HUMAN REVIEW.
