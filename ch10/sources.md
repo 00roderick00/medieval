@@ -262,6 +262,16 @@ accordingly.*
 - **Cazelles** on Contamine 1972, *BEC* 131 (1973), p. 293: "une
   contribution de premier ordre à l'histoire de l'État moderne" — the
   review carrying the anchor monograph pending purchase.
+  **WITHDRAWN 2026-09-16, NOT VERIFIED AT THE PAGE: this sentence is
+  not in Cazelles's review.** The review was read in full this date
+  (sidecar and page image); the phrase appears nowhere in it, and p. 293
+  ends "voici un excellent ouvrage, méticuleusement rédigé …". It
+  entered here from research/acquisition-dossier.md's "short quotation
+  bank", which was compiled at evidence grade C without the review in
+  hand. DO NOT PRINT. Replacement wording, verified, at the intake block
+  of this date below. **The dossier's own line is untouched by this job
+  (outside its permitted files) and is ENTRY OWED to whoever owns
+  research/.**
 
 
 ## Edition note (2026-08-04)
@@ -2013,3 +2023,213 @@ memo.md's Revisions 44.*
   — row 17 above, now LOAD-BEARING alongside Major on the 1468 question.
   Row 3 (Wolfe) remains LOAD-BEARING: Major gives the assembly politics
   and the per-hearth comparison but not the taille's own yield series.
+
+## Added 2026-09-16 — intake (Perroy 1943; Cazelles's review of Contamine)
+
+*One article in two parts, plus one review. Every quotation below was
+opened in the named sidecar this date and matched to the printed page
+carried in the running head; where the sidecar's OCR is doubtful the
+entry says so and gives the reading verified against a page image
+rendered from the PDF at 200 dpi. Assessment for Perroy at
+research/assessments-2026-09-16/Perroy-1943.md — the map, never the
+authority. The Cazelles review has no assessment file: its record is
+this entry and ch10/memo.md Revisions 45. No draft.md text changed.
+Register decisions proposed for the rulings sheet are lettered P43-a…
+at the foot of memo.md's Revisions 45.*
+
+- **Édouard Perroy, "L'artillerie de Louis XI dans la campagne d'Artois
+  (1477)", *Revue du Nord* 26 (1943) — T2 (specialist article) CARRYING
+  FOUR T1 DOCUMENTS; IN REPO; BOTH PARTS RE-READ IN FULL 2026-09-16
+  (previous read 2026-07-24, memo Revisions 8).** Part 1: no. 103
+  (juillet–septembre 1943), pp. 171–196, PDF
+  `corpus/retrieved/rnord_0035-2624_1943_num_26_103_1840.pdf`, sidecar
+  `corpus/retrieved/source-library/text-2026-09-16/Perroy-1943-Artillerie-Louis-XI-part1.txt`.
+  Part 2, "suite et fin": no. 104 (octobre–décembre 1943), pp. 293–315,
+  PDF `…_26_104_1847.pdf`, sidecar `…-part2.txt`. CITATION FORM: Perroy
+  1943 for both parts, cited by printed page (pp. 171–196 are part 1,
+  pp. 293–315 part 2 — the pagination is continuous across the two
+  numbers, so the part need not be named).
+  **OFFSET RULE (established this date from the running heads): part 1,
+  printed = PDF − 1 (PDF 2 = p. 171; PDF 27 = p. 196; PDF 28 blank;
+  PDF 1 is the Persée cover sheet). Part 2, printed = PDF + 291 (PDF 2 =
+  p. 293; PDF 24 = p. 315; PDF 25 trailing).**
+  **OCR CAUTION — LOAD-BEARING.** The Persée text layer prints heavy
+  inter-word spacing (quotations here are given with whitespace
+  normalised, nothing else altered) and **misreads digits**. Three
+  corruptions found and verified against page images: the sidecar's
+  "1009" at p. 294 is **1609**; its "2.1 M chevaux" is **2.130**; its
+  "la ville d'Amis" at p. 303 is Amiens. **No figure from this article
+  may be printed from the sidecar alone; check the page image.**
+  READ: both parts entire — narrative, footnotes and all four *pièces
+  justificatives*.
+  **AUTHORITY.** Perroy is the editor of the only substantial surviving
+  accounts of the French royal artillery office under Louis XI (John
+  Rylands French ms. 57, the Fawtier find), supplemented from BnF ms.
+  fr. 20496–7, 20685, 23263–5, 26090–7 and Pièces originales, Arch. nat.
+  PP 99, the communal archives of Amiens, Orléans, Beauvais, Châlons,
+  Lyon and Reims, and Arch. Côte-d'Or B (via Garnier). Publication 1943;
+  not superseded on this material — Contamine 1964 cites him (his p. 177
+  for Bureau's *gages*) and covers the next generation, 1489–94, not
+  1477. The two are complementary, not rival.
+  **USE-NOTES BY SECTION.**
+  *§IV — the establishment, the payroll, the cost.* THE TRAIN, from the
+  financiers' forecast: "Les canons et outils des trois bandes, auxquels
+  il fallait ajouter vingt-six coulevrines « de l'ancienne ordonnance »,
+  demandaient déjà 521 chevaux … il en fallait 1609 autres, ce qui
+  portait le convoi au total de 2.130 chevaux" (p. 294) — **1,609, not
+  1,009; total 2,130**, confirmed by the document's own "Somme totale
+  2.130 chevaulx" (p. 302). THE COST: 2,130 horses at 3 s. 4 d. a day =
+  355 l.t. a day; the extraordinary carrying 800 pioneers at 2 s. 6 d.
+  (3,000 l.t. a month), four assistants to the captain of the charroi
+  (40 l.), six masons (30 l.), six wheelwrights (30 l.), twelve
+  unloaders (60 l.); **"Somme toute de la despence de ce present estat …
+  par mois, compris lesdites 200 l. pour achat de gresses cy dessus
+  14.010 l. t." (p. 302)**. THE BANDS (pp. 187–194): *grant bende* ten
+  guns (one bombard at 41 horses) and 175 horses; Samain's 29 men,
+  thirty guns, 121 horses; the Rousselet's 24 surviving names, seven
+  serpentines, ten culverins, eight *faucons*, 165 horses. THE WAGES:
+  Samain's captain 400 l., two at 180, two at 144, one at 120, one at
+  90, and "les vingt-deux autres — soit l'énorme majorité — se
+  contentent de 60 l. annuelles, ce qui représente les gages d'un
+  modeste ouvrier, maçon ou charron" (pp. 191–192); the gunner's
+  standard 15 l.t. a month, "ainsi que a noz autres canonniers" (p. 191
+  n. 91, royal act of 23 May 1465); the full 1469 grid at p. 191 n. 92.
+  THE AUDIT: Bureau ceased accounting for the artillery's money from
+  31 December 1464 (p. 177) and the Chambre des comptes withheld his
+  quittance "parce qu'il restait redevable, pour les seuls deniers de
+  l'artillerie, de 28.704 l. 16 s. parisis, sans compter une somme de
+  près de 12.000 livres de trop perçu sur ses gages et ceux de son
+  contrôleur" (p. 177 n. 24); Constant accounted direct to the Chambre
+  from 11 August 1471 (p. 172 n. 6).
+  *§IV / §VII — the campaign's verdict, draft-quotable.* "Pas de
+  bataille rangée … Mais une guerre de siège implacable, comme Louis XI
+  l'aimait. Le résultat justifiait l'effort : peu de vies humaines
+  sacrifiées, mais d'énormes dépenses de matériel … Les opérations de
+  1477 marquent donc l'apogée militaire du règne, et c'est à son
+  artillerie surtout que Louis XI dut ses succès" (pp. 299–300).
+  *§VI — Burgundy.* The possible Burgundian parentage of the French
+  reform: "Il n'est pas impossible que Bournel ait emprunté certains
+  éléments de son organisation à ce qui existait déjà dans l'armée du
+  Téméraire" (p. 195 n. 106), with a ducal band of July 1474 costed at
+  267 horses and 2,350 l. a month (from Garnier). The *bande de
+  Bourgogne* raised by Louis XI under Jean Barrabin for the conquest of
+  the duchy and Franche-Comté, 17 gunners, 2 bombardiers, 17 craftsmen,
+  paid through Arch. Côte-d'Or B 1778 — the **ducal** series (p. 196 and
+  nn. 108–112). French guns lost at Dole in summer 1477 (p. 173 n. 10).
+  *NEGATIVE FINDINGS, recorded so the gaps stay gaps.* **Perroy nowhere
+  uses *délai de secours* or *composition* and gives no surrender
+  terms** — the capitulations are dated, not described (pp. 294–299).
+  **He gives no Burgundian arsenal inventory for 1477 and no count of
+  captured ducal guns** — nothing here touches Depreter's "quasi vidés".
+  **He does not discuss the accounts of the masters of the artillery
+  from 1418** (Contamine's annexes carry those); his Charles VII
+  material is negative and organisational.
+  *TWO INTERNAL DISCREPANCIES, to carry not resolve.* Perroy's narrative
+  says "vingt-six coulevrines de l'ancienne ordonnance" (p. 294) where
+  his document says "les 36 couleuvrines de l'anciene ordonnance … 60
+  chevaulx" (p. 301). And the forecast does not foot: the charroi's
+  month is "10.500 l. t." in the document (p. 302) and "10.600 l. t." in
+  his note 119 (p. 294) where the arithmetic gives 10,650; its
+  extraordinary's "Somme par jour 84 l. 6 s. 8 d." (p. 302) against
+  line-items summing to 105 l. 6 s. 8 d. **Quote as printed and say the
+  manuscript does not foot.**
+
+- **THE FOUR *PIÈCES JUSTIFICATIVES* — T1 (primary documents) within a
+  T2 edition, graded as the Cosneau entry is graded; cite the document,
+  name the edition.** All at part 2, pp. 300–315.
+  **1. "[1476 ?]. Prévision de la dépense du charroi et de
+  l'extraordinaire de l'artillerie royale", Bibl. nat., ms. fr. 20.497,
+  f. 86–87** (pp. 300–302). A forecast, not an account — say so wherever
+  it is used. The chapter's best single T1 exhibit: a siege train priced
+  by the horse and by the day.
+  **2. "Janvier-juillet 1477. Fragment du compte des recettes de P.
+  Guillard, commis à la garde des munitions et outils de l'artillerie",
+  Rylands French ms. 57, f. 21** (pp. 302–304). Receipts by place and
+  weight (30,039 lb of powder and 15,098 of lead from Constant at
+  Orléans; 6,845 lb from Reims and 1,229 from Rouen at Péronne; 22,545
+  lb by quittance of 23 July 1477), closing with the counter-signature
+  "Gontrollé de moy, Pierre de Willeris, controlleur de l'artillerie du
+  Roy nostre sire" (p. 304).
+  **3. "Février-14 juin 1477. Compte des distributions de Pierre
+  Guillard", Rylands French ms. 57, f. 13–18** (pp. 304–313), signed
+  "BOURNEL. DE WILLERIES." (p. 313). The richest: every issue of powder,
+  lead, crows, picks and shovels by day, place, recipient and weight,
+  gunners and guns named.
+  **4. "Juillet-septembre 1477. Fragment d'un autre compte de
+  distribution", Rylands French ms. 57, f. 19–20** (pp. 314–315).
+  Carries the authorising formulae Jean Cholet imposed on succeeding
+  Bournel — "par le commandement de bouche dû Roy nostre sire"; "par
+  l'ordonnance … dudit general de Normandie"; "par l'ordonnance de
+  Mons<sup>r</sup> de la Choletie, maistre de l'artillerie du Roy" — and
+  ends with the winter provision of Arras, 21 September 1477: 7,000 lb
+  of cannon powder, 3,000 of culverin powder, 3,000 of lead, 200
+  shovels, 100 picks and mattocks (p. 315).
+
+- **Raymond Cazelles, review of Philippe Contamine, *Guerre, État et
+  société à la fin du Moyen Âge* (Paris and The Hague: Mouton, 1972), in
+  *Bibliothèque de l'École des chartes* 131/1 (1973), pp. 289–93 — T2
+  (specialist review); IN REPO
+  (`corpus/retrieved/Contamine-review-BEC-1973.pdf`), sidecar
+  `…/text-2026-09-16/Cazelles-review-Contamine-BEC-1973.txt`, READ IN
+  FULL 2026-09-16. Offset: printed = PDF + 287 (PDF 2 = p. 289, where
+  the review begins below the close of Favreau's review of Baud; PDF 6 =
+  p. 293).** OCR clean.
+  **CORRECTION OF RECORD (see the flag added this date at the "Verified
+  short quotations" block above): the sentence "une contribution de
+  premier ordre à l'histoire de l'État moderne", carried here since
+  2026-07-24 as Cazelles at p. 293, IS NOT IN THE REVIEW.** It is
+  absent from the sidecar and from the page image of p. 293, whose
+  closing sentence is: "Quoi qu'il en soit, dans ses intentions et dans
+  sa réalisation, voici un excellent ouvrage, méticuleusement rédigé,
+  témoignant de recherches très étendues, apportant aux historiens les
+  explications qu'ils attendaient sur les structures militaires et sur
+  les combattants de cette longue période où la paix ne put être conclue
+  parce qu'elle n'était pas désirée par ceux qui en faisaient
+  profession" (p. 293). **Use that sentence, or Cazelles's other verdict
+  — "une réhabilitation du fait militaire dans l'histoire, qui était
+  absolument indispensable et dont il faut être reconnaissant à
+  l'auteur" (p. 290) — wherever the withdrawn phrase stood.**
+  WHAT THE REVIEWER SAYS CONTAMINE ESTABLISHED (for the chapter's use of
+  the monograph it leans on hardest): the thesis supplies "non seulement
+  un instrument de travail qui nous faisait défaut" but interpretations
+  of the military effort of the period (p. 290); the fourth part on the
+  permanent companies "restera un développement classique" (p. 290); and
+  Cazelles singles out "la part prise par Louis XI dans la création
+  d'une armée qui restera celle du siècle suivant" (p. 290) — a
+  specialist endorsement, in 1973, of exactly the Louis XI weighting
+  Perroy's article supplies from the artillery side.
+  WHAT HE SAYS IS NOT ESTABLISHED, and what the chapter must know:
+  (i) **the 1445 ordinance is "au texte perdu"** — a lost text (p. 291),
+  the reviewer's own emphasis, which is the same evidentiary position
+  §III already records for the 1439 act; (ii) Contamine himself is
+  sceptical of his own chronological divisions outside the fourth part
+  ("l'auteur nous avoue parfois son scepticisme quant aux autres limites
+  de temps", p. 291); (iii) the reproach — that Contamine did not
+  "bousculé davantage certaines habitudes de pensée des historiens",
+  naming Cocherel's near-absence and the under-rating of Jean le Bon
+  (pp. 291, 293).
+  **THE OBJECTION THIS REVIEW PUTS TO THE CHAPTER'S MECHANISM, and it is
+  serious:** "On peut donc se demander si la création d'une armée
+  permanente n'est pas autant une conquête de cette noblesse, désireuse
+  de recevoir des gages en toutes saisons, qu'un effort de la royauté
+  pour être assurée d'avoir constamment des gens d'armes à sa
+  disposition" (p. 293). Steelmanned with the chapter's answer at
+  ch10/critiques.md Revisions 20.
+
+- **RETRIEVAL LIST consequence (2026-09-16, intake): row 19 (Perroy,
+  "L'artillerie royale à la bataille de Montlhéry", *Revue historique*
+  CXLIX (1925): 187–89) is AMENDED, NOT CLOSED, and downgraded to LOW.**
+  The 1943 article cites the 1925 piece three times and carries its
+  substance for the book's purposes in Perroy's own later hand: four
+  *faucons* lost at Montlhéry (p. 301 n. 6), one of the twelve *pers*
+  lost there and retaken from the Burgundians at Beauvais in 1472 (p.
+  192; p. 301 n. 8), and Giraud de Samain commanding the whole royal
+  artillery at Montlhéry, captured, and passing at once into Burgundian
+  service (p. 188, with Commynes). **The row stays open only if the
+  chapter wants the battle-level narrative of the 1465 artillery
+  itself**, which the 1943 article does not supply; nothing now
+  load-bearing depends on it. The MASTER ENTRY for Perroy 1943 is this
+  block; the July 2026 entries at the T2 list (l. c. 93) and the PARSE
+  block (l. c. 227) stand and are cross-referenced, not restated — but
+  **the PARSE block's "521 + 1,009 horses" is superseded by "521 +
+  1,609 = 2,130" above.**

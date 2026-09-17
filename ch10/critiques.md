@@ -1402,9 +1402,125 @@ list; steelmen provisional; do not caricature.
       consequence of what the army could now do.** Per CLAUDE.md §5 the
       disagreement is the material, and §VII should stage it.
 
-STATUS: Revisions 18–19 PENDING HUMAN REVIEW; Revisions 9–17 PENDING
-HUMAN REVIEW; Revisions 1–8 as before. The register decisions these
-entries imply are listed at ch10/memo.md Revisions 41 (10-a to 10-l)
-and Revisions 44 (T75-a to T75-d, B73-a to B73-c, M60-a to M60-e),
+20. **(2026-09-16 — intake: Cazelles's 1973 review of Contamine, and
+    Perroy 1943 on Charles VII. Two objections, one serious. PENDING
+    HUMAN REVIEW.)**
+
+    **Objection 8 — the noble-capture reversal.** The chapter's chain
+    runs capability → permanent finance → administrative capacity →
+    suppression of the intermediate authorities, and the permanent army
+    is its instrument. Raymond Cazelles, reviewing Contamine in the
+    *Bibliothèque de l'École des chartes* in 1973 — reviewing, that is,
+    the monograph this chapter leans on hardest — puts the arrow the
+    other way. **Steelmanned at full strength, in his words:** "La
+    noblesse se satisfait mal de n'être appelée et soldée qu'en cas de
+    guerre. On peut donc se demander si la création d'une armée
+    permanente n'est pas autant une conquête de cette noblesse,
+    désireuse de recevoir des gages en toutes saisons, qu'un effort de
+    la royauté pour être assurée d'avoir constamment des gens d'armes à
+    sa disposition. Dans la mesure où le noble ne peut se reconvertir à
+    d'autres emplois, il lui convient d'être à temps complet au service
+    du roi" — The nobility is ill content to be summoned and paid only
+    in case of war. One may therefore ask whether the creation of a
+    permanent army is not as much a conquest by that nobility, desirous
+    of receiving wages in all seasons, as an effort by the monarchy to
+    be sure of having men-at-arms constantly at its disposal. In so far
+    as the noble cannot retrain to other employments, it suits him to be
+    in the king's service full time [TRANS. CLAUDE] (Cazelles 1973:
+    293). He grounds it in Contamine's own evidence — "Ph. Contamine
+    montre les convoitises que suscitent les capitaineries de
+    l'Ordonnance sous Charles VII et sous Louis XI. Les nobles refusent
+    la concurrence d'hommes d'autres états, sauf s'ils sont étrangers et
+    s'ils ne sont soldés que pour un temps" (p. 293) — and in the
+    fiscal privilege won in the same generation: the nobility "obtient
+    aussi ce privilège fiscal qui lui évitera désormais de payer des
+    impôts comme les autres états de la société, immunité non reconnue
+    antérieurement" (p. 293). On this reading the *compagnies
+    d'ordonnance* are not the crown subordinating an intermediate
+    authority but the intermediate authority securing a permanent
+    charge on the new tax, exempt from paying it. The mechanism's last
+    link would then be, at its origin, a bargain rather than a
+    suppression — and the taille that funds it a transfer from the third
+    estate to the second, brokered by a crown that needed both.
+
+    **The chapter's answer.** Three moves, and the third is the only one
+    that fully works. (i) *Scope.* Cazelles's reversal is about the
+    *compagnies*, the cavalry of the ordonnance, officered by the
+    provincial nobility — the concession this chapter has already made
+    twice (Revisions 31 from Ertman; memo Revisions 44, M60-d, from
+    Major). It is not about the artillery, and the artillery is what the
+    chapter is named for. Perroy's 1477 establishment is the test case
+    and it answers cleanly: a *maître de l'artillerie* who is a royal
+    *maître d'hôtel* serving at pleasure, a *garde* and a *contrôleur*
+    accounting to the Chambre des comptes, and twenty-two of
+    twenty-nine gunners in the best band paid 60 l. a year, "les gages
+    d'un modeste ouvrier, maçon ou charron" (Perroy 1943: 191–92). No
+    nobility captured that payroll; nobody wanted it. **The decisive arm
+    was staffed by wage technicians, and that is the difference the
+    chapter exists to state.** (ii) *Direction.* Even granting the
+    capture, what the nobility captured was a salaried office inside a
+    royal accounting system, which is subordination on the instalment
+    plan: the man who takes the king's wages in all seasons is not
+    raising his own affinity in any of them. (iii) *Concession, which is
+    the honest answer.* The chapter should not claim the permanent army
+    was imposed on an unwilling nobility. It should say that the
+    settlement was bought — that permanence was made attractive to the
+    class that could otherwise have blocked it, by wages and by fiscal
+    exemption — and that this is exactly why it held. A settlement that
+    pays its potential opponents is more irreversible, not less. Spine
+    §8(a)'s ratchet is about what the guns made impossible to reverse;
+    Cazelles supplies the complementary fact about what the wages made
+    unattractive to reverse.
+
+    **Honest grade: the answer is good on the artillery and only
+    adequate on the army.** The concession costs the chapter its
+    cleanest version of the fourth link and should be made in §III or
+    §VII in one sentence, with Cazelles named. It does not reach a spine
+    ruling — §8(a) concerns the irreversibility of the fiscal
+    settlement, not the willingness of its beneficiaries — but it bears
+    on CLAUDE.md §2's chain as stated, and the chain's fourth link
+    ("suppression of intermediate authorities") should be read
+    throughout the chapter in Tilly's three-verb form already proposed
+    at memo Revisions 44, T75-b: **abridging, destroying or absorbing.**
+    What happened to the French nobility in the 1440s–1470s was
+    absorption, and absorption is bought.
+
+    **Objection 9 — the Bureau deflation (minor, and mostly a dating
+    correction).** Perroy, on the organisation of the artillery under
+    Charles VII: "D'organisation interne de l'artillerie, avec une
+    hiérarchie dans le commandement et des services administratifs
+    distincts, il ne reste aucune trace pour le règne de Charles VII.
+    Les canonniers ne sont pas enrégimentés, nous ignorons à quels chefs
+    ils obéissaient, nous ne savons qui contrôlait la fabrication et
+    l'entretien d'un matériel encore peu nombreux" (Perroy 1943: 175).
+    He gives the merit of the reform "selon toutes probabilités" to
+    Guillaume Bournel, master 1473–77 (pp. 194–95). **Steelmanned:** if
+    the artillery was not an organised service until a generation after
+    Castillon, then the chapter's "department of state" at the hinge is
+    a retrojection, and §IV's institutional case dates from Louis XI —
+    after the decisive employment it is meant to explain.
+
+    **The chapter's answer, and it is sufficient.** §IV's claim at the
+    hinge is not a command hierarchy but a line of account: the
+    accounts of the masters of the artillery running in unbroken series
+    from 1418, which Perroy does not discuss and which come from
+    Contamine's annexes. Perroy himself concedes that the Bureaux
+    exercised "les fonctions de maître de l'artillerie" (p. 176) and
+    that Gaspard held authority over matériel and personnel until his
+    death (pp. 177–78). And read forwards the finding is the mechanism,
+    not an embarrassment to it: improvised command won the sieges of
+    1449–53; the service that made the winnings permanent was built in
+    the two decades after. **That is the ratchet's own chronology and
+    the chapter should adopt it.** *Cost:* neither ch10 nor ch06 may
+    write the Bureau brothers as builders of an artillery *department*;
+    where the draft rests on command structure rather than on accounts,
+    the date is Louis XI's. Register decision at memo Revisions 45,
+    P43-d.
+
+STATUS: Revisions 20 PENDING HUMAN REVIEW; Revisions 18–19 PENDING
+HUMAN REVIEW; Revisions 9–17 PENDING HUMAN REVIEW; Revisions 1–8 as
+before. The register decisions these entries imply are listed at
+ch10/memo.md Revisions 41 (10-a to 10-l), Revisions 44 (T75-a to T75-d,
+B73-a to B73-c, M60-a to M60-e) and Revisions 45 (P43-a to P43-h),
 stated not recommended.
 
