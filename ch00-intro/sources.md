@@ -169,3 +169,68 @@ sources above (CLAUDE.md §4). URLs in the session research record.*
   still wanted — the hostage oath the seize-the-train clause awaits
   is in them.
 
+
+## Added 2026-09-29 — Phase 6 renovation (POINTER entries; masters at the named chapters; all works in corpus; pins re-opened this date)
+
+- **T2 — Scott, *Seeing Like a State* (Yale, 1998)** — POINTER to the
+  ch11/ch12 sources masters; sidecar
+  `corpus/retrieved/source-library/text-2026-09-14/Scott.txt` (printed =
+  PDF+17). Intro pins: p. 2 (ll. 344, 352 — the premodern state "in many
+  crucial respects, partially blind"; surnames, cadastres, registers and
+  standard measures as "attempts at legibility and simplification"); p.
+  24 (l. 1001 — "the pressing material interests of rulers: fiscal
+  receipts, military manpower, and state security"). Draft: §II, at the
+  book's FIRST use of "legibility" (Decision 18, row (rr)). Period
+  caution: Scott's material is seventeenth- to eighteenth-century and is
+  never authority for the fifteenth.
+- **T2/T3 — Goldsmith and Wu, *Who Controls the Internet?* (Oxford,
+  2006)** — POINTER to the ch12 sources master; sidecar
+  `text-2026-09-14/Goldsmith-Wu.txt` (printed = PDF+13). Intro pins: p.
+  68 (l. 2246 — regulation works "by cost and bother, not by hermetic
+  seal"); p. 149 (l. 4827 — "a collection of nation-state networks").
+  Draft: §II, the layered tense (Decision 7).
+- **T2 — Farrell and Newman, "Weaponized Interdependence" (*International
+  Security*, 2019)** — POINTER to the ch12 sources master; sidecar
+  `text-2026-09-14/FN-article.txt`. Intro pin: p. 54 (l. 456 — the
+  asymmetric networks "were not constructed as tools of statecraft").
+  Draft: §II, the no-new-taxation half of the layered tense.
+- **T2 — Tilly (ed.), *The Formation of National States in Western
+  Europe* (Princeton, 1975), ch. 9, "Western State-Making and Theories of
+  Political Transformation"** — POINTER to the ch10/ch12 sources masters;
+  sidecar `text-2026-09-14/Tilly-1975-Western-State-Making-ocr.txt`
+  (printed page markers in text; printed = PDF+600). Intro pins: p. 630
+  (ll. 1338–1385 — "the suggestion that the multinational corporation is
+  superseding the national state as a repository of power (e.g., Johnson
+  1972)"); p. 638 (ll. 1724–1756 — devolution "toward the regional
+  grouping and the compact of superstates above, toward the subnational
+  region, ethnic population, or racial group below", with "technologies of
+  flight, electric power and electronic information-handling" as the
+  cause, and "Perhaps, unknowing, we are writing obituaries for the
+  state"). Draft: §I, Bull as the condition's namer and not its
+  originator (Decision 19, rows (tt), (ww)).
+- **T2 — Ruggie, "Territoriality and Beyond" (*International
+  Organization*, 1993)** — POINTER to the appendix-a/ch01/ch12 masters;
+  sidecar `text-2026-09-14/Ruggie.txt` (printed = PDF+137; OCR runs words
+  together — page-image check before press). Intro pin: p. 143 n. 23 (ll.
+  341, 363 — the text's "no epochal thought has been expressed by any
+  serious specialist in that field since 1957, when John Herz published
+  his essay, 'Rise and Demise of the Territorial State'", and the note
+  giving *World Politics* 9, July 1957, pp. 473–93). Draft: §I, as the
+  carrier for Herz.
+- **John Herz, "Rise and Demise of the Territorial State" (*World
+  Politics*, 1957)** — NOT IN CORPUS; cited in §I explicitly as carried
+  by Ruggie 1993: 143 n. 23, never as consulted. RETRIEVAL: desirable but
+  not load-bearing; the priority claim rests on Ruggie's note and on
+  Tilly 1975.
+- **T1 — Chastellain, *Œuvres*, ed. Kervyn de Lettenhove, t. III (1863)**
+  — POINTER to the ch05/ch11/ch12 masters; working copy
+  `text-2026-09-14/Chastellain-vol15-ocr.txt`, printed = PDF−10; every
+  quotation [TRANS. CLAUDE]; page-image check before press. Intro pins:
+  pp. 444, 446 (the astrologers' fixed term — "par jugement d'astronomie
+  il devoit mourir et ne passeroit point le mois de mars"; "furent trompés
+  tous deux"), 117 and 387 (the comet of 1456, hedged "posé que elles ne
+  soient approuvées, ne tenues à nécessaires", and cashed two years
+  later). Verified at ch12 Revisions 16 and carried in ch12 §VI's running
+  text. Draft: §III, the prophecy specimen with the corrected attribution
+  (Decision 27, rows (ffff), (uu)) — the failed fixed term is the
+  astrologers' and the princes', not the chronicler's.

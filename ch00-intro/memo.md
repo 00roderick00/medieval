@@ -426,3 +426,230 @@ against the bridge sentence's figure), the cut candidate named as the
 bridge sentence, not the cited quotation; aphorism unchanged.
 
 STATUS: PENDING HUMAN REVIEW.
+
+## Revisions (2026-09-29 — Phase 6 renovation: Decisions 7, 12, 18, 19, 27; row (dddd) not applicable here. PENDING HUMAN REVIEW.)
+
+*Executed against research/claude-code-instruction-phase6-renovation-2026-09-29.md
+(the Introduction's items of Part B4 and of A1, A3, A5); the rulings
+verbatim at research/rulings-2026-09-29-sheet-III.md, with Roderick's
+qualification on Decision 19 ("Choice A, with restraint in section I")
+governing; the decision texts at research/rulings-sheet-III-2026-09-29.md
+(Decisions 1, 3, 7, 10, 12, 18, 19, 27 read in full); spine §§7, 8(g),
+8(h), 8(i). Pins re-opened at their sidecars this date:
+Tilly-1975-Western-State-Making-ocr.txt (printed p. 630 at ll.
+1338–1385, p. 638 at ll. 1713–1758); Ruggie.txt (ll. 341, 363 — the
+Herz reference and note 23); Scott.txt (ll. 344, 352, 1001);
+Goldsmith-Wu.txt (ll. 2246, 4827); FN-article.txt (l. 456);
+Chastellain-vol15-ocr.txt pins as verified at ch12 Revisions 16 and
+carried at ch12 §VI (printed = PDF−10). The closing page (§V's final
+paragraph) is untouched and reserved per spine §7; the [BRIDGE —
+PROPOSED] walls-and-minds sentence and its recorded ledger conflict are
+left exactly as Phase 5B left them; no existing [BRIDGE] is touched.*
+
+**§I — sentence added (Decision 19, rows (tt) and (ww); Roderick's
+restraint qualification).**
+
+OLD: "… universal institutions that answer to no territory. This book
+accepts that literature's diagnosis almost entirely." NEW: "… universal
+institutions that answer to no territory. The name is Hedley Bull's, and
+it arrived later than the intuition: Tilly, writing two years earlier,
+relayed the suggestion that the multinational corporation was superseding
+the national state as a repository of power and closed his own volume
+with the thought that we might, unknowing, be writing obituaries for the
+state (Tilly 1975: 630, 638), and John Herz had put the territorial
+state's rise and demise into play as early as 1957 (Herz 1957, as cited
+at Ruggie 1993: 143 n. 23). Bull named the condition and tested it; he
+did not invent the suspicion. This book accepts that literature's
+diagnosis almost entirely."
+
+Pins. Tilly 1975: 630 (verified — "the suggestion that the multinational
+corporation is superseding the national state as a repository of power
+(e.g., Johnson 1972)", between the printed markers 629 and 630 at ll.
+1338 and 1385); Tilly 1975: 638 (verified — "Perhaps, unknowing, we are
+writing obituaries for the state", l. 1756, and on the same page the
+devolution "toward the regional grouping and the compact of superstates
+above, toward the subnational region, ethnic population, or racial group
+below", ll. 1724–1728, given a technological cause at ll. 1739–1741:
+"technologies of flight, electric power and electronic
+information-handling"). Herz 1957 via Ruggie 1993: 143 n. 23 (verified —
+Ruggie's text at l. 341, "no epochal thought has been expressed by any
+serious specialist in that field since 1957, when John Herz published his
+essay, 'Rise and Demise of the Territorial State'", and the note itself
+at l. 363 giving *World Politics* 9, July 1957, pp. 473–93). Herz is
+cited as carried by Ruggie and is NOT cited as consulted; he is not in
+corpus.
+
+Restraint, as ruled. One sentence, two author–date pins and one
+via-citation; no paragraph, no new argument, and no apparatus in §I
+beyond what the ruling requires. The spine §7 "new units" limb is NOT
+stated in this draft (grep this date: "new units" — zero occurrences), so
+there was nothing here to mark as the book's reconstruction; that limb is
+the spine's and is carried by ch01's standing [DELTA]. §V already calls
+Bull the one "who gave the new medievalism its name in 1977" and is
+reserved to Roderick, so the demotion from founder to namer needed no
+change there and none was made.
+
+**§II — sentence changed and sentences added (Decision 18, rows (rr) and
+(bbbb); A5; Decision 7, rows (ll), (eeee), (vvv); A3).**
+
+1. Scott at the book's FIRST use of "legibility". OLD: "… by building the
+   fiscal, administrative and legibility apparatus that the new price
+   demands, and by beginning — half consciously, in the American case;
+   deliberately, in the Chinese — to subordinate every intermediate
+   authority …" NEW: "… by building the fiscal, administrative and
+   legibility apparatus that the new price demands — *legibility* in
+   James C. Scott's sense, the capacity of a state to see its subjects and
+   their holdings in a standard, countable form, which he traced to 'the
+   pressing material interests of rulers: fiscal receipts, military
+   manpower, and state security' and against which he set the premodern
+   state, 'in many crucial respects, partially blind' (Scott 1998: 2, 24)
+   — and by beginning — half consciously, in the American case;
+   deliberately, in the Chinese — to subordinate every intermediate
+   authority …" Pins: Scott 1998: 2 (verified, ll. 344, 352), 24
+   (verified, l. 1001). PLACEMENT NOTE: the instruction names §II's
+   "identity-payments-legibility stack" as the site, but the book's first
+   use of the word falls earlier in the same section, at "the fiscal,
+   administrative and legibility apparatus", and Decision 18's Choice A
+   says "at the Introduction's first use". Scott is therefore named at
+   the true first use; the later stack phrase is left as it stands and
+   needs no second attribution. No casual "legible" occurs in this draft
+   (grep this date), so none was reworded; the casual instances are
+   ch10 §V's and others', and belong to the register unit.
+2. The layered tense. NEW, after the subordination clause: "One half of
+   that apparatus is further along than the other, and the asymmetry
+   matters more than the symmetry would. The legibility layer — which
+   rules count, who is who, which payments clear — was substantially
+   taken back between 2000 and 2006, and taken back cheaply, by ordinary
+   law applied to local intermediaries rather than by any new tax, until
+   what had been a global network became 'a collection of nation-state
+   networks' (Goldsmith and Wu 2006: 68, 149; Farrell and Newman 2019:
+   54). The decisive layer is the one that costs money, and there the
+   reassertion is compelled and unaccomplished: a requirement, not yet a
+   record." Pins: Goldsmith and Wu 2006: 68 (verified, l. 2246 —
+   "by cost and bother, not by hermetic seal"), 149 (verified, l. 4827);
+   Farrell and Newman 2019: 54 (verified, l. 456 — "were not constructed
+   as tools of statecraft"). The closing clause is spine §7's own
+   formula and does not soften the wager; it sharpens which half of it is
+   still a prediction.
+
+**§III — paragraph added and one condition aligned.**
+
+3. The Chastellain specimen (Decision 27, rows (ffff) and (uu)). NEW
+   paragraph after the three construction notes, so that the discipline
+   is declared before any prediction is scored and the block-quoted wager
+   itself is not entered: "One discipline travels with the passage, and
+   the fifteenth century supplies its specimen. In the winter of 1457 the
+   astrologers about Charles VII's court gave the king a fixed term — by
+   judgement of astronomy he would die and 'ne passeroit point le mois de
+   mars', would not outlast the month of March — and the dauphin and the
+   duke of Burgundy, each of whom had made his arrangements, 'furent
+   trompés tous deux', were both deceived, for the king lived on [TRANS.
+   CLAUDE] (Chastellain, ed. Kervyn 1863: iii. 444, 446; the episode in
+   full at Chapter 12). The failed prediction was theirs and the
+   astrologers', not the chronicler's; Chastellain's own forecasting was
+   of the safer kind, for the comet of 1456 portended war, tribulation and
+   the death of high princes — 'posé que elles ne soient approuvées, ne
+   tenues à nécessaires', granted these things are neither proven nor held
+   to be necessary [TRANS. CLAUDE] — and two years later, when two
+   princes died in one season, the comet was found to have shown itself,
+   not without mystery, the season before (pp. 117, 387). The astrologers'
+   term expired and could be marked wrong. The chronicler's comet survived
+   by changing its referent and was never falsifiable at all, which is the
+   discipline this book refuses: the conditions above are dated, they name
+   the blocs they apply to, and they are not re-dated after the fact."
+   Pins: Chastellain, ed. Kervyn 1863, t. III: 444, 446, 117, 387 — the
+   pins verified at ch12 Revisions 16 and carried in ch12 §VI's running
+   text (vol15 sidecar, printed = PDF−10; every quotation [TRANS.
+   CLAUDE]; page-image check owed before press, as at ch12). ATTRIBUTION,
+   as Decision 27 requires: the failed fixed term is the astrologers' and
+   the princes', not the chronicler's — the second-reader review's
+   attribution is corrected here as it was at ch12 Revisions 16.
+   DUPLICATION FLAGGED FOR RODERICK: ch12 §VI carries the same episode at
+   about three times this length. Decision 27's Choice A places the
+   specimen in the Introduction's wager; it does not say ch12 must lose
+   it, and ch12 is not this unit's file. The Introduction's version is
+   deliberately compressed and points forward; if the repetition is
+   unwanted, the cut belongs at ch12 §VI or here, and the choice is his.
+4. Condition 7 aligned to ch12 §VIII (the constitutional close as
+   renumbered). OLD: "**7.** courts issue remedies that change the
+   stack's operations and not only its paperwork;" NEW: "**7.** courts
+   issue remedies that change the stack's operations rather than punish
+   them after the fact, and not only its paperwork;" — ch12 §VIII now
+   states the third falsifier as "courts whose remedies change operations
+   rather than punish them afterwards", on Bagehot's own distinction ("it
+   may not be a remedy at all; it may be only a punishment"). The
+   Introduction's wording had drifted from the remedy/punishment axis to
+   a paperwork axis; both limbs are now carried and the condition is not
+   softened. Conditions 5, 6 and 8 checked against ch12 §VIII and found
+   consistent (elections that redirect strategic commitments;
+   legislatures enforcing conditions on the licensed layer / the stack's
+   suppliers; public institutions capable of replacing an essential
+   supplier). Condition 4's "consolidate a bloc's decisive capability"
+   confirmed standing, as ruled in Part A of Phase 5.
+
+**Cross-reference updated for ch12's renumbering (Decision 2, choice B).**
+§II "what Chapter 12 will call *ornamentally democratic*" → "what Chapter
+12, §VIII will call *ornamentally democratic*". The block-quoted wager's
+own pointer, "(Chapter 12 defines the term and owns it)", is deliberately
+left without a section number: it sits inside the passage reviewers are
+invited to quote, and a section number there is clutter that will also
+date. §III's condition 7 is aligned to §VIII's text as recorded above.
+
+**Decision 12 (row (a)) — NOT APPLICABLE, recorded rather than
+invented.** "1439–46" does not occur in ch00-intro/draft.md (grep this
+date). §II dates the mechanism "between 1440 and 1500", which is the
+claim's span and not the settlement's completion, and the Introduction
+nowhere states when the French settlement was completed. Nothing was
+changed and no date was introduced; the corrected 1439–51 range lands in
+the Coda §I and in ch10 §III.
+
+**Decision 3 and Decision 10 — not the Introduction's.** The fifth
+disclaimer is the Coda's; the ratchet's French form is the Coda's and the
+chapters'. "Ornamental democracy" continues to appear in §II and §III as
+Chapter 12's term with the one-sentence definition and a forward pointer,
+not claimed, and no new predecessor apparatus is added here.
+
+**Also untouched, and named so.** §I's "the world before exclusive
+territorial sovereignty" — row (vv) / Decision 17's recast of "exclusive"
+is not in this unit's list of items and is left for the register unit;
+flagged so it is not lost. The Kaplan, Holsinger, Rengger and Roberts
+passages of §IV; §V's roadmap paragraph; §V's closing page.
+
+**Flags.** Closed: row (rr) (Scott named at the first use); rows (ffff)
+and (uu) (the specimen placed with the corrected attribution); rows (tt)
+and (ww) as far as they reach this draft. Narrowed: none. Opened: (i) the
+Chastellain duplication between this draft and ch12 §VI; (ii) the
+standing ledger conflict on the vivid-image slot, untouched and still
+Roderick's; (iii) row (vv) still open here. Still standing from earlier
+passes and NOT hardened: the Holsinger page cites ("punctum-carried, re-
+verify on purchase") and the [GAP: Rengger] bracket in §IV.
+
+**REVIFY-OR-CUT (P43-h standing discipline).** Two quotations standing in
+ch00-intro/draft.md come from works NOT in corpus and are listed as
+REVIFY-OR-CUT, unhardened and untouched by this pass: (1) §IV's Holsinger
+quotations, "the global idiom of the non-state actor" and "a frightening
+lens on to the ultimate co-optability of academic theorising into a
+regressive and destructive political culture", carried via the punctum
+open-access volume, with the draft's own flag "(Holsinger,
+punctum-carried page cites, re-verify on purchase)"; and (2) §IV's
+Rengger fragment, "its calamitous predecessor", carried via Kelemen
+behind an explicit [GAP] bracket. Both are on the Introduction's
+RETRIEVAL LIST (items 2 and 3). Also noted, though not a quotation from
+outside the corpus: §I's Pollard cites rest on ch. 1 plus front matter
+only, as the footer records. Nothing was hardened.
+
+**Voice ledger.** Coined concepts unchanged (the artillery state; the
+Tudor turn). Vivid image — the 2026-09-16 LEDGER CONFLICT stands exactly
+as recorded and is Roderick's to resolve; nothing added this pass is a
+figure. Aphoristic line unchanged ("History does not repeat here; it
+reprices"); "a requirement, not yet a record" (§II) is recorded in the
+draft footer as the cut candidate if he reads it as a second aphorism.
+
+**Consensus / contested / book.** T2: Tilly 1975's 1975 speculations;
+Ruggie's note on Herz; Scott's legibility; Goldsmith and Wu; Farrell and
+Newman. T1: Chastellain. The book's (c): that Bull named rather than
+originated the condition (stated as priority, not as a correction of
+Bull); the layered tense's asymmetry; and the reading of the astrologers'
+term against the chronicler's comet as the discipline the book refuses.
+
+STATUS: PENDING HUMAN REVIEW.

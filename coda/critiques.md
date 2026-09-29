@@ -292,3 +292,59 @@ the draft; items 2–5 remain unexecuted (PROPOSED rows).
   limits or in Appendix C?
 
 *(Run pending; results to be pasted below with date.)*
+
+## Phase 6 renovation (2026-09-29 — Decisions 3, 7, 10, 12, 18, 27; row (dddd)). PENDING HUMAN REVIEW.
+
+Five objections previously logged here are now answered in the Coda's own
+text rather than in this file, and the checklist above is answerable in
+full except its last item.
+
+1. **Ruggie's methodological verdict ("there are none of it", 1993:
+   169).** Answered at §I by concession: the book claims one link — the
+   subordination of armed intermediaries under a permanent fisc — and not
+   the medieval-to-modern transformation, and nothing about the passage
+   between orders is offered as law-like. Tilly 1975: 601 is named beside
+   it as the licence for the form of claim that remains.
+2. **Goldsmith and Wu's rival explanation for half the prediction.**
+   Answered at §I's new closing paragraph in the layered tense: the canon
+   and the register were re-territorialised 2000–06 by ordinary law and
+   at no fiscal cost, the mechanism's claim over that layer is confined
+   to scale and to fusion with the chokepoint layer, and the fiscal
+   threshold is defended on the decisive military stack alone. This
+   converts the objection into the fullest documentation of the state
+   taking the cheap half first; it does not dispose of it, and the
+   Appendix C indicators that touch the legibility family should be read
+   in that light.
+3. **"The ratchet" as a guns-only thesis (McNeill's Venice; Glete's
+   navies).** Narrowed at §I: the ratchet is scale and the end of the
+   small sovereign, artillery its French form and the navy another. The
+   Italian civil-control concession is ch06's and ch10's, not the Coda's,
+   and is not restated here.
+4. **The fiscal-military claim for a polity with no funded debt.**
+   Answered at §I: the settlement of 1439–51 is stated as a tax
+   settlement, not a credit one, with Stasavage's dates in the text.
+   RESIDUE: Stasavage's own size argument against bloc-scale
+   consolidation is still unanswered anywhere and stays logged as
+   UNANSWERED.
+5. **Scott's warning (the four elements assembled).** Discharged at §III
+   by naming him as the owner of the optic, and priced at §IV by naming
+   condition 1 the Scott scenario. RESIDUE: his brittleness claim remains
+   his contested reading and is not adopted.
+6. **McNeill's Liège lag.** Now confessed at §V as a second limit of the
+   same kind as the nuclear ceiling, with the book's answer beside the
+   risk and the score assigned to Appendix C. The Coda's sentence assumes
+   an Appendix C indicator that Part B5 of this renovation owes; if that
+   indicator does not land, the sentence overstates what the appendix
+   does and must be softened.
+7. **Schmitt's lineage.** §VI now names the third possibility and the
+   book's place in it, with the 1939 provenance carried by pointer to
+   ch12 §IV's note. The objection that the book has adopted a Nazi-era
+   spatial doctrine without saying so is answered by that note, not by
+   the Coda.
+
+STILL NOT CARRIED, and recorded rather than smoothed: Crouch's no-return
+parabola as the named alternative to §VI's exit, and Wu's Cycle beside
+it — the multi-path concession remains an unruled proposal. Cheung's
+concealment warning on the measurements sentence is likewise not carried
+(the last item of the Perplexity checklist above), and no ruling of 29
+September reaches it.

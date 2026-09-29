@@ -168,3 +168,39 @@ surrender as a mind besieged.
   summary?
 
 *(Run pending; results to be pasted below with date.)*
+
+## Phase 6 renovation (2026-09-29 — Decisions 7, 12, 18, 19, 27). PENDING HUMAN REVIEW.
+
+Three objections are now answered in the Introduction's own text.
+
+1. **"The book uses a living scholar's coinage in its thesis statement
+   and never names him."** Answered at §II: Scott is named at the book's
+   first use of "legibility", with his own definition of the optic and
+   its fiscal-military motive (Scott 1998: 2, 24). No casual "legible"
+   occurs in this draft.
+2. **"Half the reassertion you predict happened twenty years ago, and
+   cheaply."** Answered at §II in the layered tense: the legibility layer
+   taken back 2000–06 by ordinary law and at no fiscal cost, the decisive
+   layer compelled and unaccomplished. The concession is made in the
+   book's own voice at the front of the book rather than in a chapter a
+   reviewer may not reach.
+3. **"The forecast is written so that it cannot lose — the chronicler's
+   comet."** Answered at §III with the specimen itself, and with the
+   attribution corrected: the failed fixed term was the astrologers' and
+   the princes', not Chastellain's, and it is the chronicler's hedged
+   comet that models the discipline the book refuses. The answer is
+   procedural — the conditions are dated, bloc-named and not re-dated
+   after the fact — which is the only form of the answer that can be
+   checked.
+4. **"Bull was not the first to think this."** Conceded at §I in one
+   sentence, with Tilly 1975 and Herz 1957 (via Ruggie) given their
+   priority and Bull left as the text that named and tested the
+   condition. Roderick's restraint qualification governs: the concession
+   is one sentence, not a passage, and §V's closing page is untouched.
+
+STILL STANDING, unhardened: the Holsinger page cites (punctum-carried;
+re-verify on purchase) and the [GAP: Rengger] bracket in §IV, both listed
+as REVIFY-OR-CUT in the memo entry of this date. Also standing: the
+vivid-image ledger conflict of 2026-09-16, which is Roderick's, and the
+duplication of the Chastellain specimen between §III here and ch12 §VI,
+which Decision 27 does not resolve.

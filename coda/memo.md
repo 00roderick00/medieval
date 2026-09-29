@@ -884,3 +884,394 @@ conditions attached to it are at ch12/memo.md, "The coinage ledger check,
 completed".
 
 STATUS (2026-09-16 intake Revisions): PENDING HUMAN REVIEW.
+
+## Revisions (2026-09-29 — Phase 6 renovation: Decisions 3, 7, 10, 12, 18, 19, 27; row (dddd). PENDING HUMAN REVIEW.)
+
+*Executed against research/claude-code-instruction-phase6-renovation-2026-09-29.md
+Part B4 and the Coda items of A1, A2, A3 and A5; the rulings verbatim at
+research/rulings-2026-09-29-sheet-III.md (Choice A throughout, Roderick's
+qualification on D10 governing); the decision texts at
+research/rulings-sheet-III-2026-09-29.md (Decisions 1, 3, 7, 10, 12, 18,
+19, 27 read in full); spine §§7, 8(g), 8(h), 8(i). Every pin below was
+re-opened at its sidecar this date: Tilly-1975-Western-State-Making-ocr.txt
+(p. 601 at l. 35; pp. 630, 638 at ll. 1385 marker, 1724, 1756);
+Ruggie.txt (ll. 318, 341, 363, 2371); Glete.txt (ll. 2196, 3296);
+Major-Representative-Institutions-Renaissance-France-1960.txt (ll.
+2359–2385, printed p. 42); Stasavage.txt (ll. 230, 290, 369, 417, 1194);
+Goldsmith-Wu.txt (ll. 2246, 2675, 4827); FN-article.txt (l. 456);
+Scott.txt (ll. 344, 352, 1001, and the recipe at pp. 4–5 as verified in
+Revisions 6); Commynes-tomeIII.txt (l. 5428, printed p. 81, marker at l.
+5399); Chastellain-vol11-ocr.txt (ll. 14286–14292, Kervyn's lacuna note);
+McNeill.txt (ll. 4621, 4630–4637); Schmitt.txt (ll. 17765–17776);
+Crouch-Post-Democracy-2004.txt (l. 416 = p. 6; l. 1025 = p. 21; l. 838 =
+pp. 16–17, page markers at ll. 357, 439, 990, 1030, 832); Bagehot.txt
+(ll. 1228, 1243).*
+
+*Scope notes. **Decision 19 does not reach the Coda**: the Coda states no
+"new units" test (grep this date — "new units" zero occurrences), so
+there was nothing here to mark as the book's reconstruction; the limb is
+the spine's and ch01's. **Decision 12's string change had no target**:
+"1439–46" does not occur in coda/draft.md, so the corrected range enters
+positively in §I rather than by substitution. **Decision 7 was NOT begun
+in the Coda by Phase 5B** — register decision coda-d was recorded as
+PROPOSED and explicitly not applied ("Not done, and why", Part B3 entry)
+— so it is executed here in full rather than completed. **Decision 3 WAS
+begun by Phase 5B**: the fifth disclaimer exists, and it has been brought
+to D3's specification rather than a sixth disclaimer added. **Roderick's
+spine §8(i) sentence** (only the largest fiscal bases — the United
+States, China, the European Union with the states that attach to it — can
+make this next consolidation move) is NOT written here: the ch12 unit has
+placed it at ch12 §IV, and A2 offers the Coda or ch12, not both.*
+
+**§I — sentences changed.**
+
+1. **Row (dddd); register decision coda-b; Decision 19's method limb.**
+   OLD: "The book's causal claim has a precise logical form, and
+   everything turns on it: a *mechanism under conditions*, not a law of
+   history." NEW: the same sentence, followed by — "That form has a
+   licence and an objection, and both deserve naming. The licence is
+   Tilly's, who closed the 1975 volume by allowing that the relationships
+   among variables which held in European history — between the
+   costliness of armed force and the extent of the extractive apparatus,
+   in his own example — might continue to hold in our own time, while the
+   specific sequences and forms in which they had worked themselves out
+   in Europe would not (Tilly 1975: 601). The objection is Ruggie's, who
+   held that while there may be law-like generalisations within the
+   medieval-to-modern transformation, there are 'none of it' — no general
+   theory of the passage itself (Ruggie 1993: 156, 169; the wording
+   carried from a rough scan, page images to be checked at press). That
+   objection is conceded rather than answered, because the book never
+   needed the larger claim. What is claimed here is one link, not the
+   transformation: the subordination of armed intermediaries under a
+   permanent fisc. Nothing about the movement from one order of the world
+   to another is offered as law-like." Pins: Tilly 1975: 601 (verified,
+   l. 35 — "the relationships among variables … will continue to hold in
+   our own time, although the specific sequences and forms in which those
+   relationships worked themselves out in Europe will not"); Ruggie 1993:
+   156 (the two shortcomings) and 169 ("there are none of it", l. 2371 —
+   OCR reflows the column, so only the three-word phrase is quoted and a
+   page-image check is owed at press). Consensus / contested / book: the
+   method sentence is T2; "none of it" is the strongest theoretical form
+   of the anti-determinism objection; the one-link answer is the book's
+   (c).
+
+2. **Decision 10, rows (ddd) and (ooo); register decision coda-g; A2.**
+   OLD: "… operated once, in the documented case Part II reconstructs.
+   The book's wager is that its enabling conditions have recurred …" NEW:
+   after "reconstructs." — "Two glosses keep that sentence honest. The
+   first is that the ratchet the case demonstrates is a narrow one:
+   scale, and the end of the small sovereign. Artillery against walls is
+   the French form of a wider capital-intensification, not its only form
+   — the earliest sailing navies were state-owned from the beginning,
+   raised on the European periphery by naval-minded kings where no wall
+   had been broken at all, and heavy guns were capital goods in both
+   services, the mobile siege train requiring a permanent organisation of
+   skilled men and the heaviest ordnance requiring warships too
+   specialised to trade (Glete 2002: 39, 65)." Pins: Glete p. 39
+   (verified, l. 2196 — "Most of the earliest sailing navies were created
+   on the European periphery: in Portugal, England, Denmark-Norway and
+   Sweden … created by naval-minded kings"); Glete p. 65 (verified, l.
+   3296 — "Heavy guns were capital goods, and mobile siege artillery
+   required a permanent organisation of skilled men"; the heaviest
+   ordnance "could only be carried by special warships of a size and
+   construction that made them less economic as merchantmen"). The narrow
+   definition — scale and the end of the small sovereign — is spine
+   §8(i)'s wording and is carried here as a reading of "the ratchet", not
+   a reversal; Part II carries the demonstration. **McNeill's lag is
+   placed at §V, not here**, because Decision 27's Choice A specifies the
+   Coda's limits paragraph; see §V below.
+
+3. **Decision 12, rows (xxx) and (a); A1.** NEW, continuing the same
+   passage: "The second is that the chain is a tax chain. The French
+   settlement completed between 1439 and 1451 — the ordonnance at one
+   end, and at the other the taille des gens de guerre, which by Major's
+   account came in 1451 to be levied by royal command alone (Major 1960:
+   42) — was a tax settlement and not a credit one: the monarchy
+   established no long-term debt until 1522, two generations later and by
+   a municipal route, and before 1500 no territorial state in Europe had
+   a funded debt at all (Stasavage 2011: ch. 2). The artillery state was
+   built on taxation and short-term merchant credit, not on borrowing
+   against the future." Pins: Major 1960: 42 (verified, ll. 2359–2385 —
+   "by 1451 … Charles abandoned the regular taille altogether … the king
+   ordered the élus to impose the necessary taxes to support the lances
+   without convoking the provincial estates to give consent. The taille
+   to support the army, like the aides some years earlier, had come to be
+   levied by royal command alone"); Stasavage 2011: ch. 2 (verified, l.
+   230 — "the French monarchy did not establish a long-term debt until
+   1522"; l. 417 — "Prior to 1500 … no territorial states had yet created
+   long-term debts"; l. 1194 — the 1522 rentes sur l'Hôtel de Ville).
+   NOTE: Major is a NEW work for this file and is entered in
+   coda/sources.md this date as a POINTER to the ch10 master. The hinge
+   is stated as 1451 per spine §8(i); 1439 is kept as the ordonnance.
+
+4. **Decision 7, rows (ll), (eeee) and (vvv); A3; register decision
+   coda-d.** OLD: §I ended "… is checkable at any time against public
+   budgets." NEW paragraph appended: "One further honesty belongs here,
+   because it changes the tense in which the wager must be read. Half of
+   the reassertion this book predicts is not a prediction at all. The
+   canon and the register — which rules count, who is who, what is
+   where, which payments clear — were substantially re-territorialised
+   between 2000 and 2006, and they were re-territorialised cheaply, by
+   ordinary law applied to local intermediaries, since government
+   regulation works, in Goldsmith and Wu's formulation, 'by cost and
+   bother, not by hermetic seal' (Goldsmith and Wu 2006: 68), until what
+   had been a global network became 'a collection of nation-state
+   networks' (p. 149). No fiscal threshold was crossed to do it. The
+   chokepoints the state now works through — payments, data, the
+   clearing systems — accrued to it by jurisdictional accident rather
+   than by purchase; the asymmetric networks it exploits, as Farrell and
+   Newman put it, 'were not constructed as tools of statecraft' (Farrell
+   and Newman 2019: 54), and no new taxation was required to take them
+   up. Over that layer the mechanism claims only two things it can
+   defend: scale, since control through intermediaries is 'generally less
+   effective in small nations' (Goldsmith and Wu 2006: 81–82), and
+   fusion, the point at which the legibility layer is joined to the layer
+   that costs money. The fiscal threshold is therefore defended on the
+   decisive military stack alone. Accomplished for canon and register;
+   compelled and unaccomplished for the guns — the book speaks in two
+   tenses at once, and the reader should hold it to both." Pins:
+   Goldsmith and Wu 2006: 68 (verified, l. 2246), 149 (verified, l.
+   4827), 81–82 (verified, l. 2675 — "The techniques of intermediary
+   control are generally less effective in small nations"); Farrell and
+   Newman 2019: 54 (verified, l. 456). This is a register amendment to
+   spine §7 as §8(i) records it, not a reversal: the reassertion over the
+   decisive stack remains compelled and unaccomplished.
+
+**§III — sentences changed.**
+
+5. **Decision 18, rows (rr) and (bbbb); A5; register decision coda-c.**
+   NEW, after "… flagged for re-verification at press.": "One term of art
+   in that record is borrowed, and the debt is discharged here rather
+   than in a bibliography. *Legibility* — a state's capacity to see its
+   subjects and their holdings in a standard, countable form — is James
+   C. Scott's, who found the premodern state 'in many crucial respects,
+   partially blind' and read surnames, cadastres, population registers
+   and standard measures as 'attempts at legibility and simplification'
+   driven by 'the pressing material interests of rulers: fiscal receipts,
+   military manpower, and state security' (Scott 1998: 2, 24). The optic
+   throughout this book is his; what the book adds is the price at which
+   acquiring it becomes unavoidable." Pins: Scott 1998: 2 (verified, ll.
+   344, 352), 24 (verified, l. 1001). Period caution as in sources.md:
+   Scott is never authority for the fifteenth century. The Introduction
+   carries the book's FIRST use and names him there too (Decision 18's
+   primary fix); this sentence is the method note's discharge of the same
+   debt, and the two are not duplicates — the Introduction defines the
+   term, the Coda credits the optic.
+
+6. **Row (dddd); register decision coda-j.** OLD: "… marked as the
+   pipeline's own for checking. And a recurring evidentiary pattern was
+   promoted, once noticed, into the book's method …" NEW: after "for
+   checking." — "Two absences belong beside that discipline, because the
+   corpus's gaps bear on the argument as much as its holdings do. The
+   corpus has holes, and one falls on the book's own hinge: the
+   Burgundian chronicler's pages from July 1453 to August 1454 are lost
+   in the manuscript itself, and with them his narrative of Castillon,
+   Talbot's death, the conquest of Guyenne and the fall of
+   Constantinople, so that the triple hinge of 1453 has no Burgundian
+   witness and none is claimed (Kervyn de Lettenhove's note at the close
+   of Chastellain, *Œuvres*, tome II). And where the witness does
+   survive, his frame is not the book's. Commynes, who saw the Italian
+   campaign of 1494 and described its artillery better than any modern
+   summary, concluded that the thing had been 'impossible aux gens qui le
+   guidoient, s'il ne fust venu de Dieu seul' — impossible for the men
+   who guided it, had it not come from God alone [TRANS. CLAUDE]
+   (Commynes, ed. Calmette, t. III: 81). The mechanism is the historian's
+   frame imposed on such testimony, not found in it, and the book says so
+   where it uses him." Pins: Chastellain vol11 sidecar ll. 14286–14292
+   (verified — "La fin du livre III manque … elle ne s'étend que du mois
+   de juillet 1453 au mois d'août 1454. Là se trouvaient racontées …  la
+   bataille de Castillon et la mort de Talbot, la conquête de la Guyenne,
+   la prise de Constantinople par Mahomet II"); Commynes t. III p. 81
+   (verified, l. 5428, page marker at l. 5399 — the pin ch10's sources
+   master carries as the FRAME CAUTION). NOTE ON A PIN NOT USED: the
+   pointer block also offers Commynes t. III p. 2 for the providential
+   frame; at the sidecar the "conduict de Dieu tant a l'aller que au
+   tourner" passage falls after the printed page marker "3" (l. 322), so
+   the p. 2 pin is not confirmed and the verified p. 81 sentence is used
+   instead. The p. 2 pin should be re-checked at the page image before
+   press or dropped from the pointer block.
+
+**§IV — table cell changed.**
+
+7. **Row (dddd); register decision coda-h; Decision 18.** Delta table,
+   row 1, column "What forced the narrowing". OLD: "The Ukraine record:
+   the March 2025 suspension week showed the cheap layer aiming through a
+   patron's decisive layer (ch12)". NEW: the same, plus — "In its
+   narrowed form this condition is the Scott scenario made scoreable —
+   the falsifier his warning about legible states demands, and the reason
+   the book can be said to have priced it (Scott 1998: 4–5)". Pin: Scott
+   1998: 4–5 (the four-element recipe, verified at Revisions 6 of this
+   file: "a pernicious combination of four elements"; "the legibility of
+   a society provides the capacity for largescale social engineering,
+   high-modernist ideology provides the desire, the authoritarian state
+   provides the determination to act on that desire, and an incapacitated
+   civil society provides the leveled social terrain on which to build").
+   The naming is the book's (c); Scott proposes no falsifier.
+
+**§V — sentences changed.**
+
+8. **Decision 3, row (cccc) — the fifth disclaimer brought to
+   specification.** Phase 5B's fifth disclaimer already named Crouch,
+   Bagehot and Stasavage and already used "ornamental democracy" only as
+   Chapter 12's term; no sixth disclaimer was added, and "Five
+   disclaimers" is unchanged. Four changes inside it:
+   - OLD: "… a special case of the condition Colin Crouch named
+     post-democracy, in which the forms of democracy remain fully in
+     place while politics and government slip back into the control of
+     privileged elites (Crouch 2000: PDF 2); and it is Crouch's own
+     judgement that it is difficult to dignify such a politics as
+     democracy (Crouch 2000: PDF 8) which licenses …" NEW: "… a special
+     case of the condition Colin Crouch named post-democracy, in which
+     'the forms of democracy remain fully in place' while 'politics and
+     government are increasingly slipping back into the control of
+     privileged elites' (Crouch 2004: 6); and it is Crouch's own
+     judgement that it is 'difficult to dignify it as democracy itself'
+     (p. 21) which licenses …" Pins re-based from the T3 Fabian
+     typescript to the T2 book, as the 2026-09-16 intake entry of this
+     file recorded should happen and as ch12 §VIII now does: Crouch 2004:
+     6 (verified, l. 416, between the printed markers 5 and 7) and 21
+     (verified, l. 1025, between the markers 21 and 22). The 2004 scan's
+     OCR slips at both pages ("beck" for "back"; "Ar the same -ime it 3s
+     difficult") are corroborated against the clean 2000 typescript, so
+     the wording is not in doubt; the quotations are now given as
+     quotations because the book's page is available.
+   - OLD: "… were never decoration but the parts that bring a government
+     its force. His one warning the book does adopt is a prediction."
+     NEW: "… were never decoration but the parts that bring a government
+     its force — 'they raise the army, though they do not win the battle'
+     (Bagehot 1867: PDF 21). His one warning the book does adopt is a
+     prediction." Pin: Bagehot PDF 21 (verified, l. 1243, the same
+     passage of The Cabinet as the DIGNIFIED/EFFICIENT sentence at l.
+     1228). This is the Decision 3 specification's own quotation and
+     states the never-decoration disanalogy in his words instead of the
+     draft's paraphrase.
+   - OLD: "The historical portrait of the second outcome is not English
+     but Castilian: an assembly that won consent …" NEW: "The historical
+     portrait of the second outcome is not English but Castilian, and it
+     is David Stasavage's: an assembly that won consent …" Decision 3
+     asks for Crouch, Bagehot and Stasavage each named in a sentence;
+     Stasavage was named only in the citation.
+   - OLD: "… a distinction that is also Crouch's (Crouch 2000: PDF 5)."
+     NEW: "… a distinction that is also Crouch's (Crouch 2004: 16–17)."
+     Pin verified at l. 838 (printed marker 17 at l. 832): "Maximal
+     democracy certainly cannot flourish without strong liberalism. But
+     the two are different things, and at points even conflict."
+   - NOT done, and why: Wolin is still not named in the Coda. The
+     2026-09-16 intake entry of this file recorded the naming as
+     Roderick's call and recommended against a third borrowed line in a
+     prose disclaimer; Decision 3's Choice A names Crouch, Bagehot and
+     Stasavage and not Wolin; ch12 §VIII carries the rival-diagnosis
+     sentence. The recommendation stands and the choice remains his.
+
+9. **Decision 27, rows (jj) and (ffff); register decision coda-e; A2's
+   McNeill limb.** NEW paragraph after the nuclear-ceiling paragraph:
+   "A second limit is confessed in the same spirit, and it is internal to
+   the one completed run. The barons were subordinated first; the
+   gunfounders were not. The gunmakers of Liège sat in a principality too
+   weak to be worth holding, and their very weakness, McNeill records,
+   'allowed the Liégeois to set their own prices. Even the mightiest
+   rulers had to pay what was asked, or do without', because so long as
+   no single command structure reached every corner of Latin Christendom
+   'the sovereignty of the market over even the greatest ruler of the age
+   remained an ultimate reality' (McNeill 1982: 113–14). If the run is a
+   guide, the compute-and-foundry layer keeps its pricing power long
+   after the private-force layer has been commissioned. The book's answer
+   — that a bloc settlement is precisely the closure of the refuge on
+   which a Liège depends — stands beside that risk and not instead of it;
+   and because a limit confessed is something a reader weighs while an
+   indicator scored is something that can move, the two are scored apart
+   in Appendix C, contractor subordination and foundry pricing power,
+   which may run in opposite directions." Pins: McNeill 1982: 113
+   (verified, l. 4621), 114 (verified, ll. 4630–4637). Decision 27's
+   Choice A resolves the (jj)/(ffff) pull — a clause in the Coda, the
+   score in the Appendix — and the closing sentence states the split in
+   the ruling's own terms. **OWED ELSEWHERE:** the separate Appendix C
+   indicator (foundry pricing power scored apart from contractor
+   subordination) is Part B5's, not this unit's; the Coda's sentence
+   depends on it landing. Reported.
+
+**§VI — sentences changed.**
+
+10. **Decision 27, row (ffff); register decision coda-f.** OLD: "… and
+    the book carries it as an open second claim rather than folding it
+    into the first. Where Bull saw a possible destination …" NEW: after
+    "into the first." — "The shape of that exit was named as a
+    possibility, and named third, in 1950: setting out how a new order of
+    the earth might come, Schmitt allowed that 'a combination of several
+    independent *Großräume* or blocs could constitute a balance, and
+    thereby could precipitate a new order of the earth', and thought such
+    an equilibrium 'rational, if the *Großräume* are differentiated
+    meaningfully and are homogeneous internally', while 'most of those
+    considering this frightful problem rush blindly toward a single
+    sovereign of the world' (Schmitt 1950/2003: 354–55). This book is the
+    mechanism-equipped argument for that third branch: what he could
+    offer as a rational possibility, the fiscal-military chain offers as
+    a compelled one. The geometry is taken with its debt stated rather
+    than laundered — Chapter 12's note carries the 1939 provenance and
+    the substance disanalogy, and neither the doctrine nor the politics
+    travels with the shape." Pins: Schmitt pp. 354–55 (verified, ll.
+    17765–17776). The 1939 provenance is carried by pointer, as the
+    instruction requires: ch12 §IV's parenthesis states the
+    *Völkerrechtliche Großraumordnung* of 1939, the Reich as intended
+    ordering centre, and the substance disanalogy, and is not restated
+    here. Citation form follows ch12's ("1950/2003") for the Ulmen
+    translation.
+
+**Cross-references updated for ch12's renumbering (Decision 2, choice B).**
+§V "what Chapter 12 calls *ornamental democracy*" → "what Chapter 12,
+§VIII calls *ornamental democracy*"; §V "that Chapter 12 carries" (the
+stack-rents extension) → "that Chapter 12, §VIII carries" (the sentence
+is at ch12 draft l. 1273, inside the new §VIII); §VI "Chapter 12's note"
+(the Schmitt provenance) → "the note at Chapter 12, §IV", which is where
+that note in fact sits. The asset ledger is now ch12 §VII and the
+Formigny/Castillon return §IX; the Coda cites neither by number.
+
+**Untouched.** §II entire; §IV's sub-wager sentence and the delta
+table's rows 2–4; §V's four earlier disclaimers, the nuclear-ceiling
+paragraph's own text and the [BRIDGE]-adjacent settlement line ("a
+settlement being, in the end, an order nobody finds it worth fighting")
+— Roderick's; §VI's close. No flag was hardened.
+
+**Flags.** Closed: coda-b, coda-c, coda-d, coda-e, coda-f, coda-g,
+coda-h, coda-j (all ruled and applied). Narrowed: coda-a (the fifth
+disclaimer now at Decision 3's specification; Wolin's naming still
+Roderick's). Not reached: coda-i is discharged elsewhere — Decision 27
+places the Chastellain specimen at the Introduction's wager and rules
+that the Coda does not carry it, so §IV gains no prophecy clause.
+Opened: (i) the Commynes t. III p. 2 pin in the pointer block is not
+confirmed at the sidecar and is superseded here by p. 81; (ii) Ruggie p.
+169's wording rests on a reflowed OCR column and a page-image check is
+owed at press; (iii) Appendix C owes the foundry-pricing indicator the
+§V sentence now assumes.
+
+**REVIFY-OR-CUT (P43-h standing discipline).** Nothing. Every quotation
+standing in coda/draft.md after this pass is from a work in corpus with a
+sidecar opened this date or previously verified in this file: Crouch
+2004, Bagehot, Stasavage, Tilly 1975, Tilly 1985, Ruggie, Glete, Major,
+Goldsmith and Wu, Farrell and Newman, Scott, Commynes, Chastellain,
+McNeill, Schmitt. No quotation was hardened.
+
+**Voice ledger.** Coined concept — NONE (unchanged). Vivid image —
+unchanged ("a waypoint with a well-documented exit"). Aphoristic line —
+unchanged ("the book predicts, and declines to bless"); two flat
+judgements added in §I are recorded in the draft footer as cut candidates
+if Roderick reads either as a second aphorism. Nine borrowed quotable
+lines now stand in the Coda, each attributed inline; the footer names the
+two that can be reduced to paraphrase if the section reads as crowded.
+
+**Consensus / contested / book.** T2 or T1 as graded in sources.md:
+Tilly's method sentence; Ruggie's methodological verdict; Glete's navies
+and gun-as-capital-good; Major's 1451; Stasavage's debt dates; Goldsmith
+and Wu's and Farrell and Newman's findings; Scott's legibility; Kervyn's
+lacuna; Commynes's providence; McNeill's Liège; Schmitt's three
+possibilities; Crouch's condition; Bagehot's distinction. Contested, and
+named as such in critiques: Ruggie's "none of it" as the anti-determinism
+objection; McNeill's Venice as the rival to a guns-only reading. The
+book's own (c): "one link claimed, not the transformation"; the ratchet
+read as the French form; the tax-chain reading; the layered tense's
+confinement to scale and fusion; condition 1 named the Scott scenario;
+the special-case relation and the falsifiers; the bloc settlement as the
+closure of Liège's refuge; the mechanism-equipped reading of Schmitt's
+third branch.
+
+STATUS: PENDING HUMAN REVIEW.

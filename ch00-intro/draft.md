@@ -70,7 +70,16 @@ turn*. Between the two arguments stands the present condition, which
 a serious scholarly literature spent fifty years naming: the new
 medievalism — the observed return of overlapping authority and
 multiple loyalty, of private force and plural law and universal
-institutions that answer to no territory. This book accepts that
+institutions that answer to no territory. The name is Hedley Bull's,
+and it arrived later than the intuition: Tilly, writing two years
+earlier, relayed the suggestion that the multinational corporation
+was superseding the national state as a repository of power and
+closed his own volume with the thought that we might, unknowing, be
+writing obituaries for the state (Tilly 1975: 630, 638), and John
+Herz had put the territorial state's rise and demise into play as
+early as 1957 (Herz 1957, as cited at Ruggie 1993: 143 n. 23). Bull
+named the condition and tested it; he did not invent the suspicion.
+This book accepts that
 literature's diagnosis almost entirely. Its quarrel is with the
 literature's tense. The dispersal is real; it is also, on the
 evidence assembled here, the middle of an arc whose ending has
@@ -125,7 +134,23 @@ that happens: by building the fiscal, administrative and legibility
 apparatus that the new price demands, and by beginning — half
 consciously, in the American case; deliberately, in the Chinese —
 to subordinate every intermediate authority that stands between the
-centre and the capability. The scene is left deliberately
+centre and the capability. *Legibility* is James C. Scott's word, and
+the debt is best acknowledged at its first use: the capacity of a
+state to see its subjects and their holdings in a standard, countable
+form, which he traced to "the pressing material interests of rulers:
+fiscal receipts, military manpower, and state security" and set
+against the premodern state, "in many crucial respects, partially
+blind" (Scott 1998: 2, 24). One half
+of that apparatus is further along than the other, and the difference
+matters. The legibility layer — which
+rules count, who is who, which payments clear — was substantially
+taken back between 2000 and 2006, and taken back cheaply, by ordinary
+law applied to local intermediaries rather than by any new tax, until
+what had been a global network became "a collection of nation-state
+networks" (Goldsmith and Wu 2006: 68, 149; Farrell and Newman 2019:
+54). The decisive layer is the one that costs money, and there the
+reassertion is compelled and unaccomplished: a requirement, not yet a
+record. The scene is left deliberately
 underdetermined, because in 1445 it was underdetermined too. Nobody
 at Louppy-le-Château knew they were founding the modern state. The
 ordonnance that did it is lost.
@@ -151,7 +176,7 @@ separately. The first is that the independent technological powers
 are subordinated to the state — the mechanism. The second concerns
 the constitutional form of the state that absorbs them, and that
 form the book holds open: in the democratic bloc the absorbing state
-may be democratic, or it may be what Chapter 12 will call
+may be democratic, or it may be what Chapter 12, §VIII will call
 *ornamentally democratic* — its legitimating authority demonstrably
 separated from effective control over its strategic commitments —
 and the barons' loss of independence and the people's acquisition of
@@ -229,7 +254,7 @@ C's).
 > waived;
 >
 > **7.** courts issue remedies that change the stack's operations
-> and not only its paperwork;
+> rather than punish them after the fact, and not only its paperwork;
 >
 > **8.** public institutions prove capable of replacing an
 > essential supplier without that supplier's consent
@@ -263,6 +288,29 @@ afterwards — and it is stated in the same form as the four
 conditions so that it can fail in the same way. And the fifteen-year
 horizon is kept from the book's first outline: long enough for the
 moves to run, short enough that the author expects to be marked.
+
+One discipline travels with the passage, and the fifteenth century
+supplies its specimen. In the winter of 1457–58 the astrologers about
+Charles VII's court gave the king a fixed term — by judgement of
+astronomy he would die and "ne passeroit point le mois de mars", would
+not outlast the month of March — and the dauphin and the duke of
+Burgundy, who had each rejoiced, "furent trompés tous
+deux", were both deceived, for the king lived on [TRANS. CLAUDE]
+(Chastellain, ed. Kervyn 1863: iii. 444, 446; the episode in full at
+Chapter 12). The failed prediction was the astrologers' and the
+princes', not the chronicler's; Chastellain's own forecasting was of
+the safer
+kind, for the comet of 1456 portended war, tribulation and the death
+of high princes — "posé que elles ne soient approuvées, ne tenues à
+nécessaires", granted these things are neither proven nor held to be
+necessary [TRANS. CLAUDE] — and two years later, when two princes
+died in one season, the comet was found to have shown itself, not
+without mystery, the season before (pp. 117, 387). The astrologers'
+term expired and could be marked wrong. The chronicler's comet
+survived by changing its referent and was never falsifiable at all,
+which is the discipline this book refuses: the conditions above are
+dated, they name the blocs they apply to, and they are not re-dated
+after the fact.
 
 ## IV.
 
@@ -417,6 +465,30 @@ condition 4's Part A narrowing; the sub-wager (5–8) is an ADDITION
 under ruling (u)/(cc), recorded in Revisions 5 and PENDING HUMAN
 REVIEW.*
 
+*Ledger addendum (2026-09-29, Phase 6 — Decisions 7, 12, 18, 19, 27):
+word count 3,945 in the body (3,443 before); 5,089 with footer and
+Revisions. Coined concepts — unchanged (the* artillery state *and the*
+Tudor turn, *§I); nothing coined this pass. Vivid image — the LEDGER
+CONFLICT recorded on 2026-09-16 stands exactly as it was, unresolved
+and Roderick's: the §II construction-site scene against the [BRIDGE —
+PROPOSED] sentence's figure in §I. Nothing added this pass touches it;
+the Chastellain specimen in §III is a dated episode with quoted
+testimony, not a figure, and Scott's "partially blind" is his phrase,
+attributed. Aphoristic line — unchanged ("History does not repeat
+here; it reprices", §V); "a requirement, not yet a record" (§II) is
+recorded as a flat judgement in the tense spine §7 rules and is the
+cut candidate if Roderick reads it as a second aphorism. Condition 7
+of the sub-wager is aligned this date to Chapter 12's third falsifier
+as now written (remedies that change operations rather than punish
+after the fact); conditions 1–4, condition 4's "a bloc's decisive
+capability", the dates and the fifteen-year horizon are untouched, and
+no failure condition is softened. New quotations, each attributed
+inline: Scott (§II), Goldsmith and Wu (§II), Chastellain (§III, twice,
+both [TRANS. CLAUDE]). Note for Roderick: Chapter 12 §VI carries the
+Chastellain episode at greater length; Decision 27 places the specimen
+here, so one of the two should probably be reduced, and the choice is
+his.*
+
 ## Revisions (post-review, 2026-08-02)
 
 1. **Header section reference corrected** (the falsifiability passage
@@ -513,9 +585,60 @@ REVIEW.*
 
 ---
 
+6. **(2026-09-29 — Phase 6 renovation: Decisions 7, 12, 18, 19, 27.
+   PENDING HUMAN REVIEW.)** Five changes; the full old/new record is
+   in memo.md's entry of the same title. Decision 12's "1439–46" →
+   "1439–51" had no string to change here (the Introduction dates the
+   mechanism "between 1440 and 1500" and never dates the settlement's
+   completion), so nothing was invented; the correction is recorded as
+   NOT APPLICABLE to this draft and lands in the Coda §I and ch10 §III.
+   - §I (Decision 19, rows (tt), (ww), with Roderick's restraint
+     qualification): ONE sentence added after "…answer to no
+     territory", marking Bull as the text that named the condition and
+     not the first to have the intuition (Tilly 1975: 630, 638; Herz
+     1957 as cited at Ruggie 1993: 143 n. 23). No other apparatus
+     enters the opening pages; the spine §7 "new units" limb is NOT
+     stated in this draft, so there was nothing here to mark as the
+     book's own (it is ch01's [DELTA] and the spine's).
+   - §II (Decision 18, rows (rr), (bbbb)): Scott named at the book's
+     first use of "legibility", which falls in §II at "the fiscal,
+     administrative and legibility apparatus" — earlier than the
+     identity-payments-legibility stack named later in the same
+     section (Scott 1998: 2, 24). No casual "legible" occurs in this
+     draft (grep this date), so none was reworded.
+   - §II (Decision 7, rows (ll), (eeee), (vvv)): NEW sentences putting
+     the reassertion in the layered tense — the legibility layer taken
+     back 2000–06 by ordinary law and at no fiscal cost (Goldsmith and
+     Wu 2006: 68, 149; Farrell and Newman 2019: 54), the decisive layer
+     compelled and unaccomplished per spine §7.
+   - §III (Decision 27, rows (ffff), (uu)): NEW paragraph after the
+     three construction notes, carrying the Chastellain prophecy
+     specimen with the corrected attribution — the failed fixed term
+     is the astrologers' and the princes', not the chronicler's, and
+     the chronicler's own hedged comet prognostic is the forecast that
+     survives by changing its meaning (Chastellain, ed. Kervyn 1863:
+     iii. 444, 446, 117, 387; [TRANS. CLAUDE]). The block-quoted wager
+     itself is not entered.
+   - §III, condition 7 of the sub-wager: aligned to ch12 §VIII's third
+     falsifier as now written ("remedies that change operations rather
+     than punish them afterwards") — OLD "change the stack's
+     operations and not only its paperwork" → NEW "change the stack's
+     operations rather than punish them after the fact, and not only
+     its paperwork". Conditions 5, 6 and 8 checked against ch12 §VIII
+     and found consistent; condition 4's "consolidate a bloc's
+     decisive capability" confirmed standing.
+   - The closing page (§V's final paragraph) untouched, reserved per
+     spine §7; the [BRIDGE — PROPOSED] walls-and-minds sentence and the
+     recorded ledger conflict left exactly as Phase 5B left them; no
+     existing [BRIDGE] touched.
+
+---
+
 STATUS: REVIEWED (Roderick, 2026-08-02) — approved with revision
 applied; falsifiability passage confirmed verbatim. Revisions 2
 (Bull direct quotes) and Revisions 3 (Pollard ch. 1) PENDING HUMAN
 REVIEW; Revisions 4 (Phase 4 Run A) PENDING HUMAN REVIEW; Revisions
 5 (Phase 5 Part B3 — the sub-wager is an addition to the reviewed
-passage and goes back through review) PENDING HUMAN REVIEW.
+passage and goes back through review) PENDING HUMAN REVIEW; Revisions
+6 (Phase 6 — §§I, II, III; condition 7 aligned to ch12 §VIII) PENDING
+HUMAN REVIEW.

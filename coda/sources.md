@@ -152,3 +152,125 @@ corpus/retrieved/source-library/text-2026-09-14/ unless stated.*
    2001, or the Fontana, Crossman intro., 1963). NEEDED FOR: page-level
    citation at assembly; the Gutenberg text carries the words, not the
    pages.
+
+### Pins used by the draft — Phase 6 (2026-09-29; Decisions 3, 7, 10, 12, 18, 27 and row (dddd); every sidecar re-opened this date)
+
+*POINTER entries; masters at the named chapters. All works are in corpus.*
+
+- **Tilly 1975** (T2; master at ch10/ch12): p. 601 (the method's licence
+  — "the relationships among variables … will continue to hold in our own
+  time, although the specific sequences and forms … will not"; sidecar
+  `text-2026-09-14/Tilly-1975-Western-State-Making-ocr.txt` l. 35,
+  printed = PDF+600). Draft: §I.
+- **Ruggie 1993** (T2; masters at appendix-a/ch01/ch12): pp. 156 (the two
+  shortcomings) and 169 ("there are none of it"; sidecar `Ruggie.txt` l.
+  2371). Draft: §I. CAUTION: the OCR reflows the column at p. 169; only
+  the three-word phrase is quoted and a page-image check is owed at press.
+- **Glete 2002** (T2; masters at ch10/ch11): p. 39 (sidecar `Glete.txt`
+  l. 2196 — the earliest sailing navies on the European periphery, raised
+  by naval-minded kings) and p. 65 (l. 3296 — heavy guns as capital
+  goods; the siege train's permanent organisation of skilled men; the
+  heaviest ordnance needing warships "less economic as merchantmen").
+  Draft: §I, the ratchet's French form.
+- **NEW — Major, *Representative Institutions in Renaissance France,
+  1421–1559* (Wisconsin, 1960), T2** — POINTER to the ch10 sources
+  master; sidecar
+  `text-2026-09-16/Major-Representative-Institutions-Renaissance-France-1960.txt`,
+  printed page markers in text. Coda pin: p. 42 (ll. 2359–2385 — "by 1451
+  … Charles abandoned the regular taille altogether … the taille des gens
+  de guerre supported the army"; "the king ordered the élus to impose the
+  necessary taxes to support the lances without convoking the provincial
+  estates to give consent. The taille to support the army, like the aides
+  some years earlier, had come to be levied by royal command alone").
+  Draft: §I, the 1451 hinge (spine §8(i); Decision 12, M60-b).
+- **Stasavage 2011** (T2; masters at ch10/ch12): NEW pin at ch. 2 —
+  sidecar `Stasavage.txt` l. 230 ("the French monarchy did not establish
+  a long-term debt until 1522"), l. 417 ("Prior to 1500, we cannot
+  directly compare city-states and territorial states, because no
+  territorial states had yet created long-term debts"), l. 1194 (the 1522
+  rentes sur l'Hôtel de Ville). Draft: §I, the tax-not-credit sentence.
+  EPUB — re-pin to printed pages before press. Existing pins (ch. 7
+  part0014_split_008–009; ch. 8 part0015_split_002) unchanged at §V.
+- **Goldsmith and Wu 2006** (T2/T3; master at ch12): pp. 68 (`Goldsmith-Wu.txt`
+  l. 2246 — "by cost and bother, not by hermetic seal"), 149 (l. 4827 —
+  "a collection of nation-state networks"), and NEW pp. 81–82 (l. 2675 —
+  "The techniques of intermediary control are generally less effective in
+  small nations"). Draft: §I, the layered tense.
+- **Farrell and Newman 2019** (T2; master at ch12): article p. 54
+  (`FN-article.txt` l. 456 — "were not constructed as tools of
+  statecraft"). Draft: §I, the no-new-taxation concession.
+- **Scott 1998** (T2; master at ch11/ch12): NEW pins pp. 2 (`Scott.txt`
+  ll. 344, 352 — "in many crucial respects, partially blind"; "attempts
+  at legibility and simplification") and 24 (l. 1001 — "the pressing
+  material interests of rulers: fiscal receipts, military manpower, and
+  state security"); existing pp. 4–5 (the four-element recipe). Draft:
+  §III (the debt discharged) and §IV (condition 1 named the Scott
+  scenario). Period caution: never authority for 1439–51.
+- **Chastellain, *Œuvres*, ed. Kervyn de Lettenhove, t. II close** (T1;
+  masters at ch05/ch11): the editor's lacuna note — sidecar
+  `Chastellain-vol11-ocr.txt` ll. 14286–14292, "La fin du livre III
+  manque … du mois de juillet 1453 au mois d'août 1454 … la bataille de
+  Castillon et la mort de Talbot, la conquête de la Guyenne, la prise de
+  Constantinople par Mahomet II". Draft: §III, the corpus's lacunae.
+- **Commynes, *Mémoires*, ed. Calmette, t. III** (T1; master at ch10):
+  p. 81 (`Commynes-tomeIII.txt` l. 5428, printed marker at l. 5399 —
+  "c'estoit chose impossible aux gens qui le guidoient, s'il ne fust venu
+  de Dieu seul"). Draft: §III, the witness's providential frame [TRANS.
+  CLAUDE]. **PIN CORRECTION:** the pointer block's p. 2 for the
+  providential frame is NOT confirmed — at the sidecar the "conduict de
+  Dieu tant a l'aller que au tourner" passage falls after the printed
+  marker "3" (l. 322). Use p. 81 or re-check p. 2/3 at the page image.
+- **McNeill 1982** (T2; masters at ch06/ch10/ch12): pp. 113
+  (`McNeill.txt` l. 4621 — "allowed the Liégeois to set their own prices.
+  Even the mightiest rulers had to pay what was asked, or do without")
+  and 114 (ll. 4630–4637 — "the sovereignty of the market over even the
+  greatest ruler of the age remained an ultimate reality"). Draft: §V,
+  the second confessed limit.
+- **Schmitt, *The Nomos of the Earth*** (T2; master at ch12, with the
+  provenance disanalogy): pp. 354–55 (`Schmitt.txt` ll. 17765–17776 — the
+  third possibility; "rational, if the *Großräume* are differentiated
+  meaningfully and are homogeneous internally"; "Most of those
+  considering this frightful problem rush blindly toward a single
+  sovereign of the world"). Draft: §VI. Citation form "1950/2003"
+  following ch12. The 1939 provenance is carried by pointer to ch12
+  §IV's note and is not restated in the Coda.
+- **Crouch, *Post-Democracy* (Polity, 2004), T2** — POINTER to the ch12
+  sources master; sidecar
+  `text-2026-09-16/Crouch-Post-Democracy-2004.txt` (partial photocopy;
+  printed page markers in the running heads). Coda pins, replacing the
+  2000 typescript pins in §V: p. 6 (l. 416, between markers 5 and 7 —
+  "the forms of democracy remain fully in place"; "politics and
+  government are increasingly slipping back into the control of
+  privileged elites"); p. 21 (l. 1025, between markers 21 and 22 —
+  "difficult to dignify it as democracy itself"); pp. 16–17 (l. 838,
+  marker 17 at l. 832 — "Maximal democracy certainly cannot flourish
+  without strong liberalism. But the two are different things"). OCR
+  slips at pp. 6 and 21 corroborated against the clean 2000 typescript.
+- **Bagehot 1867** (T1 classic / T2 for the distinction; master at ch09):
+  PDF 21 — NEW quotation pin at `Bagehot.txt` l. 1243, "They raise the
+  army, though they do not win the battle", the same passage of The
+  Cabinet as the DIGNIFIED/EFFICIENT sentence at l. 1228. Draft: §V, the
+  never-decoration disanalogy in his own words.
+
+### RETRIEVAL LIST — status updated 2026-09-29
+
+1. **Colin Crouch, *Post-Democracy* (Polity, 2004)** — **RETRIEVED**
+   (16 September 2026; partial photocopy, ch. 1 complete, most of ch. 2
+   and all of chs. 5–6 missing). §V's three quotations are now pinned to
+   the printed pages above. The sharper Crouch passages the critiques
+   file relies on ("institutional idiot"; "impossible to see any major
+   reversal") lie in the missing chapters and stay cited to the 2000
+   pamphlet until the rest of the book is retrieved.
+2. **Sheldon Wolin, *Democracy Incorporated* (Princeton, 2008)** —
+   **RETRIEVED** (16 September 2026; read in full, sidecar
+   `text-2026-09-16/Wolin-Democracy-Incorporated-2008.txt`). The spine
+   §8(g)(6) ledger check is closed. The Coda still does not name him:
+   Decision 3's Choice A names Crouch, Bagehot and Stasavage, and ch12
+   §VIII carries the rival-diagnosis sentence. Whether he is added here
+   in one clause remains Roderick's call (2026-09-16 intake entry, item
+   3).
+3. **A printed edition of Bagehot** — STILL WANTED, unchanged: page-level
+   citation at assembly; the Gutenberg text carries the words, not the
+   pages.
+4. **Stasavage, *States of Credit*** — the EPUB's ch. 2 and ch. 7–8 pins
+   need re-pinning to printed pages before press.

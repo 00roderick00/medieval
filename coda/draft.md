@@ -19,11 +19,50 @@ departed from.
 
 The book's causal claim has a precise logical form, and everything
 turns on it: a *mechanism under conditions*, not a law of history.
+That form has a licence and an objection, and both deserve naming.
+The licence is Tilly's, who closed the 1975 volume by allowing that
+the relationships among variables which held in European history —
+between the costliness of armed force and the extent of the
+extractive apparatus, in his own example — might continue to hold in
+our own time, while the specific sequences and forms in which they
+had worked themselves out in Europe would not (Tilly 1975: 601). The
+objection is Ruggie's, whose verdict on enquiries of just this kind is
+that "while there may be law-like generalizations in the
+medieval-to-modern transformation, there are none of it" — no general
+theory, that is, of the passage between orders, whatever may be said
+of processes inside it (Ruggie 1993: 156, 169; the wording carried
+from a rough scan, page images to be checked at press). That objection
+is conceded rather than answered, because the book never needed the
+larger claim. What is claimed here is one link, not the
+transformation: the subordination of armed intermediaries under a
+permanent fisc. Nothing about the movement from one order of the world
+to another is offered as law-like.
+
 The mechanism — capital-intensification of decisive force compelling
 permanent finance, permanent finance compelling administrative
 capacity, administrative capacity subordinating intermediate
 authorities — operated once, in the documented case Part II
-reconstructs. The book's wager is that its enabling conditions have
+reconstructs. Two glosses keep that sentence honest. The first is
+that the ratchet the case demonstrates is a narrow one: scale, and
+the end of the small sovereign. Artillery against walls is the French
+form of a wider capital-intensification, not its only form — the
+earliest sailing navies were state-owned from the beginning, raised
+on the European periphery by naval-minded kings where no wall had
+been broken at all, and heavy guns were capital goods in both
+services, the mobile siege train requiring a permanent organisation
+of skilled men and the heaviest ordnance requiring warships too
+specialised to trade (Glete 2002: 39, 65). The second is that the
+chain is a tax chain. The French settlement completed between 1439
+and 1451 — the ordonnance at one end, and at the other the taille des
+gens de guerre, which by Major's account came in 1451 to be levied by
+royal command alone (Major 1960: 42) — was a tax settlement and not a
+credit one: the monarchy established no long-term debt until 1522,
+two generations later and by a municipal route, and before 1500 no
+territorial state in Europe had a funded debt at all (Stasavage 2011:
+ch. 2). The artillery state was built on taxation and short-term
+merchant credit, not on borrowing against the future.
+
+The book's wager is that its enabling conditions have
 recurred: a decisive capability whose establishment cost sits beyond
 what any subject can sustain; polities with latent fiscal-administrative capacity
 to mobilise; and exogenous pressure sufficient to force the
@@ -43,6 +82,31 @@ follows. History does not repeat on command. Prices, however, are
 facts, and the book's core empirical assertion — that the price of
 decisive capability has moved beyond subordinate reach — is checkable
 at any time against public budgets.
+
+One further honesty belongs here, because it changes the tense in
+which the wager must be read. Half of the reassertion this book
+predicts is not a prediction at all. The canon and the register —
+which rules count, who is who, what is where, which payments clear —
+were substantially re-territorialised between 2000 and 2006, and they
+were re-territorialised cheaply, by ordinary law applied to local
+intermediaries, since government regulation works, in Goldsmith and
+Wu's formulation, "by cost and bother, not by hermetic seal"
+(Goldsmith and Wu 2006: 68), until what had been a global network
+became "a collection of nation-state networks" (p. 149). No fiscal
+threshold was crossed to do it. The chokepoints the state now works
+through — payments, data, the clearing systems — accrued to it by
+jurisdictional accident rather than by purchase; the asymmetric
+networks it exploits, as Farrell and Newman put it, "were not
+constructed as tools of statecraft" (Farrell and Newman 2019: 54),
+and no new taxation was required to take them up. Over that layer the
+mechanism claims only two things it can defend: scale, since control
+through intermediaries is "generally less effective in small nations"
+(Goldsmith and Wu 2006: 81–82), and fusion, the point at which the
+legibility layer is joined to the layer that costs money. The fiscal
+threshold is therefore defended on the decisive military stack alone.
+Accomplished for canon and register; compelled and unaccomplished for
+the guns — the book speaks in two tenses at once, and the reader
+should hold it to both.
 
 ## II. The comparative register, stated as rule
 
@@ -91,6 +155,19 @@ regulations, court filings, proxy statements, budget lines, the
 institutions' own annual reports — with commentary as framing,
 never as load-bearing support; every live episode is drafted as
 dated events, attributed, and flagged for re-verification at press.
+
+One term of art in that record is borrowed, and the debt is
+discharged here rather than in a bibliography. *Legibility* — a
+state's capacity to see its subjects and their holdings in a
+standard, countable form — is James C. Scott's, who found the
+premodern state "in many crucial respects, partially blind" and read
+surnames, cadastres, population registers and standard measures as
+"attempts at legibility and simplification" driven by "the pressing
+material interests of rulers: fiscal receipts, military manpower, and
+state security" (Scott 1998: 2, 24). The optic throughout this book
+is his; what the book adds is the price at which acquiring it becomes
+unavoidable.
+
 Two special disciplines ran across all three tiers. Foreign-language
 sources are quoted verbatim in the original, with translations
 either the scholarly edition's or marked as the pipeline's own for
@@ -101,6 +178,24 @@ concessions — Rogers's spiral, DeVries's conforming France and
 Burgundy, Curry's state-only threshold, Cerny's fifteenth-century
 attribution — so that what remains in dispute with the specialists
 is ranking, tempo and sequence, never direction.
+
+Two absences belong beside those disciplines, because the corpus's
+gaps bear on the argument as much as its holdings do. The
+corpus has holes, and one falls on the book's own hinge:
+the Burgundian chronicler's pages from July 1453 to August 1454 are
+lost in the manuscript itself, and with them his narrative of
+Castillon, Talbot's death, the conquest of Guyenne and the fall of
+Constantinople, so that the triple hinge of 1453 has no Burgundian
+witness and none is claimed (Kervyn de Lettenhove's note at the close
+of Chastellain, *Œuvres*, tome II). And where the witness does
+survive, his frame is not the book's. Commynes, who saw the Italian
+campaign of 1494 and described its artillery better than any modern
+summary, concluded that the thing had been "impossible aux gens qui
+le guidoient, s'il ne fust venu de Dieu seul" — impossible for the
+men who guided it, had it not come from God alone [TRANS. CLAUDE]
+(Commynes, ed. Calmette, t. III: 81). The mechanism is the
+historian's frame imposed on such testimony, not found in it, and the
+book says so where it uses him.
 
 One disclosure belongs in this note as a matter of the same
 discipline. The research and drafting pipeline for this book used
@@ -123,7 +218,7 @@ the book was built.
 
 | # | The outline's original condition | The narrowed condition as published | What forced the narrowing |
 |---|---|---|---|
-| 1 | Cheap distributed autonomy defeats concentrated capital | A full-stack power defeated by cheap distributed systems *fielded without a patron's intelligence, connectivity and interceptor layers behind them* | The Ukraine record: the March 2025 suspension week showed the cheap layer aiming through a patron's decisive layer (ch12) |
+| 1 | Cheap distributed autonomy defeats concentrated capital | A full-stack power defeated by cheap distributed systems *fielded without a patron's intelligence, connectivity and interceptor layers behind them* | The Ukraine record: the March 2025 suspension week showed the cheap layer aiming through a patron's decisive layer (ch12). In its narrowed form this condition is the Scott scenario made scoreable — the falsifier his warning about legible states demands, and the reason the book can be said to have priced it (Scott 1998: 4–5) |
 | 2 | Privacy-preserving systems become the default | Bloc-internal fiscal and reporting reach *falls in fact*; the offshore untaxed share *rises again*; plural privacy-default stacks displace bloc stacks *as the operative default* | The legibility record: the offshore stock persists while the untaxed fraction collapsed threefold — the honest baseline required a sharper falsifier (ch08) |
 | 3 | Platforms consolidate independence | An actor with decisive-relevant capability and a majority-commercial fiscal base escapes the state's instruments *and resolves its disputes with states in fora states do not control* | The legal history: plural fora proved parasitic on state law; forum-migration is the discriminating test (chs. 8, 11) |
 | 4 | No identifiable Tudor moves | The five moves decomposed into scoreable forms across all four candidates, *plus* the Depreter limb: canon alone consolidating a bloc would falsify the mechanism even while producing a settlement look-alike | The comparative work (ch11) and the Burgundian accounts (ch10): apparatus without a continuous centre fails — so the EU case must be able to cut against the book |
@@ -164,15 +259,15 @@ first is the mechanism: the independent technological powers are
 subordinated to the state, as the barons were. The second is the
 constitutional form of the state that absorbs them, and that the
 book holds open — in the democratic bloc it may be democratic, or it
-may be what Chapter 12 calls *ornamental democracy*, legitimating
+may be what Chapter 12, §VIII calls *ornamental democracy*, legitimating
 authority demonstrably separated from effective control over the
 state's strategic commitments. The term is that chapter's, entered
 there as a special case of the condition Colin Crouch named
-post-democracy, in which the forms of democracy remain fully in
-place while politics and government slip back into the control of
-privileged elites (Crouch 2000: PDF 2); and it is Crouch's own
-judgement that it is difficult to dignify such a politics as
-democracy (Crouch 2000: PDF 8) which licenses the book to score the
+post-democracy, in which "the forms of democracy remain fully in
+place" while "politics and government are increasingly slipping back
+into the control of privileged elites" (Crouch 2004: 6); and it is
+Crouch's own judgement that it is "difficult to dignify it as
+democracy itself" (p. 21) which licenses the book to score the
 condition rather than assume it away. The distinction borrowed to
 state the difference is Bagehot's, between the dignified parts of a
 constitution, which excite and preserve reverence, and the efficient
@@ -182,13 +277,16 @@ held the separation of reverence from rule to be every
 constitution's condition and England's particular merit (Bagehot
 1867: PDF 28, 101), and the disanalogy travels with the borrowing:
 the dignified parts, in his account, were never decoration but the
-parts that bring a government its force. His one warning the book
+parts that bring a government its force; they "raise the army, though
+they do not win the battle" (Bagehot 1867: PDF 21). His one
+warning the book
 does adopt is a prediction. A settlement of this kind is stable only
 while it is not demonstrated — "We must not let in daylight upon
 magic" (Bagehot 1867: PDF 37) — so that a positive reading on the
 indicator would itself be an unsettling event, and that is the
 sub-wager's confessed fragility. The historical portrait of the
-second outcome is not English but Castilian: an assembly that won
+second outcome is not English but Castilian, and it is David
+Stasavage's: an assembly that won
 consent, administration and audit, then lost control of its own
 representatives, kept its prerogatives without their purpose, and
 was abolished in 1665 under one of the weakest of the Habsburg kings
@@ -201,7 +299,7 @@ residue of resistance to bargained extraction (Tilly 1985: "How
 States Formed"); a consolidating state financed by the rents of the stack
 rather than by a bargained broad tax would, on Tilly's own mechanism,
 consolidate without those by-products, an extension of his argument
-that is the book's and not his, and that Chapter 12 carries. The
+that is the book's and not his, and that Chapter 12, §VIII carries. The
 barons' loss of independence and the people's acquisition of control
 are therefore not assumed to be the same event. The four falsifiers
 of the ornamental reading — elections that redirect strategic
@@ -209,8 +307,8 @@ commitments, legislatures that enforce meaningful conditions, courts
 whose remedies change operations, public institutions capable of
 replacing essential suppliers — are stated with the wager in the
 Introduction and scored in Appendix C, with democracy and liberalism
-scored separately, a distinction that is also Crouch's (Crouch 2000:
-PDF 5).
+scored separately, a distinction that is also Crouch's (Crouch 2004:
+16–17).
 
 One limit is confessed rather than disclaimed, because it is a
 question the book can pose and cannot answer. The consolidations
@@ -229,6 +327,24 @@ mechanism's history, this book does not know, and says so. The
 wager's scoring does not depend on the answer: the indicators
 measure consolidation within blocs, and a pause between them
 would leave every one of them scoreable.
+
+A second limit is confessed in the same spirit, and it is internal to
+the one completed run. The barons were subordinated first; the
+gunfounders were not. The gunmakers of Liège sat in a principality too
+weak to be worth holding, and their very weakness, McNeill records,
+"allowed the Liégeois to set their own prices. Even the mightiest
+rulers had to pay what was asked, or do without", because so long as
+no single command structure reached every corner of Latin Christendom
+"the sovereignty of the market over even the greatest ruler of the age
+remained an ultimate reality" (McNeill 1982: 113–14). If the run is a
+guide, the compute-and-foundry layer keeps its pricing power long
+after the private-force layer has been commissioned. The book's answer
+— that a bloc settlement is precisely the closure of the refuge on
+which a Liège depends — stands beside that risk and not instead of it;
+and because a limit confessed is something a reader weighs while an
+indicator scored is something that can move, the two are scored apart
+in Appendix C, contractor subordination and foundry pricing power,
+which may run in opposite directions.
 
 ## VI. The debt to Bull, and the precise disagreement
 
@@ -255,7 +371,21 @@ record documents is the exit's first half — the subordination of the
 intermediaries under a permanent fisc; who then held the
 consolidated apparatus is a question the record answers differently
 in each polity, and the book carries it as an open second claim
-rather than folding it into the first. Where Bull
+rather than folding it into the first. The shape of that exit was
+named as a possibility, and named third, in 1950: setting out how a
+new order of the earth might come, Schmitt allowed that "a
+combination of several independent *Großräume* or blocs could
+constitute a balance, and thereby could precipitate a new order of
+the earth", and thought such an equilibrium "rational, if the
+*Großräume* are differentiated meaningfully and are homogeneous
+internally", while "most of those considering this frightful problem
+rush blindly toward a single sovereign of the world" (Schmitt
+1950/2003: 354–55). This book is the mechanism-equipped argument for
+that third branch: what he could offer as a rational possibility, the
+fiscal-military chain offers as a compelled one. The geometry is
+taken with its debt stated rather than laundered — the note at Chapter 12, §IV
+carries the 1939 provenance and the substance disanalogy, and neither
+the doctrine nor the politics travels with the shape. Where Bull
 saw a possible destination, this book sees a waypoint with a
 well-documented exit — and it has tried to honour him in the only
 way that matters, by saying exactly what evidence would prove the
@@ -283,6 +413,96 @@ bless" (§V). The quotable lines the fifth disclaimer carries
 ("difficult to dignify it as democracy"; "We must not let in
 daylight upon magic") are Crouch's and Bagehot's, attributed
 inline, and are not the coda's.*
+
+*Ledger addendum (2026-09-29, Phase 6 — Decisions 3, 7, 10, 12, 18,
+27; row (dddd)): word count 3,962 in the body (2,627 before); 4,813
+with footer and Revisions. Coined concept — still NONE; nothing
+was coined this pass and "ornamental democracy" remains Chapter 12's
+term, used in §V once as a back-reference. Vivid image — still "a
+waypoint with a well-documented exit" (§VI); no second figure added
+(the Liège refuge in §V is McNeill's documented case, not a metaphor).
+Aphoristic line — still "the book predicts, and declines to bless"
+(§V); §I's closing "the book speaks in two tenses at once, and the
+reader should hold it to both" and §I's "The artillery state was built
+on taxation and short-term merchant credit, not on borrowing against
+the future" are recorded as flat judgements, not offered as the line,
+and are the cut candidates if Roderick reads either as a second
+aphorism. Borrowed quotable lines now carried, each attributed inline
+and none the coda's: Ruggie's "none of it" (§I), Goldsmith and Wu's
+"cost and bother, not by hermetic seal" and "a collection of
+nation-state networks" (§I), Scott's "partially blind" (§III),
+Commynes's "s'il ne fust venu de Dieu seul" (§III), Crouch's
+"difficult to dignify it as democracy itself" (§V), Bagehot's "they
+raise the army, though they do not win the battle" and "We must not
+let in daylight upon magic" (§V), McNeill's Liégeois setting their own
+prices (§V), Schmitt's third possibility (§VI). That is a heavier
+apparatus than the coda carried before, and the method note is the one
+section where that is the right register; if it reads as crowded, the
+Schmitt and McNeill quotations are the two that can be reduced to
+paraphrase without loss.*
+
+## Revisions (2026-09-29 — Phase 6 renovation: Decisions 3, 7, 10, 12, 18, 19, 27; row (dddd). PENDING HUMAN REVIEW.)
+
+*Executed against research/claude-code-instruction-phase6-renovation-2026-09-29.md
+Part B4 and the Coda items of A1, A2, A3, A5; the rulings verbatim at
+research/rulings-2026-09-29-sheet-III.md; spine §8(i). Every pin
+re-opened at its sidecar this date. The full old/new record is in
+memo.md's entry of the same title. Decision 19 does not reach the
+Coda (it states no "new units" test). Decision 12's "1439–46" →
+"1439–51" had no string to change: the Coda never dated the
+settlement, so the corrected range enters positively in §I. The
+[BRIDGE]-adjacent settlement line in §V and the nuclear-ceiling
+paragraph's own text are untouched.*
+
+- **§I (row (dddd); Decision 19's method limb).** NEW: the method's
+  licence and the objection answered — Tilly 1975: 601 named as the
+  licence, Ruggie 1993: 156, 169 as the objection conceded, and "one
+  link claimed, not the transformation" stated in as many words.
+- **§I (Decision 10; rows (ddd), (ooo)).** NEW: the ratchet defined
+  narrowly as scale and the end of the small sovereign, artillery
+  named as its French form and the navy as another (Glete 2002: 39,
+  65).
+- **§I (Decision 12; rows (xxx), (a)).** NEW: the settlement dated
+  1439–1451, with Major 1960: 42 for the hinge, and stated as a tax
+  settlement and not a credit one (Stasavage 2011: ch. 2 — no
+  territorial state with a funded debt before 1500; France's first
+  long-term debt 1522).
+- **§I (Decision 7; rows (ll), (eeee), (vvv)).** NEW closing
+  paragraph: the layered tense — accomplished for canon and register
+  2000–06 (Goldsmith and Wu 2006: 68, 149), the no-new-taxation
+  concession (Farrell and Newman 2019: 54), the claim over that layer
+  confined to scale (Goldsmith and Wu 2006: 81–82) and fusion, and the
+  fiscal threshold defended on the decisive military stack alone.
+- **§III (Decision 18; rows (rr), (bbbb)).** NEW: Scott named as the
+  owner of "legibility" (Scott 1998: 2, 24).
+- **§III (row (dddd)).** NEW: the corpus's lacunae (the Burgundian
+  chronicle's lost pages, July 1453–August 1454) and the witness's
+  frame (Commynes, ed. Calmette, t. III: 81 — the providential
+  verdict).
+- **§IV (row (dddd)).** Delta table row 1's "What forced the
+  narrowing" cell gains one clause naming condition 1 the Scott
+  scenario (Scott 1998: 4–5).
+- **§V, the fifth disclaimer (Decision 3; row (cccc)).** Phase 5B's
+  fifth disclaimer brought to Decision 3's specification rather than a
+  sixth added: the Crouch pins upgraded from the 2000 Fabian
+  typescript to the T2 book (Crouch 2004: 6, 21, 16–17); Bagehot's own
+  words for the never-decoration disanalogy ("they raise the army,
+  though they do not win the battle", 1867: PDF 21); Stasavage named
+  in the running text and not only in the citation. "Ornamental
+  democracy" remains a back-reference to Chapter 12 and is not
+  claimed here.
+- **§V, the confessed limits (Decision 27; rows (jj), (ffff)).** NEW
+  paragraph: McNeill's Liège lag as a second confessed limit (McNeill
+  1982: 113–14), the book's answer stated beside the risk and not
+  instead of it, and the score assigned to Appendix C as two
+  indicators that may run in opposite directions.
+- **§VI (Decision 27; row (ffff)).** NEW: Schmitt's third possibility
+  named (Schmitt 1950/2003: 354–55), the book stated as the
+  mechanism-equipped argument for that branch, and the 1939 provenance
+  carried by pointer to Chapter 12's note rather than restated.
+- **Untouched:** the §V nuclear-ceiling paragraph's own text and the
+  [BRIDGE]-adjacent settlement line; §II; the delta table's other
+  rows; §IV's sub-wager sentence; the §VI close.
 
 ## Revisions (2026-09-16 — Phase 5 renovation, Part B3: rulings (u), (z), (cc); spine §8(g). PENDING HUMAN REVIEW.)
 
@@ -363,4 +583,6 @@ inline, and are not the coda's.*
 
 STATUS: DRAFT — REVIEWED (Roderick, 2026-09-02 — review pack).
 Revisions of 2026-09-16 (Phase 5 Part B3: §IV, §V fifth disclaimer,
-§VI) PENDING HUMAN REVIEW.
+§VI) PENDING HUMAN REVIEW. Revisions of 2026-09-29 (Phase 6:
+Decisions 3, 7, 10, 12, 18, 27; row (dddd) — §§I, III, IV, V, VI)
+PENDING HUMAN REVIEW.
