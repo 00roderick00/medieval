@@ -910,3 +910,123 @@ as before.
 
 STATUS: PENDING HUMAN REVIEW (this entry); earlier entries PENDING as before;
 the memo body REVIEWED as before.
+
+## Revisions (2026-09-29 — Phase 6 renovation, PENDING HUMAN REVIEW)
+
+**(2026-09-29 — Phase 6 renovation: Decisions 19 and 17, with D18's ch01
+limb — items (tt), (ww), (xx), (vv) and (rr). PENDING HUMAN REVIEW.)**
+The register decisions proposed at the 2026-09-14 entry are now carried
+into draft.md on Roderick's Choice A rulings, with his qualification of
+restraint in §I observed: the opening pages gain no citation. Every pin
+was re-opened in `Ruggie.txt`, `Krasner.txt` and
+`Tilly-1975-Western-State-Making-ocr.txt` on this date; Ruggie printed =
+PDF − 137, Krasner printed = PDF − 10, Tilly printed = PDF + 600.
+
+- **§I, Bull's status (ww).** OLD: "It has a founding text, a careful
+  literature, and a name: the new medievalism." NEW: "It has a text that
+  named it, a careful literature, and a name: the new medievalism." No
+  citation added here; the evidence for the demotion is carried in §III.
+- **§I, "exclusive" (vv).** OLD: "hammered into the exclusive
+  territorial states we mistake for nature." NEW: "hammered into the
+  states we mistake for nature — polities that had subordinated the
+  armed authorities standing between crown and subject and monopolised
+  the fiscal capacity for decisive force." Carriers: Krasner 1999: 24,
+  238 (not cited in §I, per the restraint qualification; cited in §VI);
+  CLAUDE.md §2's gloss of 29 September on which intermediaries are meant.
+- **§II, the Anderson repair (tt).** OLD: "Perry Anderson's description
+  remains the standard one: a 'patchwork of overlapping and incomplete
+  rights of government… inextricably superimposed and tangled,' in which
+  'plural allegiances, asymmetrical suzerainties and anomalous enclaves
+  abounded' (Anderson 1974: 37–38; canonised for the
+  international-relations literature by Ruggie 1993)." NEW: the composite
+  taken apart as Ruggie's notes divide it — the patchwork phrase to
+  Strayer and Munro 1959: 115 (quoted in Ruggie 1993: 149 n. 55), the two
+  remaining phrases to Anderson 1974: 37–38 (n. 56), the canonisation
+  re-pointed to Ruggie's *World Politics* article of 1983 (n. 57), which
+  is the piece Kobrin and Zielonka cite — followed by a bracketed
+  [PENDING VERIFICATION] stating in the text that Anderson's page 37 is
+  not in corpus and that he may himself be quoting Strayer and Munro.
+  **The commit is held per Decision 19: the sentence asserts nothing
+  about which author coined the phrase, and the flag is to be discharged
+  by seeing Anderson p. 37, not by argument.**
+- **§II, the smaller precision.** OLD: "no internal tendency was visibly
+  carrying it toward the exclusive territorial state". NEW: "toward the
+  territorial state in particular". Carriers: Ruggie 1993: 153 ("mutually
+  exclusive state formations did not emerge at this point. It was not
+  that simple") and p. 155 (the personalistic ties already being
+  undermined).
+- **§III, the priority (ww).** OLD: "the founder first, doubting his own
+  hypothesis". NEW: "the man who named the condition first, doubting his
+  own hypothesis", plus one paragraph: Tilly 1975: 638 quoted — the state
+  "may be losing part of its significance", authority moving "toward the
+  regional grouping and the compact of superstates above, toward the
+  subnational region, ethnic population, or racial group below", "control
+  of a contiguous territory … an obstacle to full exploitation of
+  technologies of flight, electric power and electronic
+  information-handling", "Perhaps, unknowing, we are writing obituaries
+  for the state" — and Herz 1957 named via Ruggie 1993: 143 n. 23, with
+  the nuclear weapon as his disperser. The paragraph closes on the book's
+  own argument, marked as such in its phrasing: the technologies Tilly
+  named as obstacles are the ones Part III argues now re-concentrate
+  decisive force, so the book answers bellicism's founder and not only
+  Bull's caution.
+- **§III, the [DELTA] (xx).** Roderick's [DELTA] paragraph (spine §7's
+  material, in his hand) is UNTOUCHED. A [DELTA — PROPOSED ANSWER] is
+  entered beneath it: Ruggie 1993: 143 ("an extraordinarily impoverished
+  mind-set … entities that are institutionally substitutable for the
+  state"; the warrant "never been mooted, let alone defended") and p. 155
+  (the fairs, which could in no sense have become substitutes yet
+  "contributed significantly to the demise of feudal authority
+  relations") deny that substitutability is the right test, so the
+  proposal is to replace the "new units" limb rather than satisfy it,
+  marking it as the book's reconstruction of Bull's per-trend reasoning.
+  The note says in terms that Roderick's text stands until he rules.
+- **§VI, "exclusive" ×3 and the Krasner concession (vv).** OLD: "the
+  exclusive territorial state was *made*"; "the exclusive sovereignties
+  of 1700"; "the most exclusive form of political authority ever devised".
+  NEW: "the consolidated territorial state was *made*"; "the consolidated
+  sovereignties of 1700"; "the most internally hierarchical form of
+  political authority Europe had yet devised". ADDED, one paragraph:
+  Krasner conceded by name — "the principles associated with both
+  Westphalian and international legal sovereignty have always been
+  violated", neither "ever a stable equilibrium from which rulers had no
+  incentives to deviate" (1999: 24), and "There has never been some ideal
+  time during which all, or even most, political entities conformed with
+  all of the characteristics that have been associated with
+  sovereignty—territory, control, recognition, and autonomy" (p. 238) —
+  with his own bracketing of the displacement question quoted (p. 5) and
+  the lock restated as internal hierarchy plus the fiscal monopoly of
+  decisive force, a cell his grid does not contain. Ruggie 1993: 151 is
+  kept once as the attributed statement of the doctrine: the modern system
+  of rule "has differentiated its subject collectivity into territorially
+  defined, fixed, and mutually exclusive enclaves of legitimate
+  dominion" (verified in the sidecar this date, spacing restored from the
+  OCR).
+- **D18, the nil finding (rr).** Confirmed by full-text search on this
+  date: ch01/draft.md contains no instance of "legibility" or "legible",
+  before or after this run. The finding was already recorded in
+  ch01/sources.md's Scott entry of 29 September and is recorded here so
+  it is not re-asked. Nothing in this chapter is owed to Scott; his
+  naming falls to the Introduction.
+- **Flags.** No [GAP] closed: the §II [GAP]s (Morris; Forey or
+  Nicholson's history; Jones) and the Próspera GDP [GAP] are untouched.
+  The §III [DELTA] is NARROWED, not closed — a proposed answer now sits
+  beneath it. One flag OPENED: the §II [PENDING VERIFICATION] on Anderson
+  1974: 37.
+- **REVIFY-OR-CUT (P43-h).** Two items, neither hardened by this run.
+  (1) **Strayer and Munro 1959: 115** — quoted at second hand through
+  Ruggie 1993: 149 n. 55; the 1959 textbook is not in corpus, and the
+  draft says the phrase comes to us through Ruggie. RE-VERIFY at the
+  printed page or keep the at-one-remove attribution as written; do not
+  promote to a direct citation. (2) **Anderson 1974: 37–38** — the
+  phrases stand as the reviewed draft had them, but p. 37 has never been
+  seen; the [PENDING VERIFICATION] is the standing form of this item.
+  Bull, Friedrichs, Slaughter, Strayer 1970, Scheidel, Nicholson, Tilly
+  1975, Ruggie and Krasner are all in corpus and were opened.
+- Voice: no new coinage, image or aphorism; no bullets in the draft;
+  Register A throughout; §I left without apparatus per the ruling's
+  restraint. Draft word count 4,620 → 5,680.
+
+STATUS: PENDING HUMAN REVIEW (this entry — the Phase 6 renovation of
+2026-09-29); earlier entries PENDING as before; the memo body REVIEWED
+as before.

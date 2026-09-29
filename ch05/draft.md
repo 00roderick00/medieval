@@ -54,7 +54,21 @@ sovereign order organised around a single person — an emperor on the
 walls, a king's lieutenant in the field, a king in his chair — was
 tested at the point where the person and the office meet, and in each
 case what the test revealed was how little lay behind the office when
-the person failed. [END BRIDGE]
+the person failed. [END BRIDGE] [NOTE to the bridge above, added
+2026-09-29; the bridge's own sentences are Roderick's and are
+untouched. The evidentiary position should be on the record at the
+chapter's first weight-bearing joint: the Burgundian court chronicle
+that would ordinarily be this book's continental witness to the three
+events of 1453 cannot supply one, because the relevant pages of it do
+not exist. Kervyn's note at the close of his tome II records that the
+end of book III is missing, from July 1453 to August 1454, and that
+what was told there included the battle of Castillon and the death of
+Talbot, the conquest of Guyenne and the taking of Constantinople by
+Mehmed II; tome III opens after the gap. The lacuna is in the
+manuscript itself, not in this book's corpus, and no retrieval will
+close it, so the triple hinge is carried on the English and French
+material and on the clinical reconstruction, with no Burgundian
+corroboration available for any of its three legs.]
 
 The subject of this chapter is that revelation, generalised. The
 half-century on either side of 1450 was Europe's great age of what the
@@ -114,8 +128,12 @@ The reign was structurally anomalous long before it was medically so.
 Henry VI came to the throne at nine months old, inheriting not one
 kingdom but two — the double monarchy manufactured, as we shall see, by
 another king's incapacity — and England was governed for fifteen years
-by a minority council that governed, by the standards of the age,
-remarkably well. The anomaly deepened as the king aged: majority
+by a minority council that governed, against the comparative
+expectation of the age — Tilly's flat rule is that "before the
+seventeenth century, regencies for child sovereigns reliably produced
+civil wars" (Tilly 1985) — remarkably well. The council is therefore an
+exception the chapter is claiming, not a norm it is reporting, and it
+is worth remembering that the exception ended. The anomaly deepened as the king aged: majority
 arrived and the person expected to fill the office did not appear.
 John Watts, whose account of the reign this chapter follows at the
 interpretive level, puts the finding with academic restraint: "There
@@ -296,15 +314,28 @@ set the third case beside it, from the power that was about to end the
 Roman millennium.
 
 The Ottoman state in the 1440s ran the same experiment with different
-variables. Murad II, weary of the throne, abdicated in 1444 in favour
-of his son Mehmed — a boy of about twelve — and retired; within
+variables, and the reason for the experiment was neither weariness nor
+whim. Murad II abdicated in 1444 "while still in good health … in
+favour of his son Mehmed, hoping thus to establish him securely on the
+throne", the Byzantines having been sheltering Orhan, a grandson of
+Bayezid, and so holding a claimant against him (İnalcık 1973: 20). On
+Kafadar's reading the abdication was also a faction's victory: the war
+party of the frontier warlords "appeared to have won the upper hand
+with the abdication of Murād II and the first enthronement of Mehmed
+II in 1444 — a precarious victory that was reversed within two years by
+a Çandarlı-instigated revolt of the kul army" (Kafadar 1995: 146). A
+boy of about twelve was enthroned and his father retired; within
 months the Christian powers, reading a child sultan as a vacancy,
 launched the crusade that Murad returned from retirement to destroy
 at Varna in November 1444. The boy remained nominally sovereign; the
 experiment continued; and in 1446 it ended in the manner such
 experiments end — a Janissary rising, the Buçuktepe revolt,
 engineered by the grand vizier Çandarlı Halil Pasha, which returned
-Murad to the throne and Mehmed to the provinces. The Ottoman
+Murad to the throne and Mehmed to the provinces; and the terms of the
+return are the chapter's point, for "Murad returned to the throne only
+when convinced that this was the wish of the Janissaries" (İnalcık
+1973: 63) — the office restored to its holder by the armed corps that
+held it open. The Ottoman
 succession crisis of the 1440s is Henry VI's minority and Charles
 VI's regency contest in another key: a personalised sovereignty
 briefly detached from a person capable of executing it, and the
@@ -324,11 +355,18 @@ mid-century, was the *devşirme*: the levy of Christian boys, converted,
 trained, and formed into the Janissary corps and the administrative
 class — a service elite manufactured from raw material, owing
 everything to the sultan and nothing to any hereditary interest,
-because it had none. İnalcık's classic formulation — the *kul* system
-as the most potent factor favouring Ottoman unity and centralised
-administration — is the standard scholarly framing [GAP: İnalcık and
-Kafadar are on the acquisition list; the formulation is cited here at
-second hand and must not harden until retrieved]. The chapter names
+because it had none. The formulation is İnalcık's own, and it can now be
+given in his words: "There were, however, powerful factors working in
+favour of Ottoman unity and the centralized administration. The most
+potent factor was the Ottoman kul — slave — system. In particular the
+Janissary corps, whose numbers had risen to six or seven thousand, gave
+the Ottoman sultan an undisputed superiority over his rivals" (İnalcık
+1973: 18). [NOTE: the volume is in this book's corpus and the quotation
+is no longer at second hand, but the page numbers for all three İnalcık
+citations in this chapter (pp. 18, 20 and 63) come from the sidecar's
+own OCR footers, and two chapters of this book record incompatible
+offsets for the same file; every İnalcık page here is to be verified
+against the page images before press.] The chapter names
 the institution and holds it; Chapter 11 will develop it as the most
 radical of the century's consolidation variants — the polity that
 answered the over-mighty subject not by defeating him but by
@@ -473,8 +511,29 @@ kings do not produce over-mighty subjects. Over-mighty subjects,
 encountering an undermighty king, produce the
 crisis — and the crisis then runs on the subjects' resources, which
 is why it lasts. The Wars of the Roses were fought by private
-armies that existed before the king fell ill and would have existed
-had he never fallen ill at all.
+armies — the phrase is Ertman's, and it survives in the scholarship:
+"the power of the great magnates with their regional strongholds and
+private armies was broken during the Wars of the Roses and their
+aftermath" (Ertman 1997: 179) — that existed before the king fell ill
+and would have existed had he never fallen ill at all. [NOTE: the
+phrase is contested, and the objection is recorded rather than
+absorbed. Lander holds the overtones of "private armies" to be
+"completely misleading" (Lander 1976: 31), on the ground that what a
+fifteenth-century lord kept was a retinue — a following of retained
+men, answerable and expensive, and not a force constantly under arms.
+The chapter keeps Ertman's usage as the surviving scholarly one and
+holds the question open until Lander has been read at his pages;
+nothing in the argument turns on the word, because what the sentence
+claims is prior capability and not standing mobilisation. Lander's
+sharpest evidence is late and worth stating with his objection, since
+it bears on what the crown could actually reach: no prosecution of a
+peer for illegal retaining "is known before that of Lord Burgavenny in
+1506, whose 471 retainers were described as gentlemen, clerks, yeomen
+and a cobbler and a tinker" (pp. 33–34), and the recognizances taken
+from him were cancelled in the first year of Henry VIII's reign, so
+that "Burgavenny probably paid no more than £1,000" (p. 289) — a
+retinue of unmilitary composition, prosecuted once, half a century
+after Henry VI's collapse, and fined at a discount.]
 
 The direction of causation is not a pedantry; it determines what
 counts as a remedy. If weak kings make over-mighty subjects, the cure
@@ -489,10 +548,26 @@ The fifteenth century ran both experiments. England got better
 personnel — Edward IV was everything Henry VI was not — and the
 structural problem outlasted him, because it was structural. France
 got a structural answer — the standing army, the permanent tax, the
-artillery establishment — and the problem ended, not because French
+artillery establishment — and the problem ended in its armed form,
+not because French
 kings became uniformly strong but because the resource asymmetry
 between crown and magnate was rebuilt until no magnate's capability
-could rival the crown's. That asymmetry, and the instrument that
+could rival the crown's. The qualification is not decoration. What the
+French answer ended was the magnate's capacity to field force; what it
+bred in exchange was a different kind of intermediary, and the
+scholarship is blunt about the price. Ertman's judgement is that the
+precocity of the western monarchies cost "a substantial loss of
+effective control to proprietary officeholders, tax farmers, and
+officeholder-financiers who viewed the state not only as an instrument
+of princely power but also as a source of income and social standing"
+(Ertman 1997: 28), and the new companies themselves were "controlled
+and commanded by the local royal governor, almost always a member of a
+prominent magnate family" (p. 94) — the magnates re-entering the
+apparatus as its officers rather than as its rivals. Glete adds the
+caution about durability: the early French permanent forces
+"practically disappeared in the long civil war period (1562–98)"
+(Glete 2002: 39). The armed problem ended; the venal and proprietary
+one began, and Chapter 10 pays for both. That asymmetry, and the instrument that
 anchored it, is the subject the reader has already met in Chapter 6
 and will meet as institution in Chapter 10. The lesson generalises,
 and Part III will lean on it: where capability has concentrated
@@ -537,7 +612,9 @@ One calibration, and then the turn.
 The claim of this chapter is not that everything sagged at once —
 "modal condition" must not be allowed to mean universal condition.
 The same decades that broke England and had broken France contain
-Portugal stable, Aragon expanding, and above all France itself
+Portugal stable, Castile gathering the initiative in Iberia precisely
+because it was Aragon — on Elliott's judgement "a society in retreat" —
+that was harnessed to it, and above all France itself
 *recovering*: Charles VII's kingdom, the wreckage of Troyes, was in
 precisely these years constructing the standing army, the permanent
 taxation and the artillery establishment whose operations Chapter 6
@@ -549,11 +626,77 @@ the pivot — the polity that passed through the condition first, at
 its worst, and came out the other side transformed, because its
 crisis ran so deep that the workarounds available to England (the
 council, the artificial royal will, the dignified pretence) were
-never available to it. The kingdom that had been signed away at
+never available to it. The last of those three names is borrowed and
+should be paid for: "dignified" is Bagehot's, from his division of the
+constitution into "the DIGNIFIED parts, if I may so call them; and
+next, the EFFICIENT parts — those by which it, in fact, works and
+rules". [NOTE: the borrowing is of the distinction, not of his
+verdict, and his own caveat travels with it: "I am not, of course, now
+speaking of the middle ages: I am not dealing with the embryo or the
+infant form of our Constitution" (Bagehot 1867, Lords). Two
+differences follow. His dignified parts were designed, and they were
+load-bearing — they brought the government its force, and the
+efficient parts only employed it — whereas England's dignified
+pretence of 1453 was involuntary and carried nothing. The corpus copy
+is a Gutenberg text without printed pagination; the pins are by chapter
+and PDF page (The Cabinet, PDF p. 21; Lords, PDF p. 48) and are to be
+re-pinned to a printed edition before press. Chapter 9 takes the
+distinction up properly.] The kingdom that had been signed away at
 Troyes could not simulate its king; it had to rebuild the office
 from the treasury upward. What that rebuilding produced — the
 instrument, the institution and the price list — the reader has
 seen at work in Normandy.
+
+The pivot should not be idealised, and the Burgundian chronicler who
+watched it supplies the corrective: the France that was rebuilding its
+executive was managing over-mighty subjects of its own at the same
+moment, and managing them with what the rebuilding had bought. In
+August 1456 the dauphin Louis fled his father's obedience into
+Burgundian protection, and Chastellain gives the flight its motive in
+the dauphin's fear — men-at-arms closing in "pour l'enclore en son
+Dauphiné", and the king "venir tousjours file à file après, comme pour
+prendre la souris en son trou": to shut him into his Dauphiné, the king
+himself coming on rank behind rank, as though to take the mouse in its
+hole [TRANS. CLAUDE] (Chastellain t. III: 178). The answer to the
+flight was not negotiation. The king moved men-at-arms up to the
+Burgundian frontier, garrisoned his towns, held the passes, and went in
+person to Lyon on the Rhône "pour mettre en son obéissance tout le pays
+du Dauphiné" — to bring the whole country of the Dauphiné into his
+obedience — whereupon the governor, Chastillon, "considérant ledit pays
+non pouvoir résister à l'encontre de sa puissance" — considering that
+the said country could not resist against his power [TRANS. CLAUDE] —
+surrendered the towns and the places (pp. 225–26). Two years later the
+same capacity was pointed at the greatest subject of all. Summoned in
+open court at Ghent to the peers' lit de justice at Montargis "comme
+doien des pairs et double pair de France", the duke of Burgundy read
+the summons as an affront "fait plus par malice que par nécessité" —
+done more out of malice than out of necessity [TRANS. CLAUDE] — since
+the peace of Arras had exempted his person for as long as he lived
+(p. 417); and Chastellain took the prosecution of the lesser peer for
+what it was, the king "pensoit et tendoit à donner fré[e]ur au duc de
+Bourgongne lequel il maintenoit à son rebelle" — thinking and tending
+to put fear into the duke of Burgundy, whom he held for his rebel
+[TRANS. CLAUDE] (p. 422). Then the instrument itself. On the report
+that the duke meant to come to Montargis with forty thousand
+combatants, the king cried the ban and the arrière-ban through his
+kingdom, "et mesme au pays et ès villes engagiées sur Somme" — even in
+the country and the towns pledged on the Somme — where by the same
+peace the duke held all the services of the nobles and the peoples,
+with the jurisdictions, profits and lordly emoluments, "réservé
+seulement la souveraineté" (p. 423). The reservation is the mechanism
+in four words. What a recovering crown has and a hollow one has not is
+a residual claim it can actually convoke, and Charles VII was convoking
+his inside his greatest subject's own lands. [NOTE: the witness is a
+Burgundian partisan writing at a Burgundian court, and his frame — the
+wronged prince, the malicious king — is discounted accordingly; what is
+taken here is his record of acts rather than his reading of motives,
+except at p. 422, where his reading is itself the evidence of how the
+prosecution was understood at Ghent. Pins are to Kervyn's tome III in
+the vol15 scan (printed = PDF + 10) and were opened in the sidecar on
+29 September; the OCR of p. 422 reads "frégur" for "fréeur" and the
+spelling is to be checked against the page image. Two pins the
+16 September assessment offered for this paragraph, pp. 200 and
+216–17, could not be found in the sidecar and are not used.]
 
 A crown that cannot execute is not a government; it is a title deed
 to one. The fifteenth century's undermighty kings held the deed and
@@ -580,9 +723,10 @@ instrument (Chapter 6), then the reckoning at home (Chapter 7).
 
 ---
 
-*Draft ends. Word count ~5,500 (memo-limited; the Griffiths,
-Famiglietti, Vaughan and İnalcık/Kafadar retrievals will thicken §§II–IV
-at the upgrade pass). Voice-discipline ledger: coined concept — NONE
+*Draft ends. Word count ~7,465 (memo-limited; the Griffiths,
+Famiglietti and Vaughan retrievals will thicken §§II–IV at the upgrade
+pass; the Phase 6 renovation of 2026-09-29 added the Charles VII
+paragraph at §VII, the venality passage at §VI and five notes). Voice-discipline ledger: coined concept — NONE
 coined; the* undermighty king *is inherited from McFarlane, credited
 in §I and §VI (per the 2026-08-01 doctrine addition: coinages are
 checked against standing scholarship before the ledger claims them); vivid image — the
@@ -591,8 +735,15 @@ keystone was cut in drafting; the chapter carries no baroque image,
 which is within ration; aphoristic line — "A crown that cannot execute
 is not a government; it is a title deed to one" (§VII). Three [BRIDGE]
 passages (triple hinge §I; the transposition sentence §V; the platform
-parallel §VI). [GAP] flags: Griffiths; Famiglietti/Vaughan; İnalcık/
-Kafadar. No claim beyond the
+parallel §VI), all three left as Roderick's; the §I bridge now carries
+a [NOTE] beneath it recording the Burgundian chronicle's lacuna, and
+its sentences are untouched. [GAP] flags: Griffiths;
+Famiglietti/Vaughan. The İnalcık/Kafadar [GAP] is CLOSED (both are in
+corpus and both are now quoted direct); the McFarlane dictum remains
+unverified at page level and is still paraphrased. Borrowed terms paid
+for: "dignified" to Bagehot with his middle-ages caveat (§VII);
+"private armies" kept as Ertman's with Lander's objection in the note
+(§VI). No claim beyond the
 reviewed memo and critiques; all modern figures are the memo's pinned
 verbatims (Wilkinson 177; Watts 123/127; Draghi Part B 165; MHLW 2024)
 or are marked as estimates/composites in the text.*
@@ -629,7 +780,77 @@ Roderick reviewed the Batch 1 drafts: approved with revisions.
    ("McFarlane's dictum, credited in §I") still holds, since the
    dictum remains his. No other change.
 
+2. **(2026-09-29 — Phase 6 renovation: Decisions 23, 9, 14 and 20, with
+   the three items owed since Phase 5 — (lll), (ggg), (hhh), (jjj),
+   (iii), and rulings-sheet (h), the 1444 correction and the Bergavenny
+   caveat. PENDING HUMAN REVIEW.)**
+   - §I [BRIDGE]: Roderick's sentences UNTOUCHED, per his qualification
+     on Decision 23. A [NOTE] is added beneath the bridge recording that
+     Kervyn's tome II closes with the end of book III missing, July 1453
+     to August 1454, and that what was narrated there included Castillon,
+     Talbot's death, the conquest of Guyenne and the fall of
+     Constantinople — the lacuna in the manuscript itself, so that the
+     triple hinge has no Burgundian corroboration available for any of
+     its three legs.
+   - §II (jjj): "a minority council that governed, by the standards of
+     the age, remarkably well" → the same judgement hedged in a clause
+     against Tilly's rule that "before the seventeenth century,
+     regencies for child sovereigns reliably produced civil wars" (Tilly
+     1985), with the council stated as an exception the chapter claims
+     rather than a norm it reports.
+   - §IV (the 1444 correction): "Murad II, weary of the throne,
+     abdicated in 1444" → weariness cut and both motives written —
+     İnalcık's dynastic insurance against Orhan, the abdication made
+     "while still in good health … hoping thus to establish him securely
+     on the throne" (İnalcık 1973: 20), and Kafadar's faction frame, the
+     war party having "appeared to have won the upper hand with the
+     abdication of Murād II and the first enthronement of Mehmed II in
+     1444 — a precarious victory that was reversed within two years by a
+     Çandarlı-instigated revolt of the kul army" (Kafadar 1995: 146);
+     the 1446 return given its terms, Murad returning "only when
+     convinced that this was the wish of the Janissaries" (İnalcık 1973:
+     63). The §IV kul [GAP] is closed: İnalcık's formulation is now
+     quoted direct from the corpus (1973: 18), with the OCR-footer page
+     flagged for verification.
+   - §VI (hhh): "private armies" KEPT per Roderick's qualification, with
+     Ertman in the text as the surviving usage (1997: 179) and Lander's
+     "completely misleading" in the note (1976: 31), extended with the
+     Bergavenny caveat owed since Phase 5 — no prosecution of a peer
+     known before 1506, the 471 retainers "gentlemen, clerks, yeomen and
+     a cobbler and a tinker" (pp. 33–34), the recognizances cancelled and
+     "Burgavenny probably paid no more than £1,000" (p. 289). The
+     question stays open until Lander is read at his pages.
+   - §VI (iii): "the problem ended" → "the problem ended in its armed
+     form", with the venal stratum and the governors' companies named as
+     what the French answer bred (Ertman 1997: 28, 94) and Glete's
+     durability caution entered (2002: 39).
+   - §VII (h): "Portugal stable, Aragon expanding" → Aragon's limb
+     replaced, Castile gathering the initiative because it was harnessed
+     to Aragon, "a society in retreat" (Elliott).
+   - §VII (ggg): "the dignified pretence" attributed to Bagehot, with
+     the DIGNIFIED/EFFICIENT division quoted and his "I am not, of
+     course, now speaking of the middle ages" caveat, the
+     designed-and-load-bearing disanalogy, and the pagination warning in
+     the note.
+   - §VII (lll): ONE paragraph added showing Charles VII's recovering
+     France carrying its own over-mighty subjects, on verified pins only
+     — the dauphin's flight of August 1456 (Chastellain t. III: 178),
+     Lyon and the Dauphiné brought into obedience with the governor
+     yielding to a power the country could not resist (pp. 225–26), the
+     Montargis summons "comme doien des pairs et double pair de France"
+     read as "fait plus par malice que par nécessité" (p. 417), the
+     Alençon sentence aimed at putting fear into Burgundy (p. 422), and
+     the arrière-ban cried even in the pledged Somme towns where the
+     treaty had left the crown nothing but sovereignty (p. 423). Old
+     French verbatim with [TRANS. CLAUDE]; the partisanship of the
+     witness stated in the note; pp. 200 and 216–17 not found in the
+     sidecar and not used.
+   - Ledger: no new coinage, image or aphorism; the aphoristic line
+     unchanged; no bullets in the chapter prose. Word count 5,715 →
+     7,465.
+
 ---
 
 STATUS: REVIEWED (Roderick, 2026-08-01) — approved with revisions
-applied; Revisions 1 (Phase 4 Run A) PENDING HUMAN REVIEW
+applied; Revisions 1 (Phase 4 Run A) and 2 (Phase 6 renovation)
+PENDING HUMAN REVIEW

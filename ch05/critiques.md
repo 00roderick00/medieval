@@ -325,3 +325,79 @@ level in this chapter; their objections land on ch01 (the lock), ch10
 (the ratchet and the credit leg) and ch12 (the blocs), and are entered
 there. Lander (Rev. 1 above) stands; the Ertman "private armies"
 usage is recorded as the surviving counter-usage in sources.md.*
+
+## Revisions (2026-09-29 — Phase 6 renovation, PENDING HUMAN REVIEW)
+
+*Five objections recorded on 13 and 16 September are answered, narrowed
+or left open by the rulings of 29 September. Nothing here is a new
+steelman; the entries record where each objection now stands in the
+text.*
+
+1. **Objection (Lander, Revisions 1 of 13 September) — "private armies"
+   is a misleading phrase.** NARROWED, NOT ANSWERED. On Roderick's
+   qualification to Decision 9 the phrase stays, with Ertman 1997: 179
+   in the text as the surviving scholarly usage and Lander's "completely
+   misleading" (1976: 31) in the note, extended with the Bergavenny
+   caveat (pp. 33–34, 289). The chapter now displays the dispute instead
+   of standing on one side of it, and says in the note that nothing in
+   the argument turns on the word. The objection returns for decision
+   when Lander has been read at his pages; until then this file records
+   it as open on the vocabulary and closed on the substance.
+
+2. **Objection (Tilly 1985, Revisions 2 of 16 September) — regencies
+   reliably produced civil wars.** ANSWERED IN TEXT by concession: §II
+   now names Tilly's rule in a clause and states the English minority
+   council as an exception the chapter is claiming. The exception is
+   still an exception, and the chapter's own sequel — St Albans within
+   five months of the protectorate's end — is the counter-evidence a
+   reviewer would reach for. The honest position, recorded: the council
+   governed without civil war for fifteen years, and the civil war came
+   when the vacancy stopped being scheduled.
+
+3. **Objection (Bagehot, Revisions 3 of 16 September) — the separation
+   of authority from control is his, and his valuation is not the
+   book's.** ANSWERED IN TEXT at §VII under Decision 20: the word is
+   attributed, the caveat quoted, and the two disanalogies stated — his
+   dignified parts designed and load-bearing, England's pretence
+   involuntary and carrying nothing. His valuation is refused rather
+   than adopted, and ch09 owns the distinction proper.
+
+4. **Objection (Ertman and Glete, Revisions 4 of 16 September) — the
+   French answer did not end the problem.** ANSWERED IN TEXT at §VI
+   under Decision 14: "the problem ended" becomes "ended in its armed
+   form", and what the answer bred is named — the proprietary
+   officeholders and tax farmers (Ertman 1997: 28), the companies under
+   governors drawn from the magnate families (p. 94), and the
+   disappearance of the early permanent forces in the civil wars
+   (Glete 2002: 39). One consequence is recorded rather than hidden: the
+   concession narrows the chapter's claim to the armed intermediary, so
+   the book's chain is now defended on the subordination of armed
+   capacity and not on administrative purity, which is what CLAUDE.md
+   §2's gloss of 29 September already says.
+
+5. **Objection (Chastellain, Revisions 5 of 16 September) — the
+   recovering France of §VII carried the disease it is offered as the
+   cure for.** ANSWERED IN TEXT at §VII under Decision 23: the pivot is
+   no longer idealised, and the paragraph shows the recovering crown
+   managing the dauphin, Alençon and Burgundy in the same years. Two
+   cautions are on the record. The witness is a Burgundian partisan, and
+   the note says so. And the paragraph cuts both ways: it shows the
+   crown's residual claim being convoked inside Burgundy's own lands,
+   which is the chapter's point, but it also shows that in 1458 the
+   greatest subject could still contemplate answering a summons with
+   forty thousand men — so the asymmetry §VI describes was being built
+   in these years and was not yet complete. The chapter's sentence about
+   no magnate's capability rivalling the crown's is therefore about the
+   end of the process and not about 1458, and a reviewer entitled to
+   press the point should be met with that distinction rather than with
+   a denial.
+
+6. **A new objection opened by the §I bridge note.** Stating that the
+   Burgundian chronicle's pages for 1453 are lost tells the reader, at
+   the chapter's first weight-bearing joint, that the triple hinge rests
+   on English and French material plus a clinical reconstruction. A
+   sceptic may say the frame is therefore under-evidenced by the book's
+   own admission. The answer the chapter can make is that the hinge is
+   flagged as illustration and never as evidence, in Roderick's own
+   bracket, and that each of the three events is separately sourced in
+   the chapters that carry it. Status: OPEN, and deliberately visible.

@@ -764,3 +764,97 @@ as before.
 
 STATUS: PENDING HUMAN REVIEW (this entry); earlier entries PENDING as before;
 the memo body REVIEWED as before.
+
+## Revisions (2026-09-29 — Phase 6 renovation, PENDING HUMAN REVIEW)
+
+**(2026-09-29 — Phase 6 renovation: Decisions 16 and 7, with D18's ch02
+limb — items (yy), (zz), (kk), (ll) and (bbbb). PENDING HUMAN REVIEW.)**
+The register decisions proposed at the 2026-09-14 entry (items (i)–(v))
+are now carried into draft.md, Roderick having ruled Choice A on
+Decisions 7, 16 and 18. Every pin below was re-opened in the
+`Goldsmith-Wu.txt` sidecar on this date before entry; printed = PDF−13.
+
+- **§III, the mode (kk).** OLD: "its defining property is fusion: the
+  universal claim is not rival to the state but *absorbed into it* …
+  fusion asserted by discipline, and enforced since." NEW: "its defining
+  property is absorption: … *ruled as a department of it* …
+  subordination asserted by discipline, and enforced since", with one
+  sentence surrendering "fusion" to the Chinese state's own military-civil
+  programme and pointing forward to ch12, which now reserves the word.
+  Consequential substitutions: "the fused church claims its diaspora" →
+  "the absorbed church"; "The Chinese church has been fused into a state
+  that can pay" → "is ruled as a department of a state that can pay";
+  §IV's "a Chinese church fused with its state" → "ruled as a department
+  of its state". Carrier for the collision: Cheung's military-civil
+  fusion as a term of art (ch04/sources.md and ch12's entry); ch12's
+  renovated wording followed verbatim so that the two chapters agree.
+- **§III, the dating (yy).** OLD: "The demonstration was the crackdown of
+  2020–21, best read … as intra-church discipline." NEW: the first
+  instrument dated to the summer of 2002, when Yahoo signed the Public
+  Pledge on Self-Discipline for the Chinese Internet Industry and
+  undertook to "inspect and monitor the information on domestic and
+  foreign Websites" (Goldsmith and Wu 2006: 9 / PDF 22), the same
+  authors recording that "major commercial operators like Yahoo agreed
+  in 2002 to a binding 'self-discipline pact'" (p. 96 / PDF 109); the
+  foreign orders subordinated by pact two decades before the domestic
+  ones were disciplined by fine; 2020–23 stated as the turn against the
+  domestic orders, and "Call it the Gregorian moment" → "Call that turn
+  against the domestic orders the Gregorian moment", which narrows the
+  [ANALOGY-ONLY] label's scope as well as its date.
+- **§III, the layered tense (ll; D7's ch02 limb).** ADDED, one paragraph
+  at the section's close: accomplished for canon and register between
+  2000 and 2006 and accomplished cheaply — "Government regulation works
+  by cost and bother, not by hermetic seal" (p. 68 / PDF 81), the
+  providers "already some of the most regulated companies on earth"
+  (p. 73 / PDF 86), and the outcome stated by the same authors as done,
+  "what we once called a global network is becoming a collection of
+  nation-state networks" (p. 149 / PDF 162; this pin newly verified and
+  entered in sources.md this date) — and compelled and unaccomplished
+  for the decisive stack, with the seam named as where the book's
+  mechanism begins. No fiscal threshold is claimed for the cheap half.
+- **§IV, the casual "legible" (bbbb; D18).** OLD: "the shape of the
+  present becomes legible". NEW: "becomes plain". The chapter has no
+  other casual instance (searched); no technical use of the term occurs
+  here, so Scott is not cited in this chapter.
+- **§V, the root contest (zz).** ADDED as the section's first case and
+  the only one with a verdict: Aiken's question of March 1995, "IS ISOC
+  claiming that it has jurisdiction and overall responsibility for the
+  [Internet] top level address and name space—as some (see below)
+  believe it does? If yes—how did ISOC obtain this 'responsibility',—if
+  NO then who does own it?" (p. 37 / PDF 50); Cerf's reply for the
+  Society and the draft instrument's "We the People of the Internet
+  Community" (pp. 38–39 / PDF 51–52); Postel's redirection of the root
+  zone on 28 January 1998, eight of the twelve secondaries complying and
+  four — NASA, the military, the Ballistics Research Lab and Network
+  Solutions — continuing to recognise the American government (p. 45 /
+  PDF 58, pin newly verified and entered in sources.md this date);
+  Magaziner's "Jon, you don't have the legal right to conduct a test"
+  (p. 46 / PDF 59); root authority thereafter "without exception, in the
+  hands of the U.S. government" (p. 46 / PDF 59). Stated as seven days
+  and a telephone call, which is the shape the layered tense predicts
+  for the canon layer.
+- **§VI, ICANN as the Sforza form (zz).** ADDED: the United States
+  "never actually ceded control over either ICANN or the root. Legally,
+  ICANN remained under contract to the U.S. Commerce Department"
+  (p. 169 / PDF 182), and Commerce with "no plans to transfer to any
+  entity its policy authority to direct the authoritative root server"
+  (p. 170 / PDF 183) — function delegated, title and revocation kept for
+  a generation. The Sforza reading is marked in the text as the book's
+  own (c), not Goldsmith and Wu's; and the paragraph closes by restating
+  the layered tense as the limit of the wager.
+- **Flags.** The chapter's one open [GAP] — Tierney / *Haec Sancta*
+  (§II) — is untouched and remains a retrieval item. The two
+  [ANALOGY-ONLY] flags stand; the Gregorian-moment flag is NARROWED to
+  the discipline of the domestic orders. No flag opened.
+- **REVIFY-OR-CUT (P43-h).** None in this chapter: every quotation now
+  standing in §§III, V and VI is from `Goldsmith-Wu.txt` or `Morris`
+  pins held in the corpus and re-opened on this date. The Oversight
+  Board, Meta, *Qiushi*, EUR-Lex and court-document quotations in §§I,
+  III and V are primaries cited by instrument and date, unchanged by
+  this run.
+- Voice: no new coinage, image or aphorism; no bullets in the draft;
+  Register A throughout. Draft word count 3,900 → 4,860.
+
+STATUS: PENDING HUMAN REVIEW (this entry — the Phase 6 renovation of
+2026-09-29); earlier entries PENDING as before; the memo body REVIEWED
+as before.

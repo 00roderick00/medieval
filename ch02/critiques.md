@@ -298,3 +298,56 @@ in the sidecars (sources.md block of this date).*
    that the medieval rivals shared a respublica the modern three do
    not — which is itself a disanalogy worth having — suffices. No
    spine ruling reached.
+
+## Revisions (2026-09-29 — Phase 6 renovation, PENDING HUMAN REVIEW)
+
+1. **The Goldsmith and Wu rival limb — now answered in the text.** The
+   entry of 2026-09-14 recorded the objection at full strength: half of
+   the reassertion this book predicts was accomplished between 2000 and
+   2006 by cheap legal coercion of local intermediaries, with no fiscal
+   threshold crossed anywhere, which is a rival explanation for the
+   canon-and-register layer and one that runs *before* the book says its
+   mechanism started. Under Decision 7 the answer moves into §III as the
+   layered tense and is restated at §VI: the cheap half is conceded as
+   accomplished, in their words and with their dates, and the mechanism's
+   claim is confined to the decisive stack, where the plant has to be
+   paid for, plus the two conditions they themselves supply — scale
+   (intermediary control "generally less effective in small nations",
+   pp. 81–82) and fusion with the chokepoint layer. Status: ANSWERED IN
+   TEXT by narrowing, not by rebuttal. The residue is real and is not
+   hidden: the book has no fiscal explanation for the canon layer and
+   does not offer one.
+
+2. **An objection the concession opens.** A reviewer may now say that if
+   the state took the canon layer cheaply, it may take the decisive
+   stack cheaply too — by licence, condition and deputised private
+   hands, exactly as Farrell and Newman describe — and that the book's
+   fiscal threshold is therefore doing no work. The chapter's answer, as
+   far as §III can carry it: mandating what an intermediary must refuse
+   costs a letter, whereas fielding the capability itself requires
+   owning or paying for foundries, constellations and munitions, and the
+   test between the two readings is whether the state ends by
+   *commissioning* the capability or merely *forbidding* its use. That
+   test belongs to ch12 and Appendix C, where the deputisation reading
+   is staged as a scored wager; this chapter files it. Status: OPENED
+   HERE, ANSWERED ELSEWHERE — and, if Appendix C's deputisation
+   indicator runs against the book, this is the objection that collects.
+
+3. **The Chinese rename (Decision 16) closes a smaller exposure.** The
+   chapter previously used "fusion" for platforms ruled as departments,
+   which collides with the Chinese state's own military-civil fusion
+   programme — rated early in its execution by its principal scholar —
+   so that a China-literate reader could read the chapter as claiming as
+   accomplished the very programme the book's own authority calls barely
+   begun. The word is now surrendered to the programme and the mode
+   renamed. Status: CLOSED, with the layer-by-layer verdict itself owned
+   by ch12.
+
+4. **The root contest strengthens Objection 1's answer and weakens
+   nothing.** The 1998 case gives §V a completed investiture dispute
+   with a documented verdict, which is what the section previously
+   argued from live litigation alone. One caution is recorded rather
+   than smoothed: the case is evidence of a universalism subordinated by
+   *threat of prosecution*, not by fiscal capacity, so it belongs to the
+   cheap half of the layered tense and must not be cited as an instance
+   of the mechanism. The draft says so.

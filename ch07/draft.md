@@ -98,7 +98,23 @@ administration; and ending, for as long as it keeps to that form, not
 in victory or annihilation but in absorption — selective concession,
 exemplary punishment, and a settlement that proceeds over its head.
 Where a rising fell below the propertied line or broke above it, the
-ending was different, and the chapter's two boundary cases say how. The form appears wherever the
+ending was different, and the chapter's two boundary cases say how.
+[NOTE: one earlier English instance belongs in the pattern's
+pre-history, and the reason it belongs is precise. The rising of 1381
+"is attributed to an unprecedented decade of registrations and
+assessments of poll taxes" (Scott 1998: 68) — a rising not against a
+levy but against the registration that made the levy possible, which
+is the pattern at its most fundamental, since what the propertied
+resent first is being counted. The same page notes that many
+fourteenth-century English surnames "were clearly nothing more than
+administrative fictions designed to make a population fiscally
+legible". Two cautions hold it at footnote level. Scott's sentence
+rests on a secondary at his note 52 and this chapter has no T2 for
+1381 in its sources; the work is to be retrieved before the case is
+promoted into the text. And the composition question is genuinely
+open: 1381 is not obviously a rising of the propertied-anxious kind
+as §I has just defined it, so it is offered here as the pattern's
+ancestor and not as one of its instances.] The form appears wherever the
 emerging fiscal-military state presses on populations organised
 enough to answer, and the book's wager chapters will need it: because
 the same form, this chapter will argue, is visible now, and its
@@ -313,7 +329,12 @@ ordonnance of the previous November; on 28 July Louis was granted
 the Dauphiné and a pension of eight hundred livres a month; Bourbon
 and Alençon retired to their lordships unpunished; and La Trémoille,
 Chaumont and Prie, whom the king refused to pardon, were banished
-from court (Vale 1974: 80–82, 238). Generosity calibrated to detach
+from court (Vale 1974: 80–82, 238). Alençon's impunity is worth
+dating, because it has another end: eighteen years later the same
+duke was declared "crimineux de crisme de lèse-majesté" by his peers
+in the arrêt of 10 October 1458 (Chastellain t. III: 481), and what
+the crown then reserved to itself out of his goods is Chapter 11's
+scene. Generosity calibrated to detach
 the leadership, punishment reserved for the few, and not one clause
 of the ordonnance withdrawn. What the settlement did not do, on
 Vale's account, is enforce. The rebels had met at Blois determined
@@ -413,7 +434,7 @@ makes the demand a restoration rather than a levelling; at Lehen in
 suppressed before rising (DHI/BNU institutional accounts; the
 Bundschuh series and its programme now carried at Scott & Scribner
 1991: 10, 20, 44–45, who do not mention Untergrombach or Fritz). In Württemberg in 1514, the
-"Armer Konrad" rising gives the pattern its most legible fiscal
+"Armer Konrad" rising gives the pattern its plainest fiscal
 mechanics: Duke Ulrich, in debt, imposed new consumption taxes on
 meat, wine and grain and adjusted the public weights to sweeten the
 yield; the Remstal rose in May; the revolt was suppressed by July;
@@ -425,7 +446,23 @@ theatres ran on the same clock: Cologne's guild risings of 1481,
 1512 and 1513 — the documented cases; the tradition of a wave in
 the 1460s and 70s could not be verified and is not asserted here —
 contested patrician fiscal administration and were reabsorbed into
-adjusted civic constitutions. All of it is prologue to 1525, and
+adjusted civic constitutions. [NOTE: the urban theatres have a
+mechanics of their own, and it is a cleavage rather than a grievance.
+On Stasavage's account of the city-state constitutions, ownership of
+the debt and liability for the taxes that serviced it lay with
+different groups — the merchants tending to hold the bonds, the craft
+guilds carrying a significant share of the tax burden that paid the
+interest — so that a dispute over a new excise was simultaneously a
+dispute over who was being taxed for whose asset; his Cologne series
+runs 1371, 1396, 1481 and 1513, in each case over debt and taxation,
+the 1481 trigger a proposed increase in excise taxation and its more
+radical leaders calling for a suspension of payments on the debt, with
+the free election of Gaffel representatives won in 1481 abolished the
+following year on the rebellion's overthrow (Stasavage 2011, chs. 1 and
+6). Nothing is quoted from him here: the corpus copy is an EPUB without
+printed pagination, and the pins are to be re-set to the printed page
+before press. He carries no revolt for 1512, which the draft's series
+includes on other authority.] All of it is prologue to 1525, and
 the Peasants' War is where the form found its limit on the other
 side. The Ciompi mark the boundary below the propertied line; 1525
 marks the boundary where the form broke its banks upward. Its first
@@ -669,7 +706,7 @@ of the chapter that follows.
 
 ---
 
-*Draft ends. Word count ~4,900 (memo-limited; Harvey, Bohna, Virgoe,
+*Draft ends. Word count ~7,260 (memo-limited; Harvey, Bohna, Virgoe,
 Najemy, Contamine-on-the-Praguerie and the German programmes will
 thicken §§II–V at the upgrade pass). Voice-discipline ledger: coined
 concept — the* propertied-anxious revolt *(§I, the chapter's
@@ -685,7 +722,12 @@ per the doctrine addition of that date). One
 re-argument and the gentry tally, §I); the composite Complaint
 transcription against Griffiths's three manuscripts (§II); Virgoe;
 Najemy's framing. Closed 2026-09-16: Griffiths pp. 619–20 (re-sourced
-per R1); Contamine on the Praguerie (Vale and Contamine tome 1). The Complaint quotations are from the
+per R1); Contamine on the Praguerie (Vale and Contamine tome 1).
+Opened 2026-09-29: a retrieval note on 1381 (Scott's secondary at his
+n. 52; no T2 for the rising in this chapter's sources) and a pagination
+note on Stasavage, both inside the notes that carry them. Borrowed terms
+paid for: "legible" surrendered to Scott as a term of art and the casual
+instance at §V reworded to "plainest". The Complaint quotations are from the
 open Stow transcription (T1); Kriehn, Curry, Watts, N&I (pre-pub
 caveat), Green & Pahontu, Girardi, Douenne & Fabre, Funke et al.,
 OBR are as pinned in the reviewed memo. No claim beyond the
@@ -757,5 +799,46 @@ one correction.
 
 ---
 
+5. **(2026-09-29 — Phase 6 renovation: Decision 23's ch07 limb (ppp),
+   with D18's instance here. PENDING HUMAN REVIEW.)** Four changes,
+   three of them at footnote level as the ruling specifies, and one
+   omission taken on Roderick's instruction.
+   - §I: a [NOTE] added to the pattern paragraph entering 1381 as the
+     pattern's ancestor — the rising "attributed to an unprecedented
+     decade of registrations and assessments of poll taxes" (Scott 1998:
+     68), with the same page's fourteenth-century surnames as
+     "administrative fictions designed to make a population fiscally
+     legible" — and carrying both cautions in the note itself: Scott's
+     sentence rests on a secondary at his n. 52 and this chapter holds
+     no T2 for 1381, so the case is not to be promoted beyond the
+     footnote before retrieval; and its composition does not obviously
+     satisfy §I's propertied-anxious form, so it is stated as ancestor
+     and not as instance.
+   - §III: the Praguerie settlement's "Bourbon and Alençon retired to
+     their lordships unpunished" gains one clause bracketing 1440 with
+     1458 — the same duke declared "crimineux de crisme de
+     lèse-majesté" in the arrêt of 10 October 1458 (Chastellain t. III:
+     481) — and points forward to ch11, which owns the scene and the
+     artillery reservation.
+   - §V: a [NOTE] added to the urban theatres naming the debt–tax
+     cleavage as their mechanics (the merchants holding the bonds, the
+     craft guilds carrying much of the tax that serviced them) with the
+     Cologne series 1371, 1396, 1481 and 1513, the 1481 excise trigger
+     and the Gaffel election abolished in 1482 — Stasavage paraphrased
+     throughout, nothing quoted, because the corpus copy is an EPUB
+     without printed pagination; the note also records that he carries
+     no 1512 revolt.
+   - §V (D18): "gives the pattern its most legible fiscal mechanics" →
+     "its plainest fiscal mechanics", so that "legibility" stays the
+     term of art Scott coined.
+   - Ghent 1458 is NOT entered, per Roderick's instruction: a submission
+     scene does not belong in a section about resistance to fiscal
+     reach, however good the image.
+   - Ledger unchanged: no new coinage, image or aphorism; the watermark
+     image and the collateral line stand; no bullets in the chapter
+     prose. Word count 6,787 → 7,260.
+
+---
+
 STATUS: REVIEWED (Roderick, 2026-08-01) — approved with revision
-applied; Revisions 2 (Bohna upgrade) REVIEWED (Roderick, 2026-09-02 — review pack); Revisions 3 (Phase 4 Run A) and Revisions 4 (Phase 5 renovation) PENDING HUMAN REVIEW
+applied; Revisions 2 (Bohna upgrade) REVIEWED (Roderick, 2026-09-02 — review pack); Revisions 3 (Phase 4 Run A), Revisions 4 (Phase 5 renovation) and Revisions 5 (Phase 6 renovation) PENDING HUMAN REVIEW

@@ -338,3 +338,51 @@ answered in the draft of 2026-09-16 (memo Revisions 8); Revisions 2
 here qualifies Objection 4's answer as noted. Commynes tome III, Glete,
 Scott, Krasner and Cheung reach no contradiction at argument level in
 this chapter (memo Revisions 11–14).*
+
+## Revisions (2026-09-29 — Phase 6 renovation, PENDING HUMAN REVIEW)
+
+1. **Ruggie's two centuries — now answered in the text, not only
+   here.** Revisions 4 of 16 September recorded the objection
+   steelmanned and answered in this file. Under Decision 19 the answer
+   moves into §VII in Ruggie's own words ("In social life, two
+   centuries is no mere time lag", 1993: 156), with the two centuries
+   dated before the ratchet and the Peterhof (1494) and the Steelyard
+   (1598) named as the interval the mechanism is asked to explain, and
+   his Mattingly paradox carried in a [NOTE] at §VI. The weaker limb
+   recorded above stands unchanged and is not concealed: the chapter
+   still offers no account of why the doctrine of exclusive
+   territorial sovereignty formed, and the consolidators' own tolerated
+   enclaves are now stated in the note rather than left to this file.
+   Status: ANSWERED IN TEXT on the two limbs that touch this chapter;
+   the doctrine-formation limb remains OPEN.
+
+2. **A new objection opened by the Venice correction (Decision 13).**
+   If Venice had the permanent state-administered navy (Glete 2002:
+   13), cheap credit into the eighteenth century (Stasavage 2011,
+   ch. 2) and a centre nothing could kill, a reviewer may ask why the
+   chapter's two-variable finding is not simply falsified by it — the
+   armed force and the fisc both present, and no consolidation. The
+   chapter's answer, stated in §VI: the fisc Venice had was a credit
+   fisc governed by its own creditors, not a collecting apparatus
+   reaching into a hinterland, and the naval organisation was
+   permanent without being extractive; what is missing is
+   fiscal-administrative penetration, which is the leg ch10 §VI tests
+   the case on. The objection is strengthened, not weakened, by the
+   correction, and the chapter is better off carrying it: a Venice
+   that lacked institutions proves little, a Venice that had the navy
+   and the credit and still consolidated nothing is evidence. Status:
+   ANSWERED, and the answer now depends on ch10 §VI holding the same
+   line.
+
+3. **The credit/tax distinction (Decision 12's ch04 limb) invites one
+   objection worth recording.** Naming the absorbing force as the
+   power to tax at scale rather than the power to borrow exposes the
+   chapter to Stasavage's book-level finding that war's effects on
+   state formation were "considerably more ambiguous than is commonly
+   believed" (ch. 8) — since if credit did not consolidate and
+   taxation did, the burden falls entirely on the extraction
+   apparatus Part II reconstructs. That is where the book wants the
+   burden, and Appendix C's indicators are scored on it; but the
+   objection is live and is carried forward to ch10, which owns the
+   evidence. Status: NOT YET ANSWERED IN THIS CHAPTER — answered, if
+   anywhere, at ch10 §§III–IV.

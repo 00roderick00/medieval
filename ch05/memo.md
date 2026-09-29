@@ -866,3 +866,157 @@ STATUS: REVIEWED (Roderick, 2026-07-22) — cleared for drafting
 STATUS: Revisions 20 PENDING HUMAN REVIEW (intake, 2026-09-16);
 Revisions 10–19 PENDING HUMAN REVIEW (catch-up run STEP 3,
 2026-09-16). Draft unchanged.
+
+## Revisions 21 (2026-09-29 — Phase 6 renovation, PENDING HUMAN REVIEW)
+
+**(2026-09-29 — Phase 6 renovation: Decisions 23, 9, 14 and 20, and the
+three items owed since Phase 5 — (lll), (ggg), (hhh), (jjj), (iii),
+rulings-sheet (h), the 1444 correction and the Bergavenny caveat.
+PENDING HUMAN REVIEW.)** Roderick's qualification on Decision 9 governs
+("keep 'private armies' with Ertman until Lander is read; hedge the
+council in a clause") and his qualification on Decision 23 governs the
+bridge (lacuna in the note; the sentence his). Every pin below was
+opened in its sidecar on this date: Chastellain `vol15` (printed =
+PDF + 10), `Ertman.txt` (PDF = printed + 15), `Lander.txt`,
+`Tilly-1985-WarMaking.txt`, `Glete.txt` (PDF = printed + 9),
+`Bagehot.txt` (no printed pagination), `Inalcik.txt`, `Kafadar.txt`,
+`Elliott.txt`.
+
+- **§I, the bridge (Decision 23, Roderick's qualification).** His
+  [BRIDGE] paragraph is UNTOUCHED — not one word altered. A [NOTE] is
+  added beneath [END BRIDGE] carrying the lacuna: Kervyn's note at the
+  close of tome II records the end of book III missing from July 1453 to
+  August 1454, with Castillon, Talbot's death, the conquest of Guyenne
+  and the fall of Constantinople among what was narrated there; tome III
+  opens after the gap (`Chastellain-vol11-ocr.txt` PDF 394; vol15 PDF 17).
+  The note states that the lacuna is in the manuscript and not in the
+  corpus, that no retrieval closes it, and that the triple hinge
+  therefore has no Burgundian witness for any of its three legs.
+- **§II, the minority council (jjj).** OLD: "a minority council that
+  governed, by the standards of the age, remarkably well." NEW: the
+  judgement kept and hedged in a clause — "governed, against the
+  comparative expectation of the age — Tilly's flat rule is that 'before
+  the seventeenth century, regencies for child sovereigns reliably
+  produced civil wars' (Tilly 1985) — remarkably well", followed by one
+  sentence stating the council as an exception the chapter claims. Pin
+  verified in the 1985 sidecar (Violence and Government section).
+- **§IV, the 1444 abdication (owed since Phase 5).** OLD: "Murad II,
+  weary of the throne, abdicated in 1444 in favour of his son Mehmed."
+  NEW: weariness cut; both motives written — İnalcık's dynastic
+  insurance, the abdication made "while still in good health … in favour
+  of his son Mehmed, hoping thus to establish him securely on the
+  throne" with the Byzantines "sheltering Orhan, a grandson of Bayezid"
+  (İnalcık 1973: 20 / PDF 63 region, verified at the sidecar lines
+  carrying the sentence), and Kafadar's faction frame quoted entire
+  (1995: 146). The 1446 return gains its terms: Murad returned "only
+  when convinced that this was the wish of the Janissaries" (İnalcık
+  1973: 63). **Pagination caution, entered in the draft as well:**
+  ch05/sources.md records the İnalcık sidecar as printed ≈ (PDF − 23)/2
+  while ch11/sources.md records it as printed = PDF + 12 to p. 132; the
+  two rules are incompatible. The page numbers used here follow the ch05
+  record and the memo entry of 16 September, and all three (pp. 18, 20,
+  63) are to be verified against the page images before press. Nothing
+  in the chapter's argument turns on them.
+- **§IV, the kul [GAP] CLOSED.** OLD: "İnalcık's classic formulation …
+  is the standard scholarly framing [GAP: İnalcık and Kafadar are on the
+  acquisition list; the formulation is cited here at second hand and must
+  not harden until retrieved]." NEW: his own sentence quoted — "There
+  were, however, powerful factors working in favour of Ottoman unity and
+  the centralized administration. The most potent factor was the Ottoman
+  kul — slave — system. In particular the Janissary corps, whose numbers
+  had risen to six or seven thousand, gave the Ottoman sultan an
+  undisputed superiority over his rivals" (1973: 18) — with a [NOTE]
+  that the printed page comes from the sidecar's OCR footer and is to be
+  verified against the page image. This closure is a sources-level
+  finding recorded in ch05/sources.md ("CLOSABLE AT RENOVATION"), not a
+  Sheet III ruling; it is taken here because the work is in corpus and
+  the citation was standing at second hand.
+- **§VI, "private armies" (hhh; Roderick's qualification).** The phrase
+  is KEPT. Ertman enters the text as the surviving scholarly usage —
+  "the power of the great magnates with their regional strongholds and
+  private armies was broken during the Wars of the Roses and their
+  aftermath" (1997: 179) — and Lander's objection goes in a [NOTE]: the
+  overtones "completely misleading", the retinue a following of retained
+  men rather than a force constantly under arms (1976: 31), extended
+  with the Bergavenny caveat owed since Phase 5 — no prosecution of a
+  peer known before Lord Burgavenny in 1506, "whose 471 retainers were
+  described as gentlemen, clerks, yeomen and a cobbler and a tinker"
+  (pp. 33–34), the recognizances cancelled in the first year of Henry
+  VIII and "Burgavenny probably paid no more than £1,000" (p. 289). The
+  note says the question stays open until Lander is read at his pages
+  and that nothing in the argument turns on the word.
+- **§VI, "the problem ended" (iii).** OLD: "France got a structural
+  answer … and the problem ended, not because French kings became
+  uniformly strong…". NEW: "the problem ended in its armed form",
+  followed by what the answer bred: Ertman's "substantial loss of
+  effective control to proprietary officeholders, tax farmers, and
+  officeholder-financiers who viewed the state not only as an instrument
+  of princely power but also as a source of income and social standing"
+  (1997: 28) and the companies "controlled and commanded by the local
+  royal governor, almost always a member of a prominent magnate family"
+  (p. 94), with Glete's "practically disappeared in the long civil war
+  period (1562–98)" (2002: 39). Consistent with CLAUDE.md §2's gloss:
+  what ended was the autonomous armed capacity of the intermediaries,
+  not the intermediaries.
+- **§VII, Aragon (ruling (h)).** OLD: "Portugal stable, Aragon
+  expanding, and above all France itself *recovering*". NEW: "Portugal
+  stable, Castile gathering the initiative in Iberia precisely because
+  it was Aragon — on Elliott's judgement 'a society in retreat' — that
+  was harnessed to it, and above all France itself *recovering*."
+  Carrier: Elliott, *Imperial Spain* (`text-2026-09-13/Elliott.txt`
+  PDF 51; no printed pagination, so the phrase alone is quoted).
+- **§VII, "the dignified pretence" (ggg).** ADDED: the borrowing paid
+  for — "dignified" attributed to Bagehot with the division quoted ("the
+  DIGNIFIED parts, if I may so call them; and next, the EFFICIENT parts
+  — those by which it, in fact, works and rules") and a [NOTE] carrying
+  his caveat ("I am not, of course, now speaking of the middle ages: I
+  am not dealing with the embryo or the infant form of our
+  Constitution"), the two disanalogies (his dignified parts designed and
+  load-bearing; England's pretence involuntary and carrying nothing),
+  the Gutenberg pagination warning, and the pointer to ch09, which owns
+  the distinction.
+- **§VII, Charles VII's court (lll).** ADDED: one paragraph, on the
+  verified pins only, placed after the "rebuild the office from the
+  treasury upward" sentence so that the pivot is not idealised — the
+  dauphin's flight and the men-at-arms closing in, "le roy son père
+  mesme venir tousjours file à file après, comme pour prendre la souris
+  en son trou" (t. III: 178, verified in the sidecar this date, which
+  extends the 16 September assessment's verified set by one pin); the
+  king at Lyon "pour mettre en son obéissance tout le pays du Dauphiné"
+  and the governor Chastillon yielding, "considérant ledit pays non
+  pouvoir résister à l'encontre de sa puissance" (pp. 225–26); the
+  Montargis summons "comme doien des pairs et double pair de France",
+  read as "fait plus par malice que par nécessité" against the Arras
+  exemption (p. 417); the Alençon sentence as the king "pensoit et
+  tendoit à donner fré[e]ur au duc de Bourgongne lequel il maintenoit à
+  son rebelle" (p. 422; the OCR reads "frégur"); and the ban and
+  arrière-ban cried "et mesme au pays et ès villes engagiées sur Somme",
+  where the treaty had left the duke all services, jurisdictions and
+  emoluments, "réservé seulement la souveraineté" (p. 423). Old French
+  verbatim with [TRANS. CLAUDE] throughout; the Burgundian partisanship
+  discounted in the note; **pp. 200 and 216–17 could not be found in the
+  sidecar and are not used**, per Decision 23's verified-pins-only
+  instruction.
+- **Flags.** CLOSED: the §IV İnalcık/Kafadar [GAP]. NARROWED: none.
+  OPENED: four small verification notes (the İnalcık OCR-footer page;
+  the Bagehot pagination; the Chastellain "frégur" spelling; the two
+  unfound Chastellain pins). UNTOUCHED: the §II Griffiths [GAP], the
+  §III Famiglietti/Vaughan [GAP], the McFarlane dictum's paraphrase, the
+  Fortescue wording check, and all three [BRIDGE] passages.
+- **REVIFY-OR-CUT (P43-h).** Three items, none hardened. (1)
+  **McFarlane's dictum** — still paraphrased, not quoted; the essays are
+  not in corpus and the chapter says so. (2) **Fortescue's chapter
+  heading**, quoted from the corpus OCR, which garbles a word; the
+  in-text warning that the wording awaits the page images stands. (3)
+  **Bagehot** — in corpus, but with no printed pagination, so the two
+  quotations now standing at §VII are pinned to a Gutenberg PDF and are
+  to be re-pinned before press. Everything else quoted in this chapter
+  (Wilkinson, Watts, Chastellain, Ertman, Lander, Glete, Tilly 1985,
+  İnalcık, Kafadar, Elliott) is from a work held in the corpus and was
+  opened on this date.
+- Voice: no new coinage, image or aphorism; Register A; no bullets in
+  the chapter prose. Draft word count 5,715 → 7,465.
+
+STATUS: Revisions 21 PENDING HUMAN REVIEW (Phase 6 renovation,
+2026-09-29); earlier Revisions entries PENDING as before; the memo body
+REVIEWED as before.

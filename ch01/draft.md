@@ -40,8 +40,8 @@ That recognition is this chapter's subject, and the book's point of
 departure. The intuition that our world has come to resemble the
 Middle Ages — plural, overlapping, contractual, its loyalties divided
 among bodies none of which commands the whole person — is not new,
-and this book did not invent it. It has a founding text, a careful
-literature, and a name: the new medievalism. The discipline of this
+and this book did not invent it. It has a text that named it, a
+careful literature, and a name: the new medievalism. The discipline of this
 chapter is to take that literature on its own terms — to state its
 diagnosis at full strength, run its tests against the present, and
 accept what the tests show — before the rest of the book does what
@@ -49,8 +49,10 @@ the literature never did. For the neomedieval writers described a
 condition. They did not ask, with any persistence, how the *first*
 medieval condition was locked shut — by what specific mechanism
 Europe's overlapping authorities were, over one long century,
-hammered into the exclusive territorial states we mistake for
-nature. That question
+hammered into the states we mistake for nature — polities that had
+subordinated the armed authorities standing between crown and
+subject and monopolised the fiscal capacity for decisive force.
+That question
 is Part II's, and its answer is the book's. This chapter only earns
 the right to ask it: by establishing that the condition is real, that
 the diagnosis is sound, and that the thing being diagnosed has
@@ -64,12 +66,25 @@ the year 1200, before the settlement this book will call an episode.
 
 The governing fact of that world is the one modern political
 instinct finds hardest to hold: authority was real, dense,
-law-governed — and nowhere exclusive. Perry Anderson's description
-remains the standard one: a "patchwork of overlapping and incomplete
-rights of government… inextricably superimposed and tangled," in
-which "plural allegiances, asymmetrical suzerainties and anomalous
-enclaves abounded" (Anderson 1974: 37–38; canonised for the
-international-relations literature by Ruggie 1993). No one in 1200
+law-governed — and nowhere exclusive. The description that has become
+standard is worth taking apart, because the international-relations
+literature has carried it for forty years as one man's sentence and it
+is a composite of two. The "patchwork of overlapping and incomplete
+rights of government" belongs to Strayer and Munro's textbook of 1959,
+from which Ruggie quoted it (Strayer and Munro 1959: 115, quoted in
+Ruggie 1993: 149 n. 55); the phrases that follow — authority
+"inextricably superimposed and tangled", a world in which "plural
+allegiances, asymmetrical suzerainties and anomalous enclaves
+abounded" — are Perry Anderson's (Anderson 1974: 37–38, at Ruggie's
+n. 56); and the canonisation that made the composite the discipline's
+standing description of the Middle Ages was performed not in the 1993
+article everyone cites but in Ruggie's *World Politics* piece of 1983,
+which is what Kobrin and Zielonka cite in their turn (Ruggie 1993: 149
+n. 57). [PENDING VERIFICATION: Anderson's page 37 is not in this book's
+corpus, and it remains possible that he is himself quoting Strayer and
+Munro there; until the page has been seen this sentence carries both
+attributions and claims nothing about which of them coined the phrase.]
+No one in 1200
 was confused by this. A burgher of a free city might owe civic duty
 to his commune, spiritual obedience to his bishop, commercial law to
 his merchant guild's usages, and ultimate — largely notional —
@@ -118,7 +133,7 @@ collided, which is why its politics was a politics of boundary
 dispute, privilege, exemption and appeal. Second, the plurality
 was durable. It reproduced itself for centuries; contemporaries
 did not experience it as transitional; and no internal tendency
-was visibly carrying it toward the exclusive territorial state —
+was visibly carrying it toward the territorial state in particular —
 a point on which the neomedieval theorists and this book agree,
 and on which everything turns. Joseph Strayer would enter a
 dissent here, and it is recorded: on his account England and
@@ -164,8 +179,35 @@ adequately.
 ## III.
 
 The theorists next — in order of their arrival, because the order
-is itself instructive: the founder first, doubting his own
-hypothesis; the systematiser a generation later, rebuilding it.
+is itself instructive: the man who named the condition first,
+doubting his own hypothesis; the systematiser a generation later,
+rebuilding it.
+
+Naming is not noticing, and the record should be straight about
+which Bull did. Two years before *The Anarchical Society*, Charles
+Tilly — the founder of the school that holds that war made the
+state, and the authority this book cites more than any other — had
+the thought already, and gave it a technological cause. The
+individual state, he wrote, "may be losing part of its
+significance", authority moving "toward the regional grouping and
+the compact of superstates above, toward the subnational region,
+ethnic population, or racial group below", because "control of a
+contiguous territory was peculiarly advantageous to the land- and
+water-bound technologies of the European state-making eras, but an
+obstacle to full exploitation of technologies of flight, electric
+power and electronic information-handling"; and then, flatly:
+"Perhaps, unknowing, we are writing obituaries for the state"
+(Tilly 1975: 638). Ruggie's notes point further back still, to John
+Herz's "Rise and Demise of the Territorial State" of 1957, where the
+disperser was the nuclear weapon (Ruggie 1993: 143 n. 23). Bull
+supplied the name, the literature, and the discipline of doubting
+his own hypothesis; he did not supply the intuition. The priority is
+worth conceding rather than defending, because it improves the
+book's position: the technologies Tilly named in 1975 as obstacles
+to territorial control are the ones Part III will argue now
+re-concentrate decisive force in the hands of whoever can pay for
+it, which makes the argument a reply to bellicism's founder on his
+own ground and not merely a correction of Bull's caution.
 
 Hedley Bull entertained the idea in 1977, in the tenth chapter of
 *The Anarchical Society*, as one of several alternatives to the
@@ -249,6 +291,29 @@ organisations whose terms states cannot dictate — a sharper demand
 than the paragraph above meets as drafted. The delta is for
 Roderick's judgment at the rewrite: restate the crossing against
 Bull's actual tests, or qualify the claim.]
+
+[DELTA — PROPOSED ANSWER, entered 2026-09-29 for Roderick's decision;
+the paragraph above is his and is untouched. Ruggie denies that
+substitutability is the right test at all, which if accepted dissolves
+the demand rather than meeting it: "There is an extraordinarily
+impoverished mind-set at work here, one that is able to visualize
+long-term challenges to the system of states only in terms of entities
+that are institutionally substitutable for the state", and "The
+theoretical or historical warrant for that premise has never been
+mooted, let alone defended" (Ruggie 1993: 143). His demonstration is
+the medieval fair, which substituted for nothing and undid feudal
+authority regardless: "In no sense could the medieval trade fairs have
+become substitutes for the institutions of feudal rule. Yet, the fairs
+contributed significantly to the demise of feudal authority relations"
+(p. 155). On that reading the test this book applies is not whether
+the new authorities replace the state but whether the state ends by
+subordinating them or by accommodating them — subordination, not
+substitutability. The proposal is therefore to answer the delta by
+replacing the "new units" limb rather than by satisfying it, on the
+ground that the limb is a reconstruction from Bull's per-trend
+reasoning and not a test he states, so it is the book's own and may be
+rewritten as the book's own. Roderick's text above stands until he
+rules.]
 
 Jörg Friedrichs supplied, a generation later, the analytical
 engine the intuition had lacked, and his article is now in this
@@ -440,9 +505,34 @@ of genuinely modern territorial sovereignty later still
 (Teschke 2003). The contrary position exists and is named:
 Latham reads late-medieval and early-modern sovereignty as
 variation on a theme rather than difference in kind — on which
-account the "anomaly" framing overstates. The book does not
-need the strong version. It needs only what both sides of that
-dispute concede: that the exclusive territorial state was
+account the "anomaly" framing overstates. A sharper objection than
+Latham's has to be met before the claim is safe, and meeting it makes
+the claim better. Stephen Krasner's finding is that exclusivity was
+never anybody's practice: "the principles associated with both
+Westphalian and international legal sovereignty have always been
+violated", and neither "has ever been a stable equilibrium from which
+rulers had no incentives to deviate" (Krasner 1999: 24); "There has
+never been some ideal time during which all, or even most, political
+entities conformed with all of the characteristics that have been
+associated with sovereignty—territory, control, recognition, and
+autonomy" (p. 238). If what was locked in the long fifteenth century
+were exclusivity, Krasner has shown there was nothing to lock. But the
+lock was a different thing, and it sits in a cell of his own grid that
+he expressly leaves empty — he offers "no explanation for the
+displacement of other institutional forms" (p. 5) — because what Part
+II demonstrates is not external purity but internal hierarchy: the
+armed authorities standing between crown and subject subordinated, and
+the fiscal capacity for decisive force monopolised. The word
+"exclusive" is therefore not a word this book leans on, except where a
+writer of standing is being quoted on the doctrine of rule rather than
+the record of it. Ruggie is that writer, and the doctrine is owed its
+one statement: the modern system of rule, he holds, "has differentiated
+its subject collectivity into territorially defined, fixed, and
+mutually exclusive enclaves of legitimate dominion" (Ruggie 1993: 151).
+That is the claim the period made for itself. The claim this book
+makes is smaller, and the evidence for it is better. So the book does
+not need the strong version. It needs only what both sides of that
+dispute concede: that the consolidated territorial state was
 *made*, under pressure, out of something else — and what is
 made under pressure can be remade when the pressures change.
 The state is not the default of European politics; it is an
@@ -456,11 +546,11 @@ treats the five-hundred-year interruption as background. But
 the interruption is the interesting part. Something locked the
 first medieval order shut: some force, operating in identifiable
 decades, made the overlapping authorities of 1200 into the
-exclusive sovereignties of 1700 — annexed the universalisms,
+consolidated sovereignties of 1700 — annexed the universalisms,
 disarmed the lords, subordinated the cities, and para-
 doxically produced, out of the densest plurality in European
-history, the most exclusive form of political authority ever
-devised. The verb is chosen with care. The plural order was not
+history, the most internally hierarchical form of political
+authority Europe had yet devised. The verb is chosen with care. The plural order was not
 ended; what was locked was the overlapping of authorities
 *within* a territory, and the plurality *between* the units so
 made hardened as it happened. Walter Scheidel's long view is the
@@ -496,8 +586,10 @@ been, once already, a matter of record.
 
 ---
 
-*Draft ends. Word count ~5,000 (Strayer and Scheidel entered at
-the Phase 5 renovation, 2026-09-16; Morris, Forey, Jones and the
+*Draft ends. Word count ~5,680 (Strayer and Scheidel entered at
+the Phase 5 renovation, 2026-09-16; the Anderson repair, the Tilly and
+Herz priority and the "exclusive" recast at the Phase 6 renovation,
+2026-09-29; Morris, Forey, Jones and the
 Rhineland monographs will thicken §§II–III at the upgrade pass; the Rhineland baseline is deliberately
 not asserted per Revisions 2/4). Voice-discipline ledger (per the
 2026-08-01 doctrine: counted as produced, checked against standing
@@ -510,7 +602,18 @@ No [BRIDGE] passages (the chapter is diagnostic; the medieval
 material is baseline, not analogy). [GAP] flags: Morris; Forey (or Nicholson's history of the
 orders — the Nicholson volume in corpus supplies the 1198 dating
 only); Jones (Bull's caution [GAP] closed 2026-08-03; a [DELTA] on
-his per-trend tests flagged in §III for the rewrite). Estimates
+his per-trend tests flagged in §III for the rewrite, with a
+[DELTA — PROPOSED ANSWER] entered beneath it 2026-09-29 and his own
+paragraph untouched). One [PENDING VERIFICATION] carried in §II
+(Anderson 1974: 37, not in corpus). Nil finding recorded: the chapter
+uses "legibility" and "legible" nowhere (full-text search, zero hits),
+so Scott is named at the Introduction's first use and no sentence here
+is owed to him. Borrowed terms paid for: the composite description
+split between Strayer and Munro and Anderson, with the canonisation
+re-pointed to Ruggie 1983 (§II); the neomedieval intuition dated to
+Tilly 1975 and Herz 1957 (§III); "exclusive" surrendered to Krasner
+and kept once as Ruggie's attributed statement of the doctrine (§VI).
+Estimates
 flagged inline
 (Ocean Tomo; shadow economy; crypto). Does not assume ch06's
 findings; promises them (§§I, VI). No claim beyond the reviewed
@@ -580,9 +683,59 @@ Roderick reviewed the Batch 2 drafts: approved with revisions.
    record in ch01/memo.md Revisions (2026-09-16). The §III [DELTA]
    untouched. Ledger: no new coinage; aphorism unchanged.
 
+6. **(2026-09-29 — Phase 6 renovation: Decisions 19 and 17, with D18's
+   ch01 limb — items (tt), (ww), (xx), (vv) and (rr). PENDING HUMAN
+   REVIEW.)** §I: "It has a founding text" → "It has a text that named
+   it"; "hammered into the exclusive territorial states we mistake for
+   nature" → "hammered into the states we mistake for nature — polities
+   that had subordinated the armed authorities standing between crown
+   and subject and monopolised the fiscal capacity for decisive force".
+   No apparatus is added in the opening pages, per Roderick's
+   qualification of restraint in §I. §II: the Anderson sentence
+   repaired and split as Ruggie's own notes divide it — the "patchwork
+   of overlapping and incomplete rights of government" to Strayer and
+   Munro 1959: 115 (quoted in Ruggie 1993: 149 n. 55), the
+   "inextricably superimposed and tangled" and "plural allegiances,
+   asymmetrical suzerainties and anomalous enclaves abounded" phrases to
+   Anderson 1974: 37–38 (n. 56), the canonisation re-pointed to Ruggie's
+   *World Politics* article of 1983 (n. 57) — with a [PENDING
+   VERIFICATION] in the text saying that Anderson's page 37 is not in
+   corpus and that he may be quoting Strayer and Munro himself; nothing
+   is asserted about who coined the phrase, and the commit is held per
+   the ruling. §II, smaller precision: "no internal tendency was visibly
+   carrying it toward the exclusive territorial state" → "toward the
+   territorial state in particular" (Ruggie 1993: 153, 155). §III: the
+   priority given where it belongs — "the founder first" → "the man who
+   named the condition first", followed by one paragraph carrying Tilly
+   1975: 638 (the state "may be losing part of its significance"; the
+   land- and water-bound technologies; "Perhaps, unknowing, we are
+   writing obituaries for the state") and Herz 1957 via Ruggie 1993: 143
+   n. 23, with the concession turned into the book's own ground: the
+   technologies Tilly named as obstacles to territorial control are the
+   ones Part III argues now re-concentrate decisive force. §III: a
+   [DELTA — PROPOSED ANSWER] entered *beneath* Roderick's [DELTA],
+   which is untouched — the test is subordination, not substitutability
+   (Ruggie 1993: 143 on the "impoverished mind-set"; p. 155 on the fairs
+   that "substituted for nothing"), and the "new units" limb marked as
+   the book's reconstruction and therefore rewritable as the book's own.
+   §VI: "the exclusive territorial state was *made*" → "the consolidated
+   territorial state was *made*"; "the exclusive sovereignties of 1700"
+   → "the consolidated sovereignties of 1700"; "the most exclusive form
+   of political authority ever devised" → "the most internally
+   hierarchical form of political authority Europe had yet devised"; and
+   one paragraph added conceding Krasner by name (1999: 24, 238, with
+   p. 5's bracketing of the displacement question) and stating why the
+   lock is a cell of his grid he leaves empty, keeping Ruggie 1993: 151
+   once as an attributed quotation of the doctrine ("territorially
+   defined, fixed, and mutually exclusive enclaves of legitimate
+   dominion"). D18: nil finding confirmed and recorded — no use of
+   "legibility" or "legible" anywhere in this draft. Ledger: no new
+   coinage, image or aphorism; the aphoristic line unchanged. Word count
+   4,620 → 5,680.
+
 ---
 
 STATUS: REVIEWED (Roderick, 2026-08-02) — approved with revisions
 applied. Revisions 3 (Bull direct quotes; the tests [DELTA]) PENDING
-HUMAN REVIEW; Revisions 4 (Phase 4 Run A) and 5 (Phase 5
-renovation) PENDING HUMAN REVIEW.
+HUMAN REVIEW; Revisions 4 (Phase 4 Run A), 5 (Phase 5
+renovation) and 6 (Phase 6 renovation) PENDING HUMAN REVIEW.

@@ -205,11 +205,26 @@ primary instrument documents them as constituted sanctions. The
 discipline matters; the case is strong enough without them.)
 
 The second is the Chinese state-platform church, and its defining
-property is fusion: the universal claim is not rival to the state
-but *absorbed into it* — which makes China, in this chapter's
-terms, not a church-state contest but the contest pre-empted:
-fusion asserted by discipline, and enforced since.
-The demonstration was the crackdown of 2020–21, best read — the
+property is absorption: the universal claim is not rival to the
+state but *ruled as a department of it* — which makes China, in
+this chapter's terms, not a church-state contest but the contest
+pre-empted: subordination asserted by discipline, and enforced
+since. One word is avoided here deliberately. "Fusion" in China
+names the state's own programme of military-civil fusion, a
+different thing on a different timetable, and Chapter 12 takes it
+up under that name; what this chapter describes is platforms ruled
+as departments, and the two should not be allowed to borrow each
+other's credit. The first instrument was not the discipline of
+2020–23 but a pact signed eighteen years earlier: in the summer of
+2002 Yahoo agreed to China's demands and signed the Public Pledge
+on Self-Discipline for the Chinese Internet Industry, undertaking
+to "inspect and monitor the information on domestic and foreign
+Websites" (Goldsmith and Wu 2006: 9), and the same authors record
+that "major commercial operators like Yahoo agreed in 2002 to a
+binding 'self-discipline pact'" (p. 96). The foreign orders, in
+other words, were subordinated by pact two decades before the
+domestic ones were disciplined by fine. What 2020–23 demonstrated
+was the second of those operations, and it is best read — the
 structural licence holds — as intra-church discipline: a reform
 movement imposed on over-mighty religious orders by the authority
 that claims them. In sequence: Ant's record-setting initial
@@ -222,13 +237,14 @@ listing, delisted within the year, and fined RMB 8.026 billion
 (21 July 2022); the gaming and private-tutoring sectors
 restructured by administrative fiat in a single summer; the whole
 programme doctrinally framed by Xi's "Common Prosperity" essay
-(*Qiushi*, 17 August 2021, primary). Call it the Gregorian moment
+(*Qiushi*, 17 August 2021, primary). Call that turn against the
+domestic orders the Gregorian moment
 [ANALOGY-ONLY in its label; structural in its content]: as
 Gregory VII asserted that the universal institution's officers
 held their offices *of* the centre and not of themselves, the
 party-state asserted — with fines, delistings and disappeared
 founders — that the platforms' authority was delegated, not
-owned. And the fused church claims its diaspora: the Personal
+owned. And the absorbed church claims its diaspora: the Personal
 Information Protection Law's Article 3 (effective 1 November
 2021) reaches data processing conducted *outside* China wherever
 it targets persons within it — the extraterritorial reflex of
@@ -277,23 +293,48 @@ universalism could field. The disanalogy sorts the modern churches
 rather than dissolving the comparison. The European church stands
 almost exactly where the medieval one stood: all canon, no
 divisions, its reach a function of others' need for access. The
-Chinese church has been fused into a state that can pay. The
+Chinese church is ruled as a department of a state that can pay.
+The
 American church is the case the twelfth century never saw — a
 universalism holding, in its foundries, its constellations and its
 models, components of the very instrument by which force is now made
 decisive; and that difference, not the resemblance, is what makes
 Part III's question about it a live one.
 
+A tense discipline follows from that sorting, and it governs the
+rest of the book's use of these three churches, because the
+reassertion this book predicts is not one event but two, at
+different stages. Over the canon and the register — what may be
+said and hosted, and who is who — the territorial powers have
+already reasserted themselves, and they did it cheaply. Between
+2000 and 2006 they did it by leaning on local intermediaries
+rather than by building anything: "Government regulation works by
+cost and bother, not by hermetic seal" (Goldsmith and Wu 2006:
+68), the service providers were "already some of the most
+regulated companies on earth" (p. 73), and the result, stated by
+the same authors as accomplished twenty years ago, is that "what
+we once called a global network is becoming a collection of
+nation-state networks" (p. 149). No fiscal threshold was crossed
+to achieve it; letters to intermediaries sufficed. Over the
+decisive stack — the foundries, the constellations, the models,
+the munitions — nothing of the kind has happened, and there the
+reassertion is compelled and unaccomplished, because holding the
+plant, unlike mandating the canon, has to be paid for. That seam
+is where this book's mechanism begins, and the reader should
+carry both tenses from here: the past tense for the canon, the
+conditional for the stack.
+
 ## IV.
 
 Set the three beside each other and the shape of the present
-becomes legible, and the chapter can make its central move in one
+becomes plain, and the chapter can make its central move in one
 paragraph. The condition of the 2020s is not the High-Medieval
 papal monarchy — no single universal authority stands over the
 territorial powers. It is the *Schism*: three universalisms,
 mutually incompatible — an American church of private
 institutions under increasingly assertive state discipline; a
-Chinese church fused with its state; a European church that is
+Chinese church ruled as a department of its state; a European
+church that is
 all canon and no infrastructure — each backed by a civilisational
 bloc, each claiming the same class of subjects, none able to
 absorb the others. Call the condition *three-body sovereignty*:
@@ -318,6 +359,37 @@ The investiture contests are running now, and the chapter's
 demonstration is that the live disputes of the 2020s, read
 structurally, are fights over exactly the Gregorian question:
 who invests an actor with legitimacy or permission.
+
+The first of them, though, was fought and finished before any of
+the churches of §III existed, and it is worth taking first
+because it is the only one with a verdict. *Who invests the
+network's own authority.* In March 1995 Robert Aiken, an engineer
+at the American Department of Energy, put to the Internet Society
+the canonist's question in almost the canonist's words: "IS ISOC
+claiming that it has jurisdiction and overall responsibility for
+the [Internet] top level address and name space—as some (see
+below) believe it does? If yes—how did ISOC obtain this
+'responsibility',—if NO then who does own it?" (Goldsmith and Wu
+2006: 37). The engineers' answer was a universalism: Cerf replied
+for the Society, and the draft instrument its allies circulated
+opened "We the People of the Internet Community" (pp. 38–39). On
+28 January 1998 Jon Postel, who ran the address space, asked the
+root's secondary servers to take the root zone from his own
+machine instead, and eight of the twelve complied, four — at NASA,
+the military, the Ballistics Research Lab and Network Solutions —
+continuing to recognise the American government's root authority
+(p. 45); within
+the hour Ira Magaziner, roused at Davos, had him on
+the telephone with one of his university's officers listening in,
+and told him, "Jon, you don't have the legal right to conduct a
+test" (p. 46). Within a week the root was back, and thereafter
+root authority "has remained, without exception, in the hands of
+the U.S. government" (p. 46). The whole of it took seven days and
+cost the territorial power nothing but a telephone call and the
+threat of a prosecution — which is the shape §III's tense
+discipline predicts for the canon and the register, and is exactly
+what the disputes below do *not* look like once the foundries
+enter the argument.
 
 *Who invests app publishers.* The Epic–Apple litigation is a
 decade-long investiture fight over whether a platform sovereign
@@ -414,7 +486,25 @@ state regulating the switches of its foundational
 infrastructure by licence and condition — and, in the foundry,
 exceptionally, converting subsidy into equity — the Chinese
 state ruling its platforms as departments, the European state
-legislating its church's canon itself. The wager's precise form comes later.
+legislating its church's canon itself. The Henrician form has, in
+one place, already been documented for a generation, and it is the
+case §V left with its verdict. When the United States handed the
+naming and numbering of the network to a private corporation in
+1998, it handed over the function and kept the title: it "never
+actually ceded control over either ICANN or the root. Legally,
+ICANN remained under contract to the U.S. Commerce Department"
+(Goldsmith and Wu 2006: 169), and Commerce later insisted it had
+"no plans to transfer to any entity its policy authority to direct
+the authoritative root server" (p. 170). That is the Sforza
+relation exactly, and the reading of it is this book's own, not
+theirs: the operator ran the office for a generation, and the
+investiture never happened. Which fixes what the wager does and
+does not claim. Over the canon and the register the Henrician act
+is history, and it was cheap. Over the decisive stack it is
+compelled and unaccomplished, and the reason for the difference is
+the reason Part II exists: a letter to an intermediary costs
+nothing, and what the state must now take back has to be paid
+for. The wager's precise form comes later.
 What Part I still owes the reader is the rest of the diagnosis
 — because beneath the churches' quarrels, the dispersal has
 armed actors and contract polities of its own. The retinues
@@ -422,8 +512,8 @@ are the next chapter's business.
 
 ---
 
-*Draft ends. Word count ~3,900 (§II restated per Morris at the Phase 5
-renovation, 2026-09-16; Tierney will thicken the conciliar passage at
+*Draft ends. Word count ~4,860 (§II restated per Morris at the Phase 5
+renovation, 2026-09-16; §§III, V and VI renovated at Phase 6, 2026-09-29; Tierney will thicken the conciliar passage at
 the upgrade pass; Zielonka the EU-church section). Voice-discipline ledger (counted as produced, checked
 against scholarship): coined concept —* three-body sovereignty
 *(§IV; the celestial-mechanics riff is the book's own via the
@@ -432,7 +522,12 @@ their owners); vivid image — the map "drawn not in borders but in
 obediences" (§IV); aphoristic line — "The decisive settlements did
 not defeat the universal authority; they annexed it" (§VI).
 [ANALOGY-ONLY] flags: demonetisation/demotion extensions (§III);
-the "Gregorian moment" label (§III). [GAP] flags: Tierney/Haec Sancta (the Ullmann [GAP] closed
+the "Gregorian moment" label (§III), now attached to the discipline of
+the domestic orders rather than to the whole Chinese case. Borrowed
+terms paid for: the layered tense and the root contest to Goldsmith and
+Wu (§§III, V, VI), with the Sforza reading of ICANN marked as this
+book's own; "fusion" surrendered to the Chinese military-civil
+programme and the absorption mode renamed (§§III–IV). [GAP] flags: Tierney/Haec Sancta (the Ullmann [GAP] closed
 from Morris, 2026-09-16, with Ullmann cited as superseded). Sanction evidence led by deplatforming per
 the reviewed rule; Chinese penalties in RMB; Ant IPO figure marked
 as projection; chip controls anchored to ECCN 3A090 + NVIDIA 8-K;
@@ -485,8 +580,56 @@ correction.
    aphorism as before; the Morris p. 113 line is quoted, not
    coined).
 
+3. **(2026-09-29 — Phase 6 renovation: Decisions 16 and 7, with
+   D18's ch02 limb — items (yy), (zz), (kk), (ll) and (bbbb).
+   PENDING HUMAN REVIEW.)** §III, the Chinese church: "its defining
+   property is fusion: the universal claim is not rival to the state
+   but *absorbed into it* … fusion asserted by discipline" → "its
+   defining property is absorption: … *ruled as a department of it*
+   … subordination asserted by discipline", with one sentence
+   surrendering "fusion" to the Chinese state's own military-civil
+   programme and pointing to ch12, which now reserves the word
+   (Cheung's term of art; ch12's renovated wording followed). §III,
+   the dating: "The demonstration was the crackdown of 2020–21" →
+   the first instrument dated to the Public Pledge on
+   Self-Discipline of summer 2002, Yahoo undertaking to "inspect and
+   monitor the information on domestic and foreign Websites"
+   (Goldsmith and Wu 2006: 9; p. 96), the foreign orders
+   subordinated by pact two decades before the domestic ones were
+   disciplined by fine, and 2020–23 stated as the turn against the
+   domestic orders; "Call it the Gregorian moment" → "Call that turn
+   against the domestic orders the Gregorian moment". "The fused
+   church claims its diaspora" → "the absorbed church"; "The Chinese
+   church has been fused into a state that can pay" → "is ruled as a
+   department of a state that can pay"; §IV's "a Chinese church
+   fused with its state" → "ruled as a department of its state".
+   §IV: "the shape of the present becomes legible" → "becomes plain"
+   (D18: the term of art kept for the technical sense). §III gains
+   the layered tense in one paragraph — accomplished for canon and
+   register between 2000 and 2006 and cheaply ("Government
+   regulation works by cost and bother, not by hermetic seal", p.
+   68; the providers "already some of the most regulated companies
+   on earth", p. 73; "what we once called a global network is
+   becoming a collection of nation-state networks", p. 149),
+   compelled and unaccomplished for the decisive stack. §V gains the
+   root contest of 1995–98 as the first completed investiture case,
+   with Aiken's question quoted (p. 37), the Internet Society's "We
+   the People of the Internet Community" (pp. 38–39), the eight of
+   twelve secondaries that complied (p. 45), Magaziner's "Jon, you
+   don't have the legal right to conduct a test" and root authority
+   thereafter "without exception, in the hands of the U.S.
+   government" (p. 46). §VI gains ICANN as the Sforza form on the
+   record — the United States "never actually ceded control over
+   either ICANN or the root. Legally, ICANN remained under contract
+   to the U.S. Commerce Department" (p. 169), Commerce with "no
+   plans to transfer to any entity its policy authority to direct
+   the authoritative root server" (p. 170) — the Sforza reading
+   marked as the book's own, and the layered tense restated as the
+   limit of the wager. Ledger unchanged: no new coinage, image or
+   aphorism. Word count 3,900 → 4,860.
+
 ---
 
 STATUS: REVIEWED (Roderick, 2026-08-02) — approved with revision
-applied; Revisions 1 (Phase 4 Run A) and 2 (Phase 5 renovation)
-PENDING HUMAN REVIEW
+applied; Revisions 1 (Phase 4 Run A), 2 (Phase 5 renovation) and 3
+(Phase 6 renovation) PENDING HUMAN REVIEW

@@ -420,3 +420,52 @@ p. 140 — is ch10's critiques, and is not carried here.
 run — Is "exclusive" gone from §I and §VI, or is each occurrence Krasner-
 proof? Does the Anderson sentence carry Strayer and Munro? Is the layered
 tense stated in §V? Is Ruggie's form objection conceded under his name?*
+
+## Revisions (2026-09-29 — Phase 6 renovation, PENDING HUMAN REVIEW)
+
+1. **Objection 6 (Krasner) — now answered in the text.** The answer
+   recorded above lived only in this file. Under Decision 17 it moves into
+   §VI: Krasner is conceded by name (1999: 24, 238), his own bracketing of
+   the displacement question quoted (p. 5), and the lock restated as
+   internal hierarchy plus the fiscal monopoly of decisive force — the cell
+   of his grid he leaves empty. The three "exclusive" claims the objection
+   fastened on are gone from the chapter, which removes the target rather
+   than defending it. Status: ANSWERED IN TEXT. Residue carried: his
+   invitation regularity (p. 29) still belongs to ch12 §IV, and this
+   chapter does not use it.
+
+2. **Objection 8 (Ruggie on Bull's test) — narrowed, not closed.** The
+   resolving principle is now on the page, but as a
+   [DELTA — PROPOSED ANSWER] beneath Roderick's own [DELTA], which is
+   untouched: the test is subordination, not substitutability (Ruggie
+   1993: 143, 155), and the "new units" limb is marked as the book's
+   reconstruction. Status: PLAUSIBLE-UNPROVEN UNTIL RODERICK RULES, which
+   is the same grade as before, with the proposal now visible where a
+   reader of the draft will meet it. The spine amendment the objection
+   calls for is not made here: spine.md is outside this run's ownership.
+
+3. **A new exposure opened by the Anderson repair, recorded rather than
+   smoothed.** §II now tells the reader that the discipline's standard
+   description of the medieval order is a composite of a 1959 textbook and
+   a 1974 monograph, canonised in 1983. A reviewer may fairly ask why a
+   book whose Part I rests on that description should treat it as
+   authoritative at all. The chapter's answer, implicit in the paragraph
+   and stated here: the description is used as a summary of what the
+   sources show, not as an authority in itself, and everything
+   load-bearing in §II — the burgher's plural obligations, the military
+   orders' dating, the Interregnum, Strayer's dissent — is pinned to
+   scholarship the chapter cites directly. Status: OPEN, and the honest
+   form of it is the [PENDING VERIFICATION] the draft now carries.
+
+4. **The Tilly priority (Decision 19) closes a small vulnerability and
+   opens a smaller one.** Closed: the chapter no longer implies that Bull
+   had the intuition first, which a reader of Tilly 1975 or Herz 1957
+   could have falsified in a line. Opened: if the founder of bellicism
+   predicted dispersal on technological grounds in 1975, a reviewer may
+   ask why the same school's technological reasoning should be trusted now
+   when it ran the other way then. The chapter's answer is the one Part II
+   supplies and §III states in outline — that the direction of the
+   technological effect depends on the price of decisive force, which is
+   an empirical question with a documented answer for 1440–1500 and a
+   scoreable one for the present. Status: ANSWERED IN OUTLINE, and
+   Appendix C is where it is scored.

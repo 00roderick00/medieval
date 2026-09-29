@@ -782,3 +782,81 @@ recommended; to be appended after (cc) at STEP 4):
 - (v) Ghent 1458: placed at §V or left out — Roderick's.
 
 STATUS: Revisions 5–8 PENDING HUMAN REVIEW; Revisions 4 as before.
+
+## Revisions 9 (2026-09-29 — Phase 6 renovation, PENDING HUMAN REVIEW)
+
+**(2026-09-29 — Phase 6 renovation: Decision 23's ch07 limb (ppp), with
+this chapter's instance of Decision 18. PENDING HUMAN REVIEW.)** The
+four register decisions proposed at the 2026-09-14 entry are carried
+into draft.md as ruled, and the fifth — Ghent 1458 — is left out on
+Roderick's instruction. Pins re-opened in `Scott.txt` (printed = PDF −
+17 on the copy of record), `Stasavage.txt` (no printed pagination) and
+`Chastellain-vol15-ocr.txt` (printed = PDF + 10) on this date.
+
+- **§I, 1381 (item (ii)).** ADDED as a [NOTE] to the pattern paragraph,
+  after "the chapter's two boundary cases say how": the rising of 1381
+  "is attributed to an unprecedented decade of registrations and
+  assessments of poll taxes" (Scott 1998: 68 / PDF 85, verified), with
+  the same page's surnames as "administrative fictions designed to make
+  a population fiscally legible", and the point stated as the pattern at
+  its most fundamental — resistance to being counted rather than to a
+  levy. Both cautions are carried inside the note and not only here:
+  (i) Scott's sentence rests on a secondary at his n. 52 and this
+  chapter's sources.md holds no T2 for 1381, so the note says the work
+  is to be retrieved before the case is promoted into the text; (ii) the
+  composition question is stated in the note — 1381 does not obviously
+  satisfy §I's propertied-anxious form, so it enters as the pattern's
+  ancestor and not as an instance. This is the placement the ruling
+  specifies: footnote level, with its place against §I's form stated.
+- **§V, the debt–tax cleavage (item (iii)).** ADDED as a [NOTE] to the
+  urban-theatres sentence: the cleavage rather than the grievance is the
+  urban mechanics — merchants tending to own the debt, craft guilds
+  carrying a significant share of the tax that serviced it, so that a
+  new excise was simultaneously a quarrel over who was taxed for whose
+  asset; the Cologne series given as 1371, 1396, 1481 and 1513, all over
+  debt and taxation, with the 1481 excise trigger, the radicals' call
+  for a suspension of payments, and the Gaffel election won in 1481 and
+  abolished in 1482 (Stasavage 2011, chs. 1 and 6: part0008_split_003;
+  part0013_split_004). **Nothing is quoted from him** — the corpus copy
+  is an EPUB without printed pagination and the note says the pins are
+  to be re-set before press. The note also records the negative finding
+  already in sources.md: Stasavage carries no Cologne revolt for 1512,
+  which the draft's series includes on other authority.
+- **§III, the Alençon bracket (item (iv)).** OLD: "Bourbon and Alençon
+  retired to their lordships unpunished; and La Trémoille, Chaumont and
+  Prie…". NEW: the clemency dated against its sequel in one clause —
+  the same duke declared "crimineux de crisme de lèse-majesté" in the
+  arrêt of 10 October 1458 (Chastellain t. III: 481 / vol15 PDF 491,
+  verified in the sidecar this date) — with the forward pointer to
+  ch11, which owns the scene. The p. 486 clause reserving "l'artillerie,
+  harnois et autres habillemens de guerre" to the king is NOT quoted
+  here: Decision 21 places it in ch11 §VII, and this chapter points at
+  it rather than spending it.
+- **§V, the casual "legible" (item (i); D18).** OLD: "gives the pattern
+  its most legible fiscal mechanics." NEW: "its plainest fiscal
+  mechanics." The chapter has no other casual instance (searched); the
+  technical sense is not used here, so Scott is cited only in the 1381
+  note.
+- **Ghent 1458 (item (v)) — NOT TAKEN.** Roderick's instruction under
+  Decision 23. The reason is recorded so the decision is traceable: the
+  keys-and-black-clothing scene at pp. 412–13 is a submission, and §V is
+  about resistance to fiscal reach; the image would prove less than it
+  appears to. The pins stay in sources.md unspent.
+- **Flags.** No [GAP] closed; none narrowed. Two verification notes
+  opened, both inside the notes that carry them (Scott's n. 52 secondary
+  and the missing T2 for 1381; Stasavage's pagination). The Harvey,
+  Complaint-transcription, Virgoe and Najemy [GAP]s are untouched, as is
+  the §VI [BRIDGE].
+- **REVIFY-OR-CUT (P43-h).** One item, not hardened: **Scott 1998: 68**
+  is quoted from the copy of record, which is in corpus, but the
+  sentence he quotes rests on a secondary this project has not seen, so
+  the 1381 attribution is carried as his attribution and nothing more.
+  Stasavage is in corpus but unpaginated and is therefore paraphrased
+  and quoted nowhere. Chastellain p. 481 was opened directly. The
+  chapter's older second-hand items (the Complaint's Stow
+  transcription; Kriehn) are unchanged by this run.
+- Voice: no new coinage, image or aphorism; Register A; no bullets in
+  the chapter prose. Draft word count 6,787 → 7,260.
+
+STATUS: Revisions 9 PENDING HUMAN REVIEW (Phase 6 renovation,
+2026-09-29); Revisions 5–8 PENDING as before; Revisions 4 as before.

@@ -284,3 +284,46 @@ Pins verified in the sidecars (sources.md block of this date).*
    1489 and that assemblies France dispensed with were useless for
    credit — are ch10 §III's and ch12 §IV's, and are entered there.
    No spine ruling reached.
+
+## Revisions (2026-09-29 — Phase 6 renovation, PENDING HUMAN REVIEW)
+
+1. **Objection 3 (Scott's 1381) — now visible in the chapter, still
+   unproven.** Under Decision 23 the case enters §I as a [NOTE]: 1381 as
+   the rising against registration itself (Scott 1998: 68), stated as
+   the pattern's ancestor rather than as an instance, with the
+   composition question and the missing T2 both admitted in the note.
+   The grade is unchanged — PLAUSIBLE, UNPROVEN pending Dobson or Hilton
+   — but the objection can no longer be made in the form "the chapter
+   defines its form to leave 1381 out", because the chapter now says
+   where 1381 sits and why it is not counted. Status: NARROWED. The
+   retrieval is the condition of any promotion.
+
+2. **Objection 4 (Stasavage's cleavage) — the sentence the objection
+   forced is now written.** The answer above said what was owed: "in
+   the urban theatres the 'consolidating state' was a creditor
+   oligarchy". §V's new [NOTE] states the cleavage — merchants holding
+   the debt, craft guilds carrying much of the tax that serviced it —
+   with the Cologne series and the 1481 excise trigger, so that the
+   urban risings are shown as distributional fights that the chapter's
+   mechanism nonetheless describes: fiscal reach provoking propertied
+   composition, inside the republic's walls before it ran across a
+   kingdom. Status: ANSWERED IN TEXT, at the footnote level the ruling
+   specified. The paraphrase-only discipline is observed because the
+   corpus copy has no printed pagination.
+
+3. **An objection opened by the Alençon bracket.** §III now dates the
+   1440 impunity against the 1458 arrêt in one clause. A reviewer may
+   say the bracket proves less than it suggests, since the intervening
+   eighteen years contained a civil peace, a war and a conquest, and the
+   change in the crown's instrument is not attributable to the
+   Praguerie's settlement. The chapter agrees, and the clause claims
+   nothing causal: it dates a capability, and ch11 carries the scene and
+   the argument. Status: OPEN BY DESIGN — the claim is chronological,
+   not causal, and should stay that way.
+
+4. **Ghent 1458 declined — recorded so the omission is not read as an
+   oversight.** Roderick's instruction. The scene is evidenced and
+   vivid, and it is a submission rather than a rising; §V is about
+   resistance to fiscal reach, and a reviewer who found the keys and the
+   black clothing in this chapter would be right to ask what they were
+   proving. The pins stay in sources.md unspent.

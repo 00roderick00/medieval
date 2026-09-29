@@ -284,7 +284,16 @@ whose block will hold the master entry.*
   taking online cigarette orders" (pp. 76–77 / PDF 89–90); "the
   router itself has become the censor" (p. 94 / PDF 107); "a
   failure of interest or will, not a failure of power" (p. 89 /
-  PDF 102). Publication 2006; extended, not superseded, by Farrell
+  PDF 102); and the outcome stated as accomplished — "what we once
+  called a global network is becoming a collection of nation-state
+  networks" (p. 149 / PDF 162, sidecar verified 2026-09-29; the pin
+  taken for §III's layered tense at the Phase 6 renovation). ADDED
+  for §V's root paragraph (sidecar verified 2026-09-29): Postel's
+  request of 28 January 1998 that the root's secondaries take the
+  zone from his own machine, "all eight operators complied", and the
+  four servers at NASA, the U.S. military, the Ballistics Research
+  Lab and Network Solutions continuing to recognise the U.S.
+  government as root authority (p. 45 / PDF 58). Publication 2006; extended, not superseded, by Farrell
   & Newman 2019/2023 (below) and Bradford, *The Brussels Effect*
   (2020), which names the effect they describe at pp. 174–76.
   Primaries to retrieve if §V takes the root contest: the Green

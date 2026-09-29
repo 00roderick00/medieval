@@ -915,3 +915,115 @@ recommended; lettering continues the sheet's):**
     - **CONFIRMS / CORRECTS / CONTRADICTS: nothing.** No claim, date,
       figure or name in this chapter is touched by Livres I–VI.
     - No register decision proposed; both pins are apparatus.
+
+17. **(2026-09-29 — Phase 6 renovation: Decisions 13, 19, and the ch04
+    limbs of 12, 16 and 18 — items (aaa), (bbb), (eee), (ccc), (fff),
+    (kk) and (rr). PENDING HUMAN REVIEW.)** The register decisions
+    proposed at Revisions 15 are now carried into draft.md; every
+    sentence changed is recorded here with its pin, and every pin was
+    opened in its sidecar before entry.
+    - **§VI, the funded debt (aaa).** OLD: "…and readily bought and sold
+      (Lane 1973: 150): the first funded sovereign debt in European
+      history, the state converting its propertied citizens into its
+      creditors…". NEW: the superlative withdrawn as untrue — Arras
+      selling annuities from 1241 and Genoa consolidating its debt in
+      1259 into a compera at a nominal eight per cent whose shares the
+      holders were free to sell, so that a market in them followed
+      (Stasavage 2011, chs. 2 and 6; Table 2.1; ch. 6 'Development of
+      Public Credit in Genoa', part0013_split_007) — and Lane's own,
+      narrower claim quoted and attributed in its place: Venice "the
+      first European state to fund its debt so that interest was
+      regularly paid from one fund to all bondholders equally" (Lane
+      1973: 150; verified in the Lane-Venice sidecar, the sentence
+      standing in the Public Debt section pinned at p. 150 in the
+      volume's own contents).
+    - **§VI, legibility (rr, D18's ch04 limb).** OLD: "fiscal legibility
+      of that kind is the precondition of consolidated finance
+      everywhere this book looks". NEW: the term attributed to Scott by
+      name and confined to the fisc, with the cadastral survey as "the
+      precondition of a tax regimen that comprehensively links every
+      patch of land with its owner—the taxpayer" (Scott 1998: 44 / PDF
+      61; verified). No casual use of "legible" occurs elsewhere in this
+      chapter (searched).
+    - **§VI, the Kontors (fff, note limb).** ADDED as a [NOTE] after the
+      Steelyard's privileges: Mattingly's paradox, that the new states
+      "found they could only communicate with one another by tolerating
+      within themselves little islands of alien sovereignty" (quoted in
+      Ruggie 1993: 165 / PDF 28; verified), with the Kontor stated as the
+      commercial member of that family.
+    - **§VI, the emergence claim (bbb).** OLD: "state-form phenomena that
+      emerge wherever scale, commerce and insecurity meet." NEW:
+      "…wherever commerce, insecurity and a scale small enough to be
+      governed by its creditors meet", followed by Stasavage's finding
+      stated against the old triad — supervision close enough to make
+      lending safe required creditors who could sit often enough to
+      watch the spending, so extent was an obstacle to public credit and
+      not a qualification for it — and one clause conceding the northern
+      municipal annuity as the template European borrowing actually
+      followed (Stasavage 2011, ch. 1 'Introduction', part0008_split_000;
+      ch. 2 part0009_split_002). Nothing is quoted from Stasavage: the
+      corpus copy is an EPUB without printed pagination, and a [NOTE] in
+      the text says so and holds the pins for re-verification before
+      press.
+    - **§VI, the control case (eee; joint with ch10 §VI).** OLD: "and it
+      ran all of this with almost no bureaucracy, the Arsenal, the mint
+      and the taxes managed by short-term boards…". NEW: the diagnosis
+      split — what Venice lacked was not permanent armed organisation,
+      since it "also had a large permanent and state-administered navy
+      and may in terms of permanent armed force have ranked number one
+      in Europe in 1500" (Glete 2002: 13 / PDF 22; verified), but
+      fiscal-administrative penetration, where Lane's judgement stands
+      (Lane 1973: 98) — and Stasavage's eighteenth-century cheap credit
+      added as the fiscal leg that consolidated nothing (ch. 2
+      'Economic Explanations', part0009_split_004; paraphrased). The
+      control case now stands with the navy and the credit both in hand,
+      which is the stronger form of the two-variable finding. Wording
+      aligned with ch10 §VI's renovated passage.
+    - **§V, the Chinese comparator (kk, D16's ch04 limb).** OLD: "the
+      Chinese fused model of Chapter 2". NEW: "the Chinese model of
+      Chapter 2, where the state owns the defence primes outright and
+      private entrants reach the top category of work only by licence,
+      the state-owned firms having 'maintained an iron grip on licenses
+      in this domain' (Cheung 2022: 114–15)" (pins verified in the
+      Cheung sidecar). "Fusion" is thereby reserved to the Chinese
+      military-civil programme, matching ch12's renovated wording
+      ("ruled as departments of the party-state").
+    - **§VII, the absorbing force (ccc, D12's ch04 limb).** OLD:
+      "absorbed by fiscally capable centres — unevenly, and fastest
+      where the fisc is deepest, but in every one of the four
+      chapters". NEW: "absorbed by centres that could tax at scale —
+      unevenly, and in every one of the four chapters", with the
+      credit/tax distinction stated once and in ch10 §III's words: what
+      did the absorbing was the power to collect at campaign tempo and
+      not the power to borrow against the future; the city-states held
+      the credit two centuries before any territorial state and it
+      consolidated nothing; the settlement Part II reconstructs was a
+      tax settlement and not a credit one (Stasavage 2011, chs. 1–2,
+      part0008_split_005 and part0009_split_003).
+    - **§VII, Ruggie's two centuries (fff).** ADDED: the objection
+      conceded in his own words — the Italian city-states and the Hanse
+      "in fact were viable political alternatives to the territorial
+      state, fully able to levy taxes and raise armies, for the better
+      part of two centuries", and "In social life, two centuries is no
+      mere time lag" (Ruggie 1993: 156 / PDF 19; verified, spacing
+      restored from the OCR) — and dated: the two centuries are the two
+      centuries before the ratchet, the Kontors and contract polities
+      flourishing across the fourteenth and fifteenth centuries, the
+      Peterhof closed in 1494 and the Steelyard in 1598, neither by
+      battle. Ruggie is engaged as the objector he is, following Spruyt,
+      and not as a strawman.
+    - **Flags.** No flag closed; none opened beyond the Stasavage
+      pagination [NOTE]. The four standing [GAP]s (Caferro; Mallett;
+      Dollinger ×2; Chambers & Pullan; Mueller/Luzzatto) are untouched.
+      REVIFY-OR-CUT under P43-h: none in this chapter — every quotation
+      now standing in §§VI–VII (Lane, Glete, Scott, Cheung, Ruggie,
+      Mattingly via Ruggie) was opened in a sidecar held in the corpus;
+      Stasavage is in corpus but unpaginated, and is therefore
+      paraphrased and quoted nowhere.
+    - Voice: no new coinage, image or aphorism; Register A throughout;
+      no bullets in the draft. Word count of the draft body 3,968 →
+      4,775.
+
+STATUS: Revisions 17 PENDING HUMAN REVIEW (Phase 6 renovation, 2026-09-29);
+earlier Revisions entries PENDING as before; the memo body REVIEWED
+(Roderick, 2026-07-22).
