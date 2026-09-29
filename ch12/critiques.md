@@ -1403,3 +1403,122 @@ STATUS (Revisions 9–20): PENDING HUMAN REVIEW.
       may be used only once the NBER paper is in the repo.
 
 STATUS (Revisions 21): PENDING HUMAN REVIEW.
+
+22. **(2026-09-29 — Phase 6 renovation: which standing objections the
+    renovated text now answers, and the Wolin dating concession recorded
+    as TAKEN. PENDING HUMAN REVIEW.)** No new objection is entered here.
+    This entry records, against the file's existing entries, what the
+    draft now says — because the value of a concession is in the text and
+    not in the file. Every grade already given is preserved unaltered;
+    what changes is the status of the answer. Full draft record at
+    ch12/memo.md Revisions 32.
+
+    - **Revisions 20, Wolin's dating objection — CONCESSION TAKEN, in
+      text, in one clause.** The recommendation was that the book decline
+      to claim that the Cold War defence establishment failed to separate
+      strategic commitments from electoral control, and state instead
+      that the mechanism predicts not the ornamental condition's arrival
+      but its irreversibility. §VIII now says so, and concedes his
+      dating in his own words: he places the separation in the Cold War,
+      when "a 'defense establishment,' comprising the economy, the
+      military, and the state, came into being" (2008: 28), "and he is
+      probably right about it — so that what the mechanism predicts is
+      not this condition's arrival but its irreversibility, the point at
+      which the state's dependence on the decisive layer can no longer
+      be escaped by re-tendering and a budget relation becomes a
+      constitutional one." The first move of the answer is in the text
+      beside it (his state sheds capability — "corporate expansion
+      extends to military functions, a province once jealously guarded as
+      a state prerogative", p. 136 — and the mechanism predicts the
+      reversal of that trajectory). The grade stands as given: PARTLY
+      GOOD, PARTLY A CONCESSION OWED — **and the concession is now paid.**
+      The second and third moves remain where they were: DC-1 takes
+      pp. 286–87 as the null hypothesis (appendix-c's row), and the
+      §8(g)(2) falsifiers continue to score a degree of separation rather
+      than its fact.
+    - **Revisions 21(B), Lepore's three failures — CONCESSION TAKEN, in
+      text.** §IV now states the fiscal limb as requiring that the
+      capability be decisive AND the dependence inescapable, and names
+      the National Data Center, OGAS and Cybersyn in the parenthesis
+      marked for the note, with the reason each fails the second
+      condition. The grade stands (GOOD ON THE SEQUENCE, WEAK ON THE
+      THREE FAILURES) and the weakness is now the boundary of the claim
+      rather than an unanswered counter-example. The obligation the
+      concession creates is stated in the text as the book's own: the
+      present dependence must be shown inescapable, which is DC-4's
+      burden.
+    - **Revisions 21(A), Lepore's direction-of-travel objection — the
+      two disciplines OBSERVED, the objection NOT closed.** She is
+      nowhere enlisted for the absorption verdict; her title collision is
+      disposed of in one sentence at §VIII ("two books sharing a phrase
+      and not an object"); and §IV's instruments continue to rest on
+      their own primaries. The grade stands: ADEQUATE, NO MORE, the
+      answer still arguing from her silences.
+    - **Revisions 18, Goldsmith and Wu's cheap coercion — CONCESSION
+      TAKEN, in text (the layered tense).** The entry required that the
+      concession be made in text: §III now states the reassertion as
+      accomplished for canon and register between 2000 and 2006 by cheap
+      legal coercion of local intermediaries, confines the mechanism's
+      claim over that layer to scale and to fusion with the chokepoint
+      layer, and reserves the fiscal threshold for the decisive stack.
+      Their own scale limit (pp. 81–82) is quoted as the bloc geometry
+      from the legal side. Grades preserved; the objection is now a
+      documented half of the book's own case.
+    - **Revisions 18, McNeill's lag — RISK NOW STATED, ANSWER NOT
+      SUBSTITUTED FOR IT.** §IV carries a paragraph on Liège, Philip II's
+      failed factories and the refuge, concedes the timetable as "the
+      sharpest internal objection this argument has", and puts the book's
+      answer (the bloc settlement as the closure of refuge) beside the
+      risk. The separate Appendix C score for the foundry's pricing power
+      is stated in the text and is **owed in appendix-c** (Decision 27;
+      CC-8; ch11 (jj)). Grade preserved: GOOD ON DIRECTION, EXPOSED ON
+      TIMETABLE — with the exposure now printed.
+    - **Revisions 9, Farrell and Newman's two decades of deputisation —
+      STAGED AS A WAGER, as the entry required, not smoothed.** §IV now
+      states their objection at strength and the book's answer as a
+      narrow wager about instability, with Appendix C scoring it. Their
+      terms are adopted by name and the fifteen-year lag is carried as
+      the book's own inference.
+    - **Revisions 10, Wu's counter-pattern — PARTLY DISCHARGED.**
+      Kingsbury 1913 is acknowledged in the parenthesis at the twelve-case
+      sentence; "and keeps it" is qualified against the 1996–2008
+      reconstitution with the retroactive immunity and the master-switch
+      sentence; and the scoring rule is stated — re-consolidation with
+      the state as client registers as failure. What is not discharged is
+      the Cycle as a claim about durability, which remains his objection
+      and the file's.
+    - **Revisions 11, Scott's brittleness objection — NOW STATED IN HIS
+      WORDS AT FULL STRENGTH.** §III carries the Amsterdam registry and
+      the four-element recipe, states which two elements the book
+      predicts, and declines to treat the absence of the other two as
+      guaranteed, pointing at Appendix C's first failure condition.
+      Naming that condition the Scott scenario is appendix-c's to do.
+    - **Revisions 14, Cheung's four cuts — TWO ABSORBED INTO THE
+      VERDICT.** "Fusion barely begun" and "heavy dependence" are now the
+      unexecuted-seam and dependent-chokepoint layers of §IV's own
+      verdict, in his sentences; and the book states as its own finding
+      that the Chinese state has subordinated its private barons and not
+      its state-owned ones. The word "fusion" is retired where it named
+      the Chinese absorption mode, which removes the false-cognate risk
+      the entry identified. The remaining two cuts (the consolidator
+      consolidated before the price moved; the American model winning
+      without absorbing its firms) stand.
+    - **Revisions 15, Crouch's derivative-coinage objection — ANSWERED
+      ON THE CONDITIONS, and the coinage now claimed unconditionally.**
+      The term is introduced as a special case of post-democracy, the
+      adjective clause names all three checked texts, the predecessors
+      are named in one sentence with three objects, and the pins are
+      re-set to the 2004 book with the two pamphlet-only sentences
+      labelled. The two sharpest Crouch passages this file relies on
+      ("institutional idiot"; "impossible to see any major reversal")
+      remain cited to the 2000 pamphlet because the 2004 scan does not
+      hold them, and the completion retrieval stands.
+    - **Revisions 19, Ruggie's null, Ertman's exclusion and Schmitt's
+      rival cause — ALL THREE NOW IN THE TEXT WHERE THEY BEAR.** The EU
+      parenthesis names Ruggie's "no indication … of a federal state of
+      Europe" and Ertman's confederal exclusion; the Schmitt paragraph
+      states the 1939 provenance and the substance disanalogy in one
+      place, which is the obligation this entry set. His rival cause
+      remains ch10's critiques' to carry.
+
+STATUS (Revisions 22): PENDING HUMAN REVIEW.

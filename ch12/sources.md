@@ -2017,3 +2017,64 @@ critiques.md Revisions 21, and the register decisions rulings-sheet rows
   datum can be cited to its primary under the standing use-note, or
   dropped. The association is an inference from note sequence in a
   damaged OCR and is **not** yet a citation.
+
+## Added 2026-09-29 — Phase 6 renovation (pins used in draft.md; one pin added, one flag closed, two retrievals opened)
+
+*Filed at the Phase 6 renovation (memo Revisions 32). No new work enters
+the corpus here. Every pin listed was re-opened at its sidecar this run
+before the quotation entered draft.md; the entries above govern the
+offsets and the use-notes, and this block records only what the chapter
+now uses and the three changes to the record.*
+
+- **PIN ADDED — Goldsmith & Wu 2006, p. 73.** The 2026-09-16 block's pin
+  list did not carry it. The sentence "service providers who are already
+  some of the most regulated companies on earth" was located at the
+  sidecar this run (`text-2026-09-14/Goldsmith-Wu.txt`, between the page
+  markers 72 and 73, i.e. printed p. 73) and now carries §III's
+  intermediary-coercion clause. The other §III pins are from the list
+  already filed: pp. 68, 76–77, 81–82, 94, 149; and pp. 9, 96 (the 2002
+  Public Pledge) carry §IV's Chinese canon layer.
+- **Pins used this run, against the entries above.** Farrell & Newman
+  2019 — pp. 54, 55–56, 58 (§III, the chokepoint attribution at first
+  technical use; §IV, the scope condition quoted); 2023 — chapter2
+  (unchanged) and **chapter3, the welding sentence** (§IV, the
+  fifteen-year lag). Scott 1998 — pp. 5 (the four elements), 78 (the
+  Amsterdam registry and the feed-or-deport judgement) (§III). McNeill
+  1982 — pp. 113, 114 (§IV, the Liège lag). Wu 2010 — ch. 3 (Kingsbury),
+  ch. 18 (the reconstitution and the master switch) (§IV). Cheung 2022 —
+  pp. 114–15, 116, 172, 295, 298 (§IV, the layer-by-layer verdict).
+  Schmitt 1950/2003 — pp. 258 (the 1930 rehearsal, in the EU
+  parenthesis), 281, 354–55 (the *Großraum* and the three
+  possibilities), with the 1939 title from the sidecar's front matter
+  (§IV). Ruggie 1993 — p. 172 (the EU null). Ertman 1997 — p. 5 n. 13
+  (the confederal exclusion). Glete 2002 — pp. 149, 171 (the from-below
+  third branch and the two navies); pp. 122–26, 139, 194, 195, 212
+  unchanged in the close. Krasner 1999 — pp. 20, 29, the word now
+  ADOPTED with the extension stated in text. Wolin 2008 — pp. 28, 44,
+  47, 136, 185, 228–29, xvi (§IV's indicator and §VIII's
+  rival-diagnosis and dating-concession sentences). Crouch — **2004:
+  6, 16–17, 18, 21, 22, 52** now carry what the pamphlet carried, with
+  2000: PDF 5–6, 14, 20, 32 kept for the sentences the 2004 scan does
+  not hold and labelled in the text as the Fabian typescript. Lepore —
+  printed pp. xv, 5, 38, 59, 62, 94, 222 / PDF pp. 7, 15, 49, 70, 73,
+  107, 238, every one read at the running head this run, **all
+  provisional, no imprint or year stated anywhere in the draft**; her
+  sheared printed p. 107 is NOT used and remains PENDING VERIFICATION.
+- **[GAP: Wolin] CLOSED IN THE DRAFT.** The 2026-09-16 intake block
+  recorded the flag as discharged in the record while it stood in
+  draft.md "until the renovation removes it on Roderick's ruling". Sheet
+  III Decision 1 (choice A) is that ruling: the sentence and the bracket
+  are gone from §VIII, replaced by the rival-diagnosis sentence. No
+  [GAP] remains in this chapter.
+- **RETRIEVAL LIST, two rows opened by this pass.**
+  1. **The 2025 federal AI agenda (ai.gov) — the plan's own text**, for
+     §IV's deregulatory strand. Decision 6 asks that the strand be
+     sourced to the plan rather than to Lepore; the plan is not in this
+     chapter's sources as a T1 entry, so the sentence carries her clean
+     printed p. 222 / PDF p. 238 as the quoted carrier with "[RETRIEVAL
+     — the primary before press]" in the text. **HIGH, and the sentence
+     should not go to press on a T3 carrier alone.**
+  2. **Mann-Elkins Act (1910) and the Kingsbury letter (1913)**, for
+     §IV's acknowledged counter-directional case. Wu 2010 ch. 3 carries
+     it at T3 and the primaries are owed; already named at the
+     2026-09-16 block's (oo) note and now flagged in the text.
