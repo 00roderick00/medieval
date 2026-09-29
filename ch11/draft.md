@@ -538,7 +538,7 @@ military-fiscal states, the Ottoman experience was military
 devolution" (p. 123). The chain ran — weapon, coin, treasury — and its
 output was a new stratum of intermediaries. Devolution is what the
 mechanism predicts when its fiscal condition is never met: a
-settlement made without the cash settlement of the 1439–46 kind,
+settlement made without the cash settlement of the 1439–51 kind,
 converted to it late and in crisis, re-dispersed power in the
 converting. It is also a failure mode the book had not imagined before
 this reading, and the one the platform chapters should fear most —

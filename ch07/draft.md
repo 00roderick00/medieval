@@ -294,7 +294,8 @@ holds at tertiary strength until the act's own text is read, the
 taille to pay for the king's soldiers, a tax whose permanence was
 in the event made by practice across the 1440s rather than granted
 at Orléans (ordonnance of 2 November 1439; the settlement of
-1439–46). Every clause of the military monopoly cut something away
+1439–51, its permanence founded on the taille des gens de guerre of
+1451). Every clause of the military monopoly cut something away
 from somebody. The great princes
 lost their private armies; the free captains — the écorcheur
 entrepreneurs of Chapter 3's world — lost their market; and the

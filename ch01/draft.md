@@ -466,7 +466,18 @@ shown them doing what this book's frame predicts connective
 tissue does when the underlying loads shift — transmitting the
 pressures of the states and the platforms, not restraining
 them. The disaggregated state was not the destination. It was
-the condition on which the next consolidation will operate. The
+the condition on which the next consolidation will operate — and the
+tense in which that is said has to be split, because one half of the
+reassertion has already happened and the other has not. Over the
+canon and the register it is done, and it was done cheaply: between
+2000 and 2006 the territorial state came back to the network by
+ordinary law applied to local intermediaries, "by cost and bother,
+not by hermetic seal", and without laying a finger on the sellers
+themselves (Goldsmith and Wu 2006: 68, 76–77). No new revenue was
+raised to do any of it. Over the decisive layer — the foundries, the
+constellations, the compute, the munitions base — nothing of the kind
+has been accomplished, and the book's claim there is a requirement
+rather than a record. The
 difference between the two readings is not temperamental but
 testable, and the test is the one this book applies everywhere:
 follow the capacity. If the networked order were architecture, one

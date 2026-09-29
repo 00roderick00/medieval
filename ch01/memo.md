@@ -1030,3 +1030,19 @@ PDF − 137, Krasner printed = PDF − 10, Tilly printed = PDF + 600.
 STATUS: PENDING HUMAN REVIEW (this entry — the Phase 6 renovation of
 2026-09-29); earlier entries PENDING as before; the memo body REVIEWED
 as before.
+
+### Phase 6, Part D addendum (2026-09-29, by the coordinating pass; PENDING HUMAN REVIEW)
+
+**Decision 7's ch01 §V limb, applied here because no unit claimed it.** The
+Part C5 unit reported it as assigned to Part A3 and therefore outside its
+scope, and the A3 items had been distributed to the chapters that carry
+them; §V was the one that fell between. OLD: "The disaggregated state was
+not the destination. It was the condition on which the next consolidation
+will operate." NEW: the same two sentences, then the split tense — over the
+canon and the register the reassertion is done and was done cheaply,
+between 2000 and 2006, by ordinary law applied to local intermediaries,
+"by cost and bother, not by hermetic seal" and "without ever laying a
+finger on online sellers" (Goldsmith and Wu 2006: 68, 76–77, both pins
+already verified in this chapter's sources.md entry of 16 September), with
+no new revenue raised; over the decisive layer nothing of the kind has been
+accomplished, and the claim there is a requirement rather than a record.

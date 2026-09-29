@@ -2304,3 +2304,14 @@ STATUS: REVIEWED (Roderick, 2026-07-31 — read in full, nothing to add; no revi
 
 STATUS: PENDING HUMAN REVIEW (this entry); earlier entries PENDING as before;
 the memo body REVIEWED as before.
+
+### Phase 6, Part D addendum (2026-09-29, by the coordinating pass; PENDING HUMAN REVIEW)
+
+**Decision 12's date, applied for manuscript consistency.** The ch08 unit
+flagged the risk that the book would run two dates for the settlement, ch10
+and the Coda having moved to 1439–51 while other chapters still read
+1439–46. Every remaining instance in a draft body was read in context and
+changed only where the settlement's COMPLETION is meant; instances inside
+footer Revisions entries are left, being records of what changed. The
+change in this chapter is recorded in the report
+research/phase6-renovation-report-2026-09-29.md under "Part D".

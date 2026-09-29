@@ -486,9 +486,10 @@ proclaimed again and again.
 
 Set the dates against Part II's spine and the sequence holds, in
 the terms in which it can hold. The monopoly of force is claimed
-in 1439; the companies stand from 1445; the tax hardens into
-permanence across the same seven years — the settlement of
-1439–46; the train runs from 1449; and the courts, councils,
+in 1439; the companies stand from 1445; the train runs from 1449;
+the tax hardens into permanence only with the taille des gens de
+guerre of 1451 — the settlement of 1439–51, the guns arriving before
+the fisc closed behind them; and the courts, councils,
 constabularies and abolitions arrive in the two generations
 *after* — 1470s to 1540s — precisely where the fiscal-military
 consolidation had laid the substrate. The claim is about

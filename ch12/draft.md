@@ -348,7 +348,7 @@ interdiction of contraband oil from 1935; the licence-and-block
 powers of 1917, 1941 and 1977 — by regulation, not antitrust. The
 republic decouples in one act and acquires control across decades,
 and what it acquires it keeps; the American settlement of its oil barons
-was made the way the French settlement of 1439–46 was made, as
+was made the way the French settlement of 1439–51 was made, as
 practice hardening into permanence, the dramatic act neither the
 beginning nor the end. Senator Sherman had stated the principle in
 the instrument's own legislative record, in words a

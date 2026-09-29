@@ -69,7 +69,16 @@ turn*. Between the two arguments stands the present condition, which
 a serious scholarly literature spent fifty years naming: the new
 medievalism — the observed return of overlapping authority and
 multiple loyalty, of private force and plural law and universal
-institutions that answer to no territory. This book accepts that
+institutions that answer to no territory. The name is Hedley Bull's,
+and it arrived later than the intuition: Tilly, writing two years
+earlier, relayed the suggestion that the multinational corporation
+was superseding the national state as a repository of power and
+closed his own volume with the thought that we might, unknowing, be
+writing obituaries for the state (Tilly 1975: 630, 638), and John
+Herz had put the territorial state's rise and demise into play as
+early as 1957 [^0-3]. Bull
+named the condition and tested it; he did not invent the suspicion.
+This book accepts that
 literature's diagnosis almost entirely. Its quarrel is with the
 literature's tense. The dispersal is real; it is also, on the
 evidence assembled here, the middle of an arc whose ending has
@@ -82,7 +91,7 @@ Chapter 6 quotes in its Latin. At Harfleur, in the December cold of
 *the walls and the minds of the besieged* from foot to summit, and
 fifteen hundred defenders whose wall had not been breached opened
 the gates on terms that let them keep their goods and their liberty
-[TRANS. CLAUDE] [^0-3]. The sentence names what the mechanism works on
+[TRANS. CLAUDE] [^0-4]. The sentence names what the mechanism works on
 besides masonry: a technology that changes the price of holding out
 changes the reckoning of those who must decide whether to hold.
 [BRIDGE — PROPOSED: Roderick's thought (spine §8(h)(z)), drafted as
@@ -123,7 +132,23 @@ that happens: by building the fiscal, administrative and legibility
 apparatus that the new price demands, and by beginning — half
 consciously, in the American case; deliberately, in the Chinese —
 to subordinate every intermediate authority that stands between the
-centre and the capability. The scene is left deliberately
+centre and the capability. *Legibility* is James C. Scott's word, and
+the debt is best acknowledged at its first use: the capacity of a
+state to see its subjects and their holdings in a standard, countable
+form, which he traced to "the pressing material interests of rulers:
+fiscal receipts, military manpower, and state security" and set
+against the premodern state, "in many crucial respects, partially
+blind" (Scott 1998: 2, 24). One half
+of that apparatus is further along than the other, and the difference
+matters. The legibility layer — which
+rules count, who is who, which payments clear — was substantially
+taken back between 2000 and 2006, and taken back cheaply, by ordinary
+law applied to local intermediaries rather than by any new tax, until
+what had been a global network became "a collection of nation-state
+networks" (Goldsmith and Wu 2006: 68, 149; Farrell and Newman 2019:
+54). The decisive layer is the one that costs money, and there the
+reassertion is compelled and unaccomplished: a requirement, not yet a
+record. The scene is left deliberately
 underdetermined, because in 1445 it was underdetermined too. Nobody
 at Louppy-le-Château knew they were founding the modern state. The
 ordonnance that did it is lost.
@@ -149,7 +174,7 @@ separately. The first is that the independent technological powers
 are subordinated to the state — the mechanism. The second concerns
 the constitutional form of the state that absorbs them, and that
 form the book holds open: in the democratic bloc the absorbing state
-may be democratic, or it may be what Chapter 12 will call
+may be democratic, or it may be what Chapter 12, §VIII will call
 *ornamentally democratic* — its legitimating authority demonstrably
 separated from effective control over its strategic commitments —
 and the barons' loss of independence and the people's acquisition of
@@ -227,7 +252,7 @@ C's).
 > waived;
 >
 > **7.** courts issue remedies that change the stack's operations
-> and not only its paperwork;
+> rather than punish them after the fact, and not only its paperwork;
 >
 > **8.** public institutions prove capable of replacing an
 > essential supplier without that supplier's consent
@@ -262,6 +287,29 @@ conditions so that it can fail in the same way. And the fifteen-year
 horizon is kept from the book's first outline: long enough for the
 moves to run, short enough that the author expects to be marked.
 
+One discipline travels with the passage, and the fifteenth century
+supplies its specimen. In the winter of 1457–58 the astrologers about
+Charles VII's court gave the king a fixed term — by judgement of
+astronomy he would die and "ne passeroit point le mois de mars", would
+not outlast the month of March — and the dauphin and the duke of
+Burgundy, who had each rejoiced, "furent trompés tous
+deux", were both deceived, for the king lived on [TRANS. CLAUDE]
+(Chastellain, ed. Kervyn 1863: iii. 444, 446; the episode in full at
+Chapter 12). The failed prediction was the astrologers' and the
+princes', not the chronicler's; Chastellain's own forecasting was of
+the safer
+kind, for the comet of 1456 portended war, tribulation and the death
+of high princes — "posé que elles ne soient approuvées, ne tenues à
+nécessaires", granted these things are neither proven nor held to be
+necessary [TRANS. CLAUDE] — and two years later, when two princes
+died in one season, the comet was found to have shown itself, not
+without mystery, the season before (pp. 117, 387). The astrologers'
+term expired and could be marked wrong. The chronicler's comet
+survived by changing its referent and was never falsifiable at all,
+which is the discipline this book refuses: the conditions above are
+dated, they name the blocs they apply to, and they are not re-dated
+after the fact.
+
 ## IV.
 
 Three objections deserve answers before the first chapter rather
@@ -278,7 +326,7 @@ representation of chaos" — and carried an image that has outlived
 the essay: "Think of a stretch limo in the potholed streets of New
 York City…" — the gated rich inside, the rest of humanity outside
 — an image that is, the attribution matters, Thomas Homer-Dixon's,
-quoted and adopted by Kaplan [^0-4].
+quoted and adopted by Kaplan [^0-5].
 The Coming Anarchy did not come, or came only where it was already
 resident; the genre's record is the objection, and this book's
 answer is method, not indignation. The book does not argue from
@@ -294,7 +342,7 @@ political theory's Middle Ages is a fairyland — in Holsinger's
 words, neomedievalism as "the global idiom of the non-state actor,"
 and the international-relations variant "a frightening lens on to
 the ultimate co-optability of academic theorising into a regressive
-and destructive political culture" [^0-5]; Rengger's version asks whether the
+and destructive political culture" [^0-6]; Rengger's version asks whether the
 new Middle Ages could be anything but "its calamitous predecessor"
 [GAP: Rengger's chapter is gated; the fragment is carried via a
 named intermediary and his argument is not paraphrased further
@@ -372,10 +420,11 @@ first chapter opens the books.
 #### Notes
 [^0-1]: Pollard, ch. 1, p. 1
 [^0-2]: Pollard, ch. 1, p. 1
-[^0-3]: Blondel, in Stevenson 1863: 152; the Latin at
+[^0-3]: Herz 1957, as cited at Ruggie 1993: 143 n. 23
+[^0-4]: Blondel, in Stevenson 1863: 152; the Latin at
 Chapter 6, §IV
-[^0-4]: Kaplan 1994; the limo Homer-Dixon's
-[^0-5]: Holsinger, punctum-carried page
+[^0-5]: Kaplan 1994; the limo Homer-Dixon's
+[^0-6]: Holsinger, punctum-carried page
 cites, re-verify on purchase
 
 
@@ -414,8 +463,8 @@ That recognition is this chapter's subject, and the book's point of
 departure. The intuition that our world has come to resemble the
 Middle Ages — plural, overlapping, contractual, its loyalties divided
 among bodies none of which commands the whole person — is not new,
-and this book did not invent it. It has a founding text, a careful
-literature, and a name: the new medievalism. The discipline of this
+and this book did not invent it. It has a text that named it, a
+careful literature, and a name: the new medievalism. The discipline of this
 chapter is to take that literature on its own terms — to state its
 diagnosis at full strength, run its tests against the present, and
 accept what the tests show — before the rest of the book does what
@@ -423,8 +472,10 @@ the literature never did. For the neomedieval writers described a
 condition. They did not ask, with any persistence, how the *first*
 medieval condition was locked shut — by what specific mechanism
 Europe's overlapping authorities were, over one long century,
-hammered into the exclusive territorial states we mistake for
-nature. That question
+hammered into the states we mistake for nature — polities that had
+subordinated the armed authorities standing between crown and
+subject and monopolised the fiscal capacity for decisive force.
+That question
 is Part II's, and its answer is the book's. This chapter only earns
 the right to ask it: by establishing that the condition is real, that
 the diagnosis is sound, and that the thing being diagnosed has
@@ -438,11 +489,22 @@ the year 1200, before the settlement this book will call an episode.
 
 The governing fact of that world is the one modern political
 instinct finds hardest to hold: authority was real, dense,
-law-governed — and nowhere exclusive. Perry Anderson's description
-remains the standard one: a "patchwork of overlapping and incomplete
-rights of government… inextricably superimposed and tangled," in
-which "plural allegiances, asymmetrical suzerainties and anomalous
-enclaves abounded" [^1-2]. No one in 1200
+law-governed — and nowhere exclusive. The description that has become
+standard is worth taking apart, because the international-relations
+literature has carried it for forty years as one man's sentence and it
+is a composite of two. The "patchwork of overlapping and incomplete
+rights of government" belongs to Strayer and Munro's textbook of 1959,
+from which Ruggie quoted it [^1-2]; the phrases that follow — authority
+"inextricably superimposed and tangled", a world in which "plural
+allegiances, asymmetrical suzerainties and anomalous enclaves
+abounded" — are Perry Anderson's [^1-3]; and the canonisation that made the composite the discipline's
+standing description of the Middle Ages was performed not in the 1993
+article everyone cites but in Ruggie's *World Politics* piece of 1983,
+which is what Kobrin and Zielonka cite in their turn [^1-4]. [PENDING VERIFICATION: Anderson's page 37 is not in this book's
+corpus, and it remains possible that he is himself quoting Strayer and
+Munro there; until the page has been seen this sentence carries both
+attributions and claims nothing about which of them coined the phrase.]
+No one in 1200
 was confused by this. A burgher of a free city might owe civic duty
 to his commune, spiritual obedience to his bishop, commercial law to
 his merchant guild's usages, and ultimate — largely notional —
@@ -491,7 +553,7 @@ collided, which is why its politics was a politics of boundary
 dispute, privilege, exemption and appeal. Second, the plurality
 was durable. It reproduced itself for centuries; contemporaries
 did not experience it as transitional; and no internal tendency
-was visibly carrying it toward the exclusive territorial state —
+was visibly carrying it toward the territorial state in particular —
 a point on which the neomedieval theorists and this book agree,
 and on which everything turns. Joseph Strayer would enter a
 dissent here, and it is recorded: on his account England and
@@ -537,8 +599,35 @@ adequately.
 ## III.
 
 The theorists next — in order of their arrival, because the order
-is itself instructive: the founder first, doubting his own
-hypothesis; the systematiser a generation later, rebuilding it.
+is itself instructive: the man who named the condition first,
+doubting his own hypothesis; the systematiser a generation later,
+rebuilding it.
+
+Naming is not noticing, and the record should be straight about
+which Bull did. Two years before *The Anarchical Society*, Charles
+Tilly — the founder of the school that holds that war made the
+state, and the authority this book cites more than any other — had
+the thought already, and gave it a technological cause. The
+individual state, he wrote, "may be losing part of its
+significance", authority moving "toward the regional grouping and
+the compact of superstates above, toward the subnational region,
+ethnic population, or racial group below", because "control of a
+contiguous territory was peculiarly advantageous to the land- and
+water-bound technologies of the European state-making eras, but an
+obstacle to full exploitation of technologies of flight, electric
+power and electronic information-handling"; and then, flatly:
+"Perhaps, unknowing, we are writing obituaries for the state"
+(Tilly 1975: 638). Ruggie's notes point further back still, to John
+Herz's "Rise and Demise of the Territorial State" of 1957, where the
+disperser was the nuclear weapon [^1-5]. Bull
+supplied the name, the literature, and the discipline of doubting
+his own hypothesis; he did not supply the intuition. The priority is
+worth conceding rather than defending, because it improves the
+book's position: the technologies Tilly named in 1975 as obstacles
+to territorial control are the ones Part III will argue now
+re-concentrate decisive force in the hands of whoever can pay for
+it, which makes the argument a reply to bellicism's founder on his
+own ground and not merely a correction of Bull's caution.
 
 Hedley Bull entertained the idea in 1977, in the tenth chapter of
 *The Anarchical Society*, as one of several alternatives to the
@@ -550,18 +639,18 @@ Ages" — for while a return to the theocratic original would be
 fanciful, "it is not fanciful to imagine that there might develop
 a modern and secular counterpart of it that embodies its central
 characteristic: a system of overlapping authority and multiple
-loyalty" [^1-3].
+loyalty" [^1-6].
 The five trends he weighed as prima facie evidence sit not in the
 tenth chapter but in the eleventh — "The Decline of the States
 System?" — under numbered headings: the regional integration of
 states; the disintegration of states; the restoration of private
 international violence; transnational organisations; and the
-technological unification of the world [^1-4]. And then — the
+technological unification of the world [^1-7]. And then — the
 honesty for which this book keeps returning to him — he weighed
 his own five trends and declined the conclusion, in a verdict now
 quotable exactly: "there is no clear evidence that in the next
 few decades the states system is likely to give place to any of
-the alternatives to it that have been nominated" [^1-5]. The book's
+the alternatives to it that have been nominated" [^1-8]. The book's
 relation to that caution was fixed in the Introduction and bears
 restating in one line: Bull's doubt was correct for his decade.
 The five trends were, in 1977, weak signals. Every one of them is
@@ -618,12 +707,35 @@ than the paragraph above meets as drafted. The delta is for
 Roderick's judgment at the rewrite: restate the crossing against
 Bull's actual tests, or qualify the claim.]
 
+[DELTA — PROPOSED ANSWER, entered 2026-09-29 for Roderick's decision;
+the paragraph above is his and is untouched. Ruggie denies that
+substitutability is the right test at all, which if accepted dissolves
+the demand rather than meeting it: "There is an extraordinarily
+impoverished mind-set at work here, one that is able to visualize
+long-term challenges to the system of states only in terms of entities
+that are institutionally substitutable for the state", and "The
+theoretical or historical warrant for that premise has never been
+mooted, let alone defended" [^1-9]. His demonstration is
+the medieval fair, which substituted for nothing and undid feudal
+authority regardless: "In no sense could the medieval trade fairs have
+become substitutes for the institutions of feudal rule. Yet, the fairs
+contributed significantly to the demise of feudal authority relations"
+(p. 155). On that reading the test this book applies is not whether
+the new authorities replace the state but whether the state ends by
+subordinating them or by accommodating them — subordination, not
+substitutability. The proposal is therefore to answer the delta by
+replacing the "new units" limb rather than by satisfying it, on the
+ground that the limb is a reconstruction from Bull's per-trend
+reasoning and not a test he states, so it is the book's own and may be
+rewritten as the book's own. Roderick's text above stands until he
+rules.]
+
 Jörg Friedrichs supplied, a generation later, the analytical
 engine the intuition had lacked, and his article is now in this
 book's corpus and cited first-hand. His definition: the medieval —
 and neomedieval — order is "a system of overlapping authority and
 multiple loyalty, held together by a duality of competing
-universalistic claims" [^1-6]. The load-bearing word is
+universalistic claims" [^1-10]. The load-bearing word is
 *duality*. What held the medieval lattice together, on this
 account, was not an equilibrium of fragments but the standing
 competition of two universalisms — Empire and Church, each
@@ -632,12 +744,12 @@ absorb the other — beneath whose contest the plural lesser
 authorities found their room to exist. And the modern translation:
 our own order is "held together by the competing universal claims
 of the nation-state system and the transnational market economy"
-[^1-7] — the territorial universalism
+[^1-11] — the territorial universalism
 of the states, the non-territorial universalism of the market,
 Empire and Church in modern dress. Friedrichs is careful about
 the limits of the mapping — the medieval system was "based on
 legal and spatial concepts," the neomedieval one on functional
-linkages [^1-8] — and the book preserves his
+linkages [^1-12] — and the book preserves his
 care. But one amendment is entered now, in passing, because Part
 I exists to argue it: this book will contend, in the next
 chapter, that Friedrichs's second universalism is misdescribed as
@@ -658,7 +770,7 @@ institutions; the lack of exogenous territorialising pressures;
 the uneven consolidation of new spaces, cleavages, conflicts and
 inequalities; fragmented identities; contested property rights;
 and the spread of *zones grises* — grey zones, the coinage is
-Alain Minc's, as Cerny's own note records [^1-9]. Run the checklist against the 2020s, characteristic by
+Alain Minc's, as Cerny's own note records [^1-13]. Run the checklist against the 2020s, characteristic by
 characteristic, with the evidence graded as this book grades
 everything.
 
@@ -666,7 +778,7 @@ everything.
 European Commission designated six firms — five of them American,
 one Chinese — as "gatekeepers" under the Digital Markets Act,
 subjecting the core architecture of their products to a regulatory
-code written by a polity in which none of them is domiciled [^1-10]. The same data, meanwhile, may sit
+code written by a polity in which none of them is domiciled [^1-14]. The same data, meanwhile, may sit
 simultaneously under the European GDPR, the American CLOUD Act,
 and the Chinese PIPL — three territorial legal orders issuing
 partially contradictory commands to one non-territorial entity,
@@ -682,7 +794,7 @@ and the book wants the reader to stare directly at why. Cerny's
 own section names what the absent pressure once was: "the
 inter-dynastic struggles of the Hundred Years' War" — the
 external, existential, consolidating force that squeezed the
-first plural order into states [^1-11]. Since 2022 that
+first plural order into states [^1-15]. Since 2022 that
 species of pressure has visibly begun returning: a land war on
 the continent, rearmament, alliance consolidation, the
 re-militarisation of frontiers. Read one way, this falsifies the
@@ -718,7 +830,7 @@ invented.
 
 *Contested and entrenched property rights.* By the end of 2023
 the cumulative count of treaty-based investor–state arbitrations
-reached 1,332 [^1-12] — thirteen hundred instances of
+reached 1,332 [^1-16] — thirteen hundred instances of
 property claims prosecuted against sovereigns in fora the
 sovereigns cannot dissolve; Katharina Pistor's account of capital
 as legal code supplies the frame. The much-quoted estimate that
@@ -765,7 +877,18 @@ shown them doing what this book's frame predicts connective
 tissue does when the underlying loads shift — transmitting the
 pressures of the states and the platforms, not restraining
 them. The disaggregated state was not the destination. It was
-the condition on which the next consolidation will operate. The
+the condition on which the next consolidation will operate — and the
+tense in which that is said has to be split, because one half of the
+reassertion has already happened and the other has not. Over the
+canon and the register it is done, and it was done cheaply: between
+2000 and 2006 the territorial state came back to the network by
+ordinary law applied to local intermediaries, "by cost and bother,
+not by hermetic seal", and without laying a finger on the sellers
+themselves (Goldsmith and Wu 2006: 68, 76–77). No new revenue was
+raised to do any of it. Over the decisive layer — the foundries, the
+constellations, the compute, the munitions base — nothing of the kind
+has been accomplished, and the book's claim there is a requirement
+rather than a record. The
 difference between the two readings is not temperamental but
 testable, and the test is the one this book applies everywhere:
 follow the capacity. If the networked order were architecture, one
@@ -799,14 +922,39 @@ narrative suggests: Osiander's demolition of the "Westphalian
 myth" shows the 1648 treaties concerned overwhelmingly with the
 Holy Roman Empire's internal constitution — the sovereign-state
 reading is a nineteenth- and twentieth-century retrojection
-[^1-13]; Teschke's *Myth of 1648* pushes the emergence
+[^1-17]; Teschke's *Myth of 1648* pushes the emergence
 of genuinely modern territorial sovereignty later still
-[^1-14]. The contrary position exists and is named:
+[^1-18]. The contrary position exists and is named:
 Latham reads late-medieval and early-modern sovereignty as
 variation on a theme rather than difference in kind — on which
-account the "anomaly" framing overstates. The book does not
-need the strong version. It needs only what both sides of that
-dispute concede: that the exclusive territorial state was
+account the "anomaly" framing overstates. A sharper objection than
+Latham's has to be met before the claim is safe, and meeting it makes
+the claim better. Stephen Krasner's finding is that exclusivity was
+never anybody's practice: "the principles associated with both
+Westphalian and international legal sovereignty have always been
+violated", and neither "has ever been a stable equilibrium from which
+rulers had no incentives to deviate" (Krasner 1999: 24); "There has
+never been some ideal time during which all, or even most, political
+entities conformed with all of the characteristics that have been
+associated with sovereignty—territory, control, recognition, and
+autonomy" (p. 238). If what was locked in the long fifteenth century
+were exclusivity, Krasner has shown there was nothing to lock. But the
+lock was a different thing, and it sits in a cell of his own grid that
+he expressly leaves empty — he offers "no explanation for the
+displacement of other institutional forms" (p. 5) — because what Part
+II demonstrates is not external purity but internal hierarchy: the
+armed authorities standing between crown and subject subordinated, and
+the fiscal capacity for decisive force monopolised. The word
+"exclusive" is therefore not a word this book leans on, except where a
+writer of standing is being quoted on the doctrine of rule rather than
+the record of it. Ruggie is that writer, and the doctrine is owed its
+one statement: the modern system of rule, he holds, "has differentiated
+its subject collectivity into territorially defined, fixed, and
+mutually exclusive enclaves of legitimate dominion" [^1-19].
+That is the claim the period made for itself. The claim this book
+makes is smaller, and the evidence for it is better. So the book does
+not need the strong version. It needs only what both sides of that
+dispute concede: that the consolidated territorial state was
 *made*, under pressure, out of something else — and what is
 made under pressure can be remade when the pressures change.
 The state is not the default of European politics; it is an
@@ -820,11 +968,11 @@ treats the five-hundred-year interruption as background. But
 the interruption is the interesting part. Something locked the
 first medieval order shut: some force, operating in identifiable
 decades, made the overlapping authorities of 1200 into the
-exclusive sovereignties of 1700 — annexed the universalisms,
+consolidated sovereignties of 1700 — annexed the universalisms,
 disarmed the lords, subordinated the cities, and para-
 doxically produced, out of the densest plurality in European
-history, the most exclusive form of political authority ever
-devised. The verb is chosen with care. The plural order was not
+history, the most internally hierarchical form of political
+authority Europe had yet devised. The verb is chosen with care. The plural order was not
 ended; what was locked was the overlapping of authorities
 *within* a territory, and the plurality *between* the units so
 made hardened as it happened. Walter Scheidel's long view is the
@@ -862,29 +1010,36 @@ been, once already, a matter of record.
 #### Notes
 [^1-1]: UNCTAD ISDS records; Honduras voided the enclave statute on 20
 September 2024
-[^1-2]: Anderson 1974: 37–38; canonised for the
-international-relations literature by Ruggie 1993
-[^1-3]: Bull [1977] 2012: 245 — quoted direct; every citation in
+[^1-2]: Strayer and Munro 1959: 115, quoted in
+Ruggie 1993: 149 n. 55
+[^1-3]: Anderson 1974: 37–38, at Ruggie's
+n. 56
+[^1-4]: Ruggie 1993: 149
+n. 57
+[^1-5]: Ruggie 1993: 143 n. 23
+[^1-6]: Bull [1977] 2012: 245 — quoted direct; every citation in
 this chapter formerly carried via Baaz is now to the copy in this
 book's corpus, whose pagination matches the earlier printings
-[^1-4]: Bull [1977] 2012: 248–66;
+[^1-7]: Bull [1977] 2012: 248–66;
 the intermediaries' habit of citing the whole run to "ch. 10"
 flattened a structure this book now restores
-[^1-5]: Bull [1977]
+[^1-8]: Bull [1977]
 2012: 265
-[^1-6]: Friedrichs 2001: 475; argued as a
+[^1-9]: Ruggie 1993: 143
+[^1-10]: Friedrichs 2001: 475; argued as a
 redefinition at 482, restated at 490
-[^1-7]: Friedrichs 2001, verbatim in-file
-[^1-8]: Friedrichs 2001: 497
-[^1-9]: Cerny 1998: 45–57 and
+[^1-11]: Friedrichs 2001, verbatim in-file
+[^1-12]: Friedrichs 2001: 497
+[^1-13]: Cerny 1998: 45–57 and
 n. 16; the war-college-tested five-fold restatement is Cerny
 2005
-[^1-10]: EU
+[^1-14]: EU
 DMA designations, primary
-[^1-11]: Cerny 1998: 52
-[^1-12]: UNCTAD, primary
-[^1-13]: Osiander 2001
-[^1-14]: Teschke 2003
+[^1-15]: Cerny 1998: 52
+[^1-16]: UNCTAD, primary
+[^1-17]: Osiander 2001
+[^1-18]: Teschke 2003
+[^1-19]: Ruggie 1993: 151
 
 
 ---
@@ -1086,11 +1241,26 @@ primary instrument documents them as constituted sanctions. The
 discipline matters; the case is strong enough without them.)
 
 The second is the Chinese state-platform church, and its defining
-property is fusion: the universal claim is not rival to the state
-but *absorbed into it* — which makes China, in this chapter's
-terms, not a church-state contest but the contest pre-empted:
-fusion asserted by discipline, and enforced since.
-The demonstration was the crackdown of 2020–21, best read — the
+property is absorption: the universal claim is not rival to the
+state but *ruled as a department of it* — which makes China, in
+this chapter's terms, not a church-state contest but the contest
+pre-empted: subordination asserted by discipline, and enforced
+since. One word is avoided here deliberately. "Fusion" in China
+names the state's own programme of military-civil fusion, a
+different thing on a different timetable, and Chapter 12 takes it
+up under that name; what this chapter describes is platforms ruled
+as departments, and the two should not be allowed to borrow each
+other's credit. The first instrument was not the discipline of
+2020–23 but a pact signed eighteen years earlier: in the summer of
+2002 Yahoo agreed to China's demands and signed the Public Pledge
+on Self-Discipline for the Chinese Internet Industry, undertaking
+to "inspect and monitor the information on domestic and foreign
+Websites" (Goldsmith and Wu 2006: 9), and the same authors record
+that "major commercial operators like Yahoo agreed in 2002 to a
+binding 'self-discipline pact'" (p. 96). The foreign orders, in
+other words, were subordinated by pact two decades before the
+domestic ones were disciplined by fine. What 2020–23 demonstrated
+was the second of those operations, and it is best read — the
 structural licence holds — as intra-church discipline: a reform
 movement imposed on over-mighty religious orders by the authority
 that claims them. In sequence: Ant's record-setting initial
@@ -1103,13 +1273,14 @@ listing, delisted within the year, and fined RMB 8.026 billion
 (21 July 2022); the gaming and private-tutoring sectors
 restructured by administrative fiat in a single summer; the whole
 programme doctrinally framed by Xi's "Common Prosperity" essay
-[^2-2]. Call it the Gregorian moment
+[^2-2]. Call that turn against the
+domestic orders the Gregorian moment
 [ANALOGY-ONLY in its label; structural in its content]: as
 Gregory VII asserted that the universal institution's officers
 held their offices *of* the centre and not of themselves, the
 party-state asserted — with fines, delistings and disappeared
 founders — that the platforms' authority was delegated, not
-owned. And the fused church claims its diaspora: the Personal
+owned. And the absorbed church claims its diaspora: the Personal
 Information Protection Law's Article 3 (effective 1 November
 2021) reaches data processing conducted *outside* China wherever
 it targets persons within it — the extraterritorial reflex of
@@ -1158,23 +1329,48 @@ universalism could field. The disanalogy sorts the modern churches
 rather than dissolving the comparison. The European church stands
 almost exactly where the medieval one stood: all canon, no
 divisions, its reach a function of others' need for access. The
-Chinese church has been fused into a state that can pay. The
+Chinese church is ruled as a department of a state that can pay.
+The
 American church is the case the twelfth century never saw — a
 universalism holding, in its foundries, its constellations and its
 models, components of the very instrument by which force is now made
 decisive; and that difference, not the resemblance, is what makes
 Part III's question about it a live one.
 
+A tense discipline follows from that sorting, and it governs the
+rest of the book's use of these three churches, because the
+reassertion this book predicts is not one event but two, at
+different stages. Over the canon and the register — what may be
+said and hosted, and who is who — the territorial powers have
+already reasserted themselves, and they did it cheaply. Between
+2000 and 2006 they did it by leaning on local intermediaries
+rather than by building anything: "Government regulation works by
+cost and bother, not by hermetic seal" (Goldsmith and Wu 2006:
+68), the service providers were "already some of the most
+regulated companies on earth" (p. 73), and the result, stated by
+the same authors as accomplished twenty years ago, is that "what
+we once called a global network is becoming a collection of
+nation-state networks" (p. 149). No fiscal threshold was crossed
+to achieve it; letters to intermediaries sufficed. Over the
+decisive stack — the foundries, the constellations, the models,
+the munitions — nothing of the kind has happened, and there the
+reassertion is compelled and unaccomplished, because holding the
+plant, unlike mandating the canon, has to be paid for. That seam
+is where this book's mechanism begins, and the reader should
+carry both tenses from here: the past tense for the canon, the
+conditional for the stack.
+
 ## IV.
 
 Set the three beside each other and the shape of the present
-becomes legible, and the chapter can make its central move in one
+becomes plain, and the chapter can make its central move in one
 paragraph. The condition of the 2020s is not the High-Medieval
 papal monarchy — no single universal authority stands over the
 territorial powers. It is the *Schism*: three universalisms,
 mutually incompatible — an American church of private
 institutions under increasingly assertive state discipline; a
-Chinese church fused with its state; a European church that is
+Chinese church ruled as a department of its state; a European
+church that is
 all canon and no infrastructure — each backed by a civilisational
 bloc, each claiming the same class of subjects, none able to
 absorb the others. Call the condition *three-body sovereignty*:
@@ -1199,6 +1395,37 @@ The investiture contests are running now, and the chapter's
 demonstration is that the live disputes of the 2020s, read
 structurally, are fights over exactly the Gregorian question:
 who invests an actor with legitimacy or permission.
+
+The first of them, though, was fought and finished before any of
+the churches of §III existed, and it is worth taking first
+because it is the only one with a verdict. *Who invests the
+network's own authority.* In March 1995 Robert Aiken, an engineer
+at the American Department of Energy, put to the Internet Society
+the canonist's question in almost the canonist's words: "IS ISOC
+claiming that it has jurisdiction and overall responsibility for
+the [Internet] top level address and name space—as some (see
+below) believe it does? If yes—how did ISOC obtain this
+'responsibility',—if NO then who does own it?" (Goldsmith and Wu
+2006: 37). The engineers' answer was a universalism: Cerf replied
+for the Society, and the draft instrument its allies circulated
+opened "We the People of the Internet Community" (pp. 38–39). On
+28 January 1998 Jon Postel, who ran the address space, asked the
+root's secondary servers to take the root zone from his own
+machine instead, and eight of the twelve complied, four — at NASA,
+the military, the Ballistics Research Lab and Network Solutions —
+continuing to recognise the American government's root authority
+(p. 45); within
+the hour Ira Magaziner, roused at Davos, had him on
+the telephone with one of his university's officers listening in,
+and told him, "Jon, you don't have the legal right to conduct a
+test" (p. 46). Within a week the root was back, and thereafter
+root authority "has remained, without exception, in the hands of
+the U.S. government" (p. 46). The whole of it took seven days and
+cost the territorial power nothing but a telephone call and the
+threat of a prosecution — which is the shape §III's tense
+discipline predicts for the canon and the register, and is exactly
+what the disputes below do *not* look like once the foundries
+enter the argument.
 
 *Who invests app publishers.* The Epic–Apple litigation is a
 decade-long investiture fight over whether a platform sovereign
@@ -1291,7 +1518,25 @@ state regulating the switches of its foundational
 infrastructure by licence and condition — and, in the foundry,
 exceptionally, converting subsidy into equity — the Chinese
 state ruling its platforms as departments, the European state
-legislating its church's canon itself. The wager's precise form comes later.
+legislating its church's canon itself. The Henrician form has, in
+one place, already been documented for a generation, and it is the
+case §V left with its verdict. When the United States handed the
+naming and numbering of the network to a private corporation in
+1998, it handed over the function and kept the title: it "never
+actually ceded control over either ICANN or the root. Legally,
+ICANN remained under contract to the U.S. Commerce Department"
+(Goldsmith and Wu 2006: 169), and Commerce later insisted it had
+"no plans to transfer to any entity its policy authority to direct
+the authoritative root server" (p. 170). That is the Sforza
+relation exactly, and the reading of it is this book's own, not
+theirs: the operator ran the office for a generation, and the
+investiture never happened. Which fixes what the wager does and
+does not claim. Over the canon and the register the Henrician act
+is history, and it was cheap. Over the decisive stack it is
+compelled and unaccomplished, and the reason for the difference is
+the reason Part II exists: a letter to an intermediary costs
+nothing, and what the state must now take back has to be paid
+for. The wager's precise form comes later.
 What Part I still owes the reader is the rest of the diagnosis
 — because beneath the churches' quarrels, the dispersal has
 armed actors and contract polities of its own. The retinues
@@ -1362,7 +1607,12 @@ are separately owned — Tilly's protection-market frame, Kaminsky's
 feud-as-legal-institution, McFarlane's affinity [GAP: McFarlane's
 1945 article and Hicks await retrieval] — the assembly is the
 book's, and the chapter will earn it case by case before running it
-forward.
+forward. It is also, and should say so, an extension of a named
+frame: Finer, in the volume Tilly edited, has a ruler choosing among
+military formats on three considerations — the effectiveness of the
+force, its expense, and whether it would be loyal to him (Finer 1975:
+91, 95) — and this chapter is what happens to the third consideration
+when the first two are met by somebody else's payroll.
 
 ## II.
 
@@ -1896,7 +2146,11 @@ precision, because an absence defines it. There is no federal
 equity stake, no golden share, in Palantir or Anduril — the
 absence was checked, and it distinguishes these cases both
 from the Intel conversion Chapter 10 documented and from the
-Chinese fused model of Chapter 2. The American
+Chinese model of Chapter 2, where the state owns the defence
+primes outright and private entrants reach the top category of
+work only by licence, the state-owned firms having "maintained an
+iron grip on licenses in this domain" (Cheung 2022: 114–15). The
+American
 Sforza-from-above runs through procurement and personnel —
 programmes of record, clearances, commissions — not through
 ownership. And the disanalogy with 1450 is stated as the
@@ -1937,7 +2191,17 @@ Kontor codes; Bryggen at Bergen; the Bruges Kontor at the
 centre of Flemish exchange; and the London Steelyard, a
 walled compound with its own weigh-house and guildhall,
 privileged from the Carta Mercatoria of 1303 to a
-confirmatory Act of 1503. When the League fought, it fought
+confirmatory Act of 1503. [NOTE: the enclaves are not an oddity
+of the Hansa but a general condition of the states that replaced
+the medieval order. Ruggie quotes Mattingly's paradox: having
+arrogated supreme power over consciences, the new states "found
+they could only communicate with one another by tolerating within
+themselves little islands of alien sovereignty" — the case in view
+being the embassy, whose extraterritoriality Ruggie calls the first
+and most enduring instance of the unbundling of territory
+[^4-6]. The Kontor is the commercial member of that family, and the
+consolidating state closed it later than it closed the rest.]
+When the League fought, it fought
 as a contract coalition: the Confederation of Cologne
 (November 1367) pooled the towns against Denmark, and the
 Treaty of Stralsund (24 May 1370) — the League's Castillon —
@@ -1996,22 +2260,49 @@ every Venetian with a minimal amount of property subscribing
 in proportion, consolidated in 1262 into a single funded debt,
 later called the Monte Vecchio, paying five per cent a year in
 half-yearly instalments, without a break for more than a
-century, and readily bought and sold (Lane 1973: 150): the
-first funded sovereign debt in European history, the state
+century, and readily bought and sold (Lane 1973: 150). The
+superlative usually fixed to that instrument has to come off,
+because it is not true: Arras was selling annuities from 1241,
+and Genoa consolidated its existing debt in 1259 into a new
+compera paying a nominal eight per cent whose shares the
+holders were free to sell, so that a market in them followed
+(Stasavage 2011, chs. 2 and 6). Lane's own claim is narrower
+and survives, and it is the one the chapter needs: Venice was
+"the first European state to fund its debt so that interest was
+regularly paid from one fund to all bondholders equally" (Lane
+1973: 150) — the state
 converting its propertied citizens into its creditors and
 thereby into stakeholders in its survival [GAP: the yield
 series and the estimo await Mueller vol. II and Luzzatto; the
 in-repo Pezzolo chapter proved adjacent, not on point]. To do any of this the state had first to *see* —
 to assess wealth, register persons, track obligation — and
-fiscal legibility of that kind is the precondition of
-consolidated finance everywhere this book looks; the
+legibility in James Scott's sense — the standard and countable
+form in which a state sees its people and their property — lies
+under consolidated finance everywhere this book looks. The term is
+his, and so is the reason it belongs to the fisc rather than to
+administration in general: the cadastral survey "is the
+precondition of a tax regimen that comprehensively links every
+patch of land with its owner—the taxpayer" (Scott 1998: 44). The
 mechanism recurs in Part III, and the modern parallels are
 left to it. The point Venice fixes here is narrower and
 sharper: surveillance, state manufacturing and funded debt
 arose in a *republic*, out of commerce, inside the plural
 medieval order — they are not modern impositions on the
 neomedieval condition but state-form phenomena that emerge
-wherever scale, commerce and insecurity meet. The dispersal
+wherever commerce, insecurity and a scale small enough to be
+governed by its creditors meet. The last term carries the
+weight, and it cuts against the triad the sentence used to
+carry: on Stasavage's evidence the close supervision that made
+lending to a city safe was possible only where the creditors
+themselves could sit often enough to watch the spending, so that
+geographic extent was an obstacle to public credit rather than a
+qualification for it, and the instrument European states
+actually copied was the northern municipal annuity and not the
+Venetian bond (Stasavage 2011, chs. 1–2). [NOTE: the corpus copy
+of Stasavage is an EPUB without printed pagination; nothing is
+quoted from him here, and the chapter-level pins behind this
+sentence are to be re-verified at the printed page before
+press.] The dispersal
 contains, everywhere, the seeds of its own consolidators. But
 the instruments are not the form, and Lane's verdict on the
 form is flat: no sixteenth-century government was efficient by
@@ -2019,15 +2310,28 @@ a modern standard, but "those most nearly successful were,
 except for Venice, monarchies" (Lane 1973: 251). The republic
 had capital, credit and an arsenal, and a centre nothing could
 kill — Foscari was deposed in 1457 by vote of the councillors
-and the Ten, and the system carried on (Lane 1973: 267) — and it
-ran all of this with almost no bureaucracy, the Arsenal, the
-mint and the taxes managed by short-term boards of elected
-nobles who could not succeed themselves (Lane 1973: 98). Its
+and the Ten, and the system carried on (Lane 1973: 267). What it
+lacked has to be named exactly, because the brisk version of the
+diagnosis is wrong. It was not permanent armed organisation:
+Venice "also had a large permanent and state-administered navy
+and may in terms of permanent armed force have ranked number one
+in Europe in 1500" (Glete 2002: 13). It was fiscal-administrative
+penetration, and there Lane's judgement holds — almost no
+bureaucracy, the Arsenal, the mint and the taxes managed by
+short-term boards of elected nobles who could not succeed
+themselves (Lane 1973: 98). Its
 decisive force was limited by men, not money: the Arsenal
 produced more galleys than Venice could find crews for (Lane
-1973: 364). Venice, then, is not the proto-state but a control
+1973: 364). Nor was the fiscal leg the missing one, which is the
+sharper form of the same point: on Stasavage's account Venice went
+on borrowing at very low rates into the eighteenth century, long
+after it had ceased to be either an industrial innovator or a
+principal hub of commerce, and consolidated nothing with the
+advantage (Stasavage 2011, ch. 2). Venice, then, is not the
+proto-state but a control
 case — a polity that ran the mechanism two steps in and
-stopped — and Chapter 10 sets it beside Burgundy on exactly
+stopped, with the permanent navy and the cheap credit both in
+hand — and Chapter 10 sets it beside Burgundy on exactly
 those terms.
 
 ## VII.
@@ -2045,13 +2349,35 @@ unremarked by the literature that supplied the first. The
 condottiere was domesticated — by market competition, by
 integration, by the axe between the columns. The Hansa's
 enclaves were closed — by consolidating monarchies that
-finally could. Venice built the instruments and, by Lane's
+finally could, and how long they waited is the strongest
+objection to an account of this shape, which is best conceded in
+the objector's own words. Ruggie, following Spruyt, holds that
+the Italian city-states and the Hanse "in fact were viable
+political alternatives to the territorial state, fully able to
+levy taxes and raise armies, for the better part of two
+centuries", and that "In social life, two centuries is no mere
+time lag" [^4-7]. They were, and it is not; but the
+two centuries are the two centuries before the ratchet. The
+Kontors and the contract polities flourished across the
+fourteenth and fifteenth centuries on the near side of the step
+at which the price of decisive force rose past subordinate reach,
+and what the mechanism is asked to explain is not their long life
+but the short interval in which they stopped being alternatives —
+the Peterhof closed in 1494, the Steelyard in 1598, neither by
+battle. Venice built the instruments and, by Lane's
 verdict, refused the form. The
 platforms are designated, fined, licensed and commissioned by
 the polities they were said to have surpassed. The dispersal's
-most developed actors are being absorbed by fiscally capable
-centres — unevenly, and fastest where the fisc is deepest, but
-in every one of the four chapters — and the literature has no account
+most developed actors are being absorbed by centres that could
+tax at scale — unevenly, and in every one of the four chapters —
+and the distinction in that phrase is worth one sentence, because
+it is not the one the period's own financiers would have drawn:
+what did the absorbing was the power to collect at campaign
+tempo, not the power to borrow against the future. The city-states
+had the credit two centuries before any territorial state had it,
+and their credit consolidated nothing; the settlement Part II
+reconstructs was a tax settlement and not a credit one
+(Stasavage 2011, chs. 1–2). The literature has no account
 of the force that does the absorbing, because it never asked
 how the first dispersal was locked into consolidated units.
 That is the question Part II
@@ -2071,6 +2397,8 @@ The Economist's "neo-primes," April 2026 — commentary, cited
 as framing
 [^4-4]: Military.com
 [^4-5]: Defense One
+[^4-6]: Mattingly, quoted in Ruggie 1993: 165
+[^4-7]: Ruggie 1993: 156
 
 
 ---
@@ -2122,7 +2450,21 @@ sovereign order organised around a single person — an emperor on the
 walls, a king's lieutenant in the field, a king in his chair — was
 tested at the point where the person and the office meet, and in each
 case what the test revealed was how little lay behind the office when
-the person failed. [END BRIDGE]
+the person failed. [END BRIDGE] [NOTE to the bridge above, added
+2026-09-29; the bridge's own sentences are Roderick's and are
+untouched. The evidentiary position should be on the record at the
+chapter's first weight-bearing joint: the Burgundian court chronicle
+that would ordinarily be this book's continental witness to the three
+events of 1453 cannot supply one, because the relevant pages of it do
+not exist. Kervyn's note at the close of his tome II records that the
+end of book III is missing, from July 1453 to August 1454, and that
+what was told there included the battle of Castillon and the death of
+Talbot, the conquest of Guyenne and the taking of Constantinople by
+Mehmed II; tome III opens after the gap. The lacuna is in the
+manuscript itself, not in this book's corpus, and no retrieval will
+close it, so the triple hinge is carried on the English and French
+material and on the clinical reconstruction, with no Burgundian
+corroboration available for any of its three legs.]
 
 The subject of this chapter is that revelation, generalised. The
 half-century on either side of 1450 was Europe's great age of what the
@@ -2182,8 +2524,12 @@ The reign was structurally anomalous long before it was medically so.
 Henry VI came to the throne at nine months old, inheriting not one
 kingdom but two — the double monarchy manufactured, as we shall see, by
 another king's incapacity — and England was governed for fifteen years
-by a minority council that governed, by the standards of the age,
-remarkably well. The anomaly deepened as the king aged: majority
+by a minority council that governed, against the comparative
+expectation of the age — Tilly's flat rule is that "before the
+seventeenth century, regencies for child sovereigns reliably produced
+civil wars" (Tilly 1985) — remarkably well. The council is therefore an
+exception the chapter is claiming, not a norm it is reporting, and it
+is worth remembering that the exception ended. The anomaly deepened as the king aged: majority
 arrived and the person expected to fill the office did not appear.
 John Watts, whose account of the reign this chapter follows at the
 interpretive level, puts the finding with academic restraint: "There
@@ -2364,15 +2710,28 @@ set the third case beside it, from the power that was about to end the
 Roman millennium.
 
 The Ottoman state in the 1440s ran the same experiment with different
-variables. Murad II, weary of the throne, abdicated in 1444 in favour
-of his son Mehmed — a boy of about twelve — and retired; within
+variables, and the reason for the experiment was neither weariness nor
+whim. Murad II abdicated in 1444 "while still in good health … in
+favour of his son Mehmed, hoping thus to establish him securely on the
+throne", the Byzantines having been sheltering Orhan, a grandson of
+Bayezid, and so holding a claimant against him (İnalcık 1973: 20). On
+Kafadar's reading the abdication was also a faction's victory: the war
+party of the frontier warlords "appeared to have won the upper hand
+with the abdication of Murād II and the first enthronement of Mehmed
+II in 1444 — a precarious victory that was reversed within two years by
+a Çandarlı-instigated revolt of the kul army" (Kafadar 1995: 146). A
+boy of about twelve was enthroned and his father retired; within
 months the Christian powers, reading a child sultan as a vacancy,
 launched the crusade that Murad returned from retirement to destroy
 at Varna in November 1444. The boy remained nominally sovereign; the
 experiment continued; and in 1446 it ended in the manner such
 experiments end — a Janissary rising, the Buçuktepe revolt,
 engineered by the grand vizier Çandarlı Halil Pasha, which returned
-Murad to the throne and Mehmed to the provinces. The Ottoman
+Murad to the throne and Mehmed to the provinces; and the terms of the
+return are the chapter's point, for "Murad returned to the throne only
+when convinced that this was the wish of the Janissaries" (İnalcık
+1973: 63) — the office restored to its holder by the armed corps that
+held it open. The Ottoman
 succession crisis of the 1440s is Henry VI's minority and Charles
 VI's regency contest in another key: a personalised sovereignty
 briefly detached from a person capable of executing it, and the
@@ -2392,11 +2751,18 @@ mid-century, was the *devşirme*: the levy of Christian boys, converted,
 trained, and formed into the Janissary corps and the administrative
 class — a service elite manufactured from raw material, owing
 everything to the sultan and nothing to any hereditary interest,
-because it had none. İnalcık's classic formulation — the *kul* system
-as the most potent factor favouring Ottoman unity and centralised
-administration — is the standard scholarly framing [GAP: İnalcık and
-Kafadar are on the acquisition list; the formulation is cited here at
-second hand and must not harden until retrieved]. The chapter names
+because it had none. The formulation is İnalcık's own, and it can now be
+given in his words: "There were, however, powerful factors working in
+favour of Ottoman unity and the centralized administration. The most
+potent factor was the Ottoman kul — slave — system. In particular the
+Janissary corps, whose numbers had risen to six or seven thousand, gave
+the Ottoman sultan an undisputed superiority over his rivals" (İnalcık
+1973: 18). [NOTE: the volume is in this book's corpus and the quotation
+is no longer at second hand, but the page numbers for all three İnalcık
+citations in this chapter (pp. 18, 20 and 63) come from the sidecar's
+own OCR footers, and two chapters of this book record incompatible
+offsets for the same file; every İnalcık page here is to be verified
+against the page images before press.] The chapter names
 the institution and holds it; Chapter 11 will develop it as the most
 radical of the century's consolidation variants — the polity that
 answered the over-mighty subject not by defeating him but by
@@ -2537,8 +2903,29 @@ kings do not produce over-mighty subjects. Over-mighty subjects,
 encountering an undermighty king, produce the
 crisis — and the crisis then runs on the subjects' resources, which
 is why it lasts. The Wars of the Roses were fought by private
-armies that existed before the king fell ill and would have existed
-had he never fallen ill at all.
+armies — the phrase is Ertman's, and it survives in the scholarship:
+"the power of the great magnates with their regional strongholds and
+private armies was broken during the Wars of the Roses and their
+aftermath" (Ertman 1997: 179) — that existed before the king fell ill
+and would have existed had he never fallen ill at all. [NOTE: the
+phrase is contested, and the objection is recorded rather than
+absorbed. Lander holds the overtones of "private armies" to be
+"completely misleading" [^5-8], on the ground that what a
+fifteenth-century lord kept was a retinue — a following of retained
+men, answerable and expensive, and not a force constantly under arms.
+The chapter keeps Ertman's usage as the surviving scholarly one and
+holds the question open until Lander has been read at his pages;
+nothing in the argument turns on the word, because what the sentence
+claims is prior capability and not standing mobilisation. Lander's
+sharpest evidence is late and worth stating with his objection, since
+it bears on what the crown could actually reach: no prosecution of a
+peer for illegal retaining "is known before that of Lord Burgavenny in
+1506, whose 471 retainers were described as gentlemen, clerks, yeomen
+and a cobbler and a tinker" (pp. 33–34), and the recognizances taken
+from him were cancelled in the first year of Henry VIII's reign, so
+that "Burgavenny probably paid no more than £1,000" (p. 289) — a
+retinue of unmilitary composition, prosecuted once, half a century
+after Henry VI's collapse, and fined at a discount.]
 
 The direction of causation is not a pedantry; it determines what
 counts as a remedy. If weak kings make over-mighty subjects, the cure
@@ -2553,10 +2940,26 @@ The fifteenth century ran both experiments. England got better
 personnel — Edward IV was everything Henry VI was not — and the
 structural problem outlasted him, because it was structural. France
 got a structural answer — the standing army, the permanent tax, the
-artillery establishment — and the problem ended, not because French
+artillery establishment — and the problem ended in its armed form,
+not because French
 kings became uniformly strong but because the resource asymmetry
 between crown and magnate was rebuilt until no magnate's capability
-could rival the crown's. That asymmetry, and the instrument that
+could rival the crown's. The qualification is not decoration. What the
+French answer ended was the magnate's capacity to field force; what it
+bred in exchange was a different kind of intermediary, and the
+scholarship is blunt about the price. Ertman's judgement is that the
+precocity of the western monarchies cost "a substantial loss of
+effective control to proprietary officeholders, tax farmers, and
+officeholder-financiers who viewed the state not only as an instrument
+of princely power but also as a source of income and social standing"
+(Ertman 1997: 28), and the new companies themselves were "controlled
+and commanded by the local royal governor, almost always a member of a
+prominent magnate family" (p. 94) — the magnates re-entering the
+apparatus as its officers rather than as its rivals. Glete adds the
+caution about durability: the early French permanent forces
+"practically disappeared in the long civil war period (1562–98)"
+(Glete 2002: 39). The armed problem ended; the venal and proprietary
+one began, and Chapter 10 pays for both. That asymmetry, and the instrument that
 anchored it, is the subject the reader has already met in Chapter 6
 and will meet as institution in Chapter 10. The lesson generalises,
 and Part III will lean on it: where capability has concentrated
@@ -2601,7 +3004,9 @@ One calibration, and then the turn.
 The claim of this chapter is not that everything sagged at once —
 "modal condition" must not be allowed to mean universal condition.
 The same decades that broke England and had broken France contain
-Portugal stable, Aragon expanding, and above all France itself
+Portugal stable, Castile gathering the initiative in Iberia precisely
+because it was Aragon — on Elliott's judgement "a society in retreat" —
+that was harnessed to it, and above all France itself
 *recovering*: Charles VII's kingdom, the wreckage of Troyes, was in
 precisely these years constructing the standing army, the permanent
 taxation and the artillery establishment whose operations Chapter 6
@@ -2613,11 +3018,77 @@ the pivot — the polity that passed through the condition first, at
 its worst, and came out the other side transformed, because its
 crisis ran so deep that the workarounds available to England (the
 council, the artificial royal will, the dignified pretence) were
-never available to it. The kingdom that had been signed away at
+never available to it. The last of those three names is borrowed and
+should be paid for: "dignified" is Bagehot's, from his division of the
+constitution into "the DIGNIFIED parts, if I may so call them; and
+next, the EFFICIENT parts — those by which it, in fact, works and
+rules". [NOTE: the borrowing is of the distinction, not of his
+verdict, and his own caveat travels with it: "I am not, of course, now
+speaking of the middle ages: I am not dealing with the embryo or the
+infant form of our Constitution" (Bagehot 1867, Lords). Two
+differences follow. His dignified parts were designed, and they were
+load-bearing — they brought the government its force, and the
+efficient parts only employed it — whereas England's dignified
+pretence of 1453 was involuntary and carried nothing. The corpus copy
+is a Gutenberg text without printed pagination; the pins are by chapter
+and PDF page (The Cabinet, PDF p. 21; Lords, PDF p. 48) and are to be
+re-pinned to a printed edition before press. Chapter 9 takes the
+distinction up properly.] The kingdom that had been signed away at
 Troyes could not simulate its king; it had to rebuild the office
 from the treasury upward. What that rebuilding produced — the
 instrument, the institution and the price list — the reader has
 seen at work in Normandy.
+
+The pivot should not be idealised, and the Burgundian chronicler who
+watched it supplies the corrective: the France that was rebuilding its
+executive was managing over-mighty subjects of its own at the same
+moment, and managing them with what the rebuilding had bought. In
+August 1456 the dauphin Louis fled his father's obedience into
+Burgundian protection, and Chastellain gives the flight its motive in
+the dauphin's fear — men-at-arms closing in "pour l'enclore en son
+Dauphiné", and the king "venir tousjours file à file après, comme pour
+prendre la souris en son trou": to shut him into his Dauphiné, the king
+himself coming on rank behind rank, as though to take the mouse in its
+hole [TRANS. CLAUDE] (Chastellain t. III: 178). The answer to the
+flight was not negotiation. The king moved men-at-arms up to the
+Burgundian frontier, garrisoned his towns, held the passes, and went in
+person to Lyon on the Rhône "pour mettre en son obéissance tout le pays
+du Dauphiné" — to bring the whole country of the Dauphiné into his
+obedience — whereupon the governor, Chastillon, "considérant ledit pays
+non pouvoir résister à l'encontre de sa puissance" — considering that
+the said country could not resist against his power [TRANS. CLAUDE] —
+surrendered the towns and the places (pp. 225–26). Two years later the
+same capacity was pointed at the greatest subject of all. Summoned in
+open court at Ghent to the peers' lit de justice at Montargis "comme
+doien des pairs et double pair de France", the duke of Burgundy read
+the summons as an affront "fait plus par malice que par nécessité" —
+done more out of malice than out of necessity [TRANS. CLAUDE] — since
+the peace of Arras had exempted his person for as long as he lived
+(p. 417); and Chastellain took the prosecution of the lesser peer for
+what it was, the king "pensoit et tendoit à donner fré[e]ur au duc de
+Bourgongne lequel il maintenoit à son rebelle" — thinking and tending
+to put fear into the duke of Burgundy, whom he held for his rebel
+[TRANS. CLAUDE] (p. 422). Then the instrument itself. On the report
+that the duke meant to come to Montargis with forty thousand
+combatants, the king cried the ban and the arrière-ban through his
+kingdom, "et mesme au pays et ès villes engagiées sur Somme" — even in
+the country and the towns pledged on the Somme — where by the same
+peace the duke held all the services of the nobles and the peoples,
+with the jurisdictions, profits and lordly emoluments, "réservé
+seulement la souveraineté" (p. 423). The reservation is the mechanism
+in four words. What a recovering crown has and a hollow one has not is
+a residual claim it can actually convoke, and Charles VII was convoking
+his inside his greatest subject's own lands. [NOTE: the witness is a
+Burgundian partisan writing at a Burgundian court, and his frame — the
+wronged prince, the malicious king — is discounted accordingly; what is
+taken here is his record of acts rather than his reading of motives,
+except at p. 422, where his reading is itself the evidence of how the
+prosecution was understood at Ghent. Pins are to Kervyn's tome III in
+the vol15 scan (printed = PDF + 10) and were opened in the sidecar on
+29 September; the OCR of p. 422 reads "frégur" for "fréeur" and the
+spelling is to be checked against the page image. Two pins the
+16 September assessment offered for this paragraph, pp. 200 and
+216–17, could not be found in the sidecar and are not used.]
 
 A crown that cannot execute is not a government; it is a title deed
 to one. The fifteenth century's undermighty kings held the deed and
@@ -2656,6 +3127,7 @@ such
 [^5-6]: Draghi report, Part B, p. 165
 [^5-7]: MHLW Vital Statistics 2024,
 provisional; Statistics Bureau
+[^5-8]: Lander 1976: 31
 
 
 ---
@@ -3319,8 +3791,34 @@ moved into Gascony — English for three centuries, and, in Rogers's
 words, "despite the deeply ingrained pro-English sympathies of the
 inhabitants," all of Guienne fell rapidly [^6-41]. Fronsac,
 "la clef de la Guyenne," the strongest English fortress in the duchy,
-surrendered by composition on 15 June 1451 without an assault; Blaye
-went in five days; Bordeaux itself treated on 12 June and received
+surrendered by composition on 15 June 1451 without an assault, and the
+manner of it shows the *délai de secours* working at its purest.
+Guillaume Leseur, who served Gaston IV of Foix for thirty years and
+wrote the fullest narrative of the Gascon campaign — the fullest, not
+the most authoritative, and used here for narrative, mode and sequence
+only, since Henri Courteault, who edited him, judged that "aucun
+chroniqueur n'a peut-être plus de besoin d'être complété et rectifié à
+l'aide des documents diplomatiques contemporains," perhaps no
+chronicler stands in greater need of completion and correction from the
+contemporary diplomatic documents [TRANS. CLAUDE] (Leseur, ed.
+Courteault, i, Introduction p. lxxv) — records that the
+garrison had sworn, if no English army came within the term, to
+surrender Bordeaux and every other town and place of Guyenne, Bayonne
+alone excepted; and that when the eighth day came Dunois "mist tous ses
+gens d'armes en ung beau champ qu'il avoit fait clorre et préparer, et
+tindrent la bataille tout le jour, actendans les Angloys, qui
+toutesvoys n'y vindrent point" — put all his men-at-arms into a fair
+field he had had enclosed and prepared, and they held the line of
+battle all day, waiting for the English, who did not come [TRANS.
+CLAUDE] (Leseur, ed. Courteault, i. 204–5). The clause was discharged
+without a blow struck, and a duchy composed on the expiry of a relief
+day nobody contested. Blaye went in five days — and was stormed and
+sacked, "prise d'assault, et les Angloys estans en icelle mis en
+sacqueman," taken by assault and the English in it put to the sack
+[TRANS. CLAUDE] (Leseur, ed. Courteault, i. 202), which is worth
+stating plainly, because this chapter's finding that the record
+nowhere shows a sack is scoped to the Norman list and does not travel
+south with the train. Bordeaux itself treated on 12 June and received
 Dunois's army — Jean Bureau riding in the entry — on 30 June, seven
 thousand three hundred and twenty French troops in the procession
 [^6-42]. The texture of the Gascon
@@ -3504,6 +4002,25 @@ centuries. The novelty was the lever, not the hammer. Drafting the
 claim any larger than that would hand the specialist reviewer the
 easiest rebuttal in the book; drawn at this size, it holds.
 
+The ceiling on the claim is best set by the witness with the most to
+gain from raising it. Forty-five years after Formigny the French royal
+siege train went into Italy behind Charles VIII and reduced in hours
+places that had once held for years; Philippe de Commynes rode with the
+expedition and wrote it down. Of Fornovo on 6 July
+1495, the one open battle of that campaign, he
+recorded that "je ne croy point que l'artillerie des deux costéz tuast
+dix hommes et ne dura point le combat ung quart d'heure" — I do not
+believe the artillery of the two sides killed ten men, and the fight did
+not last a quarter of an hour [TRANS. CLAUDE] [^6-49]. Fewer than ten
+men, from both parks together, and the most feared artillery in Europe
+with nothing to show for a quarter of an hour's work. That sentence is
+quoted here, and quoted early,
+because it is the strongest-looking evidence against this chapter and is
+not evidence against it at all. The argument has located decisiveness at
+the wall and in the exchequer throughout, and never on the field; a
+disanalogy the book states itself costs it nothing, whereas the same
+disanalogy produced against it would cost a great deal.
+
 But Formigny's largest work was legal, and it is measured in the
 instrument this chapter has already named. The relief-clause
 composition — surrender on the named day unless an English army
@@ -3525,7 +4042,7 @@ returned Gascony's capital to England — and the French response began,
 characteristically, in a warehouse. Within the month, the record shows
 Jean Aubry, lieutenant of Gaspard Bureau, master of the king's
 artillery, buying pieces of artillery in Paris and forwarding them to
-Rouen [^6-49]: the institution replenishing its Norman magazines
+Rouen [^6-50]: the institution replenishing its Norman magazines
 against one contingency while the court digested another, procurement
 proceeding by delegated routine rather than royal fiat. It is a small
 entry, and its smallness is the point — by 1452 the train was not an
@@ -3539,7 +4056,7 @@ l'advis… de maistre Jehan Burreau, chevalier, seigneur de Monglat":
 besiege Castillon first, Bureau counselled, because "qui porroit avoir
 ladicte ville de Chasteillon… on averoit ladicte rivière pour luy" —
 whoever held Castillon held the river [TRANS. CLAUDE] — and "a ce faire
-se conclud tout le conseil" [^6-50]. Note what has happened
+se conclud tout le conseil" [^6-51]. Note what has happened
 to the office. The master of the artillery is no longer a technician
 summoned to serve the plan; he is the counsellor whose logistical
 geography *is* the plan, and the whole council concludes on his advice.
@@ -3552,10 +4069,10 @@ and Bureau himself — did not assault the town. It dug. The famous camp
 went in beside the Lidoire: a park fortified with ditch and palisade on
 three sides and the river on the fourth, the guns — "a line of 250
 guns of all calibres massed wheel to wheel," in Pollard's
-reconstruction [^6-51]; the tradition's counts run to
+reconstruction [^6-52]; the tradition's counts run to
 three hundred and this book carries the biographer's figure — sited
 to sweep the approaches; eight hundred
-francs-archers pushed forward into an abbey nearer the town [^6-52]. It was, in effect, a fortress improvised in
+francs-archers pushed forward into an abbey nearer the town [^6-53]. It was, in effect, a fortress improvised in
 days by men who had spent four years demonstrating that fortresses
 could no longer be defended — with this difference, that its garrison
 wanted to be attacked.
@@ -3587,7 +4104,7 @@ word, when they opened their gate to him, that he would meet the French
 power in the field. Escouchy shows the burgesses pressing that promise
 back on him almost word for word, and Talbot answering coldly that he
 would keep it "quant je verray que temps et heure sera" — when he
-judged the time and hour right [TRANS. CLAUDE] [^6-53].
+judged the time and hour right [TRANS. CLAUDE] [^6-54].
 The time was chosen for him. At dawn on the day of battle his advance
 guard surprised the francs-archers in the abbey and cut its way
 through them; the survivors fell back on the park. Then came the
@@ -3598,19 +4115,25 @@ CLAUDE]. Escouchy, who tells the story as a mirror-for-princes, has
 Talbot break off the mass he was hearing with the words that "never
 shall I hear the mass, or this day I shall have overthrown the company
 of the French who are in that park before me" [TRANS. CLAUDE]
-[^6-54]. The report was false — what was moving was
-camp-followers, not the army [GAP: the identity of the movers is
-carried in the tradition, not pinned in the parsed passage; verify in
-Escouchy ii. before print]. As the English column approached, an old
+[^6-55]. The report was false, and two traditions account
+for it. In the one this chapter has carried, what was moving was
+camp-followers and not the army. In the other, the report came out of
+Castillon itself: the garrison, hearing the noise of the French at work
+on their ditches, took it that the guns were being loaded for flight and
+sent at once to hurry Talbot forward — a version Courteault, editing the
+fuller Gascon narrative, prefers to Escouchy's (Leseur, ed. Courteault,
+ii. 16, with ii. 14 n. 2). Which of the two moved him the record does
+not settle; that he moved on a false report neither version disputes.
+As the English column approached, an old
 gentleman of the English nation, "qui avoit beaucoup veu des fais de
 la guerre," told Talbot plainly that the report was untrue, that the
 French stood in strength behind their works, and that he would gain
 nothing that day; Talbot answered the last man to tell him the truth
-with a sword-stroke across the face, and rode on [^6-55].
+with a sword-stroke across the face, and rode on [^6-56].
 
 The defenders "afusterrent leur artillerie au lez devers dont véoient
 venir ledit Talbot" — trained their guns on the side from which they
-saw him coming [TRANS. CLAUDE] [^6-56]. The Anglo-Gascon
+saw him coming [TRANS. CLAUDE] [^6-57]. The Anglo-Gascon
 army attacked the park frontally, banners forward, trumpets sounding,
 the men crying "Talbot! Talbot! Saint-George!" — a feudal host doing
 the bravest thing it knew how to do, into massed artillery firing from
@@ -3621,9 +4144,11 @@ establish themselves "for a moment on the ramparts," where the
 standard-bearer fell planting the standard — and then the
 counter-attack broke them. Talbot's horse was brought down; he was
 killed on the ground, his skull, in Pollard's account, smashed by an
-axe — the weapon known, the hand anonymous [^6-57];
+axe — the weapon known, the hand anonymous [^6-58];
 his son Lord Lisle died with him. The town of Castillon
-surrendered two days later under the continuing fire. What died on the
+surrendered three days later, on 20 July, under the continuing fire
+(Leseur, ed. Courteault, ii. 19 — "troys jours après" — with
+Courteault's note at the page dating the capitulation). What died on the
 field is easy to name and easier to over-name: not chivalry, which had
 been dying of other causes for a century, but the assumption that
 valour could still, on its own, carry a decision. The last great
@@ -3647,13 +4172,25 @@ allows that battlefield guns "were less effectual" than siege guns
 but had "begun to make an impact" by the mid-century, quotes the
 gunner Girault's report from Castillon that "each ball hit five or six
 men, killing them all," and credits the campaign's victories to the
-Bureau organisation rather than to any gun [^6-58]; Hall, for his part, has Talbot "unwisely attacked," and
+Bureau organisation rather than to any gun [^6-59]; Hall, for his part, has Talbot "unwisely attacked," and
 the guns in the park used as "something like wall-defense weapons"
-(Hall 1997: 117, 131). The calibrated modern position, then, is the
-chapter's own two-speeds discipline stated from the opposing bench:
-the guns decided sieges, and at Castillon they were fought from a
-prepared position, which is the one battlefield employment in which
-their siege virtues carried over. And the weightiest contemporary
+(Hall 1997: 117, 131). To those three must be added a contemporary who
+goes further than any of them: the fullest Gascon narrative, written for
+the count of Foix by a servant who was not on the field, has the French
+guns batter the English badly and fail to stop them coming on, and gives
+the decision after an hour of hand-to-hand fighting to a charge of fresh
+Breton lances thrown into the press where Talbot's banners stood
+(Leseur, ed. Courteault, ii. 17–18). The calibrated modern position,
+then, is the chapter's own two-speeds discipline stated from the
+opposing bench: the guns decided sieges, and at Castillon they were
+fought from a prepared position, which is the one battlefield employment
+in which their siege virtues carried over — and on the Gascon
+narrative's own showing they bought the hour of mêlée in which fresh
+reserves could be brought to bear, on ground the artillery train had
+chosen and entrenched before Talbot came in sight of it. The killing
+stroke at Castillon, as at Formigny, was delivered by men; what the
+instrument settled was where the battle would be fought and what shape
+it had to take. And the weightiest contemporary
 gives the defeat a double cause in which the guns barely figure:
 temerity, and God. Basin — who admired Talbot,
 "tanquam optimo atque probatissimo duci," the best and most proven
@@ -3700,13 +4237,13 @@ rather than set-piece battle; the blanket charge of impetuosity,
 Basin's and the older tradition's, founders on a career of battles
 prudently refused; and Castillon itself Pollard reads as honour-bound
 error rather than habitual recklessness, while insisting that the
-exact battlefield sequence remains uncertain [^6-59]. Against that stands the ledger of results: he lost
+exact battlefield sequence remains uncertain [^6-60]. Against that stands the ledger of results: he lost
 battles, and famously the last one. Beside it stands the ledger of
 reputation: Escouchy, who tells the story against him, still calls
-him "vaillant chevallier et sage en armes" [^6-60]; the
+him "vaillant chevallier et sage en armes" [^6-61]; the
 French had made his name a title; and the fame outlived him by a
 century and more, into the history play that built its first part
-around him [^6-61]. Whether Talbot was a good commander,
+around him [^6-62]. Whether Talbot was a good commander,
 then, the evidence leaves mixed — feared by his contemporaries and
 beaten by them — and this chapter does not resolve it, because its
 argument does not need to.
@@ -3727,7 +4264,7 @@ institution and not the park. No commander in Europe knew the train's
 effect more intimately than a man who had built and lost such parks
 himself: Talbot had passed through the Rouen instrument as its
 hostage, his own liberty a clause in the compositions the train
-compelled, and had stood on Harfleur's wall [^6-62]; and the one documented English tactical reflex
+compelled, and had stood on Harfleur's wall [^6-63]; and the one documented English tactical reflex
 against field artillery was seizure — the archers at Formigny,
 earlier in this section, took the culverins rather than endure them.
 Nor was the thought of striking at the train itself a thought nobody
@@ -3736,7 +4273,7 @@ Scots of the French king's bodyguard four thousand écus to seize one
 of four men — Dunois, Villequier, Jacques Cœur or "Jean Bureau,
 treasurer of France" — while a thousand troops went among the king's
 artillery "putting torches into the powder kegs and spiking the
-bombards" [^6-63]. The plot proves that the train and its accountant
+bombards" [^6-64]. The plot proves that the train and its accountant
 were an intelligible target to the English command. It does not
 prove Talbot's intention; the two claims are kept apart here, and
 the second is the conjecture.
@@ -3778,45 +4315,141 @@ process behind it. That is the Belloc syndrome as this book will use
 the name: faith in the weapon detached from the establishment that
 makes a weapon decisive. Talbot charged the guns as if the guns were
 the thing; Belloc's captain owned the gun as if owning it were
-enough. Theirs is one mistake run in opposite directions. The
-twentieth century's prophets of the knock-out blow — the interwar
-orthodoxy that a single blow from the air would end a war, whose
-genealogy Lawrence Freedman traces through Holman (Freedman 2017:
-55–57) — belong to a different lineage, met in a later chapter, in
-which the weapon was over- rather than under-estimated.
+enough. Theirs is one mistake run in opposite directions. Interwar
+Britain's prophets of the knock-out blow belong to a different lineage,
+met in a later chapter, in which the weapon was over- rather than
+under-estimated. Their theory — that a sudden aerial bombardment of an
+enemy's cities would end a war before its armies were in the field —
+"solidified into a near-consensus among military intellectuals during the
+1920s and by the 1930s had almost become an orthodoxy, accepted and
+promoted by pacifists and militarists alike," in Brett Holman's account
+of it (Holman 2014: 23); and the word to hold on to is *almost*, because
+the near-orthodoxy of a British debate is a smaller and better-evidenced
+thing than an orthodoxy of the century. Nor was their error a simple
+faith in blast. What they feared most was the fragility of an
+interdependent industrial society, "the destruction of any one part"
+disrupting "all the rest" and making civilised life impossible — a fear
+Holman says weighed with them more than the shattering of civilian
+morale (Holman 2014: 53) — so that what they failed to price was not
+the process behind their own instrument but the defender's: the capacity
+to warn, shelter, disperse, repair and re-house. That is a different
+error from Talbot's and from Belloc's captain's, and the chapter keeps
+it separate.
+
+[NOTE: the genealogy is Holman's and is cited here at
+first hand, Freedman, from whom an earlier state of this chapter took it
+at second, remaining its carrier only for the Tokyo exchange of
+September 1941. H. G. Wells and Lord Montagu of Beaulieu laid the
+foundations from the late 1900s; Claude Grahame-White and Harry Harper
+in 1916 produced what Holman calls "among the very first articulations
+of the knock-out blow theory";
+P. R. C. Groves, from a series of articles in *The Times* in 1922,
+"became the interwar period's most influential military intellectual on
+aerial warfare" and, with those who followed him, "turn[ed] the
+knock-out blow into a near-orthodoxy by the early 1930s"; Baldwin's "the
+bomber will always get through" of November 1932 canonised it (Holman
+2014: 57, 247–48). Giulio Douhet, whom the general reader expects at the
+head of the line, is displaced from it: "there is no evidence to suggest
+that his work was widely known in Britain before the mid-1930s, by which
+time the theory of the knock-out blow was well-established" (Holman
+2014: 12). And the negative finding is set down so that a reader who
+checks finds the book checked first: Belloc appears nowhere in Holman —
+text, notes, bibliography or index — so the two halves of this mirror
+have no source in common, and no sentence in this book gathers Talbot,
+Belloc's captain and the bomber prophets into a single syndrome.]
 
 The mopping-up of 1453 completes the evidentiary set, because it
 contains both the census's one genuine exception and its most
-instructive conclusion. The town of Cadillac, held against the king
-after the revolt, is the one place in the record this book has read
-that was taken by storm through a breach — and the exception proves
-the rule with almost pedantic care, twice over. The storm was
-manufactured by the train first: Escouchy describes the biggest
-bombards of the Bordeaux siege deliberately laid to fire "tous
-ensamble et à une fois" — all together, in a single discharge [TRANS.
-CLAUDE] — against the outwork, then the massed guns turned on the
-gate-tower and wall until the rubble filled great stretches of the
-moat, the attackers each carrying a faggot to the ditch, and only
-then the assault cry, on Wednesday 19 September [^6-64]. And the storm took the town only: the English withdrew into
-the castle, "moult fort et puissant," offered ten thousand écus to
-march out with white staves in their hands, were refused by a king
-who said he had money enough and meant to have them at his will,
-watched the heaviest guns of the Bordeaux siege brought up and laid
-against the castle, and made terms — the English to ransom, the
-Gascons among them left to the king's pleasure [^6-65]. Even the one storming in the record is a
-bombardment wearing an assault's clothes, and even it ended, where it
-mattered, in composition; and it was reserved for a place under
-punitive terms, whose captain the king had executed [^6-66]. The contemporary account and the two modern
-ones do not agree in every particular, and are set down here as they
-stand: Escouchy's storm of the town on Wednesday 19 September — the
-day of the week is right for the date — with the castle's treaty
-following; Hall's eight days of bombardment ending in "complete
-capitulation on 27 September" and the captain's execution, a date
-that matches the capitulation of neighbouring Benauges under the same
-treaty [^6-67]; and Vale's 17 September
-for the exemplary execution, from a payment record, which the other
-two do not reconcile [^6-68] [RE-CHECK AT PRESS: the 17
-September date against the record Vale cites]. Bordeaux
+instructive conclusion. The town of Cadillac, whose Gascon captain had
+contracted to hand it over to the count of Foix and then declined to,
+is the one place in the record this book has read that was taken by
+storm through a breach — and the exception proves the rule with almost
+pedantic care, twice over. The storm was manufactured by the train
+first. Trenches and mines were driven up to the ditch, a bombard was
+laid against the gate of the boulevard and heavy culverins assorted to
+sweep the length of the wall, and Jean Bureau, whom the king had sent
+forward from Montferrand to reinforce the siege, "faisoit tyrer
+l'artillerie jour et nuyt, tant la grosse que la menue" — kept the
+artillery firing night and
+day, the great pieces and the small — until the walls and the outer
+works were "fort batues et empirées," badly battered and made worse
+[TRANS. CLAUDE] (Leseur, ed. Courteault, ii. 24); Escouchy adds that the
+biggest bombards of the Bordeaux siege were deliberately laid to fire
+"tous ensamble et à une fois" — all together, in a single discharge
+[TRANS. CLAUDE] — against the outwork, and that the rubble filled great
+stretches of the moat, each attacker carrying a faggot to the ditch,
+before the assault cry went up on Wednesday 19 September [^6-65]. Only then did the ladders go into the ditch. And the storm took
+the town only: the English who could get away fell back on the castle,
+which composed the next day, the garrison surrendering as prisoners
+(Leseur, ed. Courteault, ii. 25). Even the one storming in the record is
+a bombardment wearing an assault's clothes, and even it ended, where it
+mattered, in composition.
+
+Three things in that sequence have been mis-set in the modern accounts,
+and correcting them matters, because the census's one exception ought to
+be the best-attested entry in it and not the worst. The siege was
+not Dunois's and the king was not at it: it was the count of Foix's, as
+Charles VII's lieutenant, the king being before Bordeaux when Cadillac
+capitulated. The captain, Gaillardet, was not executed by the crown. He
+had surrendered "à la volunté de mondit sieur de Foix," to the count of
+Foix's will, who would grant him no other terms; and because he was of
+the count's own country, "son homme lige et subget," his liegeman and
+subject, and had broken his sworn faith, it was the count who "pour ses
+desmerites luy fist trencher la teste comme à ung traystre," had his head
+struck off for his deserts as a traitor's [TRANS. CLAUDE] (Leseur, ed.
+Courteault, ii. 25–26). That is a smaller thing than the crown's
+punitive reach, which is what this chapter had drawn from it, and a more
+interesting one: the head came off by the judgement of an intermediate
+lord enforcing homage, inside a royal campaign that had mustered his
+private levy and paid part of it. And the storm was not, as one modern
+account has it, the end of eight days' bombardment concluding on 27
+September; that date belongs to the neighbouring place of Bénauges,
+whose surrender Cadillac's defenders undertook to procure under the same
+treaty. [NOTE: the fullest narrative of the siege is Leseur's, at t. II
+pp. 20–26, and its adjudicating value lies in Courteault's apparatus
+rather than in the chronicler, who is Gaston IV's panegyrist and
+distributes every honour to his master. Of Escouchy's giving the whole
+honour of the siege and the capture to Dunois, Courteault writes flatly:
+"c'est une erreur" (ii. 22 n. 2), adding that Charles VII had installed
+himself at Montferrand on 14 August, whence he sent Jean Bureau forward
+to reinforce the count of Foix, and that at the moment of the
+capitulation "Charles VII était devant Bordeaux". The 19 September
+assault date is Courteault's too, from Escouchy and Chartier (ii. 22
+n. 2, 25 n. 2), so Escouchy is right on the mode and the date and wrong
+only on the command. The 27 September date is Hall's (Hall 1997: 118),
+and Courteault's note at ii. 25 n. 2 records that Cadillac's defenders
+"s'engagèrent à procurer la reddition de Bénauges et de Rions" —
+undertook to procure the surrender of Bénauges and Rions [TRANS. CLAUDE]
+[^6-66], which is where 27 September belongs. Malcolm Vale's
+sentence, that
+on Foix's arrival at the place the garrison surrendered and the captain
+was executed on the king's orders, is the reverse of what stands at the
+page he cites for it: "Leseur, ir, 19" is t. II p. 19, which carries the
+aftermath of Castillon; the Cadillac narrative begins at p. 20, and on
+the count's arrival Gaillardet neither kept his contract nor
+surrendered, the English sallying and the siege running several days
+[^6-67]. One passage is
+cut rather than harmonised: Escouchy's fuller negotiation for the
+castle — ten thousand écus offered for a march-out with white staves in
+their hands, refused by a king who said he had money enough and meant to
+have them at his will, the heaviest guns of the Bordeaux siege then
+brought up and laid against it [^6-68] — cannot stand as
+written, since Courteault places Charles VII before Bordeaux throughout;
+it is not transferred to the count of Foix, because no source consulted
+here does so.]
+
+What no source consulted here supplies is a calendar date inside the
+siege narrative itself. Leseur gives none, and the 17 September on which
+Vale places the exemplary execution, from a payment record, cannot rest
+on him [RE-CHECK
+AT PRESS: the 17 September date against Escouchy ii. 56 and the payment
+record Vale cites — the mode, sequence, commander, executioner and
+reason are settled and are not at issue]. [GAP: which Cadillac. Courteault
+footnotes the place as Cadillac-en-Fronsadais at t. I p. 205 n. 1 and
+t. II p. 6, and his own note at t. II p. 25 groups it with Bénauges and
+Rions, which lie on the Garonne. The chapter asserts neither.]
+
+Bordeaux
 itself, blockaded by land and river — sixteen ships from La Rochelle
 cleared its naval outwork on 8 October, closing the river Bureau's
 Castillon advice had been about — treated at Lormont and Montferrand
@@ -3837,7 +4470,7 @@ in the city deferred the handover; and French troops entered on 19
 October 1453. The Hundred Years War, by the convention historians
 observe, ended there, leaving Calais as England's last continental
 holding. Even then the composition system showed its edges: the
-garrisons of Benauges and Rions, included in the treaty's provisions,
+garrisons of Bénauges and Rions, included in the treaty's provisions,
 refused point-blank to honour them and had to be dealt with
 separately [^6-71] — a reminder, recorded by the same
 witness, that a surrender instrument bound only those who believed
@@ -3928,6 +4561,101 @@ that Burgundy was not a subject but a rival consolidator, that its
 train did not save it, and that what failed there was not the guns but
 the fisc beneath them.
 
+This is the point at which the book's word for what happened had better
+be defined, because it has been used loosely and is about to be asked to
+carry Part III. The ratchet is not a claim that artillery invented state
+control of organised force, and it is not a claim that a capital-
+intensive monopoly of violence can only be built out of guns. It is a
+claim about scale, and about the end of the small sovereign: after the
+middle of the fifteenth century the minimum standing cost of a decisive
+instrument rose past what a province, a city, a league or a great lord
+could carry, and the polities below that line ceased to be able to
+defend themselves on their own account, whatever their walls or their
+tactical skill. Artillery is the French form of that effect and not its
+definition. William McNeill states the direction at world-historical
+scale, and states it of the weapon rather than of the establishment —
+his words are "the high cost of the new weapons," which is not this
+chapter's formulation and is not offered as though it were — when he
+writes that the power of any ruler able to afford that cost "was
+therefore enhanced at the expense of neighbors and subjects who were
+unable to avail themselves of the new technology of war," the major
+effect in Europe being "to dwarf the Italian city-states and to reduce
+other small sovereignties to triviality" (McNeill 1982: 89). The
+concession that travels with him is one the chapter is glad to make,
+because it disciplines the claim. Civil control of contracted force was
+not an achievement of the guns and was not French. It was Italian, and
+it was earlier: "a regular standing army of known size and capability
+emerged in the better-governed cities of Italy during the first half of
+the fifteenth century," by muster, review and contractual terms of
+service, before any of this mattered (McNeill 1982: 75) — and on his
+account the transalpine states did not reach that standard of
+administrative control over armed force until the Fronde was put down
+two centuries later (McNeill 1982: 125). What the guns did to Italy was
+not to teach it administration but to make its scale insufficient. That
+is the ratchet, stated at the strength the record will bear.
+
+Stated at that strength, it is also not new, and the chapter had better
+say whose it is before a reviewer does. Two predecessors have most of
+it. Samuel Finer, in the volume Charles Tilly edited in 1975,
+periodises European state-building by weapon, states the fiscal engine
+as a cycle — "More troops — more extraction — more troops: so a cycle
+of this kind could go on widening and deepening" (Finer, in Tilly 1975:
+93) — names the counter-measure Chapter 10 has to answer
+— "To counter the new artillery, the tall, thin walls of the medieval
+castle had to be replaced or girdled by low and thick ones, forerunners
+of the bastion" (Finer, in Tilly 1975: 105) — and gives the cannon the
+constitutional consequence outright: "Castillon and Formigny — though
+this was not realized at the time — expelled England from Europe for
+good" (Finer, in Tilly 1975: 104). Tilly, who is usually cited against
+technological accounts of state formation, endorsed it in his own
+introduction, finding in the volume's papers "an alternation of long
+pauses with giant steps closely following changes in military technology
+and the scale of war" (Tilly 1975: 51–52). And Richard Bean, two years
+earlier, had the cannon dated to the middle of the fifteenth century,
+the Norman reduction — "60 fortified places being reduced in 369 days,"
+a figure he takes from Oman (Bean 1973: 207) — the fiscal appropriation,
+"In France in the 1440's and in Spain in the 1480's the rulers were able
+to seize these taxes as a right and thus dispense with the legislative
+bodies" (p. 213), and the nobility "subordinate to the central
+governments — the process being largely complete by 1500" (p. 220).
+What is left to this book
+is narrower than the claim is usually made to sound, and it is a
+difference of explanandum, not of hypothesis. Finer's variable is the
+military
+format and the style of rule it produces; Bean's is the size and the
+number of states, on a cost curve borrowed from the theory of the firm,
+so that "States larger than the optimal range tend to disintegrate, and
+those smaller tend to be absorbed" (Bean 1973: 204) — which is why the
+objections that tell against him are maps. Tilly made exactly that
+objection, holding that "the persistence of large but loosely knit
+Poland and Russia render ambiguous the claim of a significant increase
+in geographic scale" (Tilly 1985). This
+chapter's variable is neither: it is the irreversibility of a fiscal
+settlement and the closure of the sub-state path to decisive force
+inside a polity that goes on existing, which no map refutes and only a
+reversed settlement or a replicated instrument could. Bean himself
+marked the boundary, in the last paragraph he wrote. The changes in the
+art of war, he concluded, "practically guaranteed the weakening of the
+feudal nobility, the concentration of power within each state, and the
+reduction of the number of states. However, there was no certainty as to
+which faction within the nation would control the new centralized state
+… That task remains a challenge to further research" (Bean 1973: 221).
+The distinction this book draws between a consolidation that is
+predictable and a constitutional form that is not was therefore drawn in
+the *Journal of Economic History* in 1973, and is credited there. What
+the book adds to Finer and Bean is not a better hypothesis but a
+demonstration: Finer's two French paragraphs transpose the two battles,
+dating Castillon to 1450 and Formigny to 1453, and carry the tradition
+that the "Estates had in 1439 voted Charles VII the *taille*" (Finer, in
+Tilly 1975: 127), a tradition the revisionist scholarship has dismantled
+and Chapter 10 does not use; Bean's French
+evidence is a sentence and a figure taken from Oman. Against that stand
+the 1442 procurement
+programme, the Bureau service, the Somerset census and the composition
+grammar of a hundred entries. That is the difference between a
+hypothesis and a demonstration, and it is the only novelty this chapter
+claims.
+
 The gradualist objection deserves the same respect. Curry has warned
 that "the military revolution has been a moveable feast" [^6-75] — a concept stretched over so many centuries and so many
 candidate technologies that its explanatory edge dulls; Rogers himself
@@ -4008,6 +4736,32 @@ reader now holds its premise: after 1450, sovereignty had a minimum
 standing cost, denominated in guns, wages and taxes, and the only
 entities that could carry it were the ones we would shortly begin
 calling states.
+
+One question the chapter bequeaths unanswered, and it should be posed
+here rather than left to be found. If artillery is only the French form
+of a capital-intensity effect, then which form a given instrument takes
+decides who ends up holding it, and the forms do not all point the same
+way. Navies were the most capital-intensive and the most completely
+state-owned military organisations early modern Europe built, and they
+did not consolidate the great territorial powers first: "Most of the
+earliest sailing navies were created on the European periphery: in
+Portugal, England, Denmark-Norway and Sweden," and private trade and
+shipping interests counted for little in their growth (Glete 2002: 39).
+They were capital goods on the same terms as the siege train — "heavy
+guns were capital goods, and mobile siege artillery required a permanent
+organisation of skilled men" (Glete 2002: 65) — and they nonetheless
+armed the periphery rather than the centre. Tilly made the same point
+against the artillery thesis from the
+other side, observing that the increasing decisiveness of naval warfare
+"could well have shifted the military advantage to small maritime powers
+such as the Dutch Republic" (Tilly 1985). Whether the compute-led stack
+of our own decade behaves like artillery, which rewarded the largest
+fiscal base and extinguished the small sovereign, or like the navy, which
+for a century and a half sustained a small one against much larger
+neighbours, is not settled by anything in this chapter, and the parts of
+this book that follow do not treat it as settled. It is among the
+sharpest tests the wager admits, and Part III states it as a test rather
+than answering it here.
 
 There is, however, a nearer consequence, and it sailed for England in
 the ships that carried the compositions' beneficiaries home. The
@@ -4111,35 +4865,35 @@ Herald, in Stevenson 1863: 265
 Economist, 28 May 2026, T3, atmospheric support only
 [^6-47]: Blondel, in Stevenson 1863: 172
 [^6-48]: Berry Herald, in Stevenson 1863: 337
-[^6-49]: Vale 1969
-[^6-50]: Escouchy, ii. 33
-[^6-51]: Pollard, ch. 1, p. 1
-[^6-52]: Escouchy,
+[^6-49]: Commynes, ed. Calmette,
+iii. 192; Calmette's note reports Mandrot's explanation, that the storm
+Commynes had already described had wetted the powder
+[^6-50]: Vale 1969
+[^6-51]: Escouchy, ii. 33
+[^6-52]: Pollard, ch. 1, p. 1
+[^6-53]: Escouchy,
 ii. 33; ch06 memo §5
-[^6-53]: Escouchy, ii. 34–35
-[^6-54]: Escouchy, ii. 38–39
-[^6-55]: Escouchy, ii. 39
-[TRANS. CLAUDE]
+[^6-54]: Escouchy, ii. 34–35
+[^6-55]: Escouchy, ii. 38–39
 [^6-56]: Escouchy, ii. 39
-[^6-57]: Pollard, ch. 1, p. 1
-[^6-58]: DeVries 2002: X, 348;
-XVI, 132–33
-[^6-59]: Pollard 1983; 2005
-preface
-[^6-60]: Escouchy, ii. 64
-[^6-61]: Pollard, ch. 1
-[^6-62]: Berry Herald, in
-Stevenson 1863: 295
-[^6-63]: Vale 1974: 138; Charles VII to James II, in Stevenson
-1861: i, 346–51
-[^6-64]: Escouchy, ii.
-64–66
-[^6-65]: Escouchy, ii. 66–67
 [TRANS. CLAUDE]
-[^6-66]: Vale 1969; 1974:
-140; Hall 1997: 118
-[^6-67]: Hall 1997: 118; Escouchy, ii. 67 n.
-[^6-68]: Vale 1974: 140
+[^6-57]: Escouchy, ii. 39
+[^6-58]: Pollard, ch. 1, p. 1
+[^6-59]: DeVries 2002: X, 348;
+XVI, 132–33
+[^6-60]: Pollard 1983; 2005
+preface
+[^6-61]: Escouchy, ii. 64
+[^6-62]: Pollard, ch. 1
+[^6-63]: Berry Herald, in
+Stevenson 1863: 295
+[^6-64]: Vale 1974: 138; Charles VII to James II, in Stevenson
+1861: i, 346–51
+[^6-65]: Escouchy, ii.
+64–66
+[^6-66]: Escouchy, ii. 67
+[^6-67]: Vale 1974: 140; Leseur, ed. Courteault, ii. 21, 24
+[^6-68]: Escouchy, ii. 66–67
 [^6-69]: Escouchy, ii. 73–77
 [^6-70]: Escouchy, ii. 75–77
 [^6-71]: Escouchy, ii. 77 ff.
@@ -4249,7 +5003,23 @@ administration; and ending, for as long as it keeps to that form, not
 in victory or annihilation but in absorption — selective concession,
 exemplary punishment, and a settlement that proceeds over its head.
 Where a rising fell below the propertied line or broke above it, the
-ending was different, and the chapter's two boundary cases say how. The form appears wherever the
+ending was different, and the chapter's two boundary cases say how.
+[NOTE: one earlier English instance belongs in the pattern's
+pre-history, and the reason it belongs is precise. The rising of 1381
+"is attributed to an unprecedented decade of registrations and
+assessments of poll taxes" (Scott 1998: 68) — a rising not against a
+levy but against the registration that made the levy possible, which
+is the pattern at its most fundamental, since what the propertied
+resent first is being counted. The same page notes that many
+fourteenth-century English surnames "were clearly nothing more than
+administrative fictions designed to make a population fiscally
+legible". Two cautions hold it at footnote level. Scott's sentence
+rests on a secondary at his note 52 and this chapter has no T2 for
+1381 in its sources; the work is to be retrieved before the case is
+promoted into the text. And the composition question is genuinely
+open: 1381 is not obviously a rising of the propertied-anxious kind
+as §I has just defined it, so it is offered here as the pattern's
+ancestor and not as one of its instances.] The form appears wherever the
 emerging fiscal-military state presses on populations organised
 enough to answer, and the book's wager chapters will need it: because
 the same form, this chapter will argue, is visible now, and its
@@ -4426,7 +5196,8 @@ holds at tertiary strength until the act's own text is read, the
 taille to pay for the king's soldiers, a tax whose permanence was
 in the event made by practice across the 1440s rather than granted
 at Orléans (ordonnance of 2 November 1439; the settlement of
-1439–46). Every clause of the military monopoly cut something away
+1439–51, its permanence founded on the taille des gens de guerre of
+1451). Every clause of the military monopoly cut something away
 from somebody. The great princes
 lost their private armies; the free captains — the écorcheur
 entrepreneurs of Chapter 3's world — lost their market; and the
@@ -4460,7 +5231,12 @@ ordonnance of the previous November; on 28 July Louis was granted
 the Dauphiné and a pension of eight hundred livres a month; Bourbon
 and Alençon retired to their lordships unpunished; and La Trémoille,
 Chaumont and Prie, whom the king refused to pardon, were banished
-from court [^7-10]. Generosity calibrated to detach
+from court [^7-10]. Alençon's impunity is worth
+dating, because it has another end: eighteen years later the same
+duke was declared "crimineux de crisme de lèse-majesté" by his peers
+in the arrêt of 10 October 1458 (Chastellain t. III: 481), and what
+the crown then reserved to itself out of his goods is Chapter 11's
+scene. Generosity calibrated to detach
 the leadership, punishment reserved for the few, and not one clause
 of the ordonnance withdrawn. What the settlement did not do, on
 Vale's account, is enforce. The rebels had met at Blois determined
@@ -4558,7 +5334,7 @@ ecclesiastical half, the half a secularising memory drops, that
 makes the demand a restoration rather than a levelling; at Lehen in
 1513 and in Lower Alsace in 1517, each conspiracy betrayed and
 suppressed before rising [^7-12]. In Württemberg in 1514, the
-"Armer Konrad" rising gives the pattern its most legible fiscal
+"Armer Konrad" rising gives the pattern its plainest fiscal
 mechanics: Duke Ulrich, in debt, imposed new consumption taxes on
 meat, wine and grain and adjusted the public weights to sweeten the
 yield; the Remstal rose in May; the revolt was suppressed by July;
@@ -4570,7 +5346,23 @@ theatres ran on the same clock: Cologne's guild risings of 1481,
 1512 and 1513 — the documented cases; the tradition of a wave in
 the 1460s and 70s could not be verified and is not asserted here —
 contested patrician fiscal administration and were reabsorbed into
-adjusted civic constitutions. All of it is prologue to 1525, and
+adjusted civic constitutions. [NOTE: the urban theatres have a
+mechanics of their own, and it is a cleavage rather than a grievance.
+On Stasavage's account of the city-state constitutions, ownership of
+the debt and liability for the taxes that serviced it lay with
+different groups — the merchants tending to hold the bonds, the craft
+guilds carrying a significant share of the tax burden that paid the
+interest — so that a dispute over a new excise was simultaneously a
+dispute over who was being taxed for whose asset; his Cologne series
+runs 1371, 1396, 1481 and 1513, in each case over debt and taxation,
+the 1481 trigger a proposed increase in excise taxation and its more
+radical leaders calling for a suspension of payments on the debt, with
+the free election of Gaffel representatives won in 1481 abolished the
+following year on the rebellion's overthrow (Stasavage 2011, chs. 1 and
+6). Nothing is quoted from him here: the corpus copy is an EPUB without
+printed pagination, and the pins are to be re-set to the printed page
+before press. He carries no revolt for 1512, which the draft's series
+includes on other authority.] All of it is prologue to 1525, and
 the Peasants' War is where the form found its limit on the other
 side. The Ciompi mark the boundary below the propertied line; 1525
 marks the boundary where the form broke its banks upward. Its first
@@ -5298,22 +6090,62 @@ Chapter 10's absorption wearing robes. Spain: the audiencia of
 Valladolid reorganised by the Catholic Monarchs in 1485, its
 southern twin settled at Granada in 1505; the Santa Hermandad —
 a royal constabulary — instituted at the Cortes of Madrigal in
-1476. And the Empire, the control case, asserted everything and
+1476 and its armed forces abolished in 1498, once the Granada war
+had turned the militias it concentrated into a royal army, so that
+the constabulary belongs to the settlement's construction and not
+to its furniture. Glete dates the Castilian subordination of
+private force to that war and by this book's own mechanism:
+private armies "as instruments of aristocratic factionalism ceased
+to be important after this war, and the noblemen's castles had
+become vulnerable to the rulers' new siege artillery" (Glete
+2002: 75) — the one national case in this section where the
+standard authority names the guns. And the Empire, the control case, asserted everything and
 enforced little: the 1495 abolition of the feud, the standing
 court, and a century of Götz von Berlichingen — the monopoly
 proclaimed without the fiscal-military substrate, and therefore
 proclaimed again and again.
 
-Set the dates against Part II's spine and the sequence is
-unmistakable. The monopoly of force is claimed in 1439; the
-companies stand from 1445; the tax hardens into permanence across
-the same seven years — the settlement of 1439–46; the train runs
-from 1449; and the courts, councils,
+Set the dates against Part II's spine and the sequence holds, in
+the terms in which it can hold. The monopoly of force is claimed
+in 1439; the companies stand from 1445; the train runs from 1449;
+the tax hardens into permanence only with the taille des gens de
+guerre of 1451 — the settlement of 1439–51, the guns arriving before
+the fisc closed behind them; and the courts, councils,
 constabularies and abolitions arrive in the two generations
 *after* — 1470s to 1540s — precisely where the fiscal-military
-consolidation had laid the substrate, and nowhere else. The
-Empire ran the counterfactual: assertion without substrate,
-supremacy on paper.
+consolidation had laid the substrate. The claim is about
+jurisdiction and about nothing else: courts ranked, rival fora
+subordinated, the appeal drawn upward. It is emphatically not a
+claim about arms, and the distinction has to be kept, because the
+disarming of the nobility ran on a later and quite separate clock
+in every polity that attempted it. Tilly, whose chronology this
+book takes, puts England's demilitarisation of the great lords
+with the Tudors, and dates the French programme to a reign the
+parlements had long preceded: "Richelieu began the great
+disarmament in the 1620s," declaring the royal monopoly of force
+as doctrine by the later 1620s, after which "the doctrine took
+another half-century to become effective" (Tilly 1985: "Violence
+and Government," para. 8) — the *grands* were still assembling
+armies in the Fronde, two centuries after the parlement of
+Toulouse was planted. For the Empire the same passage supplies
+the control case's terminus, and it deserves quoting exactly,
+since it holds Tilly's only sentence on the guns: after the Thirty
+Years' War, on Dietrich Gerhard's account as Tilly carries it,
+"only the territorial princes had the right of levying troops and
+of maintaining fortresses," and "the razing of castles, the high
+cost of artillery, the attraction of court life, and the ensuing
+domestication of the nobility had its share in this development"
+(Tilly 1985, quoting Gerhard 1981: 124–25). Read plainly, that is
+this chapter's mechanism arriving at the level of the princes and
+never at the level of the Emperor: the imperial monopoly had to be
+reasserted in every generation because the substrate was never
+assembled beneath it, and the domestication arrived where the
+substrate arrived. On that reading the Empire is not the
+mechanism's counter-example but the mechanism at a smaller scale
+and two centuries late — a stronger claim than the control case
+was making, and a more demanding one, since it requires the
+princes' own fiscal apparatus to be exhibited, which this chapter
+does not do and Chapter 10 does only for Burgundy.
 
 What the sequence proves needs stating with care, because the
 evidence in this book's hands will not carry the stronger claim,
@@ -5337,7 +6169,16 @@ police officers at Naples from the 1430s who could try and execute
 as well as arrest; Mantua's unpaid local denouncers replaced in
 1446–47 by hired ducal officers recruited from outside; Bologna's
 Bargello and militarised enforcement from 1450 (Dean 2007: 12,
-40, 49) — salaried men where there had been statute. For England,
+40, 49) — salaried men where there had been statute. One prince
+did the enforcing without any of that, and the exception is worth
+its own clause: Philip the Good's justice over the Lombard banking
+tables of Bruges in 1457 — the seizure, the fines, the composition
+of every bank in his lands, and then the restoration by public
+necessity that Chapter 10's eighth section takes as its anchor —
+was a prince's reach exercised against a fugitive bankrupt rather
+than a system, enforced without a permanent fisc and financed by
+the seizure itself, which is Burgundy's whole position in one
+episode (Chastellain, ed. Kervyn, t. III: 315–16). For England,
 the failure point of the old order was never the sheriff's fear
 that the Paston agent reported; it was, as §I conceded, the king's
 own mercy, and Payling's crown was not weak but unwilling — its
@@ -5350,10 +6191,22 @@ tolerance of aristocratic crime by the mid-sixteenth century"
 it is offered as one: toleration was the price of a crown that
 could not pay for the alternative, and the crown stopped
 tolerating when it could. That is plausible on the dates and
-unproven on the documents, and the chapter grades it so. The
-plural legal environment was not argued out of existence; nor, on
-this evidence, was it outspent. It was outranked — once the
-exchequer could pay the men who did the ranking.
+unproven on the documents, and the chapter grades it so. One
+qualification travels with the verb, and it is Ertman's. In France
+the men who did the ranking bought their places: the
+fifteenth-century administration, in his summary, "whether central
+or local, judicial or financial, was dotted with clans and
+dynasties of officials who treated their offices as their own
+property," and it was "primarily to these and other officials,
+rather than to bankers or large-scale tax farmers, that the French
+governments of the late middle ages turned for loans and advances"
+(Ertman 1997: 81, 76). The crown that planted the parlements sold
+the offices inside them and then borrowed from the holders; what
+the exchequer paid for plainly and salaried directly were Dean's
+Italians. The plural legal environment was not argued out of
+existence; nor, on this evidence, was it outspent. It was
+outranked — once the exchequer could pay the men who did the
+ranking.
 
 [BRIDGE — the modern translation of the sequence claim, to the
 section's end.] The modern re-assertion is observable, dateable,
@@ -5384,6 +6237,59 @@ the modern rankings hold depends on the fiscal-military
 substrate beneath them — which is Chapter 10's question, already
 answered for the reader, operating in the present tense. [END
 BRIDGE]
+
+[BRIDGE — PROPOSED, 2026-09-29: the layered tense per Decision 7,
+offered beneath the bridge above with both left standing; the
+analogy joint remains Roderick's to set.] The modern re-assertion
+is observable and dateable, and it runs on two clocks. The coercion
+of intermediaries is not early in its arc; it is finished, and it
+was finished cheaply. Jack Goldsmith and Tim Wu put the
+reterritorialisation of the network in the years between 2000 and
+2006 and locate its instrument not in a fisc but in local
+chokepoints: "the Internet has made the network itself the
+intermediary," and "local intermediaries are a defining, and
+therefore ineliminable, aspect of the Internet" (Goldsmith and Wu
+2006: 70–71). When Washington decided in 2005 to stop online
+cigarette sales, the Bureau of Alcohol, Tobacco and Firearms
+"simply ordered Visa, MasterCard, and AmEx to stop taking online
+cigarette orders," which is how, in their words, "without ever
+laying a finger on online sellers, the government can impose its
+power, often without even needing to go to court" (pp. 76–77); by
+the time they wrote, "notions of a self-governing cyberspace are
+largely discredited" (p. 14), because "physical coercion by
+government — the hallmark of a traditional legal system — remains
+far more important than anyone expected" (p. 180). No new taxation
+was raised to do any of it, and the concession has to be made
+plainly: on the canon and the register, the state came back by
+post. What is early in its arc is the other thing — the ranking of
+the fora themselves — and its dates are the ones this chapter can
+give. The European bloc has begun dismantling private adjudication
+inside itself: *Achmea* (2018) and *Komstroy* (2021) precluding
+intra-EU investment arbitration; withdrawal from the Energy Charter
+Treaty notified in June 2024 and effective a year later. The same
+bloc licenses and caps the platform courts in one clause: the DSA
+compels internal complaint systems and certifies out-of-court
+settlement bodies which "shall not have the power to impose a
+binding settlement" [^8-24] — private adjudication
+permitted, its bindingness reserved to the state. The first DMA
+fines have issued (April 2025); the crypto experiment has been
+brought under a full regulatory code [^8-25], its flagship operators processed through the public
+criminal law — Binance's $4,316,126,163 resolution (November 2023),
+its founder's successor-in-interest at FTX sentenced to twenty-five
+years (March 2024); the American antitrust wave has reached
+remedies (September 2025). The emerging form is not abolition of
+the private fora but their subordination — state courts above
+platform process above private ordering — a *hierarchical
+plurality*, to give the settlement's legal shape the name Part III
+will use. The sixteenth century did the same: it did not close the
+church courts or the manorial courts; it ranked them, under a
+sovereign whose writ was funded. Two clocks, then, and the
+difference between them is this chapter's finding stated for the
+present: ordering an intermediary is cheap and was done twenty
+years ago, ranking the fora is being attempted now, and holding the
+plant beneath them both has not been attempted at all — which is
+Chapter 10's question, operating in the present tense. [END BRIDGE
+— PROPOSED]
 
 One element of the coming assertion, however, the fifteenth
 century would find familiar in a way this chapter has not yet
@@ -5431,6 +6337,9 @@ Common*
 [^8-21]: Pistor 2019: 132
 [^8-22]: DSA, Art. 21
 [^8-23]: MiCA, fully applicable December 2024
+[^8-24]: DSA, Art. 21
+[^8-25]: MiCA, fully applicable
+December 2024
 
 
 ---
@@ -5464,8 +6373,9 @@ between what the constitution appeared to be and what it could
 effectively do — between a crown whose authority the lords would not
 touch and a government that had to be carried on around it — and the
 two occasions on which England measured that distance within a single
-reign: a minority, which was designed and which worked, and an
-incapacity, for which no office could be designed at all.
+reign: a minority, which was designed and which held, if not without a
+crisis that nearly broke it, for fifteen years, and an incapacity, for
+which no office could be designed at all.
 
 Chapter 8 ended by observing that the machinery of the coming
 judicial monopoly was operated in the name of a person — anointed,
@@ -5482,8 +6392,16 @@ his natural Body" [^9-2]. Blackstone
 would carry the maxim into the classical constitution: the king never
 dies. It is elegant, it is functional, and it contains a single
 unexamined premise on which everything in this chapter turns: the
-doctrine presumes that the natural body *executes*. The body politic
-is void of defects precisely because the body natural does the work
+doctrine presumes that the natural body *executes*. (The modern
+vocabulary for the same split is Krasner's, and it is worth having in
+view from the start: "Domestic sovereignty involves both authority and
+control, both the specification of legitimate authority within a polity
+and the extent to which that authority can be effectively exercised"
+(Krasner 1999: 4), a distinction he states again as two questions —
+"what authority structures are recognized within a state, and how
+effective is their level of control?" (Krasner 1999: 10). The
+fifteenth-century problem is what becomes of a constitution in which
+both are vested in one body.) The body politic is void of defects precisely because the body natural does the work
 and the fiction absorbs the flaws. Where the work outgrows the
 worker — where the demands on the natural body exceed what any
 natural body can supply — the fiction faces a choice it was not
@@ -5605,6 +6523,88 @@ it — for a child — and could not lawfully institutionalise the
 simulation for a broken adult. The fiction permitted a fiction, and
 forbade a solution.
 
+The distinction the lords drew without naming it has a name in the
+English constitutional tradition, and the name arrives four centuries
+late, from an author who took care to say that he was not describing
+this period at all. Walter Bagehot divided the constitution into two
+sets of parts: "those which excite and preserve the reverence of the
+population—the DIGNIFIED parts, if I may so call them; and next, the
+EFFICIENT parts—those by which it, in fact, works and rules," because
+"every constitution must first GAIN authority, and then USE authority"
+(Bagehot 1867, "The Cabinet," PDF p. 21). His caveat travels with every
+use made of him here — "I am not, of course, now speaking of the middle
+ages: I am not dealing with the embryo or the infant form of our
+Constitution; I am only speaking of its adult form" (Bagehot 1867, "The
+House of Lords," PDF p. 48) — and the claim entered on the Roll's
+evidence is correspondingly modest: not that his adult form existed in
+1454, but that the anatomy he described in its maturity can be seen, in
+its involuntary first version, in the drafting. At Windsor sat a part
+that could gain authority and could not use it, whose "auctoritee"
+York's protestation was careful to leave where it lay; at Westminster
+the lords assembled a part that could use nothing except by borrowing
+an authority it dared not claim, and borrowed it therefore under a
+title chosen to deny the borrowing — so that what Watts calls the
+manufacture of an artificial royal will is the efficient part being
+assembled while the dignified part sat insensible at Windsor. The
+genealogy is his own, and he draws it from
+this chapter's case: reverence and capacity are "transmitted according
+to" different laws, and "very soon that line comes to a child or an
+idiot, or one by some defect or other incapable. Then … the grave
+council begins not so much to suggest as to inculcate, not so much to
+advise as to enjoin" (Bagehot 1867, "Conclusion," PDF p. 103). A child,
+an idiot, one by some defect incapable: 1422, 1453, 1392 — his three
+terms are this chapter's three cases, the word for the second of them
+quoted as his and not adopted, and he knew where in English history
+they lay, observing of the ante-Tudor period that "some monarchs were
+imbecile" and that the mediaeval Parliament was not, like his own, "a
+ruling body" but "an EXPRESSIVE body" (Bagehot 1867, "Conclusion," PDF
+p. 104). What must travel with the borrowing is a disanalogy he himself
+supplies, because the error it guards against is an easy one: the
+dignified parts were never decoration. He calls them decoration in one
+place — "retained, not for intrinsic use, but from their imaginative
+attraction upon an uncultured and rude population," like "the
+additional and solely-ornamental wheels introduced into the clocks of
+the Middle Ages," so that "all such ornamental work is a source of
+friction and error" (Bagehot 1867, "On Changes of Ministry," PDF p.
+83) — and the condition of everything in another: they "are the
+preliminaries, the needful prerequisites of ALL work. They raise the
+army, though they do not win the battle" (PDF p. 21); and of the
+monarchy of his own day, "the use of the Queen, in a dignified
+capacity, is incalculable. Without her in England, the present English
+Government would fail and pass away" (Bagehot 1867, "The Monarchy I,"
+PDF p. 30). The two passages are one doctrine and not a contradiction —
+ornamental as administration, indispensable as authority — and the
+fifteenth century had found it out the hard way, because the lords
+could not do without the king they could not use: the insensible body
+at Windsor was the only thing in the kingdom that could raise the army
+York was appointed to lead. In the personal monarchy proper the two
+parts had been one body; 1422 to 1455 is the involuntary separation
+from which the designed one descends; and the negative drafting of
+March 1454 refused to make that separation lawful. What this book takes
+from Bagehot is the distinction. What it declines is his valuation, and
+the refusal has to be visible, because for him the separation of
+reverence from rule is not a condition to be measured but the merit of
+every working constitution and the glory of England's: supreme power
+resides "not necessarily or commonly in the whole people … but in a
+CHOSEN people, a picked and selected people" (Bagehot 1867, "The
+Cabinet," PDF p. 28), and "the apparent rulers of the English nation
+are like the most imposing personages of a splendid procession … The
+real rulers are secreted in second-rate carriages" (Bagehot 1867,
+"Prerequisites," PDF p. 101). This book treats the distance between the
+two sets of parts as a quantity rather than a virtue — it can widen or
+close, it can be hidden or shown, and it can be measured, which is the
+use Part III makes of it — and it notes here, without pursuing it, that
+the same distinction has since been turned on the elected institutions
+themselves, by Colin Crouch, writing against Bagehot's complacency
+rather than from it: "it is difficult to dignify it as democracy
+itself" (Crouch 2000, PDF p. 8). That belongs to the settlement, and the
+settlement is Part III's subject. What this chapter has to establish is
+narrower: that a constitution can carry, for a term, a dignified part
+with all the authority and an efficient part with all the work, that
+the fifteenth century did so twice, and that only the occasion on which
+the separation had a known end proved survivable — which is the
+business of the section that follows.
+
 ## IV.
 
 The minority is the control, and the chapter must set it out with
@@ -5641,8 +6641,10 @@ law, none in fact, and might recover either at any hour. That the
 one formula produced two such different offices is this book's
 observation on the record, not Griffiths's; it is marked as such.
 
-And the designed office worked — with a hedge the chapter states
-against the strongest statement of the contrary view. Tilly, whose
+And the designed office worked, in the qualified sense the record will
+bear — with the hedge stated here rather than left for a reader to
+supply, and stated against the strongest statement of the contrary
+view. Tilly, whose
 account of state-making this book has treated as its ancestor from
 Chapter 3 onward, holds as a rule that armed lords were at once the
 king's necessary auxiliaries and his rivals, and "for that reason,
@@ -5673,8 +6675,10 @@ Griffiths's careful phrase, "vulnerable to the exhortations and
 solicitations of those about him" (Griffiths 1981: 240) — a
 vulnerability that belongs to the next crisis, not to this one.
 Fifteen years, one explosion contained by parliament, no civil war:
-against Tilly's rule, that is the exception, and it is claimed as
-one. Why England escaped the rule is a further question, and the
+against Tilly's rule, that is the exception, and it is claimed as one
+and claimed narrowly — a single run, in one kingdom, which complicates
+a generalisation drawn from the whole of Europe before the seventeenth
+century without overturning it. Why England escaped the rule is a further question, and the
 chapter's answer is an inference marked as its own: the minority
 had what the incapacity lacked, a settled succession and a certain
 horizon, and it had what Tilly's regencies lacked, a war abroad
@@ -5730,8 +6734,10 @@ it, because the constitution's own premise — authority lives in
 the person — re-asserted itself at every recovery, every
 relapse, every death.
 
+## VI.
+
 The century's full experimental record confirms the pattern in
-its form and, read with the previous section in mind, denies it
+its form and, read with the previous sections in mind, denies it
 in its results. In 1422, the negative title, the capped
 patronage, the quorate council, commissions running "as long as
 it liked the Kyng." In 1454, the negative definition. In 1455–56,
@@ -5742,9 +6748,17 @@ Henry V while elaborately preserving each kingdom's separate laws
 — the dual monarchy as a personal union precisely *not* an
 institutional merger. Limited, revocable, council-bound, and
 protective of the personal constitution each was built to
-relieve: the fifteenth century ran the regency experiment perhaps
-half a dozen times in two kingdoms, and every run returned the
-same *form*. It did not return the same result. The minority's
+relieve: the runs of the experiment the record preserves — and
+there were several in each kingdom — returned the same *form*.
+They did not return the same result, and the difference between
+the results is not a matter of how many runs there were. A
+minority was an office temporarily filled by a council; an
+incapacity was an office that could not be filled at all; and the
+two failed differently rather than identically. That distinction,
+and not a tally, is what the argument rests on, because Tilly's
+rule is stated for the whole of Europe before the seventeenth
+century and no count taken in two kingdoms could meet it (Tilly
+1985, "Violence and Government," para. 4). The minority's
 run held for fifteen years and ended on schedule; the incapacity's
 runs lasted months and ended at the king's pleasure or, on
 Lander's reading, at the failure of a manoeuvre; the French runs
@@ -5756,159 +6770,6 @@ variable, not the form, that the rest of this chapter follows.
 succeeding only where the personal constitution's premise was
 suspended by nature for a known term — is this book's reading of
 an open fact-pattern, and is marked as the book's own.)
-
-## VI.
-
-The distinction the lords of 1454 drew without naming — between a
-crown that could confer authority and a council that could
-exercise it — has a name in the English constitutional tradition,
-and the name arrives four centuries late, from an author who took
-care to say he was not describing this period at all.
-
-"I am not, of course, now speaking of the middle ages," Walter
-Bagehot wrote in 1867; "I am not dealing with the embryo or the
-infant form of our Constitution; I am only speaking of its adult
-form" (Bagehot 1867, "The House of Lords," PDF p. 48). The caveat
-travels with every use of him here, and the chapter's claim is
-correspondingly modest: not that his adult form existed in 1454,
-but that the anatomy he described in its maturity can be seen, in
-its involuntary and unlawful first version, in the drafting of the
-Roll. His anatomy is this. Old constitutions that rule mixed
-populations divide into two parts: "first, those which excite and
-preserve the reverence of the population—the DIGNIFIED parts, if I
-may so call them; and next, the EFFICIENT parts—those by which it,
-in fact, works and rules," because "every constitution must first
-GAIN authority, and then USE authority" (Bagehot 1867, "The
-Cabinet," PDF p. 21). Put the sentence beside the Roll and the
-correspondence is exact. At Windsor sat a dignified part in its
-purest possible form — a crown that could gain authority and could
-not use it, whose "auctoritee" York's own protestation left
-untouched; at Westminster the lords assembled an efficient part
-that could use nothing except by borrowing an authority it dared
-not claim, and therefore borrowed it under a name chosen to deny
-the borrowing. Watts's "artificial royal will" is the efficient
-part being manufactured while the dignified part sat at Windsor;
-and the reason the manufacture could not be made lawful is the
-reason Bagehot gives for the adult form's success — that in
-England the separation was eventually made, and then hidden.
-
-The genealogy is his, not the book's, and it is drawn from exactly
-this chapter's case. In the primitive polity, he writes, "the
-reverential associations upon which the government is built are
-transmitted according to one law, and the capacity needful to work
-the government is transmitted according to another law. The
-popular homage clings to the line of god-descended kings; it is
-transmitted by inheritance. But very soon that line comes to a
-child or an idiot, or one by some defect or other incapable. Then
-… the listening assembly begins not only to murmur, but to speak;
-then the grave council begins not so much to suggest as to
-inculcate, not so much to advise as to enjoin" (Bagehot 1867,
-"Conclusion," PDF p. 103). A child, an idiot, one by some defect
-incapable: 1422, 1453, 1392 — his three terms are this chapter's
-three cases, and the word for the second of them is his and not
-this book's. He knew where in English history the cases lay. Of
-the ante-Tudor period he observes that "the title to the Crown was
-uncertain; some monarchs were imbecile," and that the mediaeval
-Parliament was not, like his own, "a ruling body" but "an
-EXPRESSIVE body," whose function was to tell the king what the
-nation would and would not endure (Bagehot 1867, "Conclusion,"
-PDF p. 104). What the lords of 1454 built was an expressive body
-trying, under a title that forbade it, to become a ruling one.
-Bagehot's England is the same separation carried through and then
-concealed: constitutional royalty "acts as a DISGUISE. It enables
-our real rulers to change without heedless people knowing it"
-(Bagehot 1867, "The Monarchy I," PDF p. 36); "it is needful to
-keep the ancient show while we secretly interpolate the new
-reality" (Bagehot 1867, "Conclusion," PDF p. 106). Between the two
-lies the personal monarchy proper, in which the parts were one
-body: even in the 1770s, he notes, "George III. was the
-Government. Lord North was not only his appointee, but his agent"
-(Bagehot 1867, "The Monarchy II," PDF p. 37). That is the
-substance of his scope caveat, and it is why 1422 and 1454 are the
-right places to look for the anatomy's origin: they are the years
-in which nature performed the separation the constitution had not
-yet learned to perform for itself, and the lords refused, in
-writing, to make what nature had done lawful.
-
-The disanalogy that must travel with the bridge is one Bagehot
-himself supplies, and it is stated here in his terms because the
-error it guards against is an easy one. The dignified parts were
-never decoration. He says, in one place, that they are exactly
-that — "retained, not for intrinsic use, but from their imaginative
-attraction upon an uncultured and rude population," and like "the
-additional and solely-ornamental wheels introduced into the clocks
-of the Middle Ages," so that "all such ornamental work is a source
-of friction and error" (Bagehot 1867, "On Changes of Ministry,"
-PDF p. 83). And he says, in another, that they are the condition
-of everything: "The dignified parts of Government are those which
-bring it force—which attract its motive power. The efficient parts
-only employ that power … They may not do anything definite that a
-simpler polity would not do better; but they are the preliminaries,
-the needful prerequisites of ALL work. They raise the army, though
-they do not win the battle" (Bagehot 1867, "The Cabinet," PDF
-p. 21); and, of the monarchy of his own day, "the use of the Queen,
-in a dignified capacity, is incalculable. Without her in England,
-the present English Government would fail and pass away" (Bagehot
-1867, "The Monarchy I," PDF p. 30). The two passages are one
-doctrine, not a contradiction: ornamental as administration,
-indispensable as authority. The fifteenth century had already
-found this out the hard way. The lords could not do without the
-king they could not use, because the insensible body at Windsor
-was the only thing in the kingdom that could raise the army York
-was appointed to lead — which is why the protestation left the
-"exercice of his auctoritee" in the king and took only a "personell
-duete" for the protector. A dignified part that had ceased to
-function would have released them. A dignified part that went on
-functioning while its natural body sat slumped in a chair bound
-them, and the Roll is the record of the binding.
-
-What the book takes from Bagehot is the distinction. What it
-declines is his valuation, and the refusal has to be visible,
-because for him the separation of reverence from rule is not a
-condition to be measured but the merit of every working
-constitution and the glory of England's. Popular government, in
-his account, means that supreme power resides "not necessarily or
-commonly in the whole people … but in a CHOSEN people, a picked and
-selected people" (Bagehot 1867, "The Cabinet," PDF p. 28); "the
-apparent rulers of the English nation are like the most imposing
-personages of a splendid procession … The real rulers are secreted
-in second-rate carriages" (Bagehot 1867, "Prerequisites," PDF
-p. 101); and of the monarchy, "its mystery is its life. We must not
-let in daylight upon magic" (Bagehot 1867, "The Monarchy II," PDF
-p. 37). This book treats the distance between a constitution's
-dignified and efficient parts as a quantity, not a virtue: it can
-widen or close, it can be hidden or shown, and it can be measured
-— which is the use Part III makes of it. Bagehot's own theory
-concedes the point that matters most for that use. A polity
-resting on deference is, he says, in "unstable equilibrium," and
-once the equilibrium is disturbed "there is no tendency to return
-to it" (Bagehot 1867, "Prerequisites," PDF p. 102): the disguise
-works only while it is not seen through, and a separation that has
-been demonstrated is, on his own account, a separation that has
-begun to fail. He adds an observation that the fifteenth century
-confirms and that Part III will need: the ante-Tudor kings could
-not have manufactured a compliant assembly even had they wished
-to, because "the instrument in that behalf is the centralised
-executive, and there was then no 'prefet' by whom the opinion of a
-rural locality could be made to order" (Bagehot 1867, "Conclusion,"
-PDF p. 104). The lords of 1454 were an unsymmetrical reality
-because nobody yet possessed the means to make them a symmetrical
-sham. Whether the present possesses those means is a question this
-chapter does not answer. It notes only that the same distinction
-has since been applied, by an author writing against Bagehot's
-complacency rather than from it, to the elected institutions
-themselves: that "while the forms of democracy remain fully in
-place … politics and government are increasingly slipping back into
-the control of privileged elites," so that "it is difficult to
-dignify it as democracy itself" (Crouch 2000, PDF pp. 2, 8). The
-echo of Bagehot's word in Crouch's sentence is noticed here and
-not pursued; it belongs to the settlement, and the settlement is
-Part III's subject. What this chapter has to establish is narrower
-and is now established: that a constitution can carry, for a term,
-a dignified part with all the authority and an efficient part with
-all the work, that the fifteenth century did so twice, and that
-only the occasion on which the separation had a known end was
-survivable.
 
 ## VII.
 
@@ -5958,10 +6819,12 @@ the accident of a king's health but by design.
 ## VIII.
 
 Five centuries after the relief, the personal constitution has
-returned — not in the residual monarchies, where the two bodies
-were separated by design and the dignified one, on Bagehot's
-account, still raises the army the efficient one commands, but in
-the charters of the new continental institutions, where the two
+returned — not in the residual monarchies, which are not the weak
+case but the demonstration, the one surviving form in which a
+separated dignified part can be watched doing its work, since on
+Bagehot's account the half that does not command still raises the
+army the half that commands employs; it has returned in the
+charters of the new continental institutions, where the two
 bodies are one again, and load-bearing, and growing.
 
 The documentation is the institutions' own. Meta's proxy statement
@@ -6018,6 +6881,16 @@ six of eleven at the count in the open literature —
 of which were then upgraded into formal Commissions: the
 routinisation datum, personal authority being re-clothed in
 institutional dress even as it concentrates [^9-12].
+(Cheung's account of the same apparatus states the two-body
+exposure in terms this chapter recognises: the national security
+commission is "a personalistic symbol of Xi's command of the NSS"
+(Cheung 2022: 67); authority is "hyperconcentrated under Xi's
+authority," held simultaneously in the chairmanships of three
+commissions (Cheung 2022: 284); and the deputies "lack the
+political qualifications to take over in anything more than a
+short-term acting capacity," an overconcentration he calls "the
+gravest risk" to the system's prospects (Cheung 2022: 285–86).
+The judgement is his, and it is a judgement about an office.)
 And the American experiment in personalised authority *inside*
 the state ran its full arc within a single year, and is
 recorded here as the dated episode it is: a department of
@@ -6025,7 +6898,13 @@ government efficiency created by executive order in January
 2025, animated by the same extreme case above, exited by its
 animating person that May, and disbanded by November (OPM) —
 created by order, dissolved by interview, its claimed savings
-contested. Across systems — proxy statement, executive order,
+contested. It had a programme as well as an animator, which is
+worth recording because it makes the episode a design rather
+than a whim: on Jill Lepore's account the department "drew its
+inspiration from RAGE—Retire All Government Employees—by the
+neo-monarchist Curtis Yarvin," whose "aim was to replace humans
+with bots" (Lepore, printed p. 112 / PDF p. 126; the pin is
+provisional and the characterisation of Yarvin is hers). Across systems — proxy statement, executive order,
 party constitution — the signature is identical: authority
 migrating from office to person, then, under load, being
 hastily re-clothed in improvised institutional dress. The
@@ -6037,8 +6916,12 @@ Whether the improvisations mature is the pending question, and
 the honest answer is that the record cuts both ways — which is
 what a transition looks like from inside.
 
-The substitutes are institutionalising. Trust-and-safety has
-professionalised into a discipline with a standards body and now
+The substitutes are institutionalising, unevenly, and the
+unevenness is itself instructive: where a legislature or a
+regulator has done the institutionalising, the instrument exists
+and binds; where the institution was announced by the body it was
+to constrain, some of it was never built at all. Trust-and-safety
+has professionalised into a discipline with a standards body and now
 an ISO standard; the European legislator has written the
 counterweight into law — the Digital Services Act requires the
 largest platforms to establish "a compliance function,
@@ -6048,13 +6931,28 @@ not be removed without prior approval of the management body"
 discretion, the conciliar ordinance of 1403 re-enacted as
 European regulation. The AI governance layer is acquiring
 offices — the UK's institute, its American counterpart, the EU
-AI Office with its growing staff — and the frontier labs have
-begun writing their own regency instruments: Anthropic's
-Long-Term Benefit Trust, a class of stock held by trustees who
-will elect a board majority — a constitutional device for
-placing the institution's long-run interest beyond any single
-natural body (primary announcement). Even the securities
-regulator has formalised the two-body problem: since 2009, CEO
+AI Office with its growing staff — and one instrument among the
+frontier labs is a matter of corporate law rather than
+announcement: Anthropic's Long-Term Benefit Trust, a class of
+stock held by trustees who will elect a board majority, a device
+for placing the institution's long-run interest beyond any single
+natural body (primary announcement). The constitutional
+announcements made alongside such instruments are a different
+matter, and nothing here rests on them. Anthropic's own proposal
+that a constitution for powerful AI systems "could be a democratic
+process wherein diverse stakeholders provide input" produced, on
+Jill Lepore's account, neither of the bodies it named — "No
+promised world governance board was ever assembled … no
+constitutional convention was ever held" — and the constitution
+that was published "was written chiefly by a philosopher working
+for Anthropic" (Lepore, printed p. 106 / PDF p. 120; pins
+provisional). She is a pointer rather than the authority: the
+negative belongs at the labs' own documents, and this chapter
+counts an instrument whose constitutional character was announced
+and not built as no evidence of institutionalisation at all
+[PRIMARY OWED: the labs' published governance documents against
+the announcements]. Even the securities regulator has formalised
+the two-body problem: since 2009, CEO
 succession is a governance matter shareholders may raise, not
 "ordinary business" the board may keep to itself [^9-14].
 
@@ -6069,8 +6967,19 @@ investors, the essential commercial partner. The substitute
 existed, and acted, and could not hold — Charles VI's lucid
 interval in corporate form, the returning person
 re-personalising the constitution that had briefly operated
-without him. Institutionalisation of the new political bodies
-is pending, not achieved; the two-bodies problem of the
+without him. (Bagehot's own prototype of the returning natural
+body was George III, whose reign he treated as the standing
+warning of constitutional royalty — "We have had the case of a
+meddling maniac," and, of such a king's rule, "a secret power
+which is always eager, which is generally obstinate, which is
+often wrong … which is irresponsible because it is inscrutable,
+which cannot be prevented because it cannot be seen" (Bagehot
+1867, "The Monarchy II," PDF p. 46) — the same king of whom he
+wrote that in the 1770s he "was the Government" (Bagehot 1867,
+"The Monarchy II," PDF p. 37). The epithets are his, and they are
+quoted as a Victorian judgement on an office, never as this
+book's description of any person.) Institutionalisation of the new
+political bodies is pending, not achieved; the two-bodies problem of the
 platform age is live, and Chapter 12 weighs it where it bears
 hardest — in the Chinese candidacy, whose settlement is being
 executed as personal rule, and in the succession clauses of every
@@ -6099,9 +7008,30 @@ happens to a constitution when its efficient part migrates — out
 of the office, out of the assembly, into the stack and the
 persons who hold it — and its dignified part stays, gaining an
 authority it no longer uses, raising an army it no longer
-commands. Bagehot's answer for 1867 was the disguise, kept
-deliberately and, he thought, to England's credit. Whether the
-democratic bloc's answer is the same one, in whose favour the
+commands. Two of Bagehot's own observations mark the ground on which
+that question will be fought. The first is a concession his
+theory makes and his confidence does not: a polity resting on
+deference is in "unstable equilibrium," and once the equilibrium
+is disturbed "there is no tendency to return to it" (Bagehot
+1867, "Prerequisites," PDF p. 102), so that a separation which
+has been demonstrated is, on his own account, a separation that
+has begun to fail. The second is a condition the fifteenth
+century did not meet and the present may: the ante-Tudor kings
+could not have manufactured a compliant assembly even had they
+wished to, because "the instrument in that behalf is the
+centralised executive, and there was then no 'prefet' by whom the
+opinion of a rural locality could be made to order" (Bagehot
+1867, "Conclusion," PDF p. 104). The lords of 1454 were an
+unsymmetrical reality because nobody yet possessed the means to
+make them a symmetrical sham; whether the present possesses those
+means is a question this chapter does not answer. Bagehot's own
+answer for 1867 was the disguise — constitutional royalty "acts
+as a DISGUISE. It enables our real rulers to change without
+heedless people knowing it" (Bagehot 1867, "The Monarchy I," PDF
+p. 36), and "it is needful to keep the ancient show while we
+secretly interpolate the new reality" (Bagehot 1867,
+"Conclusion," PDF p. 106) — kept deliberately and, he thought, to
+England's credit. Whether the democratic bloc's answer is the same one, in whose favour the
 disguise is kept, and whether the separation can be demonstrated
 rather than merely suspected — which on Bagehot's own theory
 would be the beginning of its end — are the questions Chapter 12
@@ -6198,8 +7128,8 @@ whoever could keep a siege train in being; Chapter 6 closed with the
 observation that after 1450 sovereignty had a minimum standing cost,
 denominated in guns, powder, wages, carriage and taxes, and that the
 only entities able to sustain it at campaign tempo were the ones we
-would shortly begin calling states. This chapter is about the paying. It
-leaves the battlefield almost entirely — the reader who wants walls
+would shortly begin calling states. This chapter is about the paying.
+It leaves the battlefield almost entirely — the reader who wants walls
 falling has Chapter 6 — and follows the money and the offices: the
 standing army, the permanent tax, the artillery service as a
 department of state, and the reign in which the assembled machine
@@ -6207,19 +7137,32 @@ reached maturity. It is the book's central causal chapter, because the
 mechanism it describes — decisive capability forcing permanent
 finance, permanent finance forcing administrative capacity,
 administrative capacity subordinating every authority between the
-crown and the taxable subject — subordinating, not eliminating: no
+crown and the taxable subject — is the mechanism the whole argument
+claims is repeatable, and the final section will claim is repeating.
+Two glosses are owed at the threshold, because the compressed chain
+invites a stronger reading than the evidence will carry. By
+administrative capacity this book means collecting capacity: the
+capacity to assess, collect and pay at campaign tempo, which is what
+the account books of §IV measure, and not the salaried, rule-bound,
+impersonal bureaucracy Max Weber described — a distinction the
+chapter's sharpest administrative rival makes unavoidable, since on
+Ertman's evidence the wars of these centuries "certainly encouraged
+neither rationalization in the Weberian sense nor the creation of
+proto-modern institutions" (Ertman 1997: 154). The authorities
+subordinated, equally, are the armed ones — the orders, the castles,
+the private companies — and not every fiscal or jurisdictional
+intermediary: subordinating, not eliminating, since no
 European state, on Tilly's reckoning, seriously attempted direct rule
 from top to bottom before the Revolution (Tilly 1990: 25), and what
 the fifteenth century took from the intermediary was its autonomous
-capacity for force — is the mechanism the whole argument claims is
-repeatable, and the final section will claim is repeating. And the
-missing ordonnance is the right threshold to cross into that argument,
-because it makes the point the institutions themselves will make
-repeatedly: what mattered was never a document. It was a payroll that
-did not stop. The paperwork of the artillery state could be lost,
-burned, or — as we shall see, literally — made into cartridges, and
-the state ground on, because the state was not in the paper. It was
-in the recurring transaction.
+capacity for force, not its existence. And the missing ordonnance is
+the right threshold to cross into that argument, because it makes the
+point the institutions themselves will make repeatedly: what mattered
+was never a document. It was a payroll that did not stop. The
+paperwork of the artillery state could be lost, burned, or — as we
+shall see, literally — made into cartridges, and the state ground on,
+because the state was not in the paper. It was in the recurring
+transaction.
 
 ## II.
 
@@ -6260,9 +7203,15 @@ establishment was larger than its famous number; and the founding
 frame was still war-duration, not perpetuity. Permanence was not
 proclaimed. It happened — the companies simply were not disbanded, by
 Charles VII or by anyone after him, and the force grew across the
-century (the tradition's figure of fifty-eight companies and some
-24,000 men by 1483 is carried here at tertiary level, flagged) until
-"until the peace" had quietly become "always."
+century — though not to the figure this chapter used to give for it —
+until "until the peace" had quietly become "always." [NOTE: the
+tradition's fifty-eight companies and some 24,000 men by 1483 is
+withdrawn for want of a source, two authorities in this chapter's
+corpus standing against it: Glete gives the ordonnance companies a
+nominal 14,000 to 17,000, with temporary war efforts bringing the
+total to 40,000 or 45,000 (Glete 2002: 32), and Parrott puts the
+permanent French forces from the mid-fifteenth century at around
+6,000 (Parrott 2012: 30).]
 
 Precision about the claim's rank in the European record. This was not
 the first standing force in Christendom's memory — Charles V had
@@ -6324,74 +7273,98 @@ an army *accounted for*.
 The tax came next, and the tax is where the political battle was
 fought — briefly, as it turned out.
 
-The constitutional theory of French taxation before 1439 was
-consent with a proviso, and the proviso is where the settlement was
-made. The Estates granted, for a purpose and a term, and the grant
-lapsed; but by 1300 the king's right to tax for the defence of the
-kingdom was, in Strayer's account, generally recognised, and a
-Montpellier lawyer of that generation could concede that the king
-might levy without consent for the realm's defence, in the spirit of
-Boniface VIII's *Etsi de statu* of 1297 (Strayer 1970: 54 and n. 48).
-Nor was 1439 the first time a French king had turned the proviso into
-a permanent revenue. Charles V had done it in the 1360s, tailoring the
-levies to the nobility and showing that the money bought security —
-Henneman's account, carried here through Hoffman (Hoffman 2015: 135) —
-and the permanence did not survive him: the levies were abolished on
-his deathbed in 1380, and the crown fought the rest of the Hundred
-Years War on grants. The settlement this chapter describes is
-therefore the *second* making of permanence, and the first, reversed,
-is the strongest evidence the book has that the thing to be explained
-is not permanence but irreversibility. Hoffman's model assumes that
+The constitutional theory of French taxation before 1439 was consent
+with a proviso, and the proviso is where the settlement was made. The
+Estates granted, for a purpose and a term, and the grant lapsed; but
+by 1300 the king's right to tax for the defence of the kingdom was, in
+Strayer's account, generally recognised, and a Montpellier lawyer of
+that generation could concede that the king might levy without consent
+for the realm's defence, in the spirit of Boniface VIII's *Etsi de
+statu* of 1297 (Strayer 1970: 54 and n. 48). Nor was 1439 the first
+time a French king had turned the proviso into a permanent revenue.
+Charles V had done it in the 1360s, tailoring the levies to the
+nobility and showing that the money bought security — Henneman's
+account, carried here through Hoffman (Hoffman 2015: 135) — and the
+permanence did not survive him: the levies were abolished on his
+deathbed in 1380, and the crown fought the rest of the Hundred Years
+War on grants. The settlement this chapter describes is therefore the
+*second* making of permanence, and the first, reversed, is the
+strongest evidence the book has that the thing to be explained is not
+permanence but irreversibility. Hoffman's model assumes that
 "political learning or financial innovation is usually not forgotten"
 (Hoffman 2015: 140); his own French case is the refutation, and §VII
 returns to it. What the ordonnance of 2 November 1439, issuing from
 the Estates at Orléans, verifiably changed was the constitution of
-force, not — so far as this book's sources can show — the
-constitution of taxation. Contamine, who calls it "la grande
-pragmatique sanction," reads it as the crown's claim to the
-exclusive right to raise troops, and his one quotation from the
-act is the licensing clause: "certain nombre de capitaines de gens
-d'armes et de traict sera ordonné pour la conduicte de la guerre"
-— a fixed number of captains, ordained for the conduct of the war
-[TRANS. CLAUDE] [^10-11]. The tradition that
-Orléans also granted the king a permanent taille — the familiar
-textbook sentence — is carried here as what this book's corpus can
-presently show it to be: a tradition, held at tertiary strength
-until the text and the fiscal historians are in [GAP: Wolfe;
-Henneman; Major]. What the record does show is a settlement made
-across seven years, 1439 to 1446, and made as practice rather than
-proclamation. The reader met the 1439 act in Chapter 7 as the
-document the Praguerie rose against — the settlement's own civil
-war, brewing among the lords at Orléans itself and raised, in the
-rebels' stated pretext, against the aides; broken in five months;
-negotiated at Montferrand in May 1440 and closed by July with the
-Dauphiné and a pension for the dauphin, pardons for most, banishment
-from court for La Trémoille, Chaumont and Prie, Dunois's presence
-among the rebels never quite explained, and nothing structural
-conceded — the king's terms restating the ordonnance's claim that all
-the war of the kingdom belonged to the king and his officers and to
-no one else [^10-12]. The claim was, on Vale's account, a
-dead letter for five years: the rebels had met at Blois determined to
-make it one, and it was not until 1445 that some order was brought to
-the companies [^10-13]. Through the 1440s the crown
-continued the taille by annual ordinances no longer sanctioned by the
-Estates; in 1442 the king told the Estates of Languedoc that he did
-not wish such assemblies to meet in future, and the war taxes were
-thereafter granted without their convocation [^10-14]. The act of
-25 April 1446 still spoke the language of emergency — "jusqu'à la
-conclusion de la paix," the formula the reader has already met in
-§II — while, on Contamine's judgment, the arrangements were by
-then "quasi définitif" in the councillors' minds: dressed as
-provisional for the taxpayers' sake, definitive in intent. Around
-1450 the annual improvisation gave way to a single general
-statement of finance; and by mid-century the tax was, in function,
-permanent — collected forever, granted never quite at all. The
-sequence deserves its dates — 1439 the claim to the monopoly of
-force, 1445 its enforcement, the 1440s the practice, 1446 the
-formula, c. 1450 the institution —
-because the gradualism is the finding. No one abolished the
-constitution of consent. It was simply not consulted, year after
-year, until non-consultation was the constitution.
+force, not — so far as this book's sources can show — the constitution
+of taxation. Contamine, who calls it "la grande pragmatique sanction,"
+reads it as the crown's claim to the exclusive right to raise troops,
+and his one quotation from the act is the licensing clause: "certain
+nombre de capitaines de gens d'armes et de traict sera ordonné pour la
+conduicte de la guerre" — a fixed number of captains, ordained for the
+conduct of the war [TRANS. CLAUDE] [^10-11]. The
+tradition that Orléans also granted the king a permanent taille — the
+familiar textbook sentence — can now be dismissed, and dismissed in
+the words of the standard authority on French representative
+institutions. The theory that the estates of 1439 consented to a
+permanent army and voted a permanent taille to support it, so freeing
+the king from consent thereafter, "contains scarcely a word of truth,
+as Antoine Thomas pointed out as early as 1878"; the military
+articles' purpose "was to restore discipline, not to create a
+permanent army"; and of the tax, "Nothing whatsoever was said about a
+permanent taille, and only 100,000 livres were voted" (Major 1960:
+32–34). He is not the consensus, and the disagreement is part of the
+material: Ertman reads the same ordinance as creating in effect a
+royal monopoly of coercion and taxation, and the 1439 taille as a
+one-year grant that continued because the army continued (Ertman 1997:
+86–87, 73). Both sides are named wherever this chapter uses the
+settlement, and the reading that follows is the book's own. What the
+record shows is a settlement made across twelve years, 1439 to 1451,
+as practice rather than proclamation. The reader met the 1439 act in
+Chapter 7 as the document the Praguerie rose against — the
+settlement's own civil war, brewing among the lords at Orléans itself
+and raised, in the rebels' stated pretext, against the aides; broken
+in five months; negotiated at Montferrand in May 1440 and closed by
+July with the Dauphiné and a pension for the dauphin, pardons for
+most, banishment from court for La Trémoille, Chaumont and Prie,
+Dunois's presence among the rebels never quite explained, and nothing
+structural conceded — the king's terms restating the ordonnance's
+claim that all the war of the kingdom belonged to the king and his
+officers and to no one else [^10-12]. The claim was, on
+Vale's account, a dead letter for five years: the rebels had met at
+Blois determined to make it one, and it was not until 1445 that some
+order was brought to the companies [^10-13]. Through the
+1440s the crown continued the taille by annual ordinances no longer
+sanctioned by the Estates; in 1442 the king told the Estates of
+Languedoc that he did not wish such assemblies to meet in future, and
+the war taxes were thereafter granted without their convocation [^10-14]. The act of 25 April 1446 still spoke the language of
+emergency — "jusqu'à la conclusion de la paix," the formula the reader
+has already met in §II — while, on Contamine's judgment, the
+arrangements were by then "quasi définitif" in the councillors' minds:
+dressed as provisional for the taxpayers' sake, definitive in intent.
+Around 1450 the annual improvisation gave way to a single general
+statement of finance; and in 1451 the thing was finished, by a tax
+cut. Charles VII abandoned the regular taille altogether and kept only
+the *taille des gens de guerre*, the soldiers' tax: "Small wonder
+little protest was raised when, in the same breath, the king ordered
+the élus to impose the necessary taxes to support the *lances* without
+convoking the provincial estates to give consent. The taille to
+support the army, like the aides some years earlier, had come to be
+levied by royal command alone" (Major 1960: 42) — the aides having
+gone the same way from 1440 (p. 40). That is the founding date of
+permanence, and the chapter takes it from the revisionist who
+demolished the older one: two years into the Normandy campaign, two
+years before Castillon, inside the artillery years. The sequence
+deserves its dates — 1439 the claim to the monopoly of force, 1440
+onward the aides collected without further consent, 1445 the
+monopoly's enforcement, 1446 the formula, c. 1450 the single statement
+of finance, 1451 the army's own tax by royal command alone — because
+the gradualism is the finding. No one abolished the constitution of
+consent. It was simply not consulted, year after year, until
+non-consultation was the constitution; and the king who did it said as
+much, telling the rebel nobles in 1442 that "it is not necessary to
+assemble the three estates to levy the tailles because it is only a
+burden and an expense to the poor common people who have to pay the
+cost of those who attend" (Major 1960: 34–35).
 
 Beneath the tax sat the machinery that made it collectable — and
 this book's mechanism runs through the machinery, not the rate. The
@@ -6403,46 +7376,145 @@ administration reaching from the council chamber to the parish
 assessment [GAP: the administrative detail at scholarly level
 awaits Wolfe, *The Fiscal System of Renaissance France*]. The pump,
 once primed, no longer needed the Estates' hand on the handle. The
-yield arc is carried on the contemporary estimate Vale prints from
-Commynes: about 1,800,000 francs a year raised under Charles VII,
-and 4,700,000 by Louis XI's death — the whole levy, not the taille
-alone, and a rough tripling in a generation [^10-15] [GAP: the taille's own line awaits
-the fiscal historians — Wolfe]. And then the record supplies its
-own test. At the Estates of Tours in
-1484 — the first Estates General in decades, meeting over a royal
-minority — the assembled realm asserted itself: the taille was
-granted for two years only and cut to some 1.5 million. The
-machine absorbed the cut, outlived the assertion, and no Estates
-General met again until 1560. A tax the constitution said required
-consent had become a tax that could survive the consent's
-withdrawal. That is what "permanent" means in this book: not a
-legal category but a demonstrated property.
+yield arc now rests on the witness himself, who states it twice.
+Charles VII "ne leva plus de dix huit cent mil francs pour an" —
+never levied more than eighteen hundred thousand francs a year, a
+ceiling rather than an average — while Louis XI at the hour of his
+death was levying "quarante sept cens mil francs sans l'artillerie et
+autres choses semblables", four million seven hundred thousand
+without the artillery and other such things [TRANS. CLAUDE]
+[^10-15]. Restating it in a later book he supplies the gloss
+this chapter needs verbatim: the lower figure is what the king levied
+"en toutes choses sur son royaulme", in all things upon his kingdom
+(ii. 290). So not quite a tripling — about two and a half times in a
+generation, which is the witness's own difference of some three
+million francs a year — and the guns outside the headline number
+[GAP: the taille's own line awaits the fiscal historians — Wolfe].
 
-And the dates fix the ratchet's object, which must be named
-precisely because it is easy to name wrongly. The crown's intent
-was set by 1445–46 — before a single Norman wall came down. What
-the guns of 1449–53 made irreversible was therefore not the king's
-programme but everyone else's power to reverse it: the
-assemblies', not summoned again for nearly forty years, their one
-reassertion absorbed; and the magnates', whose Praguerie had
-already failed and whose Public Weal would fail on schedule (§V).
-The technology did not conceive the settlement. It closed the
-argument against it — wall-breaking proof no Estates could argue
-with and no magnate could replicate.
+And then the record supplies its own test, which must be stated with
+the assembly's real history rather than with a tidy silence. After
+1440 the crown abandoned its policy of frequent convocations (Ertman
+1997: 92, on Major). A full Estates General nonetheless met at Tours
+in April 1468 — close to two hundred town deputies, "named in general
+assemblies of the inhabitants", with the prelates and over twenty-four
+nobles, and not, on Major's evidence, stage-managed, since "There is
+no real proof that either Louis XI or the rebellious nobles tampered
+with the elections in the towns" (Major 1960: 54–55, with the
+appendix's unqueried entry at pp. 151–52 and the business at pp.
+55–57). It granted no tax. The assembly that did grant one met in
+1484, over a royal minority, and its fate is the test. The estates
+offered 1,200,000 livres for two years — the figure Commynes, who was
+there, gives as the sum "par forme de taille, oultre son domayne" the
+three estates accorded at Tours [^10-16] —
+against a taille of 4,400,000 in Louis XI's last year; the council
+levied 1,500,000, of which Major remarks that "Perhaps no French
+government ever went further to meet the desires of the people" (Major
+1960: 100, 103). Then, in August, within eight months of the grant, it
+announced 1,500,000 for 1485 "in spite of the fact the Estates General
+had granted only 1,200,000 livres for that year", and the same again
+for 1486, for which the estates "had made no offer at all", with "no
+evidence of any move to force the promised convocation" (pp. 115–16).
+Restricted Estates General met at Tours in 1506 and at Paris in 1558
+(pp. 151–52), and a full, working Estates General "was not to meet
+again until 1560" (Ertman 1997: 92–93). Meanwhile the yield rose: by
+1498 the people paid, on the same witness's page, "plus de deux
+milions et demy de francs de taille", more than two and a half million
+[TRANS. CLAUDE]. A tax the constitution said required consent had
+become a tax that could survive the consent's withdrawal. That is what
+"permanent" means in this book: not a legal category but a
+demonstrated property.
 
-One honesty about vocabulary, because the chapter leans on a term
-the period did not use. "Fiscal-military state" is John Brewer's
-coinage, made for eighteenth-century Britain and extended backward
-by later scholarship to about 1500; no scholarly authority applies
-it to Charles VII's France, whose period-native frame is
-Contamine's *l'État de guerre*. This book retrojects the term
-deliberately, and says so: the claim is not that fifteenth-century
-France anticipated Brewer's Britain in institutional detail, but
-that the coupling Brewer named — war capability and revenue
-machinery growing as one object — is documentably present in the
-French 1440s, and that the French case is the coupling's first
-full demonstration. The reader may treat the label as the book's
-own (c)-grade convenience; the account books beneath it are (a).
+And the dates fix the ratchet's object, which must be named precisely
+because it is easy to name wrongly. The crown's intent was set by
+1445–46 — before a single Norman wall came down. What the guns of
+1449–53 made irreversible was therefore not the king's programme but
+everyone else's power to reverse it. And everyone else is not the
+Estates General. That body had lapsed by 1440, and on Major's account
+it lapsed because the crown found it "no longer necessary" and the
+provinces preferred their own consent — reasons this book does not
+claim and must not borrow: "The ease with which Charles was able to
+abandon the large representative assemblies should by no means be
+considered a victory for the crown" (Major 1960: 36, 37–38). The
+ratchet's object is the provincial estates, whose consent to the
+army's tax stopped being asked in 1451, and the magnates, whose
+Praguerie had already failed and whose Public Weal would fail on
+schedule (§V). The technology did not conceive the settlement. It
+closed the argument against it — wall-breaking proof no province could
+argue with and no magnate could replicate. And the closure was uneven
+in a way the book's last chapters will need. In Normandy, the very
+province the siege train had reconquered, the king in 1458 "committed
+himself to first winning the approval of the three estates of the
+duchy", whose assemblies then met "periodically for nearly two
+centuries"; and where consent survived, in Normandy and Languedoc, the
+taille was collected at sixty and sixty-seven sous the hearth against
+nineteen and twenty-seven in the généralités that had lost it (Major
+1960: 42, 44). Consent, where it held, cost the taxpayer three times
+as much. The same mechanism produced both branches inside one kingdom,
+which is the medieval form of a distinction Part III will have to make
+about the present: the mechanism compels the consolidation and does
+not settle the constitutional form.
+
+One honesty about vocabulary, because the chapter leans on a term the
+period did not use. "Fiscal-military state" is John Brewer's coinage,
+made for eighteenth-century Britain and extended backward by later
+scholarship to about 1500; no scholarly authority applies it to
+Charles VII's France, whose period-native frame is Contamine's *l'État
+de guerre*. The scholarship that extended the term backward is
+Glete's, and he is worth meeting on his own clock rather than around
+it. He calls the type "practically unknown in 1500", reads 1480–1560
+as "largely an embryo where taxes and customs were sufficient only to
+support the nucleus of permanent armed forces", holds that "the early
+but very limited permanent French forces practically disappeared in
+the long civil war period (1562–98)", and gives the French
+fiscal-military state its architect in Colbert (Glete 2002: 21, 28,
+39, 41). His yardstick is explicit and it is an army yardstick:
+whether the bulk of the armed forces, their structure and the taxes
+that support them are retained when the state is at peace (p. 39).
+This chapter's is a fiscal and constitutional one — whether the
+assemblies and the magnates retain the power to reverse the settlement
+— and the two do not measure the same object, since the Wars of
+Religion hollowed the crown's collection without restoring anyone's
+consent to it. So the claim is put at the strength it will bear: not
+that fifteenth-century France anticipated Brewer's Britain in
+institutional detail, and not that it was the first fiscal-military
+state on Glete's yardstick, but that the coupling Brewer named — war
+capability and revenue machinery growing as one object — is
+documentably present in the French 1440s, and that the French case is
+the coupling's first complete run. The reader may treat the label as
+the book's own (c)-grade convenience; the account books beneath it are
+(a).
+
+Two further honesties are owed here, and both strengthen the account
+by narrowing it. The first is what kind of public finance this was.
+The settlement of 1439–51 was a tax settlement and not a credit one.
+On Stasavage's evidence no territorial state in Europe had created a
+long-term funded debt before Castile in 1489, France's first falling
+in 1522, so that the artillery state ran the seventy-six years from
+1446 to 1522 on taxation and short-term merchant credit without the
+instrument that depth of fisc is normally taken to mean; and the
+assemblies the crown dispensed with would have been of no use for the
+purpose, since on the same evidence only assemblies holding a standing
+control right over repayment — Holland, Britain after 1688,
+Württemberg — made a ruler's borrowing cheap (Stasavage 2011, chs.
+1–3). [NOTE: the corpus copy of Stasavage is an EPUB without printed
+pagination; the pins behind this paragraph are to be re-verified at
+the printed page before press, and nothing is quoted from him here.]
+What this book's mechanism requires is money collected at campaign
+tempo, not money borrowed against the future; the funded debt was a
+later and different achievement, and the chapter claims none of it.
+The second honesty is the defect. The revenue administration that
+collected the taille was proprietary from the beginning — on Ertman's
+evidence fifteenth-century French administration was "dotted with
+clans and dynasties of officials who treated their offices as their
+own property", and the crown's lenders were those same officials
+rather than bankers, so that the price of France's precocity was "a
+substantial loss of effective control to proprietary officeholders,
+tax farmers, and officeholder-financiers" (Ertman 1997: 28, 76, 81).
+Collecting capacity and venality arrived together, and the book
+carries the pairing rather than tidying it away, because a state that
+licenses a decisive capability to a supplier and then borrows against
+the licence is running the same arrangement with different
+instruments.
 
 ## IV.
 
@@ -6465,11 +7537,30 @@ here: before 1444 the war treasury ran, in Contamine's words, with
 "ni budget, ni prévisions" — neither budget nor forecasts [TRANS.
 CLAUDE] — and only from 1445 did the permanent army's financial
 infrastructure show what he calls its incontestable efficiency
-[^10-16]. The guns achieved their two-to-one ascendancy
+[^10-17]. The guns achieved their two-to-one ascendancy
 under improvised finance; the institution then made the ascendancy
 permanent. What this chapter adds beyond that is duration and
 depth: the line item became a department, and the department can
 be audited.
+
+A limit on the claim belongs here, stated where it bites. The account
+series of the masters runs from 1418, but an artillery *service* in
+the full sense — a hierarchy of command with administrative offices
+beneath it — cannot be shown for Charles VII's reign at all: of one,
+Perroy writes, "il ne reste aucune trace", no trace remains, the
+gunners unregimented and the control of manufacture and upkeep
+unknown; and he gives the merit of accelerating and completing the
+reform to Guillaume Bournel, master of the artillery from 15 August
+1473, under Louis XI [^10-18]. Read forwards
+that is the ratchet on schedule rather than an embarrassment:
+improvised command won the sieges of 1449–53, and the institution that
+made the winnings permanent was built afterwards, by the king who
+inherited them. The audit came with the institution. From the last day
+of 1464 Jean Bureau ceased to account for the artillery's money, which
+passed to finance officers and keepers, and the Chambre des comptes
+withheld his own quittance while he remained answerable, on the
+artillery's money alone, for 28,704 livres 16 sous parisis [^10-19]. Command was separated from cash, and the cash
+was chased.
 
 By the end of the century the artillery ran on two permanent
 accounts with professional treasurers. The *ordinaire* account of
@@ -6479,67 +7570,129 @@ appointés pour les gages des canonniers, aides canonniers et
 autres officiers de ladicte artillerie du Roy" — totalled 24,236
 livres tournois for the year's wages, and it was the
 *twenty-second* account of its series: the permanent
-artillery-wage line runs back to about 1469 [^10-17]. The *extraordinaire* — campaign expenditure — for 1489
+artillery-wage line runs back to about 1469 [^10-20]. The *extraordinaire* — campaign expenditure — for 1489
 totalled 111,733 livres, drawn across the généralités, Normandy
-and Picardy carrying the largest assignments [^10-18]. In 1489 the artillery's expenditures reached 8 per cent
-of all French military spending [^10-19]. The
+and Picardy carrying the largest assignments [^10-21]. In 1489 the artillery's expenditures reached 8 per cent
+of all French military spending [^10-22]. The
 administration of these accounts — keeping, payment, control,
 certification — cost 3,667 livres, 3.3 per cent of the total,
 and employed about thirty clerks; the ordinaire was paid
 quarterly, "comme c'est la règle pour tout ce qui ressortit à
 l'armée permanente" — as is the rule for everything belonging to
-the permanent army [TRANS. CLAUDE] [^10-20]. Pause
+the permanent army [TRANS. CLAUDE] [^10-23]. Pause
 on what that sentence attests. There was a *rule*, and the guns
 were inside it: the most advanced weapons system in Europe was a
 quarterly payroll with a three-per-cent administrative overhead,
 audited by clerks whose names survive.
 
-The personnel had become a career service. The standing
-establishment was small — hardly more than 150 names, swollen by
-mass extraordinary labour in campaign season — and it was
-long-service: of thirty-nine cannoneers attested in 1469, nine
-were still serving twenty-two years later, average careers of
-around twenty years [^10-21]. The offices had
-specialised into a bureaucratic anatomy: a captain of the
-wagon-train; a treasurer and keeper of saltpetres, sulphurs and
-lead; a keeper of powders; a captain of "mines and approaches"; a
-keeper of the "small engines" at Paris [^10-22]. The
-master of the artillery had acquired a jurisdiction as well as a
-command — in March 1487 the saltpetre-men of Paris appeared in
-judgment before the master "en son auditoire ou chastel du
-Louvre," the office holding court like any other great office of
-the crown [^10-23]. And the logistical footprint
-was a state programme in itself. The fragmentary accounts of the
-1477 Artois campaign — recovered, by one of archival history's
-better accidents, from the binding of a 1721 book into which the
-waste paper had been folded — let the financiers' own forecasts
-speak: the guns and tools of three artillery bands required 521
-horses; the powder, saltpetre, sulphur, lead, shot,
-bombard-stones, two mobile forges, pioneers' tools, cordage and
-tents required 1,009 more; with 800 pioneers marching under the
-captain of the wagon-train [^10-24]. Twelve years earlier,
-during the Public Weal crisis, the Milanese ambassadors had
-described the royal train on the move: "la plus belle du monde,"
-its convoy six leagues long, drawn by 1,200 horses — enough, they
-wrote home, "de quoi faire trembler le monde entier," to make the
-whole world tremble [TRANS. CLAUDE] [^10-25]. Diplomats do not exaggerate to their own
-principals. The train was already, in 1465, an instrument of
-state communication: it said, at walking pace and six leagues of
-road, what the account books said in livres.
+The personnel had become a career service. The standing establishment
+was small — hardly more than 150 names, swollen by mass extraordinary
+labour in campaign season — and it was long-service: of thirty-nine
+cannoneers attested in 1469, nine were still serving twenty-two years
+later, average careers of around twenty years [^10-24]. The offices had specialised into a bureaucratic anatomy: a
+captain of the wagon-train; a treasurer and keeper of saltpetres,
+sulphurs and lead; a keeper of powders; a captain of "mines and
+approaches"; a keeper of the "small engines" at Paris [^10-25]. The master of the artillery had acquired a jurisdiction as well
+as a command — in March 1487 the saltpetre-men of Paris appeared in
+judgment before the master "en son auditoire ou chastel du Louvre,"
+the office holding court like any other great office of the crown
+[^10-26]. And the logistical footprint was a state
+programme in itself. The fragmentary accounts of the 1477 Artois
+campaign — recovered, by one of archival history's better accidents,
+from the binding of a volume in the keeper's charge at the John
+Rylands, into which the waste paper had been folded — let the
+financiers' own forecasts speak: the guns and tools of three artillery
+bands, with twenty-six culverins of the old ordinance added to them,
+required 521 horses; the stores — bows and crossbows for the infantry,
+two travelling forges, pioneers' tools, powder, saltpetre, sulphur,
+charcoal, lead, shot, bombard-stones, cordage, tents and pavises —
+required 1,609 more, "ce qui portait le convoi au total de 2.130
+chevaux", bringing the convoy to 2,130 horses in all [TRANS. CLAUDE],
+with 800 pioneers and labourers under a captain of the wagon-train
+[^10-27]. Price the column and the register of the
+thing is plain: 2,130 horses at three sous four deniers a day is 355
+livres tournois a day, and the whole monthly estate of the train,
+before a barrel of powder is bought, stands at 14,010 livres tournois
+[^10-28]. Against which the men were cheap. In the band
+Samain commanded the captain drew 400 livres a year and six gunners
+between 90 and 180, while the other twenty-two "se contentent de 60 l.
+annuelles, ce qui représente les gages d'un modeste ouvrier, maçon ou
+charron" — made do with sixty livres a year, a modest workman's wage,
+a mason's or a wheelwright's [TRANS. CLAUDE] [^10-29].
+The capital was dear and the technicians were not: the crown was
+paying for an establishment, not for a scarcity of skill. [NOTE: the
+accounts are John Rylands French ms. 57, the Fawtier find; the earlier
+form of this passage gave 1,009 horses for the stores and dated the
+binding to a 1721 book — the first is the Persée text layer's
+misreading of 1,609, corrected here at the page image and confirmed by
+the document's own "Somme totale 2.130 chevaulx" [^10-30],
+and the second is nowhere in Perroy, who dates the binding not at all.
+His narrative and his document disagree on the number of old-ordinance
+culverins (twenty-six at p. 294, thirty-six at p. 301), and the
+monthly forecast does not foot; the figures are given as printed.]
+Twelve years earlier, during the Public Weal crisis, the Milanese
+ambassadors had enthused at the royal train on the move — the finest
+in the world, they said, great bombards and admirable engines of war,
+its convoy six leagues long and drawn by 1,200 horses, enough "de quoi
+faire trembler le monde entier", to make the whole world tremble
+[TRANS. CLAUDE] [^10-31]. Diplomats do not exaggerate to
+their own principals. [NOTE: the French of both phrases is Perroy's,
+reporting the despatches rather than transcribing them; the sentence
+is carried at his strength and not at theirs.] The train was already,
+in 1465, an instrument of state communication: it said, at walking
+pace and six leagues of road, what the account books said in livres.
 
 The through-line runs to the century's end and out of this
 book's period. On the night of 31 December 1494, Charles VIII's
 artillery entered Rome: more than thirty-six pieces drawn by
 horses "à une incroyable vitesse" over any ground, the greatest
 of them bronze cannon eight feet long and six thousand pounds
-[^10-26] — the mobile train whose
+[^10-32] — the mobile train whose
 Italian debut announced to every chancery in Europe what the
 French account books had been quietly compounding for fifty
-years. Contamine's own summary of the position on the eve of
+years.
+
+The eyewitness can be heard directly, and should be, since he rode
+with that campaign and is a primary source where this chapter has been
+resting on a modern historian carrying another. The Italians, Commynes
+writes, "n'entendoient point le faict de l'artillerie, et en France
+n'avoit jamais esté si bien entendue" — did not understand the
+business of artillery, and in France it had never been so well
+understood [TRANS. CLAUDE] [^10-33]. Monte
+San Giovanni, a strong place, "fut batue sept ou huyt heures et puis
+prinse d'assault", was battered seven or eight hours and then taken by
+assault (iii. 91–92). From Asti to Naples, the castle of Naples
+excepted, nobody held the king up for a single natural day, and the
+quartermasters rode ahead with chalk in their hands to mark the
+billets (iii. 81). The chalk is the argument: what crossed Italy in
+1494 was an administration with guns attached rather than a weapon
+with an administration attached. Two disciplines travel with the
+witness: his own explanation of the campaign is providential, it could
+only have come "de Dieu seul" (iii. 81), so the mechanism is the
+historian's frame imposed on the record and not the participant's
+reading of it; and the expedition's cash was borrowed, a hundred
+thousand francs from the bank of Soly at Genoa at fourteen per cent
+(iii. 3), which is campaign cash-flow and not the standing capability
+this chapter has been costing. Then the line the book prints rather
+than waiting for a reviewer to find it. At Fornovo in July 1495, the
+first time the train was fired in the open field, the same witness
+reports that "je ne croy point que l'artillerie des deux costéz tuast
+dix hommes et ne dura point le combat ung quart d'heure" — I do not
+believe the artillery of the two sides killed ten men, and the fight
+did not last a quarter of an hour [TRANS. CLAUDE] (iii. 192). That is
+not a counter-example. The decisiveness claimed in this book was
+always at the walls and in the exchequer and never on the battlefield,
+which is where Chapter 6 put it; a primary witness reporting that the
+first field trial killed fewer than ten men confirms the architecture
+rather than damaging it. [NOTE: Calmette's note at iii. 192 attributes
+the artillery's ineffectiveness, after Mandrot, to the storm Commynes
+records at iii. 174, which had wetted the powder.]
+
+Contamine's own summary of the position on the eve of
 Italy can close the institutional case: Charles VIII "a pu se
 laisser persuader qu'il possédait un instrument qu'aucune
 coalition ne pouvait briser" — an instrument no coalition could
-break [TRANS. CLAUDE] [^10-27]. The claim proved
+break [TRANS. CLAUDE] [^10-34]. The claim proved
 optimistic in Italy's politics; about the instrument's nature it
 was exact. What no coalition could break was not the guns. It
 was the two account series, the quarterly rule, the thirty
@@ -6548,10 +7701,10 @@ guns a permanent fact rather than a campaign's improvisation.
 
 ## V.
 
-Louis XI is the chapter's exemplar because his reign (1461–83)
-is where the assembled machine was stress-tested by the men it
-was built to make obsolete — and the test's result is legible in
-a way no narrative of royal cunning quite captures.
+Louis XI is the chapter's exemplar because his reign (1461–83) is
+where the assembled machine was stress-tested by the men it was built
+to make obsolete — and the test's result is plain in a way no
+narrative of royal cunning quite captures.
 
 The War of the Public Weal, in 1465, was the over-mighty
 subjects' last systemic bid: a league of the great princes —
@@ -6560,11 +7713,11 @@ with the reform of the realm as its stated programme and the
 dismantling of the fiscal machine as its evident one. Militarily
 the league did well. Montlhéry (16 July 1465) was indecisive —
 the Burgundian guns, DeVries notes, managed no more than ten
-salvos [^10-28]; the artillery duel before Paris that
+salvos [^10-35]; the artillery duel before Paris that
 August and September "may have been the most fearsome artillery
 duel of the century," with Commynes, who was present, supplying
 the eyewitness superlative: "I have never seen so much shooting
-in such a few days" [^10-29]. The towns, a recent
+in such a few days" [^10-36]. The towns, a recent
 study of the urban dimension shows, held for the crown. And at
 the treaties of Conflans and Saint-Maur that October the princes
 won on paper nearly everything: Normandy to the king's brother,
@@ -6578,48 +7731,60 @@ lapse, and whose capacity to resume the contest was, unlike
 theirs, a standing fact. The Public Weal failed not at a battle
 but at the exchequer.
 
-The rest of the reign is the working-out. Charles the Bold's
-death before Nancy in January 1477 — the counter-case §VI treats
-on its own terms — opened Burgundy, and Louis seized the duchy
-and Picardy, holdings confirmed at the Treaty of Arras in 1482;
-Anjou, Maine and Provence had come to the crown by 1481 (the
-last count of Maine naming Louis heir the day before he died —
-the date tradition varies and is flagged [GAP: pin to a Louis XI
-biography on retrieval]). The appanage system — the great
-princely endowments that had structured French politics for a
-century, and nearly destroyed France under Charles VI — was
-absorbed piece by piece, not by battle but by the patient
+The rest of the reign is the working-out. Charles the Bold's death
+before Nancy in January 1477 — the counter-case §VI treats on its own
+terms — opened Burgundy, and Louis seized the duchy and Picardy,
+holdings confirmed at the Treaty of Arras in 1482; Anjou, Maine and
+Provence had come to the crown by 1481 (the last count of Maine naming
+Louis heir the day before he died — the date tradition varies and is
+flagged [GAP: pin to a Louis XI biography on retrieval]). The appanage
+system — the great princely endowments that had structured French
+politics for a century, and nearly destroyed France under Charles VI —
+was absorbed piece by piece, not by battle but by the patient
 application of superior permanence: the crown could wait, fund,
-litigate, pension and outlive, because the crown's resources
-were institutional and every rival's were biographical. The
-enemies understood this perfectly, and said so in the century's
-most quoted insult. The image of the king as spider — weaving,
-patient, venomous at the centre of a web of paid threads — is
-Burgundian propaganda: Chastelain's image, in a ballade of 1467,
-generalised by Molinet as "l'universelle aragne," the universal
-spider. This book quotes the name as what it is — not a neutral
-epithet but the losing side's description of the fiscal state's
-operator, and precisely for that reason the best contemporary
-testimony to what it felt like to stand outside the machine and
-watch it work. Commynes, who defected from Burgundy to the
-spider's service and knew both courts, left the judgement of the
-age from the inside: "of all the princes that I ever knew, the
-wisest and most dexterous to extricate himself out of any danger
-or difficulty in time of adversity, was our master King Louis
-XI" [^10-30]. Wisdom and dexterity had a
-balance sheet: the near-tripled levy, the standing companies, the
-enlarged train. Louis XI's France is the first polity in this
-book's story in which the crown is systematically stronger than
-any of its subjects — and the difference is not charisma, or
-luck, or even cunning. It is a budget line no subject could
-match, compounding annually.
+litigate, pension and outlive, because the crown's resources were
+institutional and every rival's were biographical. The enemies
+understood this perfectly, and said so in the century's most quoted
+insult. The image of the king as spider — weaving, patient, venomous
+at the centre of a web of paid threads — is Burgundian propaganda, and
+the pedigree is worth getting right, because the famous form of it is
+not the form its author wrote. Chastellain's line, in a ballade
+lamenting the death of Philip the Good, is "Lyon fameux, tryacle
+contre araigne" — famous lion, treacle against the spider [TRANS.
+CLAUDE] (Chastellain, *Le Lyon rampant*, ed. Kervyn, t. VII: 207); the
+"universel araigne", the universal spider, stands in the next ballade
+of the same volume, which Kervyn takes from Chastellain and restores
+to Molinet (t. VII: 208–09). The epithet therefore belongs to the
+Burgundian court rather than to one poet, and this book reads it for
+what such an epithet is — the losing side's name for the man who ran
+the machine, and for that reason the best contemporary testimony to
+what it felt like to stand outside the machine and watch it work.
+[NOTE: the reading is the book's own: the edition's apparatus glosses
+the spider as a figure for intrigue and concealed venom rather than
+for the fisc, and Kervyn dates the ballade nowhere, though the dead
+lion it laments is Philip the Good, who died in 1467.] Commynes, who
+defected from Burgundy to the spider's service and knew both courts,
+left the judgement of the age from the inside: of all the men he had
+ever known, "le plus saige pour sy tyrer d'un mauvais pas en temps
+d'adversité, c'estoit le roy Loys unziesme, nostre maistre" — the
+wisest at getting himself out of a bad pass in time of adversity was
+King Louis the Eleventh, our master [TRANS. CLAUDE] [^10-37]. [NOTE: Andrew Scoble's Victorian translation, which
+this chapter formerly quoted, renders the single adjective "le plus
+saige" as "the wisest and most dexterous to extricate himself out of
+any danger or difficulty"; the doubling and the expansion are the
+translator's, not the memoirist's.] Wisdom and dexterity had a balance
+sheet: the near-tripled levy, the standing companies, the enlarged
+train. Louis XI's France is the first polity in this book's story in
+which the crown is systematically stronger than any of its subjects —
+and the difference is not charisma, or luck, or even cunning. It is a
+budget line no subject could match, compounding annually.
 
 ## VI.
 
 A mechanism worth the name must survive its counter-cases, and this
-chapter has four — each a polity that held one part of the artillery
-state's triad and lacked another, and each failing in the direction
-its missing part predicts.
+chapter has four, with two further controls entered at the end — each
+a polity that held one part of the artillery state's triad and lacked
+another, and each failing in the direction its missing part predicts.
 
 Burgundy first, because Burgundy is the objection every informed
 reader has been holding since Chapter 6. Charles the Bold's state had
@@ -6630,103 +7795,136 @@ regulated training, discipline, equipment and pay; refined at Bohain
 in 1472; the famous drill ordinance issued outside Trier at
 St-Maximin in 1473, with its squadron structures, uniforms,
 roll-calls and punishments; Lausanne in 1476 — have been read by
-modern scholarship [^10-31] as
+modern scholarship [^10-38] as
 marking the state's values prevailing over chivalry's in the
 ordering of an army [no verbatim printed: the quotation reaches
 this book only through an intermediary, and per the attribution
 rule it is paraphrased until pinned at source — GAP: Heimpel at
 source, or cut at assembly; ordinance labelling and detail to pin
-against Vaughan's *Charles the Bold*]. The artillery matched: Commynes calls
-it "very large and powerful"; La Marche counts "more than 300 carts
+against Vaughan's *Charles the Bold*]. The artillery matched:
+Commynes, of the duke's array in
+1474–75, writes of "une très grande et puissante artillerie", a very
+great and powerful artillery [TRANS. CLAUDE] [^10-39]; La Marche counts "more than 300 carts
 of guns, not counting his culverins or 'haquebusses' which were
-'without number'"; at Neuss an eyewitness saw culverin fire "thicker
-than rain" [^10-32]. Nor was the apparatus behind
+'without number'", and at Neuss an eyewitness saw culverin fire
+"thicker than rain" [^10-40]. [NOTE: the Commynes
+phrase is re-pinned here and DeVries dropped as its carrier — his
+n. 53 sends it to Calmette tome I p. 94, which opens the Liège wars
+and carries no such words; the nearest second phrase is at ii. 102,
+before Grandson. The La Marche and Neuss quotations reach this book
+only through DeVries, neither original being in its corpus, and are
+to be re-verified at source or cut before press.] Nor was the
+apparatus behind
 the guns inferior: Burgundy instituted a dedicated *recette de
 l'artillerie* in 1458, its accounts auditable at the Chambre des
 comptes of Lille, its budget estimates passing through multiple
-correcting hands, the duke himself the *ordonnateur* [^10-33]. The duke even paid
+correcting hands, the duke himself the *ordonnateur* [^10-41] — and it was instituted inside a general
+financial reform of the year before, when, after chancellor Rolin's
+fall, the incoming men "créèrent six souverains gouverneurs sur le
+fait des finances" and set inspectors over every country and every
+body of officers, "là où de tous lez on tiroit argent", where money
+was being drawn in from every side [TRANS. CLAUDE] (Chastellain, ed.
+Kervyn, t. III: 335). The artillery office was one limb of a fiscal
+tightening, which is the pattern this chapter has been describing in
+France. The duke even paid
 better: his 1471 permanent army, raised "sur le modèle français,"
 gave its man-at-arms 38.60 grams of gold a month against the French
 36.70, with a squad-leader's supplement the French grid lacked,
-"destinée à assurer une rigueur plus grande" [^10-34]. By every measurable input — organisation, guns, accounts, pay —
+"destinée à assurer une rigueur plus grande" [^10-42]. By every measurable input — organisation, guns, accounts, pay —
 Burgundy was running the artillery state's programme, and running
 parts of it — the recette, instituted eleven years before the French
 artillery-wage line begins; the wartime gunner's pay — better than
 France, though its peacetime gunners drew half the French rate
-[^10-35].
+[^10-43].
 
 It lost anyway, and the manner of the losing is the anti-determinist
 lesson this book most needs to state. At Grandson, on 2 March 1476,
 the speed of the Swiss advance "did not give the Burgundians time to
-make much use of their artillery," and a repositioning manoeuvre
-read as retreat collapsed the army into rout; the Swiss took the
-camp whole — the treasury, the diamonds, and by tradition some four
-hundred guns, a figure this book carries as the tradition's, not the
-archives' (the surviving Burgundian records document the aftermath
-as budget emergency — the état of July 1476 opening with a
-recapitulation of what the duke *still had*, serpentines to be
-borrowed because there were too few, the forecasts revised downward,
-four bombards to two and four hundred pioneers to thirty, for reasons
-the accounts pose as a question rather than answer — but no count of
-what he lost; Depreter 2011; Depreter 2011b: 99, 116–17, 135, 171).
-Casualties at Grandson were small on both
-sides; the defeat was of an army's cohesion, not its bodies. At
-Morat, on 22 June 1476, operational surprise caught the Burgundian
-army divided and undeployed, and the dead ran somewhere between six
-and twelve thousand — perhaps a third of the army, with the range
-stated because the sources will not narrow it. At Nancy, on 5
-January 1477, Charles was killed; the body was found days later,
+make much use of their artillery," and a repositioning manoeuvre read
+as retreat collapsed the army into rout; the Swiss took the camp whole
+— the treasury, the diamonds, and by tradition some four hundred guns,
+a figure this book carries as the tradition's, not the archives' (the
+surviving Burgundian records document the aftermath as budget
+emergency — the état of July 1476 opening with a recapitulation of
+what the duke *still had*, serpentines to be borrowed because there
+were too few, the forecasts revised downward, four bombards to two and
+four hundred pioneers to thirty, for reasons the accounts pose as a
+question rather than answer — but no count of what he lost; Depreter
+2011; Depreter 2011b: 99, 116–17, 135, 171). Casualties at Grandson
+were small on both sides; the defeat was of an army's cohesion, not
+its bodies. At Morat, on 22 June 1476, operational surprise caught the
+Burgundian army divided and undeployed, and the dead ran somewhere
+between six and twelve thousand — perhaps a third of the army, with
+the range stated because the sources will not narrow it. At Nancy, on
+5 January 1477, Charles was killed; the body was found days later,
 stripped, frozen, split by a halberd and part-eaten by wolves,
-identified by old scars and the long fingernails. Cheap,
-disciplined, distributed infantry had beaten the best
-capital-intensive army in Europe three times inside ten months.
-Anyone tempted to write the fifteenth century as gun-determinism
-must stop here and stay as long as necessary.
+identified by old scars and the long fingernails. Cheap, disciplined,
+distributed infantry had beaten the best capital-intensive army in
+Europe three times inside ten months. Anyone tempted to write the
+fifteenth century as gun-determinism must stop here and stay as long
+as necessary. Nor is the ballast only Burgundian. [NOTE: the French
+limb, for the same purpose: the royal train lost seven heavy cast
+culverins brought from Langres and Troyes at Dole in the summer of
+1477, struck out of its own inventory as "perdues a Dole" [^10-44]; the campaign that had taken Arras, Hesdin, Boulogne
+and Le Quesnoy in days or weeks failed before Saint-Omer in August;
+and of what followed, against the Flemings with Maximilian behind
+them, Perroy's summary is flat — the later campaigns "ne devaient
+apporter que des déboires", were to bring nothing but reverses [TRANS.
+CLAUDE] [^10-45].]
 
 But the sequel is the finding, and it must be stated on the evidence
 rather than beyond it. Burgundy's fall did not disperse power. It
 passed the lands and revenues to the French and Habsburg fiscs
 flanking it, and it passed the *offices* — the recette and its
 officers, Jehan Charles continuing in post after the duke's death,
-Dommarien master of the artillery again under Maximilian in 1478 —
-while the guns themselves were largely gone: the losses of matériel
-at Grandson and Morat were, in Depreter's judgment, "sans doute
-catastrophiques," and the ducal arsenals stood "quasi vidés," all but
-emptied, at the end [TRANS. CLAUDE] [^10-36]. What the same accounts show beneath the offices is a fisc
+Dommarien master of the artillery again under Maximilian in 1478, and
+part of the apparatus passing the other way, to the king, who raised a
+fourth artillery band for the conquest of the duchy and paid it
+through the ducal registers themselves — while the guns themselves
+were largely gone: the losses of matériel at Grandson and Morat were,
+in Depreter's judgment, "sans doute catastrophiques," and the ducal
+arsenals stood "quasi vidés," all but emptied, at the end [TRANS.
+CLAUDE] [^10-46]. [NOTE: the fourth band
+is the *bande de Bourgogne* under Jean Barrabin, who styled himself
+lieutenant general of the king's artillery — seventeen gunners, two
+bombardiers and seventeen craftsmen in the spring of 1477, men and
+guns out of Troyes and Langres, seven iron serpentines cast at Dijon
+for the siege of Vesoul — paid through Archives de la Côte-d'Or B
+1778, the ducal series [^10-47]: part of the
+office changed sovereign and went on accounting in the same
+registers.] What the same accounts show beneath the offices is a fisc
 that had not yet become permanent. The carriage levy for the last
-campaign rested on an assessed corvée that the Estates of Flanders
-and Brabant appealed against, Flanders buying out a third of it in
-money; the receiver of the artillery, Menostey, had been embezzling
-since at least 1472, was exposed by his own controller and left in
-post, and was gaoled on 15 January 1477, ten days after Nancy, and
-dismissed with a fine; the master wrote from Metz in December 1476
-that everyone was taking the duke's goods at any price because his
-people were abandoning him "par povretés," out of poverty, and that
-the bombards lay idle for want of powder [TRANS. CLAUDE] [^10-37]. The duke had been before Nancy
-since 22 October and was still not in strength there in mid-December
-[^10-38]. The inference this book draws from that
-evidence is its own, and is marked as such: Depreter names no
-dynastic centre, lists fifteen sieges won between Dinant and Grandson
-against the four famous failures, and declines to say the duke was
-bound to lose [^10-39]. The book's reading is that
-Burgundy failed on two variables at once. It had the offices of the
-artillery state ahead of France and not the fiscal permanence behind
-them — a levy the Estates could still appeal, a fraud the centre
-could not afford to punish, a season's losses that could not be
-re-funded — and it routed everything through a single mortal node, so
-that one battlefield death unwound a state built to the highest
-contemporary specification. (This book carries that two-variable
-finding forward: offices are not an apparatus until the fisc beneath
-them is irreversible, and neither survives a polity that is one life
-long — a finding with work to do in Part III, where the European test
-must carry both variables rather than one.) And the archive itself
-supplies the closing irony, which the draft declines to improve upon:
-the older accounts of the recette de l'artillerie were taken during
-the Revolution to be made into powder cartridges, "gargousses de
-poudre," and the one that survives entire had been moved to Brussels
-in 1769 [^10-40]. The fiscal-military state's paperwork,
-fired at its enemies by its successor: the metaphor writes itself,
-and is therefore left exactly as the archivists found it.
+campaign rested on an assessed corvée that the Estates of Flanders and
+Brabant appealed against, Flanders buying out a third of it in money;
+the receiver of the artillery, Menostey, had been embezzling since at
+least 1472, was exposed by his own controller and left in post, and
+was gaoled on 15 January 1477, ten days after Nancy, and dismissed
+with a fine; the master wrote from Metz in December 1476 that everyone
+was taking the duke's goods at any price because his people were
+abandoning him "par povretés," out of poverty, and that the bombards
+lay idle for want of powder [TRANS. CLAUDE] [^10-48]. The duke had been before Nancy since 22 October
+and was still not in strength there in mid-December [^10-49]. The inference this book draws from that evidence is its own, and
+is marked as such: Depreter names no dynastic centre, lists fifteen
+sieges won between Dinant and Grandson against the four famous
+failures, and declines to say the duke was bound to lose [^10-50]. The book's reading is that Burgundy failed on two
+variables at once. It had the offices of the artillery state ahead of
+France and not the fiscal permanence behind them — a levy the Estates
+could still appeal, a fraud the centre could not afford to punish, a
+season's losses that could not be re-funded — and it routed everything
+through a single mortal node, so that one battlefield death unwound a
+state built to the highest contemporary specification. (This book
+carries that two-variable finding forward: offices are not an
+apparatus until the fisc beneath them is irreversible, and neither
+survives a polity that is one life long — a finding with work to do in
+Part III, where the European test must carry both variables rather
+than one.) And the archive itself supplies the closing irony, which
+the draft declines to improve upon: the older accounts of the recette
+de l'artillerie were taken during the Revolution to be made into
+powder cartridges, "gargousses de poudre," and the one that survives
+entire had been moved to Brussels in 1769 [^10-51]. The
+fiscal-military state's paperwork, fired at its enemies by its
+successor: the metaphor writes itself, and is therefore left exactly
+as the archivists found it.
 
 The finding has a contemporary control, and it belongs here,
 beside Burgundy, rather than in Part III. In the spring of 2026
@@ -6736,11 +7934,12 @@ Congressional Research Service dates from 28 February 2026, with
 objectives it lists as destroying the ballistic-missile arsenal
 and programme, the navy, the terror networks and the nuclear
 ambition, while recording that "it remains unclear" under what
-circumstances those threats would be deemed eliminated [^10-41]. Three months in, the Economist's departing defence
+circumstances those threats would be deemed eliminated [^10-52]. Three months in, the Economist's departing defence
 editor, writing the transparency decade's summa, reported some
 thirteen thousand targets struck and three-quarters of Iran's
 pre-war missile launchers surviving, under a political centre
-that had never resolved what the apparatus was for [^10-42]. Apparatus without a coherent political object produced stalemate,
+that had never resolved what the apparatus was for [^10-53]. Apparatus without a coherent political
+object produced stalemate,
 as offices without a permanent fisc or a survivable centre had
 produced collapse. The disanalogy is
 stated at once, because the parallel otherwise overclaims:
@@ -6750,28 +7949,37 @@ The case demonstrates non-sufficiency, nothing more — which is
 precisely the anti-determinist lesson this section exists to
 hold. [BOOK'S ARGUMENT]
 
-The Swiss are the second counter-case, and the deeper one. The
-victors of Grandson and Morat had just demonstrated the century's
-most decisive field capability — and no Swiss artillery state
-followed. No permanent central taxation; no standing army; no
-chancery state. The Confederation nearly broke apart over the spoils
-and the admission of new members, saved at Stans in December 1481 by
-the mediation of Nicholas of Flüe; and its military excellence was
-monetised not as sovereignty but as *export* — the pension and
-capitulation economy, regular foreign payments flowing to cantonal
-authorities from the late fifteenth century, the first formal
-Franco-Swiss troop convention following in 1521. The Swiss won the
-battles and sold the instrument; the fiscal states bought it. The
-lesson, and it is the book's own synthesis (c) resting on the sourced
-components above: pike squares, unlike siege trains, required no
-permanent fisc, no arsenal, no technical service — and so they
-*forced no institution-building* on the polity that fielded them.
-Decisive military technology consolidates sovereignty not through
-the battles it wins but through the institutions it compels. Where
-the technology compels nothing — where excellence can be sustained
-by valley communities training on Sundays — victory is politically
-sterile. The Swiss case is not an exception to the mechanism. It is
-the mechanism's control group.
+The Swiss are the second counter-case, and the deeper one. The victors
+of Grandson and Morat had just demonstrated the century's most
+decisive field capability — and no Swiss artillery state followed. No
+permanent central taxation; no standing army; no chancery state. The
+Confederation nearly broke apart over the spoils and the admission of
+new members, saved at Stans in December 1481 by the mediation of
+Nicholas of Flüe; and its military excellence was monetised not as
+sovereignty but as *export* — the pension and capitulation economy,
+regular foreign payments flowing to cantonal authorities from the late
+fifteenth century. Louis XI concluded a treaty with the eight cantons
+on 26 October 1474, promising six thousand men on demand at three and
+a half Rhenish florins a head a month [^10-54], and McNeill
+dates to 1479 the point at which the king disbanded his own French
+foot and contracted with the Swiss instead (McNeill 1982: 136 n. 18).
+[NOTE: the 1521 date this chapter formerly gave for the first formal
+Franco-Swiss convention is withdrawn — nothing in the corpus supports
+it. McNeill's 1479 cites Contamine 1972: 284, which has not been
+checked at that page; and on Contamine's own account elsewhere the
+cantons withheld an officially constituted contingent until August
+1480, Louis XI dying without ever obtaining one on the treaty's
+terms.] The Swiss won the battles and sold the instrument; the fiscal
+states bought it. The lesson, and it is the book's own synthesis (c)
+resting on the sourced components above: pike squares, unlike siege
+trains, required no permanent fisc, no arsenal, no technical service —
+and so they *forced no institution-building* on the polity that
+fielded them. Decisive military technology consolidates sovereignty
+not through the battles it wins but through the institutions it
+compels. Where the technology compels nothing — where excellence can
+be sustained by valley communities training on Sundays — victory is
+politically sterile. The Swiss case is not an exception to the
+mechanism. It is the mechanism's control group.
 
 The third counter-case is England, and it comes gift-wrapped from
 the scholarship's own sceptic. DeVries — whose resistance to
@@ -6781,7 +7989,7 @@ found in the first two "a pattern showing the decline of feudalism
 and the rise of the central state… Local control and ownership of
 these weapons was removed by the central state, which would later
 return to use the weapons against those who had once owned them"
-[^10-43]. England ran the opposite experiment. The
+[^10-55]. England ran the opposite experiment. The
 English crown had *early and exclusive* royal control of guns —
 from Edward III through Henry V, "the king alone had control… and
 he used them in an almost absolute manner" — and then, in the
@@ -6793,67 +8001,93 @@ Green, gunfire between English gentlemen's retinues, a scene
 Chapter 8's legal world makes comprehensible — and, in DeVries's
 summary of Henry VI, "after almost fifty years of civil war not
 only had he lost control over gunpowder holdings in his kingdom,
-he had in fact lost his kingdom" [^10-44]. England had
+he had in fact lost his kingdom" [^10-56]. England had
 the monopoly without the fiscal-administrative substrate; the
 monopoly did not survive contact with dynastic crisis.
 
 Venice is the fourth counter-case, and it varies the Burgundian one
-from the opposite side. Burgundy had the offices and one mortal
-node; Venice had a centre nothing could kill. The doge Foscari was
-deposed in 1457 by vote of the ducal councillors and the Ten, and
-the system carried on (Lane 1973: 267); the republic had capital,
-credit and an Arsenal; and it ran this chapter's fiscal chain in its
-own books, the bonds of the Monte Vecchio falling from four per cent
-at sixty-six in 1423 to one per cent, paid irregularly, at thirteen
-by 1474, until the Senate, under the shock of 1453, voted direct
-levies on income and followed them with a cadaster in 1463 and a new
-funded debt in 1482 (Lane 1973: 238). It consolidated nothing beyond
-its own class, because it had, in Lane's flat words, almost no
-bureaucracy: the Arsenal, the mint, the grain office and the taxes
-were run by boards of elected nobles holding office for a few years
-and ineligible to succeed themselves, and among the states of the
-age "those most nearly successful were, except for Venice,
+from the opposite side. Burgundy had the offices and one mortal node;
+Venice had a centre nothing could kill. The doge Foscari was deposed
+in 1457 by vote of the ducal councillors and the Ten, and the system
+carried on (Lane 1973: 267); the republic had capital, credit and an
+Arsenal; and it ran this chapter's fiscal chain in its own books, the
+bonds of the Monte Vecchio falling from four per cent at sixty-six in
+1423 to one per cent, paid irregularly, at thirteen by 1474, until the
+Senate, under the shock of 1453, voted direct levies on income and
+followed them with a cadaster in 1463 and a new funded debt in 1482
+(Lane 1973: 238). It consolidated nothing beyond its own class, and
+the reason must be stated exactly, because Venice "also had a large
+permanent and state-administered navy and may in terms of permanent
+armed force have ranked number one in Europe in 1500" (Glete 2002:
+13). What it lacked was not permanent armed organisation. It was
+fiscal-administrative penetration: it had, in Lane's flat words,
+almost no bureaucracy: the Arsenal, the mint, the grain office and the
+taxes were run by boards of elected nobles holding office for a few
+years and ineligible to succeed themselves, and among the states of
+the age "those most nearly successful were, except for Venice,
 monarchies" — larger units "with which a city-state such as Venice
-could not in the long run compete" (Lane 1973: 98, 241, 251,
-266–67). Two disanalogies travel with the case, because without them
-it would prove too much. The Venetian fisc was driven not by cannon
-but by thirty years of almost constant war in Lombardy fought by
-hired companies (Lane 1973: 229) — the fisc without the ratchet. And
+could not in the long run compete" (Lane 1973: 98, 241, 251, 266–67).
+Two disanalogies travel with the case, because without them it would
+prove too much. The Venetian fisc was driven not by cannon but by
+thirty years of almost constant war in Lombardy fought by hired
+companies (Lane 1973: 229) — the fisc without the ratchet. And
 Venetian decisive force was limited by men rather than money: the
-Arsenal "produced more galleys than Venice could find crews for,"
-and at Lepanto the galleys took Spanish soldiers aboard to fill them
-(Lane 1973: 364). Cost is not the only constraint on decisive
-capability, and §VIII will have to say so.
+Arsenal "produced more galleys than Venice could find crews for," and
+at Lepanto the galleys took Spanish soldiers aboard to fill them (Lane
+1973: 364). Cost is not the only constraint on decisive capability,
+and §VIII will have to say so.
 
 Four counter-cases, four missing parts, four failures on schedule:
 Burgundy had the offices without a permanent fisc beneath them or a
-survivable centre above them; the Swiss had the victories without
-the compelling technology; England had the monopoly without the
-fisc; Venice had the centre and the capital without the apparatus,
-and a navy that ran out of men before it ran out of money. The
-triad — capability, finance, administration — fails if any leg
-fails, and it fails, too, where the legs are present and the polity
-standing on them is one life long. That is what a mechanism looks
-like from its wreckage.
+survivable centre above them; the Swiss had the victories without the
+compelling technology; England had the monopoly without the fisc;
+Venice had the centre, the capital and a permanent state-run navy
+without the fiscal-administrative penetration, and ran out of men
+before it ran out of money. The triad — capability, finance,
+administration — fails if any leg fails, and it fails, too, where the
+legs are present and the polity standing on them is one life long.
+That is what a mechanism looks like from its wreckage.
+
+Two further cases are entered as controls rather than as members of
+the set, because each isolates one leg from the others. Matthias
+Corvinus of Hungary built an army of some twenty-eight thousand men
+and a non-proprietary bureaucracy to administer it, and the Diet
+dismantled both promptly after his death in 1490 (Ertman 1997: 31):
+capability and apparatus without an irreversible fisc beneath them,
+reversed at a king's grave — Burgundy's lesson in a second polity and
+without the battles. Brandenburg-Prussia runs the experiment the other
+way about, and there is no artillery anywhere in it. The Great
+Elector's excise of 1680 was "indefinitely expansible", so that "the
+Elector no longer needed to call the Estates together for further
+increases in taxation", and Finer's phrase for the outcome is "the
+euthanasia of the Estates" (Finer 1975: 138) — §III's non-consultation
+produced by a tax instrument alone, in a second polity and two
+centuries later. The chapter enters it as the cleanest available
+control on its own claim: given time and a smaller country the fisc
+can do the work without the gun, which is exactly why this book's
+claim is about the closure of the sub-state path to decisive force
+inside the artillery years and not about taxation in general.
 
 ## VII.
 
 The chain can now be stated compressed, and — this book's recurring
-evidentiary move — stated almost entirely in the words of the
-scholars who resist its stronger versions.
+evidentiary move — stated almost entirely in other scholars' words:
+first those of the sceptics who resist its stronger versions, and then,
+at the close, those of the two writers who published a version of it
+before this book existed.
 
 Artillery gravitated to the centre because of what it cost: "too
 expensive for the nobility to purchase, and hence tended to become
 a monopoly of the Crown. The superior military technology of the
 day both gravitated to and reinforced the political center"
-[^10-45]. The centre that acquired it
+[^10-57]. The centre that acquired it
 entered a self-reinforcing cycle: trains suppressed regional
 powers, suppression raised revenue, revenue bought larger trains
-and armies, "and so on" [^10-46].
+and armies, "and so on" [^10-58].
 And the capability at the cycle's heart was categorically
 state-sized: the artillery revolution "could not be provided by
 any other organisation than the state, or at least not at the
-level required to make an impact" [^10-47]. Rogers the
+level required to make an impact" [^10-59]. Rogers the
 punctuationist, DeVries the anti-determinist, Curry the gradualist
 — the three positions in the military-revolution debate, each
 conceding the fiscal-threshold mechanism while contesting the
@@ -6862,16 +8096,17 @@ it is honoured wherever he is cited in this book: DeVries quotes
 Porter and Rogers in order to oppose them, in support of Hale's
 contention that the centralisation of the fifteenth century began
 before cannon were effective and "can be explained without
-reference to gunpowder weapons" [^10-48]; the
+reference to gunpowder weapons" [^10-60]; the
 chapter's every DeVries pin is therefore a witness testifying
-against his own frame, and is weighed as such. Even the neomedieval literature's own founder
+against his own frame, and is weighed as such. Even the neomedieval
+literature's own founder
 attests the chain from the far side: Cerny locates the end of the
 first durable disorder in "the creative destruction of fifteenth
 to seventeenth century warfare," under the exogenous pressure of
 "the inter-dynastic struggles of the Hundred Years' War,"
 producing states that "could consolidate because they were
 multitasking and because they could afford to make increasing
-side-payments" [^10-49]. The book's mechanism
+side-payments" [^10-61]. The book's mechanism
 chapter closes its historical half on that convergence: the
 account of how the first dispersal was locked into consolidated
 units is not this book's novelty; it is the shared premise of the
@@ -6880,7 +8115,7 @@ sceptics, stated in their several vocabularies.
 Curry's causal reversal deserves its own answer rather than
 absorption, because it is the strongest form of the objection:
 strong, well-resourced governments produce military revolutions,
-she argues — "not the other way around" [^10-50]. The
+she argues — "not the other way around" [^10-62]. The
 chapter's answer, held since Chapter 6's review: the chain is a
 loop with a threshold step. The fiscal-military settlement
 demonstrably predates the triumphs — the monopoly of force is
@@ -6891,38 +8126,185 @@ no earlier capability had done: it set the establishment cost of
 decisive force — guns, powder, gunners' pay, carriage, siege pay,
 all of it on permanent taxation — at a level no subject could
 sustain as a standing, provincial-scale instrument at campaign tempo
-[^10-51], and it made
+[^10-63], and it made
 the crown's pre-existing fiscal machinery *decisive and
 irreversible* — locking the loop in one direction.
 
 Hoffman's objection is the sharper form of Curry's, because it comes
 with price series, and the central causal chapter cannot leave its
-best-credentialled rival in a note. English artillery prices,
-measured against factor costs, *fell* by 1.4 per cent a year between
-1382 and 1439, and handgun productivity at Frankfurt rose by 3 per
-cent a year: guns and powder got cheaper across the very decades
-this book calls the repricing, and private siege trains —
-Burgundy's, the Liège princes', the German cities' — persisted in
-France and in Spain into the 1470s (Hoffman 2015: 61–63, Tables
-2.5–2.6; Hall 1997: 120, 125). If the claim were about the unit
-price of a gun, the tables would end it. It is not. The 1442
-document priced an *establishment* — guns, powder, gunners' wages,
-carriage and siege pay, at campaign tempo and on permanent taxation
-— and the establishment cost rose as the unit price fell, because
-the crown was buying more of a cheapening thing and paying to keep
-it in being between campaigns. Any city could buy guns; Ghent sent
-two hundred carts of them to the field in 1382 (Hall 1997: 49).
-What no subject could sustain was the standing, provincial-scale
-instrument at campaign tempo, and it is that instrument, not the
-metal, that the account books of §IV measure. Hoffman's model then
-assumes what the French case denies — that fiscal learning "is
-usually not forgotten" (Hoffman 2015: 140). The levies of the 1360s
-were forgotten in 1380, on a king's deathbed, and had to be remade
-over seven years in the 1440s; and the difference between the two
-makings is not the money but the instrument that locked the second,
-which the assemblies could not argue with and the magnates could not
-replicate. That is the whole of the book's claim, stated where its
-rival leaves it unstated. The five polities of this chapter are the
+best-credentialled rival in a note. English artillery prices, measured
+against factor costs, *fell* by 1.4 per cent a year between 1382 and
+1439, and handgun productivity at Frankfurt rose by 3 per cent a year:
+guns and powder got cheaper across the very decades this book calls
+the repricing, and private siege trains — Burgundy's, the Liège
+princes', the German cities' — persisted in France and in Spain into
+the 1470s (Hoffman 2015: 61–63, Tables 2.5–2.6; Hall 1997: 120, 125).
+If the claim were about the unit price of a gun, the tables would end
+it. It is not. The 1442 document priced an *establishment* — guns,
+powder, gunners' wages, carriage and siege pay, at campaign tempo and
+on permanent taxation — and the establishment cost rose as the unit
+price fell, because the crown was buying more of a cheapening thing
+and paying to keep it in being between campaigns. Any city could buy
+guns; Ghent sent two hundred carts of them to the field in 1382 (Hall
+1997: 49). What no subject could sustain was the standing,
+provincial-scale instrument at campaign tempo, and it is that
+instrument, not the metal, that the account books of §IV measure.
+Hoffman's model then assumes what the French case denies — that fiscal
+learning "is usually not forgotten" (Hoffman 2015: 140). The levies of
+the 1360s were forgotten in 1380, on a king's deathbed, and had to be
+remade over seven years in the 1440s; and the difference between the
+two makings is not the money but the instrument that locked the
+second, which the assemblies could not argue with and the magnates
+could not replicate. That is the claim, and it is narrower than the
+sentence it replaces here: not that the guns made the state, but that
+they made one state's fiscal settlement irreversible.
+
+The ratchet had better now be defined, because the word has been doing
+more work in this book than any single mechanism can carry. What the
+guns did was to raise the scale at which decisive force could be held,
+and so to end the small sovereign — the power of a ruler able to
+afford the new weapons enhanced, in McNeill's formulation, "at the
+expense of neighbors and subjects who were unable to avail themselves
+of the new technology of war", the effect in Europe being to dwarf the
+Italian city-states and reduce the other small sovereignties to
+triviality (McNeill 1982: 89). Two concessions narrow that usefully.
+Civil control of hired force was not the guns' invention but an
+Italian achievement of the first half of the fifteenth century, made
+with contracts and account books and no siege train, the transalpine
+states catching up with Venetian and Milanese administrative control
+of armed force only when the Fronde was put down in the 1650s (McNeill
+1982: 75, 125). What the guns added was scale, and scale was fatal to
+the polities that had solved the administrative problem first: "the
+sovereignty of mere city-states, however skillfully managed, could not
+permanently be maintained" against consolidated monarchies commanding
+vast territories (p. 79). And artillery is the French form of a wider
+effect rather than the whole of it. The most capital-intensive and
+most completely state-owned organisations of the following century
+were navies, begun on the European periphery by naval-minded kings
+rather than by trading interests, and the heaviest ordnance afloat
+needed warships too specialised to earn their keep as merchantmen,
+just as heavy guns ashore "were capital goods, and mobile siege
+artillery required a permanent organisation of skilled men" (Glete
+2002: 39, 65). Cannon against walls is one form of a capital-intensity
+ratchet; the gun-armed warship is another; which form the present
+resembles is a real question, and §VIII takes it.
+
+The fortress objection can be answered in the same terms, and it is
+the objection this chapter has owed longest. The *trace italienne* —
+the low, thick, angled bastion the Italians developed to resist cannon
+— is said to have cancelled the guns within a generation. It did not
+cancel them; it moved the threshold upward. "Only the wealthiest
+states and cities could afford the scores of cannon and the enormous
+labor of construction required by the trace italienne", so that the
+new technology favoured local defence only where governments could pay
+for the new fortifications, with the consequence that "Imperial
+consolidation halted halfway" (McNeill 1982: 90–91). Bean states the
+same thing from the defensive face and more sharply: after 1525 the
+minimum effective scale of fortification was much larger in cost and
+in garrison, so that "there were many fewer places in Europe after
+1525 A.D. with effective fortification than had been the case before
+1450 A.D." (Bean 1973: 208). Both halves are this book's argument.
+Inside the polities that could pay, the bastion closed the sub-state
+path a second time and from the other direction; between them it froze
+the map into a small number of units that could afford guns and walls
+together — a sixteenth century consolidating internally and stalemated
+externally, which is the shape Part III predicts for the blocs,
+produced by the same price movement.
+
+Which brings this chapter to its own descent, and the honest course is
+to state it in the text and not in a note. The artillery thesis is not
+new. It was published in 1973 by the economic historian Richard Bean,
+whose cannon arrive in the middle of the fifteenth century and whose
+conclusion is this chapter's chain: the siege train showed
+"considerable economies of scale", the flowering of the cannon
+"increased the minimum effective size of states and drastically
+reduced the ability of the feudal nobility to resist the authority of
+the central government", and "All over Western Europe the feudal
+nobility became subordinate to the central governments — the process
+being largely complete by 1500" (Bean 1973: 220), with the fiscal step
+dated to the decade §III has been anatomising: "In France in the
+1440's and in Spain in the 1480's the rulers were able to seize these
+taxes as a right and thus dispense with the legislative bodies" (p.
+213). And it was published again in the same year by Samuel Finer, in
+the volume Charles Tilly edited and this book has been citing for its
+slogan. Finer periodises by weapon; he states the extraction cycle in
+six words — "More troops — more extraction — more troops" (Finer 1975:
+93); he names the bastion as the counter to the new artillery (p.
+105); and he draws the French constitutional conclusion this chapter
+has spent a section documenting, that there was "no central
+constitutional organ of opposition to taxation by fist similar to
+England's and consequently money for the wars could be found more
+easily in France than across the Channel" (p. 127). Tilly endorsed him
+from the editor's chair: the papers show, he wrote, "an alternation of
+long pauses with giant steps closely following changes in military
+technology and the scale of war" (Tilly 1975a: 51–52). Long pauses and
+giant steps is a ratchet in all but the word.
+
+What is left to this book is therefore narrower than a new thesis, and
+it is worth having. First, the explanandum. Bean's dependent variable
+is the number and geographic size of polities, on a cost curve
+borrowed from the theory of the firm, so that "States larger than the
+optimal range tend to disintegrate, and those smaller tend to be
+absorbed" (Bean 1973: 204); Tilly's rejection was aimed exactly there,
+and had Poland and Russia to aim with. Finer's variable is the
+military format and its style of rule, and his account is reciprocal
+by design. This book's is neither: it is the irreversibility of a
+fiscal settlement and the closure of the sub-state path to decisive
+force inside a polity that survives. A map cannot refute that; only a
+reversed settlement or a replicated instrument can, which is why
+Appendix C is written as it is. Bean concedes in his last paragraph
+that the question is not his: the changes in war "practically
+guaranteed" the concentration of power, "However, there was no
+certainty as to which faction within the nation would control the new
+centralized state … That task remains a challenge to further research"
+(Bean 1973: 221) — this book's own division between the mechanism and
+the constitutional form it leaves open, drawn in 1973 and inherited
+rather than invented. Second, the evidence. Bean's fifteenth-century
+France is a sentence and a figure taken from Oman and a misdated
+militia; Finer's is two paragraphs that transpose Formigny and
+Castillon, carry as fact the 1439 permanent taille Major had destroyed
+thirteen years earlier, and date Charles VIII's Italian campaign a
+decade early (Finer 1975: 104, 127). This chapter's is the account
+series from 1418, the 1442 establishment document, the Bureau and
+Bournel services, the audited *ordinaire* and *extraordinaire*, the
+1477 forecast and the Burgundian comparator: the difference between a
+hypothesis and a demonstration, not between two hypotheses, and the
+whole of what the book claims for itself here. Third, the window.
+Bean's offensive advantage runs from about 1450 to the second decade
+of the sixteenth century (Bean 1973: 207–08); if that is right, the
+settlement outlived the capability that set it by three centuries,
+which is what irreversibility means — and what Appendix C must
+therefore ask of the present stack, how long its decisive advantage is
+expected to last and whether the settlement it induces would survive
+the window's closing. The disanalogy belongs in the same breath,
+because every bridge in this book carries one: Bean's consolidation
+reduced the number of polities, while the consolidation this book
+predicts reduces the number of independent holders of decisive
+capability and leaves the map of polities largely as it is.
+
+One rival remains to be answered by name, and it is the revisionist
+who supplied this chapter's founding date. Major denies the inference
+from the standing army to the subordination of anybody, and denies it
+with arithmetic: two thousand lances of six men and sixteen thousand
+francs-archers amounted to "less than two modern divisions" and "could
+hardly subject a population of 15,000,000 persons"; the towns had
+"comparable forces equipped with artillery and munitions"; and the
+companies were "composed almost entirely of the local nobility and
+captained by members of the leading families of the provinces", so
+that "Louis XIV was the first French king to establish effective
+control over a large military force" (Major 1960: 9–10). Every clause
+is accepted here, and none of it touches the claim, because the claim
+was never about the companies. They were a patronage instrument shared
+with the provincial nobility, exactly as he says, and Ertman says the
+same of the governors who commanded them in peacetime (Ertman 1997:
+94). The artillery was not shared: a department of the crown with its
+own treasurers, quarterly rule, jurisdiction and audit, and the
+argument of this chapter is that a magnate or a town could field men
+and could not field that. Subjecting fifteen million people was never
+the mechanism's work; making the sub-state siege train unaffordable
+was.
+
+The five polities of this chapter are the
 loop's proof by variation: France ran it entire; Burgundy ran it
 with the offices ahead of France and the fisc behind them, and the
 loop's output — the offices, not the guns — was inherited by its
@@ -6930,8 +8312,11 @@ neighbours; the Swiss won outside the loop and built nothing; England
 broke the loop at the fiscal link and lost the kingdom; Venice ran
 the fiscal half without the administrative half and could not man
 what it could pay for. One mechanism, four failure modes, one
-success — and the success became the template Europe copied for
-three centuries.
+success — and what Europe copied from the success across the next
+three centuries was narrower than a template: the offices, taken up
+by princes who knew the French system of *venalité des offices* and
+were "determined to avoid it" (Ertman 1997: 244). The apparatus
+travelled; the defect was declined; the mechanism ran anyway.
 
 ## VIII.
 
@@ -6946,7 +8331,8 @@ book's own — and the analogy joints are Roderick's to set.]
 
 Run the 1442 test against the present. The test, recall, was a
 budget document: a state pricing a decisive capability against its
-traditional arsenal and finding the new item costing more than twice the old —
+traditional arsenal and finding the new item costing more than twice
+the old —
 and paying it, annually, because the capability could not be
 improvised, stockpiled cheaply, or raised by summons. The question
 for our own decade is which polities carry the equivalent lines: 
@@ -6957,7 +8343,7 @@ layer, the munitions base, and frontier compute.
 
 The foundry line is the clearest, and it has recently escalated
 past subsidy into something older. The United States legislated the
-CHIPS and Science Act on 9 August 2022 [^10-52]: some $52.7
+CHIPS and Science Act on 9 August 2022 [^10-64]: some $52.7
 billion for semiconductors — $39 billion in
 manufacturing incentives, $11 billion for R&D, a 25 per cent
 investment credit — with awards finalised in late 2024 to Intel
@@ -6992,13 +8378,13 @@ administrative power to deny a rival's. The concentration being
 contested is extreme by any historical standard: as of the
 industry's 2021 baseline, "100% of the world's most advanced
 (below 10 nanometers) semiconductor manufacturing capacity is
-currently located in Taiwan (92%) and South Korea (8%)" [^10-53] — a snapshot the CHIPS programmes exist to erode —
+currently located in Taiwan (92%) and South Korea (8%)" [^10-65] — a snapshot the CHIPS programmes exist to erode —
 and the lithography beneath the leading edge has exactly one
 supplier on earth, no EUV system ever having shipped to China.
 
 The orbital line: two polities today fly proliferated
 military-relevant constellations in low earth orbit — the United
-States [^10-54] and China (Qianfan and Guowang, dual-use state
+States [^10-66] and China (Qianfan and Guowang, dual-use state
 systems, some four hundred satellites between them and plans in
 the tens of thousands). Europe has signed a concession — IRIS²,
 €10.6 billion, December 2024 — for services from about 2030. The
@@ -7042,10 +8428,10 @@ siege-train monopoly: by the late 1460s the francs-archers'
 parishes were fielding couleuvriniers — "timidement, les armes à
 feu portatives s'introduisaient dans les bandes d'infanterie,"
 timidly, portable firearms were entering the infantry bands
-[TRANS. CLAUDE] [^10-55]; the Franco-Swiss treaty of 1474
+[TRANS. CLAUDE] [^10-67]; the Franco-Swiss treaty of 1474
 specified a third of the cantonal contingent armed with
-couleuvrines à main [^10-56]; Charles the Bold's
-haquebusses were "without number" [^10-57]; and the
+couleuvrines à main [^10-68]; Charles the Bold's
+haquebusses were "without number" [^10-69]; and the
 prehistory of the cheap hand-gun lies in the Hussite wars, where the
 Nuremberg council's inventory of 1430 already counted 501 handguns
 against 607 crossbows, and the experiments with crumb powder that
@@ -7063,24 +8449,26 @@ through which a cheap projectile becomes militarily decisive — and
 the best contemporary account of the transparency decade put the
 caution in a sentence this book adopts as its warning label: to
 attribute to weapons the advantages that accrue to the systems
-which use them best has misled military minds before [^10-58]. Diffusion at the tactical layer and
+which use them best has misled military minds before [^10-70]. Diffusion at the tactical layer and
 consolidation at the systemic layer are simultaneous, and the
 second is where the 1442 test bites. [BOOK'S ARGUMENT]
 
-The concentration is attested from the far side of the argument
-too. Bratton — the theorist of planetary computation whom Chapter
-12 engages at full length, and the writer least invested in state
+The concentration is attested from the far side of the argument too.
+Bratton — the theorist of planetary computation whom Chapter 12
+engages at full length, and the writer least invested in state
 reassertion — documented a decade ago the "rapid centripetal
-centralization of information toward a small number of global
-Cloud platforms capable of supporting and leveraging service
-infrastructures at such a massive scale," and made the platforms'
-geopolitical future turn on "their ability to deploy their own
-competitively effective, end-to-end cyberinfrastructures"
-(Bratton 2015 [scan pp. 146, 148 — re-pin to printed edition]).
-That is the platform-side statement of capital intensity: few,
-ruinously expensive chokepoints — which is to say, the
-precondition of an off-switch, described by a witness with no
-interest in there being one.
+centralization of information toward a small number of global Cloud
+platforms capable of supporting and leveraging service infrastructures
+at such a massive scale," and made the platforms' geopolitical future
+turn on "their ability to deploy their own competitively effective,
+end-to-end cyberinfrastructures" (Bratton 2015 [scan pp. 146, 148 —
+re-pin to printed edition]). That is the platform-side statement of
+capital intensity: few, ruinously expensive chokepoints — the word is
+Henry Farrell and Abraham Newman's, whose chokepoint and panopticon
+effects name the two things a state can do from the top of such a
+network (Farrell and Newman 2019: 55–56) — which is to say, the
+precondition of an off-switch, described by a witness with no interest
+in there being one.
 
 One disanalogy with 1442 is conceded here rather than left to a
 reviewer. The taille paid for the Bureau train directly: state
@@ -7120,12 +8508,71 @@ state of §IV is the case in which command and dependence coincided
 in one payroll — the crown owned the guns, paid the gunners and
 needed no one's consent to fire — which is why its consolidation
 was clean, and why the modern case, in which the foundry and the
-constellation belong to someone else, will not be. [PART B — (x)
-platform application pending: command-with-dependence as the
-predicted form of the platform settlement, capture as its named
-risk, Farrell and Newman once assessed; the three terms are not
-claimed as the chapter's coinage until checked against their
-vocabulary.]
+constellation belong to someone else, will not be.
+
+Dependence has its own fifteenth-century anchor, and the century
+supplies the phrase. In 1457 three Piedmontese banking tables fled
+Bruges by night with their depositors' money; the duke inventoried the
+houses, confiscated the deposits of burgesses who had lent at
+interest, fined them, and put every bank in his lands to composition —
+and then discovered what he could not do without. His towns were long
+left with no Lombards to lend, "là où le peuple toutevoies, selon la
+nature de luy ancienne, se peut mal passer de eux. Et par ainsi, le
+duc enfin estoit constraint de les y remettre par la nécessité
+publique" — where the people, by their old nature, could ill do
+without them; and so the duke was in the end constrained to restore
+them by public necessity [TRANS. CLAUDE] (Chastellain, ed. Kervyn, t.
+III: 316). Two things travel with the scene or it flatters the state:
+the punishment was for a failure and a flight rather than for lending
+as such, and it was fiscal in form, the prince taking his cut of the
+seizure before dependence forced the restoration (t. III: 315).
+Coercive superiority, extraction, and then a constrained restoration
+in the name of public necessity — two centuries before the Stationers,
+and the closest thing the period offers to a state discovering the
+limit of command over a function it cannot perform itself.
+
+[BRIDGE — PROPOSED, 2026-09-29: replaces the [PART B — (x)] marker per
+the ruling of 29 September; the analogy joint remains Roderick's to
+set.] The platform application is the form the book predicts and the
+name it will use for it. Command with dependence is what a settlement
+with the decisive stack looks like: a state that licenses, directs and
+revokes, and cannot build or run the thing itself — the Lombards'
+position with twenty-first-century instruments, or Venice's Arsenal
+problem with the ownership reversed. Capture is the named risk rather
+than the prediction, reached when a supplier's indispensability has
+been converted into a share of the decision; its fifteenth-century
+form is the officeholder-financier who lent the crown its own revenue
+(Ertman 1997: 28). Command, dependence and capture are this chapter's
+one coined concept, and the ledger claims them here with the pedigree
+paid rather than in the apparatus. Two of the three words have a
+pedigree in Colin Crouch's *Post-Democracy*, where a state that
+subcontracts far enough "loses touch with the knowledge necessary to
+understand certain activities" and "is therefore forced to
+sub-contract further", and where the policy-making machinery "has
+itself become endogenous to the problem of the power of the corporate
+elite" (Crouch 2004: PDF pp. 17, 34 — printed pagination to be
+confirmed before press). Command is the book's own, and it is the term
+that does the predictive work, because it is the one the neomedieval
+literature assumes away.
+
+The naval question belongs in the section that defines the vocabulary,
+because the chapter's own witness raises it. If the earliest
+capital-intensive, state-owned military organisations were navies,
+created on the periphery by kings rather than by trading interests
+(Glete 2002: 39), then artillery is one form of the mechanism and the
+question for the present is which form the stack takes: the siege
+train, bought outright and run by a department of state, or the navy
+that sustained the Dutch, where the decisive instrument was
+state-owned and the fiscal capacity beneath it came from trade the
+state did not control. This chapter's answer is that the stack's
+physical layers behave like the train and its frontier layer behaves
+like neither. Foundries, constellations and munitions plants are
+lumpy, singular and purchasable, and are being purchased. Frontier
+compute is privately financed at a scale no treasury matches, and is
+therefore the layer at which the mechanism is predicted rather than
+observed — command with dependence, not command with ownership. That
+is the wager in the chapter's own vocabulary, and Appendix C scores
+it.
 
 Score the four layers and the four-polity conclusion follows —
 as the book's own synthesis, offered for falsification. Two
@@ -7177,75 +8624,94 @@ paying.
 [^10-9]: Contamine 1972, Annexe VI
 [^10-10]: Contamine 1972, Annexe
 IX
-[^10-11]: Contamine 1972, citing *Ordonnances des Roys de
-France*, t. XIII, pp. 306–13 [GAP: the ordonnance's own text
-remains to be read at article level — Gallica pull; with it,
-whatever the act actually said of tailles]
+[^10-11]: Contamine 1972, citing
+*Ordonnances des Roys de France*, t. XIII, pp. 306–13 [GAP: the
+ordonnance's own text remains to be read at article level — Gallica
+pull; with it, whatever the act actually said of tailles]
 [^10-12]: Vale 1974: 76–82
 [^10-13]: Vale 1974: 78–79
-[^10-14]: Vale 1974: 82
-[^10-15]: Vale 1974: 231, citing
-Commynes, ed. Calmette, ii. 220
-[^10-16]: Contamine 1972
-[^10-17]: Contamine 1964:
+[^10-14]: Vale
+1974: 82
+[^10-15]: Commynes, ed. Calmette, ii. 220; Vale 1974: 231 prints the arc from
+the same page
+[^10-16]: Commynes, ed. Calmette, iii. 304
+[^10-17]: Contamine 1972
+[^10-18]: Perroy 1943: 175, 179, 194–95
+[^10-19]: Perroy
+1943: 177 and n. 24
+[^10-20]: Contamine 1964:
 231
-[^10-18]: Contamine 1964:
+[^10-21]: Contamine 1964:
 231–32
-[^10-19]: Contamine 1964: 261
-[^10-20]: Contamine 1964: 232
-[^10-21]: Contamine 1964: 226–27
-[^10-22]: Contamine 1964
-[^10-23]: Contamine 1964: 232 n.
-[^10-24]: Perroy 1943
-[^10-25]: Perroy 1943, citing the
-Milanese despatches
-[^10-26]: Giovio, via Contamine 1964: 221
-[^10-27]: Contamine 1964: 261
-[^10-28]: DeVries 1998: 137
-[^10-29]: DeVries 1998: 137–38
-[^10-30]: Commynes, Scoble ed., I.x
-[^10-31]: Heimpel's verdict, reported by Bachrach
-[^10-32]: all at DeVries 1998: 138
-[^10-33]: Depreter 2011;
+[^10-22]: Contamine 1964: 261
+[^10-23]: Contamine 1964: 232
+[^10-24]: Contamine 1964:
+226–27
+[^10-25]: Contamine
+1964
+[^10-26]: Contamine 1964: 232 n.
+[^10-27]: Perroy 1943: 294, 302
+[^10-28]: Perroy 1943: 302
+[^10-29]: Perroy 1943: 191–92
+[^10-30]: Perroy 1943: 302
+[^10-31]: Perroy 1943: 294
+[^10-32]: Giovio, via Contamine 1964: 221
+[^10-33]: Commynes, ed. Calmette, iii. 50
+[^10-34]: Contamine 1964: 261
+[^10-35]: DeVries 1998: 137
+[^10-36]: DeVries 1998: 137–38
+[^10-37]: Commynes, ed.
+Calmette, i. 67
+[^10-38]: Heimpel's verdict, reported by Bachrach
+[^10-39]: Commynes, ed. Calmette,
+ii. 8
+[^10-40]: both at DeVries 1998: 138
+[^10-41]: Depreter 2011;
 Depreter 2011b: 10
-[^10-34]: Contamine 1972, Annexe
+[^10-42]: Contamine 1972, Annexe
 VI
-[^10-35]: Depreter 2011b: 72
-[^10-36]: Depreter 2011b: 22 n. 94, 33,
-183–84
-[^10-37]: Depreter
-2011b: 40–44, 215–17, Annexes 5–6
-[^10-38]: Depreter 2011b: 151
-[^10-39]: Depreter 2011b: 88, 183
-[^10-40]: Depreter 2011b: 2
-[^10-41]: CRS
+[^10-43]: Depreter 2011b: 72
+[^10-44]: Perroy
+1943: 173 n. 10
+[^10-45]: Perroy 1943: 299–300
+[^10-46]: Depreter 2011b: 22 n. 94, 33, 183–84
+[^10-47]: Perroy 1943: 196 and nn. 108–112
+[^10-48]: Depreter 2011b: 40–44,
+215–17, Annexes 5–6
+[^10-49]: Depreter 2011b:
+151
+[^10-50]: Depreter
+2011b: 88, 183
+[^10-51]: Depreter 2011b: 2
+[^10-52]: CRS
 R48887
-[^10-42]: The
+[^10-53]: The
 Economist, 28 May 2026 — journalistic strength only; every
 battle-damage figure [RE-CHECK AT PRESS], the primary being CRS
 R48887 and its successors
-[^10-43]: DeVries 1998: 145
-[^10-44]: DeVries 1998: 145
-[^10-45]: Porter, at DeVries 1998: 128
-[^10-46]: Rogers's cycle, at DeVries 1998: 128
-[^10-47]: Curry 2010: 188
-[^10-48]: DeVries 1998: 128–29
-[^10-49]: Cerny 1998: 51–52, 58–59
-[^10-50]: Curry 2010: 187–88
-[^10-51]: Curry's own concession, in the sentence quoted above
-[^10-52]: Pub. L. 117-167, div. A,
+[^10-54]: Contamine 1972
+[^10-55]: DeVries 1998: 145
+[^10-56]: DeVries 1998: 145
+[^10-57]: Porter, at DeVries 1998: 128
+[^10-58]: Rogers's cycle, at DeVries 1998: 128
+[^10-59]: Curry 2010: 188
+[^10-60]: DeVries 1998: 128–29
+[^10-61]: Cerny 1998: 51–52, 58–59
+[^10-62]: Curry 2010: 187–88
+[^10-63]: Curry's own concession, in the sentence quoted above
+[^10-64]: Pub. L. 117-167, div. A,
 §102, which appropriates by component; the $52.7 billion aggregate
 is the standard summary figure and is carried as such
-[^10-53]: SIA/BCG,
+[^10-65]: SIA/BCG,
 April 2021
-[^10-54]: Starlink at 8,872 working satellites as of July 2026, on
+[^10-66]: Starlink at 8,872 working satellites as of July 2026, on
 McDowell's count, with the NRO's Starshield constellation under a
 $1.8 billion contract and the Space Development Agency's tranches
 launching
-[^10-55]: Contamine 1972
-[^10-56]: Contamine 1972
-[^10-57]: DeVries 1998: 138
-[^10-58]: The
+[^10-67]: Contamine 1972
+[^10-68]: Contamine 1972
+[^10-69]: DeVries 1998: 138
+[^10-70]: The
 Economist, 28 May 2026
 
 
@@ -7412,24 +8878,122 @@ three the programme that Fortescue had written for the Yorkists, whose
 whole remedy for the over-mighty subject was that the crown should
 out-endow its lords and "live of his own" without asking Parliament
 for money (Fortescue, ed. Plummer 1885: 133, with Plummer's gloss at
-pp. 38–9). The settlement arrived when the crown found a fisc that no
-assembly had to grant. The Act of Supremacy of November 1534 made the
-king head of the Church; the act of 1536 dissolved the religious
-houses worth less than two hundred pounds a year, its preamble —
-Lander notes — going out of its way to praise the greater monasteries
-the crown would take within four years; and "total abolition," in his
-judgement, "was in the end the result of a squalid financial scramble
-rather than of religious disapproval" [^11-8]. The
-dissolution is the English fisc of the settlement. And it is the
-book's argument that it matters for a second reason, which the French
-case cannot show: what the crown took was not merely land but a
-universalist power — the one institution in the realm whose allegiance
-ran beyond it — so that the fiscal move and the canonical move were
-executed in England as a single act, which is the shape the mechanism
-predicts and the reason Chapter 12 will find the English precedent
-more useful than the French. [BOOK'S ARGUMENT (c). GAP: the
-dissolution's receipts — Youings, Hoyle — are not in this chapter's
-sources; no figure is carried.]
+pp. 38–9). What arrived in the 1530s was a fisc that no assembly had
+to grant — and, the qualification the chapter now carries in the text
+rather than in a note, not a permanent one. The canonical instruments
+came first. The Act of Supremacy of November 1534 made the king head
+of the Church, and the visitors' Injunctions of 1535, administered to
+every house in advance of any finding against it, bound the religious
+to observe the statutes of the realm made "for the extirpation and
+taking away of the usurped and pretended jurisdiction of the bishop of
+Rome within this realm" and declared them "absolved and loosed from
+all manner [of] obedience, oath and profession" formerly owed to that
+bishop "or to any other in his stead or occupying his authority or to
+any other foreign power or person" (Youings 1971, Doc. 7, injs. 2–3).
+The fiscal instruments followed within the year. The act of 1536
+dissolved the religious houses worth less than two hundred pounds a
+year — the threshold a figure taken from the *Valor Ecclesiasticus*,
+whose commissions had gone out on 30 January 1535 to return the
+houses' values "to the intent that the tenth of the premises may be
+taxed", and which Youings insists there is "no justification
+whatsoever for regarding … as anything more than a taxation
+assessment", so that a tax register decided thirteen months later
+which communities died (Youings 1971, Introduction ch. 2) — and "total
+abolition," in Lander's judgement, "was in the end the result of a
+squalid financial scramble rather than of religious disapproval"
+[^11-8]. What the scramble yielded was large. The
+confiscation, on the standard account of the operation, "had just
+about doubled the Crown's resources", and the Court of Augmentations
+built to collect the new revenues "replaced the king's chamber as the
+bank from which the king's government, and his personal
+extravagances, could be paid for" (Youings 1971, Introduction ch. 4):
+the English working treasury moved twice in fifty years, and the
+second move was paid for out of a rival corporation's estate.
+
+And then it was spent. Youings reports as long settled, and not as her
+own discovery, that "the Dissolution did not lead to the permanent
+augmentation of the annual income of the Crown, and indeed that the
+former monastic lands were 'dissipated' to a very great extent by
+Henry VIII during the later years of his reign", and she declines the
+usual alibi of Cromwell's fall, because "Disposal by the Crown took
+place from the very beginning" and Cromwell himself was named in
+December 1539 among the first commissioners to sell (Introduction chs.
+1 and 3). From that December the land went for ready money "at twenty
+years' purchase, that is a capital sum of twenty times their current
+net annual value" — a price the crown set and did not raise while it
+still had much to sell — and over half of the whole of the former
+monastic estates had been alienated by Henry VIII's death, "well over
+three-quarters by 1558" (Introduction ch. 5). The department built to
+hold the fisc was folded into the Exchequer in 1554, with the other
+non-proprietary revenue boards of the 1530s, which is the same result
+reached from the administrative side by a quite different test: the
+boards "did represent a serious challenge to the Exchequer, that
+bastion of proprietary officeholding", and yet by 1554 the most
+important of them "had all been incorporated into the Exchequer"
+(Ertman 1997: 181). Two authorities, two variables, one outcome. The
+1530s produced a consolidation whose fiscal base did not survive a
+generation.
+
+So the English case splits, and the split is the chapter's own
+inference from Youings's evidence rather than a finding of hers. The
+crown of the 1530s took a stock where the crown of the 1440s across
+the Channel had taken a flow. A taille granted for the men of war
+could be levied again every year and could not be spent out; a
+monastic estate was capital, and was spent, at a fixed twenty years'
+purchase, on the county families whose Parliament would fight the
+crown a century later. Read that way the English sequence is not a
+refutation of the mechanism but its sharpest demonstration of which
+link in the chain bears the weight — not the size of the seizure but
+the permanence of the finance. [BOOK'S ARGUMENT (c): the
+stock-and-flow reading is this book's inference from Youings's
+evidence, and she draws no such contrast.]
+
+What the confiscation did achieve was irreversible, and that is why
+the dissolution stands in this book as England's turn although it
+stands as nobody's standing revenue. What the crown took was not
+merely land but a universalist rival — the one corporation in the
+realm whose obedience ran beyond it — and it took it by fiscal
+instrument. The claim rests on effect and on instrument, not on
+motive, because the standard authority denies the motive: Youings
+holds that the operation's "inspiration and execution owed little to
+religious considerations", and doubts that the dissolution was even an
+integral part of the breach with Rome (Introduction ch. 1). The
+instruments are nonetheless what they are. The Dispensations Act of
+1534 barred English religious from going abroad in an official
+capacity and so, on the reading she reports, "affected the virtual
+nationalization of English monasticism at one blow" (Introduction
+ch. 2); papal exemption was converted into royal commission, the
+exempt houses thereafter to be "visited or vexed" only "by
+commissioners appointed by the king under the Great Seal"
+(Introduction ch. 3); an act of 1540 vested in the crown "all the
+'franchises and temporal jurisdictions'" of the monasteries and placed
+them under the Court of Augmentations (Introduction ch. 3 n. 54); and
+the mechanism is stated most economically in her own account of how
+the houses ended — they "were never, in so many words, actually
+dissolved … Institutions which for the most part traced their
+foundation to gifts of landed property came to an end with the
+surrender of that property" (Introduction ch. 1). The fiscal act was
+the canonical act. Not a single act, then, but one apparatus working
+in one decade, which is the shape the mechanism predicts and the
+reason Chapter 12 takes the canonical half of the English precedent
+and not the fiscal half. [BOOK'S ARGUMENT (c) — effect and
+instrument, not motive. GAP: the crown's ordinary revenue before and
+after the confiscation — Youings carries no such figure and insists
+the balance sheet of the operation has never been drawn; Hoyle, or a
+modern successor to Dietz, stays on the RETRIEVAL LIST, and no
+before-and-after comparison is made here.]
+
+For the fiscal half arrived a century and a half later, and elsewhere
+in the constitution. Standing taxation in England dates from the
+Restoration and the wars that followed it — the nearly annual
+parliaments after 1660, and the non-proprietary fiscal-military
+apparatus built with their support to carry the conflicts of 1688 to
+1714 (Ertman 1997: 30, 187–8) — so that the two links France coupled
+inside a generation reached England separately, a century and a half
+apart:
+the canonical move in the 1530s, the permanent fisc in the 1690s. That
+is the English case's disanalogy, and the book states it rather than
+smoothing it.
 
 France's limb is established — the reader holds it from Chapter 10 —
 and needs only its extension: the mature apparatus taken abroad.
@@ -7439,9 +9003,19 @@ at eight per cent of military expenditure — and Giovio watched the
 train enter Rome at night, "more than 36 pieces that the horses drew
 at an incredible speed"; Contamine's verdict, already quoted and worth
 its repetition here, was that the young king believed he possessed "an
-instrument no coalition could break" [^11-9]. The first continental adventure of the completed
-fiscal-military state: the settlement exporting itself, a generation
-after its assembly.
+instrument no coalition could break" [^11-9]. The first continental adventure of the fiscal-military
+state — and of a settlement whose own historians insist it was not
+finished, since the force that crossed the Alps "numbered no more than
+20,000 combatants, and was thus smaller than many of the armies
+assembled during the Hundred Years War", the standing companies
+supplied only its cavalry and were each "controlled and commanded by
+the local royal governor, almost always a member of a prominent
+magnate family", and the infantry was Swiss and German by contract,
+still furnishing "21,000 men out of a total infantry contingent of
+about 40,000" as late as 1558 (Ertman 1997: 94–5): the settlement
+exporting itself a generation after its assembly, and exporting with
+it the magnate governors' companies and the contract pikes that were
+its defects.
 
 ## III.
 
@@ -7477,7 +9051,37 @@ other kingdoms, and lost, after 1650, to states that had (PDF 379).
 That narrows the book's claim, and the narrowing is stated as such:
 the settlement is not the precondition of decisive force but the
 condition of *sustaining* it, and what it subordinates are the
-intermediaries of the core.
+intermediaries of the core — the armed ones.
+
+That qualification is not a hedge, and Glete supplies both halves of
+it. On the armed side Castile is as complete a case as this chapter
+has: after the Granada war "Private armies as instruments of
+aristocratic factionalism ceased to be important … and the noblemen's
+castles had become vulnerable to the rulers' new siege artillery", the
+armed forces of the *hermandades* "were abolished in 1498", and the
+three military orders were "permanently incorporated into the crown in
+1523, a change that eliminated autonomous military structures" (Glete
+2002: 75–6) — the mechanism's Castilian instance in the space of two
+pages. On the fiscal side it is not a case at all. The *millones*
+granted in 1590 was raised by "the cities represented in the Cortes"
+on their own account, so that "the local elites took control of
+essential parts of the tax administration"; the crown's attempt in the
+early 1620s to convert the grant into "a permanent obligation to
+maintain 30,000 soldiers … was denied"; and by the later seventeenth
+century those same elites "had gained the power to dismantle large
+parts of the Spanish fiscal-military state" (Glete 2002: 122, 126).
+The Cortes of Castile is the intermediary the settlement never
+subordinated, and what became of it — its formal powers kept, its real
+control lost, the institution finally dispensed with after 1665 — is
+Chapter 12's portrait and is deliberately not told twice. What matters
+here is the asymmetry: a crown that had disarmed its lords and annexed
+their corporate militaries was still collecting its largest new tax
+through the towns that granted it — and the asymmetry is the mechanism
+behind the fact already stated. Fielding decisive force asks for the
+armed intermediaries; sustaining it asks for the fiscal ones; and
+Castile subordinated only the first. That is Chapter 10's
+Burgundian finding — offices without an irreversible fisc — at
+imperial scale.
 
 The domestication of local order: at the Cortes of Madrigal in 1476
 the Catholic Monarchs reorganised the old municipal brotherhoods into
@@ -7505,7 +9109,7 @@ rival's Iberian arms became crown patronage forever.
 
 And the canonical move proper: the Inquisition. Sixtus IV's bull
 *Exigit sincerae devotionis* (1 November 1478) granted the monarchs
-the exclusive authority to name the inquisitors — canonical machinery,
+the sole right to name the inquisitors — canonical machinery,
 royally staffed; the first tribunal sat at Seville within two years;
 Torquemada, Inquisitor General from 1483, extended a single
 royally-appointed hierarchy across Castile *and* Aragon — making the
@@ -7638,7 +9242,7 @@ military-fiscal states, the Ottoman experience was military
 devolution" (p. 123). The chain ran — weapon, coin, treasury — and its
 output was a new stratum of intermediaries. Devolution is what the
 mechanism predicts when its fiscal condition is never met: a
-settlement made without the cash settlement of the 1439–46 kind,
+settlement made without the cash settlement of the 1439–51 kind,
 converted to it late and in crisis, re-dispersed power in the
 converting. It is also a failure mode the book had not imagined before
 this reading, and the one the platform chapters should fear most —
@@ -7884,7 +9488,8 @@ verification — flagged), the digital euro aimed at pilot
 in 2027; the French champion, note, is privately anchored
 — its largest shareholder a Dutch lithography monopolist,
 with *no French state equity*, the verified absence again.
-The Chinese style is fusion, extended now by treaty; the
+The Chinese style is departmental — the platforms run as
+organs of the party-state — extended now by treaty; the
 Indian style is the sovereign stack itself. Four licensing
 forms, one function: mandate the canon, license the
 presses. [END BRIDGE]
@@ -7916,7 +9521,8 @@ They will nationalise their *functions* — the book predicts
 this on balance, and scores it rather than assumes it — by
 licence and licensing fee above all, with security-clearance
 and procurement integration beneath, in the United States; by
-canonical regulation in Europe; by fused ownership in China;
+canonical regulation in Europe; by ownership and party
+direction in China;
 by sovereign-stack substitution in India — while the
 platforms' corporate forms persist, as the Church persisted
 after Henry: intact, wealthy, and subordinate in the
@@ -7950,12 +9556,61 @@ knew was likely to seize much of his wealth, did so "as soon as he
 was dead and his army and skill was no longer to be feared," and put
 up his statue not in the Piazza but at the Scuola di San Marco,
 because "such glorification of any individual person was not
-permitted at the center of government" (Lane 1973: 233). [GAP — Part
-B: Chastellain t. III, the Alençon judgment — the crown retaining the
-artillery and the named fortresses and preserving the family's other
-interests — to be drafted once verified at the page.] Wealth and
-standing kept; discretion over the things that made the position
-sovereign transferred. That is the licensing move's content, and
+permitted at the center of government" (Lane 1973: 233).
+
+The instrument itself survives, in the crown's own words, and it names
+the guns first. On 10 October 1458, at Vendôme, the chancellor of
+France pronounced sentence on Jean, duke of Alençon and count of
+Perche, a peer arrested two years earlier for treating with the
+English — to whom, by the confession the chronicle's editor
+transcribes from the *procès*, he had offered his strongholds and
+"assés d'artillerie pour combattre x mil hommes aux champs pour ung
+jour", artillery enough to fight ten thousand men in the field for a
+day [TRANS. CLAUDE] (Chastellain, ed. Kervyn 1863: iii. 479 n.).
+Convicted of lèse-majesté, deprived of the honour and dignity of the
+peerage of France, condemned to death and to the confiscation of every
+one of his goods (pp. 481–3), he was then dealt with by moderation,
+obtained at the petition of his uncle the duke of Brittany (p. 486). Of his movable goods the king left everything to
+wife and children, "réservé au roy l'artillerie, harnois et autres
+habillemens de guerre" — reserving to the king the artillery, harness
+and other habiliments of war [TRANS. CLAUDE] (p. 486). Of the lands
+the arrêt drew the line the fifteenth century drew between appanage
+and patrimony. The towns, castles and castellanies of Alençon,
+Domfront and Verneuil the crown "unist et adjoint et incorpore au
+patrimoine et au domaine de son royaume" — united, joined and
+incorporated into the patrimony and domain of the kingdom [TRANS.
+CLAUDE] — retaining with them the residue of the duchy and every right
+that formed part of the crown's own appanage; while the county of
+Perche passed to a single son and his lawful male heirs "sans
+toutevoies aucune dignité ou prérogative de parrie", without, however,
+any dignity or prerogative of the peerage, and the family's remaining
+lands to the children "soubs la main du roy" until they came of age
+[TRANS. CLAUDE] (pp. 486–7). The appanage was resumed and the
+patrimony was left. Of everything a condemned peer owned, the artillery
+was the one private thing the crown would not leave in private hands.
+
+Four of the five discretions are in that document and the fifth is
+not, which is worth saying rather than implying a clean set. Refusal is
+the charge itself, a peer treating with an invader on his own account.
+Infrastructure is the castellanies incorporated and the train
+reserved. Succession is Perche granted without the peerage and the
+residue held in the king's hand. Rule-setting is the dignity of peerage
+stripped, which was the peer's own seat in the court that tried him.
+Operational knowledge the arrêt is silent upon: the guns are taken as
+property and not as expertise, the gunners and their craft appear
+nowhere in it, and the fifth discretion therefore stays with
+Fortescue's sworn officers and with Colleoni's army and skill. The
+concession travels in the same paragraph, because the scene is worth
+no more than its concession. The instrument was judicial rather than
+fiscal; the moderation was bought by a kinsman's petition; and the
+sentence of death was not carried out but deferred, "jusques à son bon
+plaisir", until the king's good pleasure [TRANS. CLAUDE] (p. 484). The
+duke outlived his own condemnation, and the chronicle has him still in
+prison five years afterwards (pp. 100–101). A settlement of the Tudor
+kind is one that a succession does not undo; in 1458 the crown could
+name what it would not leave in private hands, and could not yet make
+the naming permanent. Wealth and standing kept; discretion over the
+things that made the position sovereign transferred. That is the licensing move's content, and
 Chapter 12 scores it transfer by transfer.
 
 And the ch04
@@ -8084,7 +9739,7 @@ accomplished. Not modernity, but Tudor.
 ## II.
 
 The pressure that compels the settlement is, seen from outside,
-already legible in the blocs' own declarations — and the variable
+already plain in the blocs' own declarations — and the variable
 whose absence defined the neomedieval diagnosis has returned to
 the books.
 
@@ -8166,15 +9821,84 @@ exchange of financial information across 116 jurisdictions and 171
 million accounts; a subcontinent transacting twenty billion
 identity-linked payments a month; dollar legibility routed through
 regulated private stablecoin rails under the GENIUS Act; the
-e-CNY's operations centre; the identity stacks. The medieval
-subject met the state's gaze episodically — at the assize, the
-muster, the tithe barn; his modern successor is registered
-continuously. The disanalogy is stated with the structural point:
-registration is not the levy, audit is not the auto-da-fé, and the
-comparison licenses nothing beyond the observation that uniform
-legibility is a governing *capacity* — the capacity the
-Inquisition and the devşirme built by force and the API builds by
-default [ANALOGY-ONLY beyond that point].
+e-CNY's operations centre; the identity stacks.
+
+The tense in which that is said has to be exact, because one half of
+the reassertion this book predicts is already accomplished and the
+other is not, and the accomplished half was not paid for. The canon
+and the register — which rules count, and who is who — were brought
+back under territorial law between 2000 and 2006, and brought back
+cheaply: "Government regulation works by cost and bother, not by
+hermetic seal", as Goldsmith and Wu put the method (2006: 68), whose
+instruments were the local intermediaries, the service providers
+"already some of the most regulated companies on earth" (p. 73), and
+whose demonstration was the Bureau of Alcohol, Tobacco and Firearms
+ordering Visa, MasterCard and AmEx "to stop taking online cigarette
+orders" without ever laying a finger on the sellers (pp. 76–77); by
+the time filtering was routine "the router itself has become the
+censor" (p. 94), and what had been a global network was "becoming a
+collection of nation-state networks" (p. 149). No fiscal threshold
+was crossed to do any of it, and the honest consequence is that the
+mechanism this book prices claims that layer twice only. It claims it
+for scale, because coercion through intermediaries works where a
+polity's market holds the intermediaries' assets and is, in their own
+finding, "generally less effective in small nations" (pp. 81–82) —
+which is the bloc geometry stated from the legal side. And it claims
+it for fusion, at the seam where the register joins what Farrell and
+Newman name the chokepoint layer, the "capacity to limit or penalize
+use of hubs by third parties" (2019: 55–56) exercised over compute,
+chips, constellations and munitions, which is where the money begins.
+The networks that carry the first were, on their account, "not
+constructed as tools of statecraft" (2019: 54), and the states that
+can work them are those with jurisdictional control over the hubs and
+the institutional capacity to use it (2019: 58) — Chapter 10's
+administrative gate in modern dress, and §IV returns to it in their
+own words. For the canon and the
+register, then, the past tense; for the decisive stack, the book's
+own: compelled, and unaccomplished.
+
+The medieval subject met the state's gaze episodically — at the
+assize, the muster, the tithe barn; his modern successor is
+registered continuously. The disanalogy is stated with the structural
+point: registration is not the levy, audit is not the auto-da-fé, and
+the comparison licenses the observation that uniform legibility is a
+governing *capacity* — the capacity the Inquisition and the devşirme
+built by force and the API builds by default — together with that
+capacity's two-sidedness, since, as Lepore puts it, "the ability to
+count gave the state power; the ability to be counted gave the people
+power"; and it stops there, at the representative function, because
+on the distinction she draws three times machines may administer and
+may not represent, the tools of Cold War government having been
+applied
+"only later … by private companies, as substitutes for the democratic
+functions of representation, deliberation, and participation"
+(Lepore, *The Rise and Fall of the Artificial State*: printed pp. 38,
+94 / PDF pp. 49, 107; her pins are provisional throughout, a phone
+capture with a drifting offset, and are owed re-verification before
+press) [ANALOGY-ONLY, narrowed to the administration/representation
+line: the limit is now stated, and what the flag still guards is the
+step from episodic legibility to continuous legibility, for which
+neither pin supplies a mechanism].
+
+The word for that capacity is Scott's, and his own strongest instance
+is the warning the register has to carry rather than answer. In May
+1941 the Amsterdam authorities produced a map of a population a
+modern registry had made legible, "The Distribution of Jews in the
+Municipality"; sixty-five thousand of the city's Jews "were
+eventually deported"; and Scott's judgement on the registry is the
+one this book adopts, that it was "a capacity that in principle could
+as easily have been deployed to feed the Jews as to deport them"
+(1998: 78). When such a capacity turns, it turns on four elements
+together: "the legibility of a society provides the capacity for
+large-scale social engineering, high-modernist ideology provides the
+desire, the authoritarian state provides the determination to act on
+that desire, and an incapacitated civil society provides the leveled
+social terrain on which to build" (p. 5). This book predicts the
+first, and in at least one bloc the third. It does not predict the
+second or the fourth, and it does not treat their absence as
+guaranteed — which is why the first of Appendix C's failure
+conditions is his objection formalised and scored rather than
+answered here.
 
 And its summit is personal, atop bureaucracies that are
 improvising counterweights — Chapter 9's two-body problem, live:
@@ -8195,7 +9919,14 @@ on those terms. The platforms should study the case.
 
 Who, then, is Henry VII — and what is his artillery? The casting
 is the book's own (c); the components are the prior chapters'
-documented record; and the four candidacies resolve unevenly.
+documented record; and the four candidacies resolve unevenly. The
+shortlist is short for a fiscal reason, and it is worth stating
+before the candidates are weighed: only the largest fiscal bases —
+the United States, China, and the European Union with the states
+that attach to it — can make this next consolidation move at all,
+which is why the casting has four names in it and not forty, and why
+everyone else in the system will buy the settlement rather than
+execute one.
 
 The United States is, on this book's wager, the most probable
 case, and the least self-aware: the five moves running haphazardly, half of them
@@ -8220,10 +9951,21 @@ the American candidacy has not run, and until it runs the candidacy
 is incomplete — this is the book's observation (c), offered as
 analysis and not as counsel, and scored at C11-1. The United States
 has the stack but has not centralised its universalist platforms;
-and its present instinct, when it reaches for them, is usually
-described — sometimes by its own officials — in the vocabulary of
-the trust-busting age, as though the platforms were its Rockefeller
-moment and the remedy a dramatic dissolution. The republic's own
+and one of its present instincts, when it reaches for them, is
+usually described — sometimes by its own officials — in the
+vocabulary of the trust-busting age, as though the platforms were
+its Rockefeller moment and the remedy a dramatic dissolution. That
+is one strand and it is not the strand, and the other runs the
+opposite way: the same years relieved the same industry of burdens
+rather than imposing them, the federal artificial-intelligence
+agenda of 2025 calling for data centres on federal land and for
+"relieving all AI infrastructure projects of the burdens of
+environmental review" (quoted at Lepore, printed p. 222 / PDF
+p. 238; the plan itself is the citation owed and is [RETRIEVAL —
+the primary before press], per the discipline that takes the
+sentence from her and the citation from her note). A book that
+noticed only the trust-busters would be describing an instinct the
+record does not support. The republic's own
 record reads differently, and this book has now assembled it case
 by case (the twelve-case evidentiary file is
 ch12/american-pattern.md; its primaries are statutes, opinions and
@@ -8235,7 +9977,16 @@ confronted an over-mighty citizen (a republic has citizens, not
 subjects; the coinage is this chapter's, the lineage Fortescue's
 by way of Chapter 5) holding a privately owned switch through
 which public life had
-to pass, and in no verified case did it confiscate. The method,
+to pass, and in no verified case did it confiscate. Twelve is the
+count of confrontations and not of outcomes, and one settlement
+inside the dates ran the other way (the Kingsbury commitment of
+1913, whose "trick … was to make relatively painless concessions
+that preempted more severe actions" and whose single structural act,
+the agreement to sell Western Union, left Bell free "to consolidate
+the industry unmolested" — a divestiture whose net effect was
+consolidation: Wu 2010: ch. 3, with the Mann-Elkins Act and the
+Kingsbury letter themselves [RETRIEVAL — primaries owed]). The
+method,
 every time, was regulation of the switch rather than seizure of
 the property: title left, discretion taken and kept — by common carriage,
 line-of-business firebreak, interlock ban, holding-company
@@ -8262,7 +10013,7 @@ interdiction of contraband oil from 1935; the licence-and-block
 powers of 1917, 1941 and 1977 — by regulation, not antitrust. The
 republic decouples in one act and acquires control across decades,
 and what it acquires it keeps; the American settlement of its oil barons
-was made the way the French settlement of 1439–46 was made, as
+was made the way the French settlement of 1439–51 was made, as
 practice hardening into permanence, the dramatic act neither the
 beginning nor the end. Senator Sherman had stated the principle in
 the instrument's own legislative record, in words a
@@ -8286,13 +10037,46 @@ portability, the non-expressive infrastructure — but not their
 doctrine (*Moody v. NetChoice*, 603 U.S. ___ (2024)). The American
 state may absorb the monasteries' functions; it cannot rule their
 creed. What the mechanism predicts is therefore stated in this
-book's own tense — compelled, not accomplished: the state will
-absorb the stack. The settlement will look hybrid — licence,
+book's own tense — compelled, not accomplished — and stated
+narrowly, because the fiscal limb is not the rule it is often read
+as. What it holds is that the state acquires a capability where the
+capability is decisive *and* its dependence on that capability
+inescapable; on those two conditions, and not otherwise, the state
+will absorb the stack. The narrowing is owed to three dated
+failures, and they are conceded here rather than answered later.
+(They are Lepore's, and all three are hers to report. The American
+National Data Center was "abandoned due to privacy
+concerns" and dubbed by its critics "the Snooping Machine"; the
+Soviet OGAS failed, on her account, because "the process of
+developing the network was left to unregulated, independent
+contractors"; Chile's Cybersyn was "abandoned after Pinochet took
+power in a coup in 1973" — Lepore, printed pp. 59, 62 / PDF pp. 70,
+73, pins provisional. Three states, three constitutional forms,
+three abandonments, and in each the fisc was sufficient and the
+capability was not decisive: a data centre was a convenience, a
+planning network an aspiration, a control room a telex system, and
+each could be given up without any loss of decisive force.) The
+concession costs the book a rule and buys it a boundary, and the
+obligation it creates falls on the book rather than on its critics,
+because the prediction now requires that the present dependence be
+shown to be inescapable and not merely asserted — which is the
+demonstration Appendix C's fourth democratic-control indicator has
+to carry. The settlement will look hybrid — licence,
 carriage, firebreak, the platforms' equity intact and their
 returns exceptional — and will be, in fact, consolidation, because
 every instrument in the republic's standing repertoire takes the
-same thing into public keeping, and keeps it: private discretion
-over who computes, communicates, transacts and connects. Licence, and the licensing fee — the right
+same thing into public keeping: private discretion
+over who computes, communicates, transacts and connects. It keeps
+what it takes for as long as it chooses to, which is not for ever,
+and the same telephone system is the proof of the qualification:
+the operating companies reconsolidated with federal approval after
+1996, and their successors were rewarded with retroactive immunity
+for the surveillance they had performed, until the survivors stood
+"closer to possessing a master switch than Vail himself could have
+dreamed" (Wu 2010: ch. 18). An off-switch acquired in one
+generation can be handed back in the next, and Appendix C scores
+re-consolidation with the state as client as a failure of this
+prediction and not as a variant of it. Licence, and the licensing fee — the right
 to run frontier AI at scale conferred by the state, priced by the
 state, collected as the settlement's popular revenue — sits
 exactly where Chapter 11's five moves would put it. Not
@@ -8300,7 +10084,16 @@ nationalisation in the socialist sense; annexation in the
 administrative one, executed with the republic's own instruments.
 Whether the American system can run that pattern against its own
 constitutional grain, at the stack's tempo, is what C11-1 scores,
-year by year.
+year by year. One thing the absorption verdict does not decide is
+the character of what is absorbed, and the distinction §III took
+from Lepore supplies the criterion the chapter's close needs: not
+whether the state acquires the stack, but whether what it acquires
+is administrative capacity or the representative function itself.
+The identity–payments–legibility stack straddles
+that line — a wallet that authenticates a citizen to his benefits
+is administration; a wallet that is also the channel through which
+his consent is registered, measured and predicted is not — which is
+why the question is live rather than rhetorical.
 
 Absorb it into what, is the question the verdict leaves open, and
 the fifteenth century supplies the grammar for answering it. Every
@@ -8425,7 +10218,27 @@ institutional capacity" can do it (2019: 58). The disanalogy is
 that their coercion is horizontal — state against state, through a
 compliant hub that is instrument and never rival — where this
 book's contest is vertical, over who owns the switch; and licence
-as a revenue has no counterpart in their frame. What their account
+as a revenue has no counterpart in their frame. Their record also
+dates the lineage the two stacks share, and the dating is worth the
+sentence: "For decades, the United States had claimed jurisdiction
+over foreign banks that touched the U.S. dollar… Now, it claimed
+jurisdiction, too, over foreign-based technology companies that
+significantly touched U.S. intellectual property, even indirectly"
+(2023: ch. 3). The payments stack was the compute stack's
+template, with something like fifteen years between them — the
+financial off-switch discovered between 2001 and 2012, the compute
+off-switch built on its pattern between 2016 and 2020 — and the
+reading of that sequence as one administrative lineage is this
+book's, marked as inference. Their strongest objection is not
+answered here but staged, because it is a good one: two decades of
+chokepoint power exercised through deputised private hands produced
+no absorption whatever, which is an argument that a state can go on
+borrowing a switch indefinitely and never need to hold it. The
+wager this book enters against that is narrow — that a borrowed
+switch is unstable where the thing borrowed is the decisive layer
+itself, because the lender can price, delay and refuse — and it is
+entered as a wager, with Appendix C scoring the instability rather
+than the book asserting it. What their account
 shows in passing, and the fifteenth century shows plainly, is that
 command does not abolish dependence. When the Lombard bankers of
 Bruges fled in 1457 with their depositors' money, the duke of
@@ -8466,45 +10279,97 @@ suppliers, which Appendix C scores as failure when it appears.
 
 There is a fourth configuration the triad does not name, and the
 book enters it here as the present indicator of where the American
-route may be tending. It is the fusion of the barons with the
+route may be tending. It is the combination of the barons with the
 government against the government's own representative
 institutions — absorption by alliance rather than by revocation,
 the switch acquired not by the state severing the baron's
 discretion but by the baron and the executive holding it together,
 above the legislature and the courts that would otherwise bound
-it. Tilly, extending Lane's owners of a protection-selling
+it. The best word for it is not the book's. Wolin, describing the
+same configuration in the American case, called it
+"predomination — that is, rule by diverse powers which have found
+it in their interests to combine while retaining their separate
+identities" (2008: 185), which is exactly what the indicator
+watches: powers that combine and keep their names. The word is his
+and is used here as his, and it names the indicator better than
+anything the book has offered, which is a reason to prefer it.
+Tilly, extending Lane's owners of a protection-selling
 government, added "the obvious fourth category of owner: a
 dominant class", under which "a subordinate government would tend
 to maximize monopoly profits" (1985: "Protection as Business");
-Crouch, from the other side, saw "a new dominant, combined
-political and economic class" forming through "the growing
-dependence of government on the knowledge and expertise of
-corporate executives" (2000: PDF 20). Krasner has a name for the
-way a strong state's sovereignty is compromised: not by
-intervention, which only weaker states suffer, but by invitation —
-rulers "can extend invitations, sometimes inadvertent, that result
-in compromises of their own Westphalian sovereignty" (1999: 20),
-and "more powerful states are unlikely to lose their Westphalian
-sovereignty unless they invite external authority through
-conventions or contractual arrangements" (p. 29). His object is
-external authority and the term is his; the book borrows the
-distinction rather than the word, to mark what Appendix C's
-American sub-wager must be able to tell apart: consolidation by
-coercion — licence, off-switch, structural separation — from
-consolidation by contract, the barons invited in. Both subordinate
-the baron. Only one of them leaves the state that does it
-answerable, and that is the question the chapter's close takes up.
+Crouch, from the other side, saw the same thing forming and did not
+understate it — "we are steadily moving towards the establishment
+of a new dominant, combined political and economic, class … This is
+the central crisis of early twenty-first-century democracy" (2004:
+52), through what the earlier statement of his argument called "the
+growing dependence of government on the knowledge and expertise of
+corporate executives" (2000: PDF 20, the Fabian typescript, whose
+sentences are cited as such where the book does not carry them).
+Krasner has a name for the route itself: a strong state's
+sovereignty is compromised not by intervention, which only weaker
+states suffer, but by invitation — rulers "can extend invitations,
+sometimes inadvertent, that result in compromises of their own
+Westphalian sovereignty" (1999: 20), and "more powerful states are
+unlikely to lose their Westphalian sovereignty unless they invite
+external authority through conventions or contractual arrangements"
+(p. 29). The book adopts his word, and states the extension rather
+than concealing it: his invited party is a foreign sovereign, where
+the party invited here is a firm inside the state's own
+jurisdiction, so the route is his and the guest is not. What
+Appendix C's American sub-wager must be able to tell apart is
+consolidation by coercion — licence, off-switch, structural
+separation — from consolidation by invitation, the barons asked in.
+Both subordinate the baron. Only one of them leaves the state that
+does it answerable, and that is the question the chapter's close
+takes up.
 
 China is the furthest along — probably closest to Tudor norms, as
-this book holds on balance, the settlement more nearly executed
-there than anywhere — the
-discipline of 2020–23 completed and normalised in sequence, the
-fused-ownership absorption mode, the legibility instruments, the
-canon now exported through a treaty organisation with
-twenty-nine signatures — and its candidacy is qualified mainly
+this book holds on balance — but the verdict is only honest if it is
+given layer by layer, because the layers are at four different
+stages and the ranking rests on two of them. At the canon and the
+register the settlement is executed: what may be said and hosted,
+and who is who, are the party-state's to determine, and the first
+instrument was not the discipline of 2020–23 but the Public Pledge
+on Self-Discipline for the Chinese Internet Industry of 2002, by
+which the foreign platforms undertook to "inspect and monitor the
+information on domestic and foreign Websites" (Goldsmith and Wu
+2006: 9, 96) — the foreign churches subordinated by pact two
+decades before the domestic orders were disciplined by fine. The
+platform orders are ruled as departments of the party-state rather
+than fused with it, and the discipline of 2020–23 was the moment
+the rule was made to bite. At the defence stack there was nothing
+to take back: the state inherited it, never lost it, and holds it
+through monopolies of its own. At the seam between the two the
+settlement is not executed at all — the private technology sector's
+entry into the decisive stack runs by licence at the top category,
+where "the big state-owned defense firms have maintained an iron
+grip" (Cheung 2022: 114–15), and twenty years of the programme
+designed to open it is on its principal scholar's assessment "an
+underwhelming achievement", with about three thousand firms
+recruited out of a hundred and thirty thousand, "a participation
+rate of just 2.3 percent" (p. 116), so that "hybridization has yet
+to make a significant impact on the Chinese techno-security state"
+(p. 295). Which yields the finding, and the book states it as its
+own: the Chinese state has subordinated its private barons and has
+not subordinated its state-owned ones, whose monopolies "have so
+far successfully limited meaningful implementation of these
+market-opening measures" (p. 172) — over-mighty subjects wearing
+the state's own livery. And at the foreign chokepoint it is
+dependent, which the same authority states as a standing condition
+and not a phase: "China seeks long-term technological self-reliance
+but is heavily dependent on foreign technology and know-how in the
+meantime" (p. 298). A word on the
+vocabulary, since one term of art has been avoided deliberately.
+"Fusion" in China means military-civil fusion, a national strategy
+with its own commission since 2015 and, on the same authority,
+early in its execution; this book's subject is a different thing,
+platforms ruled as departments, and the two should not be allowed
+to borrow each other's credit. The candidacy is qualified, finally,
 by the question this book cannot answer from documents: whether
 a settlement executed *as* personal rule reproduces the
-two-body fragility Part II diagnosed. The European Union is the
+two-body fragility Part II diagnosed.
+
+The European Union is the
 hard case, and the book's own analytical instrument — the
 Depreter refinement, carried from the Burgundian accounts —
 governs the assessment. Burgundy taught that apparatus without
@@ -8524,16 +10389,64 @@ named as such — ReArm, the five per cent pledge, SAFE, the
 own-resource proposals: the substrate being built, under
 exactly the exogenous pressure the theory requires. The
 assessment therefore stands as a live conditional, scoreable
-in Appendix C's terms: either the assertion-to-enforcement
-lag closes as the fisc arrives, or the Union completes its
-century as the American bloc's canonical province —
-Burgundy's apparatus, inherited by the neighbour with the
-centre. And India is the possible fourth: the most complete
+in Appendix C's terms, and it has three branches rather than
+two. Either the assertion-to-enforcement lag closes as the
+fisc arrives; or the Union completes its century as the
+American bloc's canonical province — Burgundy's apparatus,
+inherited by the neighbour with the centre; or it takes the
+route Glete found in the Dutch Republic, where it was
+"easier to build a strong state from below (induced by
+demand)" (2002: 149) and where after 1652 the Republic ran
+two navies, a battle fleet on taxes and a cruiser fleet on
+customs duties serving the interests of trade (p. 171) —
+consolidation by member demand, with the strategic layer
+financed apart from the commercial one, which is a shape the
+Union's own instruments could take and which the binary
+could not express. (The literature is against the first
+branch and should be said to be: Ruggie thought the
+Community might be "the first 'multiperspectival polity' to
+emerge since the advent of the modern era" and added that
+"There is no indication, however, that this reimagining will
+result in a federal state of Europe" (1993: 172); Ertman
+excludes confederal entities from the fiscal-military
+category by rule, as bodies "in which sovereignty rested
+with the constituent territories … rather than with the
+center" (1997: 5 n. 13); and Schmitt recorded the rehearsal,
+that when the American shadow fell on Europe in 1930 "it was
+sufficient to transform all plans for a European Union into
+empty discourse" (1950/2003: 258).)
+
+And India is the possible fourth: the most complete
 population-legibility stack outside China, running a decade
 ahead of its military-industrial one; conditional, as every
 chapter has held. Everyone else buys, licenses, aligns, or
 inhabits the interstices — Chapter 6's
 capitulation-without-siege, operating as procurement policy.
+
+One risk runs through all four verdicts, and the book states it as a
+risk rather than dissolving it. The first run subordinated the
+barons and did not subordinate the gunmakers. The founders of Liège,
+in a principality weak enough to be left alone, could "set their own
+prices. Even the mightiest rulers had to pay what was asked, or do
+without"; Philip II, who "knew how to tax and how to confiscate just
+as effectively as Chinese and Islamic officials did", found that his
+own cannon factories "always failed to flourish" (McNeill 1982:
+113); and what kept the market sovereign was the refuge — "Dozens of
+other refuges for entrepreneurs were scattered across the face of
+Europe" — so that "the sovereignty of the market over even the
+greatest ruler of the age remained an ultimate reality" (p. 114).
+Read against the present, the timetable is the sharpest internal
+objection this argument has. If the mechanism runs true to its first
+performance, the compute-foundry layer keeps its pricing power long
+after the private-force layer has been commissioned, and the first
+run measured that lag in centuries rather than decades. The book's
+answer is that a bloc settlement is precisely the closure of the
+refuge the Liégeois depended on — a market with nowhere outside it
+to sell — and the answer is offered beside the risk and not instead
+of it. Appendix C accordingly scores the foundry's pricing power
+apart from the contractors' subordination: the two can move in
+opposite directions, and a forecast that could not register that
+would not be worth scoring.
 
 The book's chief theoretical rival has arrived, from the opposite
 direction, at nearly the same map — and the convergence deserves
@@ -8565,6 +10478,32 @@ he will not say which absorbs which. This book says the price of
 decisive force decides it, bloc by bloc — and for the United
 States has just declared the direction. His refusal to choose is
 the space this book's wager fills.
+
+The geometry is older than either of them — older than this book's
+four blocs and than Bratton's hemispheres — and it is taken here
+with its provenance stated rather than laundered.
+Schmitt described the Monroe Doctrine and the Western Hemisphere as
+encompassing "a space far exceeding the boundaries of the state
+proper — a *Großraum* in the sense of international law" (1950/2003:
+281), and set out three possibilities for a world so ordered: a
+single sovereign, in which "the victor would be the world's sole
+sovereign"; an offshore balancer; and "an equilibrium of several
+independent *Großräume*", which is "rational, if the *Großräume* are
+differentiated meaningfully and are homogeneous internally"
+(pp. 354–55). The third is the position this book's four-bloc
+prediction occupies, which puts the book in a lineage it had better
+name. (The note carries both halves of the debt. The provenance: the
+*Großraum* doctrine was built inside the Third Reich, in the
+*Völkerrechtliche Großraumordnung* of 1939, with the Reich as the
+intended ordering centre, and the 1950 book re-grounds the concept
+without confessing the lineage. The substance: his *Großraum* is a
+spatial-legal ordering concept carrying an intervention ban and no
+account whatever of why blocs form where they do, whereas this
+book's blocs are fiscal-military consolidations defined by the
+capacity to pay for and assemble a decisive stack and scored by
+named falsifiers. The geometry is inherited; the doctrine, the
+provenance and the politics are not, and the book predicts the
+settlement without commending it.)
 
 A second objection to the casting arrives from the engine room:
 that compute is merely electricity by other means — that the
@@ -8795,6 +10734,39 @@ indexed to named blocs, and re-dated only in writing.
 
 ## VII.
 
+*(The CLAUDE.md §9 boundary governs this section: comparative
+historical analysis and asset-class direction; no actionable
+guidance.)* What did the last Tudor settlement do to wealth?
+The ledger is stark and it is the only forecast instrument
+this book will hand its professional readers. Monastic wealth
+— the largest corporate property system in England — was
+dissolved and redistributed inside a decade. The franchise and
+liberty jurisdictions, with their fee streams, were
+extinguished. Chartered-company forms were invented where the
+crown wanted capacity it could licence but not run. Position
+migrated, in one generation, toward the crown-adjacent, the
+licensed and the assessed — and away from the cross-border,
+the immune and the interstitial. The directional analogues,
+stated as pattern: in a parallel-settlements world, value
+migrates toward bloc-interior, licensable,
+procurement-adjacent positions and away from cross-bloc
+arbitrage and interstitial jurisdictions; compliance and
+reporting burdens function as the new tithe — resented,
+universal, and constitutive of legitimacy; the licensing
+premium — clearances, gatekeeper status, charters — becomes a
+durable rent; and interstitial assets carry a durable-disorder
+risk that consolidation fences without removing. For the
+constituencies this book's author has spent a career briefing,
+the fifteenth century's ledger is offered as the reference
+class. Nothing more specific is offered, because nothing more
+specific would be honest — and the ledger is in any case the
+smaller half of the inheritance. What the last settlement did
+to wealth can be stated in a paragraph; what it did to the
+assembly that voted the wealth away cannot, and that is the
+question this chapter has kept until last.
+
+## VIII.
+
 The prediction the chapter has made is two claims, and the book
 scores them separately because the fifteenth century did not
 deliver them together.
@@ -8826,18 +10798,21 @@ hold what is absorbed, and it declines to let the reader assume.
 
 For the democratic bloc, one of the outcomes on that open register
 can be stated precisely enough to be scored, and the chapter gives
-it a name, with the ledger stated first. Crouch called the
+it a name, with its pedigree stated first. Crouch called the
 condition post-democracy: a polity in which "the forms of
 democracy remain fully in place — and today in some respects are
 actually strengthened" while "politics and government are
 increasingly slipping back into the control of privileged elites"
-(2000: PDF 2), in which "virtually all the formal components of
-democracy survive" and yet "it is difficult to dignify it as
-democracy itself" (PDF 8). The condition is his. The adjective the
-book adds is free — it occurs nowhere in his text, and Bagehot,
-who supplies the bridge below, used it only of the
-"solely-ornamental wheels" of medieval clocks (1867/1872: Changes of
-Ministry [PDF 83]), never of a constitution — and the term
+(2004: 6), in which "Virtually all the formal components of
+democracy survive within post-democracy" (p. 22) and yet "it is
+difficult to dignify it as democracy itself" (p. 21). The condition
+is his. The adjective the
+book adds is free, and the check has been made at the page in every
+text that might own it: it occurs in neither Crouch nor Wolin nor
+Lepore, and Bagehot, who supplies the bridge below, used it only of
+the "solely-ornamental wheels" of medieval clocks (1867/1872: Changes
+of Ministry [PDF 83]), never of a constitution and never with
+"democracy" — and the term
 *ornamental democracy* is introduced as a special case of
 post-democracy, not as his concept renamed. The special case is
 defined by its object and its test. Its object is not the quality
@@ -8861,22 +10836,68 @@ the clearance and the fee are present, the settlement is
 ornamentally democratic; where they are present, it is democratic;
 Appendix C carries the indicators. Crouch's own instance is the
 tax-cutting auction whose electorate "had voted for it; the policy
-had democratic legitimacy" (PDF 14), and his one sentence on force
+had democratic legitimacy" (2000: PDF 14, the Fabian typescript —
+one of two sentences this chapter takes from the pamphlet because
+the book does not carry them), and his one sentence on force
 states the principle the falsifiers operationalise: democracy "has
 depended on the capacity of politicians to reduce the political
 power of the military while at the same time sustaining its
-effectiveness as a fighting force" (PDF 32). Two disciplines
+effectiveness as a fighting force" (2000: PDF 32, the same).
+Two disciplines
 follow. Democracy and liberalism are scored separately, which is
 Crouch's distinction and is credited to him — a strong liberal
 society, with its lobbies and causes, "is not the same as a strong
-democracy" (PDF 5–6) — so that a bloc rich in litigation and poor
-in redirection is not mistaken for the second. And the
-predecessors are named. Crouch is one, at the pins above. Wolin's
-*Democracy Incorporated* (2008) is the other, named here and not
-cited, because it is not in the corpus [GAP: Wolin, *Democracy
-Incorporated* (2008) — retrieval; not in corpus; the coinage claim
-is provisional until the check against his "inverted
-totalitarianism" is made at the page]. Stasavage's Cortes of
+democracy" (2000: PDF 5–6; the distinction is made at 2004: 16–17
+with the atrophy mechanism at p. 18) — so that a bloc rich in
+litigation and poor in redirection is not mistaken for the second,
+and so that a reading on one is never entered as a reading on the
+other.
+
+The predecessors are named next, in one sentence and with three
+different objects, because they are not a party and the book must
+say which is which. Crouch's object is egalitarian policy, the
+forms surviving while the substance of redistributive politics
+drains away; Wolin's is the regime, "a new type of political
+system" (2008: 44); Lepore's is consent, her own term being
+"government without consent" (printed p. 5 / PDF p. 15); and this
+book's is narrower than any of
+them, the control of the state's strategic commitments — which is
+why a bloc may score badly on one of these tests and well on
+another. Crouch is the predecessor proper, the writer whose concept
+this is a special case of. Wolin is not a parent but a rival
+diagnosis of the same symptoms: he named them and drew the larger
+conclusion, calling the American regime an inverted totalitarianism
+whose electoral technique is a managed democracy, "a political form
+in which governments are legitimated by elections that they have
+learned to control" (2008: 47), and describing, without the
+adjective, a people who "reigned but did not rule" (pp. 228–29).
+The difference is of object and of testability: his diagnosis covers
+a whole polity, its economy, culture and press, and is offered as
+"tentative, hypothetical" (p. xvi), where this one covers a single
+relation and publishes the four tests by which it can be shown
+false. Because his dating is the strongest objection the term
+faces, the concession travels with the term: he places the
+separation of strategic commitments from electoral control in the
+Cold War, when "a 'defense establishment,' comprising the economy,
+the military, and the state, came into being" (p. 28), and he is
+probably right about it — so that what the mechanism predicts is
+not this condition's arrival but its irreversibility, the point at
+which the state's dependence on the decisive layer can no longer be
+escaped by re-tendering and a budget relation becomes a
+constitutional one. His own trajectory is the reason the narrower
+claim is still worth making: his state sheds capability, "corporate
+expansion extends to military functions, a province once jealously
+guarded as a state prerogative" (p. 136), and the mechanism
+predicts the reversal of that trajectory at the point where a
+supplier can no longer be treated as a contractor. Lepore is the
+most distant of the three, and one sentence disposes of a collision
+her title invites: her Artificial State is "less a state than a
+dream of being without one" (printed p. xv / PDF p. 7), a polity
+whose governing functions are taken over from outside by firms that
+want no state at all, and it contains no decisive force anywhere —
+two books sharing a phrase and not an object.
+
+Stasavage's Cortes of
 Castile is the portrait at the second tier: an assembly that won
 the administration of the *millones* and their audit and then
 found that its cities "gradually lost control over their
@@ -8950,9 +10971,9 @@ incapable", and the council "begins not so much to suggest as to
 inculcate, not so much to advise as to enjoin" (Conclusion [PDF
 103]). The present instance is the one the ornamental route
 describes: the efficient part of the strategic state migrating
-into the executive–baronial fusion, the elected institutions
-remaining as the dignified part, raising the legitimacy the fusion
-employs. The disanalogy is that the dignified parts were never
+into the executive–baronial combination §IV named with Wolin's
+word, the elected institutions remaining as the dignified part,
+raising the legitimacy the combination employs. The disanalogy is that the dignified parts were never
 decoration, and Bagehot said so in the passage that makes the
 distinction: "they are the preliminaries, the needful
 prerequisites of ALL work. They raise the army, though they do not
@@ -8967,7 +10988,7 @@ every constitution's condition and England's particular merit,
 republic had "insinuated itself beneath the folds of a Monarchy",
 a sentence he wrote of society and offered as analogy (The
 Monarchy I [PDF 35]); the ornamental route hides an
-executive–baronial fusion beneath a democracy. Two of his
+executive–baronial combination beneath a democracy. Two of his
 observations are conceded whole and carried as predictions. A
 deferential settlement is in "unstable equilibrium" (Prerequisites
 [PDF 102]); and its mystery "is its life. We must not let in
@@ -8997,38 +11018,10 @@ is open; for the democratic bloc the ornamental route is one of
 the outcomes on the table, its indicator already visible wherever
 barons and executive stand together against the institutions that
 would bound them. What the last Tudor settlement did to wealth and
-position is the reference class the next section states, within
-the boundary this book keeps; what it did to the assembly is the
-question the Coda inherits.
-
-## VIII.
-
-*(The CLAUDE.md §9 boundary governs this section: comparative
-historical analysis and asset-class direction; no actionable
-guidance.)* What did the last Tudor settlement do to wealth?
-The ledger is stark and it is the only forecast instrument
-this book will hand its professional readers. Monastic wealth
-— the largest corporate property system in England — was
-dissolved and redistributed inside a decade. The franchise and
-liberty jurisdictions, with their fee streams, were
-extinguished. Chartered-company forms were invented where the
-crown wanted capacity it could licence but not run. Position
-migrated, in one generation, toward the crown-adjacent, the
-licensed and the assessed — and away from the cross-border,
-the immune and the interstitial. The directional analogues,
-stated as pattern: in a parallel-settlements world, value
-migrates toward bloc-interior, licensable,
-procurement-adjacent positions and away from cross-bloc
-arbitrage and interstitial jurisdictions; compliance and
-reporting burdens function as the new tithe — resented,
-universal, and constitutive of legitimacy; the licensing
-premium — clearances, gatekeeper status, charters — becomes a
-durable rent; and interstitial assets carry a durable-disorder
-risk that consolidation fences without removing. For the
-constituencies this book's author has spent a career briefing,
-the fifteenth century's ledger is offered as the reference
-class. Nothing more specific is offered, because nothing more
-specific would be honest.
+position the section above has stated, within the boundary this book
+keeps; what it did to the assembly is the question the Coda
+inherits. What it did to the man who stood in the way of the guns is
+where this chapter ends.
 
 ## IX.
 
@@ -9109,11 +11102,49 @@ departed from.
 
 The book's causal claim has a precise logical form, and everything
 turns on it: a *mechanism under conditions*, not a law of history.
+That form has a licence and an objection, and both deserve naming.
+The licence is Tilly's, who closed the 1975 volume by allowing that
+the relationships among variables which held in European history —
+between the costliness of armed force and the extent of the
+extractive apparatus, in his own example — might continue to hold in
+our own time, while the specific sequences and forms in which they
+had worked themselves out in Europe would not (Tilly 1975: 601). The
+objection is Ruggie's, whose verdict on enquiries of just this kind is
+that "while there may be law-like generalizations in the
+medieval-to-modern transformation, there are none of it" — no general
+theory, that is, of the passage between orders, whatever may be said
+of processes inside it [^13-1]. That objection
+is conceded rather than answered, because the book never needed the
+larger claim. What is claimed here is one link, not the
+transformation: the subordination of armed intermediaries under a
+permanent fisc. Nothing about the movement from one order of the world
+to another is offered as law-like.
+
 The mechanism — capital-intensification of decisive force compelling
 permanent finance, permanent finance compelling administrative
 capacity, administrative capacity subordinating intermediate
 authorities — operated once, in the documented case Part II
-reconstructs. The book's wager is that its enabling conditions have
+reconstructs. Two glosses keep that sentence honest. The first is
+that the ratchet the case demonstrates is a narrow one: scale, and
+the end of the small sovereign. Artillery against walls is the French
+form of a wider capital-intensification, not its only form — the
+earliest sailing navies were state-owned from the beginning, raised
+on the European periphery by naval-minded kings where no wall had
+been broken at all, and heavy guns were capital goods in both
+services, the mobile siege train requiring a permanent organisation
+of skilled men and the heaviest ordnance requiring warships too
+specialised to trade (Glete 2002: 39, 65). The second is that the
+chain is a tax chain. The French settlement completed between 1439
+and 1451 — the ordonnance at one end, and at the other the taille des
+gens de guerre, which by Major's account came in 1451 to be levied by
+royal command alone (Major 1960: 42) — was a tax settlement and not a
+credit one: the monarchy established no long-term debt until 1522,
+two generations later and by a municipal route, and before 1500 no
+territorial state in Europe had a funded debt at all (Stasavage 2011:
+ch. 2). The artillery state was built on taxation and short-term
+merchant credit, not on borrowing against the future.
+
+The book's wager is that its enabling conditions have
 recurred: a decisive capability whose establishment cost sits beyond
 what any subject can sustain; polities with latent fiscal-administrative capacity
 to mobilise; and exogenous pressure sufficient to force the
@@ -9133,6 +11164,31 @@ follows. History does not repeat on command. Prices, however, are
 facts, and the book's core empirical assertion — that the price of
 decisive capability has moved beyond subordinate reach — is checkable
 at any time against public budgets.
+
+One further honesty belongs here, because it changes the tense in
+which the wager must be read. Half of the reassertion this book
+predicts is not a prediction at all. The canon and the register —
+which rules count, who is who, what is where, which payments clear —
+were substantially re-territorialised between 2000 and 2006, and they
+were re-territorialised cheaply, by ordinary law applied to local
+intermediaries, since government regulation works, in Goldsmith and
+Wu's formulation, "by cost and bother, not by hermetic seal"
+(Goldsmith and Wu 2006: 68), until what had been a global network
+became "a collection of nation-state networks" (p. 149). No fiscal
+threshold was crossed to do it. The chokepoints the state now works
+through — payments, data, the clearing systems — accrued to it by
+jurisdictional accident rather than by purchase; the asymmetric
+networks it exploits, as Farrell and Newman put it, "were not
+constructed as tools of statecraft" (Farrell and Newman 2019: 54),
+and no new taxation was required to take them up. Over that layer the
+mechanism claims only two things it can defend: scale, since control
+through intermediaries is "generally less effective in small nations"
+(Goldsmith and Wu 2006: 81–82), and fusion, the point at which the
+legibility layer is joined to the layer that costs money. The fiscal
+threshold is therefore defended on the decisive military stack alone.
+Accomplished for canon and register; compelled and unaccomplished for
+the guns — the book speaks in two tenses at once, and the reader
+should hold it to both.
 
 ## II. The comparative register, stated as rule
 
@@ -9181,6 +11237,19 @@ regulations, court filings, proxy statements, budget lines, the
 institutions' own annual reports — with commentary as framing,
 never as load-bearing support; every live episode is drafted as
 dated events, attributed, and flagged for re-verification at press.
+
+One term of art in that record is borrowed, and the debt is
+discharged here rather than in a bibliography. *Legibility* — a
+state's capacity to see its subjects and their holdings in a
+standard, countable form — is James C. Scott's, who found the
+premodern state "in many crucial respects, partially blind" and read
+surnames, cadastres, population registers and standard measures as
+"attempts at legibility and simplification" driven by "the pressing
+material interests of rulers: fiscal receipts, military manpower, and
+state security" (Scott 1998: 2, 24). The optic throughout this book
+is his; what the book adds is the price at which acquiring it becomes
+unavoidable.
+
 Two special disciplines ran across all three tiers. Foreign-language
 sources are quoted verbatim in the original, with translations
 either the scholarly edition's or marked as the pipeline's own for
@@ -9191,6 +11260,24 @@ concessions — Rogers's spiral, DeVries's conforming France and
 Burgundy, Curry's state-only threshold, Cerny's fifteenth-century
 attribution — so that what remains in dispute with the specialists
 is ranking, tempo and sequence, never direction.
+
+Two absences belong beside those disciplines, because the corpus's
+gaps bear on the argument as much as its holdings do. The
+corpus has holes, and one falls on the book's own hinge:
+the Burgundian chronicler's pages from July 1453 to August 1454 are
+lost in the manuscript itself, and with them his narrative of
+Castillon, Talbot's death, the conquest of Guyenne and the fall of
+Constantinople, so that the triple hinge of 1453 has no Burgundian
+witness and none is claimed (Kervyn de Lettenhove's note at the close
+of Chastellain, *Œuvres*, tome II). And where the witness does
+survive, his frame is not the book's. Commynes, who saw the Italian
+campaign of 1494 and described its artillery better than any modern
+summary, concluded that the thing had been "impossible aux gens qui
+le guidoient, s'il ne fust venu de Dieu seul" — impossible for the
+men who guided it, had it not come from God alone [TRANS. CLAUDE]
+[^13-2]. The mechanism is the
+historian's frame imposed on such testimony, not found in it, and the
+book says so where it uses him.
 
 One disclosure belongs in this note as a matter of the same
 discipline. The research and drafting pipeline for this book used
@@ -9213,7 +11300,7 @@ the book was built.
 
 | # | The outline's original condition | The narrowed condition as published | What forced the narrowing |
 |---|---|---|---|
-| 1 | Cheap distributed autonomy defeats concentrated capital | A full-stack power defeated by cheap distributed systems *fielded without a patron's intelligence, connectivity and interceptor layers behind them* | The Ukraine record: the March 2025 suspension week showed the cheap layer aiming through a patron's decisive layer (ch12) |
+| 1 | Cheap distributed autonomy defeats concentrated capital | A full-stack power defeated by cheap distributed systems *fielded without a patron's intelligence, connectivity and interceptor layers behind them* | The Ukraine record: the March 2025 suspension week showed the cheap layer aiming through a patron's decisive layer (ch12). In its narrowed form this condition is the Scott scenario made scoreable — the falsifier his warning about legible states demands, and the reason the book can be said to have priced it (Scott 1998: 4–5) |
 | 2 | Privacy-preserving systems become the default | Bloc-internal fiscal and reporting reach *falls in fact*; the offshore untaxed share *rises again*; plural privacy-default stacks displace bloc stacks *as the operative default* | The legibility record: the offshore stock persists while the untaxed fraction collapsed threefold — the honest baseline required a sharper falsifier (ch08) |
 | 3 | Platforms consolidate independence | An actor with decisive-relevant capability and a majority-commercial fiscal base escapes the state's instruments *and resolves its disputes with states in fora states do not control* | The legal history: plural fora proved parasitic on state law; forum-migration is the discriminating test (chs. 8, 11) |
 | 4 | No identifiable Tudor moves | The five moves decomposed into scoreable forms across all four candidates, *plus* the Depreter limb: canon alone consolidating a bloc would falsify the mechanism even while producing a settlement look-alike | The comparative work (ch11) and the Burgundian accounts (ch10): apparatus without a continuous centre fails — so the EU case must be able to cut against the book |
@@ -9254,15 +11341,15 @@ first is the mechanism: the independent technological powers are
 subordinated to the state, as the barons were. The second is the
 constitutional form of the state that absorbs them, and that the
 book holds open — in the democratic bloc it may be democratic, or it
-may be what Chapter 12 calls *ornamental democracy*, legitimating
+may be what Chapter 12, §VIII calls *ornamental democracy*, legitimating
 authority demonstrably separated from effective control over the
 state's strategic commitments. The term is that chapter's, entered
 there as a special case of the condition Colin Crouch named
-post-democracy, in which the forms of democracy remain fully in
-place while politics and government slip back into the control of
-privileged elites (Crouch 2000: PDF 2); and it is Crouch's own
-judgement that it is difficult to dignify such a politics as
-democracy (Crouch 2000: PDF 8) which licenses the book to score the
+post-democracy, in which "the forms of democracy remain fully in
+place" while "politics and government are increasingly slipping back
+into the control of privileged elites" (Crouch 2004: 6); and it is
+Crouch's own judgement that it is "difficult to dignify it as
+democracy itself" (p. 21) which licenses the book to score the
 condition rather than assume it away. The distinction borrowed to
 state the difference is Bagehot's, between the dignified parts of a
 constitution, which excite and preserve reverence, and the efficient
@@ -9272,13 +11359,16 @@ held the separation of reverence from rule to be every
 constitution's condition and England's particular merit (Bagehot
 1867: PDF 28, 101), and the disanalogy travels with the borrowing:
 the dignified parts, in his account, were never decoration but the
-parts that bring a government its force. His one warning the book
+parts that bring a government its force; they "raise the army, though
+they do not win the battle" (Bagehot 1867: PDF 21). His one
+warning the book
 does adopt is a prediction. A settlement of this kind is stable only
 while it is not demonstrated — "We must not let in daylight upon
 magic" (Bagehot 1867: PDF 37) — so that a positive reading on the
 indicator would itself be an unsettling event, and that is the
 sub-wager's confessed fragility. The historical portrait of the
-second outcome is not English but Castilian: an assembly that won
+second outcome is not English but Castilian, and it is David
+Stasavage's: an assembly that won
 consent, administration and audit, then lost control of its own
 representatives, kept its prerogatives without their purpose, and
 was abolished in 1665 under one of the weakest of the Habsburg kings
@@ -9291,7 +11381,7 @@ residue of resistance to bargained extraction (Tilly 1985: "How
 States Formed"); a consolidating state financed by the rents of the stack
 rather than by a bargained broad tax would, on Tilly's own mechanism,
 consolidate without those by-products, an extension of his argument
-that is the book's and not his, and that Chapter 12 carries. The
+that is the book's and not his, and that Chapter 12, §VIII carries. The
 barons' loss of independence and the people's acquisition of control
 are therefore not assumed to be the same event. The four falsifiers
 of the ornamental reading — elections that redirect strategic
@@ -9299,8 +11389,8 @@ commitments, legislatures that enforce meaningful conditions, courts
 whose remedies change operations, public institutions capable of
 replacing essential suppliers — are stated with the wager in the
 Introduction and scored in Appendix C, with democracy and liberalism
-scored separately, a distinction that is also Crouch's (Crouch 2000:
-PDF 5).
+scored separately, a distinction that is also Crouch's (Crouch 2004:
+16–17).
 
 One limit is confessed rather than disclaimed, because it is a
 question the book can pose and cannot answer. The consolidations
@@ -9319,6 +11409,24 @@ mechanism's history, this book does not know, and says so. The
 wager's scoring does not depend on the answer: the indicators
 measure consolidation within blocs, and a pause between them
 would leave every one of them scoreable.
+
+A second limit is confessed in the same spirit, and it is internal to
+the one completed run. The barons were subordinated first; the
+gunfounders were not. The gunmakers of Liège sat in a principality too
+weak to be worth holding, and their very weakness, McNeill records,
+"allowed the Liégeois to set their own prices. Even the mightiest
+rulers had to pay what was asked, or do without", because so long as
+no single command structure reached every corner of Latin Christendom
+"the sovereignty of the market over even the greatest ruler of the age
+remained an ultimate reality" (McNeill 1982: 113–14). If the run is a
+guide, the compute-and-foundry layer keeps its pricing power long
+after the private-force layer has been commissioned. The book's answer
+— that a bloc settlement is precisely the closure of the refuge on
+which a Liège depends — stands beside that risk and not instead of it;
+and because a limit confessed is something a reader weighs while an
+indicator scored is something that can move, the two are scored apart
+in Appendix C, contractor subordination and foundry pricing power,
+which may run in opposite directions.
 
 ## VI. The debt to Bull, and the precise disagreement
 
@@ -9345,11 +11453,31 @@ record documents is the exit's first half — the subordination of the
 intermediaries under a permanent fisc; who then held the
 consolidated apparatus is a question the record answers differently
 in each polity, and the book carries it as an open second claim
-rather than folding it into the first. Where Bull
+rather than folding it into the first. The shape of that exit was
+named as a possibility, and named third, in 1950: setting out how a
+new order of the earth might come, Schmitt allowed that "a
+combination of several independent *Großräume* or blocs could
+constitute a balance, and thereby could precipitate a new order of
+the earth", and thought such an equilibrium "rational, if the
+*Großräume* are differentiated meaningfully and are homogeneous
+internally", while "most of those considering this frightful problem
+rush blindly toward a single sovereign of the world" (Schmitt
+1950/2003: 354–55). This book is the mechanism-equipped argument for
+that third branch: what he could offer as a rational possibility, the
+fiscal-military chain offers as a compelled one. The geometry is
+taken with its debt stated rather than laundered — the note at Chapter 12, §IV
+carries the 1939 provenance and the substance disanalogy, and neither
+the doctrine nor the politics travels with the shape. Where Bull
 saw a possible destination, this book sees a waypoint with a
 well-documented exit — and it has tried to honour him in the only
 way that matters, by saying exactly what evidence would prove the
 dispersal stable after all, and publishing the list.
+
+
+#### Notes
+[^13-1]: Ruggie 1993: 156, 169; the wording carried
+from a rough scan, page images to be checked at press
+[^13-2]: Commynes, ed. Calmette, t. III: 81
 
 
 ---
@@ -9510,7 +11638,7 @@ The barons' loss of independence and the people's acquisition of control
 are not assumed to be the same event, and the reader who finds the first
 confirmed and the second failed should record both.
 
-Seven scoring rules govern every row that follows.
+Eight scoring rules govern every row that follows.
 
 **1. Four blocs, scored separately.** The candidate consolidators are the
 United States, China, Europe and — conditionally — India (spine §5). Each
@@ -9562,7 +11690,7 @@ it is the form this appendix takes. Tilly's precedent stands beside it:
 theory "must proceed in an open-ended and prospective fashion" (Tilly
 1975, p. 635).
 
-**5. Three coding rules for the absorption rows.** (a) A stalled move is
+**5. Four coding rules for the absorption rows.** (a) A stalled move is
 classed before it is scored: a failure of interest or will is
 distinguished from a failure of power (Goldsmith and Wu 2006, p. 89), and
 only incapacity counts against the mechanism; a will-classed stall is
@@ -9580,7 +11708,29 @@ route, not as consolidation; and a licence counts as consolidation only
 where revocation has been exercised or is exercisable against an
 incumbent, not where it freezes rivals in the incumbent's favour (the
 capture-by-licence reading is Wu's, *The Master Switch*, ch. 9, and it is
-scored against the book, not for it).
+scored against the book, not for it). (d) Re-consolidation with the state
+as client is coded as a FAILURE of the prediction wherever it recurs, and
+the American record supplies the specimen this rule is built from: after
+the severance of 1984 the Bell fragments were reassembled with federal
+approval — Pacific Telesis in 1997, BellSouth in 2006, so that "after a
+decade of consolidation, his new Bell system covered most of the country"
+— and in July 2008 Congress granted the reconstituted carriers "full and
+retroactive immunity" for their part in warrantless surveillance, with
+the result that "the reconstituted giants of telephony are closer to
+possessing a master switch than Vail himself could have dreamed" (Wu,
+*The Master Switch*, ch. 18; the statute is given at his n. 20 as the
+FISA Amendments Act of 2008, Pub. L. 110-261, and is not in the corpus,
+so it is not cited here as consulted). Services rendered and immunity
+granted is the client relation and not the principal's; a severance
+reversed with the state's approval and paid for in immunity is therefore
+scored against the American route at CA-4, CA-7 and C11-1, and is scored
+so even where the reconstituted firm is more useful to the state than its
+fragments were — usefulness to the state is what this rule expects the
+failure mode to look like. The 1913 half of the same series is carried in
+the chapter record and not here: the Kingsbury Commitment's structural
+concession and its net consolidating effect are Wu's (ch. 3), and the
+primary instruments (the Mann–Elkins Act, the Kingsbury letter) are not
+in the corpus.
 
 **6. Democracy and liberalism, scored separately.** The distinction is
 Crouch's — a vigorous liberal society "is not the same as a strong
@@ -9611,7 +11761,43 @@ the DOJ press release 22-1222 (19 October 2022); California SB 53
 (Chapter 138, Statutes of 2025); the BIS final rule at 90 FR, doc.
 2025-16735 (2 September 2025); and the CMA cloud services final decision
 (31 July 2025). Figures from the chapter record are cited to the chapter
-sources.md that holds them.
+sources.md that holds them. Added 29 September 2026: McNeill 1982 (ch06
+sources.md), Bean 1973 (ch06 sources.md), Tilly 1990 (ch10 sources.md),
+Scott 1998 (ch12 sources.md), Wu's *The Master Switch* (ch12 sources.md)
+and Lepore's *Rise and Fall of the Artificial State* (ch12 sources.md,
+T3, no imprint or year, every pin provisional) were opened at their
+sidecars for the pins this pass carries.
+
+**8. The window rule.** Bean asked, in 1973, how long a decisive
+capability stays decisive, and answered it for the first run: the cannon's
+offensive advantage opened in the middle of the fifteenth century, and
+"more than fifty years passed before the art of fortification caught up
+with the new techniques of siege-craft, but by the second decade of the
+sixteenth century, the balance was again in favor of the defense", after
+which the defensive era held "until the end of the eighteenth century"
+(Bean 1973, pp. 207–08; ch06 sources.md; DATED). The settlement the window
+produced outlasted the window by a wide margin: no European state "made a
+serious attempt to institute direct rule from top to bottom until the era
+of the French Revolution" (Tilly 1990, p. 25; ch10 sources.md; DATED).
+Three consequences for the scoring, and the third is a debt. (a) The wager
+is on the settlement, not on the capability: the book claims that the
+compute-led stack's present advantage induces a settlement inside each
+bloc that can pay for it, and that the settlement outlives the advantage.
+(b) The window's closing is therefore not by itself a falsifier, and is
+not scored as one. Proliferation of the decisive layer *inside* the
+Introduction's fifteen-year horizon fails condition 1 and is scored at
+C10-2, because the mechanism is then not operating; proliferation *after* a
+bloc has made its settlement tests irreversibility instead, and only a
+settlement reversed — the fiscal instrument withdrawn, the enacted
+authority repealed, the subordinated capability returned to private hands
+— falsifies the irreversibility claim. The distinction is dated on entry
+so that it cannot be drawn after the fact. (c) The book does not predict
+the window's length and nothing here should be read as doing so: no dated
+forecast of how long leading-node fabrication and frontier-model advantage
+last is in the reviewed record, so the quantity NEEDS BASELINE and the
+comparison with the sixty-odd years Bean's window ran is stated as a
+proportion the first run exhibited, not as a term this book claims for the
+second.
 
 **The conditions and their instruments.** The Introduction's passage
 names its indicators inline; the mapping is repeated here so the wager can
@@ -9619,12 +11805,37 @@ be scored without reconstructing it.
 
 | Introduction condition (narrowed form) | Instruments |
 |---|---|
-| 1. The decisive layer proliferates; or a full-stack power is defeated without patron scaffolding | C10-2 (absorbing C6-1); C12-1 |
+| 1. The decisive layer proliferates; or a full-stack power is defeated without patron scaffolding — **the Scott scenario** | C10-2 (absorbing C6-1); C12-1; C10-4's falsifier (ii) |
 | 2. Legibility fragments in fact — bloc-internal reach falls; the untaxed offshore share rises | C11-2; C8-3 |
 | 3. Platform independence consolidates; adjudication migrates out of state courts | C2-3 (with C3-2); C8-2; C11-3's forum limb |
 | 4. The Tudor moves stall across all four candidates; or canon alone consolidates a bloc's decisive capability | C11-1; C10-1; C2-1/C4-1; C6-3; the Depreter test |
 | Claim 3(ii) — the form: ornamental or democratic | DC-1..6 (Part IV); coded on rule 5(b) |
 | The American verdict (spine §8(c)) | CA-1..8 (Part V), under rule 3 |
+
+**Condition 1 is the Scott scenario, and it is named so here.** The word
+"legibility" is James C. Scott's coinage in the technical sense the book
+uses throughout, and his warning is stated as a recipe of four elements:
+"the legibility of a society provides the capacity for large-scale social
+engineering, high-modernist ideology provides the desire, the
+authoritarian state provides the determination to act on that desire, and
+an incapacitated civil society provides the leveled social terrain on
+which to build" (Scott 1998, p. 5; the "pernicious combination of four
+elements" at p. 4; ch12 sources.md; DATED). The settlement this book
+predicts assembles the first and third of those elements in at least one
+bloc, so his objection is the sharpest available against it, and condition
+1 is where the book already priced it in: a full-stack power defeated by
+cheap distributed systems operating without a patron's decisive layer is
+the brittleness of the synoptic scheme demonstrated on the only terms that
+would settle the question, and it is measured at C10-2 and C12-1 rather
+than conceded rhetorically. Two disciplines travel with the naming. The
+scenario is not the book's expectation, and Scott himself supplies the
+reason it is not: "centralized high-modernist solutions can be the most
+efficient, equitable, and satisfactory for many tasks", among them "Space
+exploration, the planning of transportation networks, flood control,
+airplane manufacturing" (p. 221) — the decisive stack's own register. And
+the falsifier's force does not depend on his account of resistance, which
+is micro-social; formalising it at bloc scale is this book's move and is
+marked as such (ch12 sources.md, USE-NOTE).
 
 ---
 
@@ -9687,10 +11898,10 @@ inside each bloc is the Tudor reading; decisive actions clustering
 bloc-against-bloc while internal enforcement stalls is the great-power
 reading; condition 4 fails the book if the scorecard stalls across all
 four candidates, subject to rule 5(a) and, for the United States, rule 3.
-Two named failure modes are scored here: the reconstitution outcome (a
-severance reversed with the state's approval — Wu, ch. 18) and the 1695
-outcome (a licence that lapses because the licensor cannot run the
-medium — ch11).
+Two named failure modes are scored here: the reconstitution outcome, now
+coded under rule 5(d) (a severance reversed with the state's approval and
+the state left as client — Wu, ch. 18) and the 1695 outcome (a licence
+that lapses because the licensor cannot run the medium — ch11).
 
 ---
 
@@ -9717,12 +11928,88 @@ Magdeburg cancellation (July 2025; Intel Q2 2025 release as T1 anchor, on
 retrieval — NEEDS VERIFICATION); IRIS² contracted, services c. 2030 (ch10
 sources.md). DATED at the supplier level. *India:* NO BASELINE — not
 scored. *Direction:* a count holding at four or fewer confirms the
-concentration thesis; a rise materially above four fails condition 1. The
-foundry's pricing power is scored apart from the contractor class's
-subordination (C3-2) and the two are not merged: McNeill's Liège held its
-price for two centuries after the barons were commissioned ("Even the
-mightiest rulers had to pay what was asked, or do without", McNeill 1982,
-p. 113); the pricing series itself NEEDS BASELINE.
+concentration thesis; a rise materially above four fails condition 1 — the
+Scott scenario's first limb. The foundry's pricing power is scored apart
+from the contractor class's subordination (C3-2) and the two are not
+merged; that separation now has its own row at C10-4, which this row's
+concentration series feeds.
+
+**C10-4 — Foundry pricing power, scored apart from contractor
+subordination** *(new, 29 September 2026; promotes the memo's candidate
+CC-8; the Liège lag)*. Measures whether the suppliers of the decisive
+layer keep the power to set their own terms after the private-force layer
+has been commissioned. The row exists because the timetable is the
+sharpest internal objection the book has, and an objection stated as a
+limit in the Coda is something a reader weighs while an objection entered
+here is something that can be lost. *The historical case, and it is
+McNeill's.* Liège became Europe's armaments centre only after 1492, when
+the bishopric disarmed and declared itself neutral, so that rulers who
+wanted its guns "had to withdraw their soldiers and let the market again
+come freely into play"; "Their very weakness thus allowed the Liégeois to
+set their own prices. Even the mightiest rulers had to pay what was asked,
+or do without" (McNeill 1982, p. 113; ch06 sources.md holds the master
+entry). The same page carries the command principle failing on the other
+side: Philip II "knew how to tax and how to confiscate just as effectively
+as Chinese and Islamic officials did", and his own cannon factories
+"always failed to flourish" (p. 113). The condition was jurisdictional
+refuge — so long as "no single political command structure could reach out
+to every corner of Latin Christendom … the sovereignty of the market over
+even the greatest ruler of the age remained an ultimate reality" (p. 114)
+— and the refuge closed by annexation, not by competition: "After 1794,
+when the French annexed Liège, gunmakers of that city, the most practiced
+of all Europe, were compelled to upgrade their performance by the new
+French inspectors" (p. 166 n. 28), the city thereafter contributing to the
+French war effort under Paris's jurisdiction (p. 213). Against the
+subordination of the armed intermediaries, "largely complete by 1500"
+(Bean 1973, p. 220; ch06 sources.md), that is a lag of about three
+centuries. *This appendix's 16 September formulation — "two centuries" —
+is corrected here: the figure is not McNeill's and his own dates do not
+support it.* *Level:* operating capacity (the supplier's power over its
+terms); enacted authority (the state's power over those terms).
+*United States:* the concentration limb is DATED at C10-2 — sub-10nm
+capacity wholly outside the bloc cores in the 2021 snapshot, one EUV
+supplier on earth — and the enacted limb is DATED and points both ways:
+the grant-to-equity conversion of August 2025 took a position inside a
+supplier rather than a power over its price (C10-1); the VEU revocations
+of 2 September 2025 exercise power over a client's access, not over a
+supplier's terms (90 FR, doc. 2025-16735); and the reported H200 revenue
+arrangement is the state taking a share of a price it does not set — the
+inverse of the power this row looks for, and NEEDS VERIFICATION (CA-6).
+The terms limb itself — a dated margin, price or contract-terms series for
+leading-node fabrication, launch or frontier-model provision — NEEDS
+BASELINE; nothing in the reviewed record supplies one, and the foundry
+share figures the chapter record carries are unopened web pointers which
+this appendix may not score. *China:* the inverse case, entered as its own
+thing and scored on three levels — the suppliers are the state's own
+conglomerates, which keep an "iron grip on licenses" (Cheung 2022, p. 115;
+DATED 2017–18): pricing power held inside the state rather than against
+it, which is why a Chinese reading of this row cannot be transferred to
+another bloc. *Europe:* the enabling supplier is European and holds the
+only EUV position on earth (C10-2; DATED at the supplier level); no
+European instrument over that supplier's terms is sourced — NEEDS
+BASELINE. *India:* NO BASELINE — not scored. *Direction.* The book
+predicts, and this row is entered so that the prediction can fail, that as
+the contractor class is subordinated (C2-3 with C3-2's precursor series)
+the decisive layer's suppliers keep their pricing power for a period
+measured in decades rather than years, and that when it ends it ends from
+the enacted level — a bloc closing the jurisdictional refuge on which the
+price depends, as Liège's closed in 1794 — rather than from competition.
+*Falsifiers, two, and each sufficient.* (i) If a bloc brings its
+suppliers' terms under state control at the same time as, or before, it
+subordinates the contractor class, the lag the mechanism predicts is
+absent and this row is scored against the book; the historical case
+separates the two by centuries, and simultaneity is not the mechanism
+running faster but a different mechanism. (ii) If the suppliers' pricing
+power instead ends because rivals arrive — a leading-node count rising
+materially above four at C10-2, terms compressed by entry — then the
+concentration premise fails with condition 1 and this row fails with it,
+and the outcome is not to be re-read as the state's victory. *Not scored
+in either direction until the terms limb has a baseline*: what is scored
+today is the concentration limb at C10-2 and the enacted limb above. The
+book's answer to the risk stands beside it and not instead of it: the bloc
+settlement is precisely the closure of the refuge Liège depended on — a
+claim about the Introduction's horizon, scored here rather than confessed
+in the Coda, which is the whole reason the row exists.
 
 **C10-1 — Public financing of the military-relevant stack** *(absorbs
 C6-2)*. Measures central-budget lines for the decisive layer and their
@@ -10040,11 +12327,37 @@ inputs to the ornamental route and not only as consolidation signals.
 The Chinese column is n/a throughout Part IV by construction, except at
 DC-4 and DC-6, where China supplies the inverse case.
 
-The four falsifiers are the wager's; if the democratic bloc shows all
-four operating on the stack's commitments across the horizon, claim
-3(ii)'s ornamental outcome is falsified for that bloc and the settlement
-is scored democratic. Each is entered with its baseline as a figure or an
-enacted text with a date, or marked NEEDS BASELINE and not scored.
+The four falsifiers are the wager's, and they are stated in the text at
+ch12 §VIII, the two-claim constitutional close (the chapter's §VII is the
+asset ledger and its §IX the return to the field; the numbering changed on
+29 September 2026 and this appendix follows it). If the democratic bloc
+shows all four operating on the stack's commitments across the horizon,
+claim 3(ii)'s ornamental outcome is falsified for that bloc and the
+settlement is scored democratic. Each is entered with its baseline as a
+figure or an enacted text with a date, or marked NEEDS BASELINE and not
+scored.
+
+**The optimistic case, entered once here and cross-referred at DC-1..4.**
+The falsifiers were designed to count demonstrated redirections rather
+than available remedies, and the strongest recent statement of the
+optimistic case shows why. Lepore, writing on the same 2025–26 record,
+holds that "everything destructive that they have done can be undone by
+voters, elections, legislation, and judicial enforcement, and by a
+commitment to the self-evident truths proclaimed two hundred and fifty
+years ago" (printed p. 226 / PDF p. 242), that "That rock is the right of
+the people to elect a government by consent and not by automation", and
+that technologies "can be held to publicly defined standards, answerable
+to voters and not to corporations" (printed p. 227 / PDF p. 243). Three of
+the four falsifiers appear there as rights; the fourth does not appear at
+all. She names no worked instance of an election, a statute or a judgment
+operating on a strategic commitment, and the resistance she documents is
+local and individual. That is the finding this appendix records, and it
+is recorded as a design note rather than as a baseline: she is T3, her
+contemporary chapters rest on reporting, no imprint or year is established
+from the capture, and every pin here is provisional and to be re-verified
+against a printed copy before press (ch12 sources.md). Her dated
+measurable claims are not scored, and the reasons are on the record at
+§VII.
 
 **DC-1 — Elections that redirect strategic commitments.** Measures
 whether an election turning on a stack commitment reversed or redirected
@@ -10064,7 +12377,13 @@ negative form is Crouch's: "But they had voted for it; the policy had
 democratic legitimacy" (PDF p. 14) — an election that legitimates a
 commitment it did not choose is the ornamental reading, and a
 redirection that is later reversed without an election is scored as
-punishment, not remedy.
+punishment, not remedy. *Design note (29 September 2026).* The optimistic
+case names this remedy as a right — elections among the four things by
+which "everything destructive … can be undone" (Lepore, printed p. 226 /
+PDF p. 242, provisional) — and produces no worked instance of an election
+redirecting a stack commitment; the row's demand for a demonstrated
+redirection is therefore not a standard set where nobody would look, but
+the standard the case's own advocate declines to meet.
 
 **DC-2 — Legislatures that enforce meaningful conditions.** Measures
 whether a legislature has written conditions onto the stack's
@@ -10105,6 +12424,36 @@ tax into a permanent obligation to maintain 30,000 soldiers, but that
 was denied" (Glete 2002, p. 122): a legislature that enforced, and a
 fisc that did not become permanent.
 
+*Design note and one candidate anti-baseline (29 September 2026).* The
+optimistic case names legislation as a right — one of the four by which
+"everything destructive … can be undone" (Lepore, printed p. 226 / PDF p.
+242, provisional) — and produces no worked instance of a statute enforced
+against the executive or a supplier on a strategic commitment; what it
+offers instead is restorative, and dated by its own loss. When Gingrich
+became Speaker, "one of his first moves was to close the federal
+government's Office of Technology Assessment, which had been formed in
+1972. The office hadn't been especially powerful, but its mandate included
+assessing the implications of any new technology supported by the federal
+government" (printed p. 70, running head illegible / PDF p. 81,
+provisional). That is the right kind of datum for this row — the
+legislature's own capacity to know what to condition, created and then
+removed — and it is therefore **entered as a CANDIDATE anti-baseline, NOT
+SCORED, and marked NEEDS PRIMARY FOR THE DATE**: her text gives 1972 for
+the formation and dates the closure only by Gingrich's arrival, so the
+abolition year is not at the pin and is not asserted here. The date must
+come from a primary — the appropriations act that ended the office's
+funding, or the OTA's own final report — and under the standing use-note
+the entry will cite that primary; she supplies the sentence, not the
+authority. Its directional value is symmetrical: abolition is a measurable
+reduction in the capacity this row scores, and the same body's revival
+would be a measurable increase. Carried with it as a **coding rubric and
+not an indicator**: her six assessment questions — "Is it good? Might it
+be bad? Is it for everyone? What rules should guide its adoption? How much
+will it cost, and what is it worth? Who benefits, and who is harmed?"
+(printed p. 227 / PDF p. 243, provisional) — are the public-standards
+template a legislative condition would have to meet, credited to her and
+scoring nothing by themselves.
+
 **DC-3 — Courts whose remedies change operations.** Measures whether a
 court order altered an operation — a divestiture executed, a directive
 enjoined and the operation changed — as distinct from a fine or censure.
@@ -10121,7 +12470,13 @@ from the subject, not one imposed on the state (8 July 2026; judgment
 number to pin). *India:* NO BASELINE — not scored. *China:* n/a. Coding:
 an order the state invited by contract is scored differently from one it
 resisted (Krasner 1999, p. 29); the forum-migration limb stays with C11-3
-and is not double-counted here.
+and is not double-counted here. *Design note (29 September 2026).* The
+optimistic case names judicial enforcement as a right — the fourth of the
+four by which "everything destructive … can be undone" (Lepore, printed p.
+226 / PDF p. 242, provisional) — and produces no worked instance of a
+judgment changing an operation on a strategic commitment. The single
+American instance in this row's own series remains the only one it holds,
+which is why the row counts remedies and not dockets.
 
 **DC-4 — Public institutions capable of replacing essential suppliers.**
 Measures whether the bloc holds, or has enacted the means to build, a
@@ -10152,6 +12507,45 @@ la nécessité publique" (*Œuvres* t. III, p. 316) — coercive superiority
 without a substitute for the function — and Glete's, the state left with
 "no realistic alternative but to negotiate new contracts with little
 competition" (Glete 2002, p. 131).
+
+*Design note (29 September 2026), in two parts, and the row's standard
+rises on both.* First, **the inescapability burden**. Chapter 12 §IV now
+concedes, on Roderick's ruling of 29 September (Decision 4; spine §8(i)),
+that the mechanism predicts acquisition only where the capability is
+decisive AND the state's dependence on it inescapable — the concession
+Lepore's three dated failures of state data-processing projects compel:
+the American National Data Center, "abandoned due to privacy concerns"
+and dubbed the "Snooping Machine"; the Soviet OGAS, which failed because
+"the process of developing the network was left to unregulated,
+independent contractors" (both printed p. 59 / PDF p. 70, provisional);
+and Chile's Cybersyn, "abandoned after Pinochet took power in a coup in
+1973" (printed p. 62 / PDF p. 73, provisional) — three cases in which a
+state wanted the stack, had the fiscal capacity and did not get it,
+because nothing decisive turned on it and the state could govern without
+it. The obligation falls here: **this row must show that
+the present dependence is inescapable, not assert it.** The measure that
+would show it is an escapability test per essential supplier — whether the
+bloc's strategic commitments could be carried at all, at any cost and on
+any timetable, without that supplier — and no such test is in the reviewed
+record. It is therefore entered as **NEEDS BASELINE, per bloc, from 2024**,
+alongside the public-substitute inventory this row already owes, and the
+two are scored together: a supplier for whom no public substitute exists
+and whose function could be forgone is not evidence for the mechanism.
+Second, **the optimistic case's zero**. The fourth falsifier is the one
+the optimistic case does not name at all. Lepore proposes no public
+substitute for any supplier anywhere in her book: searches of the whole
+capture return no nationalisation, no state capacity, no procurement, no
+licensing, no national champion, no foundry, and the single occurrence of
+public ownership is of nineteenth-century land in the American West
+(printed p. 164 / PDF p. 176, provisional). Her fourth element is not an
+institution but "a commitment to the self-evident truths" of the
+Declaration (printed p. 226 / PDF p. 242, provisional). That zero is
+recorded as a design note and not as a baseline: it establishes that the
+most widely read contemporary account of the subject proposes no public
+substitute for any supplier, which is the answer this row needed before a
+reviewer could say the falsifier was set where nobody would look. It sits
+beside Ruggie's dated zero above and Wolin's privatisation material in the
+memo's candidate list.
 
 **DC-5 — The present indicator: the fusion.** Spine §8(g) item 3 names
 the present indicator of the ornamental route as the fusion of the barons
@@ -10324,9 +12718,10 @@ CA-1, CA-3 and CA-5 is enacted — and under rule 3 that failure is the
 wager's. Everything between is scored partial, with the lag in mind: in
 1911 wealth and power were decoupled in one act and the public
 off-switch was built over a generation, by regulation (ch12). Under rule
-5(c), a reconstitution outcome — the severance reversed with federal
-approval, as the Bells were reconstituted in 2008 (Wu, ch. 18) — is a
-named failure mode, not a partial.
+5(d), a reconstitution outcome — the severance reversed with federal
+approval and immunity granted, as the Bells were reassembled between 1997
+and 2006 and indemnified in July 2008 (Wu, ch. 18) — is a named failure
+mode, not a partial.
 
 ---
 
@@ -10364,9 +12759,49 @@ scorecard cell (no sourced baseline; rule 1). The Chinese "fused
 ownership" mode label (replaced above). The CC-series candidates of the
 memo's Revisions of 16 September (CC-1..15) remain candidates except where
 a figure from them supplies a per-bloc baseline above (CC-1..6, CC-9,
-CC-10, CC-13, CC-14); CC-7 (the innovation freeze), CC-8 (foundry pricing
-power), CC-11 (identity as a condition of membership) and CC-12 (the
-exit series) are NEEDS BASELINE and are not scored.
+CC-10, CC-13, CC-14); CC-7 (the innovation freeze), CC-11 (identity as a
+condition of membership) and CC-12 (the exit series) are NEEDS BASELINE
+and are not scored. **CC-8 (foundry pricing power) is no longer a
+candidate: it is promoted to C10-4 above on Decision 27, and its terms
+limb carries NEEDS BASELINE inside a scored row rather than outside one —
+which is the whole point of the promotion, since a concession recorded as
+a candidate cannot be lost and an indicator can.**
+
+*Added by this pass (29 September 2026).* One indicator: C10-4 (foundry
+pricing power; the Liège lag), on Decision 27. Two scoring rules: 5(d),
+re-consolidation with the state as client coded as a failure, on Decision
+27's AT&T row; and 8, the window rule, on Decision 10's B73-c and Bean's
+closing question. One naming: condition 1 as the Scott scenario, on
+Decision 18. Four design notes: DC-1, DC-2, DC-3 and DC-4, on Decision 28,
+with DC-4 additionally carrying the inescapability burden from Decision 4.
+One correction against a pin: the Liège lag is three centuries on
+McNeill's own dates (1492 neutrality to the French annexation of 1794),
+not the two centuries stated on 16 September.
+
+*Not scored, and the reasons recorded so that the omissions are not read
+as oversights (Decision 28).* Lepore's 2025 opinion series — 9 per cent of
+Americans and 11 per cent of "AI experts" expecting a positive effect on
+elections, 61 per cent wanting more control over AI (printed p. 227 / PDF
+p. 243, provisional) — measures consent, not control, and this sub-wager
+scores control; public preference for more control is compatible with any
+degree of separation between legitimating authority and effective command
+of strategic commitments, which is the distinction the whole of Part IV
+rests on. Her cross-national 2025 figure (printed p. 8, provisional)
+is the same kind of datum and is marked PENDING VERIFICATION in the memo
+besides. Her 2026 survey of "nearly 6000 companies" finding that "80
+percent of them reported gaining nothing from using AI" (printed p. 223 /
+PDF p. 239, provisional) would matter if it held, because it cuts against
+the indispensability that DC-4's inescapability test now turns on; but no
+survey is named in her text, and the probable note-carrier — Yotzov et
+al., "Firm Data on AI", National Bureau of Economic Research, February
+2026, standing in the run of notes to printed pp. 220–24 at printed p. 286
+/ PDF p. 305 — is an inference from note sequence in a damaged OCR and not
+a citation. It is therefore **NEEDS VERIFICATION with the NBER paper as a
+named retrieval target (ch12 sources.md, RETRIEVAL LIST item 3)**, and it
+carries nothing until the paper is in the repository. Her own trajectory
+— neither consolidation nor durable dispersal but ecological limit — is a
+confessed limit in the manner spine §8(f) grants the nuclear one, and not
+a rival prediction on this sheet; she publishes no falsifier of her own.
 
 *Carried NEEDS VERIFICATION, not scored until pinned.* The DoD IG 155mm
 figure at the report (C10-3); the OECD AEOI figures at oecd.org (C11-2);
@@ -10378,8 +12813,23 @@ at the annual figures (C11-2); the WAICO signing, the Private Economy
 Promotion Law and the e-CNY centre (C2-1); the Chinese discipline of
 2020–23 (C8-2); the laboratories' revenue estimates and the Mistral–ASML
 holding (C2-3); the Qianfan and Guowang counts (C10-2); the NDAA FY2026's
-enactment date. *UNVERIFIED and not carried:* the Starlink shutdown-order
-investigation (CA-2); the ASML servicing denial (CA-8).
+enactment date; Lepore's 2026 firm survey at the NBER paper (§VII above).
+*UNVERIFIED and not carried:* the Starlink shutdown-order investigation
+(CA-2); the ASML servicing denial (CA-8).
+
+*Candidates entered but not scored, awaiting a primary.* The Office of
+Technology Assessment as DC-2's anti-baseline — NEEDS PRIMARY FOR THE
+DATE: the formation year (1972) is at the pin, the abolition year is not,
+and no year is asserted here (Decision 28).
+
+*What this appendix still owes, stated plainly.* Three measures the rows
+above ask for and no source yet supplies: a dated margin, price or
+contract-terms series for leading-node capacity, launch and frontier-model
+provision (C10-4's decisive limb); an escapability test per essential
+supplier, per bloc, from 2024 (DC-4, on Decision 4's concession); and a
+dated expectation of how long the compute-led stack's advantage lasts
+(rule 8(c)). Each is NEEDS BASELINE, none is estimated, and the rows are
+printed unscored at those levels rather than scored on an invented figure.
 
 *Every Indian cell.* NO BASELINE — not scored, pending a sourced Indian
 baseline at any level (rule 1).
