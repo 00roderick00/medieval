@@ -469,22 +469,61 @@ Chapter 10's absorption wearing robes. Spain: the audiencia of
 Valladolid reorganised by the Catholic Monarchs in 1485, its
 southern twin settled at Granada in 1505; the Santa Hermandad —
 a royal constabulary — instituted at the Cortes of Madrigal in
-1476. And the Empire, the control case, asserted everything and
+1476 and its armed forces abolished in 1498, once the Granada war
+had turned the militias it concentrated into a royal army, so that
+the constabulary belongs to the settlement's construction and not
+to its furniture. Glete dates the Castilian subordination of
+private force to that war and by this book's own mechanism:
+private armies "as instruments of aristocratic factionalism ceased
+to be important after this war, and the noblemen's castles had
+become vulnerable to the rulers' new siege artillery" (Glete
+2002: 75) — the one national case in this section where the
+standard authority names the guns. And the Empire, the control case, asserted everything and
 enforced little: the 1495 abolition of the feud, the standing
 court, and a century of Götz von Berlichingen — the monopoly
 proclaimed without the fiscal-military substrate, and therefore
 proclaimed again and again.
 
-Set the dates against Part II's spine and the sequence is
-unmistakable. The monopoly of force is claimed in 1439; the
-companies stand from 1445; the tax hardens into permanence across
-the same seven years — the settlement of 1439–46; the train runs
-from 1449; and the courts, councils,
+Set the dates against Part II's spine and the sequence holds, in
+the terms in which it can hold. The monopoly of force is claimed
+in 1439; the companies stand from 1445; the tax hardens into
+permanence across the same seven years — the settlement of
+1439–46; the train runs from 1449; and the courts, councils,
 constabularies and abolitions arrive in the two generations
 *after* — 1470s to 1540s — precisely where the fiscal-military
-consolidation had laid the substrate, and nowhere else. The
-Empire ran the counterfactual: assertion without substrate,
-supremacy on paper.
+consolidation had laid the substrate. The claim is about
+jurisdiction and about nothing else: courts ranked, rival fora
+subordinated, the appeal drawn upward. It is emphatically not a
+claim about arms, and the distinction has to be kept, because the
+disarming of the nobility ran on a later and quite separate clock
+in every polity that attempted it. Tilly, whose chronology this
+book takes, puts England's demilitarisation of the great lords
+with the Tudors, and dates the French programme to a reign the
+parlements had long preceded: "Richelieu began the great
+disarmament in the 1620s," declaring the royal monopoly of force
+as doctrine by the later 1620s, after which "the doctrine took
+another half-century to become effective" (Tilly 1985: "Violence
+and Government," para. 8) — the *grands* were still assembling
+armies in the Fronde, two centuries after the parlement of
+Toulouse was planted. For the Empire the same passage supplies
+the control case's terminus, and it deserves quoting exactly,
+since it holds Tilly's only sentence on the guns: after the Thirty
+Years' War, on Dietrich Gerhard's account as Tilly carries it,
+"only the territorial princes had the right of levying troops and
+of maintaining fortresses," and "the razing of castles, the high
+cost of artillery, the attraction of court life, and the ensuing
+domestication of the nobility had its share in this development"
+(Tilly 1985, quoting Gerhard 1981: 124–25). Read plainly, that is
+this chapter's mechanism arriving at the level of the princes and
+never at the level of the Emperor: the imperial monopoly had to be
+reasserted in every generation because the substrate was never
+assembled beneath it, and the domestication arrived where the
+substrate arrived. On that reading the Empire is not the
+mechanism's counter-example but the mechanism at a smaller scale
+and two centuries late — a stronger claim than the control case
+was making, and a more demanding one, since it requires the
+princes' own fiscal apparatus to be exhibited, which this chapter
+does not do and Chapter 10 does only for Burgundy.
 
 What the sequence proves needs stating with care, because the
 evidence in this book's hands will not carry the stronger claim,
@@ -508,7 +547,16 @@ police officers at Naples from the 1430s who could try and execute
 as well as arrest; Mantua's unpaid local denouncers replaced in
 1446–47 by hired ducal officers recruited from outside; Bologna's
 Bargello and militarised enforcement from 1450 (Dean 2007: 12,
-40, 49) — salaried men where there had been statute. For England,
+40, 49) — salaried men where there had been statute. One prince
+did the enforcing without any of that, and the exception is worth
+its own clause: Philip the Good's justice over the Lombard banking
+tables of Bruges in 1457 — the seizure, the fines, the composition
+of every bank in his lands, and then the restoration by public
+necessity that Chapter 10's eighth section takes as its anchor —
+was a prince's reach exercised against a fugitive bankrupt rather
+than a system, enforced without a permanent fisc and financed by
+the seizure itself, which is Burgundy's whole position in one
+episode (Chastellain, ed. Kervyn, t. III: 315–16). For England,
 the failure point of the old order was never the sheriff's fear
 that the Paston agent reported; it was, as §I conceded, the king's
 own mercy, and Payling's crown was not weak but unwilling — its
@@ -521,10 +569,22 @@ tolerance of aristocratic crime by the mid-sixteenth century"
 it is offered as one: toleration was the price of a crown that
 could not pay for the alternative, and the crown stopped
 tolerating when it could. That is plausible on the dates and
-unproven on the documents, and the chapter grades it so. The
-plural legal environment was not argued out of existence; nor, on
-this evidence, was it outspent. It was outranked — once the
-exchequer could pay the men who did the ranking.
+unproven on the documents, and the chapter grades it so. One
+qualification travels with the verb, and it is Ertman's. In France
+the men who did the ranking bought their places: the
+fifteenth-century administration, in his summary, "whether central
+or local, judicial or financial, was dotted with clans and
+dynasties of officials who treated their offices as their own
+property," and it was "primarily to these and other officials,
+rather than to bankers or large-scale tax farmers, that the French
+governments of the late middle ages turned for loans and advances"
+(Ertman 1997: 81, 76). The crown that planted the parlements sold
+the offices inside them and then borrowed from the holders; what
+the exchequer paid for plainly and salaried directly were Dean's
+Italians. The plural legal environment was not argued out of
+existence; nor, on this evidence, was it outspent. It was
+outranked — once the exchequer could pay the men who did the
+ranking.
 
 [BRIDGE — the modern translation of the sequence claim, to the
 section's end.] The modern re-assertion is observable, dateable,
@@ -556,6 +616,60 @@ substrate beneath them — which is Chapter 10's question, already
 answered for the reader, operating in the present tense. [END
 BRIDGE]
 
+[BRIDGE — PROPOSED, 2026-09-29: the layered tense per Decision 7,
+offered beneath the bridge above with both left standing; the
+analogy joint remains Roderick's to set.] The modern re-assertion
+is observable and dateable, and it runs on two clocks. The coercion
+of intermediaries is not early in its arc; it is finished, and it
+was finished cheaply. Jack Goldsmith and Tim Wu put the
+reterritorialisation of the network in the years between 2000 and
+2006 and locate its instrument not in a fisc but in local
+chokepoints: "the Internet has made the network itself the
+intermediary," and "local intermediaries are a defining, and
+therefore ineliminable, aspect of the Internet" (Goldsmith and Wu
+2006: 70–71). When Washington decided in 2005 to stop online
+cigarette sales, the Bureau of Alcohol, Tobacco and Firearms
+"simply ordered Visa, MasterCard, and AmEx to stop taking online
+cigarette orders," which is how, in their words, "without ever
+laying a finger on online sellers, the government can impose its
+power, often without even needing to go to court" (pp. 76–77); by
+the time they wrote, "notions of a self-governing cyberspace are
+largely discredited" (p. 14), because "physical coercion by
+government — the hallmark of a traditional legal system — remains
+far more important than anyone expected" (p. 180). No new taxation
+was raised to do any of it, and the concession has to be made
+plainly: on the canon and the register, the state came back by
+post. What is early in its arc is the other thing — the ranking of
+the fora themselves — and its dates are the ones this chapter can
+give. The European bloc has begun dismantling private adjudication
+inside itself: *Achmea* (2018) and *Komstroy* (2021) precluding
+intra-EU investment arbitration; withdrawal from the Energy Charter
+Treaty notified in June 2024 and effective a year later. The same
+bloc licenses and caps the platform courts in one clause: the DSA
+compels internal complaint systems and certifies out-of-court
+settlement bodies which "shall not have the power to impose a
+binding settlement" (DSA, Art. 21) — private adjudication
+permitted, its bindingness reserved to the state. The first DMA
+fines have issued (April 2025); the crypto experiment has been
+brought under a full regulatory code (MiCA, fully applicable
+December 2024), its flagship operators processed through the public
+criminal law — Binance's $4,316,126,163 resolution (November 2023),
+its founder's successor-in-interest at FTX sentenced to twenty-five
+years (March 2024); the American antitrust wave has reached
+remedies (September 2025). The emerging form is not abolition of
+the private fora but their subordination — state courts above
+platform process above private ordering — a *hierarchical
+plurality*, to give the settlement's legal shape the name Part III
+will use. The sixteenth century did the same: it did not close the
+church courts or the manorial courts; it ranked them, under a
+sovereign whose writ was funded. Two clocks, then, and the
+difference between them is this chapter's finding stated for the
+present: ordering an intermediary is cheap and was done twenty
+years ago, ranking the fora is being attempted now, and holding the
+plant beneath them both has not been attempted at all — which is
+Chapter 10's question, operating in the present tense. [END BRIDGE
+— PROPOSED]
+
 One element of the coming assertion, however, the fifteenth
 century would find familiar in a way this chapter has not yet
 touched. The instruments of monopoly — the councils, the
@@ -571,23 +685,38 @@ next chapter's business.
 
 ---
 
-*Draft ends. Word count ~4,300 (memo-limited; Muir, Dean, Jansen,
-Zmora/Algazi/Brunner, Baker 1979, Berman and Pistor-at-page-level
-thicken §§III–VI at the upgrade pass). Voice-discipline ledger
-(counted as produced): coined concept —* hierarchical plurality
-*(§VII; the book's own term for the settlement's legal form,
-carried forward to ch12); vivid image — the Paston repertoire as
+*Draft ends. Word count ~6,400 after the Phase 6 renovation (the
+figure counts both §VII bridges, the standing one and the proposed
+replacement beneath it; on Roderick's choice of one, ~5,870 keeping
+the bridge above or ~6,150 taking the proposal). Muir, Dean,
+Jansen, Zmora/Algazi/Brunner, Baker 1979, Berman and
+Pistor-at-page-level still thicken §§III–VI at the upgrade pass.
+Voice-discipline ledger (counted as produced): coined concept —*
+hierarchical plurality *(§VII; the book's own term for the
+settlement's legal form, carried forward to ch12 — it now stands
+twice, once in each §VII bridge, and one instance goes when
+Roderick chooses between them; the chapter's allowance is not
+spent twice); vivid image — the Paston repertoire as
 "a keyring of jurisdictions, no single key of which could be
 relied on to turn" (§II); aphoristic line — "It was outranked — once the exchequer could
 pay the men who did the ranking" (§VII; recut 2026-09-16 under
-ruling (o) from "…it was outspent"; the memo's rival candidate is
-recast as plain description in §VI). Two [BRIDGE] passages (§VI joint; §VII modern
-translation). [GAP] flags: Brunner/Algazi/Zmora; Muir; Jansen;
+ruling (o) from "…it was outspent"; kept under Decision 15 with
+the venality concession now standing immediately before it; the
+memo's rival candidate is
+recast as plain description in §VI). Nothing new coined, imaged or
+aphorised in this pass; the Tilly, Glete, Ertman, Chastellain and
+Goldsmith & Wu material is carried as plain argument. Three
+[BRIDGE] passages (§VI joint; §VII modern
+translation; §VII [BRIDGE — PROPOSED] of 2026-09-29, the layered
+tense, standing beneath its predecessor for Roderick's choice).
+[GAP] flags: Brunner/Algazi/Zmora; Muir; Jansen;
 Dean. Partisan Paston numbers attributed; Kadens/Sachs adopted
 per the reviewed rule with the traditional side named; the 1487
 Star Chamber correction, the QMUL preference correction, the
 Cameron-not-Epic provenance and the DSA Art. 21 cap all carried.
-No claim beyond the reviewed memo.*
+Schmitt is absent from §III by Roderick's ruling of 29 September,
+not by oversight. No claim beyond the reviewed memo and the
+rulings of 16 and 29 September.*
 
 ## Revisions
 
@@ -617,6 +746,37 @@ No claim beyond the reviewed memo.*
    composition→punishment tense); §V dates the dismantling to
    Baker 1979. Full old/new in memo Revisions 8.
 
+3. **(2026-09-29 — Phase 6 renovation: Decisions 7, 15, 22.
+   PENDING HUMAN REVIEW.)** Four changes in §VII and one proposed
+   bridge; body word count 5,235 → 6,405 (of which 536 are the
+   proposed bridge, which replaces the 259-word bridge above it
+   rather than supplementing it if Roderick takes it). (i) The sequence claim's "and nowhere else" is gone: the
+   claim is confined in terms to jurisdiction — courts ranked, rival
+   fora subordinated, 1470s–1540s — and Tilly's disarmament
+   chronology is now stated separately and later (Tudor England;
+   Richelieu from the 1620s, the doctrine taking "another
+   half-century to become effective"; the Empire after 1648 on
+   Gerhard), with the control case given its territorial-prince
+   terminus and the Empire re-read as the mechanism at princely
+   scale, two centuries late — the re-reading flagged in text as
+   requiring evidence the chapter does not supply (Tilly 1985,
+   "Violence and Government," para. 8; Gerhard 1981: 124–25).
+   (ii) The Spain sentence takes Glete's dating and the hermandad's
+   1498 dissolution, with the Granada war named as the mechanism
+   (Glete 2002: 75). (iii) A cross-referring clause on the Lombards
+   of Bruges, 1457, with the Burgundy caution in the same sentence —
+   enforcement without a permanent fisc, financed by the seizure —
+   the scene itself and the words "nécessité publique" left where
+   Chapter 10 §VIII defines them (Chastellain, ed. Kervyn, t. III:
+   315–16). (iv) The closing line is kept, with venality conceded
+   for France in the sentence before it (Ertman 1997: 81, 76).
+   (v) [BRIDGE — PROPOSED] beneath §VII's modern bridge, both
+   standing: the layered tense — intermediary coercion accomplished
+   by 2006, the ranking of fora 2018–25 as the arc that is early
+   (Goldsmith and Wu 2006: 70–71, 76–77, 14, 180). Schmitt is NOT
+   entered at §III: his omission is Roderick's ruling on Decision
+   22, not an oversight. Full old/new and pins in memo Revisions 15.
+
 ---
 
-STATUS: REVIEWED (Roderick, 2026-08-02) — approved as drafted; Revisions 1 (Phase 4 Run A) and 2 (Phase 5 renovation) PENDING HUMAN REVIEW
+STATUS: PENDING HUMAN REVIEW — draft REVIEWED (Roderick, 2026-08-02) as originally drafted; Revisions 1 (Phase 4 Run A), 2 (Phase 5 renovation) and 3 (Phase 6 renovation) PENDING HUMAN REVIEW, and the §VII [BRIDGE — PROPOSED] awaiting Roderick's choice between it and the bridge above it

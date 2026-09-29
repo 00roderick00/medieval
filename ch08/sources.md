@@ -615,3 +615,87 @@ date; consolidated lettering at STEP 4.*
   military services. Stasavage, Wu, Bagehot, Crouch, Cheung,
   Suleyman, Farrell & Newman (both) and Commynes tome III place
   nothing here and touch nothing here.
+
+## Pins used 2026-09-29 — Phase 6 renovation (Sheet III Decisions 7, 15, 22)
+
+*The 14 September adjacencies recorded in the block above are now
+RULED INTO THE TEXT and promoted from adjacency to used pin. Every
+pin below was re-opened in its sidecar at the page marker this date
+before entry. Master entries remain in the chapters the assessments
+place first (ch10, ch11, ch12); this chapter's block records what it
+uses and where.*
+
+- **T2 — Tilly 1985** (sidecar `text-2026-09-14/Tilly-1985-
+  WarMaking.txt`; NO printed pagination — cite by essay section and
+  paragraph). USED at §VII, the disarmament chronology stated
+  separately from the jurisdiction claim: FRANCE — "Richelieu began
+  the great disarmament in the 1620s … By the later 1620s, Richelieu
+  was declaring the royal monopoly of force as doctrine. The doctrine
+  took another half-century to become effective" ("Violence and
+  Government," para. 8; sidecar l. 47, re-verified 2026-09-29). THE
+  EMPIRE, Gerhard as Tilly quotes him — "in the Empire after the
+  Thirty Years' War only the territorial princes had the right of
+  levying troops and of maintaining fortresses. . . . Everywhere the
+  razing of castles, the high cost of artillery, the attraction of
+  court life, and the ensuing domestication of the nobility had its
+  share in this development" (same para.; sidecar l. 48; Tilly's n. 4
+  = Gerhard, *Old Europe* (New York, 1981), pp. 124–25, l. 150).
+  Gerhard himself stays on the RETRIEVAL LIST — cited here at second
+  hand, as the text says.
+- **T2 — Glete 2002, p. 75** (sidecar `text-2026-09-14/Glete.txt`,
+  ll. 3714–3726; printed page marker at l. 3733, re-verified
+  2026-09-29). USED at §VII, Spain: "Private armies as instruments
+  of aristocratic factionalism ceased to be important after this war,
+  and the noblemen's castles had become vulnerable to the rulers' new
+  siege artillery" (quoted); "The armed forces of the hermandades
+  were abolished in 1498 after having served as an instrument for
+  concentrating local militia forces into a centrally controlled
+  army" (paraphrased, not quoted); the Granada war dated 1482–92
+  (p. 74–75) and "Much of the war effort was paid for by taxes to the
+  state, not by the participants" (p. 75) behind the mechanism
+  clause. Master entry ch11/sources.md.
+- **T2 — Ertman 1997, pp. 81 and 76** (sidecar `text-2026-09-14/
+  Ertman.txt`, ll. 3905–3908 and ll. 3688–3690, re-verified
+  2026-09-29). USED at §VII, the venality concession before the
+  closing line: "the administration of 15th-century France, whether
+  central or local, judicial or financial, was dotted with clans and
+  dynasties of officials who treated their offices as their own
+  property" (p. 81); "It was primarily to these and other officials,
+  rather than to bankers or large-scale tax farmers, that the French
+  governments of the late middle ages turned for loans and advances"
+  (p. 76). Master entries ch11/sources.md, ch12/sources.md.
+- **T2 — Goldsmith & Wu 2006, pp. 14, 70–71, 76–77, 180** (sidecar
+  `text-2026-09-14/Goldsmith-Wu.txt`, ll. 557, 2304 and 2327, 2487
+  and 2517, 5767; page markers at ll. 565, 2293/2341, 2475/2539,
+  5742; re-verified 2026-09-29). USED in the §VII [BRIDGE —
+  PROPOSED] of this date: "the Internet has made the network itself
+  the intermediary" and "Local intermediaries are a defining, and
+  therefore ineliminable, aspect of the Internet" (cited to the pin
+  pp. 70–71, both falling between the p. 70 and p. 71 markers); "The
+  bureau simply ordered Visa, MasterCard, and AmEx to stop taking
+  online cigarette orders" and "that is how, without ever laying a
+  finger on online sellers, the government can impose its power,
+  often without even needing to go to court" (pp. 76–77 — given as
+  TWO attributed quotations, not one elided quotation, since a page
+  of text runs between them; the episode is dated 2005 at l. 2486,
+  "All that changed in 2005"); "notions of a self-governing
+  cyberspace are largely discredited" (p. 14); "physical coercion by
+  government—the hallmark of a traditional legal system—remains far
+  more important than anyone expected" (p. 180). NOT USED here:
+  pp. 81–82 (the scale limit) — ch12's, per memo Revisions 15.
+  Master entries ch11/sources.md, ch12/sources.md, ch02/sources.md.
+- **T1 — Chastellain, ed. Kervyn, t. III: 315–316** (pin of record
+  `corpus/retrieved/Chastellain-Oeuvres-vol15.pdf`, printed = PDF−10;
+  sidecar `text-2026-09-14/Chastellain-vol15-ocr.txt` at ll. 11725–
+  11745, running heads OCR'd "346" for printed 316, re-verified
+  2026-09-29). USED at §VII as a CROSS-REFERENCE ONLY, per Sheet III
+  Decision 22: the seizure, the fines, the composition of every bank
+  in the duke's lands and the restoration by public necessity are
+  named in paraphrase with the Burgundy caution in the same sentence;
+  NO quotation is taken, and "constraint de les y remettre par la
+  nécessité publique" (p. 316) stays at ch10 §VIII where the triad is
+  defined. Master entry ch11/sources.md.
+- **Schmitt, p. 58 — RULED OUT of this chapter** (Sheet III Decision
+  22, Roderick's qualification: "omit Schmitt from chapter 8"). The
+  adjacency entry in the block above stands as an adjacency; nothing
+  from Schmitt enters §III.

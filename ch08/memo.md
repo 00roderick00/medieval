@@ -999,5 +999,250 @@ recommended; lettered for STEP 4's consolidation):
   Brunner with the shared provenance stated, or omitted —
   Roderick's.
 
-STATUS: Revisions 9–14 PENDING HUMAN REVIEW; Revisions 6–8 as
-before.
+
+## Revisions (2026-09-29 — Phase 6 renovation, PENDING HUMAN REVIEW)
+
+15. **(2026-09-29 — Phase 6 renovation: Decisions 7, 15, 22.
+   PENDING HUMAN REVIEW.)** The first pass to enter the 14
+   September adjacencies in the text. Applies Sheet III Decision 15
+   (row (ttt)), Decision 22 (row (uuu)) and Decision 7 (row (vvv)),
+   which between them rule items 8-a, 8-b, 8-c, 8-d, 8-e and 8-f of
+   Revisions 9–12. Body word count 5,235 → 6,405; of the growth,
+   537 words are the proposed §VII bridge, which replaces the
+   259-word bridge above it rather than adding to it if Roderick
+   takes it, so the body settles at ~5,870 or ~6,150 on his choice.
+   Every pin re-opened in the sidecar at the page before entry
+   (Tilly-1985-WarMaking.txt ll. 47–48; Glete.txt at the p. 75
+   marker; Ertman.txt at the p. 76 and p. 81 passages;
+   Goldsmith-Wu.txt at the pp. 14, 70–71, 76–77 and 180 markers;
+   Chastellain-vol15-ocr.txt l. 11744, printed 316, running head
+   OCR'd "346"). Promoted in sources.md from adjacency to used pin
+   (block of this date): Tilly 1985, Glete 2002, Ertman 1997,
+   Goldsmith & Wu 2006, Chastellain t. III.
+
+   - **(ttt), 8-a — "nowhere else" narrowed to jurisdiction, §VII.**
+     OLD: "Set the dates against Part II's spine and the sequence is
+     unmistakable. The monopoly of force is claimed in 1439; … and
+     the courts, councils, constabularies and abolitions arrive in
+     the two generations *after* — 1470s to 1540s — precisely where
+     the fiscal-military consolidation had laid the substrate, **and
+     nowhere else**. The Empire ran the counterfactual: assertion
+     without substrate, supremacy on paper."
+     NEW: "… the sequence holds, in the terms in which it can hold.
+     … precisely where the fiscal-military consolidation had laid
+     the substrate. The claim is about jurisdiction and about
+     nothing else: courts ranked, rival fora subordinated, the
+     appeal drawn upward. It is emphatically not a claim about arms,
+     and the distinction has to be kept, because the disarming of
+     the nobility ran on a later and quite separate clock in every
+     polity that attempted it." Tilly's chronology then stated
+     separately and in his words — Tudor England; "Richelieu began
+     the great disarmament in the 1620s," the doctrine declared by
+     the later 1620s and taking "another half-century to become
+     effective" (Tilly 1985: "Violence and Government," para. 8;
+     sidecar l. 47), with the Fronde noted against the parlement of
+     Toulouse; and the Empire after 1648 on Gerhard as Tilly carries
+     him — "only the territorial princes had the right of levying
+     troops and of maintaining fortresses," and "the razing of
+     castles, the high cost of artillery, the attraction of court
+     life, and the ensuing domestication of the nobility had its
+     share in this development" (Tilly 1985, quoting Gerhard 1981:
+     124–25; sidecar l. 48, Tilly's n. 4). The control case's
+     terminus is then stated: the imperial monopoly had to be
+     reasserted in every generation because the substrate was never
+     assembled beneath it, and the domestication arrived where the
+     substrate arrived — so the Empire is the mechanism at princely
+     scale and two centuries late rather than a counter-example.
+     The re-reading is flagged in the text as more demanding than
+     the chapter can discharge ("requires the princes' own fiscal
+     apparatus to be exhibited, which this chapter does not do and
+     Chapter 10 does only for Burgundy"), per CLAUDE.md §2 on
+     inference. The earlier §VII sentence "the monopoly proclaimed
+     without the fiscal-military substrate, and therefore
+     proclaimed again and again" is left standing; the new passage
+     avoids repeating its wording.
+   - **(ttt), 8-c — Spain dated per Glete, §VII.** OLD: "the Santa
+     Hermandad — a royal constabulary — instituted at the Cortes of
+     Madrigal in 1476." NEW: "… instituted at the Cortes of
+     Madrigal in 1476 and its armed forces abolished in 1498, once
+     the Granada war had turned the militias it concentrated into a
+     royal army, so that the constabulary belongs to the
+     settlement's construction and not to its furniture. Glete dates
+     the Castilian subordination of private force to that war and by
+     this book's own mechanism: private armies 'as instruments of
+     aristocratic factionalism ceased to be important after this
+     war, and the noblemen's castles had become vulnerable to the
+     rulers' new siege artillery' (Glete 2002: 75) — the one
+     national case in this section where the standard authority
+     names the guns." Pin: Glete p. 75 (sidecar ll. 3720–3726, the
+     printed page marker at l. 3733); the 1498 abolition is his
+     sentence "The armed forces of the hermandades were abolished
+     in 1498 after having served as an instrument for concentrating
+     local militia forces into a centrally controlled army," carried
+     in paraphrase, not quoted.
+   - **(ttt), 8-d — venality conceded for France before the closing
+     line, §VII.** The closing line is KEPT verbatim. OLD, the
+     sentence before it: "That is plausible on the dates and
+     unproven on the documents, and the chapter grades it so." NEW:
+     the same sentence, then "One qualification travels with the
+     verb, and it is Ertman's. In France the men who did the ranking
+     bought their places: the fifteenth-century administration, in
+     his summary, 'whether central or local, judicial or financial,
+     was dotted with clans and dynasties of officials who treated
+     their offices as their own property,' and it was 'primarily to
+     these and other officials, rather than to bankers or
+     large-scale tax farmers, that the French governments of the
+     late middle ages turned for loans and advances' (Ertman 1997:
+     81, 76). The crown that planted the parlements sold the offices
+     inside them and then borrowed from the holders; what the
+     exchequer paid for plainly and salaried directly were Dean's
+     Italians." Pins: Ertman p. 81 (sidecar ll. 3905–3908) and p. 76
+     (ll. 3688–3690). This closes critiques Revisions 5's WEAK
+     grading on the line.
+   - **(uuu), 8-b — the Lombards as a cross-referring clause only,
+     §VII.** Per Decision 22 the scene and the words are Chapter
+     10 §VIII's; this chapter takes the cross-reference and the
+     caution. ADDED after "salaried men where there had been
+     statute": "One prince did the enforcing without any of that,
+     and the exception is worth its own clause: Philip the Good's
+     justice over the Lombard banking tables of Bruges in 1457 — the
+     seizure, the fines, the composition of every bank in his lands,
+     and then the restoration by public necessity that Chapter 10's
+     eighth section takes as its anchor — was a prince's reach
+     exercised against a fugitive bankrupt rather than a system,
+     enforced without a permanent fisc and financed by the seizure
+     itself, which is Burgundy's whole position in one episode
+     (Chastellain, ed. Kervyn, t. III: 315–16)." No quotation is
+     taken: "constraint de les y remettre par la nécessité publique"
+     (t. III: 316) stays where it is defined. The caution stands in
+     the same sentence as the instance, as Decision 22 and critiques
+     Revisions 4 require. §V was considered as the alternative seat
+     (the Valenciennes franchise overridden) and NOT used — the
+     ruling gives this chapter a clause, not a scene.
+   - **(vvv), 8-e — the layered tense, §VII's modern bridge:
+     [BRIDGE — PROPOSED], both bridges standing.** The existing
+     bridge is UNTOUCHED, per the instruction's bridge rule; the new
+     version is written beneath it and flagged "[BRIDGE — PROPOSED,
+     2026-09-29 … the analogy joint remains Roderick's to set]". It
+     replaces "The modern re-assertion is observable, dateable, and
+     early in its arc" with two clocks: intermediary coercion
+     accomplished by 2006 — Goldsmith and Wu on the network as
+     "the intermediary" and local intermediaries as "a defining, and
+     therefore ineliminable, aspect of the Internet" (2006: 70–71);
+     the ATF in 2005 which "simply ordered Visa, MasterCard, and
+     AmEx to stop taking online cigarette orders," so that "without
+     ever laying a finger on online sellers, the government can
+     impose its power, often without even needing to go to court"
+     (pp. 76–77); "notions of a self-governing cyberspace are
+     largely discredited" (p. 14); "physical coercion by government
+     — the hallmark of a traditional legal system — remains far more
+     important than anyone expected" (p. 180) — with the concession
+     stated flat ("on the canon and the register, the state came
+     back by post") and no new taxation claimed for it; and the
+     ranking of the fora, 2018–25, as the arc that is early, on the
+     draft's existing *Achmea*/ECT/DSA/MiCA/DMA/Binance/antitrust
+     dates, unchanged. The close is recast to the two clocks:
+     ordering an intermediary is cheap and was done twenty years
+     ago; ranking the fora is being attempted now; holding the plant
+     has not been attempted at all. The two ATF fragments are given
+     as two attributed quotations rather than one elided
+     quotation, since the intervening text runs a page. Pins:
+     Goldsmith-Wu.txt ll. 2304, 2327 (between the p. 70 and p. 71
+     markers, cited to the sources.md pin pp. 70–71), ll. 2487 and
+     2517 (pp. 76–77), l. 557 (p. 14), l. 5767 (p. 180). This
+     closes critiques Revisions 6's (i) at the register; its (iii),
+     the scale limit ("less effective in small nations," pp. 81–82),
+     is NOT entered — the bloc-geometry clause it asks for belongs
+     to ch12's statement of the layered tense, and adding it here
+     would make this chapter carry the book-level qualification
+     twice. Recorded as OPEN in critiques Revisions 7.
+   - **8-f — SCHMITT OMITTED FROM §III, and the omission is
+     Roderick's ruling, not an oversight.** Decision 22's
+     qualification, in his words: "omit Schmitt from chapter 8 …
+     the phrase at page 316 is worth more where the words are
+     defined than where they are merely illustrated." Schmitt p. 58
+     ("They were feuds in the sense of assertions of right …
+     within the framework of one and the same total order") is
+     therefore NOT entered beside Brunner, Algazi and Zmora; §III's
+     provenance caution on Brunner's 1930s reading stands
+     unaccompanied, which is what the ruling intends. The
+     adjacency entry in sources.md is left as an adjacency.
+   - **A5, vocabulary (Decisions 14, 18).** "Administrative
+     capacity" does not occur in this draft at all, so no gloss is
+     owed here and none is entered; ch10 §I now carries it
+     (collecting capacity; the armed intermediaries), and any future
+     use in this chapter cross-refers there rather than repeating
+     it. "Legible" occurs twice, both in §VI's offshore passage
+     ("being made legible in real time"; "its grey zones are being
+     made legible even as they persist"); both are the technical
+     Scott sense — the state's capacity to see taxable wealth in a
+     countable form, here through automatic exchange of bank
+     information — and neither is casual, so neither is reworded.
+     RECORDED FOR RODERICK: this judgement assumes the Introduction
+     names Scott at its first use per Decision 18; the ch00 draft
+     did not yet carry him when this pass ran, and if the
+     Introduction's first use is not attributed, these two
+     instances inherit the unattributed term of art.
+   - **NOT DONE AT THE PIN.** (i) Spine A1's "1439–46" → "1439–51"
+     is not applied here: the instruction names ch10 §III, the
+     Introduction and the Coda, and this chapter's §§I and VII
+     carry "the settlement of 1439 to 1446" / "1439–46" as the
+     dating of the coupling rather than of the settlement's
+     completion. Flagged for the assembly pass so that the
+     manuscript does not run two dates for the same thing.
+     (ii) Tilly 1985 has no printed pagination in the sidecar, so
+     its pins are by essay section and paragraph, per sources.md;
+     the citation form in the draft is "(Tilly 1985: 'Violence and
+     Government,' para. 8)" and will need conversion at assembly.
+   - **P43-h (Decision 31's standing discipline) — quotations still
+     standing in the draft whose source is NOT in the corpus.** None
+     hardened in this pass; none touched. REVIFY-OR-CUT: the Golden
+     Bull of 1356, ch. 17, three days' notice ("the challenge, three
+     natural days before, shall have been intimated personally to the
+     challenged man himself…") — Avalon Project, no repo file; the
+     *Ewiger Landfriede* of 1495, "noteworthy for its definitive
+     abolition of the right of feud" — GHDI, and the phrase reads as
+     editorial apparatus rather than statute, so it needs the
+     translator's text or a cut; Zmora, feuds conducted "not against
+     strangers but with neighbours, relatives and their feudal lords"
+     — gated, quoted from review/publisher wording ([GAP] standing);
+     Muir, "the most extensive popular revolt in Renaissance Italy" —
+     gated, quoted via an H-Net review ([GAP] standing); Kadens 2012,
+     "The law merchant myth is false on many levels… the most
+     widespread aspects of commercial law arose from contract and
+     statute rather than custom" — open PDF, not in repo; Sachs, the
+     St Ives merchants "substantially subject to local control" —
+     open, not in repo; 13 Ric. II c. 5, the admirals not to "meddle
+     from henceforth of anything done within the realm, but only of a
+     thing done upon the sea" — via a Judiciary UK page, no statute
+     text in repo; Tom Johnson, "Late-medieval England was a world of
+     a thousand law-courts… a society of dense legal pluralism" —
+     quoted from a blog post, *Law in Common* gated; Pistor 2019: 132,
+     "two domestic legal systems, the laws of England and those of New
+     York State" — carried at second hand through a journal dialogue,
+     the book on the RETRIEVAL LIST; the ICC's "all-time record" —
+     iccwbo.org statistics page, no repo file; Meta, "one to two out
+     of every 10 of these actions may have been mistakes" — newsroom
+     post, no repo file, AND a date discrepancy to settle (the draft
+     cites "Meta, December 2024"; sources.md dates the post 7 January
+     2025); EU Tax Observatory 2024, "thanks to the automatic exchange
+     of bank information, offshore tax evasion has declined by a
+     factor of about three in less than 10 years" — read directly, no
+     repo file. SECOND-HAND BUT SOURCED: Gerhard 1981: 124–25 is
+     quoted through Tilly 1985, which is in the corpus, and the text
+     says so ("on Dietrich Gerhard's account as Tilly carries it");
+     Gerhard stays on the RETRIEVAL LIST.
+   - **FLAGS.** Closed: 8-a, 8-b, 8-c, 8-d, 8-e, 8-f, all now ruled
+     and applied or ruled and declined. Narrowed: §VII's sequence
+     claim (jurisdiction only) and critiques Revisions 3 (ADEQUATE
+     answer now in the text). Opened: critiques Revisions 7 (the
+     princes' fiscal substrate asserted and not exhibited; the
+     Goldsmith & Wu scale limit not carried here). Unchanged: the
+     four [GAP] flags (Brunner/Algazi/Zmora; Muir; Jansen; Dean's
+     Jansen dataset) and the §VI [BRIDGE], which stays Roderick's.
+     Voice ledger: nothing new coined, imaged or aphorised; the
+     coinage *hierarchical plurality* now appears in both §VII
+     bridges and one instance goes with Roderick's choice.
+
+STATUS: Revisions 15 PENDING HUMAN REVIEW; Revisions 9–14 PENDING
+HUMAN REVIEW; Revisions 6–8 as before.

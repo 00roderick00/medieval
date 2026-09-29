@@ -397,3 +397,98 @@ continues Revisions 1–2 above.*
    modern bridge should make in a clause. The spine §7 amendment
    (a layered tense) is book-level and ch12 §IV's; this chapter
    takes its instance. No spine ruling reached here.
+
+## Revisions (2026-09-29 — Phase 6 renovation, PENDING HUMAN REVIEW)
+
+*Sheet III Decisions 7, 15 and 22 applied to the draft (memo
+Revisions 15). This block records what the narrowed claim now
+answers, what it leaves standing, and the one objection it opens.*
+
+7. **CLOSED by the text — Revisions 3 (Tilly's chronology).** The
+   objection was that §VII's "and nowhere else" claimed for the
+   1470s–1540s what Tilly dates to the 1620s and after 1648. The
+   phrase is gone. §VII now confines the sequence claim in terms to
+   jurisdiction — courts ranked, rival fora subordinated, the appeal
+   drawn upward — states in the same breath that it is "emphatically
+   not a claim about arms," and then gives Tilly's disarmament
+   chronology separately and in his words (Tudor England; "Richelieu
+   began the great disarmament in the 1620s," the doctrine taking
+   "another half-century to become effective"; the Empire after 1648
+   on Gerhard), with the Fronde noted against the parlement of
+   Toulouse. Answer (i) of Revisions 3 is therefore in the text
+   rather than in this file, and answer (ii) with it: the control
+   case is given its terminus, Gerhard's domestication read as the
+   mechanism arriving at the level of the princes and not of the
+   Emperor. Grading unchanged (ADEQUATE), but the adequacy is now
+   the draft's rather than this file's.
+
+8. **CLOSED by the text — Revisions 5 (Ertman: the men who did the
+   ranking bought the right to do it).** The objection was graded
+   GOOD on the mechanism and WEAK on the closing line. The line is
+   kept and the sentence before it now concedes venality for France
+   in Ertman's own words (pp. 81, 76), with the Italian contrast
+   stated: the crown sold the offices in the parlements and borrowed
+   from their holders; what the exchequer plainly paid for and
+   salaried directly were Dean's Italians. The WEAK grading is
+   discharged; the doctrine consequence (administrative capacity as
+   collecting capacity) is Roderick's at ch10 and CLAUDE.md §2, and
+   is now glossed there.
+
+9. **NARROWED by the text — Revisions 4 (Burgundy 1457).** The
+   Lombards enter this chapter as a cross-referring clause only, per
+   Decision 22, with the caution in the same sentence: a prince's
+   reach against a fugitive bankrupt, not a system; enforced without
+   a permanent fisc; financed by the seizure itself. The scene and
+   the phrase "nécessité publique" stay at ch10 §VIII, which is where
+   the objection's answer (ii) — the reach stopping at the function —
+   now lives. Nothing in the objection is conceded further; nothing
+   in it is left unanswered in this chapter.
+
+10. **PARTLY CLOSED, PARTLY OPEN — Revisions 6 (Goldsmith & Wu: the
+    re-assertion was done by 2006).** Answer (i) is now in the text,
+    as a [BRIDGE — PROPOSED] beneath the standing §VII bridge and
+    subject to Roderick's choice between them: two clocks, the
+    coercion of intermediaries accomplished by 2006 and cheaply, the
+    ranking of fora 2018–25 as the arc that is early, with the
+    concession stated flat ("on the canon and the register, the state
+    came back by post"). Answer (ii) stands where it was, in §VI's
+    disanalogies. Answer (iii) is NOT in the text and is recorded
+    here as OPEN: their scale limit — intermediary control "is
+    generally less effective in small nations" (pp. 81–82) — confines
+    hierarchical plurality to polities whose markets hold the
+    intermediaries' assets, and the clause that says so belongs to
+    ch12's statement of the layered tense rather than to this
+    chapter, which would otherwise carry the book-level
+    qualification twice. If Roderick wants it here, it is one clause
+    in the proposed bridge.
+
+11. **OPENED — the Empire re-read as the mechanism at princely
+    scale.** §VII now says that the imperial monopoly had to be
+    reasserted in every generation because the substrate was never
+    assembled beneath it, and that Gerhard's post-1648 domestication
+    is the mechanism arriving at the level of the territorial
+    princes. Steelman: that is a stronger claim than the old
+    "assertion without substrate, supremacy on paper," and it is
+    load-bearing for the control case, since it converts a negative
+    result into a positive instance at a different scale. It
+    requires the princes' own fiscal apparatus to be exhibited —
+    permanent taxation, paid troops, an artillery train — and this
+    chapter exhibits none of it, while Chapter 10 exhibits it only
+    for Burgundy, which is precisely the polity whose fisc it finds
+    reversible. **Answer** (graded PARTIAL, and flagged as such in
+    the text): the draft states the requirement in the sentence
+    that makes the claim, so the reader is told what is owed; the
+    evidence is owed from the Empire's territorial states —
+    Brandenburg-Prussia is the counter-case ch10 §VI now carries
+    (Finer 1975: 138, in Tilly's 1975 volume), and it runs the
+    experiment with no artillery anywhere in it — and until the
+    evidence is in the repo at page level the re-reading
+    is an inference offered as one. What the chapter must NOT do is
+    let the stronger reading quietly replace the control case's
+    negative finding, which is the version of the Empire the
+    sequence argument actually needs. NOT YET ANSWERED; carried to
+    the upgrade pass with Gerhard 1981 and Stone 1965 on the
+    RETRIEVAL LIST.
+
+STATUS: Revisions 7–11 PENDING HUMAN REVIEW; Revisions 3–6 PENDING
+HUMAN REVIEW; Revisions 1–2 as before.
