@@ -476,6 +476,81 @@ the plot/intention distinction stays visible.
 
 [GOVERNS: the renovation, with (g).]
 
+### (i) Rulings of 29 September 2026 — Sheet III (all thirty-two decisions)
+*Roderick's rulings on research/Rulings-Sheet-III-2026-09-29.docx, returned
+the same day (verbatim record: research/rulings-2026-09-29-sheet-III.md).
+Choice A throughout, except Decision 2 (B). The rulings that touch this
+document or the doctrine are recorded here; the chapter-level ones live in
+the record and the sheet.*
+
+**§8(a), the Estates General (Decision 12).** "No Estates General met again
+until 1484" is retired: Major's appendix records a full, unmanaged Estates
+General at Tours in April 1468, and restricted ones in 1506 and 1558. The
+sentence becomes: after 1440 the crown abandoned frequent convocations; 1468
+granted no tax; 1484's grant was breached within eight months; no full,
+working Estates General met again until 1560. The substance — that no
+assembly reversed the taille — stands. **The hinge moves from 1439 to 1451**:
+Major dismantled the 1439 permanent-taille tradition; the taille des gens de
+guerre of 1451 is inside the artillery years and is the revisionist's own
+date. The settlement is stated as a **tax settlement, not a credit one**
+(no funded debt for seventy-six years; the assemblies useless for credit).
+
+**§8(a), the ratchet (Decision 10, with D11).** The ratchet is defined
+narrowly — scale, and the end of the small sovereign — and read as the
+French form of a wider capital-intensity ratchet, the navy another form.
+Finer (1975) and Bean (1973) are named as the thesis's predecessors, and
+Tilly's rejection of Bean on chronology is answered on the explanandum
+(theirs: military format and the size of states; the book's: the
+irreversibility of the fiscal settlement and the closure of the sub-state
+path). Objection 6 is rebuilt as "How is this not Bean?". Ardant's ceiling
+objection is open. Roderick adds, in his words: "this should be considered
+in modern context that only large fiscal bases in USA, China and EU+ can
+make this next consolidation move."
+
+**§7, the tense (Decision 7).** The reassertion is stated in two tenses:
+ACCOMPLISHED for canon and register (2000–06, by cheap legal coercion of
+local intermediaries — Goldsmith & Wu), COMPELLED AND UNACCOMPLISHED for
+the decisive stack, where the fiscal threshold begins. The mechanism's
+claim over the identity-payments-legibility stack is confined to scale and
+fusion with the chokepoint layer. Bull's "new units" test is marked as the
+book's reconstruction, not Bull's (Decision 19).
+
+**§3 and §8(h)(k), England (Decision 8).** "Fisc without permanence": the
+1530s remain the turn, but the dissolution is a stock, not a flow (Youings:
+over three-quarters alienated by 1558; Ertman: the boards reabsorbed by
+1554). Standing taxation is read for England at the 1690s. Ch11 §II states
+the two-stage shape.
+
+**§8(g), the coinage and the form (Decisions 1–6).** "Ornamental democracy"
+is confirmed as ch12's one coined concept, the ledger check complete against
+Bagehot, Crouch, Wolin and Lepore; introduced as a special case of
+post-democracy with three predecessors and three objects (Crouch: policy;
+Wolin: the regime; Lepore: consent; the book: control of strategic
+commitments); Wolin's dating objection conceded (irreversibility, not
+arrival); his "predomination" credited at §8(g)(3); Lepore's title stated
+once as the opposite thing. The constitutional close gets a new section in
+ch12, placed after the asset ledger (D2, choice B). Concession at §8(g)(4):
+the mechanism predicts acquisition only where the capability is decisive AND
+the dependence inescapable. The analogy stops at representation (D5).
+
+**§8(b)/(n), Spain (Decision 15).** Castile subordinated the armed
+intermediaries, not the fiscal ones.
+
+**§5–6, China (Decision 16).** The verdict is layer-specific; "fusion" is
+renamed wherever it names the Chinese mode.
+
+**Vocabulary (Decisions 14, 17).** "Administrative capacity" is collecting
+capacity, and the intermediaries subordinated are the armed ones (CLAUDE.md
+§2 glossed accordingly). "Exclusive" is recast as internal subordination plus
+the fiscal monopoly of decisive force.
+
+**Ch09 (Decision 25).** The ruled subject stands; the outline's Structure
+6–7 is subordinated and the conflict recorded.
+
+[GOVERNS: the Phase 6 renovation.]
+
+
+
 [GOVERNS: the renovation's treatment of ch09, ch11 §VII, ch12 §§IV and
 VII, the Coda, the Introduction's wager and Appendix C. Doctrine: the
 wording of CLAUDE.md §1 claim 3 remains as written until Roderick

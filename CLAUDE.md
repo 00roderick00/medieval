@@ -44,8 +44,15 @@ Three claims in sequence:
 ## 2. Mechanism, not analogy (the book's spine — enforce everywhere)
 - The book NEVER argues "the present resembles the Middle Ages." It argues a
   causal chain: weapon capital-intensity → permanent finance → administrative
-  capacity → suppression of intermediate authorities. Every chapter serves
-  this chain or explicitly prepares it.
+  capacity → subordination of intermediate authorities. Every chapter serves
+  this chain or explicitly prepares it. (Glossed 2026-09-29 on Roderick's
+  rulings (b) of 16 September and Sheet III Decision 14: "administrative
+  capacity" means the capacity to assess, collect and pay at campaign tempo —
+  collecting capacity, not Weberian rationalisation; the intermediaries
+  subordinated are the ARMED ones — orders, castles, private armies — not
+  every fiscal or jurisdictional intermediary. "Subordination", not
+  "suppression": the intermediaries' autonomous fiscal-military capacity is
+  ended; the intermediaries are not.)
 - Any drafted passage that rests on resemblance rather than mechanism is
   defective. Rewrite it or flag it [ANALOGY-ONLY] for Roderick's decision.
 - The wager is falsifiable and must stay falsifiable. Never soften the
