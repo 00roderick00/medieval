@@ -1297,3 +1297,39 @@ All three answer OPEN rows and were assessed and entered the same session (asses
 **PROVISIONAL PINS.** Every pin taken from this file is provisional: it is a phone scan, OCR'd by us, with a drifting offset and no title or copyright page. **All pins must be re-verified against a printed copy before press**, and no verbatim quotation from it should go to press unchecked. Recorded so at each sources.md entry.
 
 **Tier and placement:** see research/assessments-2026-09-29/Lepore.md and the chapter entries of this date.
+
+## 2026-09-28 (later): Wolin re-added — byte-identical duplicate, archived; no re-ingestion
+
+`Wolin - Democracy Incorporated (2008).pdf` was added to
+`corpus/retrieved/` at 22:43 on 28 September. It is a **byte-identical
+duplicate** of the copy in the corpus since 16 September
+(`Wolin-Democracy-Incorporated-2008.pdf`): same 1,055,950 bytes, same MD5
+`46b146659ba488efb85f2f3ace838be9`, same 375 pages, `cmp` silent.
+
+Handled per CLAUDE.md §7 and the STEP 0.2 precedent (the underscore-named
+Farrell & Newman and Ruggie duplicates, 2026-09-14): the new copy is
+**archived, not deleted**, at `archive/Wolin - Democracy Incorporated
+(2008) DUPLICATE.pdf` with `archive/Wolin-Democracy-Incorporated-DUPLICATE-NOTE.md`.
+**The hyphen-named copy stays in the corpus because the provenance chain
+cites it by that filename** (ch12, ch09, appendix-a, appendix-c and coda
+sources/memos, and the 16 September assessment all name it and its
+sidecar).
+
+**No re-ingestion performed and none owed.** Wolin was read in full and
+assessed on 16 September (research/assessments-2026-09-16/Wolin-2008.md;
+offset printed = PDF − 20 main text, − 1 roman front matter), integrated
+the same day into ch12 (sources master entry, memo Revisions 29, critiques
+Revisions 20), ch09, appendix-a's lineage, appendix-c's DC-1..6 and the
+coda; **ch12 §VII's `[GAP: Wolin]` was closed then and the §8(g)(6) ledger
+check against him discharged** — a result the Lepore intake of 28 September
+re-confirmed from a third direction ("ornamental democracy" survives:
+Crouch on egalitarian policy, Wolin on the regime, Lepore on consent, the
+book on control of strategic commitments).
+
+**Still open on Wolin, unchanged by this duplicate:** his four-to-one
+defence-to-social-spending ratio (p. 157) is unsourced in his own text —
+**NEEDS VERIFICATION, unscored**; his 2008 counter-prediction stands as
+DC-1's null (the system "would survive even if the Democrats were to become
+the majority party in control of both the presidency and Congress",
+pp. 286–87); and whether the Coda §V names him is Roderick's call, the
+Coda's text not naming him at present.
