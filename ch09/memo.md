@@ -1176,6 +1176,150 @@ below.
       settled against the page image first; the line is not printed on
       the OCR alone.
 
+13. **(2026-09-28 — Lepore, *The Rise and Fall of the Artificial State*,
+    read; intake. PENDING HUMAN REVIEW.)** Source-intake unit; **nothing
+    below applied to draft.md**, which is frozen. The **master sources
+    entry is ch12/sources.md** of this date and it governs — T3 with two
+    carve-outs, the standing use-note (take the sentence from her, the
+    citation from her note, cite the primary), **no imprint, place or year**
+    (none is established; a retrieval row stands open), the **non-constant
+    offset** and the rule that every pin is read off the running head and
+    carries both printed and PDF page, and the **provisional-pin warning**
+    (phone scan, our OCR; re-verify against a printed copy before press).
+    ch09's own entry is the pointer filed at sources.md this date.
+    Assessment: `research/assessments-2026-09-29/Lepore.md`.
+
+    **The governing discipline, carried here too:** her "Artificial State"
+    is an anti-state dream — "less a state than a dream of being without
+    one" (printed p. xv / PDF p. 7) — so the shared phrase names a
+    different object and **she is never support for the consolidated
+    state**. This chapter is where the overlap is real, and it is narrow:
+    both hold that the constitutional appearance of consent can outlast
+    its substance.
+
+    **CONFIRMS.** §VIII's personal summit, with a better sentence than the
+    draft carries, quoted by her from Facebook's co-founder: "The most
+    problematic aspect of Facebook's power is Mark's unilateral control
+    over speech. There is no precedent for his ability to monitor,
+    organize and even censor the conversations of two billion people"
+    (printed p. 86 / PDF p. 97). And the draft's dating of DOGE, which she
+    dates as the draft dates it.
+
+    **CORRECTS (the CURRENT wording quoted; NOT applied).** (i) §IX reads:
+    "the frontier labs have begun writing their own regency instruments:
+    Anthropic's Long-Term Benefit Trust, a class of stock held by trustees
+    who will elect a board majority — a constitutional device for placing
+    the institution's long-run interest beyond any single natural body
+    (primary announcement)." The trust is not corrected. What she corrects
+    is the **constitutional** limb of the same paragraph's reading: the
+    promise that "Drafting a constitution for powerful AI systems could be
+    a democratic process wherein diverse stakeholders provide input to
+    tailor the behavior of a system to organizational, community, or
+    cultural preferences" was not kept — "No promised world governance
+    board was ever assembled … no constitutional convention was ever
+    held", and "When Anthropic published 'Claude's Constitution,' it was
+    written chiefly by a philosopher working for Anthropic" (printed
+    p. 106 / PDF p. 120; the chapter opens at printed p. 105 / PDF p. 119,
+    head "AI.GOV 105"). The correction to state, if Roderick rules it in:
+    §IX's "the substitutes are institutionalising" should not rest on any
+    instrument whose constitutional character was announced and not built.
+    **She is T3 and this is a factual negative about announcements: it
+    must be carried at the labs' own documents, with her as the pointer.**
+    (ii) §VIII's DOGE sentence gains two facts, not a correction: it "drew
+    its inspiration from RAGE—Retire All Government Employees—by the
+    neo-monarchist Curtis Yarvin", and "His aim was to replace humans with
+    bots" (printed p. 112 / PDF p. 126, head OCR'd "12"). Recommended as a
+    clause, because it gives the episode a programme rather than a whim.
+
+    **ADDS — 1. The chapter's subject in a rival's picture: the figurehead
+    chosen by the government.** Her Zaphod Beeblebrox is "part-time
+    President of the Imperial Galactic Government, a mere figurehead,
+    chosen not by voters but by the government to serve as a diversion
+    from its criminality, and therefore 'the qualities he is required to
+    display are not those of leadership but those of finely judged
+    outrage'" (**printed p. 210 / PDF p. 224**). It is a literal picture of
+    the condition Part III scores, and it is the book's **only** occurrence
+    of *figurehead* (whole-text grep). Two disciplines. *First,
+    attribution:* the "figurehead" wording is **hers**, summarising Adams's
+    character; only the inner phrase is Adams's — so any use credits her
+    reading of Adams and does not quote Adams. *Second, placement:* a
+    footnote at §V or §VI, as an illustration of the question the chapter
+    plants; **never** as evidence about a real constitution, and never in
+    a sentence that lets a novelist's joke stand where a document should.
+    On the ledger this is a fourth check and it comes out where the third
+    did: she neither supplies nor duplicates the term Part III uses, and
+    her nearest concept, *government without consent* (printed p. 5), is an
+    **input** test (did the governed choose?) where the book's is an
+    **output** test (do the legitimating institutions control the strategic
+    commitments?).
+
+    **ADDS — 2. Assist against replace, and the efficient part migrating.**
+    She draws the line three times, and the load-bearing statement is:
+    Cold War computing used "not only in classified military and
+    intelligence work but also in social science research and government
+    administration of everything from welfare provision to national
+    security. **Only later would these tools be applied, by private
+    companies, as substitutes for the democratic functions of
+    representation, deliberation, and participation**" (printed p. 38 /
+    PDF p. 49), with the softer forms at printed p. 6 / PDF p. 16 and the
+    conceded administrative gain at printed p. 73 / PDF p. 84. The line is
+    **administration against representation**. What it does for §IX's
+    close, which now asks "what happens to a constitution when its
+    efficient part migrates — out of the office, out of the assembly, into
+    the stack and the persons who hold it — and its dignified part stays":
+    it supplies a **predecessor's criterion for what has migrated**. On her
+    distinction the migration of *administration* is old, uncontroversial
+    and in part beneficial; what would constitute the chapter's question
+    coming true is the migration of *representation* — deliberation and
+    participation performed by private systems. The recommendation is one
+    clause, credited to her, distinguishing the two migrations, so that
+    §IX's question is asked about the second and not the first. It also
+    sharpens what §IX's substitutes are being tested for: an independent
+    compliance function is an administrative part, and a part that
+    administers is not thereby a part that rules. Rulings-sheet row
+    (mmmm) carries the same pins for ch12 §III/§IV; this is the ch09
+    instance of that decision and should be ruled with it.
+
+    **ADDS — 3. Blackstone, as a signpost only (§II).** She quotes
+    Blackstone: "Persons also are divided by the law into either natural
+    persons or artificial … artificial are such as are created and devised
+    by human laws for the purposes of society and government, which are
+    called corporations or bodies politic" (printed p. 201 / PDF p. 215).
+    This narrows §II's Kantorowicz [GAP] **at one remove and no further**:
+    it is a T1 text reached through a T3 quotation. **NOT CLOSABLE on her.
+    RE-PIN OR OMIT:** cite Blackstone direct from a scholarly edition —
+    entered on the RETRIEVAL LIST at sources.md — or leave the gap. The
+    [GAP] flag stands.
+
+    **CONTRADICTS.** Nothing in this chapter's argument. Her contradictions
+    reach ch12 and are entered there (ch12/critiques.md Revisions 21). One
+    negative finding belongs here, because it closes a line of inquiry:
+    **she supplies no fifteenth century, no two-bodies material, no
+    regency, minority or incapacity, and no account of a public institution
+    acquiring a private capability.** Greps over all 306 pages: *ornament /
+    ornamental*, *façade*, *hollow*, *husk*, *decorative*, *charade* —
+    zero; *licens-* in any form, *procurement*, *nationaliz-* — zero. She
+    is not a carrier for the Bagehot bridge and not a carrier for the
+    coinage.
+
+    **Consensus / contested / book.** Her historical chapters are her own
+    archival work (T2-strength narrative fact); the AI.GOV material is
+    contested interpretation and contested by this book at ch12; the
+    administration/representation distinction is **hers**, and its use as
+    the criterion for what the migration of the efficient part would
+    consist in is the **book's (c)**.
+
+    **FLAGS.** Closed: none. **Narrowed, and marked so:** §II's
+    Kantorowicz [GAP] — narrowed at one remove by the Blackstone signpost,
+    not closed; §IX's institutionalising reading — narrowed by the AI.GOV
+    correction, which is a correction and not a closure. **Explicitly NOT
+    closed by her:** §II's Kantorowicz and Famiglietti/Autrand [GAP]s; the
+    Elton-debate [GAP]s; the SpaceX reported-only flag at §VIII; the
+    [OUTLINE CONFLICT] at Revisions 10 and rulings-sheet row (kkkk).
+    **RE-SOURCE OR CUT: none arising.**
+
+STATUS (Revisions 13): PENDING HUMAN REVIEW.
+
 STATUS: Revisions 12 PENDING HUMAN REVIEW (intake, 2026-09-16); Revisions
 11 PENDING HUMAN REVIEW (Phase 5 renovation, Part B1,
 2026-09-16). Draft changed at Revisions 11 — see ch09/draft.md Revisions

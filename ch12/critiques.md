@@ -1237,3 +1237,169 @@ precisely so that patience cannot be pleaded later.
       already on the file.
 
 STATUS (Revisions 9–20): PENDING HUMAN REVIEW.
+
+21. **(2026-09-28 — source intake: Lepore, *The Rise and Fall of the
+    Artificial State*. TWO objections. PENDING HUMAN REVIEW.)** *Numbering
+    note: the instruction for this unit named this entry "Revisions 22";
+    the file's last numbered entry is 20, so it is entered as 21 and the
+    discrepancy is recorded rather than a gap left.* **T3** (serious trade
+    synthesis by a professional historian; no imprint or year established —
+    cite as Lepore, *The Rise and Fall of the Artificial State*, pins
+    only), with her historical chapters at T2-strength narrative fact and
+    her endnotes permitting a one-step re-pin to the primary. **The offset
+    drifts and the scan is not sequential: every pin carries printed and
+    PDF page, read off the running head; all pins are provisional (phone
+    scan, our OCR) and must be re-verified against a printed copy before
+    press.** She is a **rival, not an ally**, and — the governing
+    discipline — her "Artificial State" is an anti-state dream, "less a
+    state than a dream of being without one" (printed p. xv / PDF p. 7),
+    so **the two titles collide and the objects do not; she is never
+    enlisted as support for the consolidated state.** Master sources entry
+    and chapter entry filed this date (ch12/sources.md; memo.md Revisions
+    31).
+
+    - **OBJECTION (A): it is not a state, and the direction is not
+      consolidation.** *At full strength.* On Lepore's account the thing
+      being built is not a state and the arrow points the other way. "The
+      corporations that owned those machines began to subsume the state"
+      (printed p. 4, head illegible / PDF p. 14); by the 2020s "vastly
+      consequential decisions about the future of Earth and everyone and
+      everything on it were being made by a handful of men" (printed
+      p. 205 / PDF p. 219); "Democracy and the liberal nation-state had to
+      be abolished to free corporations from the restraining force of any
+      government" (printed p. 205); and the verdict she endorses, a
+      reporter's, is "The nation is in Silicon Valley's hands" (printed
+      p. 222 / PDF p. 238). The instruments she records are all
+      withdrawals — the Office of Technology Assessment, "formed in 1972",
+      closed as one of Gingrich's "first moves" (printed p. 70, head
+      illegible / PDF p. 81); the 1996 Telecommunications Act delivering
+      "an almost entirely unregulated internet" (printed p. 71 / PDF
+      p. 82); the AI Action Plan "relieving all AI infrastructure projects
+      of the burdens of environmental review" (printed p. 222). The force
+      of the objection is not in any one sentence but in what a working
+      historian, reading the same 2025–26 documents this chapter reads,
+      did **not** find worth a paragraph: greps over all 306 pages return
+      zero occurrences of *foundry*, *TSMC*, *Anduril*, *Starlink*,
+      *Starshield*, *Pentagon*, *procurement*, *licens-* in any form,
+      *nationaliz-*, *subsidy* and *national champion*; *antitrust* once,
+      and as something the industry defeated (printed p. 107 / PDF p. 121
+      — sheared, PENDING VERIFICATION); the military limb is a single
+      sentence, "OpenAI, Google, and Meta made their technologies
+      available to the military. Nvidia began using the language of
+      national sovereignty, invoking 'sovereign AI'" (printed p. 112 / PDF
+      p. 126). No licence, no procurement lever, no export-control regime
+      as an instrument of state power, no foundry, no constellation, no
+      munitions base. Put as an objection: a historian of the same
+      documents finds the barons ascendant and the state hollowed, and the
+      chapter's whole apparatus of licence, clearance, revocation and fee
+      is invisible to her — which suggests it is either marginal or the
+      book's own construction. **This reaches the DEFEND-tier claim at
+      spine §6 (the mechanism operating now through the AI-military stack)
+      and the ruling at §8(b)/(c) that for the United States "the state
+      will absorb the stack."**
+      *The book's answer (grade preserved and attributed as a grade).* The
+      two books name different objects — hers is a dream of dispensing
+      with the state, the book's is a state re-acquiring a decisive
+      capability — so her direction is not a finding about the book's
+      object; and her own text supplies the hinge she does not turn:
+      technologies made "available to the military", a firm "dedicating
+      our company to the service of the West and the United States of
+      America", businesses "sizably underwritten by the U.S. federal
+      government" (printed p. 98 / PDF p. 112), Nvidia's "sovereign AI". A
+      supplier who dedicates himself to a sovereign, on the sovereign's
+      money, is being absorbed. And spine §7's tense already holds the
+      consolidation to be **compelled, not accomplished**, so a record in
+      which the absorption is incomplete is the record the book predicts.
+      **GRADE (the assessment's, preserved as a grade): ADEQUATE, NO
+      MORE.** And the reason must be stated in the file rather than
+      softened: **the answer argues from her silences.** She has not tested
+      the absorption claim — she does not consider licensing, procurement
+      or export control and then reject them; she does not discuss them.
+      An author who has not asked the question is neither evidence against
+      the answer nor for it. **Two disciplines follow, and they are the
+      honest residue of this objection: (i) the manuscript must not enlist
+      her for the absorption verdict anywhere, in text or note; (ii) the
+      evidentiary burden on §IV rises, because the most widely read
+      contemporary historian of the subject read the record and did not
+      see the instruments — so §IV's instruments must be carried at their
+      own primaries (statutes, decrees, filings), not by weight of
+      commentary.** Recorded as a standing limit on the chapter's rhetoric,
+      not as a refutation of its claim.
+
+    - **OBJECTION (B): the three failures — a state that wanted the
+      legibility stack, had the fiscal capacity, and did not get it.** *At
+      full strength.* Her record holds three dated cases in which the
+      fiscal-administrative limb ran and produced nothing, while private
+      firms built the capability instead. The American **National Data
+      Center** was "abandoned due to privacy concerns" and dubbed "the
+      Snooping Machine". The Soviet **OGAS** failed, on her account,
+      because "the process of developing the network was left to
+      unregulated, independent contractors" (both printed p. 59 / PDF
+      p. 70, head "COMPUTOPIA 59"). Chile's **Cybersyn** was "abandoned
+      after Pinochet took power in a coup in 1973" (printed p. 62 / PDF
+      p. 73, head OCR'd "42"; printed page read against its neighbours).
+      Three polities, three constitutional forms, one result: the state
+      that wanted the planning-and-legibility stack did not acquire it,
+      and the firms that did acquire it were private. If capital-intensity
+      plus fiscal capacity were sufficient for absorption, the 1960s were
+      the decade for it, and the decade produced three abandonments.
+      **This reaches spine §8(g) item 4 — the fiscal mechanism moved into
+      the main argument — and ch12 §IV.**
+      *The book's answer (grade preserved and attributed as a grade).*
+      Abdication and absorption are **consecutive, not alternative** — the
+      point spine §8(c)(i) already rules about the lag, where the private
+      command was broken in one act in 1911 and the public off-switch was
+      built across a generation by regulation rather than antitrust. Her
+      three cases sit in the abdication phase, and the mechanism does not
+      predict absorption in that phase; what it predicts is the point at
+      which the dependence stops being escapable. **GRADE (the
+      assessment's, preserved): GOOD ON THE SEQUENCE, WEAK ON THE THREE
+      FAILURES.** Weak because the sequence answer does not by itself
+      explain why these three states failed, and a mechanism that
+      explains failures only after the fact explains less than it claims;
+      the OGAS case is worse than neutral for the book, since on her own
+      wording the Soviet failure was caused by leaving the work to
+      "unregulated, independent contractors" — a state that had the fisc,
+      wanted the stack, and lost it to its own suppliers.
+      **THE CONCESSION THE RENOVATION SHOULD MAKE, stated in one clause
+      and recommended, not assumed:** *the mechanism predicts acquisition
+      only where the capability is **decisive** and the state's dependence
+      on it **inescapable**; in 1960s data-processing neither condition
+      held — the National Data Center was a convenience, OGAS a planning
+      aspiration, Cybersyn a telex network, and each could be abandoned
+      without any loss of decisive force.* That is a narrowing and it
+      makes the claim more defensible, since it converts the three
+      failures from counter-examples into the negative half of the
+      mechanism's own condition — and it commits the book to showing, at
+      §IV and at Appendix C's DC-4, that the present dependence *is*
+      inescapable, which is a burden the chapter should carry openly.
+      Filed as rulings-sheet row (pppp) against spine §8(g)(4).
+
+    - **Two cuts recorded and NOT carried as objections.** (i) Her
+      **ecological** trajectory — "the fall of the Artificial State is
+      foreordained. The Artificial State can neither defy the laws of
+      nature nor escape natural limits" (printed p. 130 / PDF p. 142) — is
+      a third trajectory Appendix C does not score, neither consolidation
+      nor durable dispersal but collapse. It enters as a **confessed
+      limit**, in the manner spine §8(f) grants the nuclear one, and not
+      as a rival on the indicator sheet; the weakness here is hers, since
+      her own prediction is undated and carries no falsifier ("little
+      seems to me more inevitable than its eventual fall", printed
+      p. xiii, head illegible / PDF p. 4). Grade, on the assessment's
+      register: **good, and the weakness is hers.** (ii) One datum against
+      the stack's indispensability, which would bear on DC-4 and on the
+      concession above if it survives verification: "A 2026 survey of
+      nearly 6000 companies in the U.S., the UK, Germany, and Australia
+      found that 80 percent of them reported gaining nothing from using
+      AI" (printed p. 223, head illegible / PDF p. 239). **NEEDS
+      VERIFICATION and not entered:** no survey is named in her text. Her
+      note apparatus probably supplies it — "Ivan Yotzov et al., 'Firm
+      Data on AI,' National Bureau of Economic Research, February 2026"
+      stands in the run of notes to printed pp. 220–24 (printed p. 286 /
+      PDF p. 305) — but the association is an inference from note sequence
+      in a damaged OCR, so the primary is entered as a retrieval target,
+      not as a citation. Under the standing use-note (take the sentence
+      from her, the citation from her note, cite the primary) the datum
+      may be used only once the NBER paper is in the repo.
+
+STATUS (Revisions 21): PENDING HUMAN REVIEW.

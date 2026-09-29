@@ -2165,3 +2165,202 @@ scan (pp. 1–31, 52–53, 56–77 only), and any future DC use of his chs. 2,
 STATUS (2026-09-16 intake Revisions): PENDING HUMAN REVIEW.
 
 STATUS: PENDING HUMAN REVIEW (running file)
+
+## Revisions (2026-09-28 — source intake: Lepore, *The Rise and Fall of the Artificial State*, against DC-1..6. PENDING HUMAN REVIEW.)
+
+*Filed by the source-intake unit of this date. The master sources entry is
+ch12/sources.md, "Added 2026-09-28 — intake (Lepore …)", and it governs:
+**T3** with two carve-outs (her historical chapters at T2-strength
+narrative fact; her endnotes permitting a one-step re-pin to the primary);
+the standing use-note — **take the sentence from her, the citation from her
+note, cite the primary**, and she is never sole support for a structural
+claim; **no imprint, place or year** (none is established from the capture,
+and a retrieval row stands open); the **non-constant offset** (printed ≈ PDF
+− 10 to − 12 in the text, − 18/− 19 in the notes) and the rule that every
+pin is read off that page's running head and carries **both** printed and
+PDF page; and the **provisional-pin warning** — a phone capture, our own
+re-OCR, all pins to be re-verified against a printed copy before press. The
+governing discipline for this appendix: her "Artificial State" is an
+anti-state dream, "less a state than a dream of being without one" (printed
+p. xv / PDF p. 7), so **no indicator, baseline or counter-prediction may
+treat her object as this book's**. Nothing is scored here; baselines are
+entered only where the source is dated and measurable. Assessment:
+`research/assessments-2026-09-29/Lepore.md` — the map, never the authority.
+Nothing applied to appendix.md.*
+
+**(a) DC-1..4, the four falsifiers: she names three of them as RIGHTS and
+none of the fourth, and supplies no instance of any of them operating on a
+stack commitment.** The whole of her answer to the question Appendix C's
+sub-wager asks is the Epilogue, and it is four pages (printed 225–228 / PDF
+241–246; the Epilogue opener at PDF 241 carries no page number, so printed
+225 is **inferred from its neighbours** and marked). Its premise: "because
+it is a construct, at once an idea and a thing, something built, if half
+built, it can be dismantled. Other very stubborn systems for organizing
+human societies without consent have been dismantled before: the divine
+right of kings, feudalism, human bondage, imperialism, fascism" (printed
+p. 225, head absent / PDF p. 241). Its mechanisms, in one sentence:
+"everything destructive that they have done can be undone by **voters,
+elections, legislation, and judicial enforcement**, and by a commitment to
+the self-evident truths proclaimed two hundred and fifty years ago"
+(printed p. 226 / PDF p. 242, head confirmed; the page is captured twice,
+PDF 242 and 244). Then: "That rock is the right of the people to elect a
+government by consent and not by automation"; "Technologies can be held to
+publicly defined standards, answerable to voters and not to corporations,
+subject to the ordinary assessment undertaken of any emerging technology";
+and "The democratic governance of technology, instead of technological
+governance of humanity: that can still happen" (all printed p. 227 / PDF
+p. 243, head "THE LAST DAYS OF THE ARTIFICIAL STATE 227"; captured again at
+PDF 245).
+
+Three findings, for the record and not for the sheet.
+
+**First — the mapping.** Her mechanisms map onto **DC-1 (elections), DC-2
+(legislation) and DC-3 (judicial enforcement)**, and onto **none of DC-4**.
+A public institution capable of replacing an essential supplier is absent
+from her book. Greps over all 306 pages of the sidecar return **zero**
+occurrences of *nationaliz-*, *state capacity*, *procurement*, *licens-* in
+any form, *national champion*, *subsidy / subsidies* and *foundry*; *public
+ownership* occurs once, and of nineteenth-century land in the American West
+(printed p. 164 / PDF p. 176). Her fourth element is not an institution at
+all but "a commitment to the self-evident truths" of the Declaration, which
+she then quotes at length (printed p. 226). **DC-4 therefore gets a zero
+from her, and the zero is recorded here as the design note it is: the most
+widely read contemporary account of the subject proposes no public
+substitute for any supplier anywhere.** That is not a baseline and is not
+scored; it is the null against which DC-4's public-capacity inventory is
+being built, and it belongs beside Wolin's privatisation material at entry
+(d) of the 2026-09-16 Revisions.
+
+**Second — and this is the answer the sub-wager needed.** She supplies **no
+instance of any of the three working on a stack commitment.** The only live
+resistance she documents is local and environmental — "'Grow tomatoes, not
+data centers' became a slogan as a backlash against data centers gained
+momentum in cities and towns and states all over the world, spurring a new
+environmental movement" (printed p. 227 / PDF p. 243; the slogan appears a
+second time in the Preface, printed p. xvi / PDF p. 9) — beside individual
+withdrawal: "Don't tether yourself to a computer. Unplug" (printed p. 228 /
+PDF p. 246, head mis-OCR'd "326"; **printed page inferred and to be
+checked**). **Her resistance is cultural, rhetorical, local and individual
+rather than institutional: the falsifiers appear as RIGHTS, not as
+demonstrated OPERATIONS.** For this appendix that is the finding, not the
+absence of one: DC-1..3 were designed to count *demonstrated redirections*
+rather than *available remedies* precisely because the available-remedies
+reading is what a serious opponent offers, and here is the serious opponent
+offering it. The coding rule already stated at DC-1 (an election that
+legitimates a commitment it did not choose is the ornamental reading) and at
+DC-3 (a remedy that changes an operation, not a fine) needs no change; it
+gains a second predecessor's confirmation that nothing more than rights is
+on offer. **Design-note addition proposed:** DC-1..3 each carry one line
+recording that the strongest recent statement of the optimistic case names
+the remedies and produces no worked instance of one operating on a stack
+commitment, pinned to printed pp. 226–227.
+
+**Third — her one institutional proposal is restorative, and dated by its
+own loss.** The seven assessment questions are a technology-assessment
+rubric, and the body that did that work in the United States was abolished
+(printed p. 70; see (b)). An opponent whose institutional remedy is the
+revival of an abolished office is conceding the DC-2 baseline's direction.
+
+**(b) DC-2 — the one usable ANTI-BASELINE she supplies: the Office of
+Technology Assessment.** "When Newt Gingrich came to power in Congress as
+Speaker of the House, under the banner of a Contract with America, one of
+his first moves was to close the federal government's Office of Technology
+Assessment, which had been formed in 1972. The office hadn't been
+especially powerful, but its mandate included assessing the implications of
+any new technology supported by the federal government" (**printed p. 70,
+head illegible / PDF p. 81**). This is the legislature's own
+technology-assessment capacity, created and then abolished, and it is the
+right kind of datum for DC-2: an enacted institutional capability whose
+removal is dated. **Two disciplines, both mandatory.** (i) **The abolition
+year is NOT in her text.** She gives 1972 for the formation and dates the
+closure only by Gingrich's arrival as Speaker; the year 1995, which the
+assessment states, **is not at the pin** and is not entered. Before DC-2
+carries an anti-baseline the date must come from a primary — the
+appropriations act that ended the office's funding, or the OTA's own final
+report — and the row is marked **NEEDS PRIMARY FOR THE DATE**, with Lepore
+as the pointer only. (ii) Under the standing use-note, the entry cites the
+primary; she supplies the sentence, not the authority. **Entered as a
+candidate anti-baseline, NOT scored.** Its value is specific: DC-2 measures
+whether a legislature enforces conditions on the stack, and an assessment
+office is the instrument by which a legislature would know what to
+condition — so its abolition is a measurable reduction in the capacity the
+row scores, and the same body's revival would be a measurable increase.
+**Related, and carried with it:** her assessment questions at printed
+p. 227 — "Is it good? Might it be bad? Is it for everyone? What rules
+should guide its adoption? How much will it cost, and what is it worth? Who
+benefits, and who is harmed?" — are a **coding rubric**, not an indicator,
+and the count is honestly six question-sentences (the assessment says seven;
+seven only if the cost/worth clause is split). Usable in DC-2's design notes
+as the public-standards template a condition would have to meet; she is
+credited, and the rubric scores nothing by itself.
+
+**(c) Her dated measurable claims are OPINION series, not CONTROL series,
+and are NOT to be scored as indicators.** Three, all dated, all pinned:
+"A 2025 survey found that a mere 9 percent of Americans and only 11 percent
+of 'AI experts' expected the technology to have a 'positive' effect on
+elections over the next twenty years. Another survey that year found that 61
+percent of Americans wanted more control over AI" (printed p. 227 / PDF
+p. 243); and, across seventy countries by 2025, "nearly two in five of
+people surveyed … agreed with the statement, 'AI could make better
+decisions on my behalf that my government representatives'" (printed p. 8,
+head illegible / PDF p. 18 — the OCR reads "that" for "than" and the
+sentence is marked PENDING VERIFICATION). **These are baselines for a
+CONSENT series and the democratic-control sub-wager does not score consent;
+it scores control.** Public preference for more control over AI is
+compatible with any degree of separation between legitimating authority and
+effective control of strategic commitments — which is the whole point of the
+distinction at spine §8(g)(2). **Recorded decision: none of the three enters
+appendix.md as an indicator, a baseline or a counter-prediction.** They may
+be cited once, in Part IV's prose, as evidence that the *demand* exists
+while the *instruments* do not — which is itself the shape of the ornamental
+reading. Under the standing use-note, any such use cites the named
+institutes from her notes, not her.
+
+**(d) The 2026 "80 per cent" survey — NEEDS VERIFICATION, and NOT entered
+as a baseline.** "A 2026 survey of nearly 6000 companies in the U.S., the
+UK, Germany, and Australia found that 80 percent of them reported gaining
+nothing from using AI" (printed p. 223, **head illegible — the printed page
+is inferred** / PDF p. 239). It would matter if it held: it cuts against the
+stack's indispensability, which is the condition DC-4 and the concession at
+ch12/critiques.md Revisions 21 (B) both turn on. **No survey is named in her
+text.** Her note apparatus probably supplies it — "Ivan Yotzov et al., 'Firm
+Data on AI,' National Bureau of Economic Research, February 2026" stands in
+the run of notes to printed pp. 220–24, at printed p. 286 / PDF p. 305 —
+but the association is an **inference from note sequence in a damaged OCR**
+and is not a citation. **Entered as NEEDS VERIFICATION with a named
+retrieval target (ch12/sources.md, RETRIEVAL LIST item 3); not a baseline,
+not a counter-datum on the sheet, and not usable until the NBER paper is in
+the repo.**
+
+**(e) Her own trajectory is a third one, and Appendix C does not score it.**
+"The fall of the Artificial State is foreordained. The Artificial State can
+neither defy the laws of nature nor escape natural limits" (printed p. 130 /
+PDF p. 142, head confirmed): neither consolidation nor durable dispersal but
+ecological collapse. **It enters as a confessed limit, in the manner spine
+§8(f) grants the nuclear one, and NOT as a rival trajectory on the indicator
+sheet** — recorded here so that no later unit reads the omission as an
+oversight. She publishes no falsifier of her own: "little seems to me more
+inevitable than its eventual fall" (printed p. xiii, head illegible / PDF
+p. 4) is undated and untestable.
+
+**(f) What was NOT entered.** No new indicator is proposed. No existing
+baseline is re-coded. DC-5 gains no series from her; her fusion material
+(ai.gov adopting the industry's prose, printed p. 222; Palantir's
+dedication and the technologies "available to the military", printed p. 112;
+"Musk's businesses, sizably underwritten by the U.S. federal government",
+printed p. 98) is **contract-and-alliance colour** for the fusion row, T3,
+and each item must be carried at its own primary — the AI Action Plan, the
+earnings call, the contract award — before it appears in appendix.md. DC-6
+gains nothing: she never asks how the consolidating state is financed, and
+the rent-financing inference remains the book's (c).
+
+**(g) A record-hygiene note, for Roderick and not a decision.** The
+Revisions block headed "(2026-09-16 — source intake: Wolin 2008 and Crouch
+2004 against DC-1..6)" occurs **three times** in this file, and the closing
+line "STATUS: PENDING HUMAN REVIEW (running file)" likewise. This unit has
+neither merged nor removed them — deprecation is not this unit's authority,
+and CLAUDE.md §7 forbids silent revision of a memo — but the duplication
+should be resolved before the next assembly, so that a reader does not take
+three copies for three units of work.
+
+STATUS (2026-09-28 intake Revisions): PENDING HUMAN REVIEW.

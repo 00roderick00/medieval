@@ -1719,3 +1719,301 @@ memo.md Revisions 29–30 and awaits Roderick's ruling.*
   above; the draft's own "[GAP: Wolin …]" flag stands in draft.md until
   the renovation removes it on Roderick's ruling, since this unit touches
   no draft.
+
+## Added 2026-09-28 — intake (Lepore, *The Rise and Fall of the Artificial State*; pins provisional, phone scan)
+
+*Filed at the source-intake unit of this date. The master entry for this
+work is here; ch09 and the appendices carry pointer entries to it. Every
+quotation below was opened at the sidecar before entry and its printed
+page read off the running head on the page itself. Assessment:
+`research/assessments-2026-09-29/Lepore.md` — the map, never the
+authority. Identification and the OCR decision:
+retrieval-master.md, "2026-09-28: intake". **Nothing here has entered
+draft.md**; the chapter entry is memo.md Revisions 31, the two objections
+critiques.md Revisions 21, and the register decisions rulings-sheet rows
+(llll)–(pppp).*
+
+- **T3, with two carve-outs — Jill Lepore, *The Rise and Fall of the
+  Artificial State*.** In corpus:
+  `corpus/retrieved/The Rise and Fall of the Artificial State.pdf` (306
+  pp., 160 MB, created with Adobe Scan for iOS — a phone capture of a
+  physical copy). Text: **our own re-OCR**,
+  `corpus/retrieved/source-library/text-2026-09-29/ArtificialState-ocr.txt`
+  (103,890 words; all 306 pages, each prefixed `[[PDF p. N]]`). The
+  **embedded Adobe layer is rejected** as not citation-grade — alternate
+  pages garbled and PDF 201–306, the whole of the endnotes, carrying no
+  text at all — and must not be used by any later unit.
+
+  **CITATION FORM — NO IMPRINT.** The capture contains **no title page
+  and no copyright page**: publisher, place, edition and year are **NOT
+  established**, and a retrieval row stands open for them
+  (retrieval-master.md, this date). Authorship rests on the About the
+  Author page at PDF 204 and on the book's own internal evidence (the
+  2026 Tanner Lectures at Yale; the self-cited New Yorker essays).
+  **Cite as: Lepore, *The Rise and Fall of the Artificial State*, with
+  pins only. No entry, note, memo or draft may state an imprint, a place
+  or a year until the copyright page is obtained.**
+
+  **PAGE-OFFSET RULE — the offset is NOT constant and the scan is not
+  sequential.** Measured from running heads: printed ≈ PDF − 10 to − 12
+  through the main text (drifting: − 10 in the low pages, − 12 by printed
+  p. 160), and printed = PDF − 18 to − 19 in the endnotes (printed 232 =
+  PDF 250, confirmed at the head "232 NOTES TO PAGES xvii-4"). Many pages
+  appear twice, once legibly and once with the left margin sheared off,
+  and jacket material is interleaved with the text — the About the Author
+  page sits at PDF 204, and an ISBN string occupies the head position at
+  PDF 107. **Consequence: no pin may be computed from the offset. Every
+  pin must carry BOTH the printed page, read off that page's running
+  head, AND the PDF page — "printed p. 38 / PDF p. 49" — and where no
+  head number is legible the printed page is marked (head illegible) and
+  recorded as inferred.**
+
+  **PROVISIONAL PINS.** Every pin taken from this file is provisional: a
+  phone scan, OCR'd by us, with a drifting offset and no title or
+  copyright page. **All pins below must be re-verified against a printed
+  copy before press, and no verbatim quotation from this work goes to
+  press unchecked.** Sheared pages are not used as quotation sources
+  where a clean duplicate exists; where only a sheared capture carries a
+  passage it is marked PENDING VERIFICATION.
+
+  **TIER, and why.** **T3** under CLAUDE.md §5 — serious trade synthesis
+  by a professional historian; supporting colour and contemporary
+  reporting only, **never sole support for a structural claim**. The
+  grounds are three: the contemporary chapters are interpretive essay
+  built from journalism and public statements, not archival or
+  peer-reviewed work; no press and no date are established, so she cannot
+  be graded by imprint as Wolin was; and CLAUDE.md §4 requires
+  contemporary claims to rest on primary documents. **Two carve-outs.**
+  (i) Her *historical* chapters — the census and statistics material,
+  Technocracy Inc., Simulmatics — rest on her own archival research and
+  carry **T2-strength narrative fact**. (ii) Her endnotes let almost every
+  contemporary claim be re-pinned one step to its own primary (the AI
+  Action Plan cited at ai.gov with an internal page reference; the surveys
+  to named institutes). **STANDING USE-NOTE, applying to every use of
+  this work anywhere in the manuscript: take the sentence from her, the
+  citation from her note, and cite the primary. She is never the sole
+  support for a structural claim.**
+
+  **USE-NOTE 1 — THE TITLE COLLISION, and it governs every other use.**
+  Her "Artificial State" is **not this book's object, and is close to its
+  inverse**. She defines it twice, the first time by negation: "The
+  Artificial State is less a state than a dream of being without one, the
+  dream of the severing of humans not only from the natural world but
+  also from one another, every umbilical cord cut" (**printed p. xv / PDF
+  p. 7**, head "PREFACE XV"; the same page is also captured illegibly at
+  PDF 5 and 8); the second time positively: "By an 'artificial state' I
+  mean something capacious … something different than Hobbes's Leviathan,
+  not something made by man but something nonhuman, something beyond
+  human, something inhuman: the rule of humans by machines manufactured
+  by corporations" (printed pp. 4–5 / PDF pp. 14–15; the printed 4 head is
+  illegible, printed 5 confirmed at "GOVERNMENT BY MACHINE 5"). Its
+  operative definition is "an unfinished digital communications
+  infrastructure with which governments and especially private
+  corporations organize and automate political behavior and public
+  discourse", and it "is government without consent, even government
+  without humans" (printed p. 5 / PDF p. 15). Its agents are private —
+  "The corporations that owned those machines began to subsume the state"
+  (printed p. 4, head illegible / PDF p. 14) — and its direction is the
+  inverse of this book's: "Democracy and the liberal nation-state had to
+  be abolished to free corporations from the restraining force of any
+  government" (printed p. 205 / PDF p. 219, head OCR'd "12,"; printed page
+  inferred from the chapter opener).
+  **It contains no decisive force.** Greps run over all 306 pages of the
+  sidecar this date: ***foundry*, *TSMC*, *Anduril*, *Starlink*,
+  *Starshield*, *Pentagon*, *procurement*, *licens-* (any form),
+  *nationaliz-*, *state capacity*, *national champion*, *subsidy /
+  subsidies*: ZERO.** *monopol-* once; *tariff* once; *antitrust* once,
+  and as something the industry defeated (printed p. 107 / PDF p. 121 —
+  **sheared, PENDING VERIFICATION**). *public ownership* occurs once, and
+  of nineteenth-century land in the American West — Roosevelt and
+  Hornaday delivering "the public ownership and stewardship of land in
+  the American West, especially in the form of the national parks"
+  (printed p. 164 / PDF p. 176, head confirmed).
+  **CORRECTION TO THE ASSESSMENT, recorded so the record is honest:** the
+  assessment reports *CHIPS*, *chip* and *export control* at zero. They
+  are zero **in the main text**, but not in the book: "Despite US export
+  controls on advanced chips, China's AI firms have adapted" appears in an
+  endnote, inside a quotation from a World Economic Forum piece by Kaiser
+  Kuo, at **printed p. 256 / PDF p. 274** (note to printed pp. 104–6; the
+  page is captured twice, PDF 274 and 275). The substantive finding is
+  unchanged — she nowhere treats an export-control regime as an instrument
+  of state power — but the grep claim must be stated as "zero in the main
+  text", not "zero in the book". Her military limb is one sentence:
+  "OpenAI, Google, and Meta made their technologies available to the
+  military. Nvidia began using the language of national sovereignty,
+  invoking 'sovereign AI'" (printed p. 112 / PDF p. 126, head OCR'd "12").
+  **THE DISCIPLINE THAT FOLLOWS: she must never be cited as a synonym
+  for, or as support for, the artillery state or the consolidated state.
+  Two books share a phrase and do not share an object. Any sentence that
+  treats her Artificial State as the book's object, or enlists her as
+  independent evidence for consolidation, is a provenance error.** The
+  real overlap is narrow and is to be stated as narrow: both hold that
+  the constitutional appearance of consent can outlast its substance.
+
+  **USE-NOTE 2 — where she is engaged, with the pins.**
+  *§IV, by name, as the RIVAL:* the strongest contemporary statement of
+  the "nation in Silicon Valley's hands" reading — the AI Action Plan
+  "relieving all AI infrastructure projects of the burdens of
+  environmental review", ai.gov employing "the language of the publicity
+  departments of OpenAI, Anthropic, Meta, Google, and Microsoft", and the
+  reporter's verdict she endorses, "The nation is in Silicon Valley's
+  hands" (all printed p. 222 / PDF p. 238); "Musk's businesses, sizably
+  underwritten by the U.S. federal government" (printed p. 98 / PDF
+  p. 112); Palantir's CEO — "We are dedicating our company to the service
+  of the West and the United States of America" (printed p. 112 / PDF
+  p. 126); and the cathedral image, data centres built "as if, in the
+  thrall of a religious revival, the entire resources and labor of a land
+  and a people were turned to the project of building churches,
+  monasteries, and cathedrals" (printed p. 114 / PDF p. 128) — a reason to
+  **keep** the manuscript's own monastic image and not to add a second.
+  *§III, in a note:* "The ability to count gave the state power; the
+  ability to be counted gave the people power" (printed p. 94, head
+  illegible — the head position at PDF 107 carries an ISBN — / PDF
+  p. 107), beside the administration/representation line, Cold War
+  computing used "not only in classified military and intelligence work
+  but also in social science research and government administration of
+  everything from welfare provision to national security. Only later
+  would these tools be applied, by private companies, as substitutes for
+  the democratic functions of representation, deliberation, and
+  participation" (printed p. 38 / PDF p. 49, head OCR'd "$8"), with the
+  two supporting statements of the same line at printed p. 6 / PDF p. 16
+  (head illegible) and printed p. 73 / PDF p. 84.
+  *§VII, one clause in the ledger sentence:* the third predecessor, whose
+  object is **consent**; see USE-NOTE 4. Plus the twentieth-century
+  lineage of the barons' anti-constitutional programme: Technocracy Inc.,
+  founded by Howard Scott, which held that "Popular voting can be largely
+  dispensed with" because "it is stupid" and which "does not subscribe to
+  the basic tenet of the democratic ideal" (both printed p. 32 / PDF
+  p. 43, head illegible), that "ninety percent of the courts could be
+  abolished" (printed p. 33 / PDF p. 44 — **head OCR'd "TECHNOCRACY INC
+  41"; the printed page is INFERRED and must be checked**), and Joshua
+  Haldeman, "Technocrat number 10450-1", who "became the party's national
+  chairman in Canada" (printed pp. 32–33 / PDF pp. 43–44). **Better
+  carrier for the descent than the assessment's:** the assessment pins the
+  Musk descent to printed p. 36 / PDF p. 47, which is a badly sheared
+  page; the clean statement is at **printed p. 97 / PDF p. 110** ("Musk's
+  earliest schemes … had a great deal in common with the plans hatched
+  more than half a century before by his grandfather to abolish banks and
+  to replace the liberal democratic state with a technocratic state, run
+  by engineers"), with a second at printed p. 101 / PDF p. 115. Use
+  printed 97; do not quote PDF 47. The date of Technocracy Inc.'s
+  emergence is OCR-damaged at printed p. 32 ("first gained worldwide
+  attention in 193)") and **no year is entered**.
+  *ch09 §§VIII–IX (pointer entry at ch09/sources.md):* printed p. 86 /
+  PDF p. 97; printed p. 112 / PDF p. 126; printed pp. 105–106 / PDF
+  pp. 119–120 (a correction); printed p. 201 / PDF p. 215 (Blackstone, as
+  signpost only); printed p. 210 / PDF p. 224 (Zaphod Beeblebrox).
+  *Appendix C:* DC-1 printed p. 227 / PDF p. 243; DC-2 printed p. 70 / PDF
+  p. 81 (the anti-baseline) and printed p. 227's assessment questions as a
+  coding rubric; **DC-4, the recorded zero**; DC-5 printed pp. 222 and
+  112. Counter-datum, NEEDS VERIFICATION: printed p. 223 / PDF p. 239.
+  *Appendix A:* a lineage entry, the title collision recorded in it.
+
+  **USE-NOTE 3 — the second-reader's question, answered negatively.** She
+  gives **no account of public authority expanding over private
+  technology in a democracy.** Her causal claim is the inverse —
+  abdication: "Across the second half of the twentieth century, liberal
+  democracy made possible the rise of the Artificial State. It didn't make
+  it inevitable. … it played out the way it did because of the failure of
+  liberal democracy to limit corporate power over politics and government"
+  (the sentence straddles printed pp. 68–69 / PDF pp. 79–80; printed 68's
+  capture is sheared, printed 69 confirmed at the head "COMPUTOPIA 69").
+  Every instrument she names is one of withdrawal — Gingrich closing the
+  Office of Technology Assessment, "which had been formed in 1972", whose
+  "mandate included assessing the implications of any new technology
+  supported by the federal government" (printed p. 70, head illegible /
+  PDF p. 81); the 1996 Telecommunications Act, delivering "an almost
+  entirely unregulated internet" (printed p. 71 / PDF p. 82); the AI
+  Action Plan at printed p. 222. Her only worked cases of a state taking a
+  platform's discretion are authoritarian: Pavel Durov, "the libertarian
+  owner of VKontakte, known as Russia's Facebook", whose resistance "was
+  soon overcome; in 2014, he resigned and left the country" (legible text
+  at PDF p. 99; **printed p. 88 confirmed from the running head of the
+  duplicate capture at PDF p. 101 — the head at PDF 99 is mis-OCR'd
+  "66"**), and al-Qahtani, who "became the regime's de facto censor,
+  hacker, and Twitter director" (printed p. 90 / PDF p. 103). **The
+  consequence for provenance: the question the book was retrieved to
+  answer is not answered by her, and this is a finding rather than a gap —
+  the expansion of public authority over private technology inside a
+  democracy is not a state of affairs her book describes at all.**
+
+  **USE-NOTE 4 — the coinage ledger, third check (spine §8(g)(6)),
+  complete at the page.** Greps over all 306 pages, reported in full.
+  **ornament / ornamental / ornamentally: ZERO. façade / facade: ZERO.
+  hollow / hollowed: ZERO. husk: ZERO. decorative: ZERO. charade: ZERO.**
+  *sham* as a word: ZERO (the three hits are "shamanic", "shambles" and a
+  Grisham in the notes). **trappings: ONE**, of religion, on a sheared
+  page (printed p. 95 / PDF p. 108, head "AI.GOV 95" — **PENDING
+  VERIFICATION**). **veneer: ONE**, of Nick Bostrom's prose, sheared (PDF
+  p. 135; no legible head). **figurehead: ONE** — Douglas Adams's Zaphod
+  Beeblebrox, "a mere figurehead, chosen not by voters but by the
+  government to serve as a diversion from its criminality" (printed
+  p. 210 / PDF p. 224). *Note carefully, against the assessment's
+  wording:* those words are **Lepore's own summary of Adams's character**,
+  not a quotation from Adams; the quoted fragment that follows ("the
+  qualities he is required to display are not those of leadership but
+  those of finely judged outrage") is Adams's. Her own names are *the
+  Artificial State*, *automatocracy* ("rule by automation, government by
+  machine-driven computation, prediction, and persuasion", printed p. 4 /
+  PDF p. 14), Masuda's *Automated State*, *digital authoritarianism*,
+  *datafication*; her own note conceding rivals — "Other terms have been
+  proposed, including 'algorithmic governance' and 'algocracy,' rule by
+  algorithm" (printed p. 232 / PDF p. 250, head "232 NOTES TO PAGES
+  xvii-4") — names none of ours. The sharpest ornamental sentence in the
+  book is not hers but Eugene Burdick's, quoted: "The American public
+  believes it is sovereign. It is not" (printed p. 57 / PDF p. 68).
+  **She neither supplies, duplicates nor refutes the term: the coinage
+  survives Lepore as it survived Wolin.** Her nearest equivalent concept
+  is *government without consent* (printed p. 5) — an **input** concept,
+  measuring whether the governed chose, where the book's is an **output**
+  test, measuring whether the legitimating institutions control the
+  state's strategic commitments, and compatible with elections that are
+  entirely genuine.
+
+  **RECORDED AGAINST THE DISPUTES, per CLAUDE.md §§4–5.**
+  (i) **Lepore against spine §8(b)/(c).** Her verdict and the book's ruled
+  verdict are opposed at the level of direction: on her account the
+  corporations "began to subsume the state" (printed p. 4) and "vastly
+  consequential decisions about the future of Earth and everyone and
+  everything on it were being made by a handful of men" (printed p. 205 /
+  PDF p. 219); the ruling of 2 September 2026 is that for the United
+  States "the state will absorb the stack". The disagreement is recorded,
+  not resolved, and it is entered as an objection at critiques.md
+  Revisions 21 with the book's answer and its grade. **She is not
+  evidence against the absorption claim and she must not be enlisted for
+  it: she has not tested it.**
+  (ii) **Lepore against Crouch and Wolin — three predecessors, three
+  objects.** Crouch's object is egalitarian **policy** (the forms survive
+  while the substance of redistributive politics drains); Wolin's is the
+  **regime** (a new type of political system); Lepore's is **consent**
+  ("government without consent", printed p. 5); the book's is **control of
+  the state's strategic commitments**. Lepore is the third predecessor and
+  the most distant: she is not describing a democracy hollowed from within
+  by a class or a regime but a polity whose governing functions are being
+  taken over from outside by firms that do not want a state at all. Her
+  remedy set is the corollary — rights rather than institutions (see
+  appendix-c/memo.md, this date).
+
+  **NOT TO BE USED.** Her chs. 8–12 for any institutional claim (read
+  selectively only, by openings, closings and located institutional
+  passages). Her ecological claims as load-bearing — "the fall of the
+  Artificial State is foreordained. The Artificial State can neither defy
+  the laws of nature nor escape natural limits" (printed p. 130 / PDF
+  p. 142) enters as a confessed third trajectory, as spine §8(f) grants
+  the nuclear one, and not as an indicator. Any sheared page as a
+  quotation source. And **no imprint, publisher, place or year, in any
+  file, until the copyright page is obtained.**
+
+  **RETRIEVAL LIST, this work.** (1) **OPEN — publisher, place, edition
+  and publication date**, from a printed copy or the publisher's record;
+  until it closes, the citation form above is mandatory. (2) A printed
+  copy, or clean page images, for the re-verification of every pin before
+  press, and in particular of printed pp. 33, 95, 107, 205, 223 and 228,
+  whose running heads are illegible or mis-OCR'd in this capture.
+  (3) **Ivan Yotzov et al., "Firm Data on AI", National Bureau of
+  Economic Research, February 2026** — the probable note-carrier for the
+  2026 survey at printed p. 223 (the note sits in the run of notes to
+  printed pp. 220–24 at printed p. 286 / PDF p. 305); wanted so that the
+  datum can be cited to its primary under the standing use-note, or
+  dropped. The association is an inference from note sequence in a
+  damaged OCR and is **not** yet a citation.

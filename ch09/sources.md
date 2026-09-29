@@ -694,3 +694,101 @@ entry is at memo.md Revisions 12. Personal-names rule: **Chastellain**.*
   chronicle lacuna recorded at ch05 (July 1453–August 1454) is not
   repaired here. The tome supplies vocabulary and a comparator, no
   English fact.
+
+## Added 2026-09-28 — intake (Lepore, *The Rise and Fall of the Artificial State*; POINTER entry)
+
+*The **master entry for this work is ch12/sources.md**, "Added 2026-09-28 —
+intake (Lepore …)", and it governs: tier and its justification, the
+no-imprint citation form, the non-constant offset and the read-the-running-
+head rule, the provisional-pin warning, the standing use-note, and above
+all the **title collision** — her "Artificial State" is an anti-state
+dream, "less a state than a dream of being without one" (printed p. xv /
+PDF p. 7), and she is never cited as a synonym for, or support for, the
+artillery state or the consolidated state. This entry records only what she
+gives **this** chapter. Assessment:
+`research/assessments-2026-09-29/Lepore.md`. Chapter entry: memo.md
+Revisions 13. Nothing applied to draft.md.*
+
+- **T3 (with the carve-outs stated at the master entry) — Jill Lepore,
+  *The Rise and Fall of the Artificial State*.** In corpus
+  (`corpus/retrieved/The Rise and Fall of the Artificial State.pdf`);
+  citation text is our re-OCR at
+  `corpus/retrieved/source-library/text-2026-09-29/ArtificialState-ocr.txt`
+  (the embedded Adobe layer is rejected and unused). **No imprint, place or
+  year may be stated** — none is established, and a retrieval row stands
+  open. **Every pin gives printed and PDF page, read off the running head;
+  the offset drifts (printed ≈ PDF − 10 to − 12 in the text) and may not be
+  computed. All pins are provisional — a phone scan, our OCR — and must be
+  re-verified against a printed copy before press.**
+
+  FOR THIS CHAPTER — **three things, and she gives it no fourth.**
+  1. **The chapter's subject, named in a rival's vocabulary:
+     constitutional appearance against effective power.** Her whole book
+     turns on it — "government without consent, even government without
+     humans" (printed p. 5 / PDF p. 15) — and the single sharpest picture
+     of it is Douglas Adams's president as she describes him: Zaphod
+     Beeblebrox, "part-time President of the Imperial Galactic
+     Government, **a mere figurehead, chosen not by voters but by the
+     government to serve as a diversion from its criminality**, and
+     therefore 'the qualities he is required to display are not those of
+     leadership but those of finely judged outrage'" (**printed p. 210 /
+     PDF p. 224**, head "210 THE RISE AND FALL OF THE ARTIFICIAL STATE").
+     *Attribution discipline, and it matters:* the "figurehead" wording is
+     **Lepore's own summary of Adams's character**; only the inner phrase
+     is Adams's. Usable as a footnote at §V or §VI, credited to her as her
+     reading of Adams, and **not** as evidence of anything about a modern
+     constitution. This is the book's one *figurehead* occurrence
+     (whole-text grep), and it does not supply the Part III term.
+  2. **The assist/replace line, as it bears on the efficient part
+     migrating** (§IX's close). Cold War computing served "not only in
+     classified military and intelligence work but also in social science
+     research and government administration of everything from welfare
+     provision to national security. **Only later would these tools be
+     applied, by private companies, as substitutes for the democratic
+     functions of representation, deliberation, and participation**"
+     (**printed p. 38 / PDF p. 49**, head OCR'd "$8"), with the same line
+     drawn at printed p. 6 / PDF p. 16 (head illegible) and the conceded
+     administrative gain at printed p. 73 / PDF p. 84. The line is
+     **administration against representation**, and it is a predecessor's
+     statement of the distinction §IX's closing question needs: machines
+     may administer, they may not represent.
+  3. **Two corrections and one signpost, all recorded at memo.md
+     Revisions 13, not applied.** (i) §IX reads the frontier labs'
+     governance instruments as institutionalising; on her record the
+     constitutional limb of that reading was not kept — the promise that
+     "Drafting a constitution for powerful AI systems could be a
+     democratic process wherein diverse stakeholders provide input"
+     (printed p. 106 / PDF p. 120) yielded neither convention nor board:
+     "No promised world governance board was ever assembled … no
+     constitutional convention was ever held", and "When Anthropic
+     published 'Claude's Constitution,' it was written chiefly by a
+     philosopher working for Anthropic" (printed p. 106 / PDF p. 120; the
+     chapter opens at printed p. 105 / PDF p. 119, head "AI.GOV 105").
+     (ii) §VIII's DOGE episode gains two facts at **printed p. 112 / PDF
+     p. 126** (head OCR'd "12"): it "drew its inspiration from
+     RAGE—Retire All Government Employees—by the neo-monarchist Curtis
+     Yarvin", and "His aim was to replace humans with bots". (iii) §II's
+     Kantorowicz [GAP] is narrowed **at one remove only**: she quotes
+     Blackstone — "Persons also are divided by the law into either natural
+     persons or artificial … artificial are such as are created and devised
+     by human laws for the purposes of society and government, which are
+     called corporations or bodies politic" (printed p. 201 / PDF p. 215,
+     head "I, ROBOT 201"). **She is a signpost; cite Blackstone direct**,
+     and the [GAP] is not closed by her.
+  4. **§VIII's better sentence for the personal summit**, quoted by her
+     from Facebook's co-founder: "The most problematic aspect of
+     Facebook's power is Mark's unilateral control over speech. There is no
+     precedent for his ability to monitor, organize and even censor the
+     conversations of two billion people" (printed p. 86 / PDF p. 97, head
+     confirmed) — T3, colour, beside the proxy filings that carry the
+     claim.
+
+  **BEYOND THAT SHE GIVES THIS CHAPTER NOTHING.** No fifteenth century; no
+  two-bodies material; no regency, minority or incapacity of any kind; no
+  account of a public institution acquiring a private capability. Greps
+  over all 306 pages: *ornament / ornamental*, *façade*, *hollow*, *husk*,
+  *decorative*, *charade* — **zero**; *licens-* in any form, *procurement*,
+  *nationaliz-* — **zero**. **NEGATIVE FINDING, recorded so no later unit
+  looks again:** the constitutional-appearance subject is hers, the
+  medieval half of this chapter is untouched by her, and she supplies no
+  carrier for the Bagehot bridge or for the term Part III uses.

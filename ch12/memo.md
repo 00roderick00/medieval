@@ -2733,3 +2733,338 @@ coinage kept (proposed wording for the renovation, not applied).**
    citizen" (§IV) is unaffected and remains for Roderick.
 
 STATUS (Revisions 29–30 and the ledger check): PENDING HUMAN REVIEW.
+
+31. **(2026-09-28 — Lepore, *The Rise and Fall of the Artificial State*,
+    read; intake. PENDING HUMAN REVIEW.)** Executed as a SOURCE INTAKE
+    unit; **nothing below has been applied to draft.md**, and the drafts
+    are frozen. Assessment at
+    `research/assessments-2026-09-29/Lepore.md`; the master sources.md
+    entry is filed this date, and it governs — tier T3 with two
+    carve-outs, the standing use-note (take the sentence from her, the
+    citation from her note, cite the primary), the no-imprint citation
+    form, the non-constant offset, and the provisional-pin warning. Every
+    pin below was opened at the sidecar
+    `text-2026-09-29/ArtificialState-ocr.txt` and its printed page read
+    off the running head; every pin carries both printed and PDF page
+    because **the offset drifts and the scan is not sequential**; where a
+    head is illegible the printed page is marked inferred; all pins are
+    **provisional** and must be re-verified against a printed copy before
+    press.
+
+    **THE GOVERNING FACT, before anything else: the title collides and the
+    object does not.** Her Artificial State is "less a state than a dream
+    of being without one, the dream of the severing of humans not only
+    from the natural world but also from one another, every umbilical cord
+    cut" (printed p. xv / PDF p. 7) — an anti-state dream whose agents are
+    private and whose direction is the inverse of the book's: "Democracy
+    and the liberal nation-state had to be abolished to free corporations
+    from the restraining force of any government" (printed p. 205 / PDF
+    p. 219). Greps over all 306 pages return zero for *foundry*, *TSMC*,
+    *Anduril*, *Starlink*, *Starshield*, *Pentagon*, *procurement*,
+    *licens-* in any form, *nationaliz-*, *subsidy* and *national
+    champion*; *antitrust* once, as something the industry defeated.
+    **She is therefore never a synonym for the artillery state and never
+    support for it.** The consequence for the renovation is a register
+    decision, filed as rulings-sheet row (llll): if she is named at all,
+    the text says once and plainly that the book means the opposite thing
+    by the word.
+
+    **CONFIRMS.** (a) *The personal summit* (§III), with a better sentence
+    than the draft has, quoted by her from Facebook's co-founder: "The
+    most problematic aspect of Facebook's power is Mark's unilateral
+    control over speech. There is no precedent for his ability to monitor,
+    organize and even censor the conversations of two billion people"
+    (printed p. 86 / PDF p. 97). (b) *The legibility limb, both
+    non-Western instances, and China furthest along* (§III; spine §5):
+    "Companies like Facebook had that kind of data, but so did
+    governments" — Aadhaar holding "the biometric data of more than a
+    billion Indians", China's social credit system, and at a dated
+    instrument, "In 2020, China implemented what reporters described as a
+    newly reinvented internet, designed by engineers at the tech company
+    Huawei, granting the state complete oversight and control. It soon
+    became the envy of governments in Iran, Saudi Arabia, Turkey,
+    Venezuela, Uganda, Zimbabwe, Thailand, Vietnam, Uzbekistan, and
+    Russia" (all printed p. 87 / PDF p. 98). (c) *The mechanism's
+    non-democratic branch — a baron actually subordinated.* Durov's
+    resistance "was soon overcome; in 2014, he resigned and left the
+    country" (legible text at PDF p. 99; printed p. 88 confirmed from the
+    head of the duplicate capture at PDF p. 101, the head at PDF 99 being
+    mis-OCR'd "66"), beside al-Qahtani, who "became the regime's de facto
+    censor, hacker, and Twitter director" (printed p. 90 / PDF p. 103).
+    Both authoritarian — which is itself the finding of the next section.
+    (d) *The §IV image is independently reached, and therefore not to be
+    doubled*: data centres built "as if, in the thrall of a religious
+    revival, the entire resources and labor of a land and a people were
+    turned to the project of building churches, monasteries, and
+    cathedrals" (printed p. 114 / PDF p. 128). Keep the manuscript's
+    monastic image; add no second one.
+
+    **CORRECTS (the CURRENT wording quoted; NOT applied).** (i) *§IV's
+    trust-busting sentence.* The draft reads: "and its present instinct,
+    when it reaches for them, is usually described — sometimes by its own
+    officials — in the vocabulary of the trust-busting age, as though the
+    platforms were its Rockefeller moment and the remedy a dramatic
+    dissolution." On her documented record the instinct of 2023–26 runs
+    the other way: the industry pressed the race with China and "used the
+    purported [ra]ce to defeat, among other initiatives, antitrust
+    [reform], … Protection law, and an AI Accountability law" (printed
+    p. 107 / PDF p. 121 — **the page is sheared and the sentence is
+    reconstructed from a damaged capture; PENDING VERIFICATION, and not
+    quotable until the page image is read**). The correction is not that
+    the draft's sentence is false but that it is one strand and reads as
+    the strand: the deregulatory instinct of the same years is documented
+    and the sentence should concede it. See rulings-sheet row (nnnn).
+    (ii) *ch09 §IX's reading of the frontier labs' governance instruments*
+    — handled at ch09/memo.md Revisions 13, not here. (iii) *Two record
+    corrections to our own intake sheet.* retrieval-master.md, 2026-09-28,
+    records "Main text ends about printed p. 237" and "chs 7 onward". The
+    running heads say otherwise: the Part Two opener is "What Robots Want"
+    at printed 117–130 (head "WHAT ROBOTS WANT" at PDF 133); the
+    **Epilogue runs printed 225–228** and the **main text ends at printed
+    p. 228 / PDF p. 246**, with Acknowledgments at PDF 247 and the NOTES
+    title page at PDF 249 (printed 231; printed 232 = PDF 250, confirmed
+    at the head "232 NOTES TO PAGES xvii-4"). The sheet is Roderick's or
+    a later unit's to amend — **this unit may not edit
+    retrieval-master.md, so the correction is recorded here and owed
+    there.** (iv) *One correction to the assessment itself, recorded
+    because the ledger must be honest.* The assessment reports *CHIPS*,
+    *chip* and *export control* at zero across all 306 pages. They are
+    zero **in the main text** but not in the book: "Despite US export
+    controls on advanced chips, China's AI firms have adapted" stands in
+    an endnote, inside a quotation from a World Economic Forum piece by
+    Kaiser Kuo, at printed p. 256 / PDF pp. 274 and 275. Nothing
+    substantive turns on it — she nowhere treats export control as an
+    instrument of state power — but the claim must hereafter be stated as
+    "zero in the main text".
+
+    **ADDS — 1. The second-reader's question, answered.** The question
+    (second-reader review, line 112) was "whether an artificial state
+    might emerge through the expansion of public authority over private
+    technology, as well as through private technology's displacement of
+    public authority. A stronger state does not by itself answer the
+    question of consent." **Her answer is a clean negative.** She gives no
+    account of public authority expanding over private technology in a
+    democracy. Her causal claim is **abdication**: "Across the second half
+    of the twentieth century, liberal democracy made possible the rise of
+    the Artificial State. It didn't make it inevitable. … it played out the
+    way it did because of the failure of liberal democracy to limit
+    corporate power over politics and government" (straddling printed
+    pp. 68–69 / PDF pp. 79–80; printed 68's capture is sheared, printed 69
+    confirmed at the head). Every instrument she names is one of
+    withdrawal: the Office of Technology Assessment, "which had been
+    formed in 1972", closed by Gingrich as one of his "first moves", its
+    "mandate included assessing the implications of any new technology
+    supported by the federal government" (printed p. 70, head illegible /
+    PDF p. 81); the 1996 Telecommunications Act, delivering "an almost
+    entirely unregulated internet" (printed p. 71 / PDF p. 82); the AI
+    Action Plan "relieving all AI infrastructure projects of the burdens
+    of environmental review" (printed p. 222 / PDF p. 238). Her AI.GOV
+    chapter — the likeliest place for an expansion — has the state
+    adopting the industry's prose and not its discretion: ai.gov "employed
+    the language of the publicity departments of OpenAI, Anthropic, Meta,
+    Google, and Microsoft", and the verdict she endorses is a reporter's,
+    "The nation is in Silicon Valley's hands" (printed p. 222). The
+    countercurrents she frames as capture: "Musk's businesses, sizably
+    underwritten by the U.S. federal government" (printed p. 98 / PDF
+    p. 112); Palantir's CEO — "We are dedicating our company to the
+    service of the West and the United States of America" (printed
+    p. 112 / PDF p. 126). Her only cases of a state taking a platform's
+    discretion are the two authoritarian ones at CONFIRMS (c).
+    **Stated plainly, and this is the form the memo asks Roderick to
+    accept: the question the book was retrieved to answer remains the
+    book's own. That is a FINDING, not a gap.** The most widely read
+    contemporary historian of the subject, working the same 2025–26
+    record, describes no instance of the thing — which raises the
+    evidentiary burden on ch12 §IV and lowers the risk that the book is
+    restating a commonplace. It also means she cannot be cited in support
+    of the absorption verdict anywhere: silence is not testimony.
+
+    **ADDS — 2. Assist against replace: the line she draws three times.**
+    Her distinction is between technologies that **assist** government and
+    systems that **replace** government by consent. (α) "The perfectly
+    sensible automation of certain government functions, like counting the
+    population or distributing benefits, happened swiftly … Automating the
+    workings of politics and the functions of democracy took longer"
+    (printed p. 6, head illegible / PDF p. 16). (β) The load-bearing
+    statement: Cold War computing used "not only in classified military
+    and intelligence work but also in social science research and
+    government administration of everything from welfare provision to
+    national security. **Only later would these tools be applied, by
+    private companies, as substitutes for the democratic functions of
+    representation, deliberation, and participation**" (printed p. 38 /
+    PDF p. 49, head OCR'd "$8"). (γ) The conceded gain: nations that built
+    digital infrastructure "were able to offer services to the public more
+    efficiently, and more cheaply" (printed p. 73 / PDF p. 84). **The line
+    is administration against representation: machines may administer;
+    they may not represent.**
+
+    *What it supports in §III.* The draft's disanalogy paragraph reads:
+    "registration is not the levy, audit is not the auto-da-fé, and the
+    comparison licenses nothing beyond the observation that uniform
+    legibility is a governing *capacity* — the capacity the Inquisition
+    and the devşirme built by force and the API builds by default
+    [ANALOGY-ONLY beyond that point]." Her administration side is exactly
+    that sentence's "governing *capacity*", and she supplies the two-sided
+    formula the draft does not have: "**The ability to count gave the
+    state power; the ability to be counted gave the people power**"
+    (printed p. 94, head illegible — the head position at PDF 107 carries
+    an ISBN — / PDF p. 107).
+
+    *Whether the [ANALOGY-ONLY] flag can be narrowed — the answer, stated
+    exactly.* **Partly, and the memo marks it CLOSABLE AT RENOVATION only
+    to the extent of one clause; the flag does not come out.** What the
+    flag guards is the inference from *episodic medieval legibility* to
+    *continuous modern legibility* — that is a resemblance, and neither
+    printed p. 38 nor printed p. 94 supplies a mechanism for it. What the
+    two pins do supply is a **principled stopping line** in place of the
+    draft's bare "beyond that point": the comparison licenses the claim
+    that legibility is a governing capacity and that the capacity is
+    two-sided (counting empowers the counter, being counted empowers the
+    counted), and it licenses nothing about representation, because the
+    representation limb is where she herself places the break. **Proposed,
+    for Roderick:** the flag is narrowed from "[ANALOGY-ONLY beyond that
+    point]" to a stated limit — the analogy carries the administrative
+    capacity and stops at the representative function — with the printed
+    p. 38 and printed p. 94 pins carried in the note. **CLOSABLE AT
+    RENOVATION as a narrowing, NOT a closure**, and only on the ruling at
+    rulings-sheet row (mmmm). Her tier makes this a supporting citation,
+    never the load-bearer: the load-bearing legibility primaries in §III
+    are the CRS/AEOI figures, the Aadhaar volumes, the GENIUS Act and the
+    e-CNY instruments already in sources.md.
+
+    *What it sharpens in §IV — the criterion for claim 3(ii).* §IV's
+    absorption verdict is stated as "the state will absorb the stack".
+    Her line sharpens the question that verdict leaves open: **not whether
+    the state acquires the stack, but whether what it acquires is
+    administrative capacity or the representative function itself.** The
+    identity–payments–legibility stack straddles that line — a wallet that
+    authenticates a citizen to his benefits is administration; a wallet
+    that is also the channel through which his consent is registered,
+    measured and predicted is not. That is the criterion claim 3(ii) has
+    lacked, it is stated in a predecessor's words rather than the book's,
+    and it is what makes §VII's *prefet* inference more than a flourish.
+    Recommended as one sentence in §IV, credited to her, at
+    rulings-sheet row (mmmm).
+
+    *What it embarrasses in §IV.* The trust-busting sentence, quoted at
+    CORRECTS (i). Her 2023–26 record is the documented counter-case, and
+    the sentence as drafted invites the objection that the book chose the
+    half of the American instinct that suited it.
+
+    **ADDS — 3. The ledger, third check (spine §8(g)(6)); Check 6
+    result.** Greps over all 306 pages, reported in full: **ornament /
+    ornamental / ornamentally ZERO; façade / facade ZERO; hollow /
+    hollowed ZERO; husk ZERO; decorative ZERO; charade ZERO**; *sham* as a
+    word ZERO (the hits are "shamanic", "shambles" and a Grisham in the
+    notes). The near-hits, reported honestly: **trappings** once, of
+    religion, on a sheared page (printed p. 95 / PDF p. 108 — PENDING
+    VERIFICATION); **veneer** once, of Nick Bostrom's prose, sheared (PDF
+    p. 135); **figurehead** once — Zaphod Beeblebrox, "a mere figurehead,
+    chosen not by voters but by the government to serve as a diversion
+    from its criminality" (printed p. 210 / PDF p. 224), which is a
+    literal picture of ornamental democracy and is **Lepore's own summary
+    of Douglas Adams's character**, not a quotation from Adams. Her own
+    names are the Artificial State, *automatocracy* (printed p. 4), the
+    Automated State (Masuda's), digital authoritarianism, datafication;
+    her note conceding rivals — "Other terms have been proposed, including
+    'algorithmic governance' and 'algocracy,' rule by algorithm" (printed
+    p. 232 / PDF p. 250) — names none of ours. The sharpest ornamental
+    sentence in the book is Eugene Burdick's, quoted by her: "The American
+    public believes it is sovereign. It is not" (printed p. 57 / PDF
+    p. 68). **Verdict: the coinage survives Lepore as it survived Wolin.
+    She neither supplies, duplicates nor refutes the term**, and her
+    nearest equivalent concept, *government without consent* (printed
+    p. 5), is an **input** concept — it measures whether the governed
+    chose — where the book's is an **output** test, measuring whether the
+    legitimating institutions control the state's strategic commitments,
+    and compatible with elections that are entirely genuine.
+
+    *The three-predecessor statement, proposed for §VII's first use of the
+    coinage (wording Roderick's; the four elements are not).* The draft
+    currently names two predecessors — "And the predecessors are named.
+    Crouch is one, at the pins above. Wolin's *Democracy Incorporated*
+    (2008) is the other, named here and not cited, because it is not in
+    the corpus [GAP: Wolin …]" — and Revisions 29 already supersedes that
+    sentence. The clause now proposed adds the third, and the form the
+    ledger sentence must carry is **three predecessors with three objects
+    and the book's fourth**: Crouch's object is egalitarian **policy**;
+    Wolin's is the **regime**; Lepore's is **consent**; the book's is
+    **control of the state's strategic commitments**. One clause, not a
+    paragraph, and the title collision stated in the same breath, because
+    §VII is the only place in the manuscript where the collision can be
+    disposed of without a digression. Rulings-sheet row (oooo).
+
+    **CONTRADICTS.** Two objections, both steelmanned and graded at
+    critiques.md Revisions 21, and summarised here only as pointers.
+    (A) *It is not a state and the direction is not consolidation* —
+    reaching spine §6's DEFEND tier and the §8(b)/(c) ruling; answer
+    graded **adequate, no more**, because it argues from her silences and
+    she has not tested the absorption claim. (B) *The three failures* —
+    the National Data Center, "abandoned due to privacy concerns" and
+    dubbed "the Snooping Machine", and the Soviet OGAS, which failed
+    because "the process of developing the network was left to
+    unregulated, independent contractors" (both printed p. 59 / PDF
+    p. 70), and Chile's Cybersyn, "abandoned after Pinochet took power in
+    a coup in 1973" (printed p. 62 / PDF p. 73, head OCR'd "42") —
+    reaching spine §8(g) item 4; answer graded **good on sequence, weak on
+    the failures**, with a concession recommended. A third cut is recorded
+    and **not** carried as an objection: her ecological trajectory, "the
+    fall of the Artificial State is foreordained. The Artificial State can
+    neither defy the laws of nature nor escape natural limits" (printed
+    p. 130 / PDF p. 142), is a third trajectory Appendix C does not score,
+    and it enters as a confessed limit in the manner spine §8(f) grants
+    the nuclear one, not as a rival on the indicator sheet. Her own
+    prediction is, by her own wording, untestable: "little seems to me
+    more inevitable than its eventual fall" (printed p. xiii, head
+    illegible / PDF p. 4) is undated and carries no falsifier.
+
+    **A twentieth-century lineage worth one clause at §VII, and a genuine
+    alternative on the open register.** Technocracy Inc. held that
+    "Popular voting can be largely dispensed with" because "it is stupid",
+    and "does not subscribe to the basic tenet of the democratic ideal,
+    namely that all men are created free and equal" (both printed p. 32,
+    head illegible / PDF p. 43); "ninety percent of the courts could be
+    abolished" (printed p. 33 / PDF p. 44 — head OCR'd "TECHNOCRACY INC
+    41"; **printed page INFERRED, to be checked**); and its Canadian
+    national chairman was Joshua Haldeman, "Technocrat number 10450-1"
+    (printed pp. 32–33), Elon Musk's grandfather — a descent stated
+    cleanly at **printed p. 97 / PDF p. 110** ("plans hatched more than
+    half a century before by his grandfather to abolish banks and to
+    replace the liberal democratic state with a technocratic state, run by
+    engineers") and again at printed p. 101 / PDF p. 115. *A better pin
+    than the assessment's:* it places the descent at printed p. 36 / PDF
+    p. 47, which is a badly sheared page and is not quotable; use printed
+    p. 97. **The point for §VII:** the barons' American precursors
+    demanded the **abolition** of representative forms, not their
+    retention as ornament — a genuine alternative outcome on §8(g)'s open
+    register, and evidence that the ornamental route is one branch and not
+    the only one. No year is entered for Technocracy Inc.'s founding: the
+    date is OCR-damaged at printed p. 32 ("first gained worldwide
+    attention in 193)").
+
+    **Consensus / contested / book.** Her historical narrative (census and
+    statistics, Technocracy Inc., Simulmatics) rests on her own archival
+    work and is entered at **T2-strength narrative fact**; her diagnosis of
+    the present — abdication, corporate subsumption, "the nation … in
+    Silicon Valley's hands" — is **contested interpretation**, and the
+    contest is with this book, recorded at critiques Revisions 21; the
+    absorption verdict, the ornamental-democracy test, the four falsifiers
+    and the administration/representation criterion **as a criterion for
+    claim 3(ii)** are the **book's own (c)**. Nothing in this entry lets
+    (c) borrow her authority.
+
+    **FLAGS.** CLOSABLE AT RENOVATION, as a narrowing only: §III's
+    [ANALOGY-ONLY] (above; row (mmmm)). **Flags she does NOT close,
+    stated so no later unit assumes otherwise:** §III's [ANALOGY-ONLY] is
+    not removed, only bounded; §IV's C11-1 scoring question is untouched;
+    Revisions 28C's flag on "the over-mighty citizen" is untouched; the
+    §VII coinage conditions set at Revisions 29–30 items 1–6 stand
+    unaltered except for the added third-predecessor clause; the
+    irreversibility concession owed to Wolin at critiques Revisions 20 is
+    neither discharged nor weakened by her. **RE-SOURCE OR CUT: none
+    arising** — she removes no existing carrier. One retrieval is created
+    (the imprint and date) and one is named as probable (Yotzov et al.,
+    NBER, February 2026, for the printed p. 223 survey); neither is a
+    citation yet.
+
+STATUS (Revisions 31): PENDING HUMAN REVIEW.
