@@ -3618,9 +3618,267 @@ STATUS: REVIEWED (Roderick, 2026-07-23) — cleared for drafting
       counter-case's own witness; or the section keeps Vaughan and
       Depreter carrying it and cites Commynes in a note.
 
+48. **(2026-09-29 — Phase 6 renovation: Decisions 10, 11, 12, 14, 17,
+    18, 22, 24, 31, 32. PENDING HUMAN REVIEW.)** Applied to
+    ch10/draft.md, ch10/critiques.md and ch10/sources.md on Roderick's
+    rulings of 29 September (research/rulings-2026-09-29-sheet-III.md;
+    spine §8(i); CLAUDE.md §2 as glossed). Word count: chapter prose
+    10,125 → 15,878, of which 670 words are [NOTE: …] apparatus, leaving
+    15,208 of running text against a ~13,300 weight; whole file 11,280 →
+    18,264, the difference being this entry's twin in the draft's
+    Revisions log. **The overshoot is stated, not concealed: ten decisions land
+    in this chapter, and the compression candidates are named in the
+    draft footer for Roderick's cut.** Every change below is old → new
+    with its pin; nothing is silently rewritten.
+
+    **A1 / Decision 12 — §III, the Estates General, the hinge, the kind
+    of settlement.**
+    - OLD: "The tradition that Orléans also granted the king a permanent
+      taille … is carried here as … a tradition, held at tertiary
+      strength until the text and the fiscal historians are in [GAP:
+      Wolfe; Henneman; Major]." NEW: the tradition dismissed on Major
+      1960: 32–34 ("scarcely a word of truth"; "to restore discipline,
+      not to create a permanent army"; "Nothing whatsoever was said
+      about a permanent taille, and only 100,000 livres were voted"),
+      with Ertman 1997: 86–87 and 73 named as the contrary reading and
+      both sides declared. The Major limb of the [GAP] CLOSES; the Wolfe
+      limb stands.
+    - OLD: "a settlement made across seven years, 1439 to 1446". NEW:
+      "across twelve years, 1439 to 1451".
+    - OLD: the dated sequence "1439 … 1445 … the 1440s … 1446 … c. 1450
+      the institution". NEW: the sequence gains 1440 (the aides, Major
+      1960: 40) and **1451 as the founding date of permanence** — the
+      *taille des gens de guerre* imposed by the élus "without convoking
+      the provincial estates to give consent … levied by royal command
+      alone" (Major 1960: 42) — with the king's 1442 answer to the rebel
+      nobles quoted (pp. 34–35). M60-b applied.
+    - OLD: "about 1,800,000 francs a year raised under Charles VII, and
+      4,700,000 by Louis XI's death — the whole levy, not the taille
+      alone, and a rough tripling in a generation (Vale 1974: 231,
+      citing Commynes, ed. Calmette, ii. 220)". NEW: the arc on the
+      witness twice — "ne leva plus de dix huit cent mil francs pour
+      an", a ceiling; 4,700,000 "sans l'artillerie et autres choses
+      semblables" (ii. 220); the gloss verbatim at ii. 290, "en toutes
+      choses sur son royaulme"; **"a rough tripling in a generation"
+      CUT** for about two and a half times. CC-b applied.
+    - OLD: "At the Estates of Tours in 1484 — the first Estates General
+      in decades … granted for two years only and cut to some 1.5
+      million … no Estates General met again until 1560." NEW: the
+      1440 abandonment of frequent convocations (Ertman 1997: 92); Tours
+      **April 1468** as a full, unmanaged Estates General that granted
+      no tax (Major 1960: 54–55, 151–52, 55–57); the 1484 grant of
+      1,200,000 for two years (Commynes iii. 304; Major p. 103) against
+      4,400,000 (p. 100); 1,500,000 levied and the grant breached in
+      August, within eight months (p. 115), with no move to force the
+      convocation (p. 116); restricted Estates 1506 and 1558 (pp.
+      151–52); "a full, working Estates General was not to meet again
+      until 1560" (Ertman 1997: 92–93); more than 2,500,000 paid by 1498
+      (Commynes iii. 304). M60-a's draft limb and M60-c applied.
+    - OLD: "the assemblies', not summoned again for nearly forty years,
+      their one reassertion absorbed". NEW: the ratchet's object
+      restated as the provincial estates and the magnates, with Major's
+      own reasons for the national assembly's lapse conceded in his
+      words (pp. 36, 37–38) — "The ease with which Charles was able to
+      abandon the large representative assemblies should by no means be
+      considered a victory for the crown".
+    - ADDED (M60-e): Normandy 1458, consent conceded in the reconquered
+      province and kept "periodically for nearly two centuries", with
+      the per-hearth comparison (Major 1960: 42, 44), and the sentence
+      that the mechanism compels the consolidation and does not settle
+      the constitutional form — spine §8(g) in medieval form.
+    - ADDED (D12, tax-not-credit): the settlement stated as a tax
+      settlement and not a credit one, **Stasavage named**, no
+      territorial funded debt before Castile 1489, France's first in
+      1522, the seventy-six years from 1446, and the assemblies useless
+      for credit but for the control-right cases. Paraphrase only: his
+      EPUB has no printed pagination, and the draft carries a [NOTE]
+      saying so.
+
+    **A5 / Decisions 14, 17, 18 — vocabulary.**
+    - §I, first use of "administrative capacity": glossed as collecting
+      capacity — assess, collect and pay at campaign tempo — against
+      Weberian rationalisation, with Ertman 1997: 154 quoted; and the
+      intermediaries named as the ARMED ones. The old "subordinating,
+      not eliminating" clause is preserved inside the gloss with its
+      Tilly 1990: 25 pin.
+    - §III: Glete's clock met by name (2002: 21, 28, 39, 41), his army
+      yardstick distinguished from the chapter's fiscal-constitutional
+      one, and OLD "the coupling's first full demonstration" → NEW "the
+      coupling's first complete run". 10-b applied.
+    - §III: venality entered as a stated defect (Ertman 1997: 28, 76,
+      81); §VII's OLD "the success became the template Europe copied for
+      three centuries" → NEW the offices copied and the venality
+      "determined to avoid it" (Ertman 1997: 244). 10-c applied.
+    - "Completed fiscal-military state" (ff): checked — it does not
+      occur in this chapter (it is ch11 §II's).
+    - D17, "exclusive": two occurrences here, §III (Contamine's reading
+      of 1439 as the crown's claim to the exclusive right to raise
+      troops) and §VI (England's "early and exclusive royal control of
+      guns"). **Both are the monopoly-of-force sense D17 endorses, not
+      the territorial-sovereignty sense it recasts, so neither is
+      recast. Recorded for Roderick; if he wants uniformity, "sole"
+      serves in both places.**
+    - D18, "legible": §V's casual "the test's result is legible" →
+      "plain". The technical uses stand (§VIII's "fiscal and legibility
+      apparatus"). Scott is named at the Introduction's first use, not
+      here.
+
+    **A2 / Decisions 10, 11, 32 — §VII, §VI, §IV.**
+    - OLD: "That is the whole of the book's claim, stated where its
+      rival leaves it unstated." NEW: "That is the claim, and it is
+      narrower than the sentence it replaces here: not that the guns
+      made the state, but that they made one state's fiscal settlement
+      irreversible."
+    - ADDED: the ratchet defined as scale and the end of the small
+      sovereign (McNeill 1982: 89), with the Italian civil-control
+      concession (pp. 75, 125) and his own answer to it (p. 79) — ddd;
+      artillery as the French form and the navy as another (Glete 2002:
+      39, 65).
+    - ADDED: the trace italienne answered (McNeill 1982: 90–91; Bean
+      1973: 208) — the guns consolidating inside the polities that could
+      pay while the bastion froze the map between them, stated as the
+      sixteenth-century form of the bloc prediction.
+    - ADDED: **Bean 1973 and Finer 1975 named in the running text as
+      predecessors** (Bean pp. 204, 213, 220; Finer pp. 93, 105, 127),
+      with Tilly's endorsement (1975a: 51–52); the explanandum
+      distinction; **Bean p. 221 credited as the 1973 statement of spine
+      §8(g)'s split**; Bean's window (pp. 207–08) turned into the
+      irreversibility finding with the Appendix C obligation named; the
+      Bean disanalogy stated (B73-b). T75-a, B73-a and B73-b applied.
+    - ADDED: Finer's weaker evidence stated in the text — Formigny and
+      Castillon transposed, the 1439 permanent taille carried as fact,
+      Charles VIII misdated by a decade (Finer 1975: 104, 127).
+    - ADDED (M60-d): Major answered by name on the army-too-small
+      objection (1960: 9–10), with the concession that the compagnies
+      were magnate patronage (Ertman 1997: 94) and the distinction
+      between the companies and the artillery department.
+    - §VI (T75-c): **Brandenburg-Prussia entered as a control** — the
+      excise "indefinitely expansible", "the euthanasia of the Estates"
+      (Finer 1975: 138) — beside Matyas Hunyadi (Ertman 1997: 31, per
+      zzz), both as controls rather than as members of the four, so that
+      the section's architecture and its closing four-fold summary
+      stand.
+    - §IV (yyy): Commynes entered at T1 by name — the artillery
+      understood in France as nowhere else (iii. 50), Monte San
+      Giovanni's seven or eight hours (iii. 91–92), the chalk and the
+      single natural day (iii. 81), the providential frame (iii. 81),
+      the borrowed campaign cash (iii. 3) and **Fornovo at iii. 192**
+      with Calmette's wet-powder note, now opened and verified (see
+      sources.md this date).
+    - **Recorded, NOT applied. (i) T75-b** — Tilly's "abridging,
+      destroying or absorbing" (1975a: 37) offered for §I and CLAUDE.md
+      §2 beside "subordinating": a doctrine sentence, **Roderick's**.
+      (ii) **Roderick's own addition** at spine §8(i), in his words —
+      that only large fiscal bases, the United States, China and the
+      EU-plus, can make the next consolidation move — is **OWED to the
+      Coda or ch12 §IV** by the Phase 6 instruction and is not written
+      here. (iii) **B73-c**, the window question — how long the
+      compute-led stack's decisive advantage is expected to last and
+      whether the settlement survives its closing — is **OWED to
+      Appendix C**; §VII states the obligation in text and this run does
+      not touch appendix-c.
+
+    **C2 / Decisions 22, 24, 31 — §VIII, §VI, §V, §IV.**
+    - §VIII: the Lombards of Bruges entered as the T1 anchor for
+      dependence — the flight of the three Piedmontese tables, the
+      confiscation, the fines and the composition, then "là où le peuple
+      toutevoies … se peut mal passer de eux. Et par ainsi, le duc enfin
+      estoit constraint de les y remettre par la nécessité publique"
+      (Chastellain, ed. Kervyn, t. III: 316, with the extraction at
+      p. 315 carried in the same paragraph, per the assessment's two
+      cautions).
+    - §VIII: the OLD "[PART B — (x) platform application pending … the
+      three terms are not claimed as the chapter's coinage until checked
+      against their vocabulary]" marker REPLACED by a **[BRIDGE —
+      PROPOSED]** block (the surrounding [BRIDGE] text untouched, the
+      analogy joint left to Roderick) which states command with
+      dependence as the predicted form, capture as the named risk with
+      its fifteenth-century form (Ertman 1997: 28), **claims the triad
+      as the chapter's one coinage with the Crouch pedigree stated in
+      the text** (Crouch 2004, PDF pp. 17 and 34, both re-verified in
+      the sidecar this date, printed pagination still owed), and answers
+      the naval question — the physical layers behaving like the train,
+      frontier compute like neither, so that the mechanism is predicted
+      rather than observed there. 10-j applied; the footer ledger now
+      claims the coinage.
+    - §VIII: "chokepoint" attributed to Farrell and Newman (2019:
+      55–56) at its first technical use, beside Bratton.
+    - §VI (zzz): the recette of 1458 set inside the 1457 reform
+      (Chastellain t. III: 335); the Swiss contract dated 1479 (McNeill
+      1982: 136 n. 18) and OLD "the first formal Franco-Swiss troop
+      convention following in 1521" WITHDRAWN as unsourced, with the
+      1474 treaty and the cantons' withholding to 1480 given from
+      Contamine and the unchecked Contamine page declared; Venice's
+      "large permanent and state-administered navy" conceded (Glete
+      2002: 13) and OLD "without the apparatus" → NEW "without the
+      fiscal-administrative penetration" in both the Venice paragraph
+      and the four-fold summary; Matyas entered (above); "Chastelain" →
+      "Chastellain" (the single occurrence, §V).
+    - §VI (P43-e, P43-f): the *bande de Bourgogne* and the French
+      losses at Dole with the failure at Saint-Omer entered at note
+      length (Perroy 1943: 196 and nn. 108–112; 173 n. 10; 299–300).
+    - §V (C7-a–c): OLD "Chastelain's image, in a ballade of 1467,
+      generalised by Molinet as 'l'universelle aragne,' the universal
+      spider" → NEW Chastellain's own line "Lyon fameux, tryacle contre
+      araigne" in "a ballade lamenting the death of Philip the Good"
+      (t. VII: 207), with "l'universel araigne" given to **Molinet on
+      Kervyn's own ruling** (t. VII: 208–09) and the spelling
+      "l'universelle aragne", which occurs in no tome held, removed. The
+      draft's reading of the epithet is now flagged as the book's own in
+      a [NOTE], since Kervyn glosses the spider as intrigue and venom
+      rather than as the fisc. **C7-d is not in this run's scope and is
+      recorded as still owed: the fiscal charge, if it is to be carried,
+      rests on *Le Prince* (t. VII: 458, 461) and the *Recollection*
+      (pp. 202–203).**
+    - §V (CC-f): OLD "'of all the princes that I ever knew, the wisest
+      and most dexterous to extricate himself out of any danger or
+      difficulty in time of adversity, was our master King Louis XI'
+      (Commynes, Scoble ed., I.x)" → NEW the French from Calmette (i.
+      67) with a translation, and **Scoble's doubling attributed to
+      Scoble** in a [NOTE].
+    - §IV (P43-a–d): OLD "from the binding of a 1721 book" → NEW "from
+      the binding of a volume in the keeper's charge at the John
+      Rylands" (the 1721 date is not in Perroy); OLD "required 1,009
+      more" → NEW "required 1,609 more … total 2,130" with the daily and
+      monthly costs (Perroy 1943: 294, 302); the wage line added (pp.
+      191–92); Perroy's chronology stated with "il ne reste aucune
+      trace" for Charles VII and Bournel master from 15 August 1473 (pp.
+      175, 179, 194–95); the Bureau audit added (p. 177 n. 24); the
+      Milanese phrases re-attributed to Perroy's own French, per the
+      no-intermediary-quotation rule.
+    - §VI (audit 4 of Revisions 47): OLD 'Commynes calls it "very large
+      and powerful" … (all at DeVries 1998: 138)' → NEW the French from
+      Calmette ii. 8, "une très grande et puissante artillerie", with
+      **DeVries dropped as the carrier** and his failed pin recorded in
+      a [NOTE].
+
+    **critiques.md.** Objection 6 rebuilt as "How is this not Bean?"
+    (B73-a, B73-b), with the withdrawn "technology-agnostic" limb named
+    in the entry's headnote, the four-limb answer graded, and the naval
+    limb and Bean's window left open; **Objection 12 entered, Ardant's
+    ceiling, marked UNANSWERED**, with the answer the chapter would give
+    stated so the gap is visible. Revisions 23 records both and carries
+    the P43-h watchlist.
+
+    **sources.md.** No work added. Calmette's Fornovo note opened and
+    its PENDING VERIFICATION closed; a use-record block added listing
+    every pin that entered the draft, the five figures withdrawn from
+    the draft for want of a source, and the P43-h watchlist.
+
+    **P43-h, standing discipline — quotations still in the draft whose
+    originals are not in corpus:** La Marche's carts of guns and the
+    Neuss "thicker than rain" (DeVries 1998: 138); Porter and Rogers's
+    cycle (DeVries 1998: 128); Giovio on the 1494 train (Contamine 1964:
+    221); Heimpel (already paraphrased under its [GAP]); the SIA/BCG
+    sub-10nm sentence and the National Defense Industrial Strategy
+    sentence in §VIII. **None is hardened by this run.** The Milanese
+    despatch phrases leave the list: they are Perroy's French and the
+    draft now says so.
+
 ---
 
-STATUS: Revisions 47 PENDING HUMAN REVIEW; Revisions 46 PENDING HUMAN
+STATUS: Revisions 48 PENDING HUMAN REVIEW; Revisions 47 PENDING
+HUMAN REVIEW; Revisions 46 PENDING HUMAN
 REVIEW; Revisions 45 PENDING HUMAN
 REVIEW; Revisions 42–44 PENDING
 HUMAN REVIEW; Revisions 31–41 PENDING HUMAN REVIEW; Revisions 1–30 as

@@ -672,5 +672,28 @@ running sequence.*
       of a named T2 frame rather than an unattributed assembly, and the
       conditional clause corrected per 3-a in the same sentence.
 
-STATUS: Revisions 13 PENDING HUMAN REVIEW; Revisions 7–12 PENDING HUMAN
+14. **(2026-09-29 — Phase 6 renovation, item 3-f only: Sheet III
+    Decision 32 (Choice A). PENDING HUMAN REVIEW.)** One change in
+    ch03/draft.md, and nothing else in this chapter.
+    - **§I, the composite paragraph.** OLD ended: "— the assembly is the
+      book's, and the chapter will earn it case by case before running
+      it forward." NEW adds one sentence: "It is also, and should say
+      so, an extension of a named frame: Finer, in the volume Tilly
+      edited, has a ruler choosing among military formats on three
+      considerations — the effectiveness of the force, its expense, and
+      whether it would be loyal to him (Finer 1975: 91, 95) — and this
+      chapter is what happens to the third consideration when the first
+      two are met by somebody else's payroll." The pin is the one opened
+      at this file's sources.md block of 2026-09-16 (Tilly (ed.), *The
+      Formation of National States in Western Europe*, ch. 2, pp. 91,
+      95; master entry at ch10/sources.md).
+    - **Not done, and recorded.** Item 3-a — the correction to the
+      composite's conditional clause, which Decision 32 would have taken
+      in the same sentence — is **outside the Phase 6 instruction's scope
+      for this chapter** (the instruction assigns ch03 the Finer
+      restatement alone) and stands owed. No new work enters
+      ch03/sources.md; ch03/critiques.md is untouched.
+
+STATUS: Revisions 14 PENDING HUMAN REVIEW; Revisions 13 PENDING HUMAN
+REVIEW; Revisions 7–12 PENDING HUMAN
 REVIEW; Revisions 1–6 as before.

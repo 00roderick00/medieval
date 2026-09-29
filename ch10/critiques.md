@@ -4,7 +4,10 @@ Objection 1 is the outline's named stress test (the techno-optimist's
 private-financing complaint). Objections 2–5 surfaced in research — two of
 them (Curry's reversed causation; the Hale–DeVries dissent) from sources
 now in the repo, quoted on their own terms. Each steelmanned before the
-answer (§6). Perplexity run logged at the foot.
+answer (§6). Objections 6 and 7 were added on the triage instruction of
+6 August 2026, Objection 6 rebuilt as "How is this not Bean?" on 29
+September; Objection 12, Ardant's ceiling, was entered the same day and
+stands UNANSWERED. Perplexity run logged at the foot.
 
 ---
 
@@ -217,59 +220,104 @@ embarrassment to be managed.
 
 ## Additions (2026-08-06, on Roderick's triage instruction) — PENDING HUMAN REVIEW
 
-## Objection 6 — How is this not Tilly?
+## Objection 6 — How is this not Bean?
 
-**Steelman.** A reader who knows the state-formation literature will
-put the question within a page of the mechanism statement. Tilly
-(*Coercion, Capital, and European States*, 1990) established a
-generation ago that war made the state and the state made war: rulers
-extracted coercion and capital from their populations to fight one
-another, and the extraction apparatus *was* the state. Brewer (*The
-Sinews of Power*, 1989) named and anatomised the fiscal-military
-state. Parrott (*The Business of War*, 2012) then complicated the
-monopolisation narrative from inside the specialism, showing military
-enterprise — private contracting at every scale — persisting and
-*growing* deep into the seventeenth century. Against that shelf, the
-chapter's artillery → permanent finance → administration chain reads
-as Tilly's coercion-capital cycle with one weapon system foregrounded:
-a special case of a thirty-year-old paradigm, presented as a
-discovery. And Tilly was deliberately technology-agnostic — his cycle
-runs on war-making in general, and he distrusted technological
-determinism; narrowing the engine to one gun train is precisely the
-move his framework warns against.
+*Rebuilt 2026-09-29 on Sheet III Decision 10 (Choice A). The former
+title was "How is this not Tilly?" and the former steelman's closing
+limb — that "Tilly was deliberately technology-agnostic … narrowing
+the engine to one gun train is precisely the move his framework warns
+against" — is withdrawn as false to the record: Tilly read the
+artillery thesis in Bean and rejected it on chronology (1985, History
+Talks, paras 1–2), and in the volume he edited in 1975 he placed a
+punctuated, weapon-driven account of state-building at chapter two and
+endorsed it at pp. 51–52. The objection is not an invented silence. It
+is a friendly anticipation in print, and it is a better objection.*
 
-**The chapter's answer — descent owned, plus the variable the
-ancestor declined to supply.** The relation to Tilly is ancestry, and
-the book should say so flatly: without the bellicist literature there
-is no frame for this chapter. What Tilly explains is that war made
-states and why the paths diverged (coercion-intensive,
-capital-intensive, capitalised coercion). What he deliberately does
-not explain is *timing* and *threshold*: why the consolidating turn
-came when it came, and why its casualties were specifically the
-intermediate authorities — the sub-state holders of force who had
-been viable for centuries. The book's addition is the priced step:
-a datable change in the cost of decisive force that closed the
-sub-state path, which converts Tilly's descriptive cycle into a
-falsifiable mechanism (Appendix C is the difference in practice).
-That this is a real gap and not a straw one is the current
-scholarship's own judgment: Mangini & Petroff (2022 working paper,
-in repo, read first-hand) frame their 6,378-city fortification study
-as explaining "why Tilly's cycle began when it did," with the
-gunpowder revolution as the catalyst — the defensive face (wall
-costs) of the same price shock this chapter argues from the
-offensive face (train costs). Brewer is absorbed, not contradicted:
-the fiscal-military state names the mature post-1688 English form;
-the chapter's claim is that the French mid-century case is the
-mechanism's first complete run, of which Brewer's England is the
-perfected descendant. Parrott's contracting is the serious limb, and
-the answer is ch03's standing distinction: enterprise persisted as
-*licensed provision under state monopsony* — the enterpriser sold to
-crowns because only crowns could buy at decisive scale — which is
-the mechanism's prediction about markets in force, not a
-counter-example to it. **Deferred caveat:** Tilly, Parrott, and
-Brewer-beyond-the-coinage are on the retrieval list (Tilly HIGH);
-this steelman is built from their standing arguments and must be
-verified at page level before press.
+**Steelman, at the strength the two texts give it.** The artillery
+thesis was published fifty-three years ago by Richard Bean, and again
+in the same year by Samuel Finer, and this book is their descendant.
+Bean: "The central argument of this paper is that changes in military
+technology or in administrative technique can alter this range of
+optimum sizes of the state" (Bean 1973: 205); the cannon in the middle
+of the fifteenth century, Normandy reduced at speed, the siege train's
+"considerable economies of scale", the nobility "subordinate to the
+central governments — the process being largely complete by 1500"
+(p. 220); and the fiscal step in the chapter's own decade, "In France
+in the 1440's and in Spain in the 1480's the rulers were able to seize
+these taxes as a right and thus dispense with the legislative bodies"
+(p. 213). Finer: periodisation by weapon ("The Age of Pike and
+Handgun: 1450-1550"), the extraction cycle ("More troops — more
+extraction — more troops", Finer 1975: 93), the bastion named as the
+counter (p. 105), and the French constitutional outcome — "there was
+no central constitutional organ of opposition to taxation by fist
+similar to England's" (p. 127) — with Tilly's editorial endorsement of
+"an alternation of long pauses with giant steps closely following
+changes in military technology and the scale of war" (Tilly 1975a:
+51–52). Behind both stands Brewer, who named the fiscal-military
+state, and Parrott, who shows military enterprise persisting and
+growing deep into the seventeenth century. A reader holding the 1973
+*Journal of Economic History* and the 1975 volume may therefore say:
+the thesis is not new, it was judged and found wanting by the field's
+principal authority, and the book has not said so.
+
+**The chapter's answer, in four limbs, graded.** *(a) The explanandum
+— this limb carries the answer.* Bean's dependent variable is the
+number and geographic size of polities, on a U-shaped cost curve
+borrowed from the theory of the firm — "States larger than the optimal
+range tend to disintegrate, and those smaller tend to be absorbed"
+(Bean 1973: 204) — and Tilly's refutation was aimed there, with Poland
+and Russia to aim with. Finer's is the military format and its style
+of rule, reciprocal by design (Finer 1975: 87). Neither explains the
+irreversibility of a fiscal settlement or the closure of the sub-state
+path to decisive force inside a surviving polity, which is what this
+book claims. The difference is testable: Bean's claim is falsified by
+a map, and was; this book's is falsified by an assembly that reverses
+the settlement or a magnate who replicates the instrument, which is
+what Appendix C scores. Bean's own last paragraph concedes the
+question is not his — the changes in war "practically guaranteed" the
+concentration of power, "However, there was no certainty as to which
+faction within the nation would control the new centralized state …
+That task remains a challenge to further research" (p. 221) — which is
+spine §8(g)'s split, drawn in 1973 and inherited rather than invented.
+*(b) The evidence — B, and the descent must be owned in the text, as
+§VII now does.* Bean's fifteenth-century France is a sentence and a
+figure from Oman and a misdated militia; Finer's two paragraphs
+transpose Formigny and Castillon (p. 104), carry the 1439 permanent
+taille that Major destroyed in 1960, and date Charles VIII's campaign
+a decade early (p. 127). The chapter supplies Contamine's account
+series, the 1442 establishment, the Bureau and Bournel services,
+Perroy's 1477 forecast, Depreter's Burgundian comparator and ch06's
+1449–50 census. That is the difference between a hypothesis and a
+demonstration, and the chapter claims exactly that and no more.
+*(c) The bastion, absorbed rather than conceded.* Tilly's own
+parenthesis — "the increased cost of fortifications to defend against
+artillery did give an advantage to states enjoying larger fiscal
+bases" — is the mechanism in miniature; McNeill supplies the two-sided
+answer (only the wealthiest could afford the trace italienne;
+"Imperial consolidation halted halfway", McNeill 1982: 90–91) and Bean
+states it better than the chapter used to, from the defensive face:
+after 1525 "there were many fewer places in Europe after 1525 A.D.
+with effective fortification than had been the case before 1450 A.D."
+(Bean 1973: 208). *(d) The historiographical turn — the chapter's best
+asset.* Every judgement passed on the artillery thesis was passed on
+the size claim: Tilly rejected it on chronology and scale; Stasavage
+calls Bean's "the clearest exposition" of the technology-and-scale
+argument and the effect "muted"; North adopted it. **The
+fiscal-constitutional claim at Bean p. 213 was never tested against
+the French archives, and that is the gap this chapter occupies.**
+Brewer and Parrott stand where they stood: Brewer's England is the
+perfected descendant of the French first run, and Parrott's enterprise
+is licensed provision under state monopsony, which is the mechanism's
+prediction about markets in force rather than a counter-example to it.
+
+**Still open.** The naval limb: Tilly's suggestion that the
+simultaneous rise of naval warfare "could well have shifted the
+military advantage to small maritime powers such as the Dutch
+Republic" (1985, History Talks, para 2), with Glete's navies behind
+it, is answered in §VIII only as a question posed and a wager stated,
+not as a demonstration. Bean's window (pp. 207–08) obliges Appendix C
+to say how long the compute-led stack's decisive advantage is expected
+to last — entered there as owed, not yet scored here.
 
 ---
 
@@ -301,6 +349,50 @@ off-axis (the book predicts intra-bloc consolidation plus durable
 interstitial disorder — the latter agreeing with him). Same
 deferred caveat as ch06: both works unretrieved, now HIGH on the
 list; steelmen provisional; do not caricature.
+
+---
+
+## Objection 12 — Ardant's ceiling: the base could not have carried the settlement — **UNANSWERED**
+
+*Entered 2026-09-29 on Sheet III Decision 10, which flags this
+objection as open rather than offering a choice about it. It is
+recorded here at full strength, with the answer the chapter would
+give, and it is marked UNANSWERED because that answer is written
+nowhere in the manuscript.*
+
+**Steelman.** Gabriel Ardant, in the third chapter of the same 1975
+volume, holds that fiscal capacity is ceilinged by the economic base
+and not by political will: "Productivity, especially agricultural
+productivity, and demography were together the first obstacle, a
+really physical barrier to the power of the state" (Ardant 1975: 176);
+the taxpayer's problem is the problem of markets, since the net
+product "had to be transformed, by being sold, into money" (p. 176);
+and in the autarkic countryside, "Where could taxation intervene in
+this tight economic circle, the shortest of all economic cycles?"
+(pp. 178–79), salt being "the weak link in peasant autarchy" (p. 180).
+His verdict on the whole early-modern sequence is that ambition ran
+ahead of capacity: "The ambitions of kings for several centuries ran
+ahead of the economic structure of their states … This
+being-out-of-phase, this distorted relationship, caused the states to
+resort to overly burdensome taxes" (p. 193), the return to taxation in
+kind being his diagnostic of the ceiling (p. 182). On that reading the
+French settlement of 1439–51 should not have held: the base could not
+carry a permanent army, a permanent train and a permanent
+administration, and the evidence is the century of tax revolts the
+crown's own archives record.
+
+**The answer the chapter would give, and does not.** That the
+artillery changed the *politics* of a fixed base rather than its size.
+The crown collected no more than the base could yield — Major's
+per-hearth figures show the yield varying by province and by consent,
+not by royal appetite (Major 1960: 42) — but the question of who
+decided the yield stopped being asked where the instrument could not
+be replicated. On this reading Ardant describes the ceiling and the
+book describes the ownership of the space beneath it, and the two are
+compatible. The answer is available, it is consistent with the
+chapter's own numbers, and it is in no draft. **UNANSWERED: §VII
+should either carry it in two sentences or leave this flag standing
+where a reviewer will see the book knows the objection.**
 
 ---
 
@@ -1640,7 +1732,39 @@ list; steelmen provisional; do not caricature.
     quotation of a hostile verdict the chapter would rather paraphrase.
     Register decisions at memo Revisions 47, CC-a and CC-d.
 
-STATUS: Revisions 22 PENDING HUMAN REVIEW; Revisions 21 PENDING HUMAN
+23. **(2026-09-29 — Phase 6 renovation: Sheet III Decisions 10 and 31
+    applied to this file. PENDING HUMAN REVIEW.)**
+    - **Objection 6 rebuilt** as "How is this not Bean?" (above). The
+      withdrawn limb is named in the entry's headnote rather than
+      silently deleted: the claim that Tilly was "deliberately
+      technology-agnostic" is false to the 1985 essay and to the 1975
+      volume he edited, and the chapter's novelty now rests on the
+      explanandum and the evidence, as §VII states in its own text.
+      Objection 6's Brewer and Parrott limbs survive unchanged in
+      substance; the deferred caveat closes on Tilly, Bean, Finer and
+      Parrott (all now read at page) and stands only for
+      Brewer-beyond-the-coinage.
+    - **Objection 12 entered, UNANSWERED** — Ardant's fiscal ceiling
+      (Ardant 1975: 176, 178–79, 180, 182, 193), with the answer the
+      chapter would give stated so that the gap is visible and priced.
+    - **Objection 3's DeVries limb** is unaffected, but one pin inside
+      it changes in the draft rather than here: the Burgundian artillery
+      phrase is re-pinned from DeVries to Commynes ii. 8.
+    - **P43-h discipline, standing.** Quotations still in the draft
+      whose originals are not in the corpus, carried through a corpus
+      intermediary and to be re-verified at source or cut before press:
+      La Marche's "more than 300 carts of guns" and the Neuss "thicker
+      than rain" (both DeVries 1998: 138 — now flagged in a [NOTE] in
+      §VI); Porter's "too expensive for the nobility to purchase" and
+      Rogers's cycle (both DeVries 1998: 128); Giovio on the 1494 train
+      (Contamine 1964: 221); Heimpel on the Burgundian ordinances
+      (already paraphrased, with its [GAP]); the SIA/BCG sub-10nm
+      sentence and the National Defense Industrial Strategy sentence in
+      §VIII. The Milanese despatch phrases are resolved rather than
+      flagged: they are Perroy's French, and §IV now says so.
+
+STATUS: Revisions 23 PENDING HUMAN REVIEW; Revisions 22 PENDING
+HUMAN REVIEW; Revisions 21 PENDING HUMAN
 REVIEW; Revisions 20 PENDING HUMAN
 REVIEW; Revisions 18–19 PENDING
 HUMAN REVIEW; Revisions 9–17 PENDING HUMAN REVIEW; Revisions 1–8 as

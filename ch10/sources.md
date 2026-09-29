@@ -1389,9 +1389,14 @@ recorded once, here, and each entry says where its author stands.*
   homme ne vit passer artillerie de telle grosseur ne à telle diligence
   par les lieux où passa ceste-cy" (pp. 210–11); FORNOVO — "je ne croy
   point que l'artillerie des deux costéz tuast dix hommes et ne dura
-  point le combat ung quart d'heure" (p. 192; Calmette's n. 3 on the
-  wet powder per the assessment — note not opened this run, PENDING
-  VERIFICATION); "nostre artillerie, qui, à la verité, passe toutes les
+  point le combat ung quart d'heure" (p. 192). **Calmette's n. 3 at
+  p. 192 OPENED AND VERIFIED 2026-09-29 (sidecar, page context): "B. de
+  Mandrot, au t. II de son édition, p. 282, n. 4, attribue avec
+  vraisemblance à l'orage signalé par Commynes (ci-dessus, p. 174)
+  l'inefficacité de l'artillerie : la poudre avait été mouillée" — the
+  wet-powder explanation is Mandrot's, carried by Calmette as likely,
+  and the storm is at p. 174; the PENDING VERIFICATION is closed and
+  the note is cited in ch10 §IV as Calmette's, after Mandrot.** "nostre artillerie, qui, à la verité, passe toutes les
   artilleries du monde" (p. 285); THE FISCAL PASSAGE — Charles VIII in
   1498 resolved "qu'il ne levast sur son peuple que douze cens mil
   frans et par forme de taille, oultre son domayne, qui estoit la somme
@@ -2618,3 +2623,116 @@ at the foot of memo.md's Revisions 45.*
   (p. xvii). (iv) He was not present at Neuss and says so ("car je n'y
   estoye pas", II, 7); he was present at Montlhéry, the siege of Paris,
   Péronne, Liège, the 1484 Estates and Louis XI's deathbed.
+
+
+---
+
+## Added 2026-09-29 — Phase 6 renovation: pins USED IN DRAFT (no new works entered)
+
+*This block records which already-graded pins entered ch10/draft.md on
+29 September under Sheet III Decisions 10, 11, 12, 14, 17, 18, 22, 24,
+31 and 32, so that a later reader can move from a draft sentence to the
+entry that carries it. No work is added to this file by this run; one
+PENDING VERIFICATION is closed (Calmette's Fornovo note, above) and one
+figure is withdrawn from the draft for want of any source.*
+
+- **Major 1960** — USED: pp. 32–34 (the 1439 tradition, "scarcely a
+  word of truth"); p. 40 (the aides from 1440); p. 42 (the 1451 *taille
+  des gens de guerre* "levied by royal command alone"; the per-hearth
+  comparison); p. 44 (Normandy 1458); pp. 34–35 (the king's 1442
+  words); pp. 36, 37–38 (why the national assembly lapsed); pp. 54–55
+  and 151–52 (Tours 1468, and the appendix, including the restricted
+  Estates of 1506 and 1558); pp. 100, 103, 115–16 (the 1484 figures and
+  the breach); pp. 9–10 (the army-too-small objection, answered by name
+  in §VII).
+- **Commynes, ed. Calmette** — USED: i. 67 (the Louis XI judgement, now
+  printed from Calmette, Scoble's doubling in a [NOTE]); ii. 8 (the
+  Burgundian artillery, re-pinned from DeVries); ii. 220 and ii. 290
+  (the revenue arc, with "sans l'artillerie" and "en toutes choses sur
+  son royaulme"); iii. 3 (the Genoa loan); iii. 50, iii. 81, iii. 91–92
+  (the artillery understood, the chalk, the providential frame, Monte
+  San Giovanni); iii. 192 (Fornovo); iii. 304 (the 1484 grant and the
+  1498 yield).
+- **Chastellain, ed. Kervyn** — USED: t. III: 315–16 (the Lombards of
+  Bruges, the extraction and "constraint de les y remettre par la
+  nécessité publique", §VIII's T1 anchor for dependence); t. III: 335
+  (the 1457 financial reform, §VI); t. VII: 207 ("tryacle contre
+  araigne") and 208–09 (Kervyn's restoration of "l'universel araigne"
+  to Molinet), §V. NOT USED and now unnecessary: the draft's former
+  spelling "l'universelle aragne", which occurs in no tome held.
+- **Perroy 1943** — USED: pp. 173 n. 10 (Dole), 175 and 179 and 194–95
+  (the chronology; Bournel master from 15 August 1473 — the appointment
+  sentence stands on p. 179, the running head of p. 180 following it in
+  the sidecar), 177 and n. 24 (the audit), 191–92 (the wage line), 294
+  and 302 (1,609 and the 2,130 total; 355 l.t. a day; 14,010 l.t. a
+  month; the Milanese phrases, which are Perroy's French and are now
+  attributed to him), 299–300 (Saint-Omer and the reverses). The "1721
+  book" is CUT from the draft: it is not in Perroy.
+- **Finer 1975** — USED: p. 93 (the extraction cycle), p. 104 and
+  p. 127 (cited in §VII for his errors, never for his dates), p. 105
+  (the bastion), p. 127 (the French constitutional outcome), p. 138
+  (Brandenburg's excise and "the euthanasia of the Estates", §VI's
+  second control).
+- **Bean 1973** — USED: pp. 204, 207–08, 213, 220, 221 (§VII: the
+  explanandum, the window, the fiscal step, the conclusion, and the
+  consolidation/form split).
+- **Tilly 1975a** — USED: pp. 51–52 (the editorial endorsement of
+  Finer). T75-b (p. 37, "abridging, destroying or absorbing") NOT used:
+  it is a doctrine sentence and Roderick's.
+- **Ardant 1975** — USED in critiques only (Objection 12, UNANSWERED):
+  pp. 176, 178–79, 180, 182, 193.
+- **McNeill 1982** — USED: p. 89 (the affordability direction, cited
+  for direction and not for the unit-cost vocabulary), pp. 75, 79, 125
+  (the Italian civil-control concession), pp. 90–91 (the trace
+  italienne answer), p. 136 n. 18 (the Swiss contract of 1479).
+- **Glete 2002** — USED: p. 13 (Venice's permanent state-administered
+  navy), p. 32 (the compagnies' nominal size, in the [NOTE] withdrawing
+  the "24,000"), pp. 21, 28, 39, 41 (the clock, met by name in §III),
+  pp. 39 and 65 (the navy as the ratchet's second form, §VII and
+  §VIII).
+- **Ertman 1997** — USED: pp. 28, 76, 81 (venality as a stated defect),
+  p. 31 (Matyas Hunyadi as the first of §VI's two controls), pp. 73 and
+  86–87 (the contrary reading of 1439, named beside Major), pp. 92–93
+  (the full working Estates General of 1560), p. 94 (the governors'
+  companies, in §VII's answer to Major), p. 154 (the Weberian
+  disclaimer, in §I's gloss), p. 244 (the venality the copyists
+  refused, narrowing "template").
+- **Stasavage 2011** — USED, by paraphrase only and with the pagination
+  caveat carried into the draft's own [NOTE]: chs. 1–3 (no territorial
+  long-term debt before 1500; Castile 1489 and France 1522; the
+  control-right assemblies). **No Stasavage sentence is quoted in the
+  draft**, per this file's standing rule that his EPUB pins must be
+  re-pinned to printed pages first.
+- **Crouch 2004** — USED in the §VIII ledger line, quoted with PDF-page
+  pins and an explicit before-press caveat in the draft: "loses touch
+  with the knowledge necessary to understand certain activities" and
+  "forced to sub-contract further" (PDF p. 17, sidecar l. 754);
+  "policy-making machinery has itself become endogenous to the problem
+  of the power of the corporate elite" (PDF p. 34, sidecar l. 1473).
+  Both re-verified in the sidecar this date. PRINTED PAGINATION STILL
+  PENDING.
+- **Farrell and Newman 2019** — USED: pp. 55–56 ("chokepoint" and the
+  panopticon effect), attributed at the first technical use of
+  "chokepoint" in §VIII.
+- **Parrott 2012** — USED: p. 30, in the [NOTE] withdrawing the
+  "24,000 men by 1483".
+- **Contamine 1972** — USED additionally for the Franco-Swiss treaty of
+  26 October 1474 and the cantons' withholding of an official
+  contingent to August 1480 (tome I, the Swiss section; page pin owed
+  at assembly, the sidecar being OCR without reliable page markers).
+  **McNeill's citation of Contamine 1972: 284 for the 1479 contract has
+  NOT been checked at that page and is cited as McNeill's.**
+- **WITHDRAWN FROM THE DRAFT (no source in corpus):** "fifty-eight
+  companies and some 24,000 men by 1483" (§II); "the first formal
+  Franco-Swiss troop convention … in 1521" (§VI); "the binding of a
+  1721 book" (§IV); "a rough tripling in a generation" (§III, an
+  arithmetic error — the arc is about 2.6×); "some 1.5 million" as the
+  1484 grant (§III, the grant was 1,200,000 and the levy 1,500,000).
+- **P43-h WATCHLIST (quotations in the draft whose originals are not in
+  corpus, carried through a corpus intermediary; re-verify at source or
+  cut before press):** La Marche's carts of guns and the Neuss "thicker
+  than rain" (DeVries 1998: 138); Porter's "too expensive for the
+  nobility to purchase" and Rogers's cycle (DeVries 1998: 128); Giovio
+  on the 1494 train (Contamine 1964: 221); Heimpel (already
+  paraphrased, [GAP] standing); the SIA/BCG sub-10nm sentence and the
+  National Defense Industrial Strategy sentence (§VIII).

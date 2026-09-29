@@ -55,7 +55,12 @@ are separately owned — Tilly's protection-market frame, Kaminsky's
 feud-as-legal-institution, McFarlane's affinity [GAP: McFarlane's
 1945 article and Hicks await retrieval] — the assembly is the
 book's, and the chapter will earn it case by case before running it
-forward.
+forward. It is also, and should say so, an extension of a named
+frame: Finer, in the volume Tilly edited, has a ruler choosing among
+military formats on three considerations — the effectiveness of the
+force, its expense, and whether it would be loyal to him (Finer 1975:
+91, 95) — and this chapter is what happens to the third consideration
+when the first two are met by somebody else's payroll.
 
 ## II.
 
@@ -335,6 +340,18 @@ the reviewed memo.*
    order (Chapter 5 follows this chapter); no other change. The
    chapter's terms, tense, figures and cross-references were checked
    against the inventories and conform.
+
+2. **(2026-09-29 — Phase 6 renovation, item 3-f only: Sheet III
+   Decision 32. PENDING HUMAN REVIEW.)** One sentence added at the
+   close of §I's composite paragraph, restating the synthesis as an
+   extension of Finer's named frame — a ruler choosing a military
+   format on effectiveness, expense and loyalty (Finer 1975: 91, 95) —
+   and adding that this chapter is what happens to the third
+   consideration when the first two are met by somebody else's payroll.
+   Nothing else in this chapter is touched by the Phase 6 run: item 3-a
+   (the conditional clause) is not in its scope, and the [GAP] flags
+   stand. Record at ch03/memo.md Revisions 14; the pin is in
+   ch03/sources.md's 2026-09-16 intake block.
 
 ---
 
