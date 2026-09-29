@@ -1333,3 +1333,17 @@ DC-1's null (the system "would survive even if the Democrats were to become
 the majority party in control of both the presidency and Congress",
 pp. 286–87); and whether the Coda §V names him is Roderick's call, the
 Coda's text not naming him at present.
+
+## 2026-09-29: Scott re-added — a SECOND COPY of a DIFFERENT EDITION, not a duplicate
+
+`Scott - Seeing Like a State (Yale 1998).pdf` was added to `corpus/retrieved/` on 29 September. It is **not** a duplicate of the copy ingested on 13–14 September (`Scott-Seeing-Like-a-State.pdf`): different size (11.2 MB against 25.4 MB), different page count (483 against 463), different calibre version, different page geometry.
+
+**It is a different edition, and the filename is wrong on the file's own showing.** Its copyright page reads "**Veritas paperback edition, 2020**", ISBN 978-0-300-24675-9, "Originally published in 1998 by Yale University Press". The filename's "Yale 1998" should not be trusted.
+
+**Consequence — DO NOT CROSS-PIN.** The two conversions paginate differently: the Introduction's "partially blind" sentence, pinned in the apparatus at PDF 19, sits at PDF 14 in the new copy. **The copy of record for every Scott pin remains `Scott-Seeing-Like-a-State.pdf`** with sidecar `text-2026-09-14/Scott.txt`; its contents listing carries the 1998 print pagination the project cites (ch. 9 Mētis 309, Conclusion 342, Notes 359, Sources for Illustrations 433, Index 435), and the recorded offset (printed = PDF − 17) was calibrated against it. Neither copy carries print-page markers in the body, so the new file cannot establish pagination equivalence on its own; until it is established, no pin may be taken from it or checked against it.
+
+**Kept, not archived**, because it is a second edition rather than a byte duplicate (contrast the Wolin duplicate of 28 September, archived): it is a usable reading copy at letter size. A search of it found no new preface, foreword or afterword, so it appears to reprint the 1998 text — a negative finding from a search, not a collation.
+
+**No re-ingestion performed and none owed.** Scott was read and assessed on 14 September (research/assessments-2026-09-14/Scott.md) and integrated on 16 September into ch01 (master entry), ch02, ch04, ch07, ch10, ch11, ch12, the coda, appendix-a and appendix-c. What remains open on him is a renovation item, not an intake one: the manuscript uses "legibility" twenty-eight times and does not name him, so the acknowledging clause at the Introduction's first use — rulings-sheet row (rr), carried into Sheet III — awaits Roderick's ruling.
+
+**New OPEN row:** establish whether the Veritas 2020 paperback repaginates the 1998 edition (publisher's record or a printed copy), so that the second copy can be used for verification rather than set aside.

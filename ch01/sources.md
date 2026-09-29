@@ -542,7 +542,25 @@ Ertman; Cheung; McNeill; Bagehot; Crouch; Commynes; Chastellain.
   period caution for permanence-not-sophistication, carried at ch10.
 
 - **T2 — James C. Scott, *Seeing Like a State* (Yale UP, 1998)** — IN REPO
-  (sidecar `Scott.txt`; printed = PDF − 17). POINTER ENTRY: the
+  (sidecar `Scott.txt`; printed = PDF − 17). **SECOND COPY RECORDED 2026-09-29, A
+  DIFFERENT EDITION — DO NOT CROSS-PIN.** `Scott - Seeing Like a State
+  (Yale 1998).pdf` was added to the corpus on 29 September; its filename is
+  misleading, because its own copyright page reads "Veritas paperback
+  edition, 2020" (ISBN 978-0-300-24675-9, "Originally published in 1998 by
+  Yale University Press"). It is 483 pages to the copy of record's 463, a
+  separate calibre conversion, and **it paginates differently**: the
+  "partially blind" sentence pinned below at PDF 19 sits at PDF 14 in the
+  new copy. **The copy of record for every Scott pin in this project
+  remains `Scott-Seeing-Like-a-State.pdf` with the sidecar
+  `text-2026-09-14/Scott.txt`**, whose contents listing carries the 1998
+  print pagination the project cites (Mētis 309, Conclusion 342, Notes 359,
+  Index 435) and against which the − 17 offset was calibrated. No pin may be
+  taken from, or checked against, the 2020 copy without first establishing
+  pagination equivalence, which the new file does not permit on its own
+  (neither copy carries print-page markers in the body). A search of the
+  2020 copy found no new preface, foreword or afterword, so the text appears
+  to be the 1998 text reprinted — a negative finding from a search, not a
+  collation. POINTER ENTRY: the
   load-bearing engagement is ch12 §§II–III and ch10; the Introduction
   names him at the first use of "legibility." For THIS chapter the finding
   is negative and is recorded so it is not re-asked: ch01/draft.md does
