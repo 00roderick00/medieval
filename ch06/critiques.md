@@ -827,3 +827,170 @@ Priorities to stress-test on the draft:
       Escouchy. The objection disciplines §VI's narrative register
       and the weight §VI may place on Cadillac's honours, nothing
       more. Register decisions at memo Revisions 35, L-a and L-d.
+
+14. **(2026-09-29 — Phase 6 renovation: which of Revisions 9–13's
+    objections the draft now answers on the page, and one objection the
+    new text opens. PENDING HUMAN REVIEW.)** Draft record at memo
+    Revisions 37.
+
+    - **Revisions 13's condition is DISCHARGED: the Breton charge is in
+      the text.** The condition was stated in terms — "this holds only if
+      §VI carries the Breton charge in the text, not in a note." §VI's
+      dissent paragraph now reads, after Howard, DeVries and Hall: "To
+      those three must be added a contemporary who goes further than any
+      of them: the fullest Gascon narrative, written for the count of Foix
+      by a servant who was not on the field, has the French guns batter
+      the English badly and fail to stop them coming on, and gives the
+      decision after an hour of hand-to-hand fighting to a charge of fresh
+      Breton lances thrown into the press where Talbot's banners stood
+      (Leseur, ed. Courteault, ii. 17–18)." The answer follows in the same
+      paragraph and in the terms Revisions 13 set: the guns "bought the
+      hour of mêlée in which fresh reserves could be brought to bear, on
+      ground the artillery train had chosen and entrenched before Talbot
+      came in sight of it. The killing stroke at Castillon, as at
+      Formigny, was delivered by men; what the instrument settled was
+      where the battle would be fought and what shape it had to take."
+      The chapter therefore owns the strongest contemporary statement
+      against its cleanest exhibit before a reviewer can produce it. Two
+      elements of Revisions 13's steelman are NOT carried in the draft
+      and are recorded as standing, not answered: Leseur's Talbot
+      marvelling at the works and attacking anyway ("il se merveilla fort
+      … Et adonc, sans marchander", ii. 17), and Leseur's Talbot killed
+      in the rout rather than at the rampart (ii. 18, against Pollard).
+      The first is only a sharper instance of the syndrome §VI already
+      states and costs the chapter nothing; the second is a variant of a
+      biographer's reconstruction and is left as a variant, per Revisions
+      35's own instruction to record and not replace. Whether either
+      should enter the text is a judgement for Roderick, not a flag.
+
+    - **Revisions 12's CONDITIONAL grade is now UNCONDITIONAL.** Both
+      conditions are met on the page. The segregation is explicit and
+      unchanged ("belong to a different lineage, met in a later chapter,
+      in which the weapon was over- rather than under-estimated"); the
+      overstatement is repaired — Holman 2014: 23 is cited at first hand,
+      the hedge is restored with the word *almost* quoted and then
+      insisted on, and "the twentieth century's" is narrowed to interwar
+      Britain; and the gloss Revisions 12 forbade is foreclosed in the
+      text rather than only in this file, because §VI now carries
+      Holman's own diagnosis (interdependence over morale, p. 53) and
+      states what the prophets failed to price — "not the process behind
+      their own instrument but the defender's". The standing prohibition
+      is written into the chapter's apparatus in one sentence: "no
+      sentence in this book gathers Talbot, Belloc's captain and the
+      bomber prophets into a single syndrome." The negative finding is
+      stated there too, so an objector who opens Holman finds the book
+      opened it first.
+
+    - **Revisions 11's Fornovo objection is ANSWERED IN THE TEXT, and
+      quoted first.** §VI now carries the fewer-than-ten line at
+      Commynes, ed. Calmette, iii. 192 with Calmette's wet-powder note,
+      and answers it where CLAUDE.md §6 requires: "The argument has
+      located decisiveness at the wall and in the exchequer throughout,
+      and never on the field; a disanalogy the book states itself costs
+      it nothing, whereas the same disanalogy produced against it would
+      cost a great deal." Revisions 11's second limb — that the
+      expedition's cash was borrowed and Commynes's own explanation is
+      providence, so that the mechanism is the historian's frame imposed
+      on him — is NOT carried here, because the ch06 passage makes no
+      claim about how 1494 was financed; it remains ch10's discipline and
+      is logged there.
+
+    - **Revisions 10's Venice-first objection is ANSWERED IN §VII.** The
+      concession is now in the text and in McNeill's words: civil control
+      of contracted force "was not an achievement of the guns and was not
+      French. It was Italian, and it was earlier" (McNeill 1982: 75),
+      with the transalpine states reaching the same standard only at the
+      Fronde (p. 125), and the ratchet correspondingly defined as scale
+      and the end of the small sovereign rather than as the invention of
+      civil control. The objection's remaining reach — the *trace
+      italienne* and the migration of the threshold (McNeill pp. 90–91)
+      — stays with ch10 §IV and §VII, cross-referred from §VII's Hall
+      limb as before.
+
+    - **Revisions 9's Tilly limb is HALF-ANSWERED, and the unanswered
+      half is outside this chapter.** §VII now names Finer and Bean as
+      predecessors, quotes Tilly's own endorsement of a weapon-driven,
+      punctuated account (Tilly 1975: 51–52), and answers on the
+      explanandum. But the sentences that describe Tilly as
+      technology-agnostic stand in **ch10** §VII and ch10/critiques
+      Objection 6, which this unit does not own; §VII's own opening
+      ("the objection comes … from the historian this chapter has cited
+      more than any other") refers to Rogers and is accurate as written.
+      Recorded so the ch10 unit does not assume ch06 has taken it.
+
+    ## Objection 8 — The ratchet is Bean's thesis with better footnotes (opened by the Phase 6 text)
+
+    - **Steelman.** §VII now concedes that Finer had the extraction
+      cycle, the bastion and the constitutional consequence of cannon in
+      1975, in a volume this book cites, and that Bean had the cannon,
+      the Norman reduction, the fiscal appropriation, the subordinated
+      nobility and the mechanism-versus-form split in 1973, in a journal
+      any economic historian reads. A reviewer can now say, quoting the
+      chapter against itself, that the book's contribution is archival
+      and not conceptual: that it has found better evidence for a
+      fifty-three-year-old hypothesis and given it a new name. Worse, the
+      concession invites a second question the chapter does not ask. If
+      Bean's offensive window closed in the second decade of the
+      sixteenth century, and the settlement it induced lasted until 1789,
+      then the settlement outlived the capability that set it by three
+      centuries — which either proves irreversibility or shows that the
+      capability was never the operative cause.
+    - **The chapter's answer (my grade: GOOD on the first limb; the
+      second limb NOT YET WRITTEN and deliberately left open).** The
+      first limb is answered in the text and in the terms the ruling
+      required: the difference is the explanandum, not the hypothesis.
+      Finer explains the military format and its style of rule, Bean the
+      size and number of states; this book explains the irreversibility
+      of a fiscal settlement and the closure of the sub-state path to
+      decisive force inside a surviving polity — a claim no map can
+      refute and only a reversed settlement or a replicated instrument
+      could. A thesis that names its predecessors and shows what it adds
+      is in a stronger position than one that does not, and the evidence
+      it adds is not trivial: the 1442 programme, the Bureau service, the
+      Somerset census and the composition grammar of a hundred entries
+      against a sentence and a figure from Oman. On the second limb the
+      chapter is silent by design. **Bean's window question is Appendix
+      C's** (Decision 10, B73-c) and Bean's own dates are not quoted in
+      §VII; the three-centuries argument is therefore available to the
+      book and is not yet made anywhere. Whoever writes Appendix C's
+      window indicator should make it, and until then this half of the
+      objection stands.
+    - **Reach.** No spine ruling is touched; spine §8(i) already records
+      the Decision 10 definition and the naming of Finer and Bean. What
+      the objection disciplines is §VII's register: the concession must
+      stay stated at full strength, because a hedged concession to a
+      published predecessor reads worse than none.
+
+    ## Objection 9 — The chapter's one storming has been quietly downgraded (opened by the Phase 6 Cadillac rewrite)
+
+    - **Steelman.** §VI's census rests on the claim that places fell to
+      composition and not to storm, with Cadillac as the single stated
+      exception. The exception has now been re-described: the siege was
+      not the crown's but an intermediate lord's, the execution that gave
+      it its punitive colour was an act of private lordship enforcing
+      homage, and the chapter has withdrawn "reserved for a place under
+      punitive terms". A hostile reader can argue that what was the
+      crown's demonstration of reach has become a count's private
+      justice, that the one exception is now evidence of *baronial*
+      rather than royal force, and that the chapter has kept the
+      superlative while conceding the substance beneath it.
+    - **The chapter's answer (my grade: GOOD).** The exception was never
+      offered as evidence of who executed whom; it was offered as
+      evidence about **mode** — that even the one storm in the record was
+      manufactured by battery and ended, where it mattered, in
+      composition. Every element of that is now better attested than
+      before: two independent witnesses to the storm (Escouchy on the
+      massed discharge and the date, Leseur on the trenches, the mines,
+      the bombard at the boulevard gate and the battery night and day),
+      the castle composing the next day, and the guns served by the
+      king's own master of artillery, sent forward from the royal camp.
+      And the private-justice reading strengthens rather than weakens the
+      book's larger claim, because the count's levy had been mustered by
+      a royal commissioner and paid in part from the royal fisc: this is
+      an intermediate authority exercising jurisdiction inside a royal
+      campaign it did not finance, which is subordination in progress
+      rather than baronial independence. The draft says so in the same
+      paragraph. What the chapter genuinely loses is rhetorical, and it
+      says that too.
+    - **Reach.** None. The claim at issue is §VI's, not the spine's;
+      spine §8(e)(5)'s Gascony ruling is untouched.

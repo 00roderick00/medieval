@@ -1100,7 +1100,12 @@ Dax and Bayonne); this is his first sources.md entry.*
     capable de composer le panégyrique du comte" (Intro. p. xix);
     "aucun chroniqueur n'a peut-être plus de besoin d'être complété
     et rectifié à l'aide des documents diplomatiques contemporains"
-    (p. lxxv); "Leseur grossit volontiers les chiffres". Leseur was
+    (p. lxxv); and — **CORRECTED 2026-09-29 at the page, P43-h
+    discipline: this block carried "Leseur grossit volontiers les
+    chiffres" in quotation marks with no page pin, and the words are not
+    Courteault's. His words are "**Leseur grossit volontiers les
+    effectifs d'armées**", in a note to the chronicle, t. I p. 76 n. 1.
+    The loose form is withdrawn and was never in the draft.** Leseur was
     never in the count's councils ("situation subalterne") and
     carries no policy or fiscal insight; he reports "de la bouche de
     témoins oculaires" (p. xxvj). **Cite him for narrative, mode and
@@ -1338,3 +1343,134 @@ Dax and Bayonne); this is his first sources.md entry.*
   by a witness on the losing side of each. Nothing in Livres I–VI touches
   Normandy or Gascony (the narrative opens in 1464); the chapter's
   medieval spine is unaffected.
+
+## Added 2026-09-29 — Phase 6 renovation: pins USED in the draft (no new works)
+
+*Every pin below was opened in its sidecar this date before it entered
+ch06/draft.md. No work is added to this file; the entries are marked as
+used so the next unit can tell a pin that is live in the draft from a pin
+that is only recorded. Record: memo Revisions 37. PENDING HUMAN REVIEW.*
+
+**Leseur, ed. Courteault** (T1, editorial apparatus T2 — entry of
+2026-09-16 above). PINS NOW IN THE DRAFT: t. I, Introduction p. lxxv
+("aucun chroniqueur n'a peut-être plus de besoin d'être complété et
+rectifié à l'aide des documents diplomatiques contemporains" — §V, at
+Leseur's one naming in the running text); t. I p. 202 (Blaye "prise
+d'assault … mis en sacqueman" — §V); t. I pp. 204–5 (Fronsac's oath and
+Dunois's empty field, "tindrent la bataille tout le jour, actendans les
+Angloys, qui toutesvoys n'y vindrent point" — §V); t. I p. 205 n. 1
+(Courteault's "Cadillac, Gironde, arr. de Libourne, cant. de Fronsac" —
+the which-Cadillac [GAP], §VI); t. II p. 14 n. 2 and p. 16 (the garrison
+version of the false report, and Courteault's preference for it — §VI);
+t. II p. 19 with Courteault n. 1 ("troys jours après"; "La place capitula
+le 20 juillet" — §VI); t. II pp. 17–18 (the Breton charge — §VI dissent
+paragraph); t. II pp. 21, 24 (Gaillardet's broken contract; the sallies
+and "plusieurs jours" — §VI [NOTE]); t. II p. 22 n. 2 (Courteault's
+"c'est une erreur"; Montferrand from 14 August; "Charles VII était devant
+Bordeaux"; the 19 September assault from Escouchy and Chartier — §VI
+[NOTE]); t. II p. 24 (Bureau's battery, "faisoit tyrer l'artillerie jour
+et nuyt, tant la grosse que la menue"; the walls "fort batues et
+empirées" — §VI); t. II p. 25 with n. 2 ("prise et gaignée de bel
+assault"; "lendemain ilz se rendirent tous prisonniers"; "à la volunté de
+mondit sieur de Foix"; the Bénauges-and-Rions undertaking — §VI); t. II
+pp. 25–26 ("son homme lige et subget"; "pour ses desmerites luy fist
+trencher la teste comme à ung traystre" — §VI). NOT USED, reserved for
+ch07 per Decision 29 Choice A: t. II p. 29 (Hâ and Trompette) and
+Courteault's n. 1 at t. II p. 8 (Valpergue's *montre*; the 10,000
+francs).
+
+**Holman 2014** (T2 — entry of 2026-09-16 above). PINS NOW IN THE DRAFT:
+p. 12 (Douhet "no evidence to suggest that his work was widely known in
+Britain before the mid-1930s"); p. 23 (the near-consensus and "had
+almost become an orthodoxy" — cited at first hand, replacing the Freedman
+relay); p. 53 (interdependence over morale, "the destruction of any one
+part" disrupting "all the rest"); pp. 57, 247–48 (Wells and Montagu;
+Grahame-White and Harper 1916, "among the very first articulations";
+Groves's 1922 *Times* series and "the interwar period's most influential
+military intellectual on aerial warfare"; the near-orthodoxy "by the
+early 1930s"; Baldwin's November 1932 dictum). NEGATIVE FINDING
+RE-VERIFIED IN THE SIDECAR THIS DATE and now stated in the chapter's
+apparatus: **zero occurrences of "Belloc"** in text, notes, bibliography
+or index. NOT USED, reserved for ch12 per Decision 30 Choice A: pp.
+232–33 (Smuts → Air Ministry and RAF) and pp. 238, 239, 242 (the 1940
+administrative resolution). **Freedman 2017: 55–57** is no longer the
+carrier of the genealogy; it remains the chapter's carrier for the Tokyo
+exchange of September 1941 only.
+
+**Commynes, ed. Calmette, tome III** (T1; Calmette's apparatus T2 —
+entry of 2026-09-14 above). PIN NOW IN THE DRAFT: **p. 192** — "je ne
+croy point que l'artillerie des deux costéz tuast dix hommes et ne dura
+point le combat ung quart d'heure", with Calmette's note reporting
+Mandrot (t. II p. 282 n. 4) that the storm had wetted the powder, "la
+poudre avait été mouillée" (§VI). The earlier pin at pp. 210–11 is
+**superseded for this quotation**: those pages carry the Apennine
+recrossing. Verified in `text-2026-09-14/Commynes-tomeIII.txt`.
+
+**McNeill 1982** (T2 — entry of 2026-09-14 above). PINS NOW IN THE
+DRAFT: p. 75 ("a regular standing army of known size and capability
+emerged in the better-governed cities of Italy during the first half of
+the fifteenth century" — the civil-control concession); p. 89 ("the high
+cost of the new weapons"; "at the expense of neighbors and subjects who
+were unable to avail themselves of the new technology of war"; "to dwarf
+the Italian city-states and to reduce other small sovereignties to
+triviality"); p. 125 (the transalpine states catching up at the Fronde).
+**USE-NOTE HONOURED IN THE TEXT:** cited for the direction of the
+affordability effect and expressly not for the chapter's vocabulary, the
+distinction stated on the page.
+
+**Glete 2002** (T2 — entry of 2026-09-14 above). PINS NOW IN THE DRAFT:
+p. 39 ("Most of the earliest sailing navies were created on the European
+periphery: in Portugal, England, Denmark-Norway and Sweden"; private
+trade and shipping "of little importance for the early growth of sailing
+navies"); p. 65 ("heavy guns were capital goods, and mobile siege
+artillery required a permanent organisation of skilled men"). Both in
+§VII's closing naval question.
+
+**Tilly 1975** (T2 — entry of 2026-09-14 above, which pointed to ch. 9;
+the pins used here are from **Samuel Finer's ch. 2** and from Tilly's own
+ch. 1, in the same volume and the same sidecar,
+`text-2026-09-14/Tilly-1975-Formation-full.txt`, verified at the page
+this date; **no new work is added** — the volume was already the
+chapter's). PINS NOW IN THE DRAFT: pp. 51–52 (Tilly's endorsement, "an
+alternation of long pauses with giant steps closely following changes in
+military technology and the scale of war"); Finer at p. 93 ("More troops
+— more extraction — more troops: so a cycle of this kind could go on
+widening and deepening"); p. 104 (Castillon and Formigny, "though this
+was not realized at the time — expelled England from Europe for good" —
+and the transposition of their dates, recorded in the draft as the weak
+limb of Finer's evidence); p. 105 ("To counter the new artillery, the
+tall, thin walls of the medieval castle had to be replaced or girdled by
+low and thick ones, forerunners of the bastion"). **Tilly 1985** (same
+entry): the naval limb, "could well have shifted the military advantage
+to small maritime powers such as the Dutch Republic", in §VII's close.
+
+**Bean 1973** (T2 — carried on this file's RETRIEVAL LIST at the
+2026-09-14 block as HIGH for §VII; **the retrieval expectation is now
+CLOSED**: Richard Bean, "War and the Birth of the Nation State", *Journal
+of Economic History* 33 (1973), is in repo as
+`corpus/retrieved/Bean-War-and-the-Birth-of-the-Nation-State-JEH-1973.pdf`
+with sidecar `text-2026-09-16/Bean-…-JEH-1973.txt`, and every pin below
+was opened in it this date). PINS NOW IN THE DRAFT: p. 207 ("60 fortified
+places being reduced in 369 days", the figure taken from Oman); p. 213
+("In France in the 1440's and in Spain in the 1480's the rulers were able
+to seize these taxes as a right and thus dispense with the legislative
+bodies"); p. 220 (the nobility "subordinate to the central governments —
+the process being largely complete by 1500"); **p. 221, the closing
+paragraph** ("practically guaranteed the weakening of the feudal
+nobility, the concentration of power within each state, and the reduction
+of the number of states. However, there was no certainty as to which
+faction within the nation would control the new centralized state … That
+task remains a challenge to further research") — credited in §VII as the
+1973 statement of spine §8(g)'s mechanism/form split.
+
+**NAME VERIFICATION (CLAUDE.md §8).** The rulings sheet and Decision 29
+name "Michael Vale"; this file carries **M. G. A. Vale**, *Charles VII*
+(California, 1974) and **Malcolm Vale**, *War and Chivalry*. The draft
+reads "Malcolm Vale". The reflective document's form is not propagated.
+
+**REVIFY-OR-CUT (P43-h standing discipline), ch06: NONE.** Every
+quotation now standing in ch06/draft.md is from a work in corpus and was
+opened at the page. The one unpinned quotation found anywhere in the
+chapter's record — "Leseur grossit volontiers les chiffres", in this
+file's 2026-09-16 Leseur block — was never in the draft, is corrected at
+the page above, and has not been hardened.

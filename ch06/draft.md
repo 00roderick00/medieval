@@ -701,8 +701,34 @@ moved into Gascony — English for three centuries, and, in Rogers's
 words, "despite the deeply ingrained pro-English sympathies of the
 inhabitants," all of Guienne fell rapidly (Rogers 1993: 266). Fronsac,
 "la clef de la Guyenne," the strongest English fortress in the duchy,
-surrendered by composition on 15 June 1451 without an assault; Blaye
-went in five days; Bordeaux itself treated on 12 June and received
+surrendered by composition on 15 June 1451 without an assault, and the
+manner of it shows the *délai de secours* working at its purest.
+Guillaume Leseur, who served Gaston IV of Foix for thirty years and
+wrote the fullest narrative of the Gascon campaign — the fullest, not
+the most authoritative, and used here for narrative, mode and sequence
+only, since Henri Courteault, who edited him, judged that "aucun
+chroniqueur n'a peut-être plus de besoin d'être complété et rectifié à
+l'aide des documents diplomatiques contemporains," perhaps no
+chronicler stands in greater need of completion and correction from the
+contemporary diplomatic documents [TRANS. CLAUDE] (Leseur, ed.
+Courteault, i, Introduction p. lxxv) — records that the
+garrison had sworn, if no English army came within the term, to
+surrender Bordeaux and every other town and place of Guyenne, Bayonne
+alone excepted; and that when the eighth day came Dunois "mist tous ses
+gens d'armes en ung beau champ qu'il avoit fait clorre et préparer, et
+tindrent la bataille tout le jour, actendans les Angloys, qui
+toutesvoys n'y vindrent point" — put all his men-at-arms into a fair
+field he had had enclosed and prepared, and they held the line of
+battle all day, waiting for the English, who did not come [TRANS.
+CLAUDE] (Leseur, ed. Courteault, i. 204–5). The clause was discharged
+without a blow struck, and a duchy composed on the expiry of a relief
+day nobody contested. Blaye went in five days — and was stormed and
+sacked, "prise d'assault, et les Angloys estans en icelle mis en
+sacqueman," taken by assault and the English in it put to the sack
+[TRANS. CLAUDE] (Leseur, ed. Courteault, i. 202), which is worth
+stating plainly, because this chapter's finding that the record
+nowhere shows a sack is scoped to the Norman list and does not travel
+south with the train. Bordeaux itself treated on 12 June and received
 Dunois's army — Jean Bureau riding in the entry — on 30 June, seven
 thousand three hundred and twenty French troops in the procession
 (Vale 1969, citing Escouchy i. 356–58). The texture of the Gascon
@@ -887,6 +913,27 @@ centuries. The novelty was the lever, not the hammer. Drafting the
 claim any larger than that would hand the specialist reviewer the
 easiest rebuttal in the book; drawn at this size, it holds.
 
+The ceiling on the claim is best set by the witness with the most to
+gain from raising it. Forty-five years after Formigny the French royal
+siege train went into Italy behind Charles VIII and reduced in hours
+places that had once held for years; Philippe de Commynes rode with the
+expedition and wrote it down. Of Fornovo on 6 July
+1495, the one open battle of that campaign, he
+recorded that "je ne croy point que l'artillerie des deux costéz tuast
+dix hommes et ne dura point le combat ung quart d'heure" — I do not
+believe the artillery of the two sides killed ten men, and the fight did
+not last a quarter of an hour [TRANS. CLAUDE] (Commynes, ed. Calmette,
+iii. 192; Calmette's note reports Mandrot's explanation, that the storm
+Commynes had already described had wetted the powder). Fewer than ten
+men, from both parks together, and the most feared artillery in Europe
+with nothing to show for a quarter of an hour's work. That sentence is
+quoted here, and quoted early,
+because it is the strongest-looking evidence against this chapter and is
+not evidence against it at all. The argument has located decisiveness at
+the wall and in the exchequer throughout, and never on the field; a
+disanalogy the book states itself costs it nothing, whereas the same
+disanalogy produced against it would cost a great deal.
+
 But Formigny's largest work was legal, and it is measured in the
 instrument this chapter has already named. The relief-clause
 composition — surrender on the named day unless an English army
@@ -982,10 +1029,16 @@ CLAUDE]. Escouchy, who tells the story as a mirror-for-princes, has
 Talbot break off the mass he was hearing with the words that "never
 shall I hear the mass, or this day I shall have overthrown the company
 of the French who are in that park before me" [TRANS. CLAUDE]
-(Escouchy, ii. 38–39). The report was false — what was moving was
-camp-followers, not the army [GAP: the identity of the movers is
-carried in the tradition, not pinned in the parsed passage; verify in
-Escouchy ii. before print]. As the English column approached, an old
+(Escouchy, ii. 38–39). The report was false, and two traditions account
+for it. In the one this chapter has carried, what was moving was
+camp-followers and not the army. In the other, the report came out of
+Castillon itself: the garrison, hearing the noise of the French at work
+on their ditches, took it that the guns were being loaded for flight and
+sent at once to hurry Talbot forward — a version Courteault, editing the
+fuller Gascon narrative, prefers to Escouchy's (Leseur, ed. Courteault,
+ii. 16, with ii. 14 n. 2). Which of the two moved him the record does
+not settle; that he moved on a false report neither version disputes.
+As the English column approached, an old
 gentleman of the English nation, "qui avoit beaucoup veu des fais de
 la guerre," told Talbot plainly that the report was untrue, that the
 French stood in strength behind their works, and that he would gain
@@ -1008,7 +1061,9 @@ counter-attack broke them. Talbot's horse was brought down; he was
 killed on the ground, his skull, in Pollard's account, smashed by an
 axe — the weapon known, the hand anonymous (Pollard, ch. 1, p. 1);
 his son Lord Lisle died with him. The town of Castillon
-surrendered two days later under the continuing fire. What died on the
+surrendered three days later, on 20 July, under the continuing fire
+(Leseur, ed. Courteault, ii. 19 — "troys jours après" — with
+Courteault's note at the page dating the capitulation). What died on the
 field is easy to name and easier to over-name: not chivalry, which had
 been dying of other causes for a century, but the assumption that
 valour could still, on its own, carry a decision. The last great
@@ -1035,11 +1090,23 @@ men, killing them all," and credits the campaign's victories to the
 Bureau organisation rather than to any gun (DeVries 2002: X, 348;
 XVI, 132–33); Hall, for his part, has Talbot "unwisely attacked," and
 the guns in the park used as "something like wall-defense weapons"
-(Hall 1997: 117, 131). The calibrated modern position, then, is the
-chapter's own two-speeds discipline stated from the opposing bench:
-the guns decided sieges, and at Castillon they were fought from a
-prepared position, which is the one battlefield employment in which
-their siege virtues carried over. And the weightiest contemporary
+(Hall 1997: 117, 131). To those three must be added a contemporary who
+goes further than any of them: the fullest Gascon narrative, written for
+the count of Foix by a servant who was not on the field, has the French
+guns batter the English badly and fail to stop them coming on, and gives
+the decision after an hour of hand-to-hand fighting to a charge of fresh
+Breton lances thrown into the press where Talbot's banners stood
+(Leseur, ed. Courteault, ii. 17–18). The calibrated modern position,
+then, is the chapter's own two-speeds discipline stated from the
+opposing bench: the guns decided sieges, and at Castillon they were
+fought from a prepared position, which is the one battlefield employment
+in which their siege virtues carried over — and on the Gascon
+narrative's own showing they bought the hour of mêlée in which fresh
+reserves could be brought to bear, on ground the artillery train had
+chosen and entrenched before Talbot came in sight of it. The killing
+stroke at Castillon, as at Formigny, was delivered by men; what the
+instrument settled was where the battle would be fought and what shape
+it had to take. And the weightiest contemporary
 gives the defeat a double cause in which the guns barely figure:
 temerity, and God. Basin — who admired Talbot,
 "tanquam optimo atque probatissimo duci," the best and most proven
@@ -1167,48 +1234,142 @@ process behind it. That is the Belloc syndrome as this book will use
 the name: faith in the weapon detached from the establishment that
 makes a weapon decisive. Talbot charged the guns as if the guns were
 the thing; Belloc's captain owned the gun as if owning it were
-enough. Theirs is one mistake run in opposite directions. The
-twentieth century's prophets of the knock-out blow — the interwar
-orthodoxy that a single blow from the air would end a war, whose
-genealogy Lawrence Freedman traces through Holman (Freedman 2017:
-55–57) — belong to a different lineage, met in a later chapter, in
-which the weapon was over- rather than under-estimated.
+enough. Theirs is one mistake run in opposite directions. Interwar
+Britain's prophets of the knock-out blow belong to a different lineage,
+met in a later chapter, in which the weapon was over- rather than
+under-estimated. Their theory — that a sudden aerial bombardment of an
+enemy's cities would end a war before its armies were in the field —
+"solidified into a near-consensus among military intellectuals during the
+1920s and by the 1930s had almost become an orthodoxy, accepted and
+promoted by pacifists and militarists alike," in Brett Holman's account
+of it (Holman 2014: 23); and the word to hold on to is *almost*, because
+the near-orthodoxy of a British debate is a smaller and better-evidenced
+thing than an orthodoxy of the century. Nor was their error a simple
+faith in blast. What they feared most was the fragility of an
+interdependent industrial society, "the destruction of any one part"
+disrupting "all the rest" and making civilised life impossible — a fear
+Holman says weighed with them more than the shattering of civilian
+morale (Holman 2014: 53) — so that what they failed to price was not
+the process behind their own instrument but the defender's: the capacity
+to warn, shelter, disperse, repair and re-house. That is a different
+error from Talbot's and from Belloc's captain's, and the chapter keeps
+it separate.
+
+[NOTE: the genealogy is Holman's and is cited here at
+first hand, Freedman, from whom an earlier state of this chapter took it
+at second, remaining its carrier only for the Tokyo exchange of
+September 1941. H. G. Wells and Lord Montagu of Beaulieu laid the
+foundations from the late 1900s; Claude Grahame-White and Harry Harper
+in 1916 produced what Holman calls "among the very first articulations
+of the knock-out blow theory";
+P. R. C. Groves, from a series of articles in *The Times* in 1922,
+"became the interwar period's most influential military intellectual on
+aerial warfare" and, with those who followed him, "turn[ed] the
+knock-out blow into a near-orthodoxy by the early 1930s"; Baldwin's "the
+bomber will always get through" of November 1932 canonised it (Holman
+2014: 57, 247–48). Giulio Douhet, whom the general reader expects at the
+head of the line, is displaced from it: "there is no evidence to suggest
+that his work was widely known in Britain before the mid-1930s, by which
+time the theory of the knock-out blow was well-established" (Holman
+2014: 12). And the negative finding is set down so that a reader who
+checks finds the book checked first: Belloc appears nowhere in Holman —
+text, notes, bibliography or index — so the two halves of this mirror
+have no source in common, and no sentence in this book gathers Talbot,
+Belloc's captain and the bomber prophets into a single syndrome.]
 
 The mopping-up of 1453 completes the evidentiary set, because it
 contains both the census's one genuine exception and its most
-instructive conclusion. The town of Cadillac, held against the king
-after the revolt, is the one place in the record this book has read
-that was taken by storm through a breach — and the exception proves
-the rule with almost pedantic care, twice over. The storm was
-manufactured by the train first: Escouchy describes the biggest
-bombards of the Bordeaux siege deliberately laid to fire "tous
-ensamble et à une fois" — all together, in a single discharge [TRANS.
-CLAUDE] — against the outwork, then the massed guns turned on the
-gate-tower and wall until the rubble filled great stretches of the
-moat, the attackers each carrying a faggot to the ditch, and only
-then the assault cry, on Wednesday 19 September (Escouchy, ii.
-64–66). And the storm took the town only: the English withdrew into
-the castle, "moult fort et puissant," offered ten thousand écus to
-march out with white staves in their hands, were refused by a king
-who said he had money enough and meant to have them at his will,
-watched the heaviest guns of the Bordeaux siege brought up and laid
-against the castle, and made terms — the English to ransom, the
-Gascons among them left to the king's pleasure (Escouchy, ii. 66–67
-[TRANS. CLAUDE]). Even the one storming in the record is a
-bombardment wearing an assault's clothes, and even it ended, where it
-mattered, in composition; and it was reserved for a place under
-punitive terms, whose captain the king had executed (Vale 1969; 1974:
-140; Hall 1997: 118). The contemporary account and the two modern
-ones do not agree in every particular, and are set down here as they
-stand: Escouchy's storm of the town on Wednesday 19 September — the
-day of the week is right for the date — with the castle's treaty
-following; Hall's eight days of bombardment ending in "complete
-capitulation on 27 September" and the captain's execution, a date
-that matches the capitulation of neighbouring Benauges under the same
-treaty (Hall 1997: 118; Escouchy, ii. 67 n.); and Vale's 17 September
-for the exemplary execution, from a payment record, which the other
-two do not reconcile (Vale 1974: 140) [RE-CHECK AT PRESS: the 17
-September date against the record Vale cites]. Bordeaux
+instructive conclusion. The town of Cadillac, whose Gascon captain had
+contracted to hand it over to the count of Foix and then declined to,
+is the one place in the record this book has read that was taken by
+storm through a breach — and the exception proves the rule with almost
+pedantic care, twice over. The storm was manufactured by the train
+first. Trenches and mines were driven up to the ditch, a bombard was
+laid against the gate of the boulevard and heavy culverins assorted to
+sweep the length of the wall, and Jean Bureau, whom the king had sent
+forward from Montferrand to reinforce the siege, "faisoit tyrer
+l'artillerie jour et nuyt, tant la grosse que la menue" — kept the
+artillery firing night and
+day, the great pieces and the small — until the walls and the outer
+works were "fort batues et empirées," badly battered and made worse
+[TRANS. CLAUDE] (Leseur, ed. Courteault, ii. 24); Escouchy adds that the
+biggest bombards of the Bordeaux siege were deliberately laid to fire
+"tous ensamble et à une fois" — all together, in a single discharge
+[TRANS. CLAUDE] — against the outwork, and that the rubble filled great
+stretches of the moat, each attacker carrying a faggot to the ditch,
+before the assault cry went up on Wednesday 19 September (Escouchy, ii.
+64–66). Only then did the ladders go into the ditch. And the storm took
+the town only: the English who could get away fell back on the castle,
+which composed the next day, the garrison surrendering as prisoners
+(Leseur, ed. Courteault, ii. 25). Even the one storming in the record is
+a bombardment wearing an assault's clothes, and even it ended, where it
+mattered, in composition.
+
+Three things in that sequence have been mis-set in the modern accounts,
+and correcting them matters, because the census's one exception ought to
+be the best-attested entry in it and not the worst. The siege was
+not Dunois's and the king was not at it: it was the count of Foix's, as
+Charles VII's lieutenant, the king being before Bordeaux when Cadillac
+capitulated. The captain, Gaillardet, was not executed by the crown. He
+had surrendered "à la volunté de mondit sieur de Foix," to the count of
+Foix's will, who would grant him no other terms; and because he was of
+the count's own country, "son homme lige et subget," his liegeman and
+subject, and had broken his sworn faith, it was the count who "pour ses
+desmerites luy fist trencher la teste comme à ung traystre," had his head
+struck off for his deserts as a traitor's [TRANS. CLAUDE] (Leseur, ed.
+Courteault, ii. 25–26). That is a smaller thing than the crown's
+punitive reach, which is what this chapter had drawn from it, and a more
+interesting one: the head came off by the judgement of an intermediate
+lord enforcing homage, inside a royal campaign that had mustered his
+private levy and paid part of it. And the storm was not, as one modern
+account has it, the end of eight days' bombardment concluding on 27
+September; that date belongs to the neighbouring place of Bénauges,
+whose surrender Cadillac's defenders undertook to procure under the same
+treaty. [NOTE: the fullest narrative of the siege is Leseur's, at t. II
+pp. 20–26, and its adjudicating value lies in Courteault's apparatus
+rather than in the chronicler, who is Gaston IV's panegyrist and
+distributes every honour to his master. Of Escouchy's giving the whole
+honour of the siege and the capture to Dunois, Courteault writes flatly:
+"c'est une erreur" (ii. 22 n. 2), adding that Charles VII had installed
+himself at Montferrand on 14 August, whence he sent Jean Bureau forward
+to reinforce the count of Foix, and that at the moment of the
+capitulation "Charles VII était devant Bordeaux". The 19 September
+assault date is Courteault's too, from Escouchy and Chartier (ii. 22
+n. 2, 25 n. 2), so Escouchy is right on the mode and the date and wrong
+only on the command. The 27 September date is Hall's (Hall 1997: 118),
+and Courteault's note at ii. 25 n. 2 records that Cadillac's defenders
+"s'engagèrent à procurer la reddition de Bénauges et de Rions" —
+undertook to procure the surrender of Bénauges and Rions [TRANS. CLAUDE]
+(Escouchy, ii. 67), which is where 27 September belongs. Malcolm Vale's
+sentence, that
+on Foix's arrival at the place the garrison surrendered and the captain
+was executed on the king's orders, is the reverse of what stands at the
+page he cites for it: "Leseur, ir, 19" is t. II p. 19, which carries the
+aftermath of Castillon; the Cadillac narrative begins at p. 20, and on
+the count's arrival Gaillardet neither kept his contract nor
+surrendered, the English sallying and the siege running several days
+(Vale 1974: 140; Leseur, ed. Courteault, ii. 21, 24). One passage is
+cut rather than harmonised: Escouchy's fuller negotiation for the
+castle — ten thousand écus offered for a march-out with white staves in
+their hands, refused by a king who said he had money enough and meant to
+have them at his will, the heaviest guns of the Bordeaux siege then
+brought up and laid against it (Escouchy, ii. 66–67) — cannot stand as
+written, since Courteault places Charles VII before Bordeaux throughout;
+it is not transferred to the count of Foix, because no source consulted
+here does so.]
+
+What no source consulted here supplies is a calendar date inside the
+siege narrative itself. Leseur gives none, and the 17 September on which
+Vale places the exemplary execution, from a payment record, cannot rest
+on him [RE-CHECK
+AT PRESS: the 17 September date against Escouchy ii. 56 and the payment
+record Vale cites — the mode, sequence, commander, executioner and
+reason are settled and are not at issue]. [GAP: which Cadillac. Courteault
+footnotes the place as Cadillac-en-Fronsadais at t. I p. 205 n. 1 and
+t. II p. 6, and his own note at t. II p. 25 groups it with Bénauges and
+Rions, which lie on the Garonne. The chapter asserts neither.]
+
+Bordeaux
 itself, blockaded by land and river — sixteen ships from La Rochelle
 cleared its naval outwork on 8 October, closing the river Bureau's
 Castillon advice had been about — treated at Lormont and Montferrand
@@ -1229,7 +1390,7 @@ in the city deferred the handover; and French troops entered on 19
 October 1453. The Hundred Years War, by the convention historians
 observe, ended there, leaving Calais as England's last continental
 holding. Even then the composition system showed its edges: the
-garrisons of Benauges and Rions, included in the treaty's provisions,
+garrisons of Bénauges and Rions, included in the treaty's provisions,
 refused point-blank to honour them and had to be dealt with
 separately (Escouchy, ii. 77 ff.) — a reminder, recorded by the same
 witness, that a surrender instrument bound only those who believed
@@ -1321,6 +1482,101 @@ that Burgundy was not a subject but a rival consolidator, that its
 train did not save it, and that what failed there was not the guns but
 the fisc beneath them.
 
+This is the point at which the book's word for what happened had better
+be defined, because it has been used loosely and is about to be asked to
+carry Part III. The ratchet is not a claim that artillery invented state
+control of organised force, and it is not a claim that a capital-
+intensive monopoly of violence can only be built out of guns. It is a
+claim about scale, and about the end of the small sovereign: after the
+middle of the fifteenth century the minimum standing cost of a decisive
+instrument rose past what a province, a city, a league or a great lord
+could carry, and the polities below that line ceased to be able to
+defend themselves on their own account, whatever their walls or their
+tactical skill. Artillery is the French form of that effect and not its
+definition. William McNeill states the direction at world-historical
+scale, and states it of the weapon rather than of the establishment —
+his words are "the high cost of the new weapons," which is not this
+chapter's formulation and is not offered as though it were — when he
+writes that the power of any ruler able to afford that cost "was
+therefore enhanced at the expense of neighbors and subjects who were
+unable to avail themselves of the new technology of war," the major
+effect in Europe being "to dwarf the Italian city-states and to reduce
+other small sovereignties to triviality" (McNeill 1982: 89). The
+concession that travels with him is one the chapter is glad to make,
+because it disciplines the claim. Civil control of contracted force was
+not an achievement of the guns and was not French. It was Italian, and
+it was earlier: "a regular standing army of known size and capability
+emerged in the better-governed cities of Italy during the first half of
+the fifteenth century," by muster, review and contractual terms of
+service, before any of this mattered (McNeill 1982: 75) — and on his
+account the transalpine states did not reach that standard of
+administrative control over armed force until the Fronde was put down
+two centuries later (McNeill 1982: 125). What the guns did to Italy was
+not to teach it administration but to make its scale insufficient. That
+is the ratchet, stated at the strength the record will bear.
+
+Stated at that strength, it is also not new, and the chapter had better
+say whose it is before a reviewer does. Two predecessors have most of
+it. Samuel Finer, in the volume Charles Tilly edited in 1975,
+periodises European state-building by weapon, states the fiscal engine
+as a cycle — "More troops — more extraction — more troops: so a cycle
+of this kind could go on widening and deepening" (Finer, in Tilly 1975:
+93) — names the counter-measure Chapter 10 has to answer
+— "To counter the new artillery, the tall, thin walls of the medieval
+castle had to be replaced or girdled by low and thick ones, forerunners
+of the bastion" (Finer, in Tilly 1975: 105) — and gives the cannon the
+constitutional consequence outright: "Castillon and Formigny — though
+this was not realized at the time — expelled England from Europe for
+good" (Finer, in Tilly 1975: 104). Tilly, who is usually cited against
+technological accounts of state formation, endorsed it in his own
+introduction, finding in the volume's papers "an alternation of long
+pauses with giant steps closely following changes in military technology
+and the scale of war" (Tilly 1975: 51–52). And Richard Bean, two years
+earlier, had the cannon dated to the middle of the fifteenth century,
+the Norman reduction — "60 fortified places being reduced in 369 days,"
+a figure he takes from Oman (Bean 1973: 207) — the fiscal appropriation,
+"In France in the 1440's and in Spain in the 1480's the rulers were able
+to seize these taxes as a right and thus dispense with the legislative
+bodies" (p. 213), and the nobility "subordinate to the central
+governments — the process being largely complete by 1500" (p. 220).
+What is left to this book
+is narrower than the claim is usually made to sound, and it is a
+difference of explanandum, not of hypothesis. Finer's variable is the
+military
+format and the style of rule it produces; Bean's is the size and the
+number of states, on a cost curve borrowed from the theory of the firm,
+so that "States larger than the optimal range tend to disintegrate, and
+those smaller tend to be absorbed" (Bean 1973: 204) — which is why the
+objections that tell against him are maps. Tilly made exactly that
+objection, holding that "the persistence of large but loosely knit
+Poland and Russia render ambiguous the claim of a significant increase
+in geographic scale" (Tilly 1985). This
+chapter's variable is neither: it is the irreversibility of a fiscal
+settlement and the closure of the sub-state path to decisive force
+inside a polity that goes on existing, which no map refutes and only a
+reversed settlement or a replicated instrument could. Bean himself
+marked the boundary, in the last paragraph he wrote. The changes in the
+art of war, he concluded, "practically guaranteed the weakening of the
+feudal nobility, the concentration of power within each state, and the
+reduction of the number of states. However, there was no certainty as to
+which faction within the nation would control the new centralized state
+… That task remains a challenge to further research" (Bean 1973: 221).
+The distinction this book draws between a consolidation that is
+predictable and a constitutional form that is not was therefore drawn in
+the *Journal of Economic History* in 1973, and is credited there. What
+the book adds to Finer and Bean is not a better hypothesis but a
+demonstration: Finer's two French paragraphs transpose the two battles,
+dating Castillon to 1450 and Formigny to 1453, and carry the tradition
+that the "Estates had in 1439 voted Charles VII the *taille*" (Finer, in
+Tilly 1975: 127), a tradition the revisionist scholarship has dismantled
+and Chapter 10 does not use; Bean's French
+evidence is a sentence and a figure taken from Oman. Against that stand
+the 1442 procurement
+programme, the Bureau service, the Somerset census and the composition
+grammar of a hundred entries. That is the difference between a
+hypothesis and a demonstration, and it is the only novelty this chapter
+claims.
+
 The gradualist objection deserves the same respect. Curry has warned
 that "the military revolution has been a moveable feast" (Curry 2010:
 171) — a concept stretched over so many centuries and so many
@@ -1404,6 +1660,32 @@ standing cost, denominated in guns, wages and taxes, and the only
 entities that could carry it were the ones we would shortly begin
 calling states.
 
+One question the chapter bequeaths unanswered, and it should be posed
+here rather than left to be found. If artillery is only the French form
+of a capital-intensity effect, then which form a given instrument takes
+decides who ends up holding it, and the forms do not all point the same
+way. Navies were the most capital-intensive and the most completely
+state-owned military organisations early modern Europe built, and they
+did not consolidate the great territorial powers first: "Most of the
+earliest sailing navies were created on the European periphery: in
+Portugal, England, Denmark-Norway and Sweden," and private trade and
+shipping interests counted for little in their growth (Glete 2002: 39).
+They were capital goods on the same terms as the siege train — "heavy
+guns were capital goods, and mobile siege artillery required a permanent
+organisation of skilled men" (Glete 2002: 65) — and they nonetheless
+armed the periphery rather than the centre. Tilly made the same point
+against the artillery thesis from the
+other side, observing that the increasing decisiveness of naval warfare
+"could well have shifted the military advantage to small maritime powers
+such as the Dutch Republic" (Tilly 1985). Whether the compute-led stack
+of our own decade behaves like artillery, which rewarded the largest
+fiscal base and extinguished the small sovereign, or like the navy, which
+for a century and a half sustained a small one against much larger
+neighbours, is not settled by anything in this chapter, and the parts of
+this book that follow do not treat it as settled. It is among the
+sharpest tests the wager admits, and Part III states it as a test rather
+than answering it here.
+
 There is, however, a nearer consequence, and it sailed for England in
 the ships that carried the compositions' beneficiaries home. The
 garrisons that signed at Rouen and Caen and Cherbourg marched out
@@ -1423,26 +1705,48 @@ chapter's business.
 
 ---
 
-*Draft ends. Word count ~11,000. Voice-discipline ledger (§8): coined
+*Draft ends. Word count ~17,800 of main text (20,440 with this footer
+and the Revisions); 14,742 → 17,805 at Phase 6 (2026-09-29), the whole
+file 16,611 → 20,440.
+Voice-discipline ledger (§8): coined
 concept — the* time value *of fortification (§II); vivid image — the
 castle as a clock wound against the future (§II); aphoristic line —
-TWO now counted as produced, against a ration of one: "The walls
+TWO counted as produced, against a ration of one: "The walls
 did not fall because they were pushed. They fell because they were
 priced." (§V) and "Decisive force is decisive" (§V, entered on the
 spine §8(e)(5) ruling) — the cut between them is Roderick's
-[FLAGGED, Phase 4 Run A]. One [BRIDGE] passage (§VII). [TRANS. CLAUDE]
-markers: Contamine ×2, Blondel ×4, Escouchy ×8. [GAP] flags: the Castillon false-report movers; the 1451 Bordeaux
+[FLAGGED, Phase 4 Run A]. Phase 6 added NO coinage, NO image and NO
+aphorism, per instruction; the §VII ratchet paragraph defines an
+existing book-level term and does not coin a competitor to it, and the
+Fornovo, Cadillac and Holman passages are written flat by design.
+One [BRIDGE] passage (§VII), untouched. [NOTE: …] is introduced at
+Phase 6 as the drafting marker for material destined for an endnote at
+assembly — two instances, both in §VI: Holman's genealogy with the
+Belloc negative finding, and Cadillac's adjudication (which also carries
+the Escouchy castle-negotiation passage cut rather than harmonised).
+[TRANS. CLAUDE]
+markers: Contamine ×2, Blondel ×4, Escouchy ×8 (one of them now inside
+the rewritten Cadillac passage), Leseur ×6, Commynes ×1.
+[GAP] flags: the *De Reductione* print page (§V); the 1451 Bordeaux
 terms and the Talbot jubilee stipulation (Vale's monograph; Pollard at
-page level). Closed at Phase 5 (2026-09-16): the Rouen 1418–19 detail
+page level); and, opened at Phase 6, which Cadillac is meant —
+Cadillac-en-Fronsadais or Cadillac-sur-Garonne — Courteault's own notes
+disagreeing, the chapter asserting neither (§VI). Closed at Phase 5 (2026-09-16): the Rouen 1418–19 detail
 (re-pinned to Barker, the number cut), the tipping-point chronology
 (Rogers ed., Hall, DeVries), the English Heritage T3 line (Hall p. 14),
-the Cadillac discrepancy (resolved at Escouchy for mode and date;
-Vale's 17 September left [RE-CHECK AT PRESS]), the Howard [UNVERIFIED]
+the Howard [UNVERIFIED]
 (restaged on his pp. 30–31), the Freedman/Belloc [GAP] (both now in
-corpus and cited). [RE-CHECK AT PRESS]: the 50,000 saluts against
+corpus and cited). Closed at Phase 6 (2026-09-29): the Castillon
+false-report movers (two traditions now named and pinned, camp-followers
+and the garrison, with Courteault's preference recorded — §VI).
+[RE-CHECK AT PRESS]: the 50,000 saluts against
 Stevenson; Honfleur/Harfleur against Barker; Basin's Castillon pins
-against Samaran's tome II; Vale's Cadillac date.
-Somerset-list partisanship noted in §I. No claim beyond
+against Samaran's tome II; and, NARROWED at Phase 6, the 17 September
+date for Gaillardet's execution against Escouchy ii. 56 and the payment
+record Vale cites — Cadillac's mode, sequence, commander, executioner and
+reason for execution are now settled and are no longer at press.
+Somerset-list partisanship noted in §I; Leseur's panegyric bias stated
+at his one naming in §V and again in the §VI note. No claim beyond
 the reviewed memo, probe file, critiques and quotation bank.*
 
 ## Revisions (post-review, 2026-07-31)
@@ -1658,7 +1962,56 @@ REVIEW
     and the book's label, not a coinage; the two aphorisms stand as
     before, the cut still Roderick's. Word count: 13,734 → see memo.
 
+11. **(2026-09-29 — Phase 6 renovation: Decisions 10, 18, 24, 29, 30 of
+    the rulings of 29 September. PENDING HUMAN REVIEW.)** The full
+    record — every sentence changed, old and new, with its pin — is memo
+    Revisions 37, with a dedicated section on the Cadillac paragraph.
+    In brief: **§VI's Cadillac paragraph rewritten around Leseur's
+    sequence** (Decision 29, Choice A) — the town carried by storm after
+    battery night and day under Jean Bureau, the castle composing the
+    next day and the garrison surrendering as prisoners, and the
+    captain Gaillardet beheaded not by the crown but by Gaston IV of
+    Foix as his own perjured liegeman; the siege restored to the count
+    of Foix as the king's lieutenant, with Courteault's "c'est une
+    erreur" on Escouchy's Dunois, Hall's 27 September reassigned to
+    Bénauges, and Vale's reversed pin, all carried in a [NOTE]; the
+    three-account display demoted from the running text; the press flag
+    narrowed to the 17 September date alone; the which-Cadillac question
+    opened honestly as a [GAP]. **Leseur named once in the running text,
+    at §V, and kept out of §VI's**, per Roderick's qualification —
+    reasons in the memo. Also from Decision 29: Castillon's surrender
+    corrected from two days to three (20 July); the false-report [GAP]
+    closed by naming two traditions, camp-followers and the garrison;
+    the Breton charge carried in §VI's dissent paragraph in the text,
+    not a note; Fronsac's unfought relief day and Blaye's sack entered
+    at §V, the census's zero-sack finding re-scoped to the Norman list.
+    **§VI's Belloc mirror recast on Holman at first hand** (Decision 30,
+    Choice A): Holman 2014: 23 cited directly, the Freedman relay
+    dropped, the "almost"/"near-" hedge restored, "the twentieth
+    century's" narrowed to interwar Britain, the genealogy's authors
+    named in the [NOTE] with the Douhet displacement, Holman's own
+    diagnosis (interdependence over morale, p. 53) carried in a clause,
+    and the negative finding stated — Belloc appears nowhere in Holman,
+    so the mirror's two halves have no source in common. **Commynes's
+    Fornovo sentence entered at §VI** at p. 192 with the wet-powder note
+    (Decision 24) as the field disanalogy the chapter states against
+    itself. **§VII gains the ratchet defined** as scale and the end of
+    the small sovereign, the French form of a wider capital-intensity
+    effect; McNeill named for the direction and not for the vocabulary,
+    with the concession that civil control of contracted force was an
+    Italian achievement of the early fifteenth century; **Finer and Bean
+    named as predecessors** and answered on the explanandum, Bean's
+    closing paragraph credited as the 1973 statement of the
+    consolidation/form split; **the naval question posed once at the
+    chapter's close** (Glete 2002: 39, 65; Tilly 1985) so that §VII's
+    bequest does not imply it is settled (Decision 10, Choice A).
+    Decision 18: NIL FINDING — this chapter contains no instance of
+    "legible" or "legibility", casual or technical. Voice ledger: no new
+    coinage, image or aphorism; counts unchanged and the cut between the
+    two aphorisms still Roderick's. Word count: 14,742 → 17,805 of main
+    text; whole file 16,611 → 20,440.
+
 ---
 
-STATUS note: Revisions 8 (Phase 3), 9 (Phase 4 Run A) and 10 (Phase 5)
-PENDING HUMAN REVIEW within the otherwise reviewed draft.
+STATUS note: Revisions 8 (Phase 3), 9 (Phase 4 Run A), 10 (Phase 5) and
+11 (Phase 6) PENDING HUMAN REVIEW within the otherwise reviewed draft.
