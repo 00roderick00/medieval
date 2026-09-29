@@ -2364,3 +2364,336 @@ should be resolved before the next assembly, so that a reader does not take
 three copies for three units of work.
 
 STATUS (2026-09-28 intake Revisions): PENDING HUMAN REVIEW.
+
+---
+
+## Revisions (2026-09-29 — Phase 6 renovation, Part B5: Decisions 4, 10, 18, 27, 28. PENDING HUMAN REVIEW)
+
+*Filed by the Appendix C unit of the Phase 6 renovation, on Roderick's
+rulings of 29 September 2026 (research/rulings-2026-09-29-sheet-III.md;
+spine §8(i)) and the Part B5 tasking. Choice A on every decision applied,
+with Decision 27's qualification governing the order of work: "of its
+parts the separate Appendix C score for the foundry is the one that
+matters most, because it is the only version of the concession that can be
+proved wrong." Files touched: appendix-c/appendix.md and this memo only.
+Word count of appendix.md: 9,289 before, 13,134 after. Every pin below was
+opened at its sidecar this date; the memos were the map and the sources
+the authority. All Lepore pins are provisional — a phone capture, our own
+OCR, no imprint, place or year — and are given as printed page / PDF page.*
+
+### 1. The new indicator: C10-4, foundry pricing power (Decision 27, row (jj); promotes CC-8)
+
+Entered in Part III immediately after C10-2, in the four-bloc, four-level
+form. The row measures whether the decisive layer's suppliers keep the
+power to set their own terms after the private-force layer has been
+commissioned — McNeill's lag, stated so that it can be lost.
+
+**Baseline status, per bloc and per level.**
+
+| Bloc | Concentration limb (operating capacity) | Terms limb (operating capacity — the row's decisive level) | Enacted limb (the state's power over terms) |
+|---|---|---|---|
+| United States | DATED at C10-2 (SIA/BCG 2021 snapshot; one EUV supplier) | **NEEDS BASELINE** | DATED, and pointing both ways — the August 2025 grant-to-equity conversion (C10-1); the VEU revocations of 2 September 2025 (90 FR, doc. 2025-16735) as power over a client's access, not a supplier's terms; the H200 revenue arrangement as the inverse (NEEDS VERIFICATION, CA-6) |
+| China | DATED 2017–18 (Cheung 2022, p. 115) — the inverse case, pricing power inside the state; scored on three levels | **NEEDS BASELINE** | n/a at the fourth level by construction; the licence grip is the enacted form (Cheung p. 115) |
+| Europe | DATED at the supplier level (C10-2; the only EUV position) | **NEEDS BASELINE** | **NEEDS BASELINE** — no European instrument over the enabling supplier's terms is sourced |
+| India | NO BASELINE — not scored | NO BASELINE — not scored | NO BASELINE — not scored |
+
+**Pins carried, all opened at `text-2026-09-14/McNeill.txt`.** p. 113 —
+Liège an armaments centre "only after 1492 when the bishopric disarmed and
+officially proclaimed itself neutral"; rulers "had to withdraw their
+soldiers and let the market again come freely into play"; "Their very
+weakness thus allowed the Liégeois to set their own prices. Even the
+mightiest rulers had to pay what was asked, or do without"; Philip II
+"knew how to tax and how to confiscate just as effectively as Chinese and
+Islamic officials did" and his cannon factories "always failed to
+flourish". p. 114 — the condition, jurisdictional refuge: so long as "no
+single political command structure could reach out to every corner of
+Latin Christendom … the sovereignty of the market over even the greatest
+ruler of the age remained an ultimate reality". Master entry: ch06
+sources.md (the McNeill block of 2026-09-14, pins now in the ch06 draft);
+ch03, ch04, ch02, ch05 and ch08 carry the same work at other pins.
+
+**Two findings this row produced that the candidate did not have, and one
+correction.** (i) **The lag's closing date is in McNeill and had not been
+read**: "After 1794, when the French annexed Liège, gunmakers of that
+city, the most practiced of all Europe, were compelled to upgrade their
+performance by the new French inspectors" (p. 166 n. 28 — the printed page
+established from the running heads at 165 and 167 in the sidecar), the
+city thereafter contributing to the French war effort under Paris's
+jurisdiction (p. 213, confirmed at the index entry "Liège, 113, 122, 160,
+166, 176, 177, 213"). The refuge closed by annexation, not by competition,
+which is exactly the book's own answer to the risk and is now dated rather
+than asserted. (ii) **The lag is therefore about three centuries, not
+two.** Against the subordination of the armed intermediaries "largely
+complete by 1500" (Bean 1973, p. 220; ch06 sources.md), 1492–1794 is three
+centuries. **CORRECTION MADE:** appendix.md's rebuild of 16 September said
+"McNeill's Liège held its price for two centuries after the barons were
+commissioned"; the figure is not McNeill's and his own dates do not
+support it. The sentence is replaced and the correction stated on the page
+at C10-4, per the re-dating rule's spirit (rule 4): a figure corrected
+against its own pin is recorded, not silently amended.
+
+**The falsifiers, as entered.** (i) A bloc that brings its suppliers'
+terms under state control *at the same time as, or before*, it
+subordinates the contractor class scores against the book — the historical
+case separates the two by centuries, and simultaneity is a different
+mechanism, not this one running faster. (ii) If the suppliers' pricing
+power ends because rivals arrive rather than because a state closes the
+refuge — the leading-node count rising materially above four at C10-2 —
+the concentration premise fails with condition 1 and this row fails with
+it, and the outcome may not be re-read as the state's victory. The row is
+**not scored in either direction until the terms limb has a baseline**.
+
+**What could not be done at the pin.** No dated margin, price or
+contract-terms series for leading-node fabrication, launch or
+frontier-model provision exists in the reviewed record. The nearest
+figures in the chapter record — TrendForce's TSMC foundry share for 2025,
+at ch10 sources.md's T3/T4 pointer list — have no sidecar and were not
+opened, so they are not carried; per the standing rule a figure enters
+appendix.md only from a sidecar this unit opened. The terms limb is
+therefore NEEDS BASELINE for all four blocs, and the retrieval this row
+wants is named in the appendix's closing list.
+
+### 2. Scoring rule 5(d) — re-consolidation with the state as client coded as failure (Decision 27, row (oo))
+
+Rule 5's heading becomes "Four coding rules for the absorption rows" and
+gains (d). Pins opened at `text-2026-09-14/Wu-MasterSwitch.txt`, ch. 18
+(the chapter boundary confirmed from the sidecar's CHAPTER markers):
+Whitacre "largely reconstituting the Bell system that Theodore Vail had
+founded"; Pacific Telesis 1997 and BellSouth 2006, so that "after a decade
+of consolidation, his new Bell system covered most of the country"; July
+2008, Congress granting "full and retroactive immunity"; and "the
+reconstituted giants of telephony are closer to possessing a master switch
+than Vail himself could have dreamed". The statute is cited **as given at
+Wu's n. 20** — the FISA Amendments Act of 2008, Pub. L. 110-261 — and is
+expressly **not** cited as consulted, because it is not in the corpus.
+The rule states that services rendered and immunity granted is the client
+relation and not the principal's, that the coding holds *even where the
+reconstituted firm is more useful to the state than its fragments were*
+(which is what this failure mode will look like), and that it is scored
+against the American route at CA-4, CA-7 and C11-1. The two existing
+references to "rule 5(c)" for the reconstitution outcome (C11-1's failure
+modes; Part V's scoring rule) are re-pointed to 5(d); rule 5(c) keeps the
+capture-by-licence reading, which is Wu ch. 9.
+
+**What could not be done at the pin.** The 1913 half of the same series —
+the Kingsbury Commitment as the counter-directional case inside the
+twelve-case range — is characterised from Wu ch. 3 and **not quoted here**:
+Decision 27 places Kingsbury in ch12's note, and its primaries (the
+Mann–Elkins Act, the Kingsbury letter) are not in the corpus. The appendix
+records that absence rather than borrowing Wu's sentences into the
+apparatus.
+
+### 3. Scoring rule 8 — the window rule (Decision 10, sub-choice B73-c)
+
+Entered as a rule rather than an indicator, because the question is about
+what the wager is on rather than about a per-bloc series, and because the
+measurable part of it already exists at C10-2. Pins: Bean 1973, pp.
+207–08, opened at `text-2026-09-16/Bean-…-JEH-1973.txt` — "more than fifty
+years passed before the art of fortification caught up with the new
+techniques of siege-craft, but by the second decade of the sixteenth
+century, the balance was again in favor of the defense", and the defensive
+era holding "until the end of the eighteenth century"; the fortification
+scale point at p. 208 ("many fewer places in Europe after 1525 A.D. with
+effective fortification") is in the chapter's hands, not this appendix's.
+For the settlement outlasting the window: Tilly 1990, p. 25, opened at
+`Tilly-Coercion-Capital-1990-ocr.txt` — no European state "made a serious
+attempt to institute direct rule from top to bottom until the era of the
+French Revolution" (ch10 sources.md holds the entry). The rule states
+three things: (a) the wager is on the settlement and not on the
+capability; (b) the window's closing is not by itself a falsifier, and the
+line between proliferation *inside* the horizon (condition 1 fails, scored
+at C10-2) and proliferation *after* a settlement is made (irreversibility
+tested; only a settlement reversed falsifies) is drawn now so that it
+cannot be drawn afterwards; (c) **the book does not predict the window's
+length and the quantity NEEDS BASELINE** — no dated forecast of how long
+leading-node and frontier-model advantage lasts is in the reviewed record,
+so Bean's sixty years is stated as the proportion the first run exhibited
+and not as a term claimed for the second. Roderick's addition to Decision
+10 — that only the large fiscal bases can make the next consolidation move
+— is the Coda's and ch12 §IV's to carry in his words; the appendix already
+scores it as the four-bloc rule (rule 1) and adds nothing of its own.
+
+### 4. Condition 1 named the Scott scenario (Decision 18, row (rr) and the "legible" half of (bbbb))
+
+A paragraph beneath §I's conditions table, and the table's condition-1 row
+now reads "…— **the Scott scenario**", with C10-4's falsifier (ii) added to
+its instruments. Pins opened at `text-2026-09-14/Scott.txt`: p. 4, the
+"pernicious combination of four elements"; p. 5, the recipe in full ("the
+legibility of a society provides the capacity for large-scale social
+engineering, high-modernist ideology provides the desire, the
+authoritarian state provides the determination to act on that desire, and
+an incapacitated civil society provides the leveled social terrain on
+which to build"); p. 221, his own concession that "centralized
+high-modernist solutions can be the most efficient, equitable, and
+satisfactory for many tasks", naming "space exploration, the planning of
+transportation networks, flood control, airplane manufacturing" — the
+decisive stack's own register, and the reason the appendix does not treat
+the scenario as its expectation. Master entry: ch12 sources.md. Two
+disciplines travel with the naming, both from that entry's use-note: the
+book predicts the first and third elements combining in at least one bloc,
+and **formalising his micro-social resistance at bloc scale is the book's
+own move**, marked as such on the page rather than absorbed.
+
+### 5. Lepore against DC-1..4 (Decision 28, rows (rrrr) and (ssss)) — design notes only, nothing scored
+
+Entered as (i) one shared paragraph at the head of Part IV stating the
+optimistic case once, and (ii) a dated design note on each of DC-1, DC-2,
+DC-3 and DC-4. Rows changed and their baseline status:
+
+- **DC-1 (elections).** Baseline unchanged — the Hague pledge, DATED; the
+  fuller register still NEEDS BASELINE. Added: the optimistic case names
+  elections as a right and produces no worked instance of one redirecting
+  a stack commitment (printed p. 226 / PDF p. 242).
+- **DC-2 (legislatures).** Baselines unchanged — NDAA FY2026 and the
+  co-decided European regulations DATED at enacted authority; the
+  enforcement limb still NEEDS BASELINE. Added: the same design line for
+  legislation; **the Office of Technology Assessment entered as a CANDIDATE
+  anti-baseline, NOT SCORED, marked NEEDS PRIMARY FOR THE DATE** (printed
+  p. 70, running head illegible / PDF p. 81); and her six assessment
+  questions entered as a **coding rubric, not an indicator** (printed p.
+  227 / PDF p. 243).
+- **DC-3 (courts).** Baseline unchanged — the Anthropic injunction the one
+  American instance coded as remedy, DATED. Added the design line for
+  judicial enforcement.
+- **DC-4 (public substitutes).** Baselines unchanged — the Intel stake and
+  the NDAA authorities DATED for the United States, eIDAS 2.0 and EDIP
+  DATED at enacted authority for Europe, China the inverse case on three
+  levels, India NO BASELINE. Added, in two parts: the **inescapability
+  burden** (see 6 below) and **Lepore's zero** — no public substitute for
+  any supplier anywhere in her book, verified at the sidecar this date by
+  the greps the 28 September intake recorded (nationaliz-, "state
+  capacity", procurement, foundry, "national champion" all zero; "public
+  ownership" once, of nineteenth-century land in the American West at
+  printed p. 164 / PDF p. 176, the running head "164 THE RISE AND FALL OF
+  THE ARTIFICIAL STATE" confirmed in the sidecar), her fourth element
+  being "a commitment to the self-evident truths" of the Declaration.
+
+**The OTA date, and what could not be done.** The sidecar was opened at
+the passage (`text-2026-09-29/ArtificialState-ocr.txt`): she gives 1972
+for the formation and dates the closure only by Gingrich's arrival as
+Speaker. **No year is asserted in appendix.md.** The neighbouring dates in
+her text are 1994 (the Progress & Freedom Foundation's "Magna Carta for
+the Knowledge Age") and 1996 (Barlow's declaration), and neither is the
+closure; the assessment's 1995 is not at the pin and is not carried. The
+retrieval the row needs: the appropriations act that ended the office's
+funding, or the OTA's own final report. Until one of those is in the
+repository the row carries a candidate and scores nothing.
+
+**Not scored, with the reasons on the page (§VII).** Her 2025 opinion
+series (9 per cent, 11 per cent, 61 per cent; printed p. 227 / PDF p. 243)
+and her cross-national 2025 figure (printed p. 8) measure **consent, not
+control**, and the sub-wager scores control — the distinction spine
+§8(g)(2) rests on. Her 2026 survey of "nearly 6000 companies" finding "80
+percent of them reported gaining nothing from using AI" (printed p. 223 /
+PDF p. 239, verified at the sidecar) is **NEEDS VERIFICATION** with
+Yotzov et al., "Firm Data on AI", NBER, February 2026 (printed p. 286 /
+PDF p. 305, the note verified present in the sidecar) recorded **as a
+retrieval target only**: the association between the survey sentence and
+that note is an inference from note sequence in damaged OCR, and the
+appendix says so. Her own trajectory — ecological limit — is recorded as a
+confessed limit in the manner spine §8(f) grants the nuclear one, not as a
+rival prediction.
+
+### 6. Decision 4's inescapability burden, carried into DC-4
+
+Chapter 12 §IV now concedes that the mechanism predicts acquisition only
+where the capability is **decisive AND the dependence inescapable**, and
+the ruling places the consequent obligation here. DC-4's design note
+states it: the row **must show that the present dependence is inescapable,
+not assert it**. The measure that would show it — an escapability test per
+essential supplier, whether the bloc's strategic commitments could be
+carried at all, at any cost and on any timetable, without that supplier —
+is **NEEDS BASELINE per bloc from 2024**, and is scored together with the
+public-substitute inventory: a supplier for whom no public substitute
+exists and whose function could be forgone is not evidence for the
+mechanism. Lepore's three failures are named at their pins in the note as
+the cases that compel the concession — the National Data Center
+"abandoned due to privacy concerns" and dubbed the "Snooping Machine", and
+OGAS, which failed because "the process of developing the network was left
+to unregulated, independent contractors" (both printed p. 59 / PDF p. 70);
+Cybersyn "abandoned after Pinochet took power in a coup in 1973" (printed
+p. 62 / PDF p. 73) — all three verified at the sidecar this date.
+
+### 7. The ch12 renumbering
+
+Checked and recorded. **No reference in appendix.md or in this memo pointed
+at ch12 §VII meaning the constitutional close**, so nothing was stale; the
+appendix now carries the numbering positively, at the head of Part IV,
+where the four falsifiers are attributed to **ch12 §VIII**, with §VII
+named as the asset ledger and §IX as the return to the field. Verified
+against ch12/draft.md this date (§VII the ledger, §VIII the two-claim
+close, §IX the return). Spine §8(g) item 1 still reads "ch12 §VII" for the
+ending; that is Roderick's document and is not edited here — **flagged for
+his attention**.
+
+### 8. Structural summary of appendix.md's changes
+
+- Head note: a dated Phase 6 revision paragraph; STATUS PENDING HUMAN
+  REVIEW; the provisional-pin warning for Lepore stated at the head.
+- §I: "Seven scoring rules" → "Eight"; rule 5 → four coding rules, gaining
+  (d); rule 7 gains the list of sidecars opened this pass; **rule 8 new**;
+  the conditions table's condition-1 row renamed and re-instrumented, with
+  the Scott paragraph beneath it.
+- §II: C11-1's failure-mode sentence re-pointed to rule 5(d).
+- §III: **C10-4 new**; C10-2's closing sentence rewritten (the two-century
+  figure withdrawn, the separation re-pointed to C10-4, condition 1's
+  failure named as the Scott scenario's first limb).
+- §IV: the shared optimistic-case paragraph; design notes on DC-1, DC-2
+  (with the OTA candidate and the rubric), DC-3 and DC-4 (with the
+  inescapability burden and Lepore's zero); the ch12 §VIII attribution.
+- §V: Part V's scoring rule re-pointed to 5(d), with the 1997–2008 dates.
+- §VII: CC-8 struck from the candidate list as promoted; the additions of
+  this pass itemised; the not-scored Lepore material and its reasons; the
+  OTA candidate; and a closing statement of the three measures the
+  appendix still owes.
+- Footer: STATUS revised.
+
+### 9. Standing-discipline report (P43-h) and open flags
+
+Nothing was hardened, and **no quotation entered by this pass comes from a
+source outside the corpus**: every one was read at a sidecar opened today
+(McNeill, Bean, Tilly 1990, Scott, Wu, Lepore). The appendix was then swept
+for the standing rule, and the following quotations **still in appendix.md
+are quoted from sources not in the corpus** and are listed
+**REVIFY-OR-CUT**, all carried forward from the 16 September rebuild and
+none of them touched by this pass:
+
+1. "Taiwan (92%) and South Korea (8%)" — SIA/BCG, *Strengthening the
+   Global Semiconductor Supply Chain*, April 2021 (C10-2); the report is a
+   T3 pointer at ch10 sources.md and is not in the repository.
+2. "does not possess the capacity … required" — National Defense
+   Industrial Strategy, January 2024 (C10-3); not in the repository and
+   the page pin is owed as well.
+3. "2 million shells per year" — Commission press release IP/24/1495,
+   15 March 2024 (C10-3, C10-1); the release is not in the repository.
+4. "owned and controlled by the US government" — Reuters, 16 March 2024,
+   via syndication (C2-1); already carried NEEDS VERIFICATION, canonical
+   bot-blocked.
+5. "IMMEDIATELY CEASE all use of Anthropic's technology" and "to the
+   status quo in effect prior to February 27, 2026" — the GSA order of
+   27 February 2026 and the restoration of 3 April 2026 (C2-3, C11-3,
+   DC-3); ch11 sources.md holds them; neither document is in the
+   repository.
+6. "close to a post-war high of 37.1% of GDP by 2028-29" — OBR, *Economic
+   and Fiscal Outlook*, March 2024 (C7-1); not in the repository.
+7. "$4,316,126,163" — DOJ, 21 November 2023, the Binance plea (C8-2); the
+   release is not in the repository, and the figure is quoted to the
+   digit.
+8. "declined by a factor of about three in less than 10 years" — EU Tax
+   Observatory, *Global Tax Evasion Report 2024* (C8-3); not in the
+   repository.
+9. "greater self-reliance and strength in science and technology" —
+   gov.cn, 13 March 2026, the 15th Five-Year Plan (CV, C6-3); not in the
+   repository.
+
+Each is load-bearing for a row that is currently scored DATED, so the
+choice on each is a retrieval or a rewording that does not quote; none may
+be hardened further, and this unit hardened none. The CDAO's ~$200m
+ceiling at C2-3 is a figure with a pin owed rather than a quotation, and is
+listed here for the same errand. Open flags this pass leaves: the three
+NEEDS BASELINE measures at §VII's closing list; the OTA abolition date;
+the Lepore 2026 survey at the NBER paper; and the spine §8(g) item 1
+cross-reference to "ch12 §VII" noted at 7 above, which is Roderick's to
+change.
+
+STATUS: PENDING HUMAN REVIEW.

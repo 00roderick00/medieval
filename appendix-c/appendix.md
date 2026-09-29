@@ -15,6 +15,24 @@ reviewed record by chapter sources.md entry or by statute and article;
 CLAUDE.md §9: no indicator appears without a sourced baseline, and a bloc
 without one is printed as such and not scored.*
 
+*REVISED 2026-09-29 (Phase 6 renovation, Part B5) on Roderick's rulings of
+29 September 2026 — Decisions 27, 28, 10 (B73-c), 18 and 4 — and spine
+§8(i). This pass adds one indicator (C10-4, the foundry's pricing power,
+promoted from the memo's candidate CC-8 and scored apart from the
+contractor class's subordination, per Decision 27); adds two scoring
+rules (5(d), re-consolidation with the state as client coded as failure;
+8, the window rule, per Bean's closing question and Decision 10's B73-c);
+names the Introduction's first condition as the Scott scenario (Decision
+18); enters Lepore against DC-1..4 as the optimistic case's zero
+(Decision 28); and carries into DC-4 the concession now stated at ch12
+§IV, that the mechanism predicts acquisition only where the capability is
+decisive AND the dependence inescapable (Decision 4). Nothing has been
+re-dated or re-pointed, and one figure has been corrected against its own
+pin: the Liège lag is three centuries on McNeill's dates, not the two the
+16 September rebuild asserted. Every Lepore pin is provisional — a phone
+capture, our own OCR, no imprint, place or year established — and is
+given as printed page / PDF page.*
+
 *STATUS: PENDING HUMAN REVIEW.*
 
 ---
@@ -37,7 +55,7 @@ The barons' loss of independence and the people's acquisition of control
 are not assumed to be the same event, and the reader who finds the first
 confirmed and the second failed should record both.
 
-Seven scoring rules govern every row that follows.
+Eight scoring rules govern every row that follows.
 
 **1. Four blocs, scored separately.** The candidate consolidators are the
 United States, China, Europe and — conditionally — India (spine §5). Each
@@ -89,7 +107,7 @@ it is the form this appendix takes. Tilly's precedent stands beside it:
 theory "must proceed in an open-ended and prospective fashion" (Tilly
 1975, p. 635).
 
-**5. Three coding rules for the absorption rows.** (a) A stalled move is
+**5. Four coding rules for the absorption rows.** (a) A stalled move is
 classed before it is scored: a failure of interest or will is
 distinguished from a failure of power (Goldsmith and Wu 2006, p. 89), and
 only incapacity counts against the mechanism; a will-classed stall is
@@ -107,7 +125,29 @@ route, not as consolidation; and a licence counts as consolidation only
 where revocation has been exercised or is exercisable against an
 incumbent, not where it freezes rivals in the incumbent's favour (the
 capture-by-licence reading is Wu's, *The Master Switch*, ch. 9, and it is
-scored against the book, not for it).
+scored against the book, not for it). (d) Re-consolidation with the state
+as client is coded as a FAILURE of the prediction wherever it recurs, and
+the American record supplies the specimen this rule is built from: after
+the severance of 1984 the Bell fragments were reassembled with federal
+approval — Pacific Telesis in 1997, BellSouth in 2006, so that "after a
+decade of consolidation, his new Bell system covered most of the country"
+— and in July 2008 Congress granted the reconstituted carriers "full and
+retroactive immunity" for their part in warrantless surveillance, with
+the result that "the reconstituted giants of telephony are closer to
+possessing a master switch than Vail himself could have dreamed" (Wu,
+*The Master Switch*, ch. 18; the statute is given at his n. 20 as the
+FISA Amendments Act of 2008, Pub. L. 110-261, and is not in the corpus,
+so it is not cited here as consulted). Services rendered and immunity
+granted is the client relation and not the principal's; a severance
+reversed with the state's approval and paid for in immunity is therefore
+scored against the American route at CA-4, CA-7 and C11-1, and is scored
+so even where the reconstituted firm is more useful to the state than its
+fragments were — usefulness to the state is what this rule expects the
+failure mode to look like. The 1913 half of the same series is carried in
+the chapter record and not here: the Kingsbury Commitment's structural
+concession and its net consolidating effect are Wu's (ch. 3), and the
+primary instruments (the Mann–Elkins Act, the Kingsbury letter) are not
+in the corpus.
 
 **6. Democracy and liberalism, scored separately.** The distinction is
 Crouch's — a vigorous liberal society "is not the same as a strong
@@ -138,7 +178,43 @@ the DOJ press release 22-1222 (19 October 2022); California SB 53
 (Chapter 138, Statutes of 2025); the BIS final rule at 90 FR, doc.
 2025-16735 (2 September 2025); and the CMA cloud services final decision
 (31 July 2025). Figures from the chapter record are cited to the chapter
-sources.md that holds them.
+sources.md that holds them. Added 29 September 2026: McNeill 1982 (ch06
+sources.md), Bean 1973 (ch06 sources.md), Tilly 1990 (ch10 sources.md),
+Scott 1998 (ch12 sources.md), Wu's *The Master Switch* (ch12 sources.md)
+and Lepore's *Rise and Fall of the Artificial State* (ch12 sources.md,
+T3, no imprint or year, every pin provisional) were opened at their
+sidecars for the pins this pass carries.
+
+**8. The window rule.** Bean asked, in 1973, how long a decisive
+capability stays decisive, and answered it for the first run: the cannon's
+offensive advantage opened in the middle of the fifteenth century, and
+"more than fifty years passed before the art of fortification caught up
+with the new techniques of siege-craft, but by the second decade of the
+sixteenth century, the balance was again in favor of the defense", after
+which the defensive era held "until the end of the eighteenth century"
+(Bean 1973, pp. 207–08; ch06 sources.md; DATED). The settlement the window
+produced outlasted the window by a wide margin: no European state "made a
+serious attempt to institute direct rule from top to bottom until the era
+of the French Revolution" (Tilly 1990, p. 25; ch10 sources.md; DATED).
+Three consequences for the scoring, and the third is a debt. (a) The wager
+is on the settlement, not on the capability: the book claims that the
+compute-led stack's present advantage induces a settlement inside each
+bloc that can pay for it, and that the settlement outlives the advantage.
+(b) The window's closing is therefore not by itself a falsifier, and is
+not scored as one. Proliferation of the decisive layer *inside* the
+Introduction's fifteen-year horizon fails condition 1 and is scored at
+C10-2, because the mechanism is then not operating; proliferation *after* a
+bloc has made its settlement tests irreversibility instead, and only a
+settlement reversed — the fiscal instrument withdrawn, the enacted
+authority repealed, the subordinated capability returned to private hands
+— falsifies the irreversibility claim. The distinction is dated on entry
+so that it cannot be drawn after the fact. (c) The book does not predict
+the window's length and nothing here should be read as doing so: no dated
+forecast of how long leading-node fabrication and frontier-model advantage
+last is in the reviewed record, so the quantity NEEDS BASELINE and the
+comparison with the sixty-odd years Bean's window ran is stated as a
+proportion the first run exhibited, not as a term this book claims for the
+second.
 
 **The conditions and their instruments.** The Introduction's passage
 names its indicators inline; the mapping is repeated here so the wager can
@@ -146,12 +222,37 @@ be scored without reconstructing it.
 
 | Introduction condition (narrowed form) | Instruments |
 |---|---|
-| 1. The decisive layer proliferates; or a full-stack power is defeated without patron scaffolding | C10-2 (absorbing C6-1); C12-1 |
+| 1. The decisive layer proliferates; or a full-stack power is defeated without patron scaffolding — **the Scott scenario** | C10-2 (absorbing C6-1); C12-1; C10-4's falsifier (ii) |
 | 2. Legibility fragments in fact — bloc-internal reach falls; the untaxed offshore share rises | C11-2; C8-3 |
 | 3. Platform independence consolidates; adjudication migrates out of state courts | C2-3 (with C3-2); C8-2; C11-3's forum limb |
 | 4. The Tudor moves stall across all four candidates; or canon alone consolidates a bloc's decisive capability | C11-1; C10-1; C2-1/C4-1; C6-3; the Depreter test |
 | Claim 3(ii) — the form: ornamental or democratic | DC-1..6 (Part IV); coded on rule 5(b) |
 | The American verdict (spine §8(c)) | CA-1..8 (Part V), under rule 3 |
+
+**Condition 1 is the Scott scenario, and it is named so here.** The word
+"legibility" is James C. Scott's coinage in the technical sense the book
+uses throughout, and his warning is stated as a recipe of four elements:
+"the legibility of a society provides the capacity for large-scale social
+engineering, high-modernist ideology provides the desire, the
+authoritarian state provides the determination to act on that desire, and
+an incapacitated civil society provides the leveled social terrain on
+which to build" (Scott 1998, p. 5; the "pernicious combination of four
+elements" at p. 4; ch12 sources.md; DATED). The settlement this book
+predicts assembles the first and third of those elements in at least one
+bloc, so his objection is the sharpest available against it, and condition
+1 is where the book already priced it in: a full-stack power defeated by
+cheap distributed systems operating without a patron's decisive layer is
+the brittleness of the synoptic scheme demonstrated on the only terms that
+would settle the question, and it is measured at C10-2 and C12-1 rather
+than conceded rhetorically. Two disciplines travel with the naming. The
+scenario is not the book's expectation, and Scott himself supplies the
+reason it is not: "centralized high-modernist solutions can be the most
+efficient, equitable, and satisfactory for many tasks", among them "Space
+exploration, the planning of transportation networks, flood control,
+airplane manufacturing" (p. 221) — the decisive stack's own register. And
+the falsifier's force does not depend on his account of resistance, which
+is micro-social; formalising it at bloc scale is this book's move and is
+marked as such (ch12 sources.md, USE-NOTE).
 
 ---
 
@@ -214,10 +315,10 @@ inside each bloc is the Tudor reading; decisive actions clustering
 bloc-against-bloc while internal enforcement stalls is the great-power
 reading; condition 4 fails the book if the scorecard stalls across all
 four candidates, subject to rule 5(a) and, for the United States, rule 3.
-Two named failure modes are scored here: the reconstitution outcome (a
-severance reversed with the state's approval — Wu, ch. 18) and the 1695
-outcome (a licence that lapses because the licensor cannot run the
-medium — ch11).
+Two named failure modes are scored here: the reconstitution outcome, now
+coded under rule 5(d) (a severance reversed with the state's approval and
+the state left as client — Wu, ch. 18) and the 1695 outcome (a licence
+that lapses because the licensor cannot run the medium — ch11).
 
 ---
 
@@ -244,12 +345,88 @@ Magdeburg cancellation (July 2025; Intel Q2 2025 release as T1 anchor, on
 retrieval — NEEDS VERIFICATION); IRIS² contracted, services c. 2030 (ch10
 sources.md). DATED at the supplier level. *India:* NO BASELINE — not
 scored. *Direction:* a count holding at four or fewer confirms the
-concentration thesis; a rise materially above four fails condition 1. The
-foundry's pricing power is scored apart from the contractor class's
-subordination (C3-2) and the two are not merged: McNeill's Liège held its
-price for two centuries after the barons were commissioned ("Even the
-mightiest rulers had to pay what was asked, or do without", McNeill 1982,
-p. 113); the pricing series itself NEEDS BASELINE.
+concentration thesis; a rise materially above four fails condition 1 — the
+Scott scenario's first limb. The foundry's pricing power is scored apart
+from the contractor class's subordination (C3-2) and the two are not
+merged; that separation now has its own row at C10-4, which this row's
+concentration series feeds.
+
+**C10-4 — Foundry pricing power, scored apart from contractor
+subordination** *(new, 29 September 2026; promotes the memo's candidate
+CC-8; the Liège lag)*. Measures whether the suppliers of the decisive
+layer keep the power to set their own terms after the private-force layer
+has been commissioned. The row exists because the timetable is the
+sharpest internal objection the book has, and an objection stated as a
+limit in the Coda is something a reader weighs while an objection entered
+here is something that can be lost. *The historical case, and it is
+McNeill's.* Liège became Europe's armaments centre only after 1492, when
+the bishopric disarmed and declared itself neutral, so that rulers who
+wanted its guns "had to withdraw their soldiers and let the market again
+come freely into play"; "Their very weakness thus allowed the Liégeois to
+set their own prices. Even the mightiest rulers had to pay what was asked,
+or do without" (McNeill 1982, p. 113; ch06 sources.md holds the master
+entry). The same page carries the command principle failing on the other
+side: Philip II "knew how to tax and how to confiscate just as effectively
+as Chinese and Islamic officials did", and his own cannon factories
+"always failed to flourish" (p. 113). The condition was jurisdictional
+refuge — so long as "no single political command structure could reach out
+to every corner of Latin Christendom … the sovereignty of the market over
+even the greatest ruler of the age remained an ultimate reality" (p. 114)
+— and the refuge closed by annexation, not by competition: "After 1794,
+when the French annexed Liège, gunmakers of that city, the most practiced
+of all Europe, were compelled to upgrade their performance by the new
+French inspectors" (p. 166 n. 28), the city thereafter contributing to the
+French war effort under Paris's jurisdiction (p. 213). Against the
+subordination of the armed intermediaries, "largely complete by 1500"
+(Bean 1973, p. 220; ch06 sources.md), that is a lag of about three
+centuries. *This appendix's 16 September formulation — "two centuries" —
+is corrected here: the figure is not McNeill's and his own dates do not
+support it.* *Level:* operating capacity (the supplier's power over its
+terms); enacted authority (the state's power over those terms).
+*United States:* the concentration limb is DATED at C10-2 — sub-10nm
+capacity wholly outside the bloc cores in the 2021 snapshot, one EUV
+supplier on earth — and the enacted limb is DATED and points both ways:
+the grant-to-equity conversion of August 2025 took a position inside a
+supplier rather than a power over its price (C10-1); the VEU revocations
+of 2 September 2025 exercise power over a client's access, not over a
+supplier's terms (90 FR, doc. 2025-16735); and the reported H200 revenue
+arrangement is the state taking a share of a price it does not set — the
+inverse of the power this row looks for, and NEEDS VERIFICATION (CA-6).
+The terms limb itself — a dated margin, price or contract-terms series for
+leading-node fabrication, launch or frontier-model provision — NEEDS
+BASELINE; nothing in the reviewed record supplies one, and the foundry
+share figures the chapter record carries are unopened web pointers which
+this appendix may not score. *China:* the inverse case, entered as its own
+thing and scored on three levels — the suppliers are the state's own
+conglomerates, which keep an "iron grip on licenses" (Cheung 2022, p. 115;
+DATED 2017–18): pricing power held inside the state rather than against
+it, which is why a Chinese reading of this row cannot be transferred to
+another bloc. *Europe:* the enabling supplier is European and holds the
+only EUV position on earth (C10-2; DATED at the supplier level); no
+European instrument over that supplier's terms is sourced — NEEDS
+BASELINE. *India:* NO BASELINE — not scored. *Direction.* The book
+predicts, and this row is entered so that the prediction can fail, that as
+the contractor class is subordinated (C2-3 with C3-2's precursor series)
+the decisive layer's suppliers keep their pricing power for a period
+measured in decades rather than years, and that when it ends it ends from
+the enacted level — a bloc closing the jurisdictional refuge on which the
+price depends, as Liège's closed in 1794 — rather than from competition.
+*Falsifiers, two, and each sufficient.* (i) If a bloc brings its
+suppliers' terms under state control at the same time as, or before, it
+subordinates the contractor class, the lag the mechanism predicts is
+absent and this row is scored against the book; the historical case
+separates the two by centuries, and simultaneity is not the mechanism
+running faster but a different mechanism. (ii) If the suppliers' pricing
+power instead ends because rivals arrive — a leading-node count rising
+materially above four at C10-2, terms compressed by entry — then the
+concentration premise fails with condition 1 and this row fails with it,
+and the outcome is not to be re-read as the state's victory. *Not scored
+in either direction until the terms limb has a baseline*: what is scored
+today is the concentration limb at C10-2 and the enacted limb above. The
+book's answer to the risk stands beside it and not instead of it: the bloc
+settlement is precisely the closure of the refuge Liège depended on — a
+claim about the Introduction's horizon, scored here rather than confessed
+in the Coda, which is the whole reason the row exists.
 
 **C10-1 — Public financing of the military-relevant stack** *(absorbs
 C6-2)*. Measures central-budget lines for the decisive layer and their
@@ -567,11 +744,37 @@ inputs to the ornamental route and not only as consolidation signals.
 The Chinese column is n/a throughout Part IV by construction, except at
 DC-4 and DC-6, where China supplies the inverse case.
 
-The four falsifiers are the wager's; if the democratic bloc shows all
-four operating on the stack's commitments across the horizon, claim
-3(ii)'s ornamental outcome is falsified for that bloc and the settlement
-is scored democratic. Each is entered with its baseline as a figure or an
-enacted text with a date, or marked NEEDS BASELINE and not scored.
+The four falsifiers are the wager's, and they are stated in the text at
+ch12 §VIII, the two-claim constitutional close (the chapter's §VII is the
+asset ledger and its §IX the return to the field; the numbering changed on
+29 September 2026 and this appendix follows it). If the democratic bloc
+shows all four operating on the stack's commitments across the horizon,
+claim 3(ii)'s ornamental outcome is falsified for that bloc and the
+settlement is scored democratic. Each is entered with its baseline as a
+figure or an enacted text with a date, or marked NEEDS BASELINE and not
+scored.
+
+**The optimistic case, entered once here and cross-referred at DC-1..4.**
+The falsifiers were designed to count demonstrated redirections rather
+than available remedies, and the strongest recent statement of the
+optimistic case shows why. Lepore, writing on the same 2025–26 record,
+holds that "everything destructive that they have done can be undone by
+voters, elections, legislation, and judicial enforcement, and by a
+commitment to the self-evident truths proclaimed two hundred and fifty
+years ago" (printed p. 226 / PDF p. 242), that "That rock is the right of
+the people to elect a government by consent and not by automation", and
+that technologies "can be held to publicly defined standards, answerable
+to voters and not to corporations" (printed p. 227 / PDF p. 243). Three of
+the four falsifiers appear there as rights; the fourth does not appear at
+all. She names no worked instance of an election, a statute or a judgment
+operating on a strategic commitment, and the resistance she documents is
+local and individual. That is the finding this appendix records, and it
+is recorded as a design note rather than as a baseline: she is T3, her
+contemporary chapters rest on reporting, no imprint or year is established
+from the capture, and every pin here is provisional and to be re-verified
+against a printed copy before press (ch12 sources.md). Her dated
+measurable claims are not scored, and the reasons are on the record at
+§VII.
 
 **DC-1 — Elections that redirect strategic commitments.** Measures
 whether an election turning on a stack commitment reversed or redirected
@@ -591,7 +794,13 @@ negative form is Crouch's: "But they had voted for it; the policy had
 democratic legitimacy" (PDF p. 14) — an election that legitimates a
 commitment it did not choose is the ornamental reading, and a
 redirection that is later reversed without an election is scored as
-punishment, not remedy.
+punishment, not remedy. *Design note (29 September 2026).* The optimistic
+case names this remedy as a right — elections among the four things by
+which "everything destructive … can be undone" (Lepore, printed p. 226 /
+PDF p. 242, provisional) — and produces no worked instance of an election
+redirecting a stack commitment; the row's demand for a demonstrated
+redirection is therefore not a standard set where nobody would look, but
+the standard the case's own advocate declines to meet.
 
 **DC-2 — Legislatures that enforce meaningful conditions.** Measures
 whether a legislature has written conditions onto the stack's
@@ -632,6 +841,36 @@ tax into a permanent obligation to maintain 30,000 soldiers, but that
 was denied" (Glete 2002, p. 122): a legislature that enforced, and a
 fisc that did not become permanent.
 
+*Design note and one candidate anti-baseline (29 September 2026).* The
+optimistic case names legislation as a right — one of the four by which
+"everything destructive … can be undone" (Lepore, printed p. 226 / PDF p.
+242, provisional) — and produces no worked instance of a statute enforced
+against the executive or a supplier on a strategic commitment; what it
+offers instead is restorative, and dated by its own loss. When Gingrich
+became Speaker, "one of his first moves was to close the federal
+government's Office of Technology Assessment, which had been formed in
+1972. The office hadn't been especially powerful, but its mandate included
+assessing the implications of any new technology supported by the federal
+government" (printed p. 70, running head illegible / PDF p. 81,
+provisional). That is the right kind of datum for this row — the
+legislature's own capacity to know what to condition, created and then
+removed — and it is therefore **entered as a CANDIDATE anti-baseline, NOT
+SCORED, and marked NEEDS PRIMARY FOR THE DATE**: her text gives 1972 for
+the formation and dates the closure only by Gingrich's arrival, so the
+abolition year is not at the pin and is not asserted here. The date must
+come from a primary — the appropriations act that ended the office's
+funding, or the OTA's own final report — and under the standing use-note
+the entry will cite that primary; she supplies the sentence, not the
+authority. Its directional value is symmetrical: abolition is a measurable
+reduction in the capacity this row scores, and the same body's revival
+would be a measurable increase. Carried with it as a **coding rubric and
+not an indicator**: her six assessment questions — "Is it good? Might it
+be bad? Is it for everyone? What rules should guide its adoption? How much
+will it cost, and what is it worth? Who benefits, and who is harmed?"
+(printed p. 227 / PDF p. 243, provisional) — are the public-standards
+template a legislative condition would have to meet, credited to her and
+scoring nothing by themselves.
+
 **DC-3 — Courts whose remedies change operations.** Measures whether a
 court order altered an operation — a divestiture executed, a directive
 enjoined and the operation changed — as distinct from a fine or censure.
@@ -648,7 +887,13 @@ from the subject, not one imposed on the state (8 July 2026; judgment
 number to pin). *India:* NO BASELINE — not scored. *China:* n/a. Coding:
 an order the state invited by contract is scored differently from one it
 resisted (Krasner 1999, p. 29); the forum-migration limb stays with C11-3
-and is not double-counted here.
+and is not double-counted here. *Design note (29 September 2026).* The
+optimistic case names judicial enforcement as a right — the fourth of the
+four by which "everything destructive … can be undone" (Lepore, printed p.
+226 / PDF p. 242, provisional) — and produces no worked instance of a
+judgment changing an operation on a strategic commitment. The single
+American instance in this row's own series remains the only one it holds,
+which is why the row counts remedies and not dockets.
 
 **DC-4 — Public institutions capable of replacing essential suppliers.**
 Measures whether the bloc holds, or has enacted the means to build, a
@@ -679,6 +924,45 @@ la nécessité publique" (*Œuvres* t. III, p. 316) — coercive superiority
 without a substitute for the function — and Glete's, the state left with
 "no realistic alternative but to negotiate new contracts with little
 competition" (Glete 2002, p. 131).
+
+*Design note (29 September 2026), in two parts, and the row's standard
+rises on both.* First, **the inescapability burden**. Chapter 12 §IV now
+concedes, on Roderick's ruling of 29 September (Decision 4; spine §8(i)),
+that the mechanism predicts acquisition only where the capability is
+decisive AND the state's dependence on it inescapable — the concession
+Lepore's three dated failures of state data-processing projects compel:
+the American National Data Center, "abandoned due to privacy concerns"
+and dubbed the "Snooping Machine"; the Soviet OGAS, which failed because
+"the process of developing the network was left to unregulated,
+independent contractors" (both printed p. 59 / PDF p. 70, provisional);
+and Chile's Cybersyn, "abandoned after Pinochet took power in a coup in
+1973" (printed p. 62 / PDF p. 73, provisional) — three cases in which a
+state wanted the stack, had the fiscal capacity and did not get it,
+because nothing decisive turned on it and the state could govern without
+it. The obligation falls here: **this row must show that
+the present dependence is inescapable, not assert it.** The measure that
+would show it is an escapability test per essential supplier — whether the
+bloc's strategic commitments could be carried at all, at any cost and on
+any timetable, without that supplier — and no such test is in the reviewed
+record. It is therefore entered as **NEEDS BASELINE, per bloc, from 2024**,
+alongside the public-substitute inventory this row already owes, and the
+two are scored together: a supplier for whom no public substitute exists
+and whose function could be forgone is not evidence for the mechanism.
+Second, **the optimistic case's zero**. The fourth falsifier is the one
+the optimistic case does not name at all. Lepore proposes no public
+substitute for any supplier anywhere in her book: searches of the whole
+capture return no nationalisation, no state capacity, no procurement, no
+licensing, no national champion, no foundry, and the single occurrence of
+public ownership is of nineteenth-century land in the American West
+(printed p. 164 / PDF p. 176, provisional). Her fourth element is not an
+institution but "a commitment to the self-evident truths" of the
+Declaration (printed p. 226 / PDF p. 242, provisional). That zero is
+recorded as a design note and not as a baseline: it establishes that the
+most widely read contemporary account of the subject proposes no public
+substitute for any supplier, which is the answer this row needed before a
+reviewer could say the falsifier was set where nobody would look. It sits
+beside Ruggie's dated zero above and Wolin's privatisation material in the
+memo's candidate list.
 
 **DC-5 — The present indicator: the fusion.** Spine §8(g) item 3 names
 the present indicator of the ornamental route as the fusion of the barons
@@ -851,9 +1135,10 @@ CA-1, CA-3 and CA-5 is enacted — and under rule 3 that failure is the
 wager's. Everything between is scored partial, with the lag in mind: in
 1911 wealth and power were decoupled in one act and the public
 off-switch was built over a generation, by regulation (ch12). Under rule
-5(c), a reconstitution outcome — the severance reversed with federal
-approval, as the Bells were reconstituted in 2008 (Wu, ch. 18) — is a
-named failure mode, not a partial.
+5(d), a reconstitution outcome — the severance reversed with federal
+approval and immunity granted, as the Bells were reassembled between 1997
+and 2006 and indemnified in July 2008 (Wu, ch. 18) — is a named failure
+mode, not a partial.
 
 ---
 
@@ -891,9 +1176,49 @@ scorecard cell (no sourced baseline; rule 1). The Chinese "fused
 ownership" mode label (replaced above). The CC-series candidates of the
 memo's Revisions of 16 September (CC-1..15) remain candidates except where
 a figure from them supplies a per-bloc baseline above (CC-1..6, CC-9,
-CC-10, CC-13, CC-14); CC-7 (the innovation freeze), CC-8 (foundry pricing
-power), CC-11 (identity as a condition of membership) and CC-12 (the
-exit series) are NEEDS BASELINE and are not scored.
+CC-10, CC-13, CC-14); CC-7 (the innovation freeze), CC-11 (identity as a
+condition of membership) and CC-12 (the exit series) are NEEDS BASELINE
+and are not scored. **CC-8 (foundry pricing power) is no longer a
+candidate: it is promoted to C10-4 above on Decision 27, and its terms
+limb carries NEEDS BASELINE inside a scored row rather than outside one —
+which is the whole point of the promotion, since a concession recorded as
+a candidate cannot be lost and an indicator can.**
+
+*Added by this pass (29 September 2026).* One indicator: C10-4 (foundry
+pricing power; the Liège lag), on Decision 27. Two scoring rules: 5(d),
+re-consolidation with the state as client coded as a failure, on Decision
+27's AT&T row; and 8, the window rule, on Decision 10's B73-c and Bean's
+closing question. One naming: condition 1 as the Scott scenario, on
+Decision 18. Four design notes: DC-1, DC-2, DC-3 and DC-4, on Decision 28,
+with DC-4 additionally carrying the inescapability burden from Decision 4.
+One correction against a pin: the Liège lag is three centuries on
+McNeill's own dates (1492 neutrality to the French annexation of 1794),
+not the two centuries stated on 16 September.
+
+*Not scored, and the reasons recorded so that the omissions are not read
+as oversights (Decision 28).* Lepore's 2025 opinion series — 9 per cent of
+Americans and 11 per cent of "AI experts" expecting a positive effect on
+elections, 61 per cent wanting more control over AI (printed p. 227 / PDF
+p. 243, provisional) — measures consent, not control, and this sub-wager
+scores control; public preference for more control is compatible with any
+degree of separation between legitimating authority and effective command
+of strategic commitments, which is the distinction the whole of Part IV
+rests on. Her cross-national 2025 figure (printed p. 8, provisional)
+is the same kind of datum and is marked PENDING VERIFICATION in the memo
+besides. Her 2026 survey of "nearly 6000 companies" finding that "80
+percent of them reported gaining nothing from using AI" (printed p. 223 /
+PDF p. 239, provisional) would matter if it held, because it cuts against
+the indispensability that DC-4's inescapability test now turns on; but no
+survey is named in her text, and the probable note-carrier — Yotzov et
+al., "Firm Data on AI", National Bureau of Economic Research, February
+2026, standing in the run of notes to printed pp. 220–24 at printed p. 286
+/ PDF p. 305 — is an inference from note sequence in a damaged OCR and not
+a citation. It is therefore **NEEDS VERIFICATION with the NBER paper as a
+named retrieval target (ch12 sources.md, RETRIEVAL LIST item 3)**, and it
+carries nothing until the paper is in the repository. Her own trajectory
+— neither consolidation nor durable dispersal but ecological limit — is a
+confessed limit in the manner spine §8(f) grants the nuclear one, and not
+a rival prediction on this sheet; she publishes no falsifier of her own.
 
 *Carried NEEDS VERIFICATION, not scored until pinned.* The DoD IG 155mm
 figure at the report (C10-3); the OECD AEOI figures at oecd.org (C11-2);
@@ -905,12 +1230,28 @@ at the annual figures (C11-2); the WAICO signing, the Private Economy
 Promotion Law and the e-CNY centre (C2-1); the Chinese discipline of
 2020–23 (C8-2); the laboratories' revenue estimates and the Mistral–ASML
 holding (C2-3); the Qianfan and Guowang counts (C10-2); the NDAA FY2026's
-enactment date. *UNVERIFIED and not carried:* the Starlink shutdown-order
-investigation (CA-2); the ASML servicing denial (CA-8).
+enactment date; Lepore's 2026 firm survey at the NBER paper (§VII above).
+*UNVERIFIED and not carried:* the Starlink shutdown-order investigation
+(CA-2); the ASML servicing denial (CA-8).
+
+*Candidates entered but not scored, awaiting a primary.* The Office of
+Technology Assessment as DC-2's anti-baseline — NEEDS PRIMARY FOR THE
+DATE: the formation year (1972) is at the pin, the abolition year is not,
+and no year is asserted here (Decision 28).
+
+*What this appendix still owes, stated plainly.* Three measures the rows
+above ask for and no source yet supplies: a dated margin, price or
+contract-terms series for leading-node capacity, launch and frontier-model
+provision (C10-4's decisive limb); an escapability test per essential
+supplier, per bloc, from 2024 (DC-4, on Decision 4's concession); and a
+dated expectation of how long the compute-led stack's advantage lasts
+(rule 8(c)). Each is NEEDS BASELINE, none is estimated, and the rows are
+printed unscored at those levels rather than scored on an invented figure.
 
 *Every Indian cell.* NO BASELINE — not scored, pending a sourced Indian
 baseline at any level (rule 1).
 
 ---
 
-STATUS: REBUILT 2026-09-16 — PENDING HUMAN REVIEW
+STATUS: REBUILT 2026-09-16; REVISED 2026-09-29 (Phase 6, Part B5) —
+PENDING HUMAN REVIEW
