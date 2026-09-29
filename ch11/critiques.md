@@ -802,3 +802,99 @@ survives its members losing cases, but not the court losing the cases.
       carried by a second T2. Recorded at full strength and stopped here.
       Register decisions proposed at memo Revisions 19, **Y71-a** and
       **Y71-c**.
+
+11. **(2026-09-29 — Phase 6 renovation, Decision 8: the gentry windfall,
+    recorded as NOT YET ANSWERED now that the text carries the
+    stock-and-flow reading; and three smaller things the new text opens.
+    PENDING HUMAN REVIEW.)** Draft changes at ch11/draft.md Revisions 5;
+    old/new record and pins at memo Revisions 22. Decision 8 (Choice A,
+    third reading) has been applied to §II, which means limbs one, two and
+    three of Revisions 10's answer are now in the text and limb four is
+    not. This entry states limb four as the chapter's standing unanswered
+    objection, so that it is not mistaken for an answered one.
+
+    - **THE GENTRY-WINDFALL OBJECTION — NOT YET ANSWERED.** *Steelman.*
+      The mechanism's fourth link is the subordination of intermediate
+      authorities; §II now says, in the text, that the crown sold over half
+      the monastic estate before 1547 and well over three-quarters before
+      1558, at a fixed twenty years' purchase, and that the buyers were
+      largely local families — "in every county in England and Wales for
+      which information is available, the greater part had left Crown hands
+      by 1547" (Youings 1971, Introduction ch. 5, sc. 4659–60), and in
+      Devon "well over fifty per cent of the monastic property disposed of
+      by 1558 was in the possession of local families" (ch. 5,
+      sc. 5053–55). The chapter therefore now prints, on its own page, a
+      consolidation that endowed the very county class whose Parliament
+      would fight the crown a century later. Worse for the chapter than it
+      was before the renovation: by stating the stock-and-flow reading in
+      the text, §II makes the transfer visible and then says nothing about
+      what the transfer did to the subordination the settlement is supposed
+      to have achieved. A reviewer who has read Youings's ch. 5 will put it
+      in one sentence: the English crown broke a universal corporation and
+      paid for it by creating a landed gentry, which is the mechanism's
+      fourth link running backwards.
+      *What the chapter does not say, and must not yet pretend to.* Two
+      answers are available and neither is adopted. The first is that the
+      gentry were never the armed intermediaries the mechanism names —
+      Lander's nobility "possessed no fortresses" is already at §II, and
+      Youings's "Certainly it was not with the use of armed force" (ch. 1,
+      sc. 1364–65) extends the point to the Church; on CLAUDE.md §2 as
+      glossed on 29 September, the intermediaries the chain subordinates are
+      the armed ones, so an enriched gentry is not a restored over-mighty
+      subject. That is the stronger of the two and it is still incomplete,
+      because the gentry of 1640 were not armed and were decisive anyway,
+      which is precisely the fifteenth-century assumption Part III cannot
+      afford to inherit. The second is that the transfer is ruling (n)'s
+      pattern — the core's intermediaries subordinated, the property left in
+      private hands with the discretion severed — and Revisions 10 already
+      shows why it fails on the English facts: what the crown reserved on a
+      grant was "a tenure by knight service, and an annual rent of
+      one-tenth" (ch. 5, sc. 4730–32), a wardship claim rather than a
+      discretion over the use of the property, and even that tenth was
+      "officially dropped in 1548" (sc. 4744–45). The crown parted with the
+      property and with the switch alike. **Status: NOT YET ANSWERED.** It
+      is recorded here as the chapter's open objection, and the answer is
+      Roderick's to rule, because the honest first answer turns on how much
+      weight the doctrine's armed-intermediary gloss can carry into Part III.
+      *Reach.* Touches CLAUDE.md §2 as glossed, spine §8(h) ruling (k) and
+      spine §8(i)'s England paragraph; does not touch the DEFEND-tier
+      mechanism, which Decision 8 has already reclassified rather than
+      weakened.
+
+    - **The 1690s sentence invites a periodisation objection.** §II now
+      dates England's standing taxation to the Restoration and the wars of
+      1688–1714 on Ertman (1997: 30, 187–8). A reviewer may fairly ask why
+      a book whose window is 1440–1500 is allowed a limb that arrives two
+      and a half centuries later, and whether the English case is then a
+      case at all. *The chapter's answer, graded ADEQUATE.* The mechanism
+      is a coupling, not a date: the claim is that the canonical move
+      cannot be sustained without a permanent fisc, and England
+      demonstrates the claim by failing it for a century and a half and
+      then meeting it. What the chapter must not do — and does not — is
+      call the 1690s a Tudor turn. The stronger version of the objection,
+      which no corpus source answers, is Glete's clock applied to England:
+      if the fiscal-military type was "practically unknown in 1500"
+      (Glete 2002: 41), the English two-stage shape may be the normal case
+      and France the outlier, which would invert Part II's centrepiece.
+      Recorded; ch10's quarrel, fought there.
+
+    - **The Alençon scene invites the reversibility objection in the text.**
+      §VII now states, in the same paragraph as the transfers, that the
+      sentence of 1458 was judicial, moderated on a kinsman's petition and
+      deferred "jusques à son bon plaisir". That is Revisions 5's steelman
+      conceded in the text rather than parried, which is what Decision 21
+      ruled; the answer already graded GOOD at Revisions 5 stands unchanged
+      and is not repeated here. One new exposure: because the paragraph also
+      states that operational knowledge is absent from the arrêt, the
+      chapter now concedes in its own voice that the fifteenth century's
+      best documented instance of the five discretions carries only four.
+      *The chapter's answer, graded ADEQUATE.* A document that takes four
+      of five is better evidence than a paraphrase that claims five, and
+      the fifth is carried elsewhere by Fortescue's sworn officers and
+      Lane's Colleoni; but the concession does mean Chapter 12's five-part
+      ledger has no single T1 instance behind it, and Chapter 12 should say
+      so rather than imply otherwise.
+
+    - **Not an objection, a duplication.** The Alençon arrêt now stands in
+      full in both ch11 §VII and ch12; flagged at memo Revisions 22 and at
+      sources.md, and untouched, ch12 being outside this unit's ownership.

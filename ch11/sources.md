@@ -1371,3 +1371,78 @@ names in that row — Pollard, Guenée, Koenigsberger, C. S. L. Davies, Elliott
   bride de gens d'armes de soulde" (II, 290); he is also Louis XI's
   obliged servant. Quote him for the bargain, and flag the frame — the
   full use-notes are at ch10/sources.md's Calmette block.
+
+## Added 2026-09-29 — Phase 6 renovation (pointer entry; pins re-opened at the sidecars; no new work enters the corpus)
+
+*Every pin used by the Phase 6 draft edits was re-opened this date in the
+sidecar named in its entry above: Youings (`text-2026-09-16/
+Youings-Dissolution-epub.txt`, no printed pagination — cited by
+Introduction chapter and Document number per the citation form set out in
+the 2026-09-16 block); Chastellain tome III (`text-2026-09-14/
+Chastellain-vol15-ocr.txt`, printed = PDF−10 — "habillemens de guerre" at
+PDF 496 = printed p. 486, the Perche clause at PDF 497 = printed p. 487,
+"jusques à son bon plaisir" at PDF 494 = printed p. 484, the procès note
+at PDF 489 = printed p. 479 n.); Ertman and Glete (`text-2026-09-14/`).
+Page-image re-verification before print stands owed for Youings (no
+pagination) and Chastellain (OCR).*
+
+- **T2 — Philippe Contamine, "L'artillerie royale française à la veille
+  des guerres d'Italie" (1964) — POINTER ENTRY.** IN REPO; the full
+  graded entry is at **ch10/sources.md** (2026-07-23 PARSE block:
+  `…/open-access/Contamine-Artillerie-royale-1964.pdf`, complete read).
+  This chapter's §II has cited it since the first draft — the artillery
+  at eight per cent of military expenditure and the closing verdict, "un
+  instrument qu'aucune coalition ne pouvait briser", both at **p. 261**,
+  and Giovio on the 1494 train at **p. 221** — and no ch11 entry carried
+  it. Entered now so that §II's two quotations rest on a work named in
+  this chapter's sources.md (CLAUDE.md §4). No pin is hardened and no
+  new quotation is taken.
+
+- **Youings — the RETRIEVAL row, restated after the Phase 6 edits.** The
+  **Youings half is CLOSED and now carried in the draft** at §II (the
+  doubling and the Augmentations-as-bank; the "did not lead to the
+  permanent augmentation" verdict; "Disposal by the Crown took place from
+  the very beginning"; twenty years' purchase from December 1539; over
+  half by 1547 and "well over three-quarters by 1558"; the *Valor*
+  commissions of 30 January 1535 and "no justification whatsoever for
+  regarding … as anything more than a taxation assessment"; Doc. 7 injs.
+  2–3; the Dispensations Act and "the virtual nationalization of English
+  monasticism at one blow"; "visited or vexed … by commissioners
+  appointed by the king under the Great Seal"; the 1540 franchises act;
+  and "were never, in so many words, actually dissolved"). **Hoyle stays
+  OPEN**, now for one purpose only and named as such in the draft's
+  narrowed [GAP]: the crown's ordinary revenue before and after the
+  confiscation, and a national *Valor* total — neither of which Youings
+  carries, and no before-and-after comparison is made in the text
+  without them. The Richardson yield was NOT used. The 1538 invasion
+  scare and the coastal-defence warrants were NOT used (Y71-e declined —
+  reasons at memo Revisions 22); her Elton-series tier caveat (Y71-g) is
+  respected, since she is cited for receipts and instruments only and
+  not as corroboration of the Elton frame.
+
+- **Chastellain tome III — the §VII row CLOSED.** The 2026-09-16 entry's
+  USE-NOTE reserved the arrêt's reservations, the appanage/patrimony
+  line and the reversibility for §VII (Part B); all three are now in the
+  draft, with the Old French verbatim and [TRANS. CLAUDE] at each
+  translation. The 1440 Praguerie end of the arc was NOT written, because
+  its carrier is ch07's source and no ch11 entry holds it; the Lombards
+  of Bruges were NOT brought into this chapter (they remain ch10 §VIII's
+  and ch12 §IV's). NOTE FOR THE ASSEMBLY: **ch12's draft already carries
+  the same arrêt at length** (Chastellain iii. 478, 484, 486, 487); the
+  scene now stands twice in the manuscript and one of the two must become
+  a back-reference. Ch12 is outside this unit's ownership; flagged, not
+  touched.
+
+- **Ertman and Glete — pins now load-bearing in the draft.** Ertman
+  p. 181 (the boards and their 1554 reabsorption) and pp. 30, 187–8 (the
+  English fiscal-military state of 1660–1714) are in §II; pp. 94–5 (the
+  20,000, the magnate governors' companies, the Swiss and German 21,000
+  of 40,000 in 1558) are in §II's 1494 sentence. Glete pp. 75–6 and 122,
+  126 are in §III. His p. 179 "private armies" sentence is NOT used here:
+  under Decision 9 that usage belongs to **ch05 §VI**, and the phrase
+  enters this chapter only inside Glete's own Castilian sentence at §III.
+
+- **P43-h QUOTATION BANK (standing discipline, Decision 31).** Quotations
+  still in this chapter's draft whose source is **not in the corpus** are
+  listed at memo Revisions 22 as REVIFY-OR-CUT. None was hardened,
+  re-pinned or extended this pass.

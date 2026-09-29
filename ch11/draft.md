@@ -173,24 +173,122 @@ three the programme that Fortescue had written for the Yorkists, whose
 whole remedy for the over-mighty subject was that the crown should
 out-endow its lords and "live of his own" without asking Parliament
 for money (Fortescue, ed. Plummer 1885: 133, with Plummer's gloss at
-pp. 38–9). The settlement arrived when the crown found a fisc that no
-assembly had to grant. The Act of Supremacy of November 1534 made the
-king head of the Church; the act of 1536 dissolved the religious
-houses worth less than two hundred pounds a year, its preamble —
-Lander notes — going out of its way to praise the greater monasteries
-the crown would take within four years; and "total abolition," in his
-judgement, "was in the end the result of a squalid financial scramble
-rather than of religious disapproval" (Lander 1976: 7). The
-dissolution is the English fisc of the settlement. And it is the
-book's argument that it matters for a second reason, which the French
-case cannot show: what the crown took was not merely land but a
-universalist power — the one institution in the realm whose allegiance
-ran beyond it — so that the fiscal move and the canonical move were
-executed in England as a single act, which is the shape the mechanism
-predicts and the reason Chapter 12 will find the English precedent
-more useful than the French. [BOOK'S ARGUMENT (c). GAP: the
-dissolution's receipts — Youings, Hoyle — are not in this chapter's
-sources; no figure is carried.]
+pp. 38–9). What arrived in the 1530s was a fisc that no assembly had
+to grant — and, the qualification the chapter now carries in the text
+rather than in a note, not a permanent one. The canonical instruments
+came first. The Act of Supremacy of November 1534 made the king head
+of the Church, and the visitors' Injunctions of 1535, administered to
+every house in advance of any finding against it, bound the religious
+to observe the statutes of the realm made "for the extirpation and
+taking away of the usurped and pretended jurisdiction of the bishop of
+Rome within this realm" and declared them "absolved and loosed from
+all manner [of] obedience, oath and profession" formerly owed to that
+bishop "or to any other in his stead or occupying his authority or to
+any other foreign power or person" (Youings 1971, Doc. 7, injs. 2–3).
+The fiscal instruments followed within the year. The act of 1536
+dissolved the religious houses worth less than two hundred pounds a
+year — the threshold a figure taken from the *Valor Ecclesiasticus*,
+whose commissions had gone out on 30 January 1535 to return the
+houses' values "to the intent that the tenth of the premises may be
+taxed", and which Youings insists there is "no justification
+whatsoever for regarding … as anything more than a taxation
+assessment", so that a tax register decided thirteen months later
+which communities died (Youings 1971, Introduction ch. 2) — and "total
+abolition," in Lander's judgement, "was in the end the result of a
+squalid financial scramble rather than of religious disapproval"
+(Lander 1976: 7). What the scramble yielded was large. The
+confiscation, on the standard account of the operation, "had just
+about doubled the Crown's resources", and the Court of Augmentations
+built to collect the new revenues "replaced the king's chamber as the
+bank from which the king's government, and his personal
+extravagances, could be paid for" (Youings 1971, Introduction ch. 4):
+the English working treasury moved twice in fifty years, and the
+second move was paid for out of a rival corporation's estate.
+
+And then it was spent. Youings reports as long settled, and not as her
+own discovery, that "the Dissolution did not lead to the permanent
+augmentation of the annual income of the Crown, and indeed that the
+former monastic lands were 'dissipated' to a very great extent by
+Henry VIII during the later years of his reign", and she declines the
+usual alibi of Cromwell's fall, because "Disposal by the Crown took
+place from the very beginning" and Cromwell himself was named in
+December 1539 among the first commissioners to sell (Introduction chs.
+1 and 3). From that December the land went for ready money "at twenty
+years' purchase, that is a capital sum of twenty times their current
+net annual value" — a price the crown set and did not raise while it
+still had much to sell — and over half of the whole of the former
+monastic estates had been alienated by Henry VIII's death, "well over
+three-quarters by 1558" (Introduction ch. 5). The department built to
+hold the fisc was folded into the Exchequer in 1554, with the other
+non-proprietary revenue boards of the 1530s, which is the same result
+reached from the administrative side by a quite different test: the
+boards "did represent a serious challenge to the Exchequer, that
+bastion of proprietary officeholding", and yet by 1554 the most
+important of them "had all been incorporated into the Exchequer"
+(Ertman 1997: 181). Two authorities, two variables, one outcome. The
+1530s produced a consolidation whose fiscal base did not survive a
+generation.
+
+So the English case splits, and the split is the chapter's own
+inference from Youings's evidence rather than a finding of hers. The
+crown of the 1530s took a stock where the crown of the 1440s across
+the Channel had taken a flow. A taille granted for the men of war
+could be levied again every year and could not be spent out; a
+monastic estate was capital, and was spent, at a fixed twenty years'
+purchase, on the county families whose Parliament would fight the
+crown a century later. Read that way the English sequence is not a
+refutation of the mechanism but its sharpest demonstration of which
+link in the chain bears the weight — not the size of the seizure but
+the permanence of the finance. [BOOK'S ARGUMENT (c): the
+stock-and-flow reading is this book's inference from Youings's
+evidence, and she draws no such contrast.]
+
+What the confiscation did achieve was irreversible, and that is why
+the dissolution stands in this book as England's turn although it
+stands as nobody's standing revenue. What the crown took was not
+merely land but a universalist rival — the one corporation in the
+realm whose obedience ran beyond it — and it took it by fiscal
+instrument. The claim rests on effect and on instrument, not on
+motive, because the standard authority denies the motive: Youings
+holds that the operation's "inspiration and execution owed little to
+religious considerations", and doubts that the dissolution was even an
+integral part of the breach with Rome (Introduction ch. 1). The
+instruments are nonetheless what they are. The Dispensations Act of
+1534 barred English religious from going abroad in an official
+capacity and so, on the reading she reports, "affected the virtual
+nationalization of English monasticism at one blow" (Introduction
+ch. 2); papal exemption was converted into royal commission, the
+exempt houses thereafter to be "visited or vexed" only "by
+commissioners appointed by the king under the Great Seal"
+(Introduction ch. 3); an act of 1540 vested in the crown "all the
+'franchises and temporal jurisdictions'" of the monasteries and placed
+them under the Court of Augmentations (Introduction ch. 3 n. 54); and
+the mechanism is stated most economically in her own account of how
+the houses ended — they "were never, in so many words, actually
+dissolved … Institutions which for the most part traced their
+foundation to gifts of landed property came to an end with the
+surrender of that property" (Introduction ch. 1). The fiscal act was
+the canonical act. Not a single act, then, but one apparatus working
+in one decade, which is the shape the mechanism predicts and the
+reason Chapter 12 takes the canonical half of the English precedent
+and not the fiscal half. [BOOK'S ARGUMENT (c) — effect and
+instrument, not motive. GAP: the crown's ordinary revenue before and
+after the confiscation — Youings carries no such figure and insists
+the balance sheet of the operation has never been drawn; Hoyle, or a
+modern successor to Dietz, stays on the RETRIEVAL LIST, and no
+before-and-after comparison is made here.]
+
+For the fiscal half arrived a century and a half later, and elsewhere
+in the constitution. Standing taxation in England dates from the
+Restoration and the wars that followed it — the nearly annual
+parliaments after 1660, and the non-proprietary fiscal-military
+apparatus built with their support to carry the conflicts of 1688 to
+1714 (Ertman 1997: 30, 187–8) — so that the two links France coupled
+inside a generation reached England separately, a century and a half
+apart:
+the canonical move in the 1530s, the permanent fisc in the 1690s. That
+is the English case's disanalogy, and the book states it rather than
+smoothing it.
 
 France's limb is established — the reader holds it from Chapter 10 —
 and needs only its extension: the mature apparatus taken abroad.
@@ -201,9 +299,19 @@ train enter Rome at night, "more than 36 pieces that the horses drew
 at an incredible speed"; Contamine's verdict, already quoted and worth
 its repetition here, was that the young king believed he possessed "an
 instrument no coalition could break" (Contamine 1964: 261 [TRANS.
-CLAUDE]). The first continental adventure of the completed
-fiscal-military state: the settlement exporting itself, a generation
-after its assembly.
+CLAUDE]). The first continental adventure of the fiscal-military
+state — and of a settlement whose own historians insist it was not
+finished, since the force that crossed the Alps "numbered no more than
+20,000 combatants, and was thus smaller than many of the armies
+assembled during the Hundred Years War", the standing companies
+supplied only its cavalry and were each "controlled and commanded by
+the local royal governor, almost always a member of a prominent
+magnate family", and the infantry was Swiss and German by contract,
+still furnishing "21,000 men out of a total infantry contingent of
+about 40,000" as late as 1558 (Ertman 1997: 94–5): the settlement
+exporting itself a generation after its assembly, and exporting with
+it the magnate governors' companies and the contract pikes that were
+its defects.
 
 ## III.
 
@@ -239,7 +347,37 @@ other kingdoms, and lost, after 1650, to states that had (PDF 379).
 That narrows the book's claim, and the narrowing is stated as such:
 the settlement is not the precondition of decisive force but the
 condition of *sustaining* it, and what it subordinates are the
-intermediaries of the core.
+intermediaries of the core — the armed ones.
+
+That qualification is not a hedge, and Glete supplies both halves of
+it. On the armed side Castile is as complete a case as this chapter
+has: after the Granada war "Private armies as instruments of
+aristocratic factionalism ceased to be important … and the noblemen's
+castles had become vulnerable to the rulers' new siege artillery", the
+armed forces of the *hermandades* "were abolished in 1498", and the
+three military orders were "permanently incorporated into the crown in
+1523, a change that eliminated autonomous military structures" (Glete
+2002: 75–6) — the mechanism's Castilian instance in the space of two
+pages. On the fiscal side it is not a case at all. The *millones*
+granted in 1590 was raised by "the cities represented in the Cortes"
+on their own account, so that "the local elites took control of
+essential parts of the tax administration"; the crown's attempt in the
+early 1620s to convert the grant into "a permanent obligation to
+maintain 30,000 soldiers … was denied"; and by the later seventeenth
+century those same elites "had gained the power to dismantle large
+parts of the Spanish fiscal-military state" (Glete 2002: 122, 126).
+The Cortes of Castile is the intermediary the settlement never
+subordinated, and what became of it — its formal powers kept, its real
+control lost, the institution finally dispensed with after 1665 — is
+Chapter 12's portrait and is deliberately not told twice. What matters
+here is the asymmetry: a crown that had disarmed its lords and annexed
+their corporate militaries was still collecting its largest new tax
+through the towns that granted it — and the asymmetry is the mechanism
+behind the fact already stated. Fielding decisive force asks for the
+armed intermediaries; sustaining it asks for the fiscal ones; and
+Castile subordinated only the first. That is Chapter 10's
+Burgundian finding — offices without an irreversible fisc — at
+imperial scale.
 
 The domestication of local order: at the Cortes of Madrigal in 1476
 the Catholic Monarchs reorganised the old municipal brotherhoods into
@@ -267,7 +405,7 @@ rival's Iberian arms became crown patronage forever.
 
 And the canonical move proper: the Inquisition. Sixtus IV's bull
 *Exigit sincerae devotionis* (1 November 1478) granted the monarchs
-the exclusive authority to name the inquisitors — canonical machinery,
+the sole right to name the inquisitors — canonical machinery,
 royally staffed; the first tribunal sat at Seville within two years;
 Torquemada, Inquisitor General from 1483, extended a single
 royally-appointed hierarchy across Castile *and* Aragon — making the
@@ -647,7 +785,8 @@ verification — flagged), the digital euro aimed at pilot
 in 2027; the French champion, note, is privately anchored
 — its largest shareholder a Dutch lithography monopolist,
 with *no French state equity*, the verified absence again.
-The Chinese style is fusion, extended now by treaty; the
+The Chinese style is departmental — the platforms run as
+organs of the party-state — extended now by treaty; the
 Indian style is the sovereign stack itself. Four licensing
 forms, one function: mandate the canon, license the
 presses. [END BRIDGE]
@@ -679,7 +818,8 @@ They will nationalise their *functions* — the book predicts
 this on balance, and scores it rather than assumes it — by
 licence and licensing fee above all, with security-clearance
 and procurement integration beneath, in the United States; by
-canonical regulation in Europe; by fused ownership in China;
+canonical regulation in Europe; by ownership and party
+direction in China;
 by sovereign-stack substitution in India — while the
 platforms' corporate forms persist, as the Church persisted
 after Henry: intact, wealthy, and subordinate in the
@@ -713,12 +853,61 @@ knew was likely to seize much of his wealth, did so "as soon as he
 was dead and his army and skill was no longer to be feared," and put
 up his statue not in the Piazza but at the Scuola di San Marco,
 because "such glorification of any individual person was not
-permitted at the center of government" (Lane 1973: 233). [GAP — Part
-B: Chastellain t. III, the Alençon judgment — the crown retaining the
-artillery and the named fortresses and preserving the family's other
-interests — to be drafted once verified at the page.] Wealth and
-standing kept; discretion over the things that made the position
-sovereign transferred. That is the licensing move's content, and
+permitted at the center of government" (Lane 1973: 233).
+
+The instrument itself survives, in the crown's own words, and it names
+the guns first. On 10 October 1458, at Vendôme, the chancellor of
+France pronounced sentence on Jean, duke of Alençon and count of
+Perche, a peer arrested two years earlier for treating with the
+English — to whom, by the confession the chronicle's editor
+transcribes from the *procès*, he had offered his strongholds and
+"assés d'artillerie pour combattre x mil hommes aux champs pour ung
+jour", artillery enough to fight ten thousand men in the field for a
+day [TRANS. CLAUDE] (Chastellain, ed. Kervyn 1863: iii. 479 n.).
+Convicted of lèse-majesté, deprived of the honour and dignity of the
+peerage of France, condemned to death and to the confiscation of every
+one of his goods (pp. 481–3), he was then dealt with by moderation,
+obtained at the petition of his uncle the duke of Brittany (p. 486). Of his movable goods the king left everything to
+wife and children, "réservé au roy l'artillerie, harnois et autres
+habillemens de guerre" — reserving to the king the artillery, harness
+and other habiliments of war [TRANS. CLAUDE] (p. 486). Of the lands
+the arrêt drew the line the fifteenth century drew between appanage
+and patrimony. The towns, castles and castellanies of Alençon,
+Domfront and Verneuil the crown "unist et adjoint et incorpore au
+patrimoine et au domaine de son royaume" — united, joined and
+incorporated into the patrimony and domain of the kingdom [TRANS.
+CLAUDE] — retaining with them the residue of the duchy and every right
+that formed part of the crown's own appanage; while the county of
+Perche passed to a single son and his lawful male heirs "sans
+toutevoies aucune dignité ou prérogative de parrie", without, however,
+any dignity or prerogative of the peerage, and the family's remaining
+lands to the children "soubs la main du roy" until they came of age
+[TRANS. CLAUDE] (pp. 486–7). The appanage was resumed and the
+patrimony was left. Of everything a condemned peer owned, the artillery
+was the one private thing the crown would not leave in private hands.
+
+Four of the five discretions are in that document and the fifth is
+not, which is worth saying rather than implying a clean set. Refusal is
+the charge itself, a peer treating with an invader on his own account.
+Infrastructure is the castellanies incorporated and the train
+reserved. Succession is Perche granted without the peerage and the
+residue held in the king's hand. Rule-setting is the dignity of peerage
+stripped, which was the peer's own seat in the court that tried him.
+Operational knowledge the arrêt is silent upon: the guns are taken as
+property and not as expertise, the gunners and their craft appear
+nowhere in it, and the fifth discretion therefore stays with
+Fortescue's sworn officers and with Colleoni's army and skill. The
+concession travels in the same paragraph, because the scene is worth
+no more than its concession. The instrument was judicial rather than
+fiscal; the moderation was bought by a kinsman's petition; and the
+sentence of death was not carried out but deferred, "jusques à son bon
+plaisir", until the king's good pleasure [TRANS. CLAUDE] (p. 484). The
+duke outlived his own condemnation, and the chronicle has him still in
+prison five years afterwards (pp. 100–101). A settlement of the Tudor
+kind is one that a succession does not undo; in 1458 the crown could
+name what it would not leave in private hands, and could not yet make
+the naming permanent. Wealth and standing kept; discretion over the
+things that made the position sovereign transferred. That is the licensing move's content, and
 Chapter 12 scores it transfer by transfer.
 
 And the ch04
@@ -768,8 +957,11 @@ artillery?
 
 *Draft ends. Word count ~3,900 at first draft; ~7,900 after the Phase
 5 renovation of 2026-09-16 (§§I–V rewritten to the rulings; §VII gains
-the itemisation), against a ~13,000 chapter weight (§VI compressed
-pending Roderick's [BRIDGE] development). Voice-discipline ledger
+the itemisation); ~9,900 after the Phase 6 renovation of 2026-09-29
+(§II recast as "fisc without permanence"; §III gains the armed-versus-
+fiscal split; §VII gains the Alençon arrêt), against a ~13,000 chapter
+weight (§VI compressed pending Roderick's [BRIDGE] development).
+Voice-discipline ledger
 (counted as produced): coined concept — NONE ("New Monarchy" is
 Green's, quoted at T1; the five-move schema is (c) but not a coinage;
 "administrative state before artillery" is a label, not a coinage);
@@ -781,14 +973,24 @@ Roderick's ration: "The mechanism's requirement is met twice over; the
 mechanism's sequence is reversed" (§IV); "Cannon was the weapon the
 subjects could not replicate; the press was the one they always could"
 (§V, the ruling's own wording); "In Castile at least." (§III, Elliott's
-phrase repeated as a sentence). One [BRIDGE] section (§VI), carrying
-[RE-CHECK AT PRESS] entire, with one [BRIDGE — PROPOSED] block beneath
-Move five per ruling (p). [GAP] flags: Elliott/Kamen (Inquisition
-scale); Febvre & Martin; the dissolution's receipts (Youings/Hoyle);
-Chastellain t. III Alençon (Part B); İnalcık vassal-prince page [PIN
-PENDING]. Flags closed this pass: Wolffe/Chrimes (Grummitt); Lander
-tallies (p. 292); İnalcık per-levy figures (p. 78). Corrections
-carried: Bergavenny under the 1390 rank rule, two-thirds of a year's
+phrase repeated as a sentence). QUOTABLE LINE THE PHASE 6 RENOVATION
+ADDED, counted honestly and the only one: "Of everything a condemned
+peer owned, the artillery was the one private thing the crown would not
+leave in private hands" (§VII). No coinage and no new image were added
+this pass; the chapter still coins nothing. One [BRIDGE] section (§VI),
+carrying [RE-CHECK AT PRESS] entire, with one [BRIDGE — PROPOSED] block
+beneath Move five per ruling (p); no bridge's burden was changed by the
+rulings of 29 September, so no further [BRIDGE — PROPOSED] is added.
+[GAP] flags: Elliott/Kamen (Inquisition scale); Febvre & Martin; the
+crown's ordinary revenue before and after the dissolution (Hoyle, or a
+modern successor to Dietz — NARROWED from "the dissolution's receipts,
+Youings/Hoyle"); İnalcık vassal-prince page [PIN PENDING]. Flags closed
+this pass: the Youings half of the dissolution's receipts, at §II's
+fisc sentences and at the [BOOK'S ARGUMENT] universalist sentence;
+[GAP — Part B: Chastellain t. III, the Alençon judgment], written at
+§VII from the verified pins. Flags closed earlier: Wolffe/Chrimes
+(Grummitt); Lander tallies (p. 292); İnalcık per-levy figures (p. 78).
+Corrections carried: Bergavenny under the 1390 rank rule, two-thirds of a year's
 revenue, probably £1,000 paid, licensed 1512 (Lander); Henry VIII's
 cancellations 1509–10; the chamber as deposit treasuries, not a
 current account, not a Yorkist continuation (Grummitt); the 1497
@@ -801,7 +1003,12 @@ the Stationers' charter as a guild taking enforcement into its own
 hands; fifty-three houses, 1695; the Index as parallel not mirror;
 the eight-million lower bound; the Ottoman exemption from "none was
 executable without it"; the Pillar Two carve-out, FTC loss, and
-Anthropic reversal printed, not smoothed. No claim beyond the
+Anthropic reversal printed, not smoothed; and, this pass, the
+1536 act's threshold as a *Valor* figure rather than a preamble
+(Youings against the draft's Lander clause), "completed"
+fiscal-military state cut (Ertman), "exclusive authority" to name the
+inquisitors recast as the sole right, and "fusion"/"fused ownership"
+retired as names for the Chinese mode. No claim beyond the
 reviewed memo and its Revisions.*
 
 ## Revisions (post-review)
@@ -859,9 +1066,61 @@ reviewed memo and its Revisions.*
    7,930. No "suppressing" (chain sense), "ended" or "severs"
    remained to change in this chapter.
 
+5. **(2026-09-29 — Phase 6 renovation: Decisions 8, 9, 14, 15, 16, 17,
+   18, 21 of Sheet III (spine §8(i)). PENDING HUMAN REVIEW.)** Applied
+   per research/claude-code-instruction-phase6-renovation-2026-09-29.md
+   A4, A5 and C3; pins from memo Revisions 10, 11, 12 and 19 and from
+   sources.md, re-opened at the sidecars this date. Word count 7,930 →
+   ~9,900 on the count used at Phase 5 (chapter text proper, 7,338 →
+   ~9,340). Full old/new record at ch11/memo.md Revisions 22.
+   - **Decision 8 — §II recast as "fisc without permanence."** The
+     1530s stand as the turn; the dissolution is stated as the
+     irreversible confiscation of a universalist rival and as a stock,
+     not a flow, with Youings at the chapter and document (doubling;
+     the Augmentations as the bank; "did not lead to the permanent
+     augmentation"; over half alienated by 1547 and "well over
+     three-quarters by 1558"; twenty years' purchase from December
+     1539), Ertman's 1554 reabsorption beside her, and standing
+     taxation placed at 1660–1714 with a forward clause. Y71-b applied
+     (the [BOOK'S ARGUMENT] sentence rests on effect and instrument,
+     Youings denying the motive; "a single act" → "one apparatus
+     working in one decade"); Y71-c applied (stock and flow in the
+     text, flagged as the book's inference); Y71-d applied (the *Valor*
+     as the threshold's source); Y71-e declined, with reasons in the
+     memo; Y71-f applied (residual GAP opened, Hoyle kept on the
+     RETRIEVAL LIST, no before-and-after figure stated).
+   - **Decision 14 (ff) — "completed" cut** from §II's 1494 sentence,
+     with Ertman's twenty thousand, the magnate governors' companies
+     and the Swiss and German contract infantry in the same sentence.
+   - **Decision 15 (dd, hh) — §III** now states which intermediaries
+     Castile subordinated: the armed ones, with Glete on the private
+     armies, the castles, the *hermandades* and the orders; and not the
+     fiscal ones, with the Cortes cities collecting the *millones* on
+     their own account, the 1620s refusal and the elites' later power
+     to dismantle. The Cortes is named in a half-sentence and its
+     portrait is left whole to Chapter 12.
+   - **Decision 21 (gg) — §VII's [GAP — Part B] closed.** The Alençon
+     arrêt of 10 October 1458 written from Chastellain, ed. Kervyn,
+     tome III, with "réservé au roy l'artillerie, harnois et autres
+     habillemens de guerre" in the text; the appanage resumed and the
+     patrimony left; four of the five discretions taken and operational
+     knowledge stated as silent in this instance; the reversibility
+     disanalogy in the same paragraph.
+   - **Decisions 16, 17, 18.** "Fusion" and "fused ownership" retired
+     as names for the Chinese mode (§VI Move five; §VII's casting
+     line), the term left to the Chinese programme; "the exclusive
+     authority to name the inquisitors" → "the sole right"; every
+     instance of "legibility" and "legible" in this chapter searched
+     and found technical, so none reworded.
+   - **Decision 9.** Neither sentence is this chapter's: "private
+     armies" and the minority council are ch05 §§VI and II, and the
+     regency runs are ch09 §III. Recorded and left. "Private armies"
+     enters this chapter only inside Glete's own sentence at §III.
+
 ---
 
 STATUS: REVIEWED (Roderick, 2026-08-02) — approved as drafted;
 Revisions 1 (Wolffe upgrade) REVIEWED (Roderick, 2026-09-02 — review pack);
 Revisions 2–3 PENDING HUMAN REVIEW; Revisions 4 (Phase 5 renovation,
-2026-09-16) PENDING HUMAN REVIEW
+2026-09-16) PENDING HUMAN REVIEW; Revisions 5 (Phase 6 renovation,
+2026-09-29) PENDING HUMAN REVIEW
