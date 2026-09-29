@@ -1324,3 +1324,340 @@ STATUS: Revisions 12 PENDING HUMAN REVIEW (intake, 2026-09-16); Revisions
 11 PENDING HUMAN REVIEW (Phase 5 renovation, Part B1,
 2026-09-16). Draft changed at Revisions 11 — see ch09/draft.md Revisions
 2; unchanged by this intake.
+
+---
+
+## Revisions (2026-09-29 — Phase 6 renovation: Decisions 9, 20, 23, 25, 26. PENDING HUMAN REVIEW.)
+
+14. **(The second draft edit. Rulings applied: Sheet III Decision 25
+    (row (kkkk)) — the ruled subject stands, the outline's Structure 6–7
+    subordinated and the conflict recorded; Decision 26 (rows (hhhh),
+    (gggg)), in Roderick's words — "Close section III with the bridge in
+    one paragraph, and turn the ceremony sentence rather than merely
+    softening it, stopping before the modern case; the turned sentence
+    is better material than the deleted one"; Decision 9 (row (iiii)),
+    in his words — "on Chapter 9 hedge both sentences and let the
+    minority-versus-incapacity distinction carry the weight the count
+    was carrying, because a distinction survives a counter-example and
+    a count does not"; Decision 23 (rows (jjjj), (qqqq)) — the three
+    footnotes taken, Charles VII's court left to ch05/ch11, the Zaphod
+    footnote NOT added ("as a matter of taste"), both Lepore corrections
+    kept; Decision 20 — the borrowed terms paid for where they fall in
+    this chapter (Bagehot's "dignified", already attributed with his
+    caveat; Krasner's authority/control). Every pin below was re-opened
+    at its sidecar this run: `text-2026-09-14/Bagehot.txt`,
+    `Krasner.txt`, `Cheung.txt`; `text-2026-09-16/` and
+    `text-2026-09-14/Crouch-PostDemocracy.txt`;
+    `text-2026-09-13b/Griffiths.txt` and `Lander.txt`;
+    `text-2026-09-29/ArtificialState-ocr.txt`. Word count: draft.md
+    7,472 → 8,445 (wc -w, apparatus and the new Revisions 3 included);
+    **body 6,644 → 6,963** — net +319, the bridge paragraph (+617) and the
+    §I/§§VIII–IX additions (+1,303) against the deleted section
+    (−1,601).
+    Sections remain I–IX.)**
+
+    **(A) [OUTLINE CONFLICT] — RECORDED, NOT RESOLVED (Decision 25,
+    choice A).** outline.md, ch09 Structure, items 6 and 7, direct the
+    chapter to run from the modern personalisation of executive
+    authority (item 6) to "the pending settlement" — the improvised
+    bureaucratisation of platform, party and executive authority — and
+    to "identif[y] specific indicators to watch": the
+    professionalisation of platform trust-and-safety, institutional AI
+    governance, the routinisation of executive orders and party doctrine
+    (item 7). Roderick's ruling of 14 September (row (bb); spine
+    §8(g)(5)–(6)) and Decision 25 of 29 September give the chapter a
+    different organising subject — constitutional appearance against
+    effective power, worked through the minority of 1422 against the
+    incapacity of 1453 — and a close that plants Part III's
+    constitutional question (the efficient part migrating while the
+    dignified part stays). **The ruled subject stands. The outline's
+    items 6 and 7 are SUBORDINATED, not deleted:** §VIII still carries
+    item 6's personalisation material (the proxy filings, the extreme
+    case, the executive orders, the party-state) and §IX still carries
+    item 7's improvised substitutes (trust-and-safety, the DSA
+    compliance function, the AI offices, the Long-Term Benefit Trust,
+    the SEC succession rule); what is subordinated is the *terminus* —
+    the chapter no longer itemises indicators to watch, because the
+    scoring is Appendix C's and the close is now the constitutional
+    question. CLAUDE.md §9 forbids this unit to edit outline.md, so the
+    conflict is carried, flagged, and left for Roderick: **either
+    outline.md ch09 items 6–7 are amended to the ruled close, or the
+    ruled close is re-pointed to end on indicators.** (Recorded also at
+    memo Revisions 10 and draft.md Revisions 3.)
+
+    **(B) §III's close — THE BAGEHOT BRIDGE, ONE PARAGRAPH (Decision
+    26, placement).** A new final paragraph of §III, beginning "The
+    distinction the lords drew without naming it has a name in the
+    English constitutional tradition…". It carries, in this order:
+    the distinction and the gain/use sentence (Bagehot 1867, "The
+    Cabinet," PDF p. 21 — "those which excite and preserve the reverence
+    of the population—the DIGNIFIED parts… the EFFICIENT parts—those by
+    which it, in fact, works and rules"; "every constitution must first
+    GAIN authority, and then USE authority"); the **scope caveat** ("The
+    House of Lords," PDF p. 48 — "I am not, of course, now speaking of
+    the middle ages…"); the application to Windsor and Westminster with
+    Watts's "artificial royal will" (Watts, ch. 5, p. 127); the
+    **genealogy quoted** ("Conclusion," PDF p. 103 — "very soon that
+    line comes to a child or an idiot, or one by some defect or other
+    incapable… the grave council begins not so much to suggest as to
+    inculcate, not so much to advise as to enjoin"), with his terms
+    matched to 1422, 1453 and 1392 and the word for the second quoted as
+    his and not adopted; his knowledge of where the cases lay
+    ("Conclusion," PDF p. 104 — "some monarchs were imbecile"; "an
+    EXPRESSIVE body"); the **both-halves disanalogy** ("On Changes of
+    Ministry," PDF p. 83 — "retained, not for intrinsic use, but from
+    their imaginative attraction…"; "the additional and
+    solely-ornamental wheels introduced into the clocks of the Middle
+    Ages"; "all such ornamental work is a source of friction and error"
+    — against "The Cabinet," PDF p. 21 — "are the preliminaries, the
+    needful prerequisites of ALL work. They raise the army, though they
+    do not win the battle" — and "The Monarchy I," PDF p. 30 — "the use
+    of the Queen, in a dignified capacity, is incalculable. Without her
+    in England, the present English Government would fail and pass
+    away"), resolved as "ornamental as administration, indispensable as
+    authority" and tied to the 1454 lords who could not do without the
+    king they could not use; the one-body/involuntary-separation/refusal
+    sequence (the personal monarchy's two parts one body; 1422–55 the
+    involuntary separation from which the designed one descends; the
+    negative drafting of March 1454 refusing to make it lawful); **his
+    valuation refused** ("The Cabinet," PDF p. 28 — "not necessarily or
+    commonly in the whole people … but in a CHOSEN people, a picked and
+    selected people"; "Prerequisites," PDF p. 101 — "the apparent rulers
+    of the English nation are like the most imposing personages of a
+    splendid procession … The real rulers are secreted in second-rate
+    carriages"), with the book's inversion stated as measurement — a
+    quantity, not a virtue; and **Crouch beside him without the term**
+    ("it is difficult to dignify it as democracy itself" — Crouch 2000,
+    PDF p. 8). **No new image** (the chapter's one image, the
+    scaffolding, is §III's and is untouched); no coinage; ch12's term
+    does not appear.
+
+    **(C) The old §VI (the standing Bagehot section) — DELETED, its
+    matter redistributed.** Phase 5B (Revisions 11) built the bridge as
+    a section of its own, three paragraphs, 1,601 words, before the
+    ruling existed. Decision 26 ruled the other placement, and gave the
+    reason: "a section invites the reader to expect the concept, and the
+    concept is chapter 12's." The section is therefore gone and its
+    substance is either in the new bridge paragraph (above) or moved:
+    - **George III → a note at §IX's OpenAI passage** (Decision 23):
+      "We have had the case of a meddling maniac" and "a secret power
+      which is always eager, which is generally obstinate, which is
+      often wrong … which is irresponsible because it is inscrutable,
+      which cannot be prevented because it cannot be seen" (Bagehot
+      1867, "The Monarchy II," PDF p. 46 — opened and verified this
+      run), with "was the Government" (PDF p. 37). The epithets are
+      credited as his and explicitly not adopted as the book's
+      description of any person.
+    - **The instability concession and the 'prefet' → §IX's
+      forward-pointing close**: "unstable equilibrium" and "there is no
+      tendency to return to it" ("Prerequisites," PDF p. 102); "the
+      instrument in that behalf is the centralised executive, and there
+      was then no 'prefet' by whom the opinion of a rural locality could
+      be made to order" ("Conclusion," PDF p. 104; the initial "The" is
+      lowercased for the embedding, the stack-as-*prefet* inference is
+      still NOT made here).
+    - **The disguise → §IX's close**: "It enables our real rulers to
+      change without heedless people knowing it" ("The Monarchy I," PDF
+      p. 36) and "it is needful to keep the ancient show while we
+      secretly interpolate the new reality" ("Conclusion," PDF p. 106).
+    - **Dropped with the section, and recorded as dropped:** the
+      quotable line "nature performed the separation the constitution
+      had not yet learned to perform for itself"; the "DISGUISE"/"ancient
+      show" pairing's second sentence; "daylight upon magic" (PDF p. 37)
+      — available, no longer used; the second Crouch pin (PDF p. 2),
+      whose sentence is now carried by the p. 8 line alone.
+
+    **(D) The section numbering — a structural judgement of this run,
+    recorded.** Deleting a section would have renumbered the chapter to
+    eight and falsified live cross-references this unit may not edit
+    (ch12/sources.md and ch12/memo.md cite **ch09 §§VIII–IX**;
+    coda/memo.md cites §V). To hold I–IX, old §V's two paragraphs are
+    given a section each: **§V** France's legislated substitute and the
+    two designs failing in opposite ways; **§VI** the century's
+    experimental record. Only one word of §VI's opening changed ("the
+    previous section" → "the previous sections"). Reversible; if
+    Roderick prefers eight sections, the split is undone and the
+    cross-references in ch12 and the Coda are corrected in the same
+    pass.
+
+    **(E) §VIII's opening — THE CEREMONY SENTENCE, TURNED (Decision
+    26).** OLD (as Phase 5B softened it): "Five centuries after the
+    relief, the personal constitution has returned — not in the residual
+    monarchies, where the two bodies were separated by design and the
+    dignified one, on Bagehot's account, still raises the army the
+    efficient one commands, but in the charters of the new continental
+    institutions, where the two bodies are one again, and load-bearing,
+    and growing." NEW: "Five centuries after the relief, the personal
+    constitution has returned — not in the residual monarchies, which
+    are not the weak case but the demonstration, the one surviving form
+    in which a separated dignified part can be watched doing its work,
+    since on Bagehot's account the half that does not command still
+    raises the army the half that commands employs; it has returned in
+    the charters of the new continental institutions, where the two
+    bodies are one again, and load-bearing, and growing." Pins: Bagehot
+    PDF pp. 21, 30. The turn stops before the modern case: it says
+    nothing about which modern institutions are the dignified part,
+    which is ch12's.
+
+    **(F) Decision 9 — both sentences hedged; the distinction carries
+    the weight.** Pins: Griffiths 1981 pp. 22, 32, 34, 36, 38, 73,
+    231–40; Lander 1976 pp. 75–76; Tilly 1985, "Violence and
+    Government," para. 4.
+    - **§I.** OLD: "…a minority, which was designed and which worked,
+      and an incapacity, for which no office could be designed at all."
+      NEW: "…a minority, which was designed and which held, if not
+      without a crisis that nearly broke it, for fifteen years, and an
+      incapacity, for which no office could be designed at all." (The
+      crisis is Griffiths pp. 36, 73 — the Beaufort–Gloucester collision
+      of April 1425.)
+    - **§IV, first clause of the working claim.** OLD: "And the designed
+      office worked — with a hedge the chapter states against the
+      strongest statement of the contrary view." NEW: "And the designed
+      office worked, in the qualified sense the record will bear — with
+      the hedge stated here rather than left for a reader to supply, and
+      stated against the strongest statement of the contrary view."
+    - **§IV, the exception.** OLD: "…against Tilly's rule, that is the
+      exception, and it is claimed as one." NEW: "…against Tilly's rule,
+      that is the exception, and it is claimed as one and claimed
+      narrowly — a single run, in one kingdom, which complicates a
+      generalisation drawn from the whole of Europe before the
+      seventeenth century without overturning it."
+    - **§VI, the count.** OLD: "…the fifteenth century ran the regency
+      experiment perhaps half a dozen times in two kingdoms, and every
+      run returned the same *form*. It did not return the same result."
+      NEW: "…the runs of the experiment the record preserves — and there
+      were several in each kingdom — returned the same *form*. They did
+      not return the same result, and the difference between the results
+      is not a matter of how many runs there were. A minority was an
+      office temporarily filled by a council; an incapacity was an
+      office that could not be filled at all; and the two failed
+      differently rather than identically. That distinction, and not a
+      tally, is what the argument rests on, because Tilly's rule is
+      stated for the whole of Europe before the seventeenth century and
+      no count taken in two kingdoms could meet it (Tilly 1985,
+      'Violence and Government,' para. 4)." The count is gone as a
+      load-bearing claim; the distinction carries it, per Roderick's
+      reason.
+
+    **(G) Decision 23 — the notes taken.**
+    - **§I, Krasner** (pp. 4, 10 / PDF 14, 20; both opened this run):
+      the authority/control split entered as a parenthetical note at the
+      sentence stating the doctrine's premise ("the doctrine presumes
+      that the natural body *executes*"), with the fifteenth-century
+      question stated as what becomes of a constitution in which both
+      are vested in one body.
+    - **§VIII, Cheung** (pp. 67, 284–86 / PDF 82, 299–301; opened this
+      run) at the Xi paragraph: "a personalistic symbol of Xi's command
+      of the NSS"; "hyperconcentrated under Xi's authority" across three
+      chairmanships; deputies who "lack the political qualifications to
+      take over in anything more than a short-term acting capacity", the
+      overconcentration "the gravest risk". Marked as his judgement
+      about an office.
+    - **Charles VII's court (row (jjjj)) — NOT entered here**, per
+      Decision 23: it stays with ch05 §§VI–VII and ch11 §VII.
+    - **The Zaphod footnote (row (qqqq)) — NOT added**, per Roderick's
+      ruling as a matter of taste. The Lepore *figurehead* material
+      therefore remains unused in the manuscript; recorded so no later
+      unit re-proposes it.
+
+    **(H) Decision 23 — both Lepore corrections applied (qqqq).** Pins
+    provisional, printed and PDF page, no imprint or year.
+    - **§VIII, the DOGE sentence** ADDS: "It had a programme as well as
+      an animator, which is worth recording because it makes the episode
+      a design rather than a whim: on Jill Lepore's account the
+      department 'drew its inspiration from RAGE—Retire All Government
+      Employees—by the neo-monarchist Curtis Yarvin,' whose 'aim was to
+      replace humans with bots' (Lepore, printed p. 112 / PDF p. 126;
+      the pin is provisional and the characterisation of Yarvin is
+      hers)." Verified at the sidecar this run (running head OCR'd
+      "12"; the RAGE line and the bots line both present).
+    - **§IX, the institutionalising limb.** OLD: "The substitutes are
+      institutionalising." NEW: "The substitutes are institutionalising,
+      unevenly, and the unevenness is itself instructive: where a
+      legislature or a regulator has done the institutionalising, the
+      instrument exists and binds; where the institution was announced
+      by the body it was to constrain, some of it was never built at
+      all." OLD: "…and the frontier labs have begun writing their own
+      regency instruments: Anthropic's Long-Term Benefit Trust… a
+      constitutional device for placing the institution's long-run
+      interest beyond any single natural body (primary announcement)."
+      NEW: "…and one instrument among the frontier labs is a matter of
+      corporate law rather than announcement: Anthropic's Long-Term
+      Benefit Trust, a class of stock held by trustees who will elect a
+      board majority, a device for placing the institution's long-run
+      interest beyond any single natural body (primary announcement).
+      The constitutional announcements made alongside such instruments
+      are a different matter, and nothing here rests on them. The
+      proposal that a constitution for powerful AI systems 'could be a
+      democratic process wherein diverse stakeholders provide input'
+      produced, on Jill Lepore's account, neither of the bodies it
+      named — 'No promised world governance board was ever assembled …
+      no constitutional convention was ever held' — and the constitution
+      that was published 'was written chiefly by a philosopher working
+      for Anthropic' (Lepore, printed p. 106 / PDF p. 120; pins
+      provisional). She is a pointer rather than the authority: the
+      negative belongs at the labs' own documents, and this chapter
+      counts an instrument whose constitutional character was announced
+      and not built as no evidence of institutionalisation at all
+      [PRIMARY OWED: the labs' published governance documents against
+      the announcements]." Verified at the sidecar this run (PDF marker
+      120 precedes both quotations; the "democratic process" sentence is
+      Anthropic's, quoted by her).
+
+    **(I) NOT APPLIED, and why.** (i) **Decision 5 / row (mmmm)'s ch09
+    limb** — Lepore's administration-against-representation line
+    (printed p. 38 / PDF p. 49; printed p. 94 / PDF p. 107) as the
+    criterion at §IX's close for what the efficient part's migration
+    would consist in. Ruled A, but assigned to the ch12 unit in the
+    Phase 6 instruction (Part B2); it is not in this unit's tasking and
+    is left for the next pass, with the pins here. (ii) **Chastellain
+    t. VII's vernacular** (memo Revisions 12, rows C7-g/h) — not ruled,
+    not entered; the *fault* sense at p. 329 is still unsettled.
+    (iii) **Lepore's Zuckerberg sentence** (printed p. 86 / PDF p. 97) —
+    a CONFIRMS, not a ruled correction; §VIII keeps the proxy filings.
+    (iv) **Blackstone direct** for §II's Kantorowicz [GAP] — still owed;
+    the [GAP] stands.
+
+    **(J) Provenance check.** Every quotation in the Phase 6 matter was
+    opened at its sidecar this run: Bagehot PDF pp. 21, 28, 30, 36, 37,
+    46, 48, 83, 101, 102, 103, 104 (all present as quoted; p. 104's
+    'prefet' sentence lowercased at its first word for embedding);
+    Krasner pp. 4, 10; Cheung pp. 67, 284, 285–86; Crouch PDF p. 8;
+    Lepore printed pp. 106, 112 / PDF pp. 120, 126; Griffiths, Lander
+    and Tilly 1985 as previously pinned. **No quotation entered this run from a
+    source not in corpus; nothing hardened.** Sources confirmed in
+    corpus for this run's matter: Bagehot, Crouch, Krasner, Cheung,
+    Lepore, Griffiths, Lander, Tilly 1985, Watts (chs. 5–6 as PDFs), the
+    DSA regulation text.
+
+    **P43-h list — quotations still standing in the draft from sources
+    NOT in corpus (REVIFY-OR-CUT at the pre-press pass; none hardened
+    this run, none re-worded to look firmer):**
+    - §I — Plowden, *Commentaries* 212a–213 and the marginal gloss
+      (working extract only, in a 2026-07 session scratchpad; page images
+      still owed, RETRIEVAL item 9).
+    - §I — *Rot. Parl.* v, the Windsor report ("by all the waies and
+      meanes that they cowede thynke"; "but they cowede gete noo answere
+      ne signe"; "Protectorem & Defensorem… quamdiu Regi placeret").
+      The §III protectorate formula is covered, because Lander prints
+      Rot. Parl. v 242 in full at p. 76 and Lander IS in corpus; the §I
+      report is not.
+    - §II — Maitland 1901 ("metaphysiological nonsense"; "an idle jest
+      to say that the king never dies"; "all the wheels of state").
+    - §VII — the Elton-debate wording carried from the open Collinson
+      memoir ("took leave of the Middle Ages"; "Cromwell, not Henry…
+      really the government"; "overstated [Cromwell's] systematic
+      approach"). Flagged [GAP] in the text already.
+    - §VIII — Starshield "owned and controlled by the US government"
+      (SpaceNews); the leading small groups as "informal, off-the-books
+      mechanisms" (Miller, *China Leadership Monitor* 44); the Starlink
+      account and the Ritter count (no verbatim quotation, sources named).
+    - §IX — the DSA Art. 41 words ARE in corpus (Reg. (EU) 2022/2065);
+      the SEC's "ordinary business" (SLB 14E) and OpenAI's "not
+      consistently candid in his communications" are not; Anthropic's
+      "could be a democratic process wherein diverse stakeholders provide
+      input" reaches the draft at one remove through Lepore and is
+      flagged [PRIMARY OWED] in the text.
+
+STATUS (Revisions 14): PENDING HUMAN REVIEW. Draft changed this run —
+see ch09/draft.md Revisions 3.

@@ -1,9 +1,9 @@
 # Chapter 9 — The King's Two Bodies, Broken
 
 *DRAFT (first draft, 2026-08-02; renovated 2026-09-16, Phase 5 Part
-B1) — written against ch09/memo.md (REVIEWED 2026-07-31, with Addendum;
-Revisions 2–10 and the Part B1 section of 2026-09-16, PENDING),
-ch09/critiques.md, and ch09/sources.md; opens from ch08/draft.md's
+B1; renovated 2026-09-29, Phase 6, Sheet III Decisions 9, 20, 23, 25,
+26) — written against ch09/memo.md (REVIEWED 2026-07-31, with Addendum;
+Revisions 2–14, PENDING), ch09/critiques.md, and ch09/sources.md; opens from ch08/draft.md's
 close (the monopoly's executive is a person) and closes into ch10.
 Author–date citations inline; conventions as established. Roll and
 Plowden quotations from the open scans, spelling intact; Bagehot cited
@@ -39,8 +39,9 @@ between what the constitution appeared to be and what it could
 effectively do — between a crown whose authority the lords would not
 touch and a government that had to be carried on around it — and the
 two occasions on which England measured that distance within a single
-reign: a minority, which was designed and which worked, and an
-incapacity, for which no office could be designed at all.
+reign: a minority, which was designed and which held, if not without a
+crisis that nearly broke it, for fifteen years, and an incapacity, for
+which no office could be designed at all.
 
 Chapter 8 ended by observing that the machinery of the coming
 judicial monopoly was operated in the name of a person — anointed,
@@ -58,8 +59,16 @@ gloss: "The King is always adjudged in Law of full Age"). Blackstone
 would carry the maxim into the classical constitution: the king never
 dies. It is elegant, it is functional, and it contains a single
 unexamined premise on which everything in this chapter turns: the
-doctrine presumes that the natural body *executes*. The body politic
-is void of defects precisely because the body natural does the work
+doctrine presumes that the natural body *executes*. (The modern
+vocabulary for the same split is Krasner's, and it is worth having in
+view from the start: "Domestic sovereignty involves both authority and
+control, both the specification of legitimate authority within a polity
+and the extent to which that authority can be effectively exercised"
+(Krasner 1999: 4), a distinction he states again as two questions —
+"what authority structures are recognized within a state, and how
+effective is their level of control?" (Krasner 1999: 10). The
+fifteenth-century problem is what becomes of a constitution in which
+both are vested in one body.) The body politic is void of defects precisely because the body natural does the work
 and the fiction absorbs the flaws. Where the work outgrows the
 worker — where the demands on the natural body exceed what any
 natural body can supply — the fiction faces a choice it was not
@@ -182,6 +191,88 @@ it — for a child — and could not lawfully institutionalise the
 simulation for a broken adult. The fiction permitted a fiction, and
 forbade a solution.
 
+The distinction the lords drew without naming it has a name in the
+English constitutional tradition, and the name arrives four centuries
+late, from an author who took care to say that he was not describing
+this period at all. Walter Bagehot divided the constitution into two
+sets of parts: "those which excite and preserve the reverence of the
+population—the DIGNIFIED parts, if I may so call them; and next, the
+EFFICIENT parts—those by which it, in fact, works and rules," because
+"every constitution must first GAIN authority, and then USE authority"
+(Bagehot 1867, "The Cabinet," PDF p. 21). His caveat travels with every
+use made of him here — "I am not, of course, now speaking of the middle
+ages: I am not dealing with the embryo or the infant form of our
+Constitution; I am only speaking of its adult form" (Bagehot 1867, "The
+House of Lords," PDF p. 48) — and the claim entered on the Roll's
+evidence is correspondingly modest: not that his adult form existed in
+1454, but that the anatomy he described in its maturity can be seen, in
+its involuntary first version, in the drafting. At Windsor sat a part
+that could gain authority and could not use it, whose "auctoritee"
+York's protestation was careful to leave where it lay; at Westminster
+the lords assembled a part that could use nothing except by borrowing
+an authority it dared not claim, and borrowed it therefore under a
+title chosen to deny the borrowing — so that what Watts calls the
+manufacture of an artificial royal will is the efficient part being
+assembled while the dignified part sat insensible at Windsor. The
+genealogy is his own, and he draws it from
+this chapter's case: reverence and capacity are "transmitted according
+to" different laws, and "very soon that line comes to a child or an
+idiot, or one by some defect or other incapable. Then … the grave
+council begins not so much to suggest as to inculcate, not so much to
+advise as to enjoin" (Bagehot 1867, "Conclusion," PDF p. 103). A child,
+an idiot, one by some defect incapable: 1422, 1453, 1392 — his three
+terms are this chapter's three cases, the word for the second of them
+quoted as his and not adopted, and he knew where in English history
+they lay, observing of the ante-Tudor period that "some monarchs were
+imbecile" and that the mediaeval Parliament was not, like his own, "a
+ruling body" but "an EXPRESSIVE body" (Bagehot 1867, "Conclusion," PDF
+p. 104). What must travel with the borrowing is a disanalogy he himself
+supplies, because the error it guards against is an easy one: the
+dignified parts were never decoration. He calls them decoration in one
+place — "retained, not for intrinsic use, but from their imaginative
+attraction upon an uncultured and rude population," like "the
+additional and solely-ornamental wheels introduced into the clocks of
+the Middle Ages," so that "all such ornamental work is a source of
+friction and error" (Bagehot 1867, "On Changes of Ministry," PDF p.
+83) — and the condition of everything in another: they "are the
+preliminaries, the needful prerequisites of ALL work. They raise the
+army, though they do not win the battle" (PDF p. 21); and of the
+monarchy of his own day, "the use of the Queen, in a dignified
+capacity, is incalculable. Without her in England, the present English
+Government would fail and pass away" (Bagehot 1867, "The Monarchy I,"
+PDF p. 30). The two passages are one doctrine and not a contradiction —
+ornamental as administration, indispensable as authority — and the
+fifteenth century had found it out the hard way, because the lords
+could not do without the king they could not use: the insensible body
+at Windsor was the only thing in the kingdom that could raise the army
+York was appointed to lead. In the personal monarchy proper the two
+parts had been one body; 1422 to 1455 is the involuntary separation
+from which the designed one descends; and the negative drafting of
+March 1454 refused to make that separation lawful. What this book takes
+from Bagehot is the distinction. What it declines is his valuation, and
+the refusal has to be visible, because for him the separation of
+reverence from rule is not a condition to be measured but the merit of
+every working constitution and the glory of England's: supreme power
+resides "not necessarily or commonly in the whole people … but in a
+CHOSEN people, a picked and selected people" (Bagehot 1867, "The
+Cabinet," PDF p. 28), and "the apparent rulers of the English nation
+are like the most imposing personages of a splendid procession … The
+real rulers are secreted in second-rate carriages" (Bagehot 1867,
+"Prerequisites," PDF p. 101). This book treats the distance between the
+two sets of parts as a quantity rather than a virtue — it can widen or
+close, it can be hidden or shown, and it can be measured, which is the
+use Part III makes of it — and it notes here, without pursuing it, that
+the same distinction has since been turned on the elected institutions
+themselves, by Colin Crouch, writing against Bagehot's complacency
+rather than from it: "it is difficult to dignify it as democracy
+itself" (Crouch 2000, PDF p. 8). That belongs to the settlement, and the
+settlement is Part III's subject. What this chapter has to establish is
+narrower: that a constitution can carry, for a term, a dignified part
+with all the authority and an efficient part with all the work, that
+the fifteenth century did so twice, and that only the occasion on which
+the separation had a known end proved survivable — which is the
+business of the section that follows.
+
 ## IV.
 
 The minority is the control, and the chapter must set it out with
@@ -218,8 +309,10 @@ law, none in fact, and might recover either at any hour. That the
 one formula produced two such different offices is this book's
 observation on the record, not Griffiths's; it is marked as such.
 
-And the designed office worked — with a hedge the chapter states
-against the strongest statement of the contrary view. Tilly, whose
+And the designed office worked, in the qualified sense the record will
+bear — with the hedge stated here rather than left for a reader to
+supply, and stated against the strongest statement of the contrary
+view. Tilly, whose
 account of state-making this book has treated as its ancestor from
 Chapter 3 onward, holds as a rule that armed lords were at once the
 king's necessary auxiliaries and his rivals, and "for that reason,
@@ -250,8 +343,10 @@ Griffiths's careful phrase, "vulnerable to the exhortations and
 solicitations of those about him" (Griffiths 1981: 240) — a
 vulnerability that belongs to the next crisis, not to this one.
 Fifteen years, one explosion contained by parliament, no civil war:
-against Tilly's rule, that is the exception, and it is claimed as
-one. Why England escaped the rule is a further question, and the
+against Tilly's rule, that is the exception, and it is claimed as one
+and claimed narrowly — a single run, in one kingdom, which complicates
+a generalisation drawn from the whole of Europe before the seventeenth
+century without overturning it. Why England escaped the rule is a further question, and the
 chapter's answer is an inference marked as its own: the minority
 had what the incapacity lacked, a settled succession and a certain
 horizon, and it had what Tilly's regencies lacked, a war abroad
@@ -307,8 +402,10 @@ it, because the constitution's own premise — authority lives in
 the person — re-asserted itself at every recovery, every
 relapse, every death.
 
+## VI.
+
 The century's full experimental record confirms the pattern in
-its form and, read with the previous section in mind, denies it
+its form and, read with the previous sections in mind, denies it
 in its results. In 1422, the negative title, the capped
 patronage, the quorate council, commissions running "as long as
 it liked the Kyng." In 1454, the negative definition. In 1455–56,
@@ -319,9 +416,17 @@ Henry V while elaborately preserving each kingdom's separate laws
 — the dual monarchy as a personal union precisely *not* an
 institutional merger. Limited, revocable, council-bound, and
 protective of the personal constitution each was built to
-relieve: the fifteenth century ran the regency experiment perhaps
-half a dozen times in two kingdoms, and every run returned the
-same *form*. It did not return the same result. The minority's
+relieve: the runs of the experiment the record preserves — and
+there were several in each kingdom — returned the same *form*.
+They did not return the same result, and the difference between
+the results is not a matter of how many runs there were. A
+minority was an office temporarily filled by a council; an
+incapacity was an office that could not be filled at all; and the
+two failed differently rather than identically. That distinction,
+and not a tally, is what the argument rests on, because Tilly's
+rule is stated for the whole of Europe before the seventeenth
+century and no count taken in two kingdoms could meet it (Tilly
+1985, "Violence and Government," para. 4). The minority's
 run held for fifteen years and ended on schedule; the incapacity's
 runs lasted months and ended at the king's pleasure or, on
 Lander's reading, at the failure of a manoeuvre; the French runs
@@ -333,159 +438,6 @@ variable, not the form, that the rest of this chapter follows.
 succeeding only where the personal constitution's premise was
 suspended by nature for a known term — is this book's reading of
 an open fact-pattern, and is marked as the book's own.)
-
-## VI.
-
-The distinction the lords of 1454 drew without naming — between a
-crown that could confer authority and a council that could
-exercise it — has a name in the English constitutional tradition,
-and the name arrives four centuries late, from an author who took
-care to say he was not describing this period at all.
-
-"I am not, of course, now speaking of the middle ages," Walter
-Bagehot wrote in 1867; "I am not dealing with the embryo or the
-infant form of our Constitution; I am only speaking of its adult
-form" (Bagehot 1867, "The House of Lords," PDF p. 48). The caveat
-travels with every use of him here, and the chapter's claim is
-correspondingly modest: not that his adult form existed in 1454,
-but that the anatomy he described in its maturity can be seen, in
-its involuntary and unlawful first version, in the drafting of the
-Roll. His anatomy is this. Old constitutions that rule mixed
-populations divide into two parts: "first, those which excite and
-preserve the reverence of the population—the DIGNIFIED parts, if I
-may so call them; and next, the EFFICIENT parts—those by which it,
-in fact, works and rules," because "every constitution must first
-GAIN authority, and then USE authority" (Bagehot 1867, "The
-Cabinet," PDF p. 21). Put the sentence beside the Roll and the
-correspondence is exact. At Windsor sat a dignified part in its
-purest possible form — a crown that could gain authority and could
-not use it, whose "auctoritee" York's own protestation left
-untouched; at Westminster the lords assembled an efficient part
-that could use nothing except by borrowing an authority it dared
-not claim, and therefore borrowed it under a name chosen to deny
-the borrowing. Watts's "artificial royal will" is the efficient
-part being manufactured while the dignified part sat at Windsor;
-and the reason the manufacture could not be made lawful is the
-reason Bagehot gives for the adult form's success — that in
-England the separation was eventually made, and then hidden.
-
-The genealogy is his, not the book's, and it is drawn from exactly
-this chapter's case. In the primitive polity, he writes, "the
-reverential associations upon which the government is built are
-transmitted according to one law, and the capacity needful to work
-the government is transmitted according to another law. The
-popular homage clings to the line of god-descended kings; it is
-transmitted by inheritance. But very soon that line comes to a
-child or an idiot, or one by some defect or other incapable. Then
-… the listening assembly begins not only to murmur, but to speak;
-then the grave council begins not so much to suggest as to
-inculcate, not so much to advise as to enjoin" (Bagehot 1867,
-"Conclusion," PDF p. 103). A child, an idiot, one by some defect
-incapable: 1422, 1453, 1392 — his three terms are this chapter's
-three cases, and the word for the second of them is his and not
-this book's. He knew where in English history the cases lay. Of
-the ante-Tudor period he observes that "the title to the Crown was
-uncertain; some monarchs were imbecile," and that the mediaeval
-Parliament was not, like his own, "a ruling body" but "an
-EXPRESSIVE body," whose function was to tell the king what the
-nation would and would not endure (Bagehot 1867, "Conclusion,"
-PDF p. 104). What the lords of 1454 built was an expressive body
-trying, under a title that forbade it, to become a ruling one.
-Bagehot's England is the same separation carried through and then
-concealed: constitutional royalty "acts as a DISGUISE. It enables
-our real rulers to change without heedless people knowing it"
-(Bagehot 1867, "The Monarchy I," PDF p. 36); "it is needful to
-keep the ancient show while we secretly interpolate the new
-reality" (Bagehot 1867, "Conclusion," PDF p. 106). Between the two
-lies the personal monarchy proper, in which the parts were one
-body: even in the 1770s, he notes, "George III. was the
-Government. Lord North was not only his appointee, but his agent"
-(Bagehot 1867, "The Monarchy II," PDF p. 37). That is the
-substance of his scope caveat, and it is why 1422 and 1454 are the
-right places to look for the anatomy's origin: they are the years
-in which nature performed the separation the constitution had not
-yet learned to perform for itself, and the lords refused, in
-writing, to make what nature had done lawful.
-
-The disanalogy that must travel with the bridge is one Bagehot
-himself supplies, and it is stated here in his terms because the
-error it guards against is an easy one. The dignified parts were
-never decoration. He says, in one place, that they are exactly
-that — "retained, not for intrinsic use, but from their imaginative
-attraction upon an uncultured and rude population," and like "the
-additional and solely-ornamental wheels introduced into the clocks
-of the Middle Ages," so that "all such ornamental work is a source
-of friction and error" (Bagehot 1867, "On Changes of Ministry,"
-PDF p. 83). And he says, in another, that they are the condition
-of everything: "The dignified parts of Government are those which
-bring it force—which attract its motive power. The efficient parts
-only employ that power … They may not do anything definite that a
-simpler polity would not do better; but they are the preliminaries,
-the needful prerequisites of ALL work. They raise the army, though
-they do not win the battle" (Bagehot 1867, "The Cabinet," PDF
-p. 21); and, of the monarchy of his own day, "the use of the Queen,
-in a dignified capacity, is incalculable. Without her in England,
-the present English Government would fail and pass away" (Bagehot
-1867, "The Monarchy I," PDF p. 30). The two passages are one
-doctrine, not a contradiction: ornamental as administration,
-indispensable as authority. The fifteenth century had already
-found this out the hard way. The lords could not do without the
-king they could not use, because the insensible body at Windsor
-was the only thing in the kingdom that could raise the army York
-was appointed to lead — which is why the protestation left the
-"exercice of his auctoritee" in the king and took only a "personell
-duete" for the protector. A dignified part that had ceased to
-function would have released them. A dignified part that went on
-functioning while its natural body sat slumped in a chair bound
-them, and the Roll is the record of the binding.
-
-What the book takes from Bagehot is the distinction. What it
-declines is his valuation, and the refusal has to be visible,
-because for him the separation of reverence from rule is not a
-condition to be measured but the merit of every working
-constitution and the glory of England's. Popular government, in
-his account, means that supreme power resides "not necessarily or
-commonly in the whole people … but in a CHOSEN people, a picked and
-selected people" (Bagehot 1867, "The Cabinet," PDF p. 28); "the
-apparent rulers of the English nation are like the most imposing
-personages of a splendid procession … The real rulers are secreted
-in second-rate carriages" (Bagehot 1867, "Prerequisites," PDF
-p. 101); and of the monarchy, "its mystery is its life. We must not
-let in daylight upon magic" (Bagehot 1867, "The Monarchy II," PDF
-p. 37). This book treats the distance between a constitution's
-dignified and efficient parts as a quantity, not a virtue: it can
-widen or close, it can be hidden or shown, and it can be measured
-— which is the use Part III makes of it. Bagehot's own theory
-concedes the point that matters most for that use. A polity
-resting on deference is, he says, in "unstable equilibrium," and
-once the equilibrium is disturbed "there is no tendency to return
-to it" (Bagehot 1867, "Prerequisites," PDF p. 102): the disguise
-works only while it is not seen through, and a separation that has
-been demonstrated is, on his own account, a separation that has
-begun to fail. He adds an observation that the fifteenth century
-confirms and that Part III will need: the ante-Tudor kings could
-not have manufactured a compliant assembly even had they wished
-to, because "the instrument in that behalf is the centralised
-executive, and there was then no 'prefet' by whom the opinion of a
-rural locality could be made to order" (Bagehot 1867, "Conclusion,"
-PDF p. 104). The lords of 1454 were an unsymmetrical reality
-because nobody yet possessed the means to make them a symmetrical
-sham. Whether the present possesses those means is a question this
-chapter does not answer. It notes only that the same distinction
-has since been applied, by an author writing against Bagehot's
-complacency rather than from it, to the elected institutions
-themselves: that "while the forms of democracy remain fully in
-place … politics and government are increasingly slipping back into
-the control of privileged elites," so that "it is difficult to
-dignify it as democracy itself" (Crouch 2000, PDF pp. 2, 8). The
-echo of Bagehot's word in Crouch's sentence is noticed here and
-not pursued; it belongs to the settlement, and the settlement is
-Part III's subject. What this chapter has to establish is narrower
-and is now established: that a constitution can carry, for a term,
-a dignified part with all the authority and an efficient part with
-all the work, that the fifteenth century did so twice, and that
-only the occasion on which the separation had a known end was
-survivable.
 
 ## VII.
 
@@ -535,10 +487,12 @@ the accident of a king's health but by design.
 ## VIII.
 
 Five centuries after the relief, the personal constitution has
-returned — not in the residual monarchies, where the two bodies
-were separated by design and the dignified one, on Bagehot's
-account, still raises the army the efficient one commands, but in
-the charters of the new continental institutions, where the two
+returned — not in the residual monarchies, which are not the weak
+case but the demonstration, the one surviving form in which a
+separated dignified part can be watched doing its work, since on
+Bagehot's account the half that does not command still raises the
+army the half that commands employs; it has returned in the
+charters of the new continental institutions, where the two
 bodies are one again, and load-bearing, and growing.
 
 The documentation is the institutions' own. Meta's proxy statement
@@ -595,6 +549,16 @@ six of eleven at the count in the open literature —
 of which were then upgraded into formal Commissions: the
 routinisation datum, personal authority being re-clothed in
 institutional dress even as it concentrates (Miller, Hoover).
+(Cheung's account of the same apparatus states the two-body
+exposure in terms this chapter recognises: the national security
+commission is "a personalistic symbol of Xi's command of the NSS"
+(Cheung 2022: 67); authority is "hyperconcentrated under Xi's
+authority," held simultaneously in the chairmanships of three
+commissions (Cheung 2022: 284); and the deputies "lack the
+political qualifications to take over in anything more than a
+short-term acting capacity," an overconcentration he calls "the
+gravest risk" to the system's prospects (Cheung 2022: 285–86).
+The judgement is his, and it is a judgement about an office.)
 And the American experiment in personalised authority *inside*
 the state ran its full arc within a single year, and is
 recorded here as the dated episode it is: a department of
@@ -602,7 +566,13 @@ government efficiency created by executive order in January
 2025, animated by the same extreme case above, exited by its
 animating person that May, and disbanded by November (OPM) —
 created by order, dissolved by interview, its claimed savings
-contested. Across systems — proxy statement, executive order,
+contested. It had a programme as well as an animator, which is
+worth recording because it makes the episode a design rather
+than a whim: on Jill Lepore's account the department "drew its
+inspiration from RAGE—Retire All Government Employees—by the
+neo-monarchist Curtis Yarvin," whose "aim was to replace humans
+with bots" (Lepore, printed p. 112 / PDF p. 126; the pin is
+provisional and the characterisation of Yarvin is hers). Across systems — proxy statement, executive order,
 party constitution — the signature is identical: authority
 migrating from office to person, then, under load, being
 hastily re-clothed in improvised institutional dress. The
@@ -614,8 +584,12 @@ Whether the improvisations mature is the pending question, and
 the honest answer is that the record cuts both ways — which is
 what a transition looks like from inside.
 
-The substitutes are institutionalising. Trust-and-safety has
-professionalised into a discipline with a standards body and now
+The substitutes are institutionalising, unevenly, and the
+unevenness is itself instructive: where a legislature or a
+regulator has done the institutionalising, the instrument exists
+and binds; where the institution was announced by the body it was
+to constrain, some of it was never built at all. Trust-and-safety
+has professionalised into a discipline with a standards body and now
 an ISO standard; the European legislator has written the
 counterweight into law — the Digital Services Act requires the
 largest platforms to establish "a compliance function,
@@ -625,13 +599,28 @@ not be removed without prior approval of the management body"
 discretion, the conciliar ordinance of 1403 re-enacted as
 European regulation. The AI governance layer is acquiring
 offices — the UK's institute, its American counterpart, the EU
-AI Office with its growing staff — and the frontier labs have
-begun writing their own regency instruments: Anthropic's
-Long-Term Benefit Trust, a class of stock held by trustees who
-will elect a board majority — a constitutional device for
-placing the institution's long-run interest beyond any single
-natural body (primary announcement). Even the securities
-regulator has formalised the two-body problem: since 2009, CEO
+AI Office with its growing staff — and one instrument among the
+frontier labs is a matter of corporate law rather than
+announcement: Anthropic's Long-Term Benefit Trust, a class of
+stock held by trustees who will elect a board majority, a device
+for placing the institution's long-run interest beyond any single
+natural body (primary announcement). The constitutional
+announcements made alongside such instruments are a different
+matter, and nothing here rests on them. Anthropic's own proposal
+that a constitution for powerful AI systems "could be a democratic
+process wherein diverse stakeholders provide input" produced, on
+Jill Lepore's account, neither of the bodies it named — "No
+promised world governance board was ever assembled … no
+constitutional convention was ever held" — and the constitution
+that was published "was written chiefly by a philosopher working
+for Anthropic" (Lepore, printed p. 106 / PDF p. 120; pins
+provisional). She is a pointer rather than the authority: the
+negative belongs at the labs' own documents, and this chapter
+counts an instrument whose constitutional character was announced
+and not built as no evidence of institutionalisation at all
+[PRIMARY OWED: the labs' published governance documents against
+the announcements]. Even the securities regulator has formalised
+the two-body problem: since 2009, CEO
 succession is a governance matter shareholders may raise, not
 "ordinary business" the board may keep to itself (SEC Staff
 Legal Bulletin 14E).
@@ -647,8 +636,19 @@ investors, the essential commercial partner. The substitute
 existed, and acted, and could not hold — Charles VI's lucid
 interval in corporate form, the returning person
 re-personalising the constitution that had briefly operated
-without him. Institutionalisation of the new political bodies
-is pending, not achieved; the two-bodies problem of the
+without him. (Bagehot's own prototype of the returning natural
+body was George III, whose reign he treated as the standing
+warning of constitutional royalty — "We have had the case of a
+meddling maniac," and, of such a king's rule, "a secret power
+which is always eager, which is generally obstinate, which is
+often wrong … which is irresponsible because it is inscrutable,
+which cannot be prevented because it cannot be seen" (Bagehot
+1867, "The Monarchy II," PDF p. 46) — the same king of whom he
+wrote that in the 1770s he "was the Government" (Bagehot 1867,
+"The Monarchy II," PDF p. 37). The epithets are his, and they are
+quoted as a Victorian judgement on an office, never as this
+book's description of any person.) Institutionalisation of the new
+political bodies is pending, not achieved; the two-bodies problem of the
 platform age is live, and Chapter 12 weighs it where it bears
 hardest — in the Chinese candidacy, whose settlement is being
 executed as personal rule, and in the succession clauses of every
@@ -677,9 +677,30 @@ happens to a constitution when its efficient part migrates — out
 of the office, out of the assembly, into the stack and the
 persons who hold it — and its dignified part stays, gaining an
 authority it no longer uses, raising an army it no longer
-commands. Bagehot's answer for 1867 was the disguise, kept
-deliberately and, he thought, to England's credit. Whether the
-democratic bloc's answer is the same one, in whose favour the
+commands. Two of Bagehot's own observations mark the ground on which
+that question will be fought. The first is a concession his
+theory makes and his confidence does not: a polity resting on
+deference is in "unstable equilibrium," and once the equilibrium
+is disturbed "there is no tendency to return to it" (Bagehot
+1867, "Prerequisites," PDF p. 102), so that a separation which
+has been demonstrated is, on his own account, a separation that
+has begun to fail. The second is a condition the fifteenth
+century did not meet and the present may: the ante-Tudor kings
+could not have manufactured a compliant assembly even had they
+wished to, because "the instrument in that behalf is the
+centralised executive, and there was then no 'prefet' by whom the
+opinion of a rural locality could be made to order" (Bagehot
+1867, "Conclusion," PDF p. 104). The lords of 1454 were an
+unsymmetrical reality because nobody yet possessed the means to
+make them a symmetrical sham; whether the present possesses those
+means is a question this chapter does not answer. Bagehot's own
+answer for 1867 was the disguise — constitutional royalty "acts
+as a DISGUISE. It enables our real rulers to change without
+heedless people knowing it" (Bagehot 1867, "The Monarchy I," PDF
+p. 36), and "it is needful to keep the ancient show while we
+secretly interpolate the new reality" (Bagehot 1867,
+"Conclusion," PDF p. 106) — kept deliberately and, he thought, to
+England's credit. Whether the democratic bloc's answer is the same one, in whose favour the
 disguise is kept, and whether the separation can be demonstrated
 rather than merely suspected — which on Bagehot's own theory
 would be the beginning of its end — are the questions Chapter 12
@@ -703,39 +724,48 @@ next chapter opens its account books.
 
 ---
 
-*Draft ends. Word count ~6,700 at the 2026-09-16 renovation (from
-~3,200; the growth is the ruled matter of §§III–IV, VI and IX;
-Kantorowicz, Famiglietti/Autrand, the Elton-debate texts and
-Poguntke & Webb still thicken §§II, V and VII at the upgrade
-pass). Voice-discipline ledger (counted as produced): coined
-concept — NONE ("weak thesis" is the book's label, marked (c);
-"artificial king/royal will" are Watts's, credited; "dignified" and
-"efficient" are Bagehot's, credited at every use; "ornamental" is
-his word for the clock-wheels and is quoted as his; no coinage is
-claimed from the bridge and the term Part III uses is not used
-here); vivid image — the protectorate as "scaffolding built around
-the throne on the strict condition that it touch nothing" (§III) —
-UNCHANGED, the chapter's one image; Bagehot's images ("They raise
-the army," "daylight upon magic," "second-rate carriages," the
-clock-wheels) are quotations, not images of the book's; aphoristic
-line — "A constitution that lives in a body can die by one" (§I).
-Quotable lines the renovation produced, listed for the ration and
-NOT claimed: "The fiction permitted a fiction, and forbade a
-solution" (§III, pre-existing, now counted); "ornamental as
-administration, indispensable as authority" (§VI — a compression
-of Bagehot's two passages, first formulated in critiques Objection
-6); "The form was the constant. The variable was whether the person
-at the centre of the form had a will" (§V); "nature performed the
-separation the constitution had not yet learned to perform for
-itself" (§VI); "gaining an authority it no longer uses, raising an
-army it no longer commands" (§IX — built on Bagehot's sentence). If
-Roderick judges the ration exceeded, the §V and §IX lines are the
-candidates for flattening. [GAP] flags: Kantorowicz;
-Famiglietti/Autrand; the Elton-debate texts. Zuckerberg pinned to
-the 2026 proxy; SpaceX control reported-only; Starlink/Crimea in
-the corrected declined-to-enable form, attributed; DOGE and the
-OpenAI board drafted as dated episodes. No claim beyond the
-reviewed memo and its 2026-09-16 Revisions.*
+*Draft ends. Word count ~6,950 at the 2026-09-29 renovation (from
+~6,650 at 2026-09-16 and ~3,200 at first draft; the Phase 6 movement
+is net small because the Bagehot section was compressed into one
+bridge paragraph at §III's close as ruled, and the Bagehot matter
+that was not bridge matter was redistributed to §§VIII–IX;
+Kantorowicz, Famiglietti/Autrand and the Elton-debate texts still
+thicken §§II, V and VII at the upgrade pass). Voice-discipline ledger
+(counted as produced): coined concept — NONE ("weak thesis" is the
+book's label, marked (c); "artificial king/royal will" are Watts's,
+credited; "dignified" and "efficient" are Bagehot's, credited at
+every use; "ornamental" is his word for the clock-wheels and is
+quoted as his; no coinage is claimed from the bridge, and the term
+Part III uses — ch12's — does not appear here); vivid image — the
+protectorate as "scaffolding built around the throne on the strict
+condition that it touch nothing" (§III) — UNCHANGED, the chapter's
+one image, and the Phase 6 matter adds none; Bagehot's images ("They
+raise the army," "second-rate carriages," the clock-wheels, the
+disguise, the 'prefet') are quotations, not images of the book's;
+aphoristic line — "A constitution that lives in a body can die by
+one" (§I). Quotable lines the chapter now produces, listed for the
+ration and NOT claimed: "The fiction permitted a fiction, and forbade
+a solution" (§III); "ornamental as administration, indispensable as
+authority" (§III's bridge — a compression of Bagehot's two passages,
+first formulated in critiques Objection 6); "The form was the
+constant. The variable was whether the person at the centre of the
+form had a will" (§VI); "The lords of 1454 were an unsymmetrical
+reality because nobody yet possessed the means to make them a
+symmetrical sham" (§IX, carried from the deleted section); "gaining
+an authority it no longer uses, raising an army it no longer
+commands" (§IX — built on Bagehot's sentence). Deleted with the old
+§VI: "nature performed the separation the constitution had not yet
+learned to perform for itself". If Roderick judges the ration
+exceeded, the §VI and §IX lines are the candidates for flattening.
+[GAP] flags: Kantorowicz; Famiglietti/Autrand; the Elton-debate
+texts. [PRIMARY OWED] at §IX (the labs' published governance
+documents against the announcements; Lepore is the pointer only).
+Zuckerberg pinned to the 2026 proxy; SpaceX control reported-only;
+Starlink/Crimea in the corrected declined-to-enable form, attributed;
+DOGE and the OpenAI board drafted as dated episodes, DOGE now with
+its programme credited to Lepore on a provisional pin. No claim
+beyond the reviewed memo and its 2026-09-16 and 2026-09-29
+Revisions.*
 
 ## Revisions
 
@@ -783,6 +813,60 @@ reviewed memo and its 2026-09-16 Revisions.*
    (Griffiths p. 725 reads "restethe thexcercice"; no scan in
    corpus) — [RE-CHECK AT PRESS].
 
+3. **(2026-09-29 — Phase 6 renovation: Decisions 9, 20, 23, 25, 26
+   of Sheet III; spine §8(i). PENDING HUMAN REVIEW.)** Five changes,
+   each recorded sentence by sentence in ch09/memo.md Revisions 14.
+   (i) **Decision 26 — the bridge.** The Bagehot bridge now closes
+   §III in ONE paragraph, as ruled: the genealogy quoted ("a child
+   or an idiot", PDF p. 103), the scope caveat stated (PDF p. 48),
+   the both-halves disanalogy stated in his own words (PDF pp. 83,
+   21, 30), his valuation refused (PDF pp. 28, 101), Crouch's
+   "difficult to dignify it as democracy itself" (PDF p. 8) beside
+   him without the term, and no new image. The standing Bagehot
+   section written at Phase 5B (old §VI, three paragraphs, 1,601
+   words) is therefore gone: the ruling chose the close of §III over
+   a section of its own, and a section that announces a concept
+   whose home is ch12 is the thing the ruling refuses. Its
+   non-bridge matter was redistributed, not discarded — George III
+   to a note at §IX's OpenAI passage (Decision 23), the "unstable
+   equilibrium" and the 'prefet' to §IX's forward-pointing close,
+   the disguise and the "ancient show" to the same place. To hold
+   the section numbering that ch12 and the Coda cite (§§VIII–IX),
+   old §V's two paragraphs — France's legislated substitute, and the
+   century's experimental record — now stand as §V and §VI. That
+   split is a structural judgement of this run, recorded for
+   Roderick and reversible; the alternative was renumbering the
+   chapter to eight sections and breaking live cross-references in
+   files this unit does not own. (ii) **Decision 26 — the ceremony
+   clause TURNED**, not softened: §VIII's opening now makes the
+   residual monarchies the demonstration that a separated dignified
+   part is load-bearing, and stops before the modern case. (iii)
+   **Decision 9, ch09's part.** Both sentences hedged — §I's "which
+   was designed and which worked" and §VI's regency count — and the
+   minority-versus-incapacity distinction now carries the weight the
+   count was carrying ("a distinction survives a counter-example and
+   a count does not"); §IV's exception claimed narrowly against
+   Tilly by name. (iv) **Decisions 23 and 20 — the notes.** George
+   III (PDF pp. 46, 37), Krasner (authority against control, pp. 4,
+   10) at §I, and Cheung (pp. 67, 284–86) at §VIII's Xi paragraph
+   taken; Charles VII's court left to ch05 and ch11; the Zaphod
+   footnote NOT added (Roderick's taste). (v) **Decision 23 —
+   Lepore, both corrections applied** (qqqq): the DOGE sentence
+   gains the RAGE/Yarvin programme and the replace-humans-with-bots
+   aim (printed p. 112 / PDF p. 126), and §IX's institutionalising
+   reading is rebuilt so that it rests on no instrument whose
+   constitutional character was announced and not built (printed
+   p. 106 / PDF p. 120), with a [PRIMARY OWED] flag because she is
+   T3 and a pointer. All Lepore pins are provisional and carry both
+   printed and PDF page, with no imprint or year. Still no [BRIDGE]
+   paragraph in this chapter and no [BRIDGE — PROPOSED] written: the
+   bridge is the historian's comparison of two constitutional
+   designs, and §§VIII–IX ask a question of the substitutes rather
+   than asserting the platform analogy, which is Part III's. The
+   [OUTLINE CONFLICT] is recorded, not resolved, at memo Revisions
+   14: outline Structure 6–7 are subordinated to the ruled close per
+   Decision 25, and outline.md is unamended.
+
 ---
 
-STATUS: REVIEWED (Roderick, 2026-08-02) — approved as drafted; Revisions 1 (Phase 4 Run A) PENDING HUMAN REVIEW; Revisions 2 (Phase 5 Part B1, 2026-09-16) PENDING HUMAN REVIEW
+STATUS: REVIEWED (Roderick, 2026-08-02) — approved as drafted; Revisions 1 (Phase 4 Run A) PENDING HUMAN REVIEW; Revisions 2 (Phase 5 Part B1, 2026-09-16) PENDING HUMAN REVIEW; Revisions 3 (Phase 6 renovation, 2026-09-29) PENDING HUMAN REVIEW

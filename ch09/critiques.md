@@ -383,3 +383,126 @@ protestation spelling against RP V 242).
   question without naming ch12's coinage?
 
 *(Run pending; results to be pasted below with date.)*
+
+---
+
+## Flags and grades (2026-09-29 — Phase 6 renovation, Decisions 9, 20, 23, 25, 26. PENDING HUMAN REVIEW.)
+
+**Objection 6's condition — MET, and met better than by the deletion.**
+The condition the answer set was that both halves of Bagehot's doctrine
+and the refusal of his valuation stand in the text, not in the
+apparatus. Both now stand in one place, §III's closing bridge
+paragraph: the ornamental-wheels passage (PDF p. 83) against "They
+raise the army, though they do not win the battle" (PDF p. 21) and
+"Without her in England, the present English Government would fail and
+pass away" (PDF p. 30), resolved as ornamental as administration,
+indispensable as authority; and the valuation refused with pp. 28 and
+101 quoted and the distance restated as a quantity. **The turned
+ceremony sentence answers the condition's sharpest limb.** Phase 5B's
+softened clause removed the error but left the residual monarchies as a
+weak case, which conceded, by implication, that a separated dignified
+part is decoration wherever it is not doing the efficient part's work.
+The turn reverses the polarity: the residual monarchies are the
+*demonstration* — the one surviving constitutional form in which a
+separated dignified part can be observed doing its work, the half that
+does not command still raising the army the half that commands employs.
+That is the exact proposition Objection 6 accused the draft of
+contradicting, now asserted in the book's own voice, and it is the
+proposition Part III's prediction has to be able to describe. **Grade:
+the answer is no longer conditional on a note.** Residual exposure
+unchanged: "daylight upon magic" is now unused, so the instability
+concession carries that weight alone, at §IX (PDF p. 102).
+
+**Objection 7 — still met.** The scope caveat (PDF p. 48) is quoted
+where Bagehot is first cited, which is now §III rather than the deleted
+§VI; the genealogy (PDF p. 103) and the ante-Tudor observations (PDF
+p. 104) travel with it in the same paragraph, so the anachronism charge
+is answered before the distinction is used rather than after.
+
+**Objection 10 — unchanged in substance, sharpened in one place.** The
+fork is still planted at §IX and still not scored. What Phase 6 adds is
+that the chapter now refuses to count as institutionalisation any
+instrument whose constitutional character was announced and not built
+(Lepore's correction, printed p. 106 / PDF p. 120, at T3 with the
+primary owed). That narrows the objection's own evidence: the
+compliance function and the succession rule are statutory or
+regulatory, the announced constitutional conventions were not held, and
+the ornament/substitute question therefore now attaches to instruments
+that exist.
+
+### New objections opened by the Phase 6 matter
+
+**Objection 11 — The bridge has been compressed into a single paragraph
+carrying five jobs, and compression is where hedges go to die.** The
+steelman: a paragraph that quotes seven Bagehot passages, applies them
+to Windsor and Westminster, states a disanalogy, refuses a valuation
+and plants a modern question is doing the work of a section at the
+density of a footnote; a reader who does not already know Bagehot will
+take the distinction as the book's own frame rather than as a borrowed
+instrument with a caveat attached, and the "one paragraph" discipline
+will read as haste. **The chapter's answer.** The compression is the
+ruling (Decision 26), and its reason is the argument: a section
+announces a concept whose home is ch12, and the bridge is not a concept
+but a comparison of two constitutional designs. Every element the
+ruling required is present and attributed inline, the caveat comes
+second in the paragraph rather than last, and nothing in the paragraph
+is asserted of the present. **Graded adequate, and the residual risk is
+real:** if the paragraph is judged overloaded at review, the remedy is
+to move the ante-Tudor sentences (PDF p. 104) to a note, not to restore
+the section.
+
+**Objection 12 — The residual monarchies cannot be the demonstration,
+because what they demonstrate is a monarchy.** The steelman: Bagehot's
+functional claim is about a hereditary dignified part in a deferential
+society; a constitutional monarchy's crown raises no army in any sense
+a modern reader would accept, and the turn therefore proves a
+proposition about 1867 and smuggles it forward as a proposition about
+constitutions in general. **The chapter's answer.** The turned sentence
+claims only what Bagehot's own account claims, says so, and stops:
+"on Bagehot's account". It makes no claim about which modern
+institutions occupy either position, which is Part III's to argue and
+Appendix C's to score, and it is precisely because the residual case is
+observable that it is offered as the demonstration rather than as the
+prediction. **Graded good**, provided the sentence is never quoted
+without its attributive clause.
+
+**Objection 13 — The chapter now hedges the minority so heavily that
+the control has stopped controlling.** The steelman: §I says the
+minority "held, if not without a crisis that nearly broke it", §IV
+claims the exception "narrowly", and §VI abandons the count; a reader
+may ask what is left to contrast with the incapacity. **The chapter's
+answer.** The distinction is what is left, and it is stronger than the
+count it replaces: a minority was an office temporarily filled by a
+council, an incapacity an office that could not be filled at all, and
+the two failed differently rather than identically — Roderick's reason
+for the hedge, that a distinction survives a counter-example and a
+count does not, is the answer to the objection as well as the
+instruction that produced it. **Graded good.**
+
+### Flags
+
+No flag closed. **Narrowed:** §IX's institutionalising reading
+(Lepore's correction applied, with [PRIMARY OWED] against the labs'
+documents). **Opened:** [PRIMARY OWED] at §IX; the [OUTLINE CONFLICT]
+of memo Revisions 10 and 14 is now explicit in the memo with outline
+Structure 6–7 subordinated and outline.md unamended — Roderick's.
+**Standing:** the §II Kantorowicz, §V Famiglietti/Autrand and §VII
+Elton-debate [GAP]s; the York protestation spelling [RE-CHECK AT
+PRESS]; sources RETRIEVAL item 13 (the 1422 "priority of blood"
+quotation, still out of the draft). Section numbering held at I–IX by
+splitting old §V; recorded at memo Revisions 14(D).
+
+### For the Perplexity second-opinion run (added 2026-09-29)
+
+- Does the one-paragraph bridge at §III's close carry the scope caveat,
+  the genealogy, both halves of the disanalogy, the refusal of the
+  valuation and Crouch's line, without a new image and without ch12's
+  term?
+- Does §VIII's turned opening assert the residual monarchies as the
+  demonstration, and does it stop before the modern case?
+- Is the regency count gone, and does the minority/incapacity
+  distinction carry its weight with Tilly named?
+- Are the George III epithets credited to Bagehot as a judgement on an
+  office, and never used of any living person?
+- Does §IX rest on no instrument whose constitutional character was
+  announced and not built?

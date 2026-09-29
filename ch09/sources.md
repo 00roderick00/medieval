@@ -792,3 +792,71 @@ Revisions 13. Nothing applied to draft.md.*
   looks again:** the constitutional-appearance subject is hers, the
   medieval half of this chapter is untouched by her, and she supplies no
   carrier for the Bagehot bridge or for the term Part III uses.
+
+## Pins used in draft.md — Phase 6 renovation (2026-09-29; no new works)
+
+*Sheet III Decisions 9, 20, 23, 25, 26. Every pin below was re-opened at
+its sidecar this run before entering the draft; the entries above are
+unchanged. Citation forms as prescribed there.*
+
+- **Bagehot — USED (§III's bridge, §VIII, §IX).** §III's bridge, in one
+  paragraph: "The Cabinet" PDF p. 21 (the distinction; "GAIN … USE"; "are
+  the preliminaries, the needful prerequisites of ALL work. They raise the
+  army, though they do not win the battle"); "The House of Lords" PDF p. 48
+  (the scope caveat, quoted where he is first cited); "Conclusion" PDF
+  p. 103 (the genealogy); "Conclusion" PDF p. 104 ("some monarchs were
+  imbecile"; "an EXPRESSIVE body"); "On Changes of Ministry" PDF p. 83 (the
+  ornamental-wheels passage); "The Monarchy I" PDF p. 30 ("Without her in
+  England…"); "The Cabinet" PDF p. 28 and "Prerequisites" PDF p. 101 (the
+  valuation refused). §VIII: PDF pp. 21, 30 behind the turned clause.
+  §IX: **PDF p. 46 — NEW THIS RUN, verified** ("We have had the case of a
+  meddling maniac"; "a secret power which is always eager, which is
+  generally obstinate, which is often wrong … which is irresponsible
+  because it is inscrutable, which cannot be prevented because it cannot be
+  seen") with "The Monarchy II" PDF p. 37 ("was the Government"), together
+  forming the George III note; "Prerequisites" PDF p. 102 ("unstable
+  equilibrium"; "there is no tendency to return to it"); "Conclusion" PDF
+  p. 104 (the 'prefet' sentence — its initial "The" lowercased for the
+  embedding; the stack-as-*prefet* inference still NOT made); "The Monarchy
+  I" PDF p. 36 and "Conclusion" PDF p. 106 (the disguise and the ancient
+  show). NO LONGER USED (available): PDF p. 37's "daylight upon magic";
+  Crouch PDF p. 2 — both dropped with the deleted §VI.
+- **Crouch 2000 — USED (§III's bridge):** PDF p. 8 ("it is difficult to
+  dignify it as democracy itself"). The term "post-democracy" and ch12's
+  coined term are still not used in ch09.
+- **Krasner 1999 — USED (§I, note; NEW THIS RUN):** p. 4 / PDF 14
+  ("Domestic sovereignty involves both authority and control, both the
+  specification of legitimate authority within a polity and the extent to
+  which that authority can be effectively exercised"); p. 10 / PDF 20
+  ("what authority structures are recognized within a state, and how
+  effective is their level of control?"). Both verified. Krasner pp. 20, 29
+  (invitation) still NOT used here — ch12's.
+- **Cheung 2022 — USED (§VIII's Xi paragraph, note; NEW THIS RUN):** p. 67
+  / PDF 82 ("a personalistic symbol of Xi's command of the NSS"); p. 284 /
+  PDF 299 ("hyperconcentrated under Xi's authority", the three
+  chairmanships); pp. 285–86 / PDF 300–01 (the deputies' "short-term acting
+  capacity"; "the gravest risk"). All verified this run.
+- **Lepore — USED (§VIII, §IX; NEW THIS RUN, PINS PROVISIONAL, no imprint
+  or year):** printed p. 112 / PDF p. 126 (DOGE's inspiration in
+  "RAGE—Retire All Government Employees—by the neo-monarchist Curtis
+  Yarvin"; "His aim was to replace humans with bots"); printed p. 106 / PDF
+  p. 120 ("No promised world governance board was ever assembled … no
+  constitutional convention was ever held"; the published constitution "was
+  written chiefly by a philosopher working for Anthropic"; and Anthropic's
+  own "could be a democratic process wherein diverse stakeholders provide
+  input", quoted by her). She is cited inline by name at T3 as the pointer;
+  the negative is flagged **[PRIMARY OWED]** in the draft against the labs'
+  published governance documents. NOT USED: printed p. 210 / PDF p. 224
+  (the Zaphod footnote — Roderick's ruling of 29 September declines it, as
+  a matter of taste); printed p. 86 / PDF p. 97 (the Zuckerberg sentence);
+  printed p. 38 / PDF p. 49 and printed p. 94 / PDF p. 107 (the
+  administration/representation criterion — Decision 5's ch09 limb, left to
+  the ch12 unit).
+- **Griffiths 1981, Lander 1976, Tilly 1985, Watts — USED as previously
+  pinned**, with Tilly 1985 ("Violence and Government," para. 4) now cited
+  a third time, at §VI, where the regency count is replaced by the
+  minority/incapacity distinction.
+- **NOT USED (available; ruled out or left elsewhere):** Chastellain t. III
+  (Charles VII's court — Decision 23 leaves it to ch05 and ch11);
+  Chastellain t. VII (memo Revisions 12, unruled); Stasavage's Cortes;
+  Suleyman; Ertman p. 93; Glete pp. 195, 212.
